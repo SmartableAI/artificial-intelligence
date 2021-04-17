@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
+      "title": "India using facial recognition in schools is an ‘overreach’",
+      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "publishedDateTime": "2021-03-02T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure.md",
       "title": "Compute and storage updates are available for mission-critical applications on Azure",
       "excerpt": "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking.",
@@ -1121,49 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-deep-learning-algorithm-can-de-noise-images.md",
-      "title": "Deep-Learning Algorithm Can de-Noise Images",
-      "excerpt": "Currently, a type of software based on a machine-learning algorithm called deep learning has been shown to be effective at removing the blurriness or noise in images. These algorithms can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "originalUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://goodmenproject.com/wp-content/uploads/2021/02/iStock-12101056561.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "cdnAmpWebUrl": "https://goodmenproject-com.cdn.ampproject.org/c/s/goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "publishedDateTime": "2021-03-01T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Good Men Project",
-        "domain": "goodmenproject.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

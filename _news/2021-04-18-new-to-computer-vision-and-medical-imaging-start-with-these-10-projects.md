@@ -6,9 +6,9 @@ publishedDateTime: 2021-04-17T17:20:00Z
 originalUrl: "https://thenextweb.com/news/computer-vision-and-medical-imaging-start-with-10-projects-beginners-syndication"
 webUrl: "https://thenextweb.com/news/computer-vision-and-medical-imaging-start-with-10-projects-beginners-syndication"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: The Next Web
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Google AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fhero-.png&signature=cd61268df83fc72ad7dcae4ffc028246"

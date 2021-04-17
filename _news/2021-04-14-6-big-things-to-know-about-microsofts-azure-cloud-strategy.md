@@ -132,22 +132,6 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "Microsoft Will Buy AI Firm Nuance For $19.7 Billion To Bolster Healthcare Technology"
-    excerpt: "Microsoft is buying an Artificial intelligence speech firm from Nuance for $19.7 billion. It would use its software and artificial intelligence for healthcare."
-    publishedDateTime: 2021-04-13T04:52:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/microsoft-will-buy-ai-firm-nuance-for-19-dollars-7-cents-billion-to-bolster-healthcare-technology.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 84
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/3swdoonk3lcscxi1_1618277591.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
   - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
     excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
     publishedDateTime: 2021-04-16T00:21:00Z
@@ -446,20 +430,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Microsoft acquires voice recognition company for $20b"
-    excerpt: "Microsoft has bought artificial intelligence-powered speech recognition firm Nuance for $20 billion, the tech giant’s second largest acquisition ever. It was revealed on Monday that Microsoft would be purchasing Nuance, a leading voice recognition firm ..."
-    publishedDateTime: 2021-04-13T03:49:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/microsoft-acquires-voice-recognition-company-for--20b.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/voice%20recognition.jpg"
-        width: 821
-        height: 462
-        isCached: true
   - title: "Microsoft’s Nuance Deal Second Biggest in Its M&A History: Chart"
     excerpt: "Microsoft Corp. is going all-in on health-care artificial intelligence with its $19.6 billion all-cash deal for speech technology company Nuance Communications Inc."
     publishedDateTime: 2021-04-13T07:03:00Z
@@ -541,15 +511,6 @@ related:
         width: 2240
         height: 1261
         isCached: true
-  - title: "Microsoft adds speech recognition"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health ..."
-    publishedDateTime: 2021-04-13T04:59:00Z
-    webUrl: "https://journalgazette.net/business/20210413/microsoft-adds-speech-recognition"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 36
   - title: "6 most recent interoperability initiatives from Google, Apple, Amazon and Microsoft"
     excerpt: "The six most recent interoperability initiatives published by Becker's Hospital Review: Google is in the early stages of a new project that aims to explore and develop a new consumer-facing health records tool for Android users,"
     publishedDateTime: 2021-04-13T20:18:00Z

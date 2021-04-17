@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI"
-    excerpt: "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers."
-    publishedDateTime: 2021-04-13T04:17:00Z
-    webUrl: "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/"
-    ampWebUrl: "https://www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp"
-    cdnAmpWebUrl: "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/04/13/nvidia-unveils-quantum-computing-simulation-strengthens-grip-on-gpu-accelerated-ai/?amp"
-    type: article
-    provider:
-      name: Tech Goondu
-      domain: techgoondu.com
-    quality: 65
-    images:
-      - url: "https://www.techgoondu.com/wp-content/uploads/2021/04/Image-Grace-255543607271cab6bb18.97771987.jpg"
-        width: 2000
-        height: 1250
         isCached: true
   - title: "Nvidia says AI, 5G ingredients for success"
     excerpt: "AI and 5G are the ingredients needed to kick-start the fourth industrial revolution where robotics and automation can be deployed to the far edges of the world.” He said, however, that there was one missing element,"

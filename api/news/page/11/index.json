@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-08-snorkel-ais-app-development-platform-lures-35m.md",
+      "title": "Snorkel AI’s app development platform lures $35M",
+      "excerpt": "Register for free or grab a discounted VIP pass today. Snorkel AI, a startup developing data labeling tools aimed at enterprises , today announced that it raised $35 million in a series B round ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/07/snorkel-ais-app-development-platform-lures-35m/",
+      "originalUrl": "https://venturebeat.com/2021/04/07/snorkel-ais-app-development-platform-lures-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/SnorkelHeader-e1617815346774.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/07/snorkel-ais-app-development-platform-lures-35m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/snorkel-ais-app-development-platform-lures-35m/amp/",
+      "publishedDateTime": "2021-04-07T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
       "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
       "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
@@ -1145,57 +1196,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-google-brain-cofounder-samy-bengio-has-quit-the-company-months-after-2-fellow-ai-researchers-were-fired.md",
-      "title": "Google Brain cofounder Samy Bengio has quit the company months after 2 fellow AI researchers were fired",
-      "excerpt": "Samy Bengio, an AI research manager at the company and world-leading academic in his field, announced his departure on Tuesday, in an email obtained by Bloomberg. His resignation comes after Timnit Gebru, a high-profile Black researcher in ethical AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4",
-      "originalUrl": "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/606d895630004b0019b2659b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-brain-cofounder-quits-following-internal-disputes-2021-4?amp",
-      "publishedDateTime": "2021-04-07T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/17/how-one-founder-build-a-startup-ar
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/17/how-one-founder-build-a-startup-around-compassion-facilitated-by-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
