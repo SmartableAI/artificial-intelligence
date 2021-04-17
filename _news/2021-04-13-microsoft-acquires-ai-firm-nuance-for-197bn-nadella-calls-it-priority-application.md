@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/mi
 webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-acquires-ai-firm-nuance-for-19-dot-7bn-nadella-calls-it-priority-application.html"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,54 +23,6 @@ images:
     width: 1242
     height: 709
     isCached: true
-
-related:
-  - title: "Microsoft Buys Speech Recognition-Firm That Helped Build Apple’s Siri For $19.7 Billion"
-    excerpt: "Microsoft plans to use Nuance’s speech recognition and transcribing tools to expand on its health care tech ambitions."
-    publishedDateTime: 2021-04-12T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60741ca1c89a945e7b608580%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2092%26cropY1%3D110%26cropY2%3D1286"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition"
-    excerpt: "“AI is technology’s most important priority ... The collaboration combines Microsoft Genomics’ Azure Cloud with the Tel Aviv, Israel-based company’s comprehensive cloud-based advanced framework for Next-Generation DNA Sequencing (NGS)."
-    publishedDateTime: 2021-04-12T19:56:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/microsoft-finds-winning-combination-ai-and-medtech-new-acquisition"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 52
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Apr122021at34915PM.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "Microsoft Is Set To Make US$22 Billion Worth Of Augmented Reality Headsets For The US Army"
-    excerpt: "Microsoft has reportedly been awarded a ten-year contract ... the company develops products for “governmental entity customers that primarily provide security and defence services, including police, fire fighters, EMTs, other first responders, and ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 49
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/04/13/file-20210407-19-d0anu6.jpeg?ar=16%3A9&auto=format&fit=crop&q=80&w=1280&nrs=40"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "2qeB+vyIgqT9PWnx6R0JTyFbEnAFmLDu/C8S15hnPhW1Ew/t+R7hzJP8sSu70OY0mWobDjTHVizcDbqvM1YfxqhGBD1qJ3PgXfSOCKSoHj3eXXyC3wTvCsuAoGxudLfQk/ldjvyDVOYpR70ShS4BPkQ+7eWwUMAHUby417rtCEXLp1C7olcztZgl9XVUggTXMN2LzL3crgsxaZshfA2HwvxSLOPkuV4NQU5Z61wwEPKo/V6t8nRWbUYP6CeMIUirZmAcfCDqoaUX0ijdJKIR13ca3RmymizSDhr22fRBqJB2JWHoz/KfTNmtJndh405N3W7z2q5L4zYTOos2nmbTTCKxXXstPPQwepVm7WsyYF/dWcYvjfirnkTBkiRu0Foz1W9AjgIh17fvfDo1KN8h/bgSqdxemjEdFW14VDooTjhXfMT0hhF5hYW9nB6VsNwQUmIHQ9YLFTeApoAr5TzQwVvgn8McCKvXe/jpWZEtNedEk3/I31HqPup4Qoqizh2WqV2/YOmQlWtIUgiyW6nEEg==;SQjCCukw1eorq0+ZB4PB5w=="
 ---

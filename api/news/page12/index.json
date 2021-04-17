@@ -2,6 +2,145 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-07-artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027",
+      "excerpt": "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
+      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
+      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "publishedDateTime": "2021-04-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email.md",
+      "title": "Google’s senior AI scientist resigns after colleagues' firing, reveals email",
+      "excerpt": "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "publishedDateTime": "2021-04-06T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
       "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
       "excerpt": "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
@@ -720,6 +859,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-deep-learning-networks-prefer-the-human-voice-just-like-us.md",
+      "title": "Deep learning networks prefer the human voice -- just like us",
+      "excerpt": "When used to convey information, the language of binary numbers is compact ... One of the more common exercises AI researchers use to test out the merits of a new machine learning technique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/cuso-dln040621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/cuso-dln040621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/meganav/browse-images.jpg",
+          "width": 585,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-meet-scout-the-cute-ai-powered-robot-ready-for-any-exploration-mission-strictly-robots.md",
       "title": "Meet Scout, the cute AI-powered robot ready for any exploration mission — Strictly Robots",
       "excerpt": "Night vision? Check.",
@@ -991,190 +1174,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-how-can-government-attract-the-ai-talent-it-needs.md",
-      "title": "How Can Government Attract the AI Talent It Needs?",
-      "excerpt": "Yll Bajraktari is executive director of the National Security Commission on Artificial Intelligence, a group of industry executives and academics that has studied the government’s AI needs. Martial Hebert is dean of the Carnegie Mellon University School ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "originalUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-320749/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "publishedDateTime": "2021-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "originalUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "publishedDateTime": "2021-04-06T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTXL ABC 27",
-        "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth.md",
-      "title": "Startup Adapts AI Used In Space To Advance Healthcare On Earth",
-      "excerpt": "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606349084789535232b6741c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
-      "publishedDateTime": "2021-04-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
-      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
-      "excerpt": "Machine learning’s (ML) importance in this coronavirus pandemic-induced automation era cannot be overstated. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
-      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI",
-        "Google AI"
       ]
     }
   ],

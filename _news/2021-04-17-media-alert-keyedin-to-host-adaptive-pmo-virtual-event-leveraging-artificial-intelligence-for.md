@@ -3,8 +3,8 @@ category: news
 title: "MEDIA ALERT: KeyedIn to Host Adaptive PMO Virtual Event: Leveraging Artificial Intelligence for ..."
 excerpt: "WHAT: The third installment of the Adaptive PMO Series addresses the topic of artificial intelligence (AI) for the project management office (PMO). Join this online session to learn how PMO leaders can embrace AI for stronger organizational agility and gain key insights."
 publishedDateTime: 2021-04-16T19:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-artificial-intelligence-5ad11a2dcab3aa7580085dbd1ffada55"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-artificial-intelligence-5ad11a2dcab3aa7580085dbd1ffada55"
+originalUrl: "https://apnews.com/article/technology-computing-and-information-technology-artificial-intelligence-5ad11a2dcab3aa7580085dbd1ffada55"
+webUrl: "https://apnews.com/article/technology-computing-and-information-technology-artificial-intelligence-5ad11a2dcab3aa7580085dbd1ffada55"
 type: article
 quality: 23
 heat: 23
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "TsqiUVP9Phvwlczv8Z6NoZvkJ3tdq1wfev5jtcinXdYaLuMpDDOfNItKiL4PbBLmDvfCgZFlQQ0Dc5G3Gtpb3oRcIA6Wun1Xn/8a3ihG0b1Qt0R3Id9qJvjURdRssg3QiaHsmGVFc7PsQiJDxQm+ScX1E0C3IC2UjtFP3g2Ba6ocuBBuvRw58oliRHB2oJrr5tznO2Nb8HAR0Jy0ffC1KMYIMroR+ZpIk9B9O+X1FPMEBX7ivAq+fW/GpMRftRC/yOJ2ao86on5lyoGlLQSYQIsa1RI989QkWkSYGBwB11be6eirghBVw91rJobFBrNmDmvqxSfdK6Y77NjwLfLVVXxxVn3lcCDcY+/VNB3bLDc=;CD+aNIVAK7U9fLSBAFU2jg=="
+secured: "IBJB62uW8yEDWQZ0r4Hlcx0a2uV7o3Zeq87gi4mKm7mRKRQOm8OslIOUXOCXjUuDNMi7v1zkc3vjbbRrtivOSmVzUwP2YPCana9LNz7NNu6GAEVQj+JTzAtlTJ2p1w69GdmftbR+6kyBUfnMVAND/YgZTBjSAegqtpxu1i5kJdj89Vr2/z68WlHQJtohoQEyQEWdskX8WdyWMtpzFKt/1KJTrDV3oOMyWVwLbf1A7B70/h9qdGhOCA8NvaXDJLtDXvg8BqEcchUblsgeCSweC09woQEkDCvFD61Tvc5LCCjDsOyd9t+lDXIEdYpJpsvczhnNrQJjV9VVPtTfIeZwIoVEFfvzzWgTRp2orHRoLTE=;0BZdVApXHEK9i9AGOAYOLQ=="
 ---
 

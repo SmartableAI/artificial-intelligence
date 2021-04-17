@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech.md",
+      "title": "Autonomous Advertising: Mapping The Future Of Machine Learning In Ad Tech",
+      "excerpt": "Reaching this goal requires complex machine learning models that consider the countless variables a vehicle may encounter on the road, even as it performs tasks a human would find trivial. So, what do autonomous vehicles have in common with digital advertising?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281139bff3f884b86e9905%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
+      "publishedDateTime": "2021-03-30T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
+      "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
       "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
       "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
@@ -1340,84 +1436,6 @@
         "AI Ethics",
         "AWS AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
-      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
-      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
-      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
-      "excerpt": "Neural network training could one day require less computing power and hardware, thanks to a new nanodevice that can run neural network computations using 100 to 1000 times less energy and area than existing CMOS-based hardware. Training neural networks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

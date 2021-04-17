@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
-publishedDateTime: 2021-04-16T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
-webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
+publishedDateTime: 2021-04-16T21:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
 type: article
-quality: 40
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
+  - AI
 
 related:
   - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
@@ -101,20 +98,6 @@ related:
       - url: "https://ksusentinel.com/wp-content/uploads/2021/04/chart-2021-04-12T092849.485-780x470.jpg"
         width: 780
         height: 470
-        isCached: true
-  - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
-    excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
-    publishedDateTime: 2021-04-12T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-report-analysis-2021-2026-top-keyplayers-ibm-intel-nuance-communications-etc-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
@@ -237,6 +220,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "TSR63BZJTlQN0xfjCHFGDAgTZc/XWZ45UZAIDmK/TRZHR78Meh8VkJyQTxzPBerQvfEHZZlconqwIiVZ+4fkji2FOERO3iXreMOUswsgGBGp66fLLKPSRf84cgum6Lt98k2CbwB5FPFCDFBp64byMhz8Ur7WukO5xE55PE69HkrFKRdfFcBR2o9wmP1TwGU0kNyw04Yj7TYAggC3Ybez3yRlDipciflg5rt0ZCELGZe2DkYtCE+ux43HC1+A8TOIG7r1yJICYjnUES+JipgwJ0rIYb5VIeEXHhpNnsc29U1LK9yLQRHDf37hq/4VBDvDZz35bntl2DWKQ3rH6c7Rnt9YNkgV0qLTh7LYJScDBxE=;TYcbKdqzO3bKvXdhj8HfhA=="
+secured: "nSnA7KkVDgt37fRQ6Kh2ECf5bTVqvtngGSD22g1C3d0cX5udt6UrpWf5YLusZHyvLmXZ1/me2Rjpo5MUMqUXMlpw4jL7Jimky4UhjgSWiUu5HibTFEsn3nWnoKixqH8mbCtL0uv9S3rU8HaCPDLTdLkSxoaVD1TQKMOU340VU88CcSJOHre866xPRg4M0V5K18Dq+XX4RsB2602lDv2ZSNBEr0ygQtIRIvLDc1FWUG1BVmPN0V7Jo3357O7RitOupWtnnD4Y2QkS98SBfE2MELVJruDpyn2h3+LxsUHZh396JHysLTMS0k93hja7EOt6S2fGKmx7O0soWnnPsdmouiQ+SWRTiOaQvuWj6nRUdzQ=;bIAH59j0DumHxNuq461jWg=="
 ---
 

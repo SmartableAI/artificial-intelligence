@@ -2,6 +2,284 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-22-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet.md",
+      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing | Major Giants BAE Systems, Cisco, Fortinet",
+      "excerpt": "Mar 22, 2021 (Market Insight Reports) -- The COVID-19 Global & China Artificial Intelligence (AI) in Cyber Security Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
+      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
+      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
+      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/Battle-of-the-Frameworks-between-Pytorch-and-Transformer.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-all-about-us-india-artificial-intelligence-initiative-usiai.md",
+      "title": "All about US India Artificial Intelligence Initiative (USIAI)",
+      "excerpt": "US India Artificial Intelligence Initiative: Why in News? United States India Artificial Intelligence, USIAI initiative has been launched to enhance the technological relationships between the two countries. DST secretary Ashutosh Sharma in the curtain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2021/March/2232021/AI.png",
+          "width": 640,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
+      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
+      "publishedDateTime": "2021-03-22T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rojgar Samachar",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-hong-kong-forum-of-artificial-intelligence-and-robotics-promotes-development-of-smart-industries-in-hong-kong-and-greater-bay-area.md",
+      "title": "Hong Kong Forum of Artificial Intelligence and Robotics Promotes Development of Smart Industries in Hong Kong and Greater Bay Area",
+      "excerpt": "The Hong Kong Productivity Council (HKPC) , with the funding support of the Innovation and Technology Fund of the HKSAR Government, joined hands with the Hong Kong Society",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries",
+      "originalUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/hkpc-photo1_0.jpg?itok=FEiPwyTP",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp",
+      "publishedDateTime": "2021-03-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-shell-taps-accenture-ripjar-to-transform-risk-screening-by-applying-ai.md",
+      "title": "Shell Taps Accenture, Ripjar to Transform Risk Screening by Applying AI",
+      "excerpt": "The multiyear deal builds on Accenture Ventures’ investment in Ripjar and a strategic alliance formed in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
+      "originalUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
+      "publishedDateTime": "2021-03-22T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000.md",
+      "title": "Need Another Stimulus Check? New AI-Powered Apps Can Help Save $1,000",
+      "excerpt": "Consumers don't want savings accounts--they want to save more money. New, automated savings tools help some consumers save m$1,000 more than they currently save--almost like getting an additional stimulus check.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
+      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c2267e1b97b5792d4d2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2619%26cropY1%3D243%26cropY2%3D1716",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
+      "publishedDateTime": "2021-03-21T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope",
       "excerpt": "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ...",
@@ -888,291 +1166,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors.md",
-      "title": "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors",
-      "excerpt": "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60037dd0c892d0f11d613a64%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4971%26cropY1%3D181%26cropY2%3D2977",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
-      "publishedDateTime": "2021-03-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-facebook-trains-computers-to-learn-more-like-humans-do.md",
-      "title": "Facebook trains computers to learn more like humans do",
-      "excerpt": "Facebook chief artificial intelligence scientist ... The social media giant's AI research team is nudging computers closer to that goal, teaching them to fill in the blanks without relying on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-trains-computers-to-learn-more-like-humans-do/",
-      "originalUrl": "https://www.cnet.com/news/facebook-trains-computers-to-learn-more-like-humans-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/liQTLqsa0myav4DR4_5h2_y1wv8=/1200x630/2021/03/04/3352dbbe-d7af-48a7-ae7f-5c4e440d6375/facebook-seer-ai.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-trains-computers-to-learn-more-like-humans-do/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-trains-computers-to-learn-more-like-humans-do/",
-      "publishedDateTime": "2021-03-20T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-the-future-of-driverless-cars-is-now.md",
-      "title": "The future of driverless cars is now",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
-      "originalUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
-      "cdnAmpWebUrl": "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
-      "publishedDateTime": "2021-03-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tribune",
-        "domain": "dailytribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
-      "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
-      "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "originalUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-314190/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
-      "publishedDateTime": "2021-03-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-startup-leaders-heres-how-to-build-a-successful-advisory-board.md",
-      "title": "Startup Leaders, Here’s How To Build A Successful Advisory Board",
-      "excerpt": "I’m sometimes asked about the benefits and limitations of advisory boards for company CEOs, and how to get the most from that investment. I tend to give the same advice: A neglected advisory board is like an untended garden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
-      "originalUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6055ebf29bf087833498638c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
-      "publishedDateTime": "2021-03-20T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-3795-from-2020-2026.md",
-      "title": "Artificial Intelligence & Advanced Machine learning market is expected to grow at a CAGR of 37.95% from 2020-2026",
-      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with a CAGR of 37.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "originalUrl": "https://ksusentinel.com/2021/03/20/artificial-intelligence-advanced-machine-learning-market-is-expected-to-grow-at-a-cagr-of-37-95-from-2020-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-20T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

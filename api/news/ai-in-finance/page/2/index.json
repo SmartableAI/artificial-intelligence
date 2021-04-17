@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-25-enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform.md",
+      "title": "Enova Announces Acquisition of Pangea Universal Holdings, a Next-Generation Payments Platform",
+      "excerpt": "CHICAGO, March 19, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning ... money transfer services. This acquisition brings ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform-301251008.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform-301251008.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/173006/enova_international_logo.jpg?p=facebook",
+          "width": 1144,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-fintech-startup-raises-200-million-to-fight-digital-banking-fraud.md",
       "title": "Fintech startup raises $200 million to fight digital banking fraud",
       "excerpt": "Artificial intelligence (AI) and machine learning are the future. Meanwhile, cyber crime, money laundering and online financial fraud are becoming bigger problems by the day. To help combat these rising issues, fintech startup Feedzai has raised $200 ...",
@@ -1302,58 +1345,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-marketwatch.md",
-      "title": "Global Cloud AI in Fintech Market Growth (Status and Outlook) 2021-2026 - MarketWatch",
-      "excerpt": "11.8.1 Wi Vid Wireless Video Cameras.com,LLC Company Information 11.8.2 Wi Vid Wireless Video Cameras.com,LLCCloud AI in Fintech Product Offered 11.8.3 Wi Vid Wireless Video Cameras.com ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-2021-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-2021-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

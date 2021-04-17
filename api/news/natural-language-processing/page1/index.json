@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1041,
+      "heat": 921,
       "tags": null,
       "images": [
         {
@@ -96,6 +96,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-top-10-what-are-the-greatest-scientific-or-technological-advances.md",
+      "title": "Top 10: What are the greatest scientific or technological advances?",
+      "excerpt": "I find the rapid development of translation technology simply amazing. It has made it even easier for language to be a bridge ... Currently, AI machines can understand human speech, drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "originalUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/03/10/3960c86c-814f-11eb-87b1-2ad3cd5fba10_image_hires_112546.jpg?itok=RCVte95m&v=1615346758",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "publishedDateTime": "2021-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -546,6 +598,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-deep-learning-networks-prefer-the-human-voice-just-like-us.md",
+      "title": "Deep learning networks prefer the human voice -- just like us",
+      "excerpt": "When used to convey information, the language of binary numbers is compact ... One of the more common exercises AI researchers use to test out the merits of a new machine learning technique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/cuso-dln040621.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/cuso-dln040621.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/meganav/browse-images.jpg",
+          "width": 585,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-market-outlook-industry-analysis-and-prospect-2021-2027.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Market Outlook, Industry Analysis and Prospect 2021-2027",
       "excerpt": "In this report a comprehensive analysis of current global Natural Language Processing (NLP) in Healthcare and Life Sciences market in terms of demand and supply environment is provided, as well as price trend currently and in the next few years.",
@@ -738,6 +834,49 @@
         "Google AI",
         "AI Hardware",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-rethinking-the-case-for-governance.md",
+      "title": "Rethinking the Case for Governance",
+      "excerpt": "Yet, positive energy aside, our traditional approach to endorsing governance of data, analytics, or AI remains ... a universal translator and navigational beacon—one which ensures that everyone, regardless of role, is speaking the same language and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
+      "originalUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1303,144 +1442,6 @@
         "AI in Finance",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=dW04es9FGsB6uLNoFow3pv8shcY=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-google-translate-and-the-end-of-language.md",
-      "title": "Google Translate and the end of language",
-      "excerpt": "When I worked as a food runner in a Washington, D.C., restaurant, I began learning Spanish so I could speak with some of my coworkers in their native tongue. One night, as we were cleaning up, I said to one of my colleagues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
-      "originalUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2021/03/0-1.jpg?fit=1500%2C1200&ssl=1",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/?amp",
-      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/statement/google-translate-and-end-language/?amp",
-      "publishedDateTime": "2021-03-25T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Michigan Daily",
-        "domain": "michigandaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-from-digital-to-physical-the-ultimate-challenge-for-ai.md",
-      "title": "From Digital To Physical: The Ultimate Challenge For AI",
-      "excerpt": "How challenging is it to break this digital barrier and have AI spill over to successfully interact with a physical system?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b91b7ee97d16a68613292%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
-      "publishedDateTime": "2021-03-25T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

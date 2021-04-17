@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-10-authors-sharing-the-secrets-behind-startup-success-and-failure.md",
+      "title": "10 Authors Sharing The Secrets Behind Startup Success And Failure",
+      "excerpt": "Making your startup successful means aiming for success while dodging classic startup killers — the best way to know how is by learning from those who have been there before. Here are 10 authors who have seen the highs and lows of the startup journey and have invaluable knowledge for you to draw from:  In the first days of your startup,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
+      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60748186a849c282e29e02aa%2F0x0.jpg",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
+      "publishedDateTime": "2021-04-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-big-shake-up-due-to-covid-19-on-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
+      "title": "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market",
+      "excerpt": "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "originalUrl": "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U413109506_g.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp",
+      "publishedDateTime": "2021-04-13T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases.md",
       "title": "Facial recognition could soon let you pay for all your mobile purchases",
       "excerpt": "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ...",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -391,7 +486,7 @@
       "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -531,6 +626,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-13-top-10-what-are-the-greatest-scientific-or-technological-advances.md",
+      "title": "Top 10: What are the greatest scientific or technological advances?",
+      "excerpt": "I find the rapid development of translation technology simply amazing. It has made it even easier for language to be a bridge ... Currently, AI machines can understand human speech, drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "originalUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/03/10/3960c86c-814f-11eb-87b1-2ad3cd5fba10_image_hires_112546.jpg?itok=RCVte95m&v=1615346758",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "publishedDateTime": "2021-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-cruise-to-be-dubais-exclusive-self-driving-taxi-provider-report-says.md",
       "title": "Cruise to be Dubai's exclusive self-driving taxi provider, report says",
       "excerpt": "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ...",
@@ -539,7 +686,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1078,161 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says.md",
-      "title": "Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says",
-      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Some AI-powered medical devices approved by the U.S. Food and Drug Administration (FDA) are vulnerable to data ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
-      "publishedDateTime": "2021-04-12T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-bmws-virtual-factory-uses-ai-to-hone-the-assembly-line.md",
-      "title": "BMW’s Virtual Factory Uses AI to Hone the Assembly Line",
-      "excerpt": "German carmaker BMW plans to start making drivetrains for electric vehicles at a vast factory in Regensburg, Bavaria, later in 2021. Well before any new parts roll off the production line, the entire manufacturing process will run in stunningly realistic detail inside a virtual version of the factory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
-      "originalUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60709bed3b14ce9d953f9773/master/pass/business_bmw-ai.jpg",
-          "width": 1802,
-          "height": 1201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
-      "title": "Mozilla winds down DeepSpeech development, announces grant program",
-      "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/mozilla_foundation.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

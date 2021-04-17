@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelli
 ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/04/16/ai-artificial-intelligence-build-it-or-buy-it/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 105
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821dc276c3f7d5c600d9df%2F0x0.jpg%3FcropX1%3D156%26cropX2%3D9343%26cropY1%3D0%26cropY2%3D5168"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "xskFBa0I8j/UYQIfkFVztMcWCOc53szxvcbPiKlSI/WPCucQhm+V8zu4RvTGtSS4McQe/yCiQOI6tX3y9TYiv5xb8DpMQw+X6qZnkwKvUfGmFwUPqQ/NqANSm0gtSzdkXP6Hi9VaoN1vqKMx1LF5JSxG7RhUhbEfOLIuZV/6dnluCFEASvhNWef5IYJQcv7x1vHEzBP+WZzlL1DvZHDsGSeagMx0f5LNL3tsIaVEAB5J7KMdJoL1LJ1vL/kI30vKeag0avIBTvwY7o6w/Uqo7je1sJreh/j+4WCDvyBUDSu+346dhKMb+iywebumY3GSFeRyKPnfs/9paQds8LXQD0rX/HB3gE18cLdvGTczEzc=;fDu3MiEE4HALr3UloKoXjQ=="
+secured: "MjPA+VHqE4JuteVDtpL1KUI2WG7NLO3dHfHF36dQ4pFo4CKhAgRnrKYd1Cz4C8dKQJaNpuG6Ke491zunNWtWpqaQrxXuu2iZ0dw6Kbt48lJ8vOab4LOtdshVjY613s0eCSgu6EJHXaqZlynIMOmOgy2FzdYdzYZQbPSU/rV+X1yPzHx3t8MZjPJcSH7DopHImrZpooAxt6eZOXyBkSUtg0YRcsQZdGyDeXOM51I+nV57UVJCY9Rgqxzaj3+cAQZXY6ZEa0BP4N47h6aGuq1NSNsWe+g7BLCnIXwbnQs4r6ifxlKZ/iCwAUJrDbiwepub+Wb/39CqPnrigGL4VfhdFAkpM4wtroorYRZKbk2JC1zgaw6Xah/VSQTqm17fR2tf4pXb2iTaHlmWHzhRaPeovyBSvY2/BKrWMpMFRmxAYUERG0P8NHqTaAgOMJkwI1v68fTBBZMD/vZmiUAF3LkncWrZwVvmsXG+u39ynZvomrjR2jnEgPqYWL9gIqM7il8zdDU/1bKtBWMlhf+x2tdNjg==;+8K66fF/xywnsPIVKbDafg=="
 ---
 

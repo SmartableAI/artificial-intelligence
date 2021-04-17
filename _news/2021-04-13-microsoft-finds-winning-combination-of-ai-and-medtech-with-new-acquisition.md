@@ -25,52 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Buys Speech Recognition-Firm That Helped Build Apple’s Siri For $19.7 Billion"
-    excerpt: "Microsoft plans to use Nuance’s speech recognition and transcribing tools to expand on its health care tech ambitions."
-    publishedDateTime: 2021-04-12T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/"
+  - title: "SmartStream introduces data management AI on Microsoft Azure"
+    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
+    publishedDateTime: 2021-04-14T08:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
+      name: Finextra
+      domain: finextra.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60741ca1c89a945e7b608580%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2092%26cropY1%3D110%26cropY2%3D1286"
-        width: 1200
-        height: 675
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Microsoft Is Set To Make US$22 Billion Worth Of Augmented Reality Headsets For The US Army"
-    excerpt: "Microsoft has reportedly been awarded a ten-year contract ... the company develops products for “governmental entity customers that primarily provide security and defence services, including police, fire fighters, EMTs, other first responders, and ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/"
-    ampWebUrl: "https://www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2021/04/microsoft-us-army-ar-headsets/amp/"
+  - title: "SmartStream launches new cloud-native AI application"
+    excerpt: "with an aim to support global clients on the Microsoft Azure platform. This development will also allow more countries to meet local regulatory requirements and access improved AI capabilities for managing critical data across the enterprise. According to ..."
+    publishedDateTime: 2021-04-14T08:16:00Z
+    webUrl: "https://ibsintelligence.com/smartstream-launches-new-cloud-native-ai-application/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 49
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2021/04/13/file-20210407-19-d0anu6.jpeg?ar=16%3A9&auto=format&fit=crop&q=80&w=1280&nrs=40"
-        width: 1280
-        height: 720
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/05/SmartStream.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Microsoft Acquires AI Firm 'Nuance' For $19.7bn; Nadella Calls It 'priority Application'"
-    excerpt: "This feature of Nuance will help with Microsoft’s cloud, including Azure, Teams, and Dynamics 365, to deliver next-generation customer engagement and security solutions. AI is technology’s most important priority, and healthcare is its most urgent ..."
-    publishedDateTime: 2021-04-13T03:10:00Z
-    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/microsoft-acquires-ai-firm-nuance-for-19-dot-7bn-nadella-calls-it-priority-application.html"
+  - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
+    excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
+    publishedDateTime: 2021-04-14T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210414005057/en/SmartStream-Expand-Global-Footprint-With-its-Latest-Cloud-Native-AI-Application"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 45
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/uucfgidzundjibhp_1618280924.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
 
 secured: "7YGyL/nO/m7Pka7HYQi7dUWRbWNanDVI4WVvrqRhsk7T940MSEvYA4Je4zZUJ8mNdh/CQgqbT4UwylArDh9mxrZUKELD+RQ8e/f60AWL/DpvqHsCGqJCd3HVZTOoDOySkxM5tLAzo57y3ZsMT2s1ia9+C/tcutnPYOETiN/XujcicBD/hzWqmDEyJDGt3gR2AHX37Ym6PLZfmRj6zzK/Z/6Kbo4n8GMSYgUsDeFrda7SJLjFVz5LwBKLN5PVFyGsBsNFTyE4T8rqBjuiamEH7NWLcLZAgD9/Qu0bZxMlCjBpjQ677YZgWh/I59YUayPdPN0xZeD6gerz9U5tNDOKbjN1yuKFL2+5SfEEPQEALtA=;qagj+HDwo8YK6FhRaNGglw=="
 ---

@@ -149,20 +149,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
-    excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
-    publishedDateTime: 2021-04-12T11:48:00Z
-    webUrl: "https://www.qsrmagazine.com/news/self-driving-cars-start-delivering-dominos-pizza-houston"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
-        width: 765
-        height: 446
-        isCached: true
 
 secured: "cwKnbmYcEl1lOQqLq1BF3/XdPErIJQFIlVTVud+E4/8pM8ec8TgpbsuPYNs+i3hv1SlXqRWZmC0wLSV42I8T2mnjORE7qfoO7lX+ZLnMmnvDSB1ETj2/DUVlYeNwGp3ubHJo/mxyHea+/an6fqAw+LqRNkSUPCPe57QO75L1a84617iAvYaW81rZ25SJo+ZUukjniw/qda2OySs/uXCEdGdM0JtpIoUdWPkHDFjtetJ/jtEGgnKIgXkdZscPtZAb0qPIhf7cpvrovdWYfptfCPwGxG6/wuI4evDCrC4jqFXSB8jemnXGctqmBS2ZepsjYtVWPEHIOzEje9oPOZTcOB+B/tQD6qUVGv39Ju+TLhCl3GvCppKy0Ih/OKZoLyOPofmC92v/09rUUp6/Mzr6KiTasYlzeXcnj4U4uCNVeOwuaq0Eq8p796ShcW0cxuBrTiZGDB5JGH+j9ImSW+xjdgfjDk+rHr9LEPaFV0xahzAoieMyf1IKgYjVybJhLdsp2NEIBaTu3X+cGQ8Q8SwEJA==;LddCfMVdghdfVpqDAq4Wtw=="
 ---

@@ -227,6 +227,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Walmart invests in self-driving car start-up, Cruise"
+    excerpt: "Walmart has recently invested in autonomous, self-driving car start-up, Cruise in its latest USD 2.75 billion funding round."
+    publishedDateTime: 2021-04-17T05:28:00Z
+    webUrl: "https://techstory.in/walmart-invests-in-self-driving-car-start-up-cruise/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
+        width: 920
+        height: 600
+        isCached: true
 
 secured: "90dwcvIdXq90TXZiCLD86R5a27MGwfFoIxrO5TvRZxKitmx0QbN6i5Lj8xiJGU6Q7f79B+nsZ0OOZm8E7LjZ56u2/8MR5y2v233AuZex2kzdGCoqD/JlZ/TKLaNzMXkmJ0LHIHbzi8EMIBxg1q1yqjL/lIZALcFa/E/yoHnhlV/oqvUjMMqpOCC0IC7kFn1v/uYoeJ+o1xcNLVihO9GvAKWyvP5WA0KEzGr47seZOX0x3I/ZGg7FaKPud2zlxxrEXsDYBaFxsWkI53GnIoDrbrwgd+nC6vK4FyVVGmyF2TJ4sWdGvT18Pc+EPxbpvc2QL7brB1s+R3xwfklsutkRh4qhsXs+vDPnWvisvGILYqI=;Wl9w79vWpF5Sn1qfMyCjPA=="
 ---

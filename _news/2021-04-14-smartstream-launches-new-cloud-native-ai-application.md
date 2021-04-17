@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Microsoft Finds Winning Combination of AI and Medtech with New Acquisition"
+    excerpt: "“AI is technology’s most important priority ... The collaboration combines Microsoft Genomics’ Azure Cloud with the Tel Aviv, Israel-based company’s comprehensive cloud-based advanced framework for Next-Generation DNA Sequencing (NGS)."
+    publishedDateTime: 2021-04-12T19:56:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/microsoft-finds-winning-combination-ai-and-medtech-new-acquisition"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 52
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Apr122021at34915PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
     excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
     publishedDateTime: 2021-04-14T12:00:00Z

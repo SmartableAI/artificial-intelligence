@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-cruise-raises
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
 type: article
 quality: 167
-heat: 307
+heat: 317
 published: true
 
 provider:
@@ -211,6 +211,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Walmart invests in self-driving car start-up, Cruise"
+    excerpt: "Walmart has recently invested in autonomous, self-driving car start-up, Cruise in its latest USD 2.75 billion funding round."
+    publishedDateTime: 2021-04-17T05:28:00Z
+    webUrl: "https://techstory.in/walmart-invests-in-self-driving-car-start-up-cruise/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
+        width: 920
+        height: 600
         isCached: true
   - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
     excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"

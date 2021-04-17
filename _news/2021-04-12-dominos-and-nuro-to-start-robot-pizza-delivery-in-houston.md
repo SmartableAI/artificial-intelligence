@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BZ17C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BZ17C"
 type: article
 quality: 189
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://images.hgmsites.net/hug/nuro-and-dominos-autonomous-pizza-delivery_100788385_h.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Self-Driving Cars to Start Delivering Domino's Pizza in Houston"
-    excerpt: "Domino's and Nuro, a leading self-driving delivery company, are launching autonomous pizza delivery in Houston. Beginning this week, select customers who place a prepaid order on dominos.com on certain days and times from Domino's in Woodland Heights ..."
-    publishedDateTime: 2021-04-12T11:48:00Z
-    webUrl: "https://www.qsrmagazine.com/news/self-driving-cars-start-delivering-dominos-pizza-houston"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-04/SelfDriving.jpg?itok=W-JyePFD"
-        width: 765
-        height: 446
         isCached: true
   - title: "Dominos is Delivering Pizzas in Houston Using Small Autonomous Vehicles Built by Silicon Valley Startup Nuro"
     excerpt: "One company working on autonomous delivery is Silicon Valley startup Nuro. The company announced this week ... Nuro's team includes experts in robotics, AI and autonomous vehicles. Many of Nuro's employees previously worked on autonomous driving projects ..."

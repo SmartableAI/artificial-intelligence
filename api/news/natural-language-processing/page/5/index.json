@@ -2,6 +2,156 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-25-voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026.md",
+      "title": "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026",
+      "excerpt": "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i.md",
+      "title": "Process documents containing handwritten tabular content using Amazon Textract and Amazon A2I",
+      "excerpt": "Even in this digital age where more and more companies are moving to the cloud and using machine learning (ML) or technology to improve business processes, we still see a vast number of companies reach out and ask about processing documents, especially documents with handwriting. We see employment forms,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/19/ML-1955-2.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T10:17:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
+      "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
+      "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/d85e6d6d-d4b8-5b58-8447-d6f9b67788eb/default-1614187290-ai.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "publishedDateTime": "2021-02-24T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-tech-firms-train-voice-assistants-to-understand-atypical-speech.md",
       "title": "Tech Firms Train Voice Assistants to Understand Atypical Speech",
       "excerpt": "Voice assistants like Alexa and Siri often can’t understand people with dysarthria or a stutter. Their creators say that may change.",
@@ -1223,154 +1373,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
-      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
-      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
-          "width": 754,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "publishedDateTime": "2021-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes.md",
-      "title": "AI Emerges as Crucial Tool for Groups Seeking Justice for Syria War Crimes",
-      "excerpt": "Rights groups are using machine learning to sort through a mammoth trove of video, photo and other evidence to build Syrian war-crimes cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
-      "originalUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-296975/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
-      "publishedDateTime": "2021-02-13T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-clearview-ai-thinks-the-solution-to-dating-is-facial-recognition.md",
-      "title": "Clearview AI Thinks The Solution to Dating Is Facial Recognition",
-      "excerpt": "Clearview AI, now the byword for unchecked surveillance, has filed a wide-ranging patent application that envisions handing over the most reviled uses of facial recognition technology to just about anyone.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wi4p4fthvs7j24g09anp.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "publishedDateTime": "2021-02-12T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

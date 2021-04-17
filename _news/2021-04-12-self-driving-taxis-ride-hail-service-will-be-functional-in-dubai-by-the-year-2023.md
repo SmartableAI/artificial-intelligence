@@ -82,22 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Domino's is testing out its automated self-driving pizza delivery service"
     excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
     publishedDateTime: 2021-04-12T18:40:00Z
@@ -113,20 +97,6 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
-    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
-    publishedDateTime: 2021-04-12T11:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 30
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
-        width: 720
-        height: 480
         isCached: true
 
 secured: "DAFfk7DbeOHnLJWOt3rqHAqkB1rURAyi8BUeWH7EIwVu6bM58YDI0G661+pljqJCRZiAYWj+MmLN5DJcc57UC+XofQGfupi604vv8mvhBK4UFDi/WtuoBYXtaM9bdPlgn0UzM9K8PhHfOCCmpG5moJnk1xNO7deHcwkzTDWKfW5W+UQsl/vFHwNmDI0gppPtuVg/WsNiLvY6Wa51EgzRLlq3XSec69dqsKk47RqMTdyP6glXipDB2c/7m/F9cAGN9jSQr5K6QWb9BujZSaGRLg9vWF/SX4RvmyuQwNwlFfXk2mewggNAaS14SwrUf56AIWktOPz0VLyR/J0fGcHPFrxGJ+4FWdavu/48Kt2Ud146Bqz8HY31WporZKeYEgfrn8/Jx7PC49cIOkj/gh+uC12RifhcK3FpRGzyD8i/xi6JKDJF1mc3KR9gjYMKDixDyeIwYPqKEza7H0HMrHQxP+e3g5e0NwuQgqMYKHStH/IgGKQlXWQ6sL8uCTKPjL79B/Od0v6n6MHErQg3JhhYnw==;q0zuuzDiJbJ24YrigU0qhg=="

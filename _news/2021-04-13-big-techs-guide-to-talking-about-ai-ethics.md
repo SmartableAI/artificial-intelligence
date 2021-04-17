@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/"
 type: article
 quality: 176
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/03/R2103H_FRY.jpg"
         width: 3000
         height: 1410
-        isCached: true
-  - title: "Big Tech Making Moves Into Patient Records, AI In Health Care"
-    excerpt: "Google is exploring how patients may want to manage their own medical record data with a new tool, and Microsoft is ready to spend billions of dollars to buy an AI firm that could help doctors"
-    publishedDateTime: 2021-04-12T12:57:00Z
-    webUrl: "https://khn.org/morning-breakout/big-tech-making-moves-into-patient-records-ai-in-health-care/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 39
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
         isCached: true
 
 secured: "NL2fYpedGPlnQkCHsRK2TopaC4ZS3pqZL6HX/2J6ICkmL3fJaGYrqSgiLakhHNEf7ZB0xjLLYIW0u2yQd50QjrHxOxJMpaQHxhXLZnpLFjb60i4aQB1lZfsboj110OdXZI8jkdQd2sntYfz89CrZLv1Ar5NDsKoWtyOkF8gDSGt9l3KQSQGqD59Ukld5093JVdzvmQBv8H7Aj+eG4Dm+hAzR5ERFaPv36UhVl7yGSpmqjIZ2aNWRPmRfacMynG+rSafUa5c8pvBCpKw834Qkp7WDz4smn7VsVWnV6w5ceJfvx8shVfKc69MH+rfosHbXJFBvhwJ7Tp4ZoecZbMnGOBbJcC6oYMzqOFC6TfyuN9FFZnXxoKmJxD0Rh5lrIUh2TEx8S5FMjNPuq14mJwJbkruQYwWlKomm3Zumy8wB01vDA3SnT19m3AT0CXZpiznYGDFyTOoyDKsRWC60wz5MWS4iDW6lqu6/6pE52sWTRJxTsSGcDOSMburG1ZaUf7kYpsh4ayh+Ko4sZDBVP9bi1X4rXw1cYDNDdM5no1+N1zE=;kp6mLEQEeHVwsE5fyrfoeg=="

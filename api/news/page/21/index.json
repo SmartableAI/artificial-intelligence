@@ -2,6 +2,239 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-30-the-author-behind-arrival-doesnt-fear-ai-look-at-how-we-treat-animals.md",
+      "title": "The Author Behind ‘Arrival’ Doesn’t Fear AI. ‘Look at How We Treat Animals.’",
+      "excerpt": "Chiang doesn’t like to talk about himself. But he does like to talk about ideas. And so we do: We discuss the difference between magic and technology, why superheroes fight crime but ignore injustice,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/30/opinion/30ekshow-chiang-image/30ekshow-chiang-image-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.amp.html",
+      "publishedDateTime": "2021-03-30T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-how-are-gpus-going-to-change-your-working-world-its-ai-everywhere.md",
+      "title": "How Are GPUs Going To Change Your Working World? It’s AI, Everywhere",
+      "excerpt": "SPONSORED Mention GPUs these days, and you will naturally think about how they can accelerate the most challenging AI and machine learning workloads as",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
+          "width": 1199,
+          "height": 877,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
+      "publishedDateTime": "2021-03-30T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-highradius-raises-300m-triples-valuation-to-31b-for-ai-powered-fintech-software.md",
+      "title": "HighRadius raises $300M, triples valuation to $3.1B for AI-powered fintech software",
+      "excerpt": "HighRadius, which has developed AI-powered fintech software, announced Tuesday it has raised $300 million in a Series C funding round led by D1 Capital and Tiger Global. The round values Houston ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
+      "publishedDateTime": "2021-03-30T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-tech-newsletter-facial-recognition-in-the-us-amazons-big-pr-fail.md",
+      "title": "Tech newsletter: Facial recognition in the U.S., Amazon’s big PR fail",
+      "excerpt": "In this week's Daily Dot tech newsletter, we take a look at facial recogntion in the U.S., Amazon's Twitter PR, and Section 230.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
+      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/03/Tech-News-Newsletter-Image-03-30-2021.jpg?auto=format&ixlib=php-3.3.0",
+          "width": 1938,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
+      "publishedDateTime": "2021-03-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-ready-for-duty-healthcare-robots-get-good-prognosis-for-next-pandemic.md",
+      "title": "Ready for duty: Healthcare robots get good prognosis for next pandemic",
+      "excerpt": "Spanish flu pandemic, Czech writer Karel Čapek first introduced the term \"robot\" to describe artificial people in his 1921 sci-fi play R.U.R. While we have not yet created the highly intelligent humanoid robots imagined by Čapek,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "originalUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/2-robot.jpg",
+          "width": 1920,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp",
+      "publishedDateTime": "2021-03-30T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems.md",
       "title": "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems",
       "excerpt": "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU",
@@ -926,257 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-japan-facial-recognition-system-allowing-smooth-boarding-to-start-july-at-narita-haneda-airports.md",
-      "title": "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports",
-      "excerpt": "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "originalUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-this-robot-could-help-fulfill-your-online-shopping-sprees.md",
-      "title": "This Robot Could Help Fulfill Your Online Shopping Sprees",
-      "excerpt": "Ambi Robotics is using years of research in robot manipulation to teach machines how to get a grip. The secret? Giving them suction cups for fingers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
-      "originalUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/606265a2af7fcf595846d1fa/master/pass/Science_ambi_P1810835.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
-      "publishedDateTime": "2021-03-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory.md",
-      "title": "Will It Be Hard Or Easy For Self-Driving Cars To Expand Their Territory?",
-      "excerpt": "Will it be hard for companies like Waymo to expand out of suburban phoenix to all the different cities and countries they want to serve? Is the approach of Tesla or MobilEye superior?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062aaa1ca46bf5cf0c6ae58%2F0x0.jpg",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
-      "publishedDateTime": "2021-03-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-how-financial-organizations-can-use-ai-to-apply-esg-standards.md",
-      "title": "How Financial Organizations Can Use AI To Apply ESG Standards",
-      "excerpt": "ESG practices and how well corporations act as global citizens do matter. They impact financial performance and profits as well as a company’s long-term value, both of which investors increasingly want to understand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6061dfcc73ae82b839cbc023%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/",
-      "publishedDateTime": "2021-03-30T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
-      "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
-      "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
-      "originalUrl": "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

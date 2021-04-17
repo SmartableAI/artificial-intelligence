@@ -2,6 +2,105 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-02-how-avepoint-is-leveraging-microsoft-turing-and-ai-at-scale-to-advance-corporate-and-higher-education-learning.md",
+      "title": "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning",
+      "excerpt": "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "originalUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.avepoint.com/blog/wp-content/uploads/2020/10/machine-learning-hands-of-robot-and-human-touching-on-big-data-picture-id1206796363.jpg",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "cdnAmpWebUrl": "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "publishedDateTime": "2021-03-02T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AvePoint",
+        "domain": "avepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-microsoft-launches-azure-arc-machine-learning-and-container-services.md",
+      "title": "Microsoft launches Azure Arc machine learning and container services",
+      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 486,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/",
+      "publishedDateTime": "2021-03-02T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-rbac-support-is-now-generally-available-on-azure-machine-learning.md",
       "title": "RBAC support is now generally available on Azure Machine Learning",
       "excerpt": "At Microsoft's Ignite 2021 conference, the company has announced a host of new capabilities now available across its Azure Cognitive Search and Azure Machine Learning solutions. Additionally, it has also announced a bunch of features currently in preview ...",
@@ -1328,93 +1427,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
-      "title": "Machine learning aids in simulating dynamics of interacting atoms",
-      "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "originalUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg",
-          "width": 1027,
-          "height": 1147,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "publishedDateTime": "2021-02-24T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
-      "title": "Microsoft launches new Azure Arc machine learning and container services",
-      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "publishedDateTime": "2021-02-23T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

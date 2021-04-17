@@ -34,6 +34,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 10
+  - title: "An easy access method for event recognition of -OTDR sensing system base on transfer learning"
+    excerpt: "Traditional event recognition methods for signal collected by -OTDR sensing system is difficult to identify the event category accurately in field application. Deep-learning-based event recognition method can achieve high classification accuracy but needs massive scale computation and long-term training."
+    publishedDateTime: 2021-04-17T04:43:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9394729"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 0
 
 secured: "PpvvwTXzBnLn2+6jGlDHgSNd5dZr6BTOcK5RD/PWhRdYiLu1P6kJPmcs3Fn1qDn2+pjDZEEIs0Uc5/708M7yGhIAFV6O/npiHq2O+X1gXtV27ZqgosdEQBbinVqReYyQzIvI46RO7rA6ykH4Gl7Kp5rWjEg4On747ivaD+Q5WeowN3hvuNzWBR/eaRKVok/bGvc/c8SH0jz4elnJIO1v2Tl6ncPP9PNLYAc1x0TOLEo6JytvtMb3mS7Pbo2NGo+X7PM9jZGamhGdIKr+tRTEMJkVR1kkY3o7n6plX87qtdDcLytSUy193rzg+NgOrnIHTHufBKYv0j6FeESTLbtF05HgDgeVmNRuLMciMmBRUW0=;NiOwBp8jhxCA1B5tW7C9Bw=="
 ---
