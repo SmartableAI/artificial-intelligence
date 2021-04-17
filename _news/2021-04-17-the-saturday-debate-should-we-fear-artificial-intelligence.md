@@ -8,8 +8,8 @@ webUrl: "https://www.thestar.com/opinion/contributors/the-saturday-debate/2021/0
 ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/the-saturday-debate/2021/04/17/the-saturday-debate-should-we-fear-artificial-intelligence.html"
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/the-saturday-debate/2021/04/17/the-saturday-debate-should-we-fear-artificial-intelligence.html"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://images.thestar.com/JnNFxQTH87AEZ33znMnj71VpMNo=/1086x967/smart/filters:cb(1618593898713)/https://www.thestar.com/content/dam/thestar/opinion/contributors/the-saturday-debate/2021/04/17/the-saturday-debate-should-we-fear-artificial-intelligence/debate24_ai_final_web.jpg"

@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-ocado-invests-10-million-in-self-driving-firm-oxbotica.md",
-      "title": "Ocado invests £10 million in self-driving firm Oxbotica",
-      "excerpt": "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years.",
+      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
+      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
+      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
       "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
-      "originalUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
+      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg",
-          "width": 760,
-          "height": 428,
+          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
+          "width": 636,
+          "height": 382,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T03:36:00-07:00",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "publishedDateTime": "2021-04-16T02:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -101,8 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -157,7 +149,7 @@
       "originalUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -559,7 +551,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {

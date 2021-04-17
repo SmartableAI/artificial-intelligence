@@ -313,22 +313,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Microsoft Will Pay $19.7 Billion for Speech-Recognition Company Nuance"
-    excerpt: "Microsoft said it clinched a deal to buy Nuance Communications, a pioneering voice-recognition tech company, in an all-cash transaction valued at $19.7 billion, inclusive of Nuance’s net debt. It"
-    publishedDateTime: 2021-04-12T20:09:00Z
-    webUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/"
-    ampWebUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 61
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/04/Microsoft-Acquires-Nuance.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
     publishedDateTime: 2021-04-13T05:26:00Z

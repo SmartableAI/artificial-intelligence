@@ -2,59 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
-      "title": "Packing safety intelligence into robots’ AI brains",
-      "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
-      "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
-      "publishedDateTime": "2021-04-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-general-motors-backed-cruise-is-set-to-expand-self-driving-operations-to-dubai-in-2023.md",
       "title": "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023",
       "excerpt": "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ...",
@@ -1223,6 +1170,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-one-stop-machine-learning-platform-turns-health-care-data-into-insights.md",
+      "title": "One-stop machine learning platform turns health care data into insights",
+      "excerpt": "By shepherding hospital data through an ever-increasing set of machine learning models, the system could assist hospitals in planning for events as large as global pandemics and as small as no-show appointments. With Cardea, hospitals may eventually be ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/cardea-machine-learning-platform-health-care-data-insights-0409",
+      "originalUrl": "https://news.mit.edu/2021/cardea-machine-learning-platform-health-care-data-insights-0409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Cardea-LIDS-2021_0.png",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

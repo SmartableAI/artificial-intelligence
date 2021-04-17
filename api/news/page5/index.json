@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-04-13-machine-learning-can-help-slow-down-future-pandemics.md",
-      "title": "Machine learning can help slow down future pandemics",
-      "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers at the University of Gothenburg have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/24-machinelearn.jpg",
-          "width": 1000,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
-      "publishedDateTime": "2021-04-13T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-13-why-these-doctors-are-embracing-ai-to-make-triage-decisions.md",
       "title": "Why these doctors are embracing AI to make triage decisions",
       "excerpt": "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ...",
@@ -824,7 +781,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -876,7 +833,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -1210,6 +1167,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
+      "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
+      "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621229%2Fudelv-driven-by-mobileye-night-75789135.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "publishedDateTime": "2021-04-12T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

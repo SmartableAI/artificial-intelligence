@@ -2,58 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-04-09-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
-      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
-      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
-      "publishedDateTime": "2021-04-08T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-local-police-in-virginia-will-be-banned-from-using-facial-recognition-technology.md",
       "title": "Local police in Virginia will be banned from using facial recognition technology",
       "excerpt": "The new law goes into effect July 1. Several Hampton Roads police departments — and Virginia State Police — had officers use the controversial app Clearview AI without telling supervisors.",
@@ -1186,6 +1134,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "ignio™ AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

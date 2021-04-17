@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "Artificial Intelligence Research at Duke"
-    excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
-    publishedDateTime: 2021-04-12T19:29:00Z
-    webUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
-    type: article
-    provider:
-      name: Chronicle
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "Z7MhwkqE9Gr1BhrCARwjHFM5q8upepfGnXWmreLC4F504mXcZ9vJs3MlaPi5oxP7GoYtiSHxk18hjGG0W37cwHuVbRTCg9jZMPDs55TVGp16BCaWTQD1t8Z+ruNdM/XlHfl+2U/8ecsQFHlQ1zeScb87wUQefD9msgQHjKjerQxiGQMzbOCExqhqOpNGW967s3+1asiX+Eyb2qpf2xidiLBGgen48aDnHw4uzKO9PpoS0hKUpio11Uog/eSZBiq3JzCHh6wtNBmuTY9A7PZBFCd4VEki6sdiXFUlcSd2DuN14LKM2ndj1PAU10DdrmCdm6b3OXpy+HMHrIgT26GoFOYAkHeT57GBqWpEgEIl0is=;4NC9DT8sPSGrz+unb7jAIA=="
 ---

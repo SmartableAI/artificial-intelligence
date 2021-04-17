@@ -166,7 +166,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -513,58 +513,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-ocado-invests-10-million-in-self-driving-firm-oxbotica.md",
-      "title": "Ocado invests £10 million in self-driving firm Oxbotica",
-      "excerpt": "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
-      "originalUrl": "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
       "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
@@ -615,6 +563,50 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
+      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
+      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "publishedDateTime": "2021-04-16T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -708,50 +700,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification.md",
-      "title": "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification",
-      "excerpt": "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "originalUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "publishedDateTime": "2021-04-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -990,6 +938,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -1030,40 +1021,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1208,6 +1165,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-self-driving-semi-truck-company-tusimple-raises-over-1-billion.md",
+      "title": "Self-Driving Semi Truck Company TuSimple Raises Over $1 Billion",
+      "excerpt": "TuSimple claims its self driving technology makes it possible for heavy trucks to see 1,000 meters away and react 15 times faster than a human. They are currently self driving on highways and going between truck depots outside of cities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-15-at-9.18.49-AM.jpg",
+          "width": 1184,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "publishedDateTime": "2021-04-15T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

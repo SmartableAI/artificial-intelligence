@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-08-assessing-regulatory-fairness-through-machine-learning.md",
-      "title": "Assessing regulatory fairness through machine learning",
-      "excerpt": "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators.",
-      "sourceUrl": null,
-      "webUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
-      "originalUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stanford News",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-global-artificial-intelligence-ai-chipsets-market-2020-to-2027-size-forecasts-with-impact-analysis-of-covid-19.md",
       "title": "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1427,6 +1375,52 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-avepoint-is-leveraging-microsoft-turing-and-ai-at-scale-to-advance-corporate-and-higher-education-learning.md",
+      "title": "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning",
+      "excerpt": "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "originalUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.avepoint.com/blog/wp-content/uploads/2020/10/machine-learning-hands-of-robot-and-human-touching-on-big-data-picture-id1206796363.jpg",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "cdnAmpWebUrl": "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "publishedDateTime": "2021-03-02T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AvePoint",
+        "domain": "avepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "Microsoft AI",
+        "AI Ethics"
       ]
     }
   ],

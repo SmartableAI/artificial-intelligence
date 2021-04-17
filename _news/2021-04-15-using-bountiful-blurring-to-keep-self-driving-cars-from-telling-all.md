@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
-    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
-    publishedDateTime: 2021-04-12T19:41:00Z
-    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "XzKtmE0CGETlHapKiHfvzhLCESCmoj0AH/vF0iWaSBcLszXZU5yPGQRv13PrOOZR9qxEsuzyOk/tg297pVofBISc5knnbCurdwNPd4xwNH6XYBw4DkzbQTI+jtlqjpiCHe75zmTl/AbCOdGxxlu5S5yfAUnKoa6rmt0mScauKifKZ8mcZHjrilgWIhFzxdEe2Nlx+zsuAvCEUpDH3korK6pVOAMeuMeJr9c6GqOjhhuTz+TfTTBuXshDp7z/cmpOXd8iqrH4WQ87O8PUkb7/Rec/Y8G/YW+6kzibi6S7G/eH1UfjpEsAoJzCW7KlM+mxoMJq3LzfmxwZfcpvm02Z8DJAZz4HNTt4qUNGX5XsgBNaSX+sL/nGDPt9hL1mLCiQCCwLwKrTO5jqf8XxNabvXDls0+VBvhBftVu9xi63eYJfwTis3gTNThUmVBKwwNR8X2Vuz1T8GMuik2bJIUomOMLG2L0JccR6TFEqWOorYxQrp3p22fEoAeGXXBf3r2KINtfOagEpwuuWmsHWO9PVtA==;PebhwtsVp/VdPedWVee5tQ=="
 ---

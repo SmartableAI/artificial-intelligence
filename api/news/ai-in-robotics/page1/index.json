@@ -99,6 +99,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
+      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
+      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
+      "publishedDateTime": "2021-04-16T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-a-budding-leader-of-automation-and-robotics.md",
       "title": "A Budding Leader of Automation and Robotics",
       "excerpt": "Thailand’s automation and intelligent robotics industry has gone from strength to strength in recent years, driven by increasing demand from both domestic and overseas industries along with its well-established ecosystem.",
@@ -228,6 +272,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -268,40 +355,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -356,7 +409,7 @@
       "originalUrl": "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -757,7 +810,7 @@
       "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1390,59 +1443,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
-      "title": "Packing safety intelligence into robots’ AI brains",
-      "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
-      "originalUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/06/thinkstockphotos-491279124-100668869-large.jpg",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3614748/packing-safety-intelligence-into-robots-ai-brains.amp.html",
-      "publishedDateTime": "2021-04-12T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

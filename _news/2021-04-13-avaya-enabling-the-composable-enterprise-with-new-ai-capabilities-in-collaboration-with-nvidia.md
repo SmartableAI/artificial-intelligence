@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/technology-north-america-north-carolina
 webUrl: "https://apnews.com/article/technology-north-america-north-carolina-durham-united-states-ab9f49e632d64a52a615008950867eae"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
+    excerpt: "(NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering with NVIDIA to bring AI to the edge at scale. Today’s applications use AI for a variety of tasks from translating text on webpages to object recognition in images,"
+    publishedDateTime: 2021-04-13T17:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Avaya enabling the composable enterprise with new AI capabilities in collaboration with NVIDIA"
     excerpt: "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive collaboration and communications portfolio will enable today’s composable enterprise to effortlessly deliver memorable experiences for customers and staff."
     publishedDateTime: 2021-04-16T04:20:00Z
@@ -36,15 +50,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 27
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "L1SQytdZgYhgDoXJ+l3dFb4YhaUBwu9FvfryzieT8x6FtqW0RIAErMi/NL2bOIBC8G7QUGaGvOVQK1jJErMUAvgxS5hryYFwSsWYDK8a4R1ZBbYE/VW8vneMbd6lk8nnXnxN3AGXmbf14ckzkL3810vCzfwuk27VS/SPhEEsOoxf//DllaZzYpAQgZyVY4EB9CTK7Dj+59BSK90NUIG62Te3YNigPJXbqRmWloLWVayRUfikh6bMIPWX8DYJi/RTNRHI+/adGEtq80GP+L9dNH3o1rh3p6S39W7O2HaLyj7SSlR5bpetr1L7tGUNRir4uuQYvcDmScVaCOpZQyaDNnhmHrww7GwkGWOm/aSm6EY=;D+xC1LxxkdIj3vksM9xaPw=="
 ---

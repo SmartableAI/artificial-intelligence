@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ocado to invest £10m in driverless vehicle start-up Oxbotica"
+    excerpt: "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries."
+    publishedDateTime: 2021-04-16T09:38:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 61
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Ocado invests £10 million in self-driving firm Oxbotica"
     excerpt: "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years."
     publishedDateTime: 2021-04-16T10:36:00Z

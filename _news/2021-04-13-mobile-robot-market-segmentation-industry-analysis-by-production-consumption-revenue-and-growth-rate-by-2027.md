@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Austrian Startup Reveals Multifunctional Construction Robot"
+    excerpt: "The Austrian startup Printstones is developing mobile robotic systems for 3D printing since 2017.The startup now revealed a new prototype. This new robot has a modular design approach and is open for external innovations."
+    publishedDateTime: 2021-04-17T12:12:00Z
+    webUrl: "https://www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/"
+    ampWebUrl: "https://www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 59
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Construction-Robot-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "M5WqmXHOzbqf7LlnRKtuXO+mk9mdvwtyDGV7/CnoUZyY0cBu32Y7q/KCeDGZGW/QhIvU9I+jvRKZno6mH9gGZS3YRM2P5GiiL46vrUfa4w8AH0GTBrgZzKhmdpYhuLNiosxl1HW1ckzsv2XiRFoIbslgKC7b7A3ydMeCJHgt5NKQrm/bApwmoMyON0mSjvL2P3wO4ia+RpdYdGH1lat0gllhuNSommVactVg26Dmj/DDR5FFys7AeTl3kmdMaStjY/pOGH1e2w27evT8WsresLJWc8Y4hU7tnoNqu/vy1z4qhXjluAL/TqSETNoSqDdidpgBiV0g99RJsJdw7C3e2JuQK08k9Vxni7QPIbcJsrU=;ujoxyxfUHjBRHJd7VJIY3A=="
 ---

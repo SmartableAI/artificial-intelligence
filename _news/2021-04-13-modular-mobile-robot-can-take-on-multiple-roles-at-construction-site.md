@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/baubot-modular-mobile-construction-rob
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Austrian Startup Reveals Multifunctional Construction Robot"
+    excerpt: "The Austrian startup Printstones is developing mobile robotic systems for 3D printing since 2017.The startup now revealed a new prototype. This new robot has a modular design approach and is open for external innovations."
+    publishedDateTime: 2021-04-17T12:12:00Z
+    webUrl: "https://www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/"
+    ampWebUrl: "https://www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/?amp"
+    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/?amp"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 59
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Construction-Robot-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Mobile Robot Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2027"
     excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
     publishedDateTime: 2021-04-13T15:33:00Z

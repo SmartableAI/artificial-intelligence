@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-lo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361"
         width: 617
         height: 347
-        isCached: true
-  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
-    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
-    publishedDateTime: 2021-04-12T19:41:00Z
-    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "cTxIVeKH8ht1xExXMS+l5oiFkeZTi96o4BkDgFEmbFYTdwsy5R3P5mZRy6E2OTSO/aPYCMKnL90mIoEDF/p2Stm8by5sPOpHbCJgyhSn4CTXrLsepREWC8xaeNZe+tW5aaYDFXiSnWwGmHAHOelHZNLQiT8rh5iWHlagzwPx11Ds8rvmQE31em154eIHwwQpj7SZC3QnGrQqWTmm3npkWbJSo/Aoox378IQdZ7w0M9/Zfrl4BFML0pXVpzBfNTIZhnQoKHNGuxY/TgbIgAhKYn3PYYi+wChKUkr5ELlOZ4l2rb9nQlHlxpE/U0opcGo37Q0VKegwm8BVGmAA5nH6COuncMV546FMDrSAldd3ByE=;EXjrqTKgt27tftBsPS4FUg=="

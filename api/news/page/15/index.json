@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
-      "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
-      "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "originalUrl": "https://www.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/77de6537-fdd7-5de4-8b4e-cdc36e7ed04a/default-1617617681-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-robots-selfportrait-has-sold-for-almost-700000-as-an-nft/",
-      "publishedDateTime": "2021-04-05T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
       "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
       "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
@@ -1016,6 +973,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
+      "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
+      "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/IMG_20210325_164803.jpg",
+          "width": 673,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "publishedDateTime": "2021-04-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

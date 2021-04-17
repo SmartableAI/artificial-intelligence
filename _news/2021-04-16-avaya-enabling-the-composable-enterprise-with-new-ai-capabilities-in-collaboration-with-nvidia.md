@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
+    excerpt: "(NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering with NVIDIA to bring AI to the edge at scale. Today’s applications use AI for a variety of tasks from translating text on webpages to object recognition in images,"
+    publishedDateTime: 2021-04-13T17:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Avaya Enabling the Composable Enterprise with New AI Capabilities in Collaboration with NVIDIA"
     excerpt: "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive ..."
     publishedDateTime: 2021-04-13T12:01:00Z
@@ -35,15 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "HoVO03t6CMY0GKAK7LSjA8knwdTKJaY48B39G5D3Ru7j16Rz8ehDgilTQwvLRV35lc64Wumt5/zDagA0romJfVvpb9N9/a/F/eKoNsAVNXXtw+BWvEP4iRCy3bnm1iJzd4+S7vTg7/aiTK2ELelEY3wks2w6gkpnfOal/on+ygpKYjpyBm82N2Uleu8uW8NO104jIcC1PjRryoXxsXyalM8PDPyAoj1zXOrJE4fZpqMaf/bVYbBMSGqEwTLJEmZOkc3S/9HjP1/a9d1BGtPKgGhlQVtcTdp1nAcRlWO4gG2OQCCWRr33nIciRTOcmFep+FmvBOT+MKUeyzrssljXnyiYQsPvYm2C/z3B9Rt4LpQ=;M6WqpHWV4171gDJxRFCLyg=="
 ---

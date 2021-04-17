@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-e
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Artificial Intelligence Research at Duke"
-    excerpt: "Artificial Intelligence research at Duke covers everything from health to enhancing photos to machine learning. See what some Duke researchers are doing in the field. AI for Everyone Was An Academic G"
-    publishedDateTime: 2021-04-12T19:29:00Z
-    webUrl: "https://today.duke.edu/2021/04/artificial-intelligence-research-duke"
-    type: article
-    provider:
-      name: Chronicle
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://today.duke.edu/sites/default/files/styles/story_body/public/art_artificial_intelligence.jpg?itok=wWjAKVBO"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "zy6BY3nCew82x+ESxO/BTny9KJDUzZAk3QI6jsGgmMTr18JNCE4TM3ElT3C1U8SLT8yN3xb5XsYEpSLcEeGMxf+N8kC6PpJlPwhVgitgoR2zYPeExDiXTIgfh0IK04G74Xa9qiLf1zjZRnJYB7qxziLUOyUujnEU1g3VXZW5960Uomq3Ibnt71UrPo6F0ADI+yWV1a209mGdKhN3WFdy5DOZX0I6bLpadRvqUzSXuSklAu4kmSOOT+HtPjJQARvbuZrnHNFb4EcwpUUc1ls1Q1GUVTbAKYcGIPquKP/2UssfK1Tqzsz+1/q9YlHSU5ieewUzpebffTcdfD2673bgbbS6CVUzDnhHwgmbcfe1VU9WesMmOQz/ISib+1ftAT6fr4tt5zc7afPAhfIQnBwCLbJzzpbva3ieP4Y2L06bF90z+X9+cR6FTQCCIcYx8Z54k4KaziSATH7p5gPEP5tdxd038f3yGIaoRdapBe+NuDeEatXPu9NHH8jRKNO5aea1YoYjMuObWLdzZKUG6lAdzw==;X/ACZYcUhIwYODe2WycXKw=="

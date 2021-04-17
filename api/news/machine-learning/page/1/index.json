@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification.md",
-      "title": "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification",
-      "excerpt": "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "originalUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "publishedDateTime": "2021-04-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-deep-learning-market-size-share-growth-trends-and-forecast-2021-2023.md",
       "title": "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023",
       "excerpt": "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period.",
@@ -342,7 +298,7 @@
       "originalUrl": "https://scitechdaily.com/new-deep-learning-ai-tool-can-revolutionize-microscopy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1467,6 +1423,60 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027",
+      "excerpt": "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
       ]
     }
   ],

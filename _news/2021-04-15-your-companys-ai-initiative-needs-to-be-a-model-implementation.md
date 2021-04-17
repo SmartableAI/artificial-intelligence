@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 553
     isCached: true
-
-related:
-  - title: "Four Things the Pentagon Needs to Do to Advance Its AI"
-    excerpt: "Change of this magnitude has to start from the top. Our commissioners’ experiences show that at least 50 percent of AI adoption is about organizational change and therefore requires steady, persistent leadership and a willingness to hold the organization ..."
-    publishedDateTime: 2021-04-12T19:06:00Z
-    webUrl: "https://www.defenseone.com/ideas/2021/04/four-things-pentagon-needs-do-advance-its-ai/173291/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/upload/2021/04/12/Marine-Cyberspace-Command/open-graph.jpeg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "IisxNjNIzhtLfKgJMJ0TS1FW8hT1E5H+2yNI875pJxxHCdTFQRT7bg3xGMKjqThxFWzLnCydDWBmwT6pu8u8PVjNGa+kWPTc1/PFtrCZYgWIrYYDeP7wp7KwAL1A+/da3EpAERbSAdgyPIby1uQwlORriKOzZ1RsnHENvn8bOYqLT/3/Ik0dDaGQ3kT2nsui21qWnUfHKSTle6QBLIxbeuZjWfetyiXc/tLD2kw87EAsZpW0tlXuZZAsEdspZ97eP18Yrs84fdTicc8ifvGmP42B3AWWLCPkqwwUIwK6ngm1BmiqyIZa6POjcqmD7mYgfQeoOgPRVNXAkXYhYqCdWg5vFv7KQiMNISHPmG4suKE=;dPT0+XfvHRMHwSDv/djqOw=="
 ---
