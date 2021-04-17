@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-16T23:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16"
 type: article
-quality: 73
-heat: 73
+quality: 75
+heat: 75
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "cSabkuElxJWUQW4wiN8paNvNZknUg5EH6oXR7bTTQIinKCt1GXB9hOJJvObFvZGPNlrWQFm1iRbmyXtJtB0gMb4L4EmEn9vxy29xujhlZLdK3ZHuiW5uLzkqIxjjtqi3qcURzEElG5OwJx7vpDlV1oOONfNF/S7cAXg5ErFXAvENYQndPxmkPzYubQ161wuIQjHkXt3JH/1oY+pXnD2r1i6FPeSjgz7ullZqxwocyxT7tTTb0195lfMa7RLOI4/i+A/riD0Cspei8mqrcicYkaegQWigLiXEPadA+PPcOpz4j0B8OLO7C8CNowM2WbsRx9t4p1B39lWxbA7DLhWp8ZbegMUWa5leVm6XcHCFlHw=;6kqF8p6hOIu6GNmvDJJibg=="
+secured: "dhH7VnI5P/q6XiudpDAyvljdLHu0Iuw1zcbyU1TQz/nx2GiOzGO6mMMScmsSWKwlGedwod9SId8ybzT0FtvV5iy9HXX0aV2R+HIW9F/0jYEBFYutFtIVq17EcP0qsmST/DWgPwSSPhjBQZYTkeHUsqCWhfowtCNiEbxSoJQG/bmyAIYlyy/jRZe+Nu142jFxnhm09u0RzR4yIrH77u9pkYXf/WLq9DJvOov5+O9H2uhYVqm/5kdJX2YViLXCtSAudOrhJP9dBx+rDgTlCIWxfj3S746f6NepMy3qVumDbN7i+rHG201XlOa0zI45rqlDlFUhWCc2rSI9gDKWzJqLvoykfMp4ay8gMrzqb0jnvj8=;Z9SyGWvzoJxM5lq/BW20vg=="
 ---
 

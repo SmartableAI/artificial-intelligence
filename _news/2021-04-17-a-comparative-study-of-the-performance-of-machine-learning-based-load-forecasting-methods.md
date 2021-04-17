@@ -1,0 +1,39 @@
+---
+category: news
+title: "A Comparative Study of the Performance of Machine Learning based Load Forecasting Methods"
+excerpt: "A significant aspect of power system control is short-term power load forecasting. It is the basis for the preparation of network systems, the exchange of energy and load scheduling. The accuracy of power load forecasting is directly linked to the security,"
+publishedDateTime: 2021-04-17T03:31:00Z
+originalUrl: "https://ieeexplore.ieee.org/document/9395834"
+webUrl: "https://ieeexplore.ieee.org/document/9395834"
+type: article
+quality: 10
+heat: -1
+published: false
+
+provider:
+  name: IEEE
+  domain: ieee.org
+
+topics:
+  - Machine Learning
+  - AI
+
+related:
+  - title: "Deep Learning-Based Short-Term Load Forecasting Approach in Smart Grid With Clustering and Consumption Pattern Recognition"
+    excerpt: "Different aggregation levels of the electric grid’s big data can be helpful to develop highly accurate deep learning models for Short-term Load Forecasting (STLF) in electrical networks. Whilst different models are proposed for STLF,"
+    publishedDateTime: 2021-04-14T08:13:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9399106"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 13
+    images:
+      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9399106/graphical_abstract/access-gagraphic-3071654.jpg"
+        width: 660
+        height: 295
+        isCached: true
+
+secured: "eKXfCkKOxgdklP9RQUeR1VrHYFumD6p7cKUz97Af4r4slWER8nDQFtIOGRfknpJvMMewzL3HvZneCFRUyjvR7cSA+S5cdum9+n16yqnACcQsQks6spEREYd9oCogE3apvpdaqhour5h6IzBz3mFh/AAASi2B8A1FGzpurNhIAECXinun9+sIz23C1OWVNabXQJP4vEvZiIu9uFx+XF3+6mEC0CN9m2IjxLSHdD9CDVD7pvvt/XAHa8Tix2I1clNATCVYq3vbQIFjwREwfg07YCVWxMVWIGhgvoAp8/DbyP2+oWVRRpfWMmmRCTo84JW9xYh8Hr1ZELRQ0nXiHtv5PWhd5VnZHoVuXGcmgvu2LR8=;coWaiyhKilIaWPJxGtVQ/g=="
+---
+

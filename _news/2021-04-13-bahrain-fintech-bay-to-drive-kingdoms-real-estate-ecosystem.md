@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_207820597/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_207820597/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637540724577231009.jpg"
         width: 500
         height: 333
-        isCached: true
-  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
-    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 18
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "ohb02H62HTQk1xzCVtWkvwkDLRrZXLzzk1veo83kYF3x3VtQK04p3MnjyTwisND6Q+uB1Gsv/fnfAuyLfWhjbEOQU7WsP6J77cv7rCuuO7+CrMW36DTbKTyqnPpUhnEpcatbjYR1eHhHDijLpgzMxNUNRzfVoNzbksybB1t1VlhsRfWlBDEOTG7bPf2VcL4Udke2M27H+8XMoKEX4N+KyRft7TvCgKVBYBK2KWaYTzjVP8hr/D4CNmyqs7mcCqwPXj4DJTNZkyav1Mu+nOlfnyef5qmbCUCzQrzZWnMZmdF2OMP5M7/iHWll/tSmRdfEXU7I1N34fMvWFptTrqcGBTLGs0Lq/gJxfHNVcDxLexSVWikHANd0I/JaLUFDTptJ5NG1/mGpnkebtX1NMmHiVGJWm7dDrVvZED0Kd2G5vUBFRheMjG7biaEFlTh8jscIqnRdHzIot+N4Sadnf/kWXcF377uCznHmgKnezYnNgMfL6bCTX2eUTeg3Jp+NNsQPISYcNBaYkJj/lSDfokOZIQ==;KQ/tqy1j13/kW0xFbmSMQw=="

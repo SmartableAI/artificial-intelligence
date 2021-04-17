@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s self-driving bus, Robobus, is on cusp of commercial operation"
-    excerpt: "China's first self-driving bus project, launched by Baidu, officially landed in Yongchuan, in Southwest China's Chongqing Municipality, a milestone for China's commercialization of autonomous driving technology. The Robobus is 5.9 meters long. As a self ..."
-    publishedDateTime: 2021-04-12T09:46:00Z
-    webUrl: "https://www.globaltimes.cn/page/202104/1220826.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-04-12/7e711ab4-24e2-4e14-9e16-c1d3d6758cde.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Netizens hail China’s first self-driving bus in Chongqing"
     excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. Each bus has a member of staff who can switch to ..."
     publishedDateTime: 2021-04-14T16:03:00Z

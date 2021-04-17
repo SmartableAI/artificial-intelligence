@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-cruise-raises
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
 type: article
 quality: 167
-heat: 297
+heat: 307
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Walmart is investing in self-driving development with Cruise"
+    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
+    publishedDateTime: 2021-04-15T22:48:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
     excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"

@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Trends Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC, has added a research study on ‘ Artificial Intelligence (AI) in Fintech market’ which delivers a concise outline of the market share, market size, revenue estimation, geographical ..."
-    publishedDateTime: 2021-04-12T09:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-trends-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
     excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
     publishedDateTime: 2021-04-12T13:53:00Z

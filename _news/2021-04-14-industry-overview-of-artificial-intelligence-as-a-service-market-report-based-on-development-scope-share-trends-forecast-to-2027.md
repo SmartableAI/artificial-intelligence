@@ -199,15 +199,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
-    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
-    publishedDateTime: 2021-04-12T09:21:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
 
 secured: "bn6cTdWlP41LUZgryJ4G6W2vHylLnimVnCBM3hzuhDqUbhOv5Qpz9yGChbZ8GUSIt/cOEC+ywDIaDQNQNe9wXV1WoQOHrqzsD4fplG1M3yImwyIkm111q5AJRqqSipvYaVFpJoqRvDiTF/rTB7PpoIPYFMiCZMGas6Xcub6aqETErxZnrAEFBx+wS1qsqNJIKg3aNm8pvNYhClvRrq5S2kxMJ75CM8NVxOWUwzObZS+wKlYhNVaxD6HvGgQiUJryqVRZ8Qd3jTD1LiidekwcKHLd/y+noy7yDwgk2GSFcOKoGSV1hI62uCUNnMNEc3IU62mPAzg8bunOZ891/rQdkWgtBqAwJtRsiST9V/vZWA8=;mhwX5kv7iSG/wSxuoDVh9A=="
 ---

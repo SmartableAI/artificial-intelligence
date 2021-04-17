@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
-publishedDateTime: 2021-04-14T13:00:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
-webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
+publishedDateTime: 2021-04-14T05:57:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-    width: 845
-    height: 396
-    isCached: true
 
 related:
   - title: "New Advancements in AI are Changing Healthcare as We Know It"
@@ -57,20 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Not using AI in healthcare will soon be malpractice"
-    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
-    publishedDateTime: 2021-04-12T09:18:00Z
-    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 54
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Produce and the advancement of AI in the Roaring 20s"
     excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
     publishedDateTime: 2021-04-15T16:27:00Z
@@ -81,6 +61,6 @@ related:
       domain: thepacker.com
     quality: 17
 
-secured: "7E4l7VKB1kZGi4/nbAXlW2mR0fZKFFH+13pSdm1j6UgINRlGZIyDgUmqMFp3GgfoULeYBaw/JkrXX921Kmv38qXZ5iBr7tX+vQt594OHDadl+RdgM1i2k6/9Fh3adYXlyanXuGCp3D9EA21uM/xdJj9n9thvEIMgey+waaHAVFxMuTZLbDHigiwUAQD/LkWJsNsg49p73tgdsFRXpLKldhko2N4kV4bG2bTdKRFEn54U+A1e5u8gYAAmaslmuFw97WIfNNJjceqWAlrkKy4bs0M7nsb8VoTqgjAtK3F5PxOPeV0L5pOqRJ+DCJSYcOY2RucAxkUHZNkNFZmH0mw+KlLhHrH2B/XB296fExSwSABz3+DAlffqz4wOgfXWC6A2RxKX8XMo1sO8XCrot1R3yPItjXXzmngLznNJx+UC7mpTdbvlwP1p2yjkpMpyBMeOCGzD3FnIsNDBt1mkYZwiGbA01ZZwE8f7O1KuoAhPOvGeZyniuE7xv8xsNCkEBKx/Vui5GzgZ9WMMo7+7x4p3Cw==;giO9YbWOJDmQOln/P5oENg=="
+secured: "Vu77vSNKdBTCf7fmvkMZe7OWVfSii+VVBMh8xXcYoBPHLNCMDzYlVLfdcxmCr/iwVt/K6IEHHdpD5E2vaTXOORecNugAC1JiMVlYwtHqqdsmWBO9ufX6hBUAD1JHGT12MXmdShP8RTOc7Ytzh65vBxwqf4nM69yyp6xWJ5f3FXSWYA3pPLZHCayyyeeh5SNBR/b0hWzUZZpPjkLMDid//JYnzULvevvDUq0hF7WNCiV0FxHbDrpK1uv84wkTJkePRMv5QLaEwLNJgqZT838PlQLDHGpifo5jDtVl9O3Jo00uQZpzbUHZPXXZ9kzlk6nj8i30iMBCrawZGcp0uZSCffdcEP4nHglwNpqheVpkiH0=;g5jIK7OH4MlfTZgVhvhrYQ=="
 ---
 

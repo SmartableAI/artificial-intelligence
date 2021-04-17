@@ -50,34 +50,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Not using AI in healthcare will soon be malpractice"
-    excerpt: "Central and Eastern Europe is well positioned to take a leading role in the development of AI in healthcare, but the creation of a marketplace for data is crucial. Just how important a role will artificial intelligence (AI) have in medicine over the coming ..."
-    publishedDateTime: 2021-04-12T09:18:00Z
-    webUrl: "https://emerging-europe.com/news/not-using-ai-in-healthcare-will-soon-be-malpractice/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 54
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2021/04/franki-chamaki-1k6iqsqbizi-unsplash-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-    excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+    excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
+    publishedDateTime: 2021-04-14T05:57:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 44
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-        width: 845
-        height: 396
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 24
 
 secured: "SAASRgQMvcYOw9xQYz5AtLYV4h4/I3rp0Oiz79UOO4U+35loh42XA7HhEYdkoah+Ys3wT4bc4pkhQD0pVsmxHZmfIbHKbcJTkMXIyhUQ281dy043WVzbcp+DqJD4+gR3EbRdH3GciE7bdneYLTyDva9UlXzbKvOrKCUiXvokpDw9nKKV63t1/GLRKx8uGJbBfGF+EZ9Wuipr/f/dwqSu8qmo0Fvnm8EmhU/13b6TyujF2DvRixomcVCrYtB/kTCuAWlMhBsVAlJXkAWvFR9qkwShrcXBKvIj2XDMZSg4K78Hhy9KQ5wQT0ikSWtgW7BnjvKjf5bsF9cIqo92UQY4dEA/udnDlZx6zYZMY6pv9Y0=;VMsuC18QCtxlVT8N3Ja9Dw=="
 ---

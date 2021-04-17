@@ -55,20 +55,6 @@ related:
         width: 2483
         height: 2942
         isCached: true
-  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
-    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
-    publishedDateTime: 2021-04-12T11:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 30
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "JibaZsWF9QdGz/oecz7tUhQcJ/3e2enpjbMzMxmpVrrBrN7u+hzFSqwcw1Xqftil3o+qWml9ozjCIy/oXIjYZ0xecN7tngwQUR4tR+FesNb7R1eRN3BjvBpyk7HRsPK0XwUjayhO+JwRpVbdBHzXm7jDOvaW6SP3YVPzZkA3ss/YPJIJ/J/QWFBMAilE+UqT1qlicyM8GhZFA8UaSmQZdRt6bVghQCj/drAfeD0pUF/JHPZGNSZ24w9LltMeC3r7yYf4SczlrJHpG5RA1qV48u6X1XHIcAT8Q8gBaQStmZuTxv7d+lIH9s6/VpjXSt+tHbGpBZDGNljPXVd8iqEhp4C5s3YKC0plxxvuaZsm/XHczU6hRLetoRbnrnTyhKP2GjmNjSVQcxNoICiT44eRl+z0D1p1TaCpECZhE07x6XKeBEoK91oUf+P6eEPhieHoS2O+rGYhkI3i1mcCEJHSpKTkPVlG3MT3W7+kSN1QunUNrn+lmqyMcvgiSnSPTTzcfAbX2ApKdDg7pR/Z28Tutw==;OUyNUJXUX1JZIz4Z58OjCQ=="
 ---

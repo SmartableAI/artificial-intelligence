@@ -59,20 +59,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
-    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
-    publishedDateTime: 2021-04-12T10:42:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Huawei to invest $1 billion to develop EV and Self-Driving technology"
     excerpt: "While its telecom and mobile business is suffering, the company is moving ahead to establish itself in the next major thing — Electric Vehicles and Self-Driving Technology. In line with this, Huawei will invest about $1 billion for the development of ..."
     publishedDateTime: 2021-04-14T10:42:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/05/Huawei-Logo-MWC-2019.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
+    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... Search giant Baidu Inc. and Geely Automobile Holdings Ltd. also are said to be teaming ..."
+    publishedDateTime: 2021-04-12T15:33:00Z
+    webUrl: "https://www.ttnews.com/articles/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/huawei-bb-1200.jpg?itok=QH1BTt8E"
+        width: 470
+        height: 246
         isCached: true
   - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
     excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."

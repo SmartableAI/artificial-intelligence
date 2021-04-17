@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows"
-    excerpt: "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint."
-    publishedDateTime: 2021-04-13T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
+  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
+    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
+    publishedDateTime: 2021-04-12T23:24:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767"
-        width: 1168
-        height: 657
-        isCached: true
-  - title: "DJI could be bringing its drone tech to self-driving cars"
-    excerpt: "DJI has established itself as the biggest name in drone technology in recent years – but it could be about to lend its expertise to a very different industry. As reported by Drone DJ, potentially leaked promotional material seems to imply the Chinese ..."
-    publishedDateTime: 2021-04-13T15:33:00Z
-    webUrl: "https://www.techradar.com/au/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/dji-could-be-bringing-its-drone-tech-to-self-driving-cars"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/chrxwaAV9euDLtLoynjTjb-480-80.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All"
     excerpt: "Self-driving cars will be capturing video of everything they encounter, raising privacy qualms, of which using blurring might be a helpful remedy."
@@ -75,19 +59,74 @@ related:
         width: 617
         height: 347
         isCached: true
-  - title: "Hyperdrive Daily: Self-Driving’s Trough of Disillusionment Continues"
-    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. The year 2020 was supposed to herald the arrival of self-driving cars. Instead, we got a global pandemic and growing ..."
-    publishedDateTime: 2021-04-14T11:18:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues"
+  - title: "Dubai to import self-driving cars"
+    excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
+    publishedDateTime: 2021-04-12T18:34:00Z
+    webUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars"
+    ampWebUrl: "https://www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
+    cdnAmpWebUrl: "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/04/dubai-import-self-driving-cars?amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 59
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8Bz9FU8rJs/v0/1200x801.jpg"
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-04/GettyImages-1196690301.jpg?h=a5ae579a&itok=WzqynpgE"
         width: 1200
-        height: 801
+        height: 628
+        isCached: true
+  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
+    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous"
+    publishedDateTime: 2021-04-12T16:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-10007367"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Domino's is testing out its automated self-driving pizza delivery service"
+    excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
+    publishedDateTime: 2021-04-12T18:40:00Z
+    webUrl: "https://www.wlwt.com/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    ampWebUrl: "https://www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/domino-s-testing-autonomous-pizza-deliveries/36098764"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 43
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
+    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
+    publishedDateTime: 2021-04-12T14:54:00Z
+    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
+    type: article
+    provider:
+      name: TaxiPoint
+      domain: taxi-point.co.uk
+    quality: 33
+    images:
+      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
+        width: 1000
+        height: 704
+        isCached: true
+  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
+    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
+    publishedDateTime: 2021-04-12T11:37:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 30
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "a7IpyR7SfvzcjzkNSkcLEgvWvHJbMrK9V7YAeK80tIPtJFC6ZXHVfQGlW+w916QTbWxvoobFzI7UyPG2R6DY98LeW01RrkUPB83wF3Y7d06We5mWjwXke5snVKgyKer5Il1J0YJWgs4kze/LPhDn75l3y25lcbV3LT4zDC9I/76YovxqI2w8EHcEXcNN0BudxDLRr5i2g++TEskR+A6QIGyxh0wq7azbvI2nwqZPL70ixRabxs4LVq1IVw8jXx8YFoH/H2PxrSJ4EGgB1U6nsbvA84vJUYAxiiVCs9U030QNS/lRZoUIfQga715D6RIINqVLcZ+t0HLJ8D0um6rimTAzZyFV09pbAQXCtwovrMBMfBjyAKEWvvifkHndZm5TK54AwBTqgW1adxj+TZX/bNabLw5qhKl7CyJ5ZttZNHARs1f8T0S+VlTU/bPOk4Y33YtvVlep3CUauAeqVbm7SgtO2oQsjDcCAXaIJ/grvtyCACLALmwJx+Ps8lzW7VbshlEoUkqJmdjqvX8qL4uPWQ==;YzNHJAEqXgo7fi9VMyyHww=="

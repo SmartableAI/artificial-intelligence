@@ -61,38 +61,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All"
-    excerpt: "Self-driving cars will be capturing video of everything they encounter, raising privacy qualms, of which using blurring might be a helpful remedy."
-    publishedDateTime: 2021-04-15T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361"
-        width: 617
-        height: 347
-        isCached: true
-  - title: "Perfecting self-driving cars — can it be done?"
-    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
-    publishedDateTime: 2021-04-12T11:06:00Z
-    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
-    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "pUXkOO773+SJsU6PFzOXcwEMQ9ggVmdyQZYoKrHkiyiB1OI33d1VN6rxIR3cJH6Jqj10bNt+x6OiCo9BJpZicHzSiZ/7Rb7HVo0jOaxtcg1oyjITFaKzIFc/y4e17QsHQsXukRqrmREtnmetbVnKPzRHa9ZuN0NvZZ83xIyoIXrOYjqL2Who5FsoKJsJ7StDxk/ld/Zf+yCEDAJ4WWKfFOS+UG1MLLgyw23ej3VV2WkR4zpEq14Bs3JAjcIsNJ30yNsy/Ek/obufCU/lm9yhwSKg8Euza2ejj9RodG5dkbVJtuYwVO58LZ/tnjvr/nNcezrQwz6JaJ5wSZv+vFIDq30Hy++LJV4sq+kENk24+44wHXRj0JxI/eIm7IRnjWpiIddcMksRsXUDMfSXR5OfYW9AJkV3YK+Q2dSWNWFdYrz7UCtrvrfm+0qNeQREUBWGA4/HFkBi2UIqPnaCu8E3g7bKTpeeuvSLFahMGew3tfoqViQm0fh7hgZs34YGPunJE6LrEyfXuewwyGS8bFF5ww==;8co+93YdgjNJMq288dZOvg=="
 ---

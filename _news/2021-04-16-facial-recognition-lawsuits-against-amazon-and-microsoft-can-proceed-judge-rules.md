@@ -290,22 +290,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft shopping for speech tech, in talks to buy Nuance for $16B"
-    excerpt: "Burlington, Massachusetts-based Nuance whose voice recognition technology helped launch Apple Inc’s assistant Siri, makes software for sectors ranging from healthcare to the automotive industries."
-    publishedDateTime: 2021-04-12T09:32:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/microsoft-shopping-for-speech-tech-talks-to-buy-nuance-for-16b/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
     excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
     publishedDateTime: 2021-04-14T13:59:00Z
@@ -321,22 +305,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Healthcare.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "Microsoft in 'advanced talks' to buy speech tech firm Nuance Communications"
-    excerpt: "Microsoft is reportedly set to acquire artificial intelligence (AI) speech recognition firm Nuance Communications for an estimated $16 billion (£11.6 billion) The two companies are currently in \"advanced talks\", according to Bloomberg sources ..."
-    publishedDateTime: 2021-04-12T09:09:00Z
-    webUrl: "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour"
-    ampWebUrl: "https://www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-recognition/359175/microsoft-nuance-acquisition-rumour?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618218628/itpro/VoiceRecognition_shutterstock.jpg"
-        width: 1260
-        height: 710
         isCached: true
   - title: "There’s Nothing Nuanced About Microsoft’s Plans For Voice Recognition Technology"
     excerpt: "Microsoft's acquisition of Nuance, announced on Monday, has ended up closing at $19.7 billion, up 23% from the company’s share price on Friday, which makes it Microsoft’s second-largest acquisition after LinkedIn in June 2016 for $26."
@@ -1185,17 +1153,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Microsoft Buying Burlington-Based Speech Recognition Company Nuance In $16 Billion Deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Microsoft will pay $56 per share cash. That’s a 23% premium to Nuance’s Friday closing price."
-    publishedDateTime: 2021-04-12T10:20:00Z
-    webUrl: "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/"
-    ampWebUrl: "https://boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2021/04/12/microsoft-nuance-deal-stock-speech-recognition-burlington/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 48
   - title: "Microsoft acquires clinical voice-to-text company Nuance for $19.7B"
     excerpt: "Microsoft is acquiring clinical documentation and artificial intelligence company Nuance Communications for $19.7 billion, two years after first inking an R&D partnership with the speech-to-text market leader. The Redmond, Washington-based tech giant ..."
     publishedDateTime: 2021-04-12T15:29:00Z
@@ -1209,20 +1166,6 @@ related:
       - url: "https://www.healthcaredive.com/user_media/cache/05/74/057465c567ac6234c4608074900dd3aa.jpg"
         width: 770
         height: 364
-        isCached: true
-  - title: "Microsoft needs extra intelligence"
-    excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
-    publishedDateTime: 2021-04-12T10:19:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52664-microsoft-needs-extra-intelligence"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/1665dcb4da1734e1b77589547faf138b_L.jpg"
-        width: 620
-        height: 464
         isCached: true
   - title: "Microsoft acquires voice recognition company for $20b"
     excerpt: "Microsoft has bought artificial intelligence-powered speech recognition firm Nuance for $20 billion, the tech giant’s second largest acquisition ever. It was revealed on Monday that Microsoft would be purchasing Nuance, a leading voice recognition firm ..."
@@ -1277,6 +1220,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
+    excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."
+    publishedDateTime: 2021-04-14T10:28:00Z
+    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
+    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 41
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
@@ -1316,17 +1270,6 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
-    excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."
-    publishedDateTime: 2021-04-14T10:28:00Z
-    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
-    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "InnovoEdge Joins Microsoft for Startups Program"
     excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
     publishedDateTime: 2021-04-15T14:48:00Z

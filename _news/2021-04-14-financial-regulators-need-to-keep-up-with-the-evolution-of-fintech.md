@@ -101,20 +101,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Georgian wants to be like fintech firms it backs as it steps up financing strategy"
-    excerpt: "Georgian Partners became Canada’s biggest venture capital firm by investing in companies selling digital automation and artificial-intelligence-driven products. Now it’s trying to become one of those companies itself."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-georgian-wants-to-be-like-fintech-firms-it-backs-as-it-steps-up/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 18
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/Dv7uxJEmZWZra1tpj3x8SX6uMp0=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5ZZFCHMC6JGCRHYUNLUXIEH4ZY.JPG"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+dplktIPTPoyj/4kASnGXb6XzTa1XbcLzGkyoD5ubEP3PBLPRFw1Ua+pxXQrWYbFKB9l1VFKoA2c1gV9oUSLvlg4g8ZD2NekH3L0CGnMlRtKeFDQOkGT6BDZQaP/om/y9gi12ea5IF9lq9mxLZ+bLnq2XmGtq8K4GPtgGChNF8q7rtVtk5yiQ4Ivo6IsEoygeui9w+hXUmVsA/r48hJU5J66Wp2I+9N0cMXcadc/0qaagCNohIe4p/NnMwhlwUuhmVfKVrJfeAFtnG9Rxgp7Y+/GYQTieNdgBtNzb/APJmvAXkLr+Iye4bG1ZBO5p+mtFMy9frUIaJboDH0Tl+b8bwiN5aoNsptzv80Xc/uYw816QoBHpYMl77XiCzCN/YINaLG0GCOHRpX+EA/c3iQr5W6MXobcjDxfuvcwsuO8YWPy97fRKSdPTX9T9K1tiziQvzfLNLnT0edOLTmYobXB1cNzT7//CB2ujZRj5vNMGu/EEhm4E3LkVisE9aNWwmEOCuCRaoujS9Tfk/sYgTWvWA==;ccWRZyXD7H4GogTSCWO8Zw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dj
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.bernama.com/bm/img/bernama.png"
         width: 2483
         height: 2942
-        isCached: true
-  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
-    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
-    publishedDateTime: 2021-04-12T11:37:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 30
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Chinese and other tech giants bet on smart car revolution"
     excerpt: "Chinese smartphone giant Xiaomi is the latest newcomer in the electric vehicle, race with a plan to invest $10 billion over the next decade. At a March event unveiling the company's plans, billionaire founder and CEO Lei Jun called the new initiative \"the most significant decision in Xiaomi's history\" and said it will require \"full efforts for at least five to 10 years."

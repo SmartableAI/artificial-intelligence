@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
-excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ..."
-publishedDateTime: 2021-04-12T10:42:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla"
+excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... Search giant Baidu Inc. and Geely Automobile Holdings Ltd. also are said to be teaming ..."
+publishedDateTime: 2021-04-12T15:33:00Z
+originalUrl: "https://www.ttnews.com/articles/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla"
+webUrl: "https://www.ttnews.com/articles/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Transport Topics
+  domain: ttnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/huawei-bb-1200.jpg?itok=QH1BTt8E"
+    width: 470
+    height: 246
     isCached: true
 
 related:
@@ -170,6 +166,6 @@ related:
         height: 764
         isCached: true
 
-secured: "hbohhZgFxZ1N1d7CapQiNKWFBOX7d76rKItLPkEQFcwGBmV+LqAFyPP5m+SXUdezsLDbPZ/npNZbdIsZM1gEkOQRJ6f+rFL9wfzyQJUimB3t9Q+aVMRGjUuBclintmLJiLvSYz5rcho/SdvMDrvB78i9WVoe4Q131gwhuCR1z1l74ddsqPjLAlAkR3Dp6lLikTwTzxcAxmerLBT1E8Ti5mW7U1qssjc1c8Bh1b2m0dRmWj0zqnyWh6pZa1kJeISqBFATshjyC5guTB5vHWPGMFvezkmJCopQLFZkL9NMDbqSHffr6LrMKNriTThuqROba00cYPwr+g3yoCNuKxHGG1o3Kfng0TxG4vP3+TpGwaCI5/yVRQ70jdMrNFUFgSPuJGX1KDuhVDLuZS4wKCvCsJlRqid62YvGU5rwwfMWMisUz/SLPtMznJno4qKR8mqf6OOff38xsIG8E+Craqj+yB2n1ap3PiFCVEU9Z1tnzAfl5XLDpkGMI94lX4yB0zR1iYjiT7jHHgwd80QfWRmgiQ==;LR87hmDWYbCHhKfvPKdR2A=="
+secured: "auseaJn8f3WKVhM+1oIV65WHsIOw0aDBDZ+5XOxJ3IcCLptXvlUy2GELJ1HL3YfCiEfC8U7wPKTHkILtOCARo2oy+PXyOPQDwV2KTQOBgX0OWWfW6ZT2Gzsh3gBq19Or755JWXJe4nJ+yyHoPRoTPaPcR6C3VYM6PTHYXQZedgJDyNgfgZLiBTTMDhUx7YG0Jk3q7miCUG0a6y+D1ccCLskXHuS/zWksh6xEoGA/1NVXmEl1l7v1MpFp3ZgxUKOiBv+OKmcItBg8NewQzPgQYvlBSTbtFljnY5fyazKMFddTGvYrebZG+rKrsJyyjxeIS3q4s+tCJJ755mnR3yvnT9IURUnteORR/VMaEq0LcZc=;Td4LXGcetlQ/ruUpGav4lg=="
 ---
 

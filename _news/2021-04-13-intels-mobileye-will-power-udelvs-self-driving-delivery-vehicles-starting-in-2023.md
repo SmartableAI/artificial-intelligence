@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-p
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023"
+    excerpt: "Udelv and Mobileye said that the autonomous vans, which Udelv calls Transporters, will be powered by the Mobileye Drive self-driving system and will begin operation in 2023. Udelv expects to build more than 35,"
+    publishedDateTime: 2021-04-12T15:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023-2021-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 28
   - title: "Mobileye to power Udelv’s automated electric delivery vehicles"
     excerpt: "said is based on Baidu’s Apollo self-driving software. Laury said Udelv was switching from its own system because Mobileye offered “the best-in-class solution” with duplicate hardware stacks ..."
     publishedDateTime: 2021-04-12T16:03:00Z

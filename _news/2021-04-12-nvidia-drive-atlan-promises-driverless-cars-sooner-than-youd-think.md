@@ -47,6 +47,22 @@ related:
         width: 995
         height: 636
         isCached: true
+  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
+    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
+    publishedDateTime: 2021-04-12T17:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 74
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Ocado to invest £10m in driverless vehicle start-up Oxbotica"
     excerpt: "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries."
     publishedDateTime: 2021-04-16T09:38:00Z

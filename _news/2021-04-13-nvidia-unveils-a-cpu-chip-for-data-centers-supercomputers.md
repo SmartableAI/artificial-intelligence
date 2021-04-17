@@ -59,20 +59,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Career roadmap: Artificial Intelligence Engineer"
-    excerpt: "It's a safe bet that possessing skills related to artificial intelligence (AI) will present career opportunities for people today, especially in industries that are building AI capabilities into their products or looking to leverage the technology to ..."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.idginsiderpro.com/article/3614648/career-roadmap-artificial-intelligence-engineer.html"
-    type: article
-    provider:
-      name: idginsiderpro
-      domain: idginsiderpro.com
-    quality: 37
-    images:
-      - url: "https://alt.idgesg.net/images/furniture/insiderpro/favicon_package/IP-favicon-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "aF1aNtmeowCeZp3Pn6RTlnEaaP100NG/vJbg6Ko2PAxkSLZBBemRH2sM9wAcFovbwrlLyv5vPpudQ9wChnndxloX5iROK4Mju0fDGy3jhM5qMGZ1tii+77jG7VBOgl2uLidhBs/CYUthVg18yzq6oOPg7D2IbsBlxNvsX89bRWjo/fAA7MpchNpB260qCOCggdaWOp9V7xR/0wWCAQoCndCibL22wMMCmJwv4RONFPtb19ObZY77/rsimey1O2op/ceRJsITdHqQ2CKtGcCYB6vFJcaU9FLYnnkNz/wJ0+llA/8kOlSlbvpKU4iGny9vQ0uzrAZXox1IYYW9EKeljhbHKrGO3ZZ5dRue6d9u1tN8wxWaHKGU5M52ZF/s8BdabcBh6Jug4qJYvPHk/R0Qjq9O3BEnFNz4IkLzqETD51kD9KOFIhNsPtTndPRpAtJ+JPI4KfhnkLXpqLytAriXLdPuqWypnfXCImXy8YLYzcT3pCHdSTDO6GdtgrVxhFlzSkd/NRH2YrzDdGp7oN5bgg==;bc/+luwXoCYenn7RuFh+JQ=="
 ---

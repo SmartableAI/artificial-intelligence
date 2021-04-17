@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Walmart is investing in self-driving development with Cruise"
+    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
+    publishedDateTime: 2021-04-15T22:48:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
     excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
     publishedDateTime: 2021-04-13T19:33:00Z

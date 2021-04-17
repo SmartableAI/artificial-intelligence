@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/operations/amazon-gives-out-12m-u
 webUrl: "https://www.modernhealthcare.com/operations/amazon-gives-out-12m-under-next-phase-aws-diagnostics-development-initiative"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "AWS launches next phase of COVID-19 diagnostic tools with $20M, expanded scope"
+    excerpt: "wearables and data analytics tools that use artificial intelligence and machine learning to detect the virus. Starting today, AWS is expanding the scope into three new areas: early disease ..."
+    publishedDateTime: 2021-04-12T16:35:00Z
+    webUrl: "https://siliconangle.com/2021/04/12/aws-launches-next-phase-covid-19-diagnostic-tools-20m-expanded-scope/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/analysis-2030265_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "nC+7Z4fXW5J6xP2viSsfILPeXjwnMHSPeAAgO9DhOKU0NFd9M8+9XRjcuf+H37FGpEfOTbxDxWwQTazkwMwcYwuQU8TFrc2qCu7AadvS4IluRVWDBHKH2blI6c79Ovj8iIHoKVStTHNxDQhpwlnLHRLCuFVfMqyFffpVNVez4OfjqKYFLsQxJ/+LyZow23A/73Kc6dtDNsFR4Ujm/ZPrLZcMfE05um7zmhDWFLbJFLH3qyu5a245S8fA7bghy26eDlwWL/AmHAoIws1Kbf0FKlfqFHBC+JLuswrlwoHE2CFXJcKinSF8+I7gw5ewEOAQXxeVCLdAwIOnbIGtobL5GPXGTLTzp2q3GN6fvOyc9Gv8c9S7ldI9oah8iP+oqq2Qsa4kj6Kib/CjEZ6AgxmSQxTxaf0wFvZjELaEvHn9IJjcw47kHJU1aBwsL7GvqlEq8H7q9c5vgW1CCVlVMtKLeHwVU+a+9gQzt/B9KG49Hr0eKp7w0AZiihZpLF4cOQAjv6yq/IUUKPHszO1lluvPfw==;hJ2Qu0u0GuaQ6/EdOLLZnA=="
 ---

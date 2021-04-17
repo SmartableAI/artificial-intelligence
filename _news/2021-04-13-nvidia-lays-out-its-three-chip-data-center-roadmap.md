@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
         width: 500
         height: 281
-        isCached: true
-  - title: "Career roadmap: Artificial Intelligence Engineer"
-    excerpt: "It's a safe bet that possessing skills related to artificial intelligence (AI) will present career opportunities for people today, especially in industries that are building AI capabilities into their products or looking to leverage the technology to ..."
-    publishedDateTime: 2021-04-12T10:00:00Z
-    webUrl: "https://www.idginsiderpro.com/article/3614648/career-roadmap-artificial-intelligence-engineer.html"
-    type: article
-    provider:
-      name: idginsiderpro
-      domain: idginsiderpro.com
-    quality: 37
-    images:
-      - url: "https://alt.idgesg.net/images/furniture/insiderpro/favicon_package/IP-favicon-300x300.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "7uQsHhU76ZAjPkkjaY2nuI7jlBcL3uewgpKhMVzbnQSBjL4tkSkqxLpxIRQAWNjxDXgQOlqskZXzHxv1t/fkEYyW+MLPXZAG+EDQ0v43Gkf46ZPaMBqC/5/C/DjIlWIpHf4ZaKUqxvPrJW2Y5tmNzhr2h+n5uLaPC96W79sPXR0oFO6hnjXcWk8f/qVV3I3OpTZ78SjGuv2fq66xR1Yb2U2zuAck4B+8UpIc2HXDvzkdrN/wsIKNLIvZoiYhgcxOM18jgBZLgHX2HwE4jwKgMSrmGVqO3HP2ASy6P7YLURA5SxhWHLIxVXPVY2obDAlukTeYtVJhCH9hV/sCzdKyFSv4kYRcS/9iodovsYcqpXVw81OqlnxvdJcqHKl1VldFU33sVPpE6ytq+JfFmLF8iUKA+otZPUfVRNw0wTAMwB7rMqNg7rDo61TZyc00cHDj2MMPYzGgiuWituxIJ/nKUbRCVWoBJmDckXwL7SjjhuxZRMXlMppikKcN+TcKfiJQeqNe+2GyLa5nKQ8XFzsekA==;SB1XVSn68ojimQwaQgqOfw=="

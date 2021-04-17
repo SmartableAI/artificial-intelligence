@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023"
-    excerpt: "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ..."
-    publishedDateTime: 2021-04-12T09:45:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 181
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969"
-        width: 4000
-        height: 2670
-        isCached: true
-  - title: "Tesla’s AI is about to get better, and not just for Full Self-Driving"
-    excerpt: "While Tesla is famous for its investment in artificial intelligence for self-driving technology, the automaker has also been using its expertise in machine learning and other branches of AI to ..."
-    publishedDateTime: 2021-04-12T10:25:00Z
-    webUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/12/tesla-ait-better-not-just-for-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 104
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
     excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
     publishedDateTime: 2021-04-12T23:24:00Z
@@ -75,53 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GM’s Cruise to operate all-electric driverless cars in Dubai"
-    excerpt: "NEW YORK — Dubai said Monday that U.S. self-driving car company Cruise will become the first to operate autonomous taxis and ride-hailing services in the United Arab Emirates city of more than three million people. Support our journalism. Subscribe today."
-    publishedDateTime: 2021-04-12T17:26:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/gms-cruise-to-operate-all-electric-driverless-cars-in-dubai/2021/04/12/2f83241e-9bb4-11eb-b2f5-7d2f0182750d_story.html?outputType=amp"
+  - title: "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All"
+    excerpt: "Self-driving cars will be capturing video of everything they encounter, raising privacy qualms, of which using blurring might be a helpful remedy."
+    publishedDateTime: 2021-04-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Walmart is investing in self-driving development with Cruise"
-    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
-    publishedDateTime: 2021-04-15T22:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Dubai strikes deal with Cruise to roll out self-driving taxis"
-    excerpt: "Dubai has become the first city to sign a contract with an autonomous taxi manufacturer, ordering up to 4,000 vehicles from the US driverless car group Cruise with a view to deploying them from 2023. The deal with Cruise, announced in a tweet from Crown ..."
-    publishedDateTime: 2021-04-12T10:51:00Z
-    webUrl: "https://www.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
-    ampWebUrl: "https://amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/33f3f86b-2558-4344-98b0-5c3cd529e93f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b888070-e717-4cc3-abcb-ef950f5fe41e.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361"
+        width: 617
+        height: 347
         isCached: true
   - title: "Dubai to import self-driving cars"
     excerpt: "The Dubai government has inked a deal to bring self-driving vehicles to the city. Dubai’s Roads and Transport Authority signed an agreement with the US self-driving automobile manufacturer Cruise, Dubai Crown Prince Hamdan bin Mohammed Rashid Al ..."
@@ -148,6 +84,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Perfecting self-driving cars — can it be done?"
+    excerpt: "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle. Although these accidents happen every day when humans are behind the wheel,"
+    publishedDateTime: 2021-04-12T11:06:00Z
+    webUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/"
+    ampWebUrl: "https://metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/12/perfecting-self-driving-cars-can-it-be-done-14374056/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 44
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1212935826.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
     excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
     publishedDateTime: 2021-04-12T14:54:00Z
@@ -162,15 +114,20 @@ related:
         width: 1000
         height: 704
         isCached: true
-  - title: "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023"
-    excerpt: "Udelv and Mobileye said that the autonomous vans, which Udelv calls Transporters, will be powered by the Mobileye Drive self-driving system and will begin operation in 2023. Udelv expects to build more than 35,"
-    publishedDateTime: 2021-04-12T15:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023-2021-04"
+  - title: "Chinese Drone Maker DJI to Reveal First Self-Driving Auto Products in Shanghai Next Week"
+    excerpt: "Shenzhen Dajiang Innovation Technology, better known as DJI, will unveil its first autonomous driving solutions at the Shanghai Auto Show on April 19, revealing to the world what it has been keeping under wraps for over three years."
+    publishedDateTime: 2021-04-12T11:37:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 28
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 30
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-drone-maker-dji-to-reveal-first-self-driving-auto-products-in-shanghai-next-week/12671860079329280.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "BHrgZdf0sVmMvFxS7IlgT7M9S+C/164TRBDRzwjzpNwC6i2ODUVq+J2KNdkVhVcs4VfYp58bfhFMMEFbBUuFiq49xrnAaBc3/m/0QZ5HmlEyqLh9z3kL4eU9kTyroAtq0VZU8K0wGcAe+/+r7vZVFHqzYXkNNUpjI592FNyjM0ghWfIe2WV/sPoHk6cqiqjo9FvPV+LOl8ssaQs/AZUG2lqMTlcvpzasxdNaDGrr5IIlPvdyRA5NBhl8CMwQypP32FO9vNbpLPJn1BsZEHm7QPjSrK89sWiVqnOsHirkucGNP534hJzpBP1XtEKw4wvMr9f7zKJyAknzvYT9o1PhSMWK5Vepzq802ebqgaD9RxZUhwsxL+R1bl/0CXz4WVHtCUZA8HhnTV6WCPLdhWDErDeUopFTE11Dwe05LFvwEVk6CKbT2xgp4EsFBaYLEG5bYnetSzuR8eWENj5TpDNUxn0l5dd5Xa4aLuHL59Z9PvtDtnA8Hxrnl8MSo3nAPHcHwEg8b10Xdvq+MxyUQTX1jA==;EJyJD1fI+s++2eQOa4GmDw=="
 ---

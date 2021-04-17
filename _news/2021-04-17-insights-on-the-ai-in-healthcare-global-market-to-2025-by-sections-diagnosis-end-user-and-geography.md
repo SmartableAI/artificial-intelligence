@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
-publishedDateTime: 2021-04-16T21:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
-webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
+publishedDateTime: 2021-04-16T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
 type: article
-quality: 48
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
+  - IBM AI
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
@@ -32,20 +35,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market | Global Trends, Growth and Key Companies"
-    excerpt: "Apr 12, 2021 (Market Insight Reports) -- Market Study Report, LLC offers a latest study on ‘ Artificial Intelligence market’ featuring a holistic view of the market size, industry share, profit estimates, SWOT analysis and the regional landscape of the ..."
-    publishedDateTime: 2021-04-12T09:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-trends-growth-and-key-companies-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -248,6 +237,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "rFd84Nix4AW7uSpctsZGlJVcLHb4MA3ikhZ4jV/jpNOzm+6sGzK//4w4DX2JH+mx/4TSl/mPfC2aypiHEyF0rStUL52Zp4/IOd+5/b8HT5hGCScjFPUOQlaUDCHC4qOrbxtyzhezH3gKD67IzfPlZrBp/RFo7h//1+keJaDQOKvCsBBP9qp2hKU7CqRdB8S2Szsr5djAOcAGjWmJ40qjFvxSrG0RAhuT5ciCe1ypjAf3o9kCddTMO9dxJDE5miqS5Zcg2EnpQVs9SrN9gektuYQuDT3LhnWAj5dap/ehQDpe47eljsZkbgNcxldFjle4kO4woNjbhjDSL3KDO9rueaJqK+sMqAbyQFcPF+YR/Zc=;wvWDdOTeNwNeycx4CJd3hg=="
+secured: "TSR63BZJTlQN0xfjCHFGDAgTZc/XWZ45UZAIDmK/TRZHR78Meh8VkJyQTxzPBerQvfEHZZlconqwIiVZ+4fkji2FOERO3iXreMOUswsgGBGp66fLLKPSRf84cgum6Lt98k2CbwB5FPFCDFBp64byMhz8Ur7WukO5xE55PE69HkrFKRdfFcBR2o9wmP1TwGU0kNyw04Yj7TYAggC3Ybez3yRlDipciflg5rt0ZCELGZe2DkYtCE+ux43HC1+A8TOIG7r1yJICYjnUES+JipgwJ0rIYb5VIeEXHhpNnsc29U1LK9yLQRHDf37hq/4VBDvDZz35bntl2DWKQ3rH6c7Rnt9YNkgV0qLTh7LYJScDBxE=;TYcbKdqzO3bKvXdhj8HfhA=="
 ---
 

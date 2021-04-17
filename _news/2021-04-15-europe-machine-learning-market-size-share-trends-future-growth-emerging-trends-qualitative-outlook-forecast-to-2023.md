@@ -194,15 +194,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Agriculture Robots Market Trends and Opportunities Forecasts to 2024"
-    excerpt: "Snapshot. The global agriculture market is anticipated to be intensified in the years to come owing to the entry of new vendors in the market with"
-    publishedDateTime: 2021-04-12T09:21:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/agriculture-robots-market-trends-and-opportunities-forecasts-to-2024/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
   - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
     excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
     publishedDateTime: 2021-04-14T08:26:00Z
