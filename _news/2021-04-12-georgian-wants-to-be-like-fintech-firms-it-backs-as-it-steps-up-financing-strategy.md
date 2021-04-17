@@ -73,6 +73,48 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "PwC unveils fintech marketplace"
+    excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
+    publishedDateTime: 2021-04-14T10:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87100/pwc-unveils-fintech-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Top 5 female-fronted fintech firms"
+    excerpt: "Canadian fintech firm Borrowell is on a mission to help those struggling ... as well as pioneering the country’s first AI-powered ‘credit coach.’ Eva Wong, the firm’s co-founder and COO, has long been a vocal advocate of diversity and inclusion ..."
+    publishedDateTime: 2021-04-14T08:00:00Z
+    webUrl: "https://www.worldfinance.com/markets/technology/top-5-female-fronted-fintech-firms"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 24
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/04/K094-600x423.gif"
+        width: 600
+        height: 423
+        isCached: true
+  - title: "Marble Financial announces closing of major fintech acquisition"
+    excerpt: "Marble Financial has announced the closing of its acquisition of Canadian fintech Inverite Verification. Marble’s personal finance platform MyMarble will be incorporating the features of the AI-powered Inverite,"
+    publishedDateTime: 2021-04-15T08:30:00Z
+    webUrl: "https://www.mortgagebrokernews.ca/news/technology/marble-financial-announces-closing-of-major-fintech-acquisition-354976.aspx"
+    type: article
+    provider:
+      name: Mortgage Broker News
+      domain: mortgagebrokernews.ca
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637540724577231009.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "D/IhAG5FMFOy8YWTLl9TEqNrE/QJpBxSSyIm7zF3klvMXVDb+/L8TCLCx/ufUK57uTFkEl1bwXRb4rI828kjNLNBizE/1hT4efmaElvgkXwhky9aTagF2R+coLv4TcVvBD8dzTfGvioelQC5ZceGZTe/9YoIP+hmlEfc6ZuHhZn+aZhHglQYTVI/Z7t0BGwtBaxYaQ0xlQ5r1wapOXZVjaBWcWCP26NnfkOF1f4dwpkyOjMLQzTrZMAQTs3Iln4yJXyUM5kfED5jMgOZkQnONDdiMdAJdXljD5ifMcLEsOoFIqPYo83JkCOghlp4pI1A4eG0O7Ori5SG1DWjWgth65iEry/Gah+yjJA91ocmgSiHse06BLs7qqm8VRnMk+smffZa1dbU+9yhcLzW6gO0OVDa3YdMVS9F32G4Tvc3hDQQP4GACsAyEyhhMoTYwhy5TGNWZ+fMDACw79Z7lF9VQJviwZf/3YkPJpHlBWvTYpk8v1V1cAll4KOP683qggu5Z977cuAeIlHdrySuVv0c6A==;f59YcKDKLqP7RJec6xxgug=="
 ---

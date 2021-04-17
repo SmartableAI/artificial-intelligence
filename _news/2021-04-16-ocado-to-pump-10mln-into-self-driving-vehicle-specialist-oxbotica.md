@@ -36,9 +36,9 @@ related:
         height: 428
         isCached: true
   - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
-    excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado… | Retail | Industrials | Technology | National | Industrial |"
+    excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
     publishedDateTime: 2021-04-16T06:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations?via=indexdotco"
+    webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
     type: article
     provider:
       name: Bdaily Business Network

@@ -209,17 +209,6 @@ related:
         width: 1600
         height: 930
         isCached: true
-  - title: "Solution House Software expands Smart Cities offering with facial recognition"
-    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
-    publishedDateTime: 2021-04-12T06:36:00Z
-    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
 
 secured: "XLaMdg+cxB2rslnQ8XlaDAwKah9CkN4PMna/r63fFXtS5LYSBgTXoXRQSX16oTHJLsWvo8D+7/NNhGsIrCKpgAmzA+EGHxNcCOEdMMOUbthnZsjFXamNTJ7FO5k92WD02TyRKbDdehytlGBhUqZGLLGEhaEDEQlz+F3eXkrzllo/zmvLxqqAbfCm/dmVa8R6Ir2cKEIiKDLx/pVJ9poa0Ojo4Vp62LNUaS4G04TQgq8pqW2YubJiZRt5vk555L8YYoEQ3lM40c5zJ1PJ7PSU5ZvhW78vEVtm09TCRan+E27yMgVVsuxAKe8J4RzbbxykpB4vJd1uk9Mi3lzn+Sgu0J9YeuGWAm19Ludyb6sC6VU=;ApESK0TE54BE8UX6w14y8w=="
 ---

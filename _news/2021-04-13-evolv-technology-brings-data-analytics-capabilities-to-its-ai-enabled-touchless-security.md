@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI computer vision analytics deployed to Russian port, Israeli smart city initiative"
-    excerpt: "NtechLab will provide a range of computer vision analytics capabilities to Fesco Transportation Group for use at its facilities to digitalize processes, according to a company announcement. Under an agreement reached at the TransRussia forum, Fesco and ..."
-    publishedDateTime: 2021-04-14T20:10:00Z
-    webUrl: "https://www.biometricupdate.com/202104/ai-computer-vision-analytics-deployed-to-russian-port-israeli-smart-city-initiative"
+  - title: "AI Weekly: Data analytics keeps attracting investment through the pandemic"
+    excerpt: "The pandemic is accelerating the adoption of data analytics enabled by AI and machine learning, often in the cloud."
+    publishedDateTime: 2021-04-16T23:20:00Z
+    webUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-attracting-investment-through-the-pandemic/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30130121/facial-biometrics-and-other-visual-intelligence-capabilities-in-smart-city-systems.jpg"
-        width: 877
-        height: 432
-        isCached: true
-  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $160 Million by 2025"
-    excerpt: "The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach 160 million by 2025 growing at a CAGR of 32 5 from 2020 to 2025 Geospatial Analytics Artificial Intelligence generally called geospatial AI GEOINT geospatial intelligence is the intersection"
-    publishedDateTime: 2021-04-16T14:01:00Z
-    webUrl: "https://www.openpr.com/news/2271468/geospatial-analytics-artificial-intelligence-market"
-    ampWebUrl: "https://www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/U/4/U416264889_g.jpg"
-        width: 400
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&#038;strip=all"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
     excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."

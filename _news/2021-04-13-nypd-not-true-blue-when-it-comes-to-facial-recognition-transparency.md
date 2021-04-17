@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral"
-    excerpt: "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app."
-    publishedDateTime: 2021-04-12T05:44:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 59
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/12/06/41638292-0-image-a-92_1618205309826.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "NYPD used facial recognition to bust their own cops for drinking in uniform"
     excerpt: "The New York Post reports that the NYPD’s Internal Affairs Bureau ordered the use of Clearview AI’s facial recognition software on two cops who were drinking on the Long Island Railroad before the funeral of Detective Brian Simonsen in February 2019."
     publishedDateTime: 2021-04-12T16:14:00Z

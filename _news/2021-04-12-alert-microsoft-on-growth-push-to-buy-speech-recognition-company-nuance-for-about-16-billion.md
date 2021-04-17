@@ -832,22 +832,6 @@ related:
         width: 5237
         height: 3054
         isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
-    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
-    publishedDateTime: 2021-04-12T06:39:00Z
-    webUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 61
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/microsoft-afp-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft to buy speech-recognition firm Nuance for $16bn - report"
     excerpt: "San Francisco - Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
     publishedDateTime: 2021-04-12T08:39:00Z
@@ -895,22 +879,6 @@ related:
       - url: "https://variety.com/wp-content/uploads/2021/04/Microsoft-Acquires-Nuance.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
-    excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
-    publishedDateTime: 2021-04-12T06:02:00Z
-    webUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/Microsoft_AP.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."

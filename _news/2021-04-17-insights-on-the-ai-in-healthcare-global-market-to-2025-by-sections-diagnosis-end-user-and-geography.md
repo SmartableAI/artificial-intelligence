@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
-publishedDateTime: 2021-04-16T21:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
-webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
+publishedDateTime: 2021-04-16T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
 type: article
-quality: 48
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - IBM AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    isCached: true
 
 related:
   - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
@@ -82,20 +85,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U413327692_g.jpg"
         width: 800
         height: 445
-        isCached: true
-  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
-    publishedDateTime: 2021-04-12T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
@@ -271,6 +260,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "8XIoQtKZpBlpMQ/Y8Yu+Qx/QfybM7ti8L8ah04Se2Vd4ecQlK3A+RePL2UEbe/S/P87AoE2MWvPX14MPr2qaiiCVHnGjAymOJXri62rvf3vCWMHuDwHr/k+fc4pCruYzplFquHc0VFAX+T/bik8CMj9Hl9uRTwAjUPC0icB0AIQKgKJALFyEYjLQQ/KS2dcbbf9GbZ1jbl0sqZd8SoOJgoLK8zEYgnR0vd8nsg/jdJyvnn5WvMOnhp8r58LPkz0ob9eovqsGhrnVyEd77gIGJuZliPlDk5+cmRciYffIG7E/p24AnGnKpANU61k0y72WZMP1zIAz8WKUAs138IG3ZQN8IgPusKIxCQncJ3hN5Gg=;TnKt2R6yFzcC7CzJRf9glw=="
+secured: "yL42/9g2BxrHILe2VGlFdSuZCZi2tfBJpA4/ZiWkGf4mlbI4ZNxQXH8Vw4eszXKsur/nKjGtqKW4ZuZ0NdUPhc/tYkMK+BgF0Kx81uXgGuojDrxtua5EJmJxR+/dfaB8bV55/vqs2ucbI46HmfxbGkoOVXQd5MVBsrfEA2b5rqkiGMwsMJyFK8cLAaXeV0tpy1kggUB/+8jjdDzgvmASZFXM8M3OuQVOwShlABUJPA2yZmO+wMTFkww7itdpAPJvEU0O8+2Ko4EyM8UezjKYyv5WgJAhFZKJAN26NSVj7TDEYnMQ4Mn0a93u20jUf8pw0OmEl5d2JOaiBEO0GvYKnJYBtUw446bebvCGrhKRAqg=;7zVp57cJsEJhoUOGBoHo0A=="
 ---
 

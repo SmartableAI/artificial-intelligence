@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -213,17 +213,6 @@ related:
         width: 1600
         height: 930
         isCached: true
-  - title: "Solution House Software expands Smart Cities offering with facial recognition"
-    excerpt: "The focus in Smart Cities is the provision of urban management, public safety and social services in cities, councils, districts, commercial and residential estates."
-    publishedDateTime: 2021-04-12T06:36:00Z
-    webUrl: "https://www.itweb.co.za/content/lLn14MmjkdeqJ6Aa"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lLn14MmjkdeqJ6Aa"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
 
 secured: "iHKZzrpEqp68kHwARxVgJEK6xXjeK9qRAoIn3R8BrVcK69mCJSK34KX12grbK8kGvoEdAAa3XRDGy7ePCNFWDL0huguidkY8xOS3zWqZwT++DuQrmEsV0K867qShhPvaxPCF1JOmFPPVR9QbSP5nA3o+psFDMimQJjBX41h9sDPqHHppsHgMxrBWpCSSJUma1jgt83KKBSUQCl2vvDZJYoEx0zbOt3aqaL2ptJIvgCnsLs0uG8pqqX6VR1CsZrUqlsUf3tvmyoUUpWapOwSH5tXB7HPiVCi0JOVna5mClfY49i6bMZkhOln3S5Kus4toXyKKDoL/+DUp2hOXuJAaEj0PYc4xC2FgANCsb0PgYjEvWo3E3omAOkBpVKwOB//BwDrsE0xz8r2/qriEAT81173fT759xQqfAly0IDFL2+TiDeTBtPkwhVjVuP7dU8xHhorGnXG9OKQ01oxOrBRMjnVCbMyRgrKumsKH9jJxHM1ah1U8osOsjouzeVY52xIfUlLmYS+oidto23OKIvfPsA==;pZ5K83EzpTdqb3Rjy5qZmA=="
 ---

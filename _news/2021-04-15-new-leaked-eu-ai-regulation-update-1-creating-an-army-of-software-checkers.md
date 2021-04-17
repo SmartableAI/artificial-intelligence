@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "ajGi1bJv68OKr3BENjAEqekxk5xWr3KsgfZ4oZM0E4rKadboojZXXznL9NnUZoYRONBtWNZx1bKIyUOWVs+CaYwgtLd8Y56tab0gQbHE1eEsVIS2W9tdlmZCmxWuX3nhA00/37/4AA07Tjw/GHp3f3ZFwmTDpAcL/K9ByvCymKz88vZRKTbiGKKEHQba8AJI/RJT8z5Bj/5eTmiaM1TFNIdFjNO7WF6kP+2KLxHA0X5KH/065HmPIESOyo2VJvfMUGJ64MgvJgQySwQ1u0mLaOZhTj/dnlLyi4hytr4D9fa1smOvQzwya4nsyViylAC76UCCCI+LW9n8nCepb0gvUBa5cVfHgiJLHQrcPACBPyoD3+U7TnEAbTDYqLkmW+FV9de28qj3oNhkcrXaQyvXnQrMT9SF+YXHhcD7DR4BNu+F14a1b1fFrA0RWvAxHIJMYdlTP2xq5LMByPyF0hnTEIO0+1OLzbiYbaaBFk5NmP+ETfxD/kXfYBypVwrOM1NOVWgNTY3oJ8Z96QgW9zZzXg==;ODhtqeRWGg1PIgJrQddyYw=="
 ---

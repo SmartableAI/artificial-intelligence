@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMzA5NTQxMzIwMTQwNjUy/full-office-of-software-checkers.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "lVrt4rTSOL6yq37YqnVF3zZpwRSjFHH4ChbPegzd2gKyYlJfzUHBjw94TfNGaDtyJUu4fFvY2i4xRU8YJiVdk7OpqrCKrry9G3kW/UcnXIA3PkCYCWkEEr1DHf3WoPYEoLJmaCDjgUD5umA5EHnDnWYNENtceUAJV4oniQOIowp+nRO1X4TUHgT5JU6J+kingXH2bGXaLieEMmvsFaaaQEExgLOa2ylRfagI1JDhXreAg3TfYF/M/S/uysvefhkU8Aktowaj+njgYLPHjZjgSdUsSnma2j1o/2yFvcxEFYWILqhC1ZlvwVAz2TRMi9j+zoZBWo6K84KacLyw8iALjEX/Rf0hcCXRQxeRXKaslEDF+FZSk3/bzNeEWuMB2ve5p8nYj+RMd9B7hK88bEGltMV4n7XKRU+Cp7a4MSVvHOcVHwiRsaMVj/ShiD3FhUFtszqFnEAMsqSJyy88TKjOqF91FzxO65XzKP/akWt4QX0DUSbZEeBEtqGhacO+pnPbBXFuF1aLXVVU84uraFqtgg==;QcgoF7WlVvuH8Oe4QyDXuw=="

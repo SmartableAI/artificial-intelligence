@@ -55,17 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "TuSimple to demo self-driving trucks in fourth quarter: source"
-    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
-    publishedDateTime: 2021-04-15T14:10:00Z
-    webUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
     publishedDateTime: 2021-04-16T02:57:00Z
@@ -80,6 +69,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "TuSimple to Demo Self-Driving Trucks in Fourth Quarter: Source"
+    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
+    publishedDateTime: 2021-04-15T14:10:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-15/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
     excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
     publishedDateTime: 2021-04-15T10:18:00Z

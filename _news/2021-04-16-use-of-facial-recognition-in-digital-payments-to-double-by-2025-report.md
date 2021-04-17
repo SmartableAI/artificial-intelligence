@@ -81,15 +81,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 21
-  - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
-    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
-    publishedDateTime: 2021-04-12T06:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210411005003/en/Juniper-Research-Facial-Recognition-for-Payments-Authentication-to-Be-Used-by-Over-1.4-Billion-People-Globally-by-2025"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "dkt6QbuGvmyOEIGAMGoEGoX626vneuVlRmUa+nfZ19akZCE9pm7HHAUVJ1HHuBiZnl1U38TthOaWZhAXXJ2Q2VXIVynSyMt7ON7kKiOuFOPdMYvgMBGr7mdTk8KV6cgaZFy3fFMUdxZh20PWoJ6kVY+yxjIPsWUcuBqoeQ7eXYM7rpBKmX+oV9Z0sMQdJhZOvL2FRY18RguUIy1FdDb/CQvwfaSx4OxTgtg0C3kpHQp7KIW9sbxrWmVIvB3xQ9q5/zbzvKEuI149hIiNlJZhxDYGWDgUg/0YDiCWXtEfhywd4LIwbkSeooVZWu0jHC+cdLuQpKwod0mtZe2LcTL6SIJ1OQkBFWeTccyP0cdBuv5D1/aVVrcxTSpclYP5HgbWstTSVM0ToasEdZCQ6ygfa63MOmZWR+EVPVctFlX504yeyzzVKoY4Y6udaCnWH7pQdtvIENPUrPpp33oEKvPeuZeqDrw1NEAStZZt30/atgNd/mvBZN+adKYEyOuYqxbUt3ZMizDID6CvwdCHZ/ZOLw==;CerBVSVenweaTp4sJ1uT/g=="
 ---

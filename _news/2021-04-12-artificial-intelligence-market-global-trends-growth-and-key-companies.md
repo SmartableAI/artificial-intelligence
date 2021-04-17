@@ -74,20 +74,6 @@ related:
         width: 800
         height: 445
         isCached: true
-  - title: "Gobal Artificial Intelligence (AI) in Fintech Professional Market By Type, By Application, By Segmentation, By Region, and By Country"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6632895-global-artificial-intelligence-ai-in-fintech-professional-survey Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and ..."
-    publishedDateTime: 2021-04-12T06:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gobal-artificial-intelligence-ai-in-fintech-professional-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
     publishedDateTime: 2021-04-14T17:15:00Z
@@ -118,15 +104,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
-    publishedDateTime: 2021-04-16T21:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Global Artificial Intelligence Market Report Analysis 2021-2026: Top Keyplayers IBM, Intel, Nuance Communications etc"
     excerpt: "The Report on global Artificial Intelligence market contains clear plan of the proclaimed data as pie diagrams,"
     publishedDateTime: 2021-04-12T11:44:00Z
@@ -154,6 +131,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
+    excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."

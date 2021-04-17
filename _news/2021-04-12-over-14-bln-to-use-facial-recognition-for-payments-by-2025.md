@@ -80,15 +80,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Juniper Research: Facial Recognition for Payments Authentication to Be Used by Over 1.4 Billion People Globally by 2025"
-    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new study from Juniper Research has found the number of users of software-based facial recognition to secure payments will exceed 1.4 billion globally by 2025, from just 671 million in 2020. This rapid growth of 120 ..."
-    publishedDateTime: 2021-04-12T06:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210411005003/en/Juniper-Research-Facial-Recognition-for-Payments-Authentication-to-Be-Used-by-Over-1.4-Billion-People-Globally-by-2025"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "VdH0MUTQaItiYj8bQLU3XXYlXFlvpuAO/qsaQFg3AA+l+6Heq2agS6IUYKnp+hDWj9HbBNusj2FSHDn7x8z7pvFvmu9xhCGMfsE59wu1jEH6WvKI8BVtJ+JI+RcYAszRVm3Ec/MboaaNJGGDIuiNw1DdA23aTgFOdZSJe1880Uw0z/hGFr/begle0e0V3glCpQy8IEzOzx9t4mNqvEpukp27qIJ/SAcPGPDigvz6U+biW0cXsBSZYpRf+lETCT1ejFZzTPCfGde9i8FWM4sI0gPqJqb32YaznT+sY49p+mw7l3OKxOPwKgaqE1Hl411CgLl+NqVP/SSxuut/gf3IURoPXNSB5tQDha5lJgkMJ9s=;tOema4QJIIBG+SIaHhEQbg=="
 ---

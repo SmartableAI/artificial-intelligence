@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
-excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado… | Retail | Industrials | Technology | National | Industrial |"
+excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
 publishedDateTime: 2021-04-16T06:37:00Z
-originalUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations?via=indexdotco"
-webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations?via=indexdotco"
+originalUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
+webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
 type: article
 quality: 17
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: proactiveinvestors.co.uk
     quality: 24
 
-secured: "bxsf7T/e/H38k+u7dnubfBX+X4P/CgPu/zee80/kHyqbVn59AfLRN7p5U64xgOk6q4P3SPZQZYZdmZEpS2U4fApjLhC5IA6jp3ZOeIdyBPBGXsr2Je+S3T0W9keoDBGMhzZnm0126im0YE7kH/mAhn5t9+ppUcWxvDvTuUQdfounNKpHlg7t0WaTIcvM7uTlMRUElcZ2ZAIfP0AJXGtlTXxQBlbaI8atYGMcba/Lva8IY9Co5baoFdlK5ttVr+QUOofVFlzwnCyAyhf3UVIezgDQW/+iUKwGgfjcfPgnakntxjPd7GJiFkH1xiz44X/C+hy8ne+jd/exHVtRVFU8cdNmd2gO59eF0u0iLDcMjLxzeCJ/d8+4bEdyIjGdMdRgvWqxr7cT3MWPRdtDbDJBhG62DVVfuTwmGEEZegRryFgO8lKDyWYBRzE3OK1dHXQQMsX+dhxJyzQDaRq4GFYpQL5VO3j9nCzwLnF28puuii2gpC1q2j3ErANVAfpPJaHGZaFjWwna110YrE09zsNd6g==;79gqiLwFc93OWjBlPkofXA=="
+secured: "CedCzaNwmsR2XWHaAWXpooBsWs2QVwaFptEUYxiN4YGCAZjH+GWNkiUEQqaDvGJUYNuUVmfpYDlV4dSpMbyBcDhKZO8oH3jbUhez7VnsWLo43S99/OP6fnDvdPQjwobLZpOFO78trHtRs3NzogdNfjcmYrBUWiUCa57yCvbvzMP5DvZjlGSPTJUtNDu9PJ1tvpplfnen2rp7QfGNMIZ8vqCrGEMBFsyUqOETwGppEE3X/44rdtDUY6vX1cG17wChaeg5Pxdd4R9UnmhecBArpgfo6MUTh/iNzulcfarVisM1F9P/K6UfF1IDPeNipqygXxPXp1vgsn8U63M+5oetkRbz655tPiDBrp3d6X0Oq/M=;GqH0nNa0Z1wN1LnjTiwWIA=="
 ---
 

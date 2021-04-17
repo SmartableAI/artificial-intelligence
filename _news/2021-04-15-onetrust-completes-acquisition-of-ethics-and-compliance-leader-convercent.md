@@ -41,6 +41,33 @@ related:
         width: 600
         height: 453
         isCached: true
+  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
+    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
+    publishedDateTime: 2021-04-16T04:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
+        width: 600
+        height: 512
+        isCached: true
+  - title: "Marble Financial closes acquisition of leading Canadian fintech company, Inverite Verification"
+    excerpt: "Marble told investors that Inverite’s data aggregator combined with Marble’s personal finance platform MyMarble will create a faster,"
+    publishedDateTime: 2021-04-12T15:35:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/946328/marble-financial-closes-acquisition-of-leading-canadian-fintech-company-inverite-verification-946328.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/946328"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/946328"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 12
 
 secured: "NE+HRxpD5qvO5jO6L8RRvG6kX7mk7ic6gMCOElvtOsiTUHg/OvMuOHEfg7PKM+xOmzinNdaW+XR6U9pq5wLBybgcgOlWTJeLhCq2XPmSwjTyajBXLF359OVnNVnohvRmATgKC0A1K5q1PaXRgHQXEZ60wRcchetRMY7HdpUnibRD8NzlhyKmCIY9UDtOOBYiC9xB9mtJiJ+Z80eMI0AV6kaM7WjWoWIIvt2gV4GpOl3MMAfl6pzcppUq8vHanYqAyLvMpCV8zublDY+/8l/xRg6rNSmGiypH2ALU8A2UiD75c51TXlWVvVKeTfc4qbPcld1ddKcf2N9zXFSWYTKjCleUtMobImwnfvIN+javPyM=;+wMW1K+T3vSUTzt5whyYIg=="
 ---

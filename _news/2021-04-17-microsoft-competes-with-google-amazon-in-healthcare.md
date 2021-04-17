@@ -832,22 +832,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for $16B: Report"
-    excerpt: "Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday, Microsoft first ..."
-    publishedDateTime: 2021-04-12T06:39:00Z
-    webUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-buy-speech-recognition-firm-nuance-16b-report-1502962331.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 61
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/microsoft-afp-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft to buy speech-recognition firm Nuance for $16bn - report"
     excerpt: "San Francisco - Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
     publishedDateTime: 2021-04-12T08:39:00Z
@@ -895,22 +879,6 @@ related:
       - url: "https://variety.com/wp-content/uploads/2021/04/Microsoft-Acquires-Nuance.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for USD 16 billion: Report"
-    excerpt: "SAN FRANCISCO: Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly USD 16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
-    publishedDateTime: 2021-04-12T06:02:00Z
-    webUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2021/apr/12/microsoft-to-buy-speech-recognition-firm-nuance-for-usd-16-billion-report-2289026.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/Microsoft_AP.jpg"
-        width: 600
-        height: 390
         isCached: true
   - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
@@ -1464,6 +1432,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "DGU20+nDXIXqLOZknWQ3tUiXaHJG63JAZAOD8mNASzKyG7EIP0VpsT8sCMucZ5Jszg8IdXEnCacaxzis73K9+oQv4+/xdtjhKAgHOwE+/1j930eQGVpBg5a9jKviDk7xWUvqXPBlqL3CYpUMPVXzS9HC/8FEWknXT4Qw3txb2xu9hYGpfw6P/+P/+46C0agos1eVzs3DbRAoG1TCOCdSXDXlPi15cu/iaKH3BH2YkchxC2Kjf45Q0Z2mY/QtCiaTD9986z8b+vJtA+n4N4wbrT7UJwcbs5qgIr0hcFF+5AXIakv01jni9DlLNincN9npWVO29eQRiPt485qx49asOeSHVNv7WXmT0eqRbuSauZ4=;YVvx74fMKJXNDNLT82YMew=="
+secured: "+NIdejS6yOMkYhvMzUL5PlwJeM+7bwRc4J1bAP66lIwgaCQUu4oLM0g5tvNXKZfu0AosL9Odh4mvz+KRdDSwet6VXlWgeCrYz9QjoU+mnstM2OAUIOqLecnB4nPfcXvvFkBv3JHtc4UW0QqAWlf8KDXDTagTy5Tq5Yv8JcwQpx5uOPuSc1W+9cvx4ZrzBO5QM6vF7ly9NUsnNxVb4j9uAKz3tedTU8e30wnc2TjlWk8+cniBbFcan58xnsxjULWio9F+GALYZcZWcggEE/CSonolKZy5f1lQvB+YV5rYGQaUHe4VGpMdASTQPT5Nns3Zwhf7DfckjioJ7LAWX5m5U/Ujn5e95zEx0XUw3QDQemdWVpUnlAGddHpLCtBIDv4f2/z775NCjPs+nak4bs1BUZqeidL677k+X6f/FEawp0s1g+Jl0vudI8hzEdL/bbwqKcn/Cq6c17qOliR9K3ekJUgegez47b1swH5IFD37nXY1LabgHjytDtd7YG8wvC6BNfHDwCQOYd9qO2VZJkowNA==;fyiHUJPvSaFnQllMsGCyOA=="
 ---
 

@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Vancouver-based fintech to offer AI-powered personal finance platform"
-    excerpt: "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ..."
-    publishedDateTime: 2021-04-12T07:00:00Z
-    webUrl: "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx"
+  - title: "Marble Financial Completes Acquisition of Canadian Fintech Inverite"
+    excerpt: "Marble Financial Inc. (CSE: MRBL; OTC: MRBLF; FSE:2V0), an AI-driven financial technology company that educates and helps Canadians better understand and manage their current cash flow and credit towards a better financial future,"
+    publishedDateTime: 2021-04-15T17:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
     type: article
     provider:
-      name: Mortgage Broker News
-      domain: mortgagebrokernews.ca
-    quality: 54
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg"
-        width: 500
-        height: 333
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/09/Canada-Money-600x453.jpg"
+        width: 600
+        height: 453
+        isCached: true
+  - title: "OneTrust Completes Acquisition of Ethics and Compliance Leader Convercent"
+    excerpt: "Convercent. Join OneTrust CEO Kabir Barday and Convercent CEO Patrick Quinlan at CONVERGE 21: Workshop Edition as they lay out their joint vision for the future of ethics and compliance The Convercent technology,"
+    publishedDateTime: 2021-04-15T12:22:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-technology-issues-data-privacy-10f93ed3008e9cbc9d806c42a91e2ac5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Marble Financial closes acquisition of leading Canadian fintech company, Inverite Verification"
     excerpt: "Marble told investors that Inverite’s data aggregator combined with Marble’s personal finance platform MyMarble will create a faster,"

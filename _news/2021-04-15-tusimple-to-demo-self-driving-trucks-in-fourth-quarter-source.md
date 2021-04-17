@@ -1,22 +1,20 @@
 ---
 category: news
-title: "TuSimple to demo self-driving trucks in fourth quarter: source"
+title: "TuSimple to Demo Self-Driving Trucks in Fourth Quarter: Source"
 excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
 publishedDateTime: 2021-04-15T14:10:00Z
-originalUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4"
-webUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4"
-ampWebUrl: "https://www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source-2021-4?amp"
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-15/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-15/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -90,6 +88,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "Y4xMbDtNoqo45XoGsIHeE7mqhkFcA6vJz1wXwssIyJHD+ODvUW9mXkgUyNQ93b4ysiUdxM4JednQmhD8OXhbEeJGfqqRkjJ+PhM0Cvpo9jUGTs8YUHugodUsrcaRFvdBFk5/Bfx60oUwxkvSQ7n5pjD8t9aMImjNEPO1sNRSZZOyJCgDgfgokLhTQsihfUVUPg14SYi1rtNlgV6UW+uKCZNOlrPaWVpgEhdfScJMPJFlS9UlHSXPdftcG2IeaPpoElQa0ORZPHiNQt25m9YvZUiBYn2ccQFgvpy5pthrg4rxLbHAk+Az2aVCnDdr6tlYpjQvXIMefgjMk80QvRX/fWm7RGUHAH1zvdv6lgBumTk=;W4kQP88kIEXwWR1zc4ghLA=="
+secured: "gvkKTtr/ivf1+nCEU26PvBLf7u2EG9o9FxMFJbuc9jDd8mfQFBjJl6t2MfQcqMdM7ScSX/J7W073biECSUI6bIs+vTk5W3QvDKSmy8ZFmtQR98nbeDQVvlo8Ic5foezePtdKLI7m3Bith6pdDeW9BrAHgsjEOReye+/2jdC5NLBLXMrHpcptbGfF/Cp18OJCMbC8bAqw/SeMjM/h/7z4TWMIkf/D0Frp0LZGVhNEhLKRAUcTWZMVjPXNmxw93qEoW3wJSOsxOXZ9huErfCpCruCRdpKBScD/mH92moRkQhTZdCaKkapV5dTgJVGW/83QF/ZqLXmVgm8feOyaKYsSYlC9+o+OmqYXRjDrVoARk/c=;7kQPBoRAE8jbmaDYYAMq8Q=="
 ---
 
