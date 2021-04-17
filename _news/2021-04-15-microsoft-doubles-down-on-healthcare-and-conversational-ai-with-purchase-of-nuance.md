@@ -74,6 +74,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Why Microsoft’s new AI acquisition is a big deal"
+    excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
+    publishedDateTime: 2021-04-17T17:25:00Z
+    webUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/"
+    ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
     excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
     publishedDateTime: 2021-04-14T13:59:00Z
@@ -211,22 +227,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
-    excerpt: "Microsoft Corp said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers. The deal comes after the companies partnered in 2019 to automate clinical administrative work such as documentation."
-    publishedDateTime: 2021-04-12T23:38:00Z
-    webUrl: "https://www.metro.us/microsoft-doubles-down-on-2/"
-    ampWebUrl: "https://www.metro.us/microsoft-doubles-down-on-2/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/microsoft-doubles-down-on-2/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 72
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3B0RB-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft, Nuance News May Signify Next Era of AI in Healthcare"
     excerpt: "April 14, 2021 - Artificial intelligence in healthcare has mostly existed in the realm of the hypothetical. Clinical use cases for AI algorithms permeate the research sector, while rarely infiltrating real-world care settings. With the recent news of ..."
     publishedDateTime: 2021-04-14T13:30:00Z
@@ -240,20 +240,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Google vets health record tool for patients; Microsoft bets on healthcare AI"
-    excerpt: "Google is recruiting Android users to see how they prefer to interact with their own health data, and Microsoft is working to develop software that transcribes patient-doctor conversations directly into EHR."
-    publishedDateTime: 2021-04-12T23:38:00Z
-    webUrl: "https://www.mcknights.com/news/clinical-news/google-vets-health-record-tool-for-patients-microsoft-bets-on-healthcare-ai/"
-    type: article
-    provider:
-      name: McKnight's Long-Term Care News
-      domain: mcknights.com
-    quality: 68
-    images:
-      - url: "https://www.mcknights.com/wp-content/uploads/sites/5/2020/01/page12_Technology_T_0220.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
@@ -492,17 +478,6 @@ related:
         width: 821
         height: 462
         isCached: true
-  - title: "Microsoft to buy Nuance for $16 billion to focus on health care tech"
-    excerpt: "Microsoft said that it would buy Nuance Communications, a provider of artificial-intelligence and speech-recognition software, for about $16 billion, as it pushes to expand its health care technology services."
-    publishedDateTime: 2021-04-12T23:05:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-to-buy-nuance-for-16-billion-to-focus-on-health-care-tech/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
   - title: "Microsoft’s Nuance Deal Second Biggest in Its M&A History: Chart"
     excerpt: "Microsoft Corp. is going all-in on health-care artificial intelligence with its $19.6 billion all-cash deal for speech technology company Nuance Communications Inc."
     publishedDateTime: 2021-04-13T07:03:00Z

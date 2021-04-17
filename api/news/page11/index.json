@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
+      "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
+      "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d8f5f33b81da20078e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "publishedDateTime": "2021-04-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-studied-kurt-cobain-to-create-a-new-nirvana-song-and-it-kinda-rocks.md",
+      "title": "Artificial intelligence studied Kurt Cobain to create a ‘new’ Nirvana song, and it… kinda rocks",
+      "excerpt": "But in 2021, we actually have a “new” Nirvana song — thanks to artificial intelligence and a pitch perfect assist from a cover band leading man. As part of the Lost Tapes of the 27 Club, a project that is using artificial intelligence to create new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song",
+      "originalUrl": "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/04/getty-images-kurt-cobain.jpg?offset-x=0&offset-y=0",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/ai-tech-studied-kurt-cobain-create-new-nirvana-song?amp",
+      "publishedDateTime": "2021-04-07T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-save-the-date-for-the-aws-machine-learning-summit-june-2-2021.md",
+      "title": "Save the date for the AWS Machine Learning Summit: June 2, 2021",
+      "excerpt": "On June 2, 2021, don’t miss the opportunity to hear from some of the brightest minds in machine learning (ML) at the free virtual AWS Machine Learning Summit. Machine learning is one of the most disruptive technologies we will encounter in our generation. It’s improving customer experience, creating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/save-the-date-for-the-aws-machine-learning-summit-june-2-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/07/2021_ML_Summit_Blog_800x400_V2-1.png",
+          "width": 801,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T09:11:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-doctorate-programme-prepares-leaders-for-a-fintech-future.md",
       "title": "Doctorate programme prepares leaders for a FinTech future",
       "excerpt": "Indeed, Tong goes on to explain that within FinTech are a huge number of advancements that are taking place. These include virtual banking, virtual insurance, insurance tech, big data and even AI, and the list just keeps on growing. So, when looking at the ...",
@@ -1064,153 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-predicting-regional-coastal-sea-level-changes-with-machine-learning.md",
-      "title": "Predicting regional coastal sea level changes with machine learning",
-      "excerpt": "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87460-z/MediaObjects/41598_2021_87460_Fig1_HTML.png",
-          "width": 685,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-this-is-the-most-powerful-artificial-intelligence-tool-in-the-world.md",
-      "title": "This is the most powerful artificial intelligence tool in the world",
-      "excerpt": "In June 2020, the Californian company OpenAI announced the update from GPT-2 to GPT-3, a language model based on artificial intelligence and deep learning with cognitive capabilities. Do you want to know how GPT-3 works? Now I explain it to you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368843",
-      "originalUrl": "https://www.entrepreneur.com/article/368843",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617656858-inteligencia-artificial1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368843",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368843",
-      "publishedDateTime": "2021-04-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-is-femtech-the-next-big-thing-in-health-care.md",
-      "title": "Is ‘Femtech’ the Next Big Thing in Health Care?",
-      "excerpt": "Start-ups and tech companies are creating products to address women’s health care needs. It’s still a small segment ... MobileODT, a start-up based in Tel Aviv, uses smartphones and artificial intelligence to screen for cervical cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/07/multimedia/07sp-hc-femtech3/07sp-hc-femtech3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/07/health/femtech-women-health-care.amp.html",
-      "publishedDateTime": "2021-04-07T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

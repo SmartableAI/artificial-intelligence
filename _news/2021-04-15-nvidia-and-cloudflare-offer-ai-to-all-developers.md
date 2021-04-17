@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Announces Technology For Training Giant Artificial Intelligence Models"
-    excerpt: "Goodson discusses NVIDIA GTC, the premier annual conference for developers, scientists, and businesses interested in machine learning or artificial intelligence. He dives into one of Huang’s most exciting announcements of a newly designed AI platform."
-    publishedDateTime: 2021-04-12T23:21:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074d4cce94425269918518d%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia's new Grace CPU is designed for AI-powered supercomputers"
     excerpt: "The chip will work in tandem with Nvidia graphics ... where vast amounts of data need to be crunched and compared to train AI's to make the right decisions more of the time – whether that's ..."
     publishedDateTime: 2021-04-13T09:22:00Z
@@ -63,63 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia launches TAO, an enterprise workflow for AI development"
-    excerpt: "Users include companies like Accenture, BMW and Siemens Industrial. “AI is the most powerful new technology of our time, but it’s been a force that’s hard to harness for many enterprises ..."
-    publishedDateTime: 2021-04-13T00:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-tao-an-enterprise-workflow-for-ai-development/amp/"
+  - title: "Nvidia Shares Up 11% This Week On New Supercomputing Chip"
+    excerpt: "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers."
+    publishedDateTime: 2021-04-16T16:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/369592"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Grid.ai launches platform for training AI models on the cloud at scale"
-    excerpt: "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure."
-    publishedDateTime: 2021-04-13T19:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Nvidia forms Inception VC Alliance to connect AI startups with venture capital"
-    excerpt: "Nvidia has formed its Inception VC Alliance to connect AI startups with venture capital. The move will help connect more than 7,500 startups in the company’s Inception program for AI tech with ..."
-    publishedDateTime: 2021-04-14T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/"
-    ampWebUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/nvidia-inception.jpg?w=1200&strip=all"
-        width: 1200
-        height: 635
-        isCached: true
-  - title: "Nvidia triples revenue forecast for crypto mining GPU sales"
-    excerpt: "Amazon's AI-powered cameras are a double-edged sword that could make drivers safer, but also force the company to sacrifice productivity, a transportation expert says » SHARE THIS POST NVIDIA ..."
-    publishedDateTime: 2021-04-13T17:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-triples-revenue-forecast-for-crypto-mining-gpu-sales-10012313"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Nvidia unveils quantum computing simulation tools, strengthens grip on GPU accelerated-AI"
     excerpt: "Nvidia has unveiled a software library called cuQuantum that can help scientists better understand the behaviour of quantum computers."
     publishedDateTime: 2021-04-13T04:17:00Z
@@ -152,22 +95,6 @@ related:
         width: 816
         height: 400
         isCached: true
-  - title: "Nvidia announces move to ARM-based chips in newest threat to Intel"
-    excerpt: "The Nvidia Grace server processor is made on ARM architectures and makes it the largest chipmaker yet to adopt the British firm’s technologies.Nvidia claims Grace-based systems will deliver 10x faster"
-    publishedDateTime: 2021-04-13T06:47:00Z
-    webUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel-11618296043144.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/04/13/600x338/2021-02-24T214034Z_1_LYNXMPEH1N1KI_RTROPTP_3_NVIDIA-RESULTS_1618296077514_1618296090605.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Your next Volvo might be powered by NVIDIA artificial intelligence technology"
     excerpt: "GOTHENBURG - Volvo Cars is expanding its collaboration with NVIDIA to use NVIDIA DRIVE Orin™ system-on-a-chip (SoC) technology to power the autonomous driving computer in next-generation Volvo models. Large amounts of computing power are a prerequisite ..."
     publishedDateTime: 2021-04-13T13:58:00Z
@@ -184,15 +111,31 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
-    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
-    publishedDateTime: 2021-04-13T18:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
+  - title: "Grace CPU Links with GPUs for Faster AI Processing"
+    excerpt: "Memory tends to be a bottleneck with a conventional CPU/GPU mix (left), but Grace incorporates high-speed NVLinks compatible with NVIDIA GPUs.\" data-embed-src=\"https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Fig_2 ..."
+    publishedDateTime: 2021-04-14T18:51:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21161267/electronic-design-grace-cpu-links-with-gpus-for-faster-ai-processing"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Promo.6077370f139ae.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
+    excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
+    publishedDateTime: 2021-04-13T08:15:00Z
+    webUrl: "https://tass.com/press-releases/1277131"
+    ampWebUrl: "https://tass.com/press-releases/1277131/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 46
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z
@@ -221,6 +164,34 @@ related:
         width: 1420
         height: 747
         isCached: true
+  - title: "NVIDIA’s New Grace ARM/GPU Solution Puts X86 On Defense"
+    excerpt: "Toned image double exposure mock up This week is NVIDIA’s GTC, or GPU Technology Conference, and they likely should have changed the name to ATC because this year – it is all about AI. To say this show was rich in big announcements and technology would ..."
+    publishedDateTime: 2021-04-14T17:31:00Z
+    webUrl: "https://www.datamation.com/data-center/nvidias-new-grace-arm-gpu-solution-puts-x86-on-defense/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/edge-computing-1-scaled.jpeg"
+        width: 2560
+        height: 1681
+        isCached: true
+  - title: "Roundup Of AI & Supercomputing Products Unveiled At NVIDIA GTC 2021"
+    excerpt: "Softwares will be written by software running on AI computers” Jensen Huang, CEO, NVIDIA. Dubbed as the first kitchen keynote, last year NVIDIA CEO announced DLSS, which revo"
+    publishedDateTime: 2021-04-15T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/roundup-of-ai-supercomputing-products-unveiled-at-nvidia-gtc-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/image1-2.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Nvidia announces its first new Arm CPU for AI processing, the Nvidia Grace"
     excerpt: "Nvidia has announced their first CPU in several years – and first since making a big to acquire Arm – which is set to focus on the growing AI space."
     publishedDateTime: 2021-04-14T13:30:00Z
@@ -235,6 +206,15 @@ related:
         width: 800
         height: 460
         isCached: true
+  - title: "ETFs to Buy on Nvidia's Growth Story"
+    excerpt: "Nvidia NVDA delighted investors following its Investor Day, wherein it projected better-than-expected revenues for fiscal Q1 and announced a host of advancements in artificial intelligence, computer graphics, robotics and data centers. The graphic maker ..."
+    publishedDateTime: 2021-04-14T14:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/etfs-to-buy-on-nvidias-growth-story-2021-04-14"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
     excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
     publishedDateTime: 2021-04-13T10:43:00Z
@@ -280,15 +260,6 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 17
-  - title: "Nvidia announces availability of Jarvis interactive conversational AI framework"
-    excerpt: "Nvidia Jarvis models provide accurate automatic speech recognition, language understanding, real-time translations for multiple languages, and new text-to-speech functionalities, to create expressive conversational AI agents. Using GPU acceleration ..."
-    publishedDateTime: 2021-04-14T07:28:00Z
-    webUrl: "https://www.telecompaper.com/news/nvidia-announces-availability-of-jarvis-interactive-conversational-ai-framework--1379327"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
   - title: "NVIDIA Announced A New CPU, NVIDIA Grace Which Is Capable To Take Massive AI Calculations & High Performing Computing Workload"
     excerpt: "“NVIDIA has developed Grace as a CPU especially for giant-scale AI and HPC using licensed Arm IP. Grace, when combined with the GPU and DPU, has the third fundamental computing infrastructure, as well as the potential to re-architect the data center to ..."
     publishedDateTime: 2021-04-13T19:40:00Z

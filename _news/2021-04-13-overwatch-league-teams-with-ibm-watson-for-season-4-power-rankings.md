@@ -59,6 +59,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Blizzard And IBM Develop AI Powered Overwatch Rank System To Crown The Mightiest Players"
+    excerpt: "Last year's Overwatch League was canceled due to the COVID-19 pandemic, and that temporarily pumped the brakes on some interesting AI projects, as well. At the time, Blizzard and IBM were set to announce that Big Blue was about to become the cloud,"
+    publishedDateTime: 2021-04-17T16:42:00Z
+    webUrl: "https://hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
+    ampWebUrl: "https://amp.hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54849/content/overwatch.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Evonik Becomes a Member of the MIT-IBM Watson AI Lab to Accelerate Innovation with AI"
     excerpt: "Evonik expands cooperation with IBM in the field of digitization. The two companies extend their strategic partnership ahead of schedule until 2025. Taking this decision early creates more opportunities for longer-term projects."
     publishedDateTime: 2021-04-15T16:45:00Z

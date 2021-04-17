@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
+    excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
+    publishedDateTime: 2021-04-16T08:32:00Z
+    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "Shares in self-driving truck company TuSimple flat after raising $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in trading Thursday after the company raised $1.35 billion in its initial public offering on a valuation of $8.54 billion. The company offered 33."
     publishedDateTime: 2021-04-16T02:57:00Z

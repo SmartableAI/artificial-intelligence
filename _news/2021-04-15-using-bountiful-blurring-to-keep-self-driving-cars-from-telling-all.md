@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise to be Dubai's exclusive self-driving taxi provider, report says"
-    excerpt: "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ..."
-    publishedDateTime: 2021-04-12T23:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
+  - title: "Evolving, self-replicating robots are here — but don’t worry about an uprising"
+    excerpt: "Self-replicating robots are a staple of apocalyptic science fiction movies, but now the idea has made the jump from fiction to reality."
+    publishedDateTime: 2021-04-17T16:00:00Z
+    webUrl: "https://www.digitaltrends.com/features/self-replicating-robots-in-space/"
+    ampWebUrl: "https://www.digitaltrends.com/features/self-replicating-robots-in-space/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/self-replicating-robots-in-space/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 85
     images:
-      - url: "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png"
+      - url: "https://img.dtcn.com/image/digitaltrends/autonomous-robot-evolution-robofab-1200x630-c-ar1.91.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
 
 secured: "XzKtmE0CGETlHapKiHfvzhLCESCmoj0AH/vF0iWaSBcLszXZU5yPGQRv13PrOOZR9qxEsuzyOk/tg297pVofBISc5knnbCurdwNPd4xwNH6XYBw4DkzbQTI+jtlqjpiCHe75zmTl/AbCOdGxxlu5S5yfAUnKoa6rmt0mScauKifKZ8mcZHjrilgWIhFzxdEe2Nlx+zsuAvCEUpDH3korK6pVOAMeuMeJr9c6GqOjhhuTz+TfTTBuXshDp7z/cmpOXd8iqrH4WQ87O8PUkb7/Rec/Y8G/YW+6kzibi6S7G/eH1UfjpEsAoJzCW7KlM+mxoMJq3LzfmxwZfcpvm02Z8DJAZz4HNTt4qUNGX5XsgBNaSX+sL/nGDPt9hL1mLCiQCCwLwKrTO5jqf8XxNabvXDls0+VBvhBftVu9xi63eYJfwTis3gTNThUmVBKwwNR8X2Vuz1T8GMuik2bJIUomOMLG2L0JccR6TFEqWOorYxQrp3p22fEoAeGXXBf3r2KINtfOagEpwuuWmsHWO9PVtA==;PebhwtsVp/VdPedWVee5tQ=="

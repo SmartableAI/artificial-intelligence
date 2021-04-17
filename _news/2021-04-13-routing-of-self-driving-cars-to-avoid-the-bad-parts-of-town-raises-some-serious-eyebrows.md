@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8Bz9FU8rJs/v0/1200x801.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
+    excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
+    publishedDateTime: 2021-04-16T04:49:00Z
+    webUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/media.nbcsandiego.com/2019/09/GMAP_18330654522712.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "exIZGaeezS8ZGTSsB2VOcsMm3rSmQA8xxCbq1qXz0ADFez/FsadNej6MLlY+2Ixd9ioYxYr9WjLZ44sV9Cp5+/KlxbaTV8lMe7aveouTm9nboi/WX9pDt1O+ZvUl2n+4PeFv63AX3vbXqJyDQtVyjulFzGcRF3zuRroxmH68wAXPt5qQjsk5cZXlffKgXfG8ZcM/C74urkuRVsThSBANDuzDUgtgWSzFZpla92pCabdZ5TFGF8J5Edz0n69YYTtCJfEqNE5QjCZ1xrecCP0sytUMz4nZo9EDEiTiYB9P0HPvPEif/vZI7NxQkWQOovbyfZUToyt5fkAd0BwlWB06u+ZLEihFIHCkpPdvbsGec770lOc1/57KnsIOEHSZgHYM9xYE70pVR4ZDgW1XsV8kSyaPBxFzFc7vcQS9KB8M4Tpn2gmvJeCjlY10E9DcOqeM9m8I3PucxBJXAW71urf1ALKZ8DUUAdHLMiGszPW5ofHi9n/F8h/2QohZiB6EnNOK3TZ6vKiHAWwEKuILj6XcmA==;la3HCJVIts6doubkGems6g=="

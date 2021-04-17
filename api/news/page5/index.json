@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-why-your-ai-project-is-failing-to-deliver-value.md",
+      "title": "Why Your AI Project Is Failing To Deliver Value",
+      "excerpt": "However, we have also seen how AI deployments can run into headwinds. Executives start with many hopes and expectations but eventually struggle to put their models into production or ensure that the end users are actually using the intelligence to drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47c47573174d64749ebba7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/13/why-your-ai-project-is-failing-to-deliver-value/amp/",
+      "publishedDateTime": "2021-04-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-machine-learning-can-help-slow-down-future-pandemics.md",
+      "title": "Machine learning can help slow down future pandemics",
+      "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers at the University of Gothenburg have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/24-machinelearn.jpg",
+          "width": 1000,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-machine-future-pandemics.amp",
+      "publishedDateTime": "2021-04-13T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-why-these-doctors-are-embracing-ai-to-make-triage-decisions.md",
       "title": "Why these doctors are embracing AI to make triage decisions",
       "excerpt": "Radiologists in particular are being confronted with a massive transformation as AI becomes more capable of interpreting scans. Is this a threat to radiologists? Discussions around the use of artificial intelligence to review CT scans are often framed as ...",
@@ -189,6 +283,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidias-new-grace-cpu-is-designed-for-ai-powered-supercomputers.md",
+      "title": "Nvidia's new Grace CPU is designed for AI-powered supercomputers",
+      "excerpt": "The chip will work in tandem with Nvidia graphics ... where vast amounts of data need to be crunched and compared to train AI's to make the right decisions more of the time – whether that's ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/nvidia-grace-cpu-ai/",
+      "originalUrl": "https://newatlas.com/computers/nvidia-grace-cpu-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4078295/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F81%2F3c952bb9430bb456a8a69affa983%2F00-nvidia.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/nvidia-grace-cpu-ai/?amp=true",
+      "publishedDateTime": "2021-04-13T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1072,152 +1218,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-plaintiffs-seek-preliminary-injunction-in-clearview-ai-privacy-mdl.md",
-      "title": "Plaintiffs seek preliminary injunction in Clearview AI privacy MDL",
-      "excerpt": "Plaintiffs in the recently consolidated multidistrict privacy litigation against Clearview AI Inc are seeking a preliminary injunction, renewing a previous push to bar the company from collecting Illinois residents’ biometric data without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-clearview-idUSL1N2M52TL",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-clearview-idUSL1N2M52TL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2M52TL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52TL",
-      "publishedDateTime": "2021-04-12T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose.md",
-      "title": "Chinese autonomous vehicle startup WeRide scores permit to test driverless cars in San Jose",
-      "excerpt": "WeRide, the Chinese autonomous vehicle startup that recently raised $310 million, has received a permit to test driverless vehicles on public roads in San Jose, California. WeRide is the seventh company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
-      "originalUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-12-at-12.34.41-PM.png?w=995",
-          "width": 995,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
-      "publishedDateTime": "2021-04-12T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
-      "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
-      "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621229%2Fudelv-driven-by-mobileye-night-75789135.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "publishedDateTime": "2021-04-12T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -61,6 +61,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
+    excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
+    publishedDateTime: 2021-04-16T04:49:00Z
+    webUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/media.nbcsandiego.com/2019/09/GMAP_18330654522712.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pUXkOO773+SJsU6PFzOXcwEMQ9ggVmdyQZYoKrHkiyiB1OI33d1VN6rxIR3cJH6Jqj10bNt+x6OiCo9BJpZicHzSiZ/7Rb7HVo0jOaxtcg1oyjITFaKzIFc/y4e17QsHQsXukRqrmREtnmetbVnKPzRHa9ZuN0NvZZ83xIyoIXrOYjqL2Who5FsoKJsJ7StDxk/ld/Zf+yCEDAJ4WWKfFOS+UG1MLLgyw23ej3VV2WkR4zpEq14Bs3JAjcIsNJ30yNsy/Ek/obufCU/lm9yhwSKg8Euza2ejj9RodG5dkbVJtuYwVO58LZ/tnjvr/nNcezrQwz6JaJ5wSZv+vFIDq30Hy++LJV4sq+kENk24+44wHXRj0JxI/eIm7IRnjWpiIddcMksRsXUDMfSXR5OfYW9AJkV3YK+Q2dSWNWFdYrz7UCtrvrfm+0qNeQREUBWGA4/HFkBi2UIqPnaCu8E3g7bKTpeeuvSLFahMGew3tfoqViQm0fh7hgZs34YGPunJE6LrEyfXuewwyGS8bFF5ww==;8co+93YdgjNJMq288dZOvg=="
 ---

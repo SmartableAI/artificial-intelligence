@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-15-self-driving-semi-truck-company-tusimple-raises-over-1-billion.md",
+      "title": "Self-Driving Semi Truck Company TuSimple Raises Over $1 Billion",
+      "excerpt": "TuSimple claims its self driving technology makes it possible for heavy trucks to see 1,000 meters away and react 15 times faster than a human. They are currently self driving on highways and going between truck depots outside of cities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-15-at-9.18.49-AM.jpg",
+          "width": 1184,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html",
+      "publishedDateTime": "2021-04-15T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-tecton-teams-with-founder-of-feast-open-source-machine-learning-feature-store.md",
       "title": "Tecton teams with founder of Feast open source machine learning feature store",
       "excerpt": "Tecton, the company that pioneered the notion of the machine learning feature store, has teamed up with the founder of the open source feature store project called Feast. Today the company announced the release of version 0.",
@@ -1148,57 +1191,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-triller-owner-gets-a-new-ceo-with-acquisition-of-amplifyai-also-acquires-live-streaming-service-fite-tv.md",
-      "title": "Triller owner gets a new CEO with acquisition of Amplify.AI; also acquires live streaming service FITE TV",
-      "excerpt": "The short-form video app said it’s acquiring an A.I.-based customer engagement platform, Amplify.AI, whose co-founder Mahi de Silva will now become TrillerNet’s CEO. Existing CEO Mike Lu will ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/14/triller-owner-gets-a-new-ceo-with-acquisition-of-amplify-ai-also-acquires-live-streaming-service-fite-tv/",
-      "originalUrl": "https://techcrunch.com/2021/04/14/triller-owner-gets-a-new-ceo-with-acquisition-of-amplify-ai-also-acquires-live-streaming-service-fite-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1228102031.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/14/triller-owner-gets-a-new-ceo-with-acquisition-of-amplify-ai-also-acquires-live-streaming-service-fite-tv/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/triller-owner-gets-a-new-ceo-with-acquisition-of-amplify-ai-also-acquires-live-streaming-service-fite-tv/amp/",
-      "publishedDateTime": "2021-04-14T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
