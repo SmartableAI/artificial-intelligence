@@ -213,6 +213,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Walmart invests in electric self-driving company Cruise"
+    excerpt: "Following on a pilot project with Cruise electric autonomous vehicles for last-mile delivery, Walmart announced Thursday morning that it is investing in the company as part of a new $2.75 billion funding round."
+    publishedDateTime: 2021-04-15T14:56:00Z
+    webUrl: "https://www.supermarketnews.com/technology/walmart-invests-electric-self-driving-company-cruise"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 24
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cdn.corporate.walmart_2.png"
+        width: 1840
+        height: 1200
+        isCached: true
   - title: "Walmart invests in self-driving car start-up, Cruise"
     excerpt: "Walmart has recently invested in autonomous, self-driving car start-up, Cruise in its latest USD 2.75 billion funding round."
     publishedDateTime: 2021-04-17T05:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16"
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -72,17 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (Ai) In Manufacturing Market Trends 2020 | Segmentation, Outlook, Industry Report to 2026"
-    excerpt: "Global artificial intelligence ai in manufacturing market is estimated to grow at a CAGR of 33 5 during the forecast period 2019 2025 The global AI in manufacturing market value was nearly 3 billion in 2018 which is estimated to"
-    publishedDateTime: 2021-04-12T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    ampWebUrl: "https://www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269030/global-artificial-intelligence-ai-in-manufacturing-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "Artificial Intelligence (AI) in Medical Diagnostics Market worth $3,868 million by 2025 - Exclusive Report by MarketsandMarkets"
     excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application"
     publishedDateTime: 2021-04-15T14:35:00Z

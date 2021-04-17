@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-lo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/images/dominos-1618255506.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
-    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
-    publishedDateTime: 2021-04-12T14:54:00Z
-    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
-    type: article
-    provider:
-      name: TaxiPoint
-      domain: taxi-point.co.uk
-    quality: 33
-    images:
-      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
-        width: 1000
-        height: 704
         isCached: true
 
 secured: "cTxIVeKH8ht1xExXMS+l5oiFkeZTi96o4BkDgFEmbFYTdwsy5R3P5mZRy6E2OTSO/aPYCMKnL90mIoEDF/p2Stm8by5sPOpHbCJgyhSn4CTXrLsepREWC8xaeNZe+tW5aaYDFXiSnWwGmHAHOelHZNLQiT8rh5iWHlagzwPx11Ds8rvmQE31em154eIHwwQpj7SZC3QnGrQqWTmm3npkWbJSo/Aoox378IQdZ7w0M9/Zfrl4BFML0pXVpzBfNTIZhnQoKHNGuxY/TgbIgAhKYn3PYYi+wChKUkr5ELlOZ4l2rb9nQlHlxpE/U0opcGo37Q0VKegwm8BVGmAA5nH6COuncMV546FMDrSAldd3ByE=;EXjrqTKgt27tftBsPS4FUg=="

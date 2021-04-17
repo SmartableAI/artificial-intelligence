@@ -146,22 +146,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
-    excerpt: "This is a 5G-connected data center on a card’ NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta,"
-    publishedDateTime: 2021-04-12T14:55:00Z
-    webUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
-    ampWebUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2019/05/119131792_m.jpg"
-        width: 2048
-        height: 2048
-        isCached: true
   - title: "Nvidia announces move to ARM-based chips in newest threat to Intel"
     excerpt: "The Nvidia Grace server processor is made on ARM architectures and makes it the largest chipmaker yet to adopt the British firm’s technologies.Nvidia claims Grace-based systems will deliver 10x faster"
     publishedDateTime: 2021-04-13T06:47:00Z

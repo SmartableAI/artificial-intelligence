@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook says its AI could help find drug combinations to treat cancer"
+    excerpt: "Facebook claims that its new artificial intelligence can predict the way drugs interact with each other inside cells, but other researchers say it may not translate into results that will be useful in"
+    publishedDateTime: 2021-04-16T13:38:00Z
+    webUrl: "https://www.newscientist.com/article/2274871-facebook-says-its-ai-could-help-find-drug-combinations-to-treat-cancer/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/16120342/16-april_facebook-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
     excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
     publishedDateTime: 2021-04-15T18:33:00Z

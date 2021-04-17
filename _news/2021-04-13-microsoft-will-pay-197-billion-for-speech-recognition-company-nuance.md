@@ -76,70 +76,6 @@ related:
         width: 927
         height: 626
         isCached: true
-  - title: "Microsoft buys speech recognition firm Nuance in a $16 billion deal"
-    excerpt: "Nuance's technology will be used in Microsoft's health-care cloud products. Microsoft announced Monday that it will buy speech recognition company Nuance Communications for $56 per share, about 23% above its closing price Friday. The deal is worth about $ ..."
-    publishedDateTime: 2021-04-12T13:08:00Z
-    webUrl: "https://www.cnbc.com/2021/04/12/microsoft-buys-nuance-communications-in-16-billion-deal.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/04/12/microsoft-buys-nuance-communications-in-16-billion-deal.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/microsoft-buys-nuance-communications-in-16-billion-deal.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 106
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105709746-1548876193618gettyimages-1087876826.jpeg?v=1548876254"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Microsoft goes all in on healthcare with $19.7B Nuance acquisition"
-    excerpt: "When Microsoft announced it was acquiring Nuance Communications this morning for $19.7 billion, you could be excused for doing a Monday morning double take at the hefty price tag. That’s surely a lot of money for a company on a $1."
-    publishedDateTime: 2021-04-12T14:28:00Z
-    webUrl: "https://techcrunch.com/2021/04/12/microsoft-goes-all-in-on-healthcare-with-19-7b-nuance-acquisition/"
-    ampWebUrl: "https://techcrunch.com/2021/04/12/microsoft-goes-all-in-on-healthcare-with-19-7b-nuance-acquisition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/12/microsoft-goes-all-in-on-healthcare-with-19-7b-nuance-acquisition/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1124695995.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft buys AI speech firm Nuance Communications"
-    excerpt: "Interestingly the SaaS products all rely on the Microsoft Azure cloud computing service. In a statement Microsoft said it also hoped to leverage Nuance’s AI expertise that extends beyond healthcare into Interactive Voice Response (IVR), virtual ..."
-    publishedDateTime: 2021-04-12T15:00:00Z
-    webUrl: "https://www.techradar.com/sg/news/microsoft-buys-ai-speech-firm-nuance-communications"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-buys-ai-speech-firm-nuance-communications"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Q9MsVRHZFHWkw8tkW3dwx6-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Microsoft to buy AI company Nuance"
-    excerpt: "Microsoft agreed to buy artificial intelligence developer Nuance in a deal worth $19.7 billion, including debt. CNN's Clare Sebastian explains."
-    publishedDateTime: 2021-04-12T15:00:00Z
-    webUrl: "https://www.cnn.com/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/04/12/microsoft-nuance.cnnbusiness"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210411185815-microsoft-nuance-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
     excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
     publishedDateTime: 2021-04-13T12:00:00Z
@@ -155,22 +91,6 @@ related:
       - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Why Nuance? Microsoft is making a $19.7 billion bet on ambient digital healthcare"
-    excerpt: "The deal for Nuance comes as the enterprise and healthcare artificial intelligence company is just hitting its stride. Not only does Microsoft's purchase of Nuance make more sense than rumored talks for TikTok, Pinterest, and Discord, but the two companies ..."
-    publishedDateTime: 2021-04-12T14:38:00Z
-    webUrl: "https://www.zdnet.com/article/why-nuance-microsoft-is-making-a-19-7-billion-bet-on-ambient-digital-healthcare/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-nuance-microsoft-is-making-a-19-7-billion-bet-on-ambient-digital-healthcare/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-nuance-microsoft-is-making-a-19-7-billion-bet-on-ambient-digital-healthcare/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/12/62ce80ab-f92c-403a-ac50-eb66698f6623/nuance-ambient-health.png"
-        width: 1389
-        height: 725
         isCached: true
   - title: "What Microsoft's $19.7 billion purchase of Nuance could mean for AI and speech tech"
     excerpt: "Carlsson said of Monday's news, \"This has been proceeded by a major shakeup internally in Microsoft when it comes to AI—both organizationally (key Azure Cognitive Services individuals are now at Oracle) and technically (the services are being ..."
@@ -247,20 +167,6 @@ related:
         width: 1199
         height: 562
         isCached: true
-  - title: "Microsoft’s $20 Billion AI Deal Will Shake Up How We Work"
-    excerpt: "The technology giant’s purchase of voice-recognition and AI specialist Nuance Communications puts it at the forefront of the next big wave of workplace innovation."
-    publishedDateTime: 2021-04-12T14:56:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-04-12/microsoft-s-20-billion-ai-deal-for-nuance-will-disrupt-the-future-of-work"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBD4PW0rLEwQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Will Buy AI Firm Nuance For $19.7 Billion To Bolster Healthcare Technology"
     excerpt: "Microsoft is buying an Artificial intelligence speech firm from Nuance for $19.7 billion. It would use its software and artificial intelligence for healthcare."
     publishedDateTime: 2021-04-13T04:52:00Z
@@ -303,22 +209,6 @@ related:
       - url: "https://liliputing.com/wp-content/uploads/2021/04/ms-nuance.jpg"
         width: 1038
         height: 382
-        isCached: true
-  - title: "Microsoft will buy Nuance, an A.I. company, for $16 billion to focus on health care tech."
-    excerpt: "Microsoft said on Monday that it would buy Nuance Communications, a provider of artificial intelligence and speech-recognition software, for about $16 billion, as it pushes to expand its health care technology services. In buying Nuance, whose products ..."
-    publishedDateTime: 2021-04-12T13:08:00Z
-    webUrl: "https://www.nytimes.com/2021/04/12/business/microsoft-nuance-artificial-intelligence.html"
-    ampWebUrl: "https://www.nytimes.com/2021/04/12/business/microsoft-nuance-artificial-intelligence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/12/business/microsoft-nuance-artificial-intelligence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 82
-    images:
-      - url: "https://static01.nyt.com/images/2021/04/12/business/12econ-brf-msft/merlin_137811543_c16c6a97-5d38-4356-9ed5-2bb27aa5309c-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Microsoft's $19.6 billion investment in health care AI"
     excerpt: "(Credit: VDB Photos/Shutterstock.com) (Bloomberg) –Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to ..."
@@ -582,20 +472,6 @@ related:
         width: 884
         height: 543
         isCached: true
-  - title: "Digitate Provides AIOps Platform for Microsoft Azure"
-    excerpt: "ignio AIOps for Azure is an AI-driven software that consolidates and builds the context of an Azure subscription, starting from all its resources and their historical capacity and performance metrices, and leverages AI to mine intelligence and insights ..."
-    publishedDateTime: 2021-04-12T13:37:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Digitate-Provides-AIOps-Platform-for-Microsoft-Azure-146244.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 69
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google vets health record tool for patients; Microsoft bets on healthcare AI"
     excerpt: "Google is recruiting Android users to see how they prefer to interact with their own health data, and Microsoft is working to develop software that transcribes patient-doctor conversations directly into EHR."
     publishedDateTime: 2021-04-12T23:38:00Z
@@ -609,66 +485,6 @@ related:
       - url: "https://www.mcknights.com/wp-content/uploads/sites/5/2020/01/page12_Technology_T_0220.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Microsoft in talks to buy AI speech recognition provider Nuance Communications"
-    excerpt: "Microsoft is in advanced talks to buy AI speech recognition company Nuance Communications, according to Bloomberg sources. The deal being mooted places a value on Nuance of approx $56 a share, giving Nuance a value of about $16 billion. Nuance provides ..."
-    publishedDateTime: 2021-04-12T13:38:00Z
-    webUrl: "https://www.inavateonthenet.net/news/article/microsoft-in-talks-to-buy-ai-speech-recognition-provider-nuance-communications"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 67
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1618234626/widgetdocs/BAIVECTOR_Shutterstock_fukhvy_wc3dr2.jpg"
-        width: 750
-        height: 402
-        isCached: true
-  - title: "Microsoft to buy Nuance in a $19.7B deal to expand healthcare AI, cloud capabilities"
-    excerpt: "Nuance, based in Burlington, Mass., is considered a pioneer in speech recognition and artificial intelligence technology used in healthcare. The company's technology is used by more than 55% of physicians and 75% of radiologists in the U.S., and used in ..."
-    publishedDateTime: 2021-04-12T14:16:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/microsoft-to-buy-nuance-for-nearly-20b-to-expand-healthcare-ai-cloud-capabilities"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 64
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1618238863/452292684-5a3b047ae73a1.jpg/452292684-5a3b047ae73a1.jpg?aH.519AnpRSf0BhCSyFD1DPvjxYYII3f"
-        width: 5237
-        height: 3054
-        isCached: true
-  - title: "Alert: Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
-    excerpt: "NEW YORK (AP) — Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion."
-    publishedDateTime: 2021-04-12T13:15:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/Alert-Microsoft-on-growth-push-to-buy-speech-16094028.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/business/amp/Alert-Microsoft-on-growth-push-to-buy-speech-16094028.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/business/amp/Alert-Microsoft-on-growth-push-to-buy-speech-16094028.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 63
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Microsoft Will Pay $19.7 Billion for Speech-Recognition Company Nuance"
-    excerpt: "Microsoft said it clinched a deal to buy Nuance Communications, a pioneering voice-recognition tech company, in an all-cash transaction valued at $19.7 billion, inclusive of Nuance’s net debt."
-    publishedDateTime: 2021-04-12T13:08:00Z
-    webUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/#!"
-    ampWebUrl: "https://variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/microsoft-acquires-nuance-1234949310/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 61
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/04/Microsoft-Acquires-Nuance.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
     excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
@@ -685,34 +501,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202104/mico-647x363.jpeg?YVzozUuFPEpeAd8bDYmitKdUtfKbRKPd"
         width: 647
         height: 363
-        isCached: true
-  - title: "Microsoft buys artificial intelligence firm Nuance for USD19.7 billion"
-    excerpt: "(Alliance News) - Microsoft Corp will acquire artificial intelligence and cloud computing company Nuance for USD19.7 billion, the company announced on Monday. Nuance's technology is used extensively in medical records, and the transaction will bolster ..."
-    publishedDateTime: 2021-04-12T13:11:00Z
-    webUrl: "https://www.lse.co.uk/news/microsoft-buys-artificial-intelligence-firm-nuance-for-usd197-billion-bbkukw1hezjlfkj.html"
-    type: article
-    provider:
-      name: London South East
-      domain: lse.co.uk
-    quality: 56
-    images:
-      - url: "https://static.lse.co.uk/images/articles/cover-images/petro-matad-confirm-mongolian-block-xx-exploitation-licence-is-likely-to-be-awarded-in-q2.PNG"
-        width: 932
-        height: 455
-        isCached: true
-  - title: "Microsoft signs $16 bn deal to buy Nuance in healthcare push"
-    excerpt: "Microsoft announced that it has agreed to buy artificial intelligence and speech ... as it builds out its cloud strategy for healthcare. Nuance’s products include the Dragon Ambient eXperience ..."
-    publishedDateTime: 2021-04-12T14:12:00Z
-    webUrl: "https://infotechlead.com/software/microsoft-signs-16-bn-deal-to-buy-nuance-in-healthcare-push-66141"
-    type: article
-    provider:
-      name: infotechlead.com
-      domain: infotechlead.com
-    quality: 56
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2014/04/Microsoft-CEO-Satya-Nadella.jpg"
-        width: 601
-        height: 400
         isCached: true
   - title: "Microsoft Bolsters Healthcare Offerings With Nuance"
     excerpt: "We are maintaining our fair value estimate after Microsoft announced the acquisition of Nuance Communications, a leader in conversational artificial intelligence."
@@ -836,34 +624,6 @@ related:
       - url: "https://ktvz.b-cdn.net/2021/04/hypatia-h_90f7b186909ecd1e52d9a2cf97383dec-h_fc30d33f8b8371f77efbccd46a87eb32_preview.jpg"
         width: 500
         height: 375
-        isCached: true
-  - title: "Microsoft pays premium price – $16B – for speech recognition firm Nuance"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. Here are the details."
-    publishedDateTime: 2021-04-12T13:26:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/12/microsoft-pays-premium-price-16b-for-speech-recognition-firm-nuance/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/01/microsoft-DMID1-5hnri32zk-960x720.jpg"
-        width: 960
-        height: 720
-        isCached: true
-  - title: "Microsoft Buys Nuance In $19.7B Voice Recognition, AI Blockbuster"
-    excerpt: "Microsoft is buying Nuance to boost for $19 billion to boost voice recognition, AI, cloud services and double its healthcare market."
-    publishedDateTime: 2021-04-12T14:54:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-buys-nuance-in-19-7b-voice-recognition-ai-blockbuster"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0266-119c091bad7c-5296a6b2b194-1000/merger-400.jpg"
-        width: 399
-        height: 399
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
     excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."

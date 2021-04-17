@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-10-artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Size to Reach USD 2,127.9 Million by 2027 | Reports And Data",
+      "excerpt": "Artificial intelligence has known to have enormous applications in ... studies ensuring relevant and fact-based research across a multiple industries including Healthcare, Technology, Chemicals, Power and Energy. We consistently update our research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-to-reach-usd-21279-million-by-2027-reports-and-data-2021-04-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
       "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
       "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
@@ -1180,58 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-appharvest-buys-ag-robotics-firm-root-ai.md",
-      "title": "AppHarvest buys ag-robotics firm, Root AI",
-      "excerpt": "Root AI is a Boston-based robotics startup, with a mission fairly in line with that of its future parent company. We’ve covered the startup a handful of times, including last August, when it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
-      "originalUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/unnamed-1.jpeg?w=1024",
-          "width": 1024,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/08/appharvest-buys-ag-robotics-firm-root-ai/amp/",
-      "publishedDateTime": "2021-04-08T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

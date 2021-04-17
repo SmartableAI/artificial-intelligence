@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2271468/geospatial-analytics-artificial-int
 ampWebUrl: "https://www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271468/geospatial-analytics-artificial-intelligence-market"
 type: article
-quality: 47
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/4/U416264889_g.jpg"

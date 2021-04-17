@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind.md",
+      "title": "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind",
+      "excerpt": "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "originalUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-322928/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "publishedDateTime": "2021-04-09T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
       "title": "In an AI world we need to teach students how to work with robot writers",
       "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
@@ -240,8 +292,8 @@
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
       "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1362,58 +1414,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-power-grab-warehouse-robots-take-materials-handling-to-next-level.md",
-      "title": "Power Grab: Warehouse Robots Take Materials Handling To Next Level",
-      "excerpt": "No longer content to just release hard-to-believe videos of humanoid robots doing back-flips, Boston Dynamics this week unveiled something logistically incredible: a box-moving machine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/?sh=741426b96d40",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064e99ffb14fb0430d02af7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D376%26cropY2%3D2644",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richblake1/2021/04/01/power-grab-warehouse-robots-take-materials-handling-to-next-level/amp/",
-      "publishedDateTime": "2021-04-01T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

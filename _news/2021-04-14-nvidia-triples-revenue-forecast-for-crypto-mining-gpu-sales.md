@@ -134,22 +134,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "‘AI needs 5G’: NVIDIA launches converged, AI-on-5G solution"
-    excerpt: "This is a 5G-connected data center on a card’ NVIDIA’s GPU Technology Conference kicks off today, and the company’s headlining announcements include the launch of its Arial A100 AI-on-5G products. According to Ronnie Vasishta,"
-    publishedDateTime: 2021-04-12T14:55:00Z
-    webUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution"
-    ampWebUrl: "https://www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210412/wireless/ai-needs-5g-nvidia-launches-converged-ai-on-5g-solution/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2019/05/119131792_m.jpg"
-        width: 2048
-        height: 2048
-        isCached: true
   - title: "NVIDIA announces Grace: next-gen ARM-based CPU for giant-scale AI, HPC"
     excerpt: "Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance AI."
     publishedDateTime: 2021-04-12T20:33:00Z

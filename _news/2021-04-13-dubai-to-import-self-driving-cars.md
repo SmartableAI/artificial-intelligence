@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving taxis & ride-hail service will be functional in Dubai by the year 2023"
-    excerpt: "His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai, witnessed the signing of an agreement between Dubai’s RTA (Roads & Transport Authority) and Cruise,"
-    publishedDateTime: 2021-04-12T14:54:00Z
-    webUrl: "https://www.taxi-point.co.uk/post/self-driving-taxis-ride-hail-service-will-be-functional-in-dubai-by-the-year-2023"
-    type: article
-    provider:
-      name: TaxiPoint
-      domain: taxi-point.co.uk
-    quality: 33
-    images:
-      - url: "https://static.wixstatic.com/media/4d3b88_fc96bbc1e3914b9d8137c966f093537c~mv2.jpeg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpeg"
-        width: 1000
-        height: 704
-        isCached: true
 
 secured: "v5C4CeF3O3SgYbcQRpHrToA1rX4DzjFuLnOAy7DCZXG73nqDstObmCGRfKiFuYdT9neNfrxxDquV9mrrylvZjH4OdckQ0I94tyo2fnALzODfwGabYC/DXsdKdkFU4JliDmSA7LtE5kXgcf2QDZqeVszph5EPaLkORVv/97V2n/QsrqWPBPB+OOa5cSjMyqLsTzhTBOvVgmtRXn3FQTqcE8r5vRv5xO+FXTfw1wYOiXY8ZTbIriS8UW7C5c+2ahg5yoF1rpaguhTRyaG4QSxpqwmQNPRrrzyXgctnMlhoah6n2w/W2Mqcvsy7x4BzSGvqvBB5RTr1QSxCkivSiRU9waL5dTeLzK0eS/3//A2P3m6MyB+pt7225wQaaonX5PJOVnUB01zl/djGiLl9Mpk0cqImpchkzMGZIXVA7vFbvYelUILs6TviDyblchprcT3fIYkYZjqVIF18ySGXKJugtCoa47LhqZMCmw0OQfkyFX5Cvk64QSauGjpohIWphG5QcPfKMeyStpvZJkT0gSG/IA==;jn4F6BAshLBZf9UtgGhwfQ=="
 ---

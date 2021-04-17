@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
+      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
+      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-amazon-has-become-a-prime-revolving-door-destination-in-washington.md",
       "title": "Amazon Has Become a Prime Revolving-Door Destination in Washington",
       "excerpt": "Everything about Amazon is big. It’s the second-biggest retailer in the world. Its founder, Jeff Bezos, possesses the biggest fortune in the world. And the company has developed a big revolving door in Washington through which government officials and employees whisk and land in well-paying jobs at Amazon,",
@@ -1111,58 +1154,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
-      "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
-      "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "originalUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/603d1b6f47fbc10094d95023/lede/1614617981504-jetblue.jpeg?crop=1xw:0.8257xh;0xw,0xh",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "publishedDateTime": "2021-03-01T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

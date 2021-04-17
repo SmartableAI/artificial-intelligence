@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Jumps into Data Center CPUs, Also Launches DPUs and DGX Superpod for HPC and AI"
-    excerpt: "Base Command is designed to coordinate AI training and operations on DGX SuperPOD infrastructures ... Subscriptions for DGX Station A100 start at a list price of $9,000 per month."
-    publishedDateTime: 2021-04-12T17:14:00Z
-    webUrl: "https://insidehpc.com/2021/04/nvidia-jumps-into-data-center-cpus-also-launches-dpus-and-dgx-superpod-for-hpc-and-ai/"
+  - title: "Grace CPU Links with GPUs for Faster AI Processing"
+    excerpt: "Memory tends to be a bottleneck with a conventional CPU/GPU mix (left), but Grace incorporates high-speed NVLinks compatible with NVIDIA GPUs.\" data-embed-src=\"https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Fig_2 ..."
+    publishedDateTime: 2021-04-14T18:51:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21161267/electronic-design-grace-cpu-links-with-gpus-for-faster-ai-processing"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 31
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/GTC_Grace_Promo.6077370f139ae.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Mmsa46/24VT20XKJw9QCxMP4Cg1hgaFscPJHMLZzJbER9MxczmQjbQSmjfSXadtyz4JgdPyd++6UEWgwnnAg3Xx7gplHXHX1aX/1z+9q6mqBSyohM2wSnNSA0HqGgHej8+Sh0naDVQXQQVq5Z4zAHAaUlE/uQYWAZs585N+sqdGy9aX2+vzpBrEJTfoaZMfkCM4KxoGVL5W9fqaSLyYdiFYSEh86aRe6pv/9U6Tpk6/NTSQ1IuzfVLBN7OHlUKZc8Qsh2d6zQ85yl/3utpdotdmwaBqeNlnoVcEpq2krRZWW34OcBc6xoj5Uf91Z0bpBsbOptZK9ofPMWwzJYm2AWiTumcynmXKRjzB13Klb/5Cu4aRiNt5eMd5W6ssrO1avEVw9dJgxZk9zC8tUXtwDc5FBNVvLfcfnkrRtQnSMNttZC4N9Mpd2AdS+mDxxk39cfs/Irwttb5J/wzxcPow4SmvXsa2IChhbe/OoFmKVakhcXMViAIHeVNgZw+737SbrDaRKB3ZIKV2mJerdIXR11Q==;0B00AHL+bQ1vSNvvO7Hwmw=="

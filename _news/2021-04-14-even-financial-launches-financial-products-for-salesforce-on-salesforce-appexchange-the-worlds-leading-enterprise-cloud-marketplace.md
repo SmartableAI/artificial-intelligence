@@ -3,8 +3,8 @@ category: news
 title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
 excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."
 publishedDateTime: 2021-04-14T14:01:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud/article_7d158a9e-e4d8-570e-81e8-ed4c36385a6c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud/article_7d158a9e-e4d8-570e-81e8-ed4c36385a6c.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud/article_7d158a9e-e4d8-570e-81e8-ed4c36385a6c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud/article_7d158a9e-e4d8-570e-81e8-ed4c36385a6c.html"
 type: article
 quality: 0
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 274
         isCached: true
 
-secured: "7GawyZxd/HaiGdwMzkxD7KQVyDD7vdPdZTtJolrJwgkgyAnXFN3qkzR8F+7sD5teY3pCFcMIt6ATaP5A2ItffzLiLgcSopaTK0P3SQa/wRBswT85FQbknXIlJ0o2I97ok2DfIK9huLl5K+k0/X+g0CjH2WwC7B3WQgEQHWk2SsjapV+hPzsPnYqEUn8sI8B2HMID0lAwxlofQG5NITR5tLkRkrmBskCIclMxcVaDaOgSkGPzIN/j4heOfF+wKdaWB9/ecOBAqWrJl3K7Do4e95ka2vazYwKc14lCGQB3giYRapYFVa33SBnEzcpJtSNx+cWDoymChR4aGH64iHvx9HI4abeCVzaI2O9KiYOmYxI=;krroHEfNmc6lHyxllrO71w=="
+secured: "7y3hgNu7wSAE3CTkBoSc1uFOY7WL/rIhRh601fdbK93P08Rxm4tKmc+Fga/i1Gwho49g+Erh0cTmYwcUE7UzZFh1qT4/zn/edeRLl0+Q5CF6hs/iIpsu6e3MgQQofw9V+ho3zUjdt5GJuplG1dyhanpcqaIE+M+POO1rEk9iJGGoDHp2f4Iflp8U/Q4qQr4bMVjR280QxyhDEmJJHNiARnCs7f57fEPdemWnBR7rFOzbXDfHE+kL7HjeiGTVCRl4lFpgcakt4Ns+YW3fcNoKW50TX1BHpl52pW2ZF6cAR42xjn6jeBOsoxFhHmeno0wAVx00q0y0BC8DP/mmWGOvblOotYHTqrStBloISmUiUFc=;af8qD7k+Bh4wtMNnjw/WSw=="
 ---
 

@@ -25,37 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Could Help Wipe Out Colon Cancer"
-    excerpt: "To “teach” the AI to distinguish potentially dangerous growths, the images were labeled by gastroenterologists as either normal or unhealthy tissue. Then the AI was tested on progressively harder-to-recognize polyps, starting with colonoscopies that ..."
-    publishedDateTime: 2021-04-12T13:27:00Z
-    webUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/"
-    ampWebUrl: "https://www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-help-wipe-out-colon-cancer/amp"
+  - title: "Facebook claims AI can predict drug combinations to treat complex diseases"
+    excerpt: "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/"
+    ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://media.wired.com/photos/6036c4fa5176c254b6bc21fa/master/pass/business_colonscopy_595720076.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Five ways artificial intelligence can help space exploration"
-    excerpt: "From designing missions to clearing Earth's orbit of junk, here are a few ways artificial intelligence can help us venture further in space. Do you remember Tars and Case, the assistant robots from the film \"Interstellar?"
-    publishedDateTime: 2021-04-16T10:59:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-for-space-exploration"
-    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-for-space-exploration"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-for-space-exploration"
+  - title: "POLITICO AI: Decoded: The EU’s AI rules — Finland talks to machines — Facebook’s fairness project"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-14T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
     type: article
     provider:
-      name: Space.com
-      domain: space.com
-    quality: 59
+      name: POLITICO
+      domain: politico.eu
+    quality: 48
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ts5989TpfZsackr5UkteY8-480-80.jpg"
-        width: 480
-        height: 480
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facebook leaning into medical research in its quest to advance AI"
+    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
+    publishedDateTime: 2021-04-16T17:27:00Z
+    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
+    excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
+    publishedDateTime: 2021-04-15T18:33:00Z
+    webUrl: "https://www.biometricupdate.com/202104/facebook-wants-to-build-trust-in-ai-with-its-casual-conversations-dataset"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
+    excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/04/16/facebook-debuts-ai-tool-predict-effective-disease-fighting-drug-cocktails/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/pills-4099841_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "LIMew8AK6W2/iK2k7k4p5oqcLkToFCoGk/1nRGZ3vPr9TmjsY+7sk09caoBZTnkgpPFL2vAvLFzvnJxkXyVJp8PzN6C/cDQRAQ1AAlipQqP4HxeKbLL3kPKe8fz3kU6NgKppdoOApudDWRTrW4DIpAA8VnYZOSPmrVMFercGlMmfC0JxzNX1lBrByR+vDILViagP1bxUcXY3P1SsICZh0KhE0XTd6x8gZv/YIZUwZnrTrWeWj3L2xH4wukUaWwgJG+F1hFfPu5x8kr8Zj/vjeyOlVl5nzVBXDIgAOgDJGQEST4Ej8lQprs5MwUr4dHNJuG/MAoYWC5akxM1QMxjSf1YAlFf2hmOWQwEAnhKBfdde9aiWTdorVgU42HoH1/+c0rqMpOGImPag0O+2m5wuV7lUgUdokM7n85haIeeiGVpxF1X786dr8H3VuZAdNIoxU/64LJodE9JXilLPww1DQwpNUic/iq/eALlMBMI7cUVylGvR+vbEY9tjEy6ifllYSKgULqWWHSY0ETR9Z4HkJA==;wYvh+3TaNX0iDjgQOuq8Pw=="

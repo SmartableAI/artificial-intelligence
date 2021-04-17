@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/ai-computer-vision-analytic
 webUrl: "https://www.biometricupdate.com/202104/ai-computer-vision-analytics-deployed-to-russian-port-israeli-smart-city-initiative"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://cdn.openpr.com/U/4/U416264889_g.jpg"
         width: 400

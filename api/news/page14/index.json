@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-06-chinese-robotics-firm-shares-terrifying-video-of-its-four-legged-robots-moving-in-unison.md",
+      "title": "Chinese robotics firm shares 'terrifying' video of its four-legged robots moving in unison",
+      "excerpt": "A user shared a clip from Chinese-based Unitree robotics firm that shows a squadron of four-legged machines moving in unison. The AI-powered, canine-like robot, named, Aliengo, is designed with depth perception, high explosive sport performance and an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/04/06/00/41377842-0-image-a-35_1617665700920.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9438493/amp/Chinese-robotics-firm-shares-terrifying-video-four-legged-robots-moving-unison.html",
+      "publishedDateTime": "2021-04-05T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
       "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
       "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
@@ -1159,59 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028.md",
-      "title": "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028",
-      "excerpt": "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

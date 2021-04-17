@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
+      "title": "The Future of Lab Robotics",
+      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "publishedDateTime": "2021-03-31T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-octomize-your-ml-code.md",
       "title": "‘Octomize’ Your ML Code",
       "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
@@ -1124,58 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-chinese-government-run-facial-recognition-system-hacked-by-tax-fraudsters-report.md",
-      "title": "Chinese government-run facial recognition system hacked by tax fraudsters: report",
-      "excerpt": "Concerns mount for data privacy in China, as a group duped a government-run facial recognition system to issue fake tax invoices valued at US$76.2 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/30/2a7c0ac1-68a8-4dd9-98e1-1a4f79a2a3a5_e59cdf4c.jpg?itok=avqNscSA&v=1617100153",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax",
-      "publishedDateTime": "2021-03-31T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

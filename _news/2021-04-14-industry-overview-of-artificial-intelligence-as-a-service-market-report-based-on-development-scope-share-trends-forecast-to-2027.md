@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Will Increase Demand, Statistics, Growth Rate In Forecast By 2027"
-    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 and register a significantly high CAGR, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-04-12T14:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-will-increase-demand-statistics-growth-rate-in-forecast-by-2027-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Asia-Pacific Machine Learning Market Strategy, Applications Analysis and Growth Forecast to 2021 -2023"
     excerpt: "The value of the machine learning market in Asia-Pacific is expected to reach USD 10.00 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 51.3% during 2018-2023 .Machine learning the ability of computers to learn through experiences to improve their performance."
     publishedDateTime: 2021-04-15T10:27:00Z
