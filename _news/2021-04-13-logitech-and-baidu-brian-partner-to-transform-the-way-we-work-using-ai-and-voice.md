@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Logitech and Baidu Brian Partner to Transform the Way We Work Using AI and Voice"
-excerpt: "Logitech (SIX: LOGN) (NASDAQ: LOGI) announced a long-term partnership with Baidu Brain, beginning with the launch of its intuitive new Logitech Voice M380 Wireless Mouse with Speech Input* in China. Designed especially for people who create large amounts of content,"
-publishedDateTime: 2021-04-13T06:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-greater-china-204025c332874d10b52466ccebcbdd78"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-greater-china-204025c332874d10b52466ccebcbdd78"
+excerpt: "“We saw an opportunity to leverage the power of Baidu AI to bring fast ... and enable smooth communication for people with language barriers.” Compatible with both Windows and Mac computers ..."
+publishedDateTime: 2021-04-13T06:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brian-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice"
+webUrl: "https://www.businesswire.com/news/home/20210412006053/en/Logitech-and-Baidu-Brian-Partner-to-Transform-the-Way-We-Work-Using-AI-and-Voice"
 type: article
-quality: 32
-heat: 32
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Logitech and Baidu Brain Partner to Transform the Way We Work Using AI and Voice"
@@ -34,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 14
 
-secured: "P6vIy6rasD1dPPEQvvFYwfTJ/uGrzj3g35SYp8JfJnSzYF77FUL/zVFk92z6VBymR3X4TrQYHyOxFuObRS3pbcvwPOnNb7CAoogzgCX5JPpCwmGtSmkDX1GS0YvRrAsLGk+UCZI1bdleO8a/u5BJH0fLySXfGN8/qe2JLNRKDEyQzfDvdiSvYbR+2is10Rjs9OMvX8JJeZG6SNO2VJpSAmY3nPURQOsZeAKH2AZ0v5gyM0j31NGeZYymSr4PMuTYEWRq7QHcRaYo0ZaVDbJ+v6qIMdcbLH4XwCeDIA8NMvsaDD4BnDdNAETWHA2wIXiFpEhyB5ExPidJSWw6P8ZabeTO9rhLaIGDs9XS72qpdIQ=;hQoWIQ+IBXQyUrtKxH18lg=="
+secured: "z5AgFtj7lTLQVs+yd/N9dcFTkc2Pg2dXmyjKIc6OF5Ysy8SSWxHgaHJXTSfW0J849V7oip35LeRR1I3wnFTGh3aEvK4rJZB2TNTLH31909WcB7fCw1n5d9QzzBjr1S2515mE2SAYlyAK2YyFoYc0f1C1fxATqLlQFSfpOHkKxWktfmf/09WkAa4t0WLd+YmEencQ0NuV7PUWTJS7HxvaDDU1YOdIoBmOTPKRlae8QYqP0D+uerExYMKQ0Xy09LBUXB6+twUFLXUZxmYPnxmfTRep6wpuWEiRgArgDqcr93s5nl5DteyQYLtokh5h8p93NPlKl12DqinPM3vfhFi4PuzABy0A7TSQtvUxD23oZhI=;vLBczMIslzoHSC3Ox1hbyw=="
 ---
 

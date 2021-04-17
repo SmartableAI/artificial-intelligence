@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/security-executives/article/2121
 webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Security
@@ -40,6 +40,15 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Produce and the advancement of AI in the Roaring 20s"
+    excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
+    publishedDateTime: 2021-04-15T16:27:00Z
+    webUrl: "https://www.thepacker.com/news/industry/produce-and-advancement-ai-roaring-20s"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 17
 
 secured: "Ivh++uOlnCUvIKtS3zjoO3HVJ3UywHMLQYBRd6iVO3xrJem7vx4hNHJM6+8qfH8nUaITSl3L0TdrxdrGPm1ZjjKowBZnsI+6mNjJ7/kuaF1FslyCLIEbZ1/j1JwvZStYI/ArwieJSkWPIOi+OE1hAKatoMeMbBpBTsDYg0bbv/Qt5SdxhsLdmThvbMKJXen9qTL63S/RtgvhMbeCG/v+zMaulkKoF1XPmn60Nrv/AUm6mp6avllWx9f0++w6U3AArsYKwcJFMJjn45OuvBeSzzCeXF4HoLTsavuxnjsfh2rzd4Pt966+LNegxrg6YnIdP0eDzOFohiL18emfP7iqbgEifRI5SdeT7e57TGdrA1o=;5wNQwYHklNXYbIFPewmbJA=="
 ---

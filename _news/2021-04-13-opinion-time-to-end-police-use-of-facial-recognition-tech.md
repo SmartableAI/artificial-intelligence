@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
-    excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."
-    publishedDateTime: 2021-04-12T15:51:00Z
-    webUrl: "https://www.zdnet.com/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/billions-of-smartphone-owners-will-soon-be-authorising-payments-using-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2017/08/22/82e3afc0-54a8-4948-8a37-e1dc3bfac28d/nfcpayment.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "The future of artificial intelligence requires the guidance of sociology"
     excerpt: "In the race to out-compete other companies– artificial intelligence (AI) design is lacking a deep understanding of what data about humans mean and its relation to equity. Two Drexel University ..."
     publishedDateTime: 2021-04-14T13:30:00Z

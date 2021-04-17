@@ -57,17 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Marble Financial closes acquisition of leading Canadian fintech company, Inverite Verification"
-    excerpt: "Marble told investors that Inverite’s data aggregator combined with Marble’s personal finance platform MyMarble will create a faster,"
-    publishedDateTime: 2021-04-12T15:35:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/946328/marble-financial-closes-acquisition-of-leading-canadian-fintech-company-inverite-verification-946328.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/946328"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/946328"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 12
 
 secured: "W2BMTE8R7pss6ceeoRnnxgxCMkzZi2mYTZ/yU4s+idBFs4usFoUwxaoV2vhGx1nFzu++LD1oYno3m0j9QWyawP4N5vHVAItrEXTIU7EmrV2YrNef+pnYKQB1mXfdabdae2jA1DVa+VXkJ7CvB7oD3ths2Q7rQhr0ge+ITQY90J7LFOxYRxErltX4Tklv1/TQfmBdX3EWwjl1Gygf5VBxiOE1Gk/YqN33TWVj40l/SXlKhwjIeL3+wEzk2HHlcYNyx5m/fr4QHMxdZZ52BzEDhqdK6Ieh1f9DESOxb14uIbMxodyBcxz1RHXWdGWsb/Od2Xmib0Hh+enoJ/MzSjSTPPAmFH4Xi4tF+L4prPa621FdCWShalxuSU0AR8PNw8HMkisKEsB1ca2xE+Xn41onESAapUsjvjTC/mCuxtow4esCNDzAduQc7cQ72hWZvQ8enDMaI2x8+6NKMmX8oHOUeiKpWunswSe0OxLDquwxqE5lNgdIPwcUBg5JgNWVCozmnS+Ttz/Ijntc50SKP3xNPQ==;xsnegUrdt9NeGHvHYzGJ5w=="
 ---

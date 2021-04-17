@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-compan
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
 type: article
 quality: 59
-heat: 109
+heat: 110
 published: true
 
 provider:

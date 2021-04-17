@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Produce and the advancement of AI in the Roaring 20s"
+    excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
+    publishedDateTime: 2021-04-15T16:27:00Z
+    webUrl: "https://www.thepacker.com/news/industry/produce-and-advancement-ai-roaring-20s"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 17
 
 secured: "FJFqO914g0jb4eVx9KSPEPWUc+iDdfLNZqWJhpKwKuGh9ZQWKGmshanRPlvSb4MpN0rCIUHCLEcK51SUmhOFwYETJcnbZQvPb4UrdfJSrMTtX5BhZVIbpWyeYVIbIV92FILI3StCA4uz9eIGN1dRoX+a2K8W4frkEnXRBe9x6DP0DFgNG3H2hXD/fq6UJUf2TlrbRRLS+qKlSO8Swd6e6REVoRSU8kshUMcNMEYKqhj1VXufGT1/5u8qmL2Sj6Nwv8l21drk+09kkPtr/ERr5e1hOAUdI1gHYLZe3/S53dM6ywM2J8ui6fpkI13per+rkXaKigoEcKu43iWUd6l5UbIrk2YB8wJ8PF9pnoMNzRQ=;XrKoLA81MDcQDFKYNlvZSQ=="
 ---

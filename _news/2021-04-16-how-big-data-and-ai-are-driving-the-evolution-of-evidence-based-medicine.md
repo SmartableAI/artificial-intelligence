@@ -34,7 +34,7 @@ related:
     provider:
       name: Analytics Insight
       domain: analyticsinsight.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg"
         width: 1600

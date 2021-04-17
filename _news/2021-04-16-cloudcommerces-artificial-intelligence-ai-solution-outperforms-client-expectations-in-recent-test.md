@@ -2,26 +2,22 @@
 category: news
 title: "CloudCommerce’s Artificial Intelligence (AI) Solution Outperforms Client Expectations in Recent Test"
 excerpt: "A 143% increase in conversions means that the client is now in the very enviable position of dramatically increasing its top line revenue.” Also, SWARM helps solve the user data “cookie” crisis. SWARM uses AI to manage “personas” which will now become more important than ever for targeting purposes."
-publishedDateTime: 2021-04-16T09:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-s-artificial-intelligence-ai-solution-outperforms-client-expectations-in-recent-test-1030311407"
-webUrl: "https://markets.businessinsider.com/news/stocks/cloudcommerce-s-artificial-intelligence-ai-solution-outperforms-client-expectations-in-recent-test-1030311407"
+publishedDateTime: 2021-04-16T02:01:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8218175/cloudcommerces-artificial-intelligence-ai-solution-outperforms-client-expectations-in-recent-test"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8218175/cloudcommerces-artificial-intelligence-ai-solution-outperforms-client-expectations-in-recent-test"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "4raf/h8FfBwOZKGzJLqGS70ULnhZdrx22oG3LkNv5Tn60dlmhpkIgdmyc2Qiydw3rZ/4iAOeXdZASGCpSZP0NFQVk3KBMjvCTj+ffeSwP/D+b56f2fuifPO0GH+fFKOdMs1/Z+DvUZpIgiPKX+ADah1noNn8pBUOAvFBQkOl7kLT5ErRvc26YbJJ7X9cpjGB2yvsC13QFV2hWhUTl6faISdOlVFfVxNgWqPywiyPy11lpu5NM2r0oEJZE0+68fnkEUcHVuljkImHfHFq/uiNON02MV4tntURx83EwiSmHJyPuLOYq9+yf4VfNh3J0gO6Zn7UFUunLiEM9YoUnbhP5/6h4Hzta/jAcF5u/OvGsF0=;IllEHG/KHivi2AGARVbpOw=="
+secured: "8U6pyXdOiM777OrIJ9MpEEY7MCJW6HIkrgAfgKVDDzLDb899GNsE0zf02cAQfNnuCOV1DLd2q1JR7VTwsvXmIqVQgk2ZTTtcuw5CcemwdIfGxwCkGbLIU9nEUYYiSD5LUBwtkM1bT48V1iYamocvJJLhGvOz0UmFU1+Jh9MPW85Uf7/YxK6qvYI8xHyJ4AfbSq7k4zxdhQeq3zg9Cth+6XsGUdMQZ79GJXqjX+7j1Q1xuxJFsHapOifxL5hE+0d+HFJR7zMmev15VqnXx3qqun4j10g3LCe92rkBb2BSk5T073G4uL8koZT+mvPauz2Ebk4q5EPmbdL0LCkniBj/WbHTiN9souPWb8ESLnC3bT8=;qAyPGQDKg/L51X88vXp8tw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

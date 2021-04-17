@@ -45,20 +45,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla"
-    excerpt: "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... Search giant Baidu Inc. and Geely Automobile Holdings Ltd. also are said to be teaming ..."
-    publishedDateTime: 2021-04-12T15:33:00Z
-    webUrl: "https://www.ttnews.com/articles/huawei-invest-1-billion-car-tech-it-says-surpasses-tesla"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/huawei-bb-1200.jpg?itok=QH1BTt8E"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Huawei to invest $1 billion on car tech it says surpasses Tesla"
     excerpt: "Huawei Technologies will invest $1 billion on researching self-driving and electric-car technologies ... over the next decade on manufacturing electric cars. Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming up to ..."
     publishedDateTime: 2021-04-12T22:51:00Z
@@ -83,6 +69,20 @@ related:
       - url: "https://www.digitimes.com/newsshow/20210413PD216_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Ford And Tesla’s EV Rivalry Heats Up"
+    excerpt: "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech."
+    publishedDateTime: 2021-04-16T12:10:00Z
+    webUrl: "https://www.cmcmarkets.com/en/opto/ford-and-teslas-ev-rivalry-heats-up"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png"
+        width: 479
+        height: 271
         isCached: true
   - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
     excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."

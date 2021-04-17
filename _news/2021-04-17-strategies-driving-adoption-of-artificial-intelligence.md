@@ -8,8 +8,8 @@ webUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artific
 ampWebUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg"
@@ -41,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JTgQw091E7ylxPot07ZTohuAJYs+b9WxjVddrmmmDTRhK0Y6emTggNxcjDmQRODIbYFIDtNpfCLDHCQ/Wzv89N+Pain8EQ2bauXlBI7VlksMVECznjxSJa3EeZdBCQxvyPIQJk+MjzGdnLoTQaC6S5qfDFVJSFpeevvrmSZIvV+dIGxRZC0TG+aqECKT907005JWg4gjZs1+M6EMXpBft9Y7N4g5OGCYaNYpwx5Hqm7hFgY6xKrczN7KNwgX3qS555xxBVp5jvhy7ppq209Rjwx4HfHEWbOYuTbcrwIoQa3rtZeITWUHCH2OzYDzYFjvKr7HwcACNHPxHpC9FCl24Lw7luZ1XZvCkAJv00t8zbI=;vywnX5orDEKTCg6L6nNyNQ=="
+secured: "T/emLTvjtZcNpkPN/YLjJC39eXxK8Ofbj0XO/9+TZ3YEOZKAxm2buH4/c6b/XA/iumHxXrqnCeBtypyN0ryK5fQ/tMJzml9gB5x+dsMaKl03V8srd4TJl0fr996nYHXnX1IKQK1nuZcRt0xFV8O9FcYiA0BZ/XpIDPmCddAhYu3+YSR9pIQTkRigd8rCgkL/IgZZeXDCu7mweP9aK6xj6ISgBf3YAIwV4SXpMBRQmnCVU4CXFzVfO4VrP4FZ5r/ehAs2LaVBCbKmhubu+InXIAlhi1ye0nN/Q3bT/XuVDnkxhd94fs54kY3IW8EyrJRuB4Oz6YOFhV1c9lJ2M1n+7tbCAh+BXLci1C7Pj4cSitBGyYwUEE7pOYxi4h4T7taCspMUp2mJkKouJgLl7WPbLMNvf03mDa0Yn8GYWFkCrWL5D1cYg8cgx3P6vxSMx3Ym/40J8PhWEsQKcKFiFZSvdogCQtDZconjaLl6RaAmB7rl7IJlvCUFjzPL4jQZwvC8gcHyjL4Bvc9FqRGdfA0vgg==;/lAS0n08jkGsMbkh7aR05Q=="
 ---
 

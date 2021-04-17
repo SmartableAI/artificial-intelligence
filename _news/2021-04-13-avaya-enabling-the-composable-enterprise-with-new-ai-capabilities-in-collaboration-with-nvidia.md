@@ -36,6 +36,15 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 27
+  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
+    excerpt: "Domino Data Lab, provider of a leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced a series of new integrated solutions and product enhancements with NVIDIA, some of which are available now and others will be made available in the coming months."
+    publishedDateTime: 2021-04-14T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/14/domino-data-lab-debuts-new-solutions-with-nvidia-to-enhance-the-productivity-of-data-scientists/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "L1SQytdZgYhgDoXJ+l3dFb4YhaUBwu9FvfryzieT8x6FtqW0RIAErMi/NL2bOIBC8G7QUGaGvOVQK1jJErMUAvgxS5hryYFwSsWYDK8a4R1ZBbYE/VW8vneMbd6lk8nnXnxN3AGXmbf14ckzkL3810vCzfwuk27VS/SPhEEsOoxf//DllaZzYpAQgZyVY4EB9CTK7Dj+59BSK90NUIG62Te3YNigPJXbqRmWloLWVayRUfikh6bMIPWX8DYJi/RTNRHI+/adGEtq80GP+L9dNH3o1rh3p6S39W7O2HaLyj7SSlR5bpetr1L7tGUNRir4uuQYvcDmScVaCOpZQyaDNnhmHrww7GwkGWOm/aSm6EY=;D+xC1LxxkdIj3vksM9xaPw=="
 ---

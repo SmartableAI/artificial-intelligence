@@ -75,15 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
-    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous"
-    publishedDateTime: 2021-04-12T16:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-10007367"
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "BHrgZdf0sVmMvFxS7IlgT7M9S+C/164TRBDRzwjzpNwC6i2ODUVq+J2KNdkVhVcs4VfYp58bfhFMMEFbBUuFiq49xrnAaBc3/m/0QZ5HmlEyqLh9z3kL4eU9kTyroAtq0VZU8K0wGcAe+/+r7vZVFHqzYXkNNUpjI592FNyjM0ghWfIe2WV/sPoHk6cqiqjo9FvPV+LOl8ssaQs/AZUG2lqMTlcvpzasxdNaDGrr5IIlPvdyRA5NBhl8CMwQypP32FO9vNbpLPJn1BsZEHm7QPjSrK89sWiVqnOsHirkucGNP534hJzpBP1XtEKw4wvMr9f7zKJyAknzvYT9o1PhSMWK5Vepzq802ebqgaD9RxZUhwsxL+R1bl/0CXz4WVHtCUZA8HhnTV6WCPLdhWDErDeUopFTE11Dwe05LFvwEVk6CKbT2xgp4EsFBaYLEG5bYnetSzuR8eWENj5TpDNUxn0l5dd5Xa4aLuHL59Z9PvtDtnA8Hxrnl8MSo3nAPHcHwEg8b10Xdvq+MxyUQTX1jA==;EJyJD1fI+s++2eQOa4GmDw=="
 ---

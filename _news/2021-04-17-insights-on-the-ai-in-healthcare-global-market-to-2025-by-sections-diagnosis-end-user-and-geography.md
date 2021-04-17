@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
-publishedDateTime: 2021-04-16T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
-webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
+excerpt: "The Global AI in Healthcare Market size is expected to grow from USD 4.2 Bn in 2020 and reach USD 27.2 Bn by 2025; it is projected to grow at a CAGR of 45.3% during the forecast period. Market Dynamics The increasing volume of healthcare data and growing complexities of datasets driving the need for AI,"
+publishedDateTime: 2021-04-16T21:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
+webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-healthcare-global-market-to-2025-by-sections-diagnosis-end-user-and-geography-1030313878"
 type: article
-quality: 40
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
+  - AI
 
 related:
   - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
@@ -87,20 +84,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
         width: 800
         height: 530
-        isCached: true
-  - title: "Which are highest profitable regions Artificial Intelligence in Retail Market?"
-    excerpt: "Los Angeles, United State, – including Q4 analysis The report named, Global Artificial Intelligence in Retail Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Artificial Intelligence in Retail in view of numerous aspects such as growth factors,"
-    publishedDateTime: 2021-04-12T16:53:00Z
-    webUrl: "https://ksusentinel.com/2021/04/12/which-are-highest-profitable-regions-artificial-intelligence-in-retail-market/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 48
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/04/chart-2021-04-12T092849.485-780x470.jpg"
-        width: 780
-        height: 470
         isCached: true
   - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
@@ -223,6 +206,6 @@ related:
       domain: industribune.net
     quality: 0
 
-secured: "kIihxZjhwh/wHuJa5J/dIM8Cp98mZ5o1L/J5rmy4CvxFflEfPUnkUsik7/pqh6Lni5GB5fwZVtJIzCLPbRpb53T45EFh5yxc+8sLxdkPbLTSJ3zYCaobEU+st7+qBwMffMF5W2+gmB2NZqbDvRk6rB5MQ94e2oMEUd6/7SA4GauD0JWBLP3X57KeWXVVkTzHAPVrxPCg0LkpXJoLsBd7h55mNnmKh8ZVJavmRhG7GP5xgFIPHxf6xhF4zXlOAZ4XlMOXdpqo5QbRmCxWuXhul9Pk0fmBlLEk2XrrTe1QFRLPjNNuqtjqOoifnFz53D9zVxHdXznbF2z7q+6vLHm9Y/ufuMiV9hwcSqk7ZitR/Yo=;mkUepUs+CeN+q0ZmU5NlAA=="
+secured: "927H4SP4Xwm2LGxVMmUpRWBordbRG+goxFz1Y+82LjirZtdz4QJ9z8RL97yvnkEznGv7TQj/5VHx7JK8vaYK1+tEOq+zRViwWKF8uxr8oioBIZBpKheJPW2dZdKCcB0j6WxS+cz0d2ggEF2HM0IIQsUmw+HjWPOGHwiKQyd8PCIg/ebjGLoYuWtorThe+1IC323FPkiDD3C6/RYJxjWtU2TG4oIcqv4fvmS8DIoPpnGsGEAx9+RfB94evaDOV5HWp/aRcS1/iuF7sHG9IRx66DX3z5Z5hTyNMbOBYrAeKBiYYv/fev7DWvG0evXEL81a2Pi6kCk3DCTYMOr/ibQK+5ONWcGDrKZEaXTUZE0Umdk=;zJWk4umvZAToWe1QUf25hw=="
 ---
 

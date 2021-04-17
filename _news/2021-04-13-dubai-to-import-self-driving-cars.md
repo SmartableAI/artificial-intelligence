@@ -59,15 +59,22 @@ related:
         width: 617
         height: 347
         isCached: true
-  - title: "GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023"
-    excerpt: "Cruise, the San Francisco-based self-driving vehicle company controlled by General Motors (NYSE: GM), has signed a deal to bring autonomous"
-    publishedDateTime: 2021-04-12T16:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gm-backed-cruise-will-deploy-self-driving-taxis-in-dubai-in-2023-10007367"
+  - title: "NVIDIA Drive Sim Leverages Powerful Omniverse Tech To Train Next-Gen Self-Driving Vehicles"
+    excerpt: "For the consumer, this means one more step toward having safe and effective self-driving technology in day-to-day life."
+    publishedDateTime: 2021-04-12T19:41:00Z
+    webUrl: "https://hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 49
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54800/content/nvidia-introduces-omniverse-simulation-for-training-self-driving-vehicles.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Domino's is testing out its automated self-driving pizza delivery service"
     excerpt: "Sign up for daily emails with local updates and other important news. People in Houston, Texas, may soon notice something different about their pizza delivery.Domino’s is kicking off its self-driving pizza delivery service in the city.The pizza chain ..."
     publishedDateTime: 2021-04-12T18:40:00Z

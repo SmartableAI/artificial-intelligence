@@ -7,7 +7,7 @@ originalUrl: "https://ieeexplore.ieee.org/document/9395834"
 webUrl: "https://ieeexplore.ieee.org/document/9395834"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning-Based Short-Term Load Forecasting Approach in Smart Grid With Clustering and Consumption Pattern Recognition"
-    excerpt: "Different aggregation levels of the electric grid’s big data can be helpful to develop highly accurate deep learning models for Short-term Load Forecasting (STLF) in electrical networks. Whilst different models are proposed for STLF,"
-    publishedDateTime: 2021-04-14T08:13:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9399106"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 13
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9399106/graphical_abstract/access-gagraphic-3071654.jpg"
-        width: 660
-        height: 295
-        isCached: true
   - title: "An easy access method for event recognition of -OTDR sensing system base on transfer learning"
     excerpt: "Traditional event recognition methods for signal collected by -OTDR sensing system is difficult to identify the event category accurately in field application. Deep-learning-based event recognition method can achieve high classification accuracy but needs massive scale computation and long-term training."
     publishedDateTime: 2021-04-17T04:43:00Z

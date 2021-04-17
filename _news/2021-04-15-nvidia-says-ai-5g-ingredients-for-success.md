@@ -44,36 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS and NVIDIA to bring Arm-based instances with GPUs to the cloud"
-    excerpt: "AWS continues to innovate on behalf of our customers. We’re working with NVIDIA to bring an Arm processor-based, NVIDIA GPU accelerated Amazon Elastic Compute Cloud (Amazon EC2) instance to the cloud in the second half of 2021. This instance will feature the Arm-based AWS Graviton2 processor, which was"
-    publishedDateTime: 2021-04-12T17:01:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-to-bring-arm-based-instances-with-gpus-to-the-cloud/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/10/Site-Merch_Graviton_SocialMedia_2.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Nvidia unveils Grace ARM-based CPU for giant-scale AI and HPC apps"
-    excerpt: "Nvidia said the chip will address the computing requirements for the world’s most advanced applications — including natural language processing, recommender systems, and AI supercomputing ..."
-    publishedDateTime: 2021-04-12T16:20:00Z
-    webUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/"
-    ampWebUrl: "https://venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-unveils-grace-arm-based-cpu-for-giant-scale-ai-and-hpc-apps/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/grace.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "NVIDIA and Cloudflare offer AI to all developers"
     excerpt: "NVIDIA and Cloudflare announced a partnership that will \"put AI into the hands of developers everywhere.\" Working with NVIDIA, Cloudflare will offer artificial intelligence (AI) tools to developers on top of its workers developer platform,"
     publishedDateTime: 2021-04-14T20:46:00Z
@@ -142,17 +112,6 @@ related:
       name: TASS
       domain: tass.com
     quality: 46
-  - title: "Cloudera Data Platform to integrate with Nvidia's accelerated Apache Spark 3.0 libraries"
-    excerpt: "According to Cloudera, the integration will accelerate data pipelines and make it easier to add machine learning workflows to processes. Cloudera Data Platform added Applied Learning Prototypes (AMPs) earlier this year. AMPs often run on Nvidia GPU hardware."
-    publishedDateTime: 2021-04-12T15:30:00Z
-    webUrl: "https://www.zdnet.com/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-data-platform-to-integrate-with-nvidias-accelerated-apache-spark-3-0-libraries/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
   - title: "AJA Adopts NVIDIA Solutions for AI-Driven Systems"
     excerpt: "The What: AJA Video Systems has announced AJA Software Development Kit (SDK) support for the NVIDIA Jetson platform for edge AI, and the NVIDIA Clara AGX developer kit, which provides real-time artificial intelligence (AI) and imaging for medical devices."
     publishedDateTime: 2021-04-12T21:48:00Z
@@ -223,15 +182,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Inspur Information Introduces 3 AI Servers to Support NVIDIA A30 and NVIDIA A10 GPUs"
-    excerpt: "“With our high-speed data pipes and the Inspur GPU server (with 8x NVIDIA HGX A100 GPUs), we can quickly iterate and use the state-of-the-art in AI to help our patients,” said Dr. Mozziyar Etemadi, anesthesiologist and Chief Data Engineer of the ..."
-    publishedDateTime: 2021-04-12T15:31:00Z
-    webUrl: "https://insidehpc.com/2021/04/inspur-information-introduces-3-ai-servers-to-support-nvidia-a30-and-nvidia-a10-gpus/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 27
   - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
     excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
     publishedDateTime: 2021-04-13T10:43:00Z
@@ -241,15 +191,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 27
-  - title: "Cloudera and NVIDIA Accelerate Data Analytics and AI in the Cloud"
-    excerpt: "GPU-accelerated Apache Spark 3 runs seamlessly on CDP ... they need to better understand their data and realize the true transformational potential of AI,” said Arun Murthy, Chief Product Officer, Cloudera. “CDP analytic experiences are purpose ..."
-    publishedDateTime: 2021-04-12T15:31:00Z
-    webUrl: "https://insidehpc.com/2021/04/cloudera-and-nvidia-accelerate-data-analytics-and-ai-in-the-cloud/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
   - title: "Nvidia announces new GPU collaborations"
     excerpt: "The devkit runs the Nvidia HPC SDK, a suite of compilers, libraries and tools that will enable engineers, scientists and developers to create and migrate HPC and AI applications to a GPU-accelerated Arm computing system. Initial computing centres deploying ..."
     publishedDateTime: 2021-04-13T09:47:00Z

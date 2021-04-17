@@ -19,29 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA’s New Grace ARM/GPU Solution Puts X86 On Defense"
-    excerpt: "Toned image double exposure mock up This week is NVIDIA’s GTC, or GPU Technology Conference, and they likely should have changed the name to ATC because this year – it is all about AI. To say this show was rich in big announcements and technology would ..."
-    publishedDateTime: 2021-04-14T17:31:00Z
-    webUrl: "https://www.datamation.com/data-center/nvidias-new-grace-arm-gpu-solution-puts-x86-on-defense/"
+  - title: "Avaya Enabling the Composable Enterprise with New AI Capabilities in Collaboration with NVIDIA"
+    excerpt: "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive ..."
+    publishedDateTime: 2021-04-13T12:01:00Z
+    webUrl: "https://apnews.com/article/technology-north-america-north-carolina-durham-united-states-ab9f49e632d64a52a615008950867eae"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/edge-computing-1-scaled.jpeg"
-        width: 2560
-        height: 1681
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Domino Data Lab Debuts New Solutions with NVIDIA to Enhance the Productivity of Data Scientists"
-    excerpt: "Today, Domino enables customers to create framework-specific custom work environments based on NGC containers, including RAPIDS, TensorFlow, PyTorch, CUDA, and more. “Domino’s expertise in managing and scaling data science with discipline and maturity ..."
-    publishedDateTime: 2021-04-12T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210412005204/en/Domino-Data-Lab-Debuts-New-Solutions-with-NVIDIA-to-Enhance-the-Productivity-of-Data-Scientists"
+  - title: "Avaya enabling the composable enterprise with new AI capabilities in collaboration with NVIDIA"
+    excerpt: "Avaya (NYSE:AVYA), a global leader in solutions to enhance and simplify communications and collaboration, is providing attendees at the NVIDIA GPU Technology Conference with new insights into how AI capabilities integrated into its Avaya OneCloud immersive collaboration and communications portfolio will enable today’s composable enterprise to effortlessly deliver memorable experiences for customers and staff."
+    publishedDateTime: 2021-04-16T04:20:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Avaya_enabling_the_composable_enterprise_with_new_AI_capabilities_in_collaboration_with__NVIDIA-ZAWYA20210415122444/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415122444/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415122444/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Zawya
+      domain: zawya.com
+    quality: 27
 
 secured: "3DAcBAtJCeBZwsu2AEfVb2mUl0LVtI3Q4ped3sv8RdlwYRA1PQE9WLIbyrHBXK4djWO+KGNIjWobaiP7U95voXN12WN73GwuvNC4SlTgF7XfqzTFMjAGxMitoe6hsieDAON6lVi8ObiPAUWDka9LX5THlrCDF2Mt5fql7WQWknwI88Yr3aF+I16ADceFyCRzzcVcV4D0fimUb68kohgDWzYWacE0LhNkyDk4xZtZskPODV94Lqi9knOL9P9wrAxtSWTWPzCFPF5ewfOgj+uUjyhrSosoqxNBdQJFe6G/TEbgZNg41wGZuD80PRfbJANoaGS+hMLrPQoQcpfvmrqnEQ5QK0zJpQXmAk0UFYqmCov6OpI4V71SC0WMFZkSZKCYDTQcSzo6pLr/2ZAHAIq7gQEF2yaHuTReDsrywytBBMWbmI5Kfrq27rmoOUP7FMneUhgYBdgEgGil/LCnwadpy8aDUHqRkdlxa/XBodgLZlcVOOua6YA6DtBxGRQYZVIs8hzZfhq+ssry3tVBpwwr3A==;e78eMc1G7gwCfUB8dTlc2g=="
 ---

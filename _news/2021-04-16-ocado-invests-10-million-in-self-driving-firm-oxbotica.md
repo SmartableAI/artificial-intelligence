@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/ocado-invests-10-million-in-self-drivi
 webUrl: "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

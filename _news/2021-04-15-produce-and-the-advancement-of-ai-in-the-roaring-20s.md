@@ -18,47 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "New Advancements in AI are Changing Healthcare as We Know It"
-    excerpt: "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ..."
-    publishedDateTime: 2021-04-12T16:41:00Z
-    webUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/"
-    ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
+  - title: "Giant Oak brings security screening into the age of AI"
+    excerpt: "Company’s GOST technology enables organizations to screen individuals for a wide range of illicit activities Giant Oak's software-as-as-service security screening platform, known as GOST, was borne out of the need that arose for large-scale,"
+    publishedDateTime: 2021-04-13T21:29:00Z
+    webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
+      name: Security
+      domain: securityinfowatch.com
+    quality: 56
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How artificial intelligence is transforming the future of healthcare one step at a time"
-    excerpt: "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost."
-    publishedDateTime: 2021-04-16T12:10:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+  - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
+    excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
+    publishedDateTime: 2021-04-13T11:00:00Z
+    webUrl: "https://spendmatters.com/2021/04/13/bid-ops-hosts-virtual-event-with-insight-into-the-role-of-artificial-intelligence-in-procurement-sourcing/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 68
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 20
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg"
-        width: 1600
-        height: 900
+      - url: "https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2020/11/16140911/City-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-    excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-    publishedDateTime: 2021-04-14T05:57:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 24
 
 secured: "SAASRgQMvcYOw9xQYz5AtLYV4h4/I3rp0Oiz79UOO4U+35loh42XA7HhEYdkoah+Ys3wT4bc4pkhQD0pVsmxHZmfIbHKbcJTkMXIyhUQ281dy043WVzbcp+DqJD4+gR3EbRdH3GciE7bdneYLTyDva9UlXzbKvOrKCUiXvokpDw9nKKV63t1/GLRKx8uGJbBfGF+EZ9Wuipr/f/dwqSu8qmo0Fvnm8EmhU/13b6TyujF2DvRixomcVCrYtB/kTCuAWlMhBsVAlJXkAWvFR9qkwShrcXBKvIj2XDMZSg4K78Hhy9KQ5wQT0ikSWtgW7BnjvKjf5bsF9cIqo92UQY4dEA/udnDlZx6zYZMY6pv9Y0=;VMsuC18QCtxlVT8N3Ja9Dw=="
 ---

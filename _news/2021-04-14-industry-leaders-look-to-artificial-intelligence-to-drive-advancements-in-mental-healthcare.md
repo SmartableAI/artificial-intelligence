@@ -1,66 +1,45 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-publishedDateTime: 2021-04-14T05:57:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
+publishedDateTime: 2021-04-14T13:00:00Z
+originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "New Advancements in AI are Changing Healthcare as We Know It"
-    excerpt: "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ..."
-    publishedDateTime: 2021-04-12T16:41:00Z
-    webUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/"
-    ampWebUrl: "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How artificial intelligence is transforming the future of healthcare one step at a time"
-    excerpt: "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost."
-    publishedDateTime: 2021-04-16T12:10:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 68
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Produce and the advancement of AI in the Roaring 20s"
-    excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
-    publishedDateTime: 2021-04-15T16:27:00Z
-    webUrl: "https://www.thepacker.com/news/industry/produce-and-advancement-ai-roaring-20s"
-    type: article
-    provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 17
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+    width: 845
+    height: 396
+    isCached: true
 
-secured: "Vu77vSNKdBTCf7fmvkMZe7OWVfSii+VVBMh8xXcYoBPHLNCMDzYlVLfdcxmCr/iwVt/K6IEHHdpD5E2vaTXOORecNugAC1JiMVlYwtHqqdsmWBO9ufX6hBUAD1JHGT12MXmdShP8RTOc7Ytzh65vBxwqf4nM69yyp6xWJ5f3FXSWYA3pPLZHCayyyeeh5SNBR/b0hWzUZZpPjkLMDid//JYnzULvevvDUq0hF7WNCiV0FxHbDrpK1uv84wkTJkePRMv5QLaEwLNJgqZT838PlQLDHGpifo5jDtVl9O3Jo00uQZpzbUHZPXXZ9kzlk6nj8i30iMBCrawZGcp0uZSCffdcEP4nHglwNpqheVpkiH0=;g5jIK7OH4MlfTZgVhvhrYQ=="
+related:
+  - title: "AI-generated Nirvana, Hendrix songs shine spotlight on music industry mental health"
+    excerpt: "“We’re just trying to start this conversation around, if we support these people we don’t have to be in 50 years trying to make AI music of all these (other) musicians that we lost too soon."
+    publishedDateTime: 2021-04-13T19:29:00Z
+    webUrl: "https://ktvz.com/news/national-world/2021/04/13/ai-generated-nirvana-hendrix-songs-shine-spotlight-on-music-industry-mental-health/"
+    type: article
+    provider:
+      name: KTVZ
+      domain: ktvz.com
+    quality: 31
+    images:
+      - url: "https://ktvz.b-cdn.net/2019/11/KTVZ-USworld2.png"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "JJynvT+cS+qpNoTjVfgg+85s3B09/cxhz/tffOgVtqTRcomS8Ltw19fIYH2RXvCrNO5EYf5s31Xny7sQdtR2aJV+MNqgDdYlJtpfYAHvkiHfIwOTj45MeQLGvee3f32pBN++i6WYqdNWSyaWjqDkohyB5PWthnz+UYC5ymhn1QqLUE2uhwUApEPiXRDTKqiDN+roBZvSDRN6IDg2Td2uK+TZNXm5f+yn3VXsEVfRrRES8MhFdQijKk2rsb1SVYLiRzSp3HH3hT5T/tn4IJ7ybeVs7fFCbz+WYR0Vnu/2xB7LG5kNGbFo3EV6ubDPHb9qwpWyvqiACK8tk5usDdPuMjtmop5FwhPNmjcogaEAj4k=;C+d7B4BZY3TCOto10Xgsuw=="
 ---
 
