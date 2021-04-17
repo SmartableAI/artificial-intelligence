@@ -367,20 +367,6 @@ related:
         height: 300
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
-    publishedDateTime: 2021-04-13T02:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
     excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
     publishedDateTime: 2021-04-13T17:00:00Z
     webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
@@ -592,6 +578,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "iVC8DABzuhcWNYtjNBigAo4wi+56mXLTj+WCxNO7p54rVtYR1T0exR897y/lxnrNIRZ9dLHJjmO/yRRvOeB/eYyHynu3r9a0SqVtsqAGGkIr8b+1qHlKtBvdsWJjPVSdqLZjVNnWRFN6eGyPBNVNflUPsfhoEDYiLBH92mlqQlbS14QZSwKlfbDHtEd1dVAC0bm4jvyODLmfTkoK1y+Ar09QOCfGfdqVd0xkeYFggSbi/xbbQW9oDyO4MwsrYTYIeTh4bD8IXA8W20b97aOo2F3myS/faVTh2eOkjo3yB9TLQY91FvxhV905DX1lTwvR7oy+7yr0hNrcPAPjP2zL5rfml4NvMOhkEM30QJ2EG/o=;tGuWkA4F6flEkqWRhExhZw=="
+secured: "qqnCCaNB8U0wvTe2ZUQNXexiYtR0IdHrcRciqV9QVUrbBr63RySkPi++ZhjQnffERnqPhgqHNXhTtHpqUzMperGxK2MjDv/4cMhV6Vo0MdNSWlWcXkcXaKc38q2Ktc5TJFPJSuWc1kOCdUK5Bd5Fze28+HHO4paDOrJUuNQ09iRTY1pjlX/gyjMF9ov15TPzX7adOt9oPDc4nXYM8eX+J9DTAY1wKZ49sOqrtSPCurD/Pbj4BY6hz8TupcSxjvVo/sDhFX0MKYSJunvuMr/wn0DAunvkbZHW+c4p9CU5IR2azwTbz1WyvHJGCxas+06413I+jNpnixohFHMBPRKyRvzlW2cBcaBWszzRdMix88/EX6Yz/7OJo0HXA3sHebf8SmS+y5kEcVUVDnE/G1bXndu3bUm/Ls0WE/L+oherXIhp81tsTolc4iA1SOrIsev479sxQoAv6roM6QESlVA73TRDTqduqZ2oTCa5RWCBMJBzPoNvTKSricoIoCl9PDMKD/Ut+vm9H3y9kHD4IHo0lw==;XbHZYJ+zMY7NIr9kWpf2fQ=="
 ---
 

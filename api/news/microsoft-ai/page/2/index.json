@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-25-trueblue-designs-the-future-of-artificial-intelligence-and-analytics-for-healthcare-with-aidea-integrated-with-microsoft-dynamics-365.md",
-      "title": "Trueblue Designs the Future of Artificial Intelligence and Analytics for Healthcare With Aidea Integrated With Microsoft Dynamics 365",
-      "excerpt": "VERONA, Italy--(BUSINESS WIRE)--Trueblue, after having announced the integration of its Artificial Intelligence Relationship ... Managing Director, HealthCare and Life Sciences, EMEA Regional Lead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210324005610/en/Trueblue-Designs-the-Future-of-Artificial-Intelligence-and-Analytics-for-Healthcare-With-Aidea-Integrated-With-Microsoft-Dynamics-365",
-      "originalUrl": "https://www.businesswire.com/news/home/20210324005610/en/Trueblue-Designs-the-Future-of-Artificial-Intelligence-and-Analytics-for-Healthcare-With-Aidea-Integrated-With-Microsoft-Dynamics-365",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai.md",
       "title": "Microsoft launches live transcriptions for Teams using 'cutting edge AI'",
       "excerpt": "Microsoft is rolling out its AI-powered live transcription service in Microsoft Teams, answering Zoom's recent expansion of its own live transcription feature. Competition remains fierce in the video-meeting market for live transcription functionality.",
@@ -1332,6 +1297,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-radcom-announces-automated-5g-assurance-integration-with-microsoft-azure.md",
+      "title": "RADCOM announces automated 5G assurance integration with Microsoft Azure",
+      "excerpt": "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The integration enables operators to rapidly deploy and optimize 5G services in a carrier-grade cloud platform more dynamically and efficiently,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

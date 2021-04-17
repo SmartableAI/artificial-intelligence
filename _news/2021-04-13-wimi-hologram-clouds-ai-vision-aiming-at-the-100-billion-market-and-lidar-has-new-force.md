@@ -51,20 +51,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
-    excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
-    publishedDateTime: 2021-04-13T02:02:00Z
-    webUrl: "https://menafn.com/1101905118/WIMI-Hologram-Cloud-Creates-5G-Application-and-AI-Visual-Interactive-Experience-Which-Enables-the-Combination-of-Autopilot-and-Holographic-AR"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 3
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "R3BxoP4MEOcXWzyzFZlBgyxwrkiDoxgxUpZt0FUI+y/BSCoNgE4vHdOUSunBfSY7TRVwi+EpKToWrI+BKiw4dA7/KE5CxjhvhmuJuQtAaF3pWkxJNVnJYQ8zSbDd+LDPmy5rpSMzQg66oe3zNcJStBYW5wRaRs+RF3vYdCoejrT4V//6ibOFaMP6qXWjatTwubwOJjLJu2yG9t1a66//caM4lHSwnllGlDgNkTIigv/svqYrCqp2JsAJMKQK3qxZOrPT09euL6VcYX1ZDGJyLJGhmQwAVDU2cMAVStIly9+CkqNS50pb6cCLIlxJB84YFkjc9i49P+t1RGJFIHigGpW6dEHCmSlLkgiFwu/U438=;V4e6kHskyx89eUrK7RVmdw=="
 ---

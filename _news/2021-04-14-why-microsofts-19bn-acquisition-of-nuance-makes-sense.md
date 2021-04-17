@@ -374,20 +374,6 @@ related:
         height: 300
         isCached: true
   - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
-    publishedDateTime: 2021-04-13T02:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
     excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
     publishedDateTime: 2021-04-13T17:00:00Z
     webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"

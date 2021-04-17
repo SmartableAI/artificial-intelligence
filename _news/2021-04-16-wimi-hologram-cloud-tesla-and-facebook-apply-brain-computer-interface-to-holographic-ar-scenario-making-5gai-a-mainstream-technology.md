@@ -51,20 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive Experience, Which Enables the Combination of Autopilot and Holographic AR"
-    excerpt: "(MENAFN - GetNews) Hong Kong - MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Hologram Cloud Creates 5G Application and AI Visual Interactive ..."
-    publishedDateTime: 2021-04-13T02:02:00Z
-    webUrl: "https://menafn.com/1101905118/WIMI-Hologram-Cloud-Creates-5G-Application-and-AI-Visual-Interactive-Experience-Which-Enables-the-Combination-of-Autopilot-and-Holographic-AR"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 3
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "polhHWTP67TFYNeCsXg9Cf/63oM41qxNW/OvvkRgY9UP9ukIMWrqnw9afzFRtqeQD5LdTQ7xFwG957s4dMl0e2phR8vO0pNKUyluWksdBoV4BYUGlNRREdVET42Z4UDqQ5AnjLHfzuJJ0nOb79bRvQmEdwpJuXRjJSIE0Yhk+LYogxgcR2BfxyT/Blc5PD2yQTwOLv+sEiuDrNrf8tFHaDGlM31Z7qFm5wuX+HHG6MHkCuejtjr4sJBW3hIaA535cWoiD76ZJZYwDo1i2NkFiTfKKXYqK/1X1UhRIyWu4K8yldGfsmrrhm1JJRp1F/Xoj0TRDkWJ9w7T9/M1Eojv7Xo/7sLfXLcPCLivi+bnOwg=;jAFEIEb/CRkSdA5PrlIY6Q=="
 ---
