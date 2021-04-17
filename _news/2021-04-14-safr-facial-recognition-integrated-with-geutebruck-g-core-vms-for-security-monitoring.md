@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 781
         isCached: true
-  - title: "RealNetworks, Inc.: Industry Leading SAFR Facial Recognition for Live Video Integrated with Geutebrück VMS"
-    excerpt: "Featuring real-time, automated, low-bias identification of opt-in staff and persons of interestSEATTLE, April 12, 2021, Inc. (NASDAQ: RNWK) today announced that its SAFR facial recognition system for"
-    publishedDateTime: 2021-04-12T08:57:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52546209-realnetworks-inc-industry-leading-safr-facial-recognition-for-live-video-integrated-with-geutebrueck-vms-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "2FoCrhtRKj1M+zHyxslJoPP43hUMYa7Yq50JFD612T1Ja5MSmkaNiQ6G9MhLhZNKwXTPg3lS9PMOrK9m1CKCSiNc/glEmT50hZY9Ragd0vcNb35Fj/8nr10E1zHiGM7k33MFkkQo+VMfGHCPvbk5heOo9ZmUPGWLcVNs3DCRquPdbJXYZppt6TuE46QYa5/yrU51icPHYwB9908PFJ99f4LOskkpMPthVWt2uErF+wKqlkDbacffmEwBAV2rTT237NlJ3wF1qysn2CWn/4qLOQGx6vUN3A62BClpAE1bkLX3yQa5KocfL0YBGh80l5lVxfI2gG98C90GvFlHy+1U0pPx66llxlSuqon3YM5HPuWs1XF/AHID8Nk6UFTgd9OrEiwRl7xRvGJCJMusF0pLjTFUTu4+EnPXu0Lp/caWV8HcTo1MyBCU+wwwIP5m704QfH3HBmMtpEnLICFecTACAoFViqxFNsCTlrjjwPiChYSeXCdAOybhOM+WJ8oO79vLKj/6ZmqpRS4Xhy+Q102ZSQ==;HW/wFsOU36gQPmr4iSdFqQ=="
 ---

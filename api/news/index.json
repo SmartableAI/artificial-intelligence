@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-17-artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google.md",
+      "title": "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google",
+      "excerpt": "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot.md",
       "title": "AI-driven audio cloning startup gives voice to Einstein chatbot",
       "excerpt": "You’ll need to prick up your ears up for this slice of deepfakery emerging from the wacky world of synthesized media: A digital version of Albert Einstein — with a synthesized voice that’s been (re)created using AI voice cloning technology drawing on audio recordings of the",
@@ -1155,49 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition.md",
-      "title": "Fears of vaccine exclusion as India uses digital ID, facial recognition",
-      "excerpt": "(Thomson Reuters Foundation) - Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres, rights groups and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
-      "originalUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C217V",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V",
-      "publishedDateTime": "2021-04-15T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

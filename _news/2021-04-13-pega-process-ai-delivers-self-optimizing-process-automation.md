@@ -72,17 +72,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "AI, automation the only option for SA"
-    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
-    publishedDateTime: 2021-04-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 41
   - title: "Artificial intelligence could be adding to the bias at your company"
     excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
     publishedDateTime: 2021-04-13T15:02:00Z

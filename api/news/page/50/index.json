@@ -2,6 +2,143 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-03-09-kpmg-ai-adoption-is-accelerating-in-the-pandemic.md",
+      "title": "KPMG: AI adoption is accelerating in the pandemic",
+      "excerpt": "KPMG survey finds increased reliance on AI across a wide range of sectors in the wake of the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/KPMG-Thriving_Chart-1564x880_Rate.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/amp/",
+      "publishedDateTime": "2021-03-09T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-deep-learning-was-top-in-demand-skill-of-2020-list-of-most-popular-nanodegree-programs.md",
+      "title": "Deep Learning was Top In-demand Skill of 2020, List of Most Popular Nanodegree Programs",
+      "excerpt": "The shift towards deep learning and data engineering is an indication of the country's growing interest in artificial intelligence and big data Udacity has released the list of the most popular Nanodegree programs in India in 2020. The data is based on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/deep-learning-top-demand-skill-2020-list-popular-nanodegree-programs/",
+      "originalUrl": "https://www.dqindia.com/deep-learning-top-demand-skill-2020-list-popular-nanodegree-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/keyboard-4904427_640.jpg",
+          "width": 709,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/deep-learning-top-demand-skill-2020-list-popular-nanodegree-programs/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/deep-learning-top-demand-skill-2020-list-popular-nanodegree-programs/amp/",
+      "publishedDateTime": "2021-03-09T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-natural-language-processing-market-worth-351-billion-by-2026.md",
+      "title": "Natural Language Processing Market worth $35.1 billion by 2026",
+      "excerpt": "According to a new market research report Natural Language Processing Market by Component Type Statistical Hybrid Application Automatic Summarization Sentiment Analysis Risk Threat Detection Deployment Mode Organization Size Vertical and Region Global Forecast to 2026 published by MarketsandMarkets the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "originalUrl": "https://www.openpr.com/news/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U309635738_g.jpg",
+          "width": 650,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253818/natural-language-processing-market-worth-35-1-billion-by-2026",
+      "publishedDateTime": "2021-03-09T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-healthcare-artificial-intelligence-market-next-big-thing-major-giants-aicure-apixio-ibm.md",
       "title": "Healthcare Artificial Intelligence Market Next Big Thing | Major Giants- AiCure, APIXIO, IBM",
       "excerpt": "A new business intelligence report ... COVID-19 Outbreak-Global Healthcare Artificial IntelligenceMarket: Medical Imaging & Diagnosis, Drug Discovery, Therapy Planning, Hospital Workflow ...",
@@ -1025,135 +1162,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths.md",
-      "title": "Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths",
-      "excerpt": "In a bid to prove that its robot drivers are safer than humans, Waymo simulated dozens of real-world fatal crashes that took place in Arizona over nearly a decade. The Google spinoff discovered that replacing either vehicle in a two-car crash with its robot-guided minivans would nearly eliminate all deaths,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths/ar-BB1engna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/11pavQWeOYE5sK7dQMNikb6O95o=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68931332/1142125645.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "publishedDateTime": "2021-03-08T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-        "domain": "theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-roborock-s7-review-setting-the-bar-again-on-robot-mopping.md",
-      "title": "Roborock S7 Review: Setting The Bar Again, On Robot Mopping!",
-      "excerpt": "The S7 is the latest line of robot vacuums from Roborock, after having the S6 series the last couple of years. The main upgrade with the Roborock S7 this",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
-      "originalUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-Review-Featured-AM-AH.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
-      "publishedDateTime": "2021-03-08T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-the-amazing-promise-of-artificial-intelligence-in-health-care.md",
-      "title": "The amazing promise of artificial intelligence in health care",
-      "excerpt": "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and to find evidence of strokes on brain CT scans. But what does the future hold for this emerging technology?",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp",
-      "publishedDateTime": "2021-03-08T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

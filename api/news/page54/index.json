@@ -2,6 +2,155 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-03-05-global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025.md",
+      "title": "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025",
+      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
+      "title": "What the swarm of new Azure announcements mean",
+      "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "publishedDateTime": "2021-03-04T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-elon-musk-signals-big-update-for-full-self-driving.md",
+      "title": "Elon Musk Signals Big Update for ‘Full Self-Driving’",
+      "excerpt": "Elon Musk indicates that a major update to Full Self-Driving could arrive in April, and that FSD will be offered more widely. Full Self-Driving is expected to be offered by Tesla on a subscription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "originalUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd2-1614871154.jpg?crop=1.00xw:0.893xh;0,0.107xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "publishedDateTime": "2021-03-04T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.md",
       "title": "Scientists seek to enhance artificial intelligence by integrating brain cells",
       "excerpt": "With a new grant from the U.S. Army, a team of scientists will seek to enhance artificial intelligence by integrating brain cells called astrocytes.",
@@ -1071,144 +1220,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-aible-positioned-furthest-in-the-visionary-quadrant-in-the-2021-gartner-magic-quadrant-for-cloud-ai-developer-services-report.md",
-      "title": "Aible Positioned Furthest in the Visionary Quadrant in the 2021 Gartner Magic Quadrant for Cloud AI Developer Services Report",
-      "excerpt": "Visionaries are most commonly, but not exclusively, focused on autoML, as this segment is viewed as the most important for application leaders and development organizations. Their autoML services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter.md",
-      "title": "What If Media Group introduces AI tool to make marketing campaigns smarter",
-      "excerpt": "What If Media Group's new tool promises to improve marketing campaign performance through the use of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Marketing-tech.shutterstock_311883674.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
-      "publishedDateTime": "2021-03-04T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights.md",
-      "title": "Intel assists NFL hopefuls with 3D athlete tracking and AI insights",
-      "excerpt": "A partnership with the human performance company EXOS aims to help college football stars hone their game ahead of the NFL draft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2015/09/08/cd03451e-854e-4c47-b1fc-da34eea51941/resize/1200x/0d7805f6515eedcf7ed954e3d8578047/bucs.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "publishedDateTime": "2021-03-04T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

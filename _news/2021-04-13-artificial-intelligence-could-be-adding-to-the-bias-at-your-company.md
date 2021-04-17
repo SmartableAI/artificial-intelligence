@@ -72,17 +72,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "AI, automation the only option for SA"
-    excerpt: "The Institute is also well positioned to explore collaboration with other stakeholders and broader AI and 4IR initiatives, including exploring the important topic of ethics in AI,” he said. The IITPSA hosts regular Tabling Tech webinars to share industry ..."
-    publishedDateTime: 2021-04-12T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwErvnBk4pv6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwErvnBk4pv6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 41
   - title: "Pega Process AI Delivers Self-Optimizing Process Automation"
     excerpt: "CAMBRIDGE, Mass., April 13, 2021 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company that crushes business complexity, today announced Pega Process AI – a new set of Pega Platform™ capabilities that help organizations optimize their ..."
     publishedDateTime: 2021-04-13T13:42:00Z

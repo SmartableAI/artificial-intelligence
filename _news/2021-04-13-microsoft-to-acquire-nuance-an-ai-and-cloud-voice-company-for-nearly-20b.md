@@ -839,22 +839,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Microsoft to buy speech-recognition firm Nuance for $16bn - report"
-    excerpt: "San Francisco - Microsoft is reportedly acquiring speech-recognition company Nuance Communications for nearly $16 billion and the deal could be announced on Monday (US time), the media reported. According to a CNBC report citing sources on Sunday ..."
-    publishedDateTime: 2021-04-12T08:39:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-to-buy-speech-recognition-firm-nuance-for-16bn-report-cfc36f4e-2f5d-4d34-8abd-039032c9be20"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 61
-    images:
-      - url: "https://image-prod.iol.co.za/resize/3500x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/e03dbfda-c814-5934-b164-da8993601c7b&operation=CROP&offset=0x31&resize=3500x1969"
-        width: 651
-        height: 366
-        isCached: true
   - title: "Microsoft Will Pay $19.7 Billion for Speech-Recognition Company Nuance"
     excerpt: "Microsoft said it clinched a deal to buy Nuance Communications, a pioneering voice-recognition tech company, in an all-cash transaction valued at $19.7 billion, inclusive of Nuance’s net debt."
     publishedDateTime: 2021-04-12T13:08:00Z
@@ -1233,20 +1217,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "Microsoft close to $16bn deal to buy voice tech firm Nuance"
-    excerpt: "The tech giant is in the midst of more acquisition talks that could see it buy the long-time player in the voice technology space."
-    publishedDateTime: 2021-04-12T07:52:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/microsoft-nuance-deal"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 41
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/voice-AdobeStock_418701314.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft needs extra intelligence"
     excerpt: "Writing a $16 billion cheque for Nuance Communications   Microsoft is close to buying artificial intelligence and speech technology company Nuance Communications for $16 billion. The price being discussed could value Nuance at about $56 a share,"
     publishedDateTime: 2021-04-12T10:19:00Z
@@ -1429,6 +1399,15 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
+    excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
+    publishedDateTime: 2021-04-17T00:29:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/16/seattle-judge-privacy-suits-amzn-msft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "ERMyIOTVZP+JXxMzhpNdQ+WdC33AYPGSZt+WGwKHLJ9cFQJGquSELLww7hqr/I64Cawnig9n+5amwCRQ8sEiMRn4VccUEKi6gWOpPcss+kt+kA/oE40NbnUZdeMqXy5FBiMt2iSP29D9OxFWY/VBPx0nbHFIHTes1WQp2UtFSCV+WOLxh0g9gsX+6r2neVkVAI/jQ+y1gqk5TeeVtyqC04eGKGNmHQrGqvU77sMkfl+8+Ne1kj5byR4s8DLH+yKf6pUVK+/+fel3jSKlAZVFeHd7sWfVMBgbKjqGPgfqUW9l+yJJLc+B+OFHrh6iky2VjIOXzUnSbb5CnWBkdHdfPODCFgCh/q/5xE0dkChOo08XQuh4XpbwdjDBdH9w9mE8KKU0QIAdGk6ZOZIftX03dDQPGPEhG0Jckna5AYafV2p7cpbx21YKwm6v7z+eMgS+xfldzMcAO7A2dU1aiTGQRUpor8V+xT+vOQNe4cGLrtJRAshOBQLoQsrDehb0P0SOPjxd2+Aj5Kh8DBu3axY4wA==;zuxD4PFmKE+2MFdOIjdFCw=="
 ---

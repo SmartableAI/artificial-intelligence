@@ -216,6 +216,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Building AI-Powered Virtual Collaboration and Content Creation Solutions with NVIDIA Maxine"
+    excerpt: "The SDK supports application features such as AI face codec ... be combines with NVIDIA Jarvis add language-based capabilities such as transcription, translation and virtual assistants."
+    publishedDateTime: 2021-04-13T00:58:00Z
+    webUrl: "https://www.electronicdesign.com/video/video/21161064/nvidia-building-aipowered-virtual-collaboration-and-content-creation-solutions-with-nvidia-maxine"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 29
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/04/maxresdefault.6074ebc565e9d.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia announces new GPU collaborations, latest DPU for AI computing at data centres"
     excerpt: "Nvidia announced a series of collaborations that will combine Nvidia GPUs and software with Arm-based GPUs, extending Arm's flexible, energy-efficient architecture to computing workloads from the cloud to the edge."
     publishedDateTime: 2021-04-13T10:43:00Z

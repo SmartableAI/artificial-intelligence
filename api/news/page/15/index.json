@@ -2,6 +2,99 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-05-the-four-cs-of-ai-literacy-building-the-workforce-of-the-future.md",
+      "title": "The Four Cs Of AI Literacy: Building The Workforce Of The Future",
+      "excerpt": "The workforce of the future will require not just data scientists but broad AI literacy across all job roles. We define the 4 C's of AI Literacy - Concepts, Context, Capability and Creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606a798a09d1c7dbc33f14d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/04/the-four-cs-of-ai-literacy-building-the-workforce-of-the-future/amp/",
+      "publishedDateTime": "2021-04-04T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-parties-use-data-analytics-ai-to-understand-voters-preferences-in-kerala.md",
+      "title": "Parties use data analytics, AI to understand voters’ preferences in Kerala",
+      "excerpt": "Though bulk SMSes and recorded voice calls remained in use, political parties, aided by IT firms, used data analytics and Artificial Intelligence (AI) for analysing voters’ minds and the character of a constituency. AI is a machine’s ability to think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
+      "originalUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/4/5/w600X390/Partiesaaa-.JPG",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
+      "publishedDateTime": "2021-04-04T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-hong-kong-robot-sells-art-for-688888-and-is-now-eyeing-music-career.md",
       "title": "Hong Kong robot sells art for $688,888 and is now eyeing music career",
       "excerpt": "The robot then processed that ... with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing ...",
@@ -423,6 +516,60 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-google-introduces-tensorflow-hub-for-reusable-machine-learning-models.md",
+      "title": "Google introduces TensorFlow Hub for reusable machine learning models",
+      "excerpt": "Google announced new improvements to the TensorFlow developer experience at its annual TensorFlow Developer Summit last week. The company announced an improved programming model for Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
+      "originalUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/04/tenssorflow.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {
@@ -1074,151 +1221,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation.md",
-      "title": "Five Things To Consider When Choosing AI-Driven Proptech For Your Multifamily Operation",
-      "excerpt": "Elik Jaeger President & CEO at SuiteSpot Technology, frictionless facilities management PropTech for multifamily operators. Many multifamily operators are still making important decisions about property operations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606615d9264f96883f69916a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
-      "publishedDateTime": "2021-04-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
-      "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates",
-      "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems since 2015 and ... of the Shenzhen based ACR systems pioneer’s strong head start of a fast expansion to the global markets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it.md",
-      "title": "Italy messed up its startup ecosystem this week — here’s how we can fix it",
-      "excerpt": "Startup legislation struggles are slowing down ... automotive-of-the-future enthusiasts, and AI wizards, and that perhaps, in the haste of the moment, tried to provide a platform that had more ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
-      "originalUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/milan-italy-gq-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
-      "publishedDateTime": "2021-04-02T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

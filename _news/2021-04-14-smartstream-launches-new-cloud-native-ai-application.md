@@ -39,20 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Johnson Controls and Microsoft birth ‘digital twin’ for building management"
-    excerpt: "Johnson Controls built its digital twin platform in Microsoft Azure to simulate building management operations."
-    publishedDateTime: 2021-04-12T09:00:00Z
-    webUrl: "https://www.cio.com/article/3614268/johnson-controls-and-microsoft-birth-digital-twin-for-building-management.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/06/digital-twins_woman-in-profile_ai_mirror_duplicate_duo_pair-100760562-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
     excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"
     publishedDateTime: 2021-04-14T12:00:00Z

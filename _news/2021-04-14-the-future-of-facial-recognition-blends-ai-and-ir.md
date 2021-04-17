@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6077940a18631a01a05d68f4%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The promise of artificial intelligence and machine learning for higher education"
-    excerpt: "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning"
-    publishedDateTime: 2021-04-12T07:43:00Z
-    webUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/"
-    ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 86
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
-        width: 816
-        height: 400
         isCached: true
   - title: "Billions of smartphone owners will soon be authorising payments using facial recognition"
     excerpt: "The next few years will see billions of users regularly using facial recognition technology to secure payments made through their smartphone, tablets or smartwatches, according to new analysis carried out by Juniper Research. Smartphone owners are already ..."

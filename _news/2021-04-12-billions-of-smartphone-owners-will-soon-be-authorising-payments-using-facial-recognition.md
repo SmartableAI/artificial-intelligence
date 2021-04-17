@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The promise of artificial intelligence and machine learning for higher education"
-    excerpt: "Machine learning and big data analysis fully exploit the power of artificial intelligence to expand the number of options and scenarios of complex planning"
-    publishedDateTime: 2021-04-12T07:43:00Z
-    webUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/"
-    ampWebUrl: "https://www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/promise-artificial-intelligence-machine-learning-higher-education/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 86
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
-        width: 816
-        height: 400
-        isCached: true
   - title: "Opinion: Time to End Police Use of Facial Recognition Tech"
     excerpt: "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,"
     publishedDateTime: 2021-04-13T16:17:00Z

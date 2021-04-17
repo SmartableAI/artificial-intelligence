@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
 
 provider:
@@ -12,8 +12,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -21,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "peu4n46dGU0dOFjIyc+RimkbwnMnaWEmjQRCHZp4zqumkJ9ZrNlKyJkAWtH5bi0ujP+BjjE7Xd4ck83lbWX4ufufYGXvcxv2qB7H7itvXN1mX3cvnrlu6q7b09z4A5XBvqi+fTBwHckucL9rHedDwVkCKAgB6b/Ol3kurXxXoRpZZi8yjy7vRZgtPlC5vMujKOkRey7xPOtHHJc9NS7oY8EXJjtOI6bUhQMLGrYVVxGjpi//mzO9tmgJNxIw6FRAXoGgRdc0lId+LAIMjNeU+JUnOet/TgQV7WNKJURglMqm6TmUghVIvP7kPKi/x+DjcXjpmQXBWwj7pm/BvWSW8851WmjE+eOtUpMAyuKKW9I=;cIVaCLP1rlBrAJOEQexjaQ=="
+secured: "GwwgITCo8EQQUJ4AhXTsfMT1SZ7wGxSTL/o8HbiPPqiKcJ2VbeAra/xPXle/VmGdbEgC0ZfJhwSWmgHv5l+Fj+rDVk9xdxGXQiFeXfdu2rKOtGnEe+UFKyD8aojhZVSUOUf2IJTYVe90o8IXhmCoVAzE6OjVgHJ7UiuIY8zbr74JHGCSxVa6fK05b5/lgxOhGbLekHuRv58UL65LUvVE/fYasVuFfVkK97u46PvC01XWJtZ4VlWlxKsoZBV/pxyQS1Z38S8mv7tMkFIBvOyMXav/sPRtLca6J5WyJbpIELgobbgB9zBfLbutzOUQ780b1Y9fLxIG6eUgUN9tiwjMCn6jTLLYil+RTM8ObGNPh3k=;K9vJS34M5JUheal6PcCubg=="
 ---
 

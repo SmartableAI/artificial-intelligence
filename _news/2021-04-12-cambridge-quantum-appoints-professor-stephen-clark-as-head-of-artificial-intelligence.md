@@ -2,25 +2,19 @@
 category: news
 title: "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence"
 excerpt: "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual ..."
-publishedDateTime: 2021-04-12T07:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html"
-webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence-301265850.html"
+publishedDateTime: 2021-04-12T07:32:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210412ln37088/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210412ln37088/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "UutWqX2wDsNAHbajFBJPjnd8f8AnK/RNu06ZJ/CfKunZ5XXmavoxQ9iFanEq5A11Dlpi9H4do3K+xBeTHj6iGllKV4rsVT7vXUSO/M4NpF3nfzYn6huDfKMeV3Pg/8HmUnTWAWnbTmjRXFL+Kj4QtfQoSzkrYRHvoo7x0oSGI/J1em2hJmBakmy47iqhhv1C55ruNiI/j+9lHqTB8Czn5gmpDTROb8+dRXs0w/lXD35JvrRfCKwUKHI6tJNcNUYLGkAWdR4jDM/Oh8KV/agwMJq0yjZgDFWykEVV8Q1Nmsl0uAXW75bSAOky6yvGVRWNECPJToBNOOAbVUJ+uHN8TaATzYCcPesz6zval5smGkk=;ByALWlqUWPRSb7IUBHuirg=="
+secured: "JwxYmz3seT/fsqMjqQdUpshG36SS0nTcA8Rf2tM35kCAGRNVt9aHXBJZBQy0J6KAy+KXCmFg5nXeTkyCxmRxg6GTTuGxZKhm/T4UnKS/6RKpizj8INty7JP53n6RxHbjHAtmsuIyl+bVyupHmUnuqjpRz6YHsjl6fDAsjnmq4ZzAbCS/K6wBla9NomTsZ3HDHyh8x4ZyYYHu7I2v5873aExbv5BHGwwksAFKO45LGP08AdC10xhKARKHmrA/cPE+1GyQmZUWiPFpeVLZ9HKo7loA27+UIdUedCD7vV0xGqnMU//3gRW8aYqtDZy96a48w9AstjaH6iYbI0oWIzTf3lZeyZumctjNwn6yXczrJQo=;U/2Qzp+GYTkn47nWbkRLMA=="
 ---
 
