@@ -2,6 +2,83 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-26-lightning-to-lightbulb-accelerating-canadas-ai-opportunity.md",
+      "title": "Lightning to lightbulb: accelerating Canada’s AI opportunity",
+      "excerpt": "From quantum neural networks and automated machine learning (AutoML), to AI for drug discovery and natural language processing, the path to future innovations and commercialization is charted by a small subset of the global technology talent pool ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/YNREtAct2uvFmaer5Dezrd-yiMg=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X6IVKDUQCVEQXO2OXMQPBGZNQU.JPG",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
+      "publishedDateTime": "2021-03-25T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-nutanix-recognized-as-a-gartner-peer-insights-customers-choice-vendor-for-distributed-file-systems-and-object-storage.md",
+      "title": "Nutanix Recognized as a Gartner Peer Insights Customers’ Choice Vendor for Distributed File Systems and Object Storage",
+      "excerpt": "“To us, being recognized as a Gartner Peer Insights Customers’ Choice for Distributed File Systems and Object Storage shows the strengths of our solutions and the value they provide to customers.” This Customers’ Choice recognition is based on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210325005301/en/Nutanix-Recognized-as-a-Gartner-Peer-Insights-Customers’-Choice-Vendor-for-Distributed-File-Systems-and-Object-Storage",
+      "originalUrl": "https://www.businesswire.com/news/home/20210325005301/en/Nutanix-Recognized-as-a-Gartner-Peer-Insights-Customers’-Choice-Vendor-for-Distributed-File-Systems-and-Object-Storage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-darpa-seeks-to-improve-computer-vision-in-third-wave-of-ai-research.md",
       "title": "DARPA Seeks to Improve Computer Vision in ‘Third Wave’ of AI Research",
       "excerpt": "The advanced research office is preparing a solicitation for novel research into In Pixel Intelligent Processing as the next breakthrough in artificial intelligence.",
@@ -1102,100 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-blackskys-latest-satellite-delivers-first-pictures-and-ai-insights-just-hours-after-launch.md",
-      "title": "BlackSky’s latest satellite delivers first pictures (and AI insights) just hours after launch",
-      "excerpt": "BlackSky says the latest Earth observation satellite in its growing constellation delivered its first imagery less than a day after it was launched into orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "originalUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Perth-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "publishedDateTime": "2021-03-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform.md",
-      "title": "Enova Announces Acquisition of Pangea Universal Holdings, a Next-Generation Payments Platform",
-      "excerpt": "CHICAGO, March 19, 2021 /PRNewswire/ -- Enova International (NYSE: ENVA), a leading financial technology company powered by machine learning ... money transfer services. This acquisition brings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform-301251008.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/enova-announces-acquisition-of-pangea-universal-holdings-a-next-generation-payments-platform-301251008.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/173006/enova_international_logo.jpg?p=facebook",
-          "width": 1144,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

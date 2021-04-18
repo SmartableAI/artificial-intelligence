@@ -2,6 +2,100 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-29-ai-could-help-advertisers-recover-from-loss-of-third-party-cookies.md",
+      "title": "AI could help advertisers recover from loss of third-party cookies",
+      "excerpt": "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "originalUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
+      "publishedDateTime": "2021-03-28T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-how-artificial-intelligence-is-transforming-manufacturing.md",
+      "title": "How artificial intelligence is transforming manufacturing",
+      "excerpt": "Artificial intelligence can ingest a combination of data from sensors, machines, and people and then apply it to algorithms designed to optimize operations or achieve lights out manufacturing. Back in reality, we have some time before leading organizations achieve this pinnacle state of manufacturing, let alone the industry as a whole.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "originalUrl": "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=UK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2018/07/14113823/Depositphotos_75453425_l-2015-375x214.jpg",
+          "width": 375,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-how-stellantis-will-tackle-its-electric-future.md",
       "title": "How Stellantis will tackle its electric future",
       "excerpt": "Waymo agreed to work exclusively with FCA on level-four ... \"It's about making sure that we scale up in the way we use the data and the way we use artificial intelligence,\" Tavares said. For now, Jeep is leading the way for the company in rolling out ...",
@@ -1086,110 +1180,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-improve-siri.md",
-      "title": "Report: Apple’s been snapping up AI firms to improve Siri",
-      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
-      "publishedDateTime": "2021-03-26T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
-      "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/monsterhunterswitch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "publishedDateTime": "2021-03-26T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

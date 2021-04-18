@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14"
 type: article
 quality: 83
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
         width: 800
         height: 530
-        isCached: true
-  - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
-    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
-    publishedDateTime: 2021-04-13T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-2021-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"

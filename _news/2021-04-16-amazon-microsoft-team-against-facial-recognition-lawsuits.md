@@ -45,22 +45,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
-    excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
-    publishedDateTime: 2021-04-13T12:00:00Z
-    webUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/"
-    ampWebUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
-    images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Why Microsoft’s new AI acquisition is a big deal"
     excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
     publishedDateTime: 2021-04-17T17:25:00Z

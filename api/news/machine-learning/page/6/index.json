@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
+      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
+      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-assessing-regulatory-fairness-through-machine-learning.md",
       "title": "Assessing regulatory fairness through machine learning",
       "excerpt": "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators.",
@@ -1374,59 +1427,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle.md",
-      "title": "Machine Learning Can Help The Insurance Industry Throughout The Process Lifecycle",
-      "excerpt": "Not all insurance is alike. Life insurance and automobile insurance are not (as far as I know) the same thing. There are many similar processes, but data and numerous flows can be different. Machine learning (ML) is being applied to multiple aspects of insurance practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
-      "publishedDateTime": "2021-03-02T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

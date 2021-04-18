@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C01MU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C01MU"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova raises $676M to mass-produce AI training and inference chips"
-    excerpt: "On the software side of the equation, SambaNova has its own graph optimizer and compiler, letting customers using machine learning frameworks like PyTorch and TensorFlow have their workloads ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
     excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
     publishedDateTime: 2021-04-14T17:56:00Z
@@ -79,6 +63,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "'We are the best-funded AI startup,’ says SambaNova co-founder Olukotun following SoftBank, Intel infusion"
+    excerpt: "and the Intel Capital arm of chip giant Intel. The new funding round brings the company's total investment to date to over $1 billion. The company is now valued at more than $5 billion. \"With this $676 million, we are the best-funded AI startup,\" said ..."
+    publishedDateTime: 2021-04-13T14:20:00Z
+    webUrl: "https://www.zdnet.com/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/13/1fabbe95-5e82-4d47-824c-55f6b881ad84/kunle-sambanova-april-2021.jpg"
+        width: 1396
+        height: 794
+        isCached: true
   - title: "AI chip maker SambaNova raises US$676 million"
     excerpt: "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised US$676 million in a funding round led by SoftBank Group Corp's Vision Fund 2."
     publishedDateTime: 2021-04-14T00:29:00Z
@@ -106,20 +106,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg"
         width: 877
         height: 461
-        isCached: true
-  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
-    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
-        width: 877
-        height: 583
         isCached: true
   - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
     excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
@@ -177,24 +163,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
-    excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."
-    publishedDateTime: 2021-04-13T12:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/13/sambanova-scores-676m-at-5b-valuation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
-  - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
-    excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "YoOb3Bze3BC3Qg5NG0ND95UglDXWaUwnRmM79d87KwSxYCJC6iQEFNIN2HEI1wWXSTfjNAjzHK6jO5TDkfepqPa9pvlzmFXKoIcqYnCCSK8IMqSo7Y8B0FHsxH9ftQcczZ9I3Zq7WwBCZh6Z+IT+jxl4UH/Anscgp4WJ5Dpjmwg+PThrv7OwpIwT7fKA0CbJkd4h5q5Z/1gvnOEjP/imhOkXZRdV3KEV78y+QB5i1hw3aHReoHSy+l4sNIISGgGbLQgebObK1ct+Mo40kV/nmh40fihtuyEeWuF51klWIs76O8SlDhu1RNCxRc9k7roRD9uv92ykCBkFGLz+DWmY4Ly+lw6oaFRgxKqt8OWCT2ohbBHYSMTew2H5eW/IpJggJoHxcQpe9HVC5QnG/MN4YV0Rc9Y8LVWypSA42yI5kjmAwczD83Z/Azrhf/GK3I2ozV6k12/10F17FbghTOWAgvKwS9oFN4HEC6zq3kC62RoGO7hLpa6YjyN2KtWF/uBTZrSgUY2ZGu41Mwb6gJXo8A==;A8+nsC8XchZuKuJTUjI+AQ=="
 ---

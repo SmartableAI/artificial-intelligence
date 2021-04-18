@@ -39,20 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Big Tech Moves Deeper Into Health Care"
-    excerpt: "Microsoft buys a speech recognition and artificial intelligence company that could help it make medical record keeping easier. Amazon does more hiring of medical experts."
-    publishedDateTime: 2021-04-13T12:47:00Z
-    webUrl: "https://khn.org/morning-breakout/big-tech-moves-deeper-into-health-care/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 24
-    images:
-      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
-        width: 2700
-        height: 1800
-        isCached: true
   - title: "Anthem, Blackstone, digital health startup K Health launch joint venture to curb costs"
     excerpt: "Anthem first tapped K Health for its AI technology in 2019, investing tens of millions of dollars in the platform in a bid to better triage care for its more than 40 million members. K Health's app allows consumers to screen medical needs past an AI ..."
     publishedDateTime: 2021-04-14T15:27:00Z

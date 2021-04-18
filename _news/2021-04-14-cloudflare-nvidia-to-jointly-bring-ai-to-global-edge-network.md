@@ -109,15 +109,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Nvidia unveils new AI processor for self-driving cars"
-    excerpt: "The system-on-chip (SoC) integrates AI and software with the latest in computing, networking and security, Nvidia said. Atlan will include new graphics processing unit (GPU) architecture, new Arm central processing unit (CPU) cores, as well as deep ..."
-    publishedDateTime: 2021-04-13T12:55:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 21
   - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
     excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
     publishedDateTime: 2021-04-13T18:42:00Z

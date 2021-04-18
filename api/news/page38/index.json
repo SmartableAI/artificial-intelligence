@@ -2,6 +2,110 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-03-19-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
+      "title": "UK Must Avoid Complacency And Seize AI Opportunity",
+      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the UK’s AI talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
+      "publishedDateTime": "2021-03-18T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify.md",
+      "title": "Explaining Bundesliga Match Facts xGoals using Amazon SageMaker Clarify",
+      "excerpt": "One of the most exciting AWS re:Invent 2020 announcements was a new Amazon SageMaker feature, purpose built to help detect bias in machine learning (ML) models and explain model predictions: Amazon SageMaker Clarify. In today’s world where predictions are made by ML algorithms at scale, it’s increasingly",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2433-13.png",
+          "width": 748,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:20:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
       "title": "Oracle is making its cloud databases easier to use",
       "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
@@ -1127,100 +1231,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path.md",
-      "title": "Docebo Strengthens Relationship With Amazon Web Services by Joining AWS ISV Partner Path",
-      "excerpt": "Docebo Inc. ('Docebo”) (Nasdaq:DCBO; TSX: DCBO), a leading artificial intelligence (AI)-powered learning platform announced today that it has",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry.md",
-      "title": "How This AI Startup Plans To Shake Up The Online Fashion Industry",
-      "excerpt": "Celebrating its 65th birthday this year, AI (artificial intelligence) is there to stay. This Dutch tech startup is an insightful example of how AI can be used to disrupt an industry and create an impact on people,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/",
-      "originalUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049ca82f8032bf0ffc586e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 823,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/amp/",
-      "publishedDateTime": "2021-03-18T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

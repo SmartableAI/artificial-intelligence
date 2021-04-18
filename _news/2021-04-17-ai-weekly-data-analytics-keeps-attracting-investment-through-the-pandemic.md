@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-
 webUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-attracting-investment-through-the-pandemic/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Evolv Technology Brings Data Analytics Capabilities to its AI-Enabled Touchless Security ..."
-    excerpt: "Evolv Technology, the leader in AI touchless security screening, today announced Evolv Insights™, a powerful SaaS-based analytics dashboard that provides security and operations professionals the ability to comprehensively review,"
-    publishedDateTime: 2021-04-13T12:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-sports-government-regulations-ownership-changes-5d10ec0c819a745b911e9ecfca385faf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
     excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
     publishedDateTime: 2021-04-16T19:21:00Z

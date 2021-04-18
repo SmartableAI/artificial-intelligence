@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SambaNova raises $676M to mass-produce AI training and inference chips"
-    excerpt: "On the software side of the equation, SambaNova has its own graph optimizer and compiler, letting customers using machine learning frameworks like PyTorch and TensorFlow have their workloads ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/"
-    ampWebUrl: "https://venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/sambanova-raises-over-600m-to-mass-produce-ai-chips-for-training-and-inference/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AI chip maker SambaNova raises $676 million, valued at over $5 billion"
     excerpt: "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ..."
     publishedDateTime: 2021-04-14T01:45:00Z
@@ -89,6 +73,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "'We are the best-funded AI startup,’ says SambaNova co-founder Olukotun following SoftBank, Intel infusion"
+    excerpt: "and the Intel Capital arm of chip giant Intel. The new funding round brings the company's total investment to date to over $1 billion. The company is now valued at more than $5 billion. \"With this $676 million, we are the best-funded AI startup,\" said ..."
+    publishedDateTime: 2021-04-13T14:20:00Z
+    webUrl: "https://www.zdnet.com/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 71
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/13/1fabbe95-5e82-4d47-824c-55f6b881ad84/kunle-sambanova-april-2021.jpg"
+        width: 1396
+        height: 794
+        isCached: true
   - title: "AI chip companies SambaNova and Groq raise $676m and $300m respectively"
     excerpt: "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn."
     publishedDateTime: 2021-04-15T18:32:00Z
@@ -102,20 +102,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg"
         width: 877
         height: 461
-        isCached: true
-  - title: "AI platform startup SambaNova Systems raises $676M in late-stage round"
-    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
-        width: 877
-        height: 583
         isCached: true
   - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
     excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
@@ -173,24 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI tech startup and Nvidia rival SambaNova scores $676M at $5B valuation"
-    excerpt: "The Palo Alto startup announced Tuesday that it raised $676 million in a new funding round. Investors valued the company, which offers custom AI chips and software, at $5 billion. “We’re here to revolutionize the AI market, and this round greatly accel ..."
-    publishedDateTime: 2021-04-13T12:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/04/13/sambanova-scores-676m-at-5b-valuation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
-  - title: "SambaNova Systems Raises $676M in Series D, Surpasses $5B Valuation and Becomes World’s Best-Funded AI Startup"
-    excerpt: "Now the best-funded AI systems and services platform startup in the world, SambaNova will use its latest injection to aggressively challenge legacy competitors as it continues to shatter the computational limits of AI hardware and software currently on the ..."
-    publishedDateTime: 2021-04-13T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-World’s-Best-Funded-AI-Startup"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "w+8HRKeTjZcdW41TKmuz31nHfd+kcc/p48xIYP071yiQZwHppikhXrgcFQiX0E3KPK5hkOoCfxkgFVTaZyG/9aCjlAqjQrEO3c/VhmI1qFTk0pDLzrjnQxqeQuV+VwNeLZyZwOJSnrnBXonWf0NfIm+Qqde6a4DFPLN8/P+6rVPAunimlRDB2CMoEDz8Ls4uEc0wRHRdffc7doPGFrNutqNg9lxEv3fXXM4T07NcqyuvJsM7rBRvMLgO/tMnKf3dMv9zDCsgJwHVQssZm7wp/3uoC/HqTAb+Mu7CZunE3Yw2FIEc3/WQkMJIQ6IAlxOw3WUoKuaQmsT4HsDART+j4pFHHK6CZcu141uc9M2MwVxzSojiadJ8aED8Uw1KqQ1EU+HwueS5YUaVzMscOJFQNs1bDUvukQRFUhO3kh2PQG45akNbQxima3FrjnkN0FD+Uz4TWTSEorK1Lo9NTx+WG1LeDZJcFUoO+Dbh1jktgcGhtnlntzzV4H0g3nh2mPAPpFKiZJuaRl7G2TRpqkDeFg==;ctqR6Pd772QUwTu60YUPxw=="
 ---

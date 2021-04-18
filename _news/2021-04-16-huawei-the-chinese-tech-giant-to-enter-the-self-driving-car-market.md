@@ -79,22 +79,6 @@ related:
         width: 479
         height: 271
         isCached: true
-  - title: "Huawei to invest one billion dollars for developing electric vehicle systems, self-driving tech"
-    excerpt: "Rotating chairman Eric Xu said Huawei planned to invest one billion dollars in the projects – in cooperation with major Chinese automakers – of systems for electric vehicles and cars that use artificial intelligence. It also planned to push ahead in ..."
-    publishedDateTime: 2021-04-13T12:48:00Z
-    webUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html"
-    ampWebUrl: "https://www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/huawei-to-invest-one-billion-dollars-for-developing-electric-vehicle-systems-self-driving-tech-9525101.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 32
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/04/huawei-to-invest-1-billion-in-electric-vehicle-systems-and-self-driving-tech.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Huawei to invest in electric cars and self-driving tech"
     excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
     publishedDateTime: 2021-04-16T11:00:00Z

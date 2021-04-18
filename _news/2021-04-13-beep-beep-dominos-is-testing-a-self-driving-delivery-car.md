@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eater.com/platform/amp/2021/4/13/22381880/dominos-tests-
 cdnAmpWebUrl: "https://www-eater-com.cdn.ampproject.org/c/s/www.eater.com/platform/amp/2021/4/13/22381880/dominos-tests-self-driving-delivery-vehicle-in-houston"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Houston, we have pizza: Domino’s and Nuro run self-driving delivery robots"
-    excerpt: "Pizza chain Domino's and self-driving robot develope Nuro are working together to deliver pizzas by, well, robot to select customers in Houston."
-    publishedDateTime: 2021-04-13T12:00:00Z
-    webUrl: "https://thenextweb.com/news/dominos-nuro-delivering-pizzas-self-driving-robots"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FDomino_Nuro_autonomous_pizza_delivery-1.jpg&signature=330b2deb7e37df21ee4633ce8b4f7a45"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Domino’s Is Testing Self-Driving Robots That Will Deliver You Your Pizza"
     excerpt: "Domino's is ready to change the pizza delivery game and they plan on doing it by rolling out one delivery robot at a time. Though the brand is already known for being a trendsetter with last year's film fest, their \"rain check registry\" for weddings that ..."
     publishedDateTime: 2021-04-13T17:19:00Z
@@ -85,20 +71,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Food-Delivery Robots Are Roaming the Streets of Miami"
-    excerpt: "Self-driving robots are now roaming the streets of Miami, delivering takeout orders to customers who opt for an automated driver instead of a human one. The robots are the result of a collaboration between Miami-based Reef Technology,"
-    publishedDateTime: 2021-04-13T12:00:00Z
-    webUrl: "https://www.miaminewtimes.com/restaurants/reef-technology-and-cartken-team-up-in-miami-to-provide-robot-food-delivery-12069271"
-    type: article
-    provider:
-      name: Miami New Times
-      domain: miaminewtimes.com
-    quality: 39
-    images:
-      - url: "https://images1.miaminewtimes.com/imager/u/original/12102751/img_1770.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dominos is Delivering Pizzas in Houston Using Small Autonomous Vehicles Built by Silicon Valley Startup Nuro"
     excerpt: "One company working on autonomous delivery is Silicon Valley startup Nuro. The company announced this week ... Nuro's team includes experts in robotics, AI and autonomous vehicles. Many of Nuro's employees previously worked on autonomous driving projects ..."
     publishedDateTime: 2021-04-13T21:35:00Z
@@ -113,15 +85,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Video: 35,000 self-driving delivery vans coming by 2028"
-    excerpt: "Mobileye, a division of Intel, and Udelv, a self-driving shuttle startup, are working together to produce more than 35,000 autonomous delivery vehicles by 2028. Mobileye’s self-driving system, Mobileye Drive,"
-    publishedDateTime: 2021-04-13T12:50:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16580/video-35-000-self-driving-delivery-vans-coming-by-2028"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "gafZpp0ug7O+9KupmL4slcPR9Y4kvTn4DZmsvg8olkuaChkqILemb4s2CpENP7kKo6aiBMU/HPIgbUP3FDLuwpAi5y0vsz5jFrvIfCV+tv+OEggYPFldKgj5aGSVqDMNzXhF5wxxUgfTf/UGGlR40ox18odNzzbs4ifYQq+4SpoddfPql8tZ+jzVrcIQz5BKcfsWEoRWgz4W0tAPVFMeeHg4r/dJmFAVJ87X1duWDRIgX2htG30UDceY64Sbsp4FjJbVeTihMLFa/zqe/Wk9CRk+jEB1mOQDKebTzrdstUPOwKDNlDvC0RsFqF1vNV9h+oCqelD2w4QIRxIcpjNOfYK8dlNRA2c2o8LO33WmTeOjyvvf1IQIUotvPKP5u2ITXCDVcfqT2dHWdbNhtHbkzZVpHOmFrqVjjKBc1dMbFnZAaLGO3JK/ED/E0dsvHTDTycjf4sBz5iSytUcwk0UaEnDx/5zHWQQRSPMjA4A3y2Vi5Oboc1WA/i/jVleVUGTM5nZXYseD0COraG8Lmo/yKg==;6J61VAh3i/d0Z7JNEAASuw=="
 ---

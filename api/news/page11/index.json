@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-08-30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19.md",
+      "title": "30 Under 30 Europe 2021: Changing The World From Artificial Intelligence To Covid-19",
+      "excerpt": "Brinkmann is just one of the many entrepreneurs and scientists on this year’s Forbes 30 Under 30 Europe: Healthcare and Science list. These researchers, innovators and business leaders are changing the world with everything from new cancer treatments to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b91b7ac889ee96a51d99b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3240%26cropY1%3D0%26cropY2%3D1823",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leahrosenbaum/2021/04/07/30-under-30-europe-2021-changing-the-world-from-artificial-intelligence-to-covid-19/amp/",
+      "publishedDateTime": "2021-04-07T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-fintech-avant-snaps-up-zero-financial-and-digital-banking-app-level.md",
+      "title": "FinTech Avant Snaps Up Zero Financial And Digital Banking App Level",
+      "excerpt": "FinTech Avant, which works to give underserved consumers access ... Avant uses an infrastructure consisting of artificial intelligence (AI) capabilities and customer insights, which are used to deliver personalized experiences, according to the release.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/shutterstock_628843823-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/fintech-avant-snaps-up-zero-financial-digital-banking-app-level/amp/",
+      "publishedDateTime": "2021-04-07T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-googles-ai-software-used-to-create-new-nirvana-song-drowned-in-the-sun.md",
       "title": "Google's AI software used to create 'new' Nirvana song 'Drowned in the Sun'",
       "excerpt": "Fans of Nirvana may do a double-take when they hear 'Drowned in the Sun,' a new song created by artificial intelligence that simulates the songwriting of late grunge legend Kurt Cobain. Engineers fed Nirvana's back catalog to Google's AI program, Magenta ...",
@@ -1149,83 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
-      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
-      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
-      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo.md",
-      "title": "Self-driving truck startup TuSimple eyes over $8 billion valuation in U.S. IPO",
-      "excerpt": "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO).",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4",
-      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp",
-      "publishedDateTime": "2021-04-07T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

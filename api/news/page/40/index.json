@@ -2,6 +2,92 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-17-proven-arabia-launches-ai-and-robotics-centered-new-tech-start-up.md",
+      "title": "Proven Arabia launches AI and robotics-centered new tech start-up",
+      "excerpt": "Proven Arabia’s technology solution start-up will cement the success ... as service providers for their humanoid robots. Proven Solution focuses on creating tailor-made applications for specific industries, which includes AI conversational, retail ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Proven_Arabia_launches_AI_and_roboticscentered_new_tech_startup-SNG_204512885/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Proven_Arabia_launches_AI_and_roboticscentered_new_tech_startup-SNG_204512885/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_204512885/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_204512885/",
+      "publishedDateTime": "2021-03-17T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-octoml-raises-28m-for-machine-learning-deployment-optimization.md",
+      "title": "OctoML raises $28M for machine learning deployment optimization",
+      "excerpt": "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "publishedDateTime": "2021-03-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021.md",
       "title": "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021",
       "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends.",
@@ -1048,110 +1134,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-empathetic-robots-are-killing-off-the-worlds-call-center-industry.md",
-      "title": "Empathetic Robots Are Killing Off the World’s Call-Center Industry",
-      "excerpt": "Some local industry executives insist the situation isn’t as dire as many predict. AI is a long way from replacing humans for more complicated voice calls or chats, says Jonatha",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVvrWAi0HgA/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms.md",
-      "title": "Microsoft’s Percept Precept: Industrial IoT Shifts From Solutions To Platforms",
-      "excerpt": "I’ve often said that developing industrial IoT solutions is like building Ikea furniture with some parts missing and without instructions. Roanne Sones confirmed this view in her “AI to the Edge” Ignite presentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605105b7b442462894296780%2F0x0.png",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "publishedDateTime": "2021-03-16T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

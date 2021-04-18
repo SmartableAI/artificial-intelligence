@@ -58,22 +58,6 @@ related:
         width: 927
         height: 626
         isCached: true
-  - title: "Microsoft Makes a $16 Billion Entry Into Health Care AI"
-    excerpt: "The company plans to buy Nuance, a speech-recognition firm that grasps the specialized language of medicine—tech that won’t be easy for others to replicate."
-    publishedDateTime: 2021-04-13T12:00:00Z
-    webUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/"
-    ampWebUrl: "https://www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/microsoft-dollar16-billion-entry-health-care-ai/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
-    images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Why Microsoft’s new AI acquisition is a big deal"
     excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
     publishedDateTime: 2021-04-17T17:25:00Z
@@ -462,6 +446,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "oYgvPjrEUcF/ncmm2rl+1sEbYF11AnjhQHjyBo24+D96GFNqWdkCGB8mdkWnNEN9rLfi7EDSkJiIXUjp7uU/RvnQ4FGoS9L6aS8OY3DstUK1UGBeR0+FmgWhWo5runa6/rLF3r2rGt1J8hcTs8Q5CufYf65UpNa1bRIvUOE2ryx0lOOGZESBsEZW5v5xWtEBzJWTTC3ndKSZgrp/7THR+566QSyfnc6qGCMbluRIJM41mpImmNljqy2BROeYwHyV4jZer+Mjuq4PS4v74e+YJDF8U/SLm+Ad5QVlw1jeJq/mxQ2BDzWLTSokLtyakbIRe9S36ign3vlvJKfY80U7HUDtVEYRB428OvNGlLe2IXY=;7jZO865Yb9zb1LlapTuOVw=="
+secured: "XQsT2YoyNhHaU/COSSoHqjhFIA0lcNP8IeMcooW9j0NcFATs/M/jXMzvQGhMWXs8qMIMoy63HuLdqCC1993PY3J3qDXkIzQcZNYvSqIR8u8t8BAvCf9AXPepx68Cd8wujc3u4jxLgc/3C8t3vPomV5O0wpVraqf16VEKbRzvU7slIknrJBSqwQ3ge3b3g1OSOxn4mHlN5H5bfG7Dqk/VQPvV7rknGI69uh1Yp4BrQ18VxamKgHIDL5KsHeoSq8YL4R+8r4sr32N1vw0vk4BzBuspxxUxdsM6QCoeoQnYltGGOggpCH1hyy6lYhg4/5NUUjF8HfGKmnRQBCvDfPPm/dtZTnRZtB+zkHjkQ63yN17TAbS3kv1tzq9swcFyapCwKVyLnoaNjeVgycWdKNlAIZVV9H8aLEo0H+1Pvow8Sk85g/7s0LWx71dJhGrXOKxQEKlou/W7pTObULMyCJz4Bg0gt0iIs1PV8ETULIS52Mk28VgaQRckeX5kL/CpBUlXuS9Be1I81u8pTPCYXnmW7A==;TZJD5ZnGZ0hIGcL3SNziAA=="
 ---
 

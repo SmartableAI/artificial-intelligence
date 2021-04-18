@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Evolv Technology Brings Data Analytics Capabilities to its AI-Enabled Touchless Security ..."
-    excerpt: "Evolv Technology, the leader in AI touchless security screening, today announced Evolv Insights™, a powerful SaaS-based analytics dashboard that provides security and operations professionals the ability to comprehensively review,"
-    publishedDateTime: 2021-04-13T12:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-sports-government-regulations-ownership-changes-5d10ec0c819a745b911e9ecfca385faf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 43
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
     excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
     publishedDateTime: 2021-04-14T08:30:00Z

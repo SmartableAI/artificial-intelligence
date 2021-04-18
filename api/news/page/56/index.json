@@ -2,6 +2,110 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-03-04-fintech-tools-to-help-you-master-money-mindfulness-in-2021.md",
+      "title": "Fintech Tools To Help You Master Money Mindfulness In 2021",
+      "excerpt": "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
+      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg",
+          "width": 660,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
+      "publishedDateTime": "2021-03-04T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
+      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
+      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-amazons-amzn-aws-selected-by-tour-strengthens-clientele.md",
       "title": "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele",
       "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services.",
@@ -1033,110 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel",
-      "excerpt": "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T19:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
-      "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
-      "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
-      "originalUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "publishedDateTime": "2021-03-03T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

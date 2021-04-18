@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-cruise-raises
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
 type: article
 quality: 167
-heat: 327
+heat: 317
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip maker SambaNova raises $676 mln, valued at over $5 bln"
-    excerpt: "April 13 (Reuters) - SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised $676 million in a funding round led by SoftBank Group Corp’s Vision Fund 2."
-    publishedDateTime: 2021-04-13T12:01:00Z
-    webUrl: "https://www.reuters.com/article/semiconductors-sambanova-funding-idUSL1N2M52MG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2M52MG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52MG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558282343&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C0TL"
-        width: 363
-        height: 545
-        isCached: true
   - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
     excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
     publishedDateTime: 2021-04-15T18:54:00Z

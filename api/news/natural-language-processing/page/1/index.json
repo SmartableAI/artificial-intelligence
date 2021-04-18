@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techrepublic.com/article/nvidia-and-cloudflare-offer-ai-to-all-developers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -407,19 +407,19 @@
     {
       "path": "_news/2021-04-08-lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
       "title": "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
-      "excerpt": "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,",
+      "excerpt": "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301264884.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301264884.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b7/db708ba3-1458-55de-9a2c-4d92c1bb0f9e/604f57701b5f3.image.jpg?resize=800%2C286",
-          "width": 800,
-          "height": 286,
+          "url": "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook",
+          "width": 797,
+          "height": 419,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -429,11 +429,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T06:00:00-07:00",
+      "publishedDateTime": "2021-04-08T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

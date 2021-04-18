@@ -118,15 +118,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Nvidia unveils new AI processor for self-driving cars"
-    excerpt: "The system-on-chip (SoC) integrates AI and software with the latest in computing, networking and security, Nvidia said. Atlan will include new graphics processing unit (GPU) architecture, new Arm central processing unit (CPU) cores, as well as deep ..."
-    publishedDateTime: 2021-04-13T12:55:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16583/nvidia-unveils-new-ai-processor-for-self-driving-cars"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 21
 
 secured: "hlNW0kFgYwK4VJlYy55VA/KxjtvvHUjJMnXXrYJXEaADd3uUvRkACBEefbZT42rVOBpS0cnyz87rlPH8GxT5P/Dku4NT1+AekyLB54vQo2jSSSjLWZB1iO7+B/UR1VGgNK8CTzMuM1cOB8kPRE85LaNGJqAHQbteYqP1HX4AztjPNKjd+ZIF0cd1ZVCWD0ZQXCmwXGuyNHxKe9f1FSEwmZFzBcdlUhJDvzjyhJKInKeoT71U0dHT5eiSPVrdVQLZKWq7cJ8KmPamsfiOAjdojqnin9jhW3nGtCEshe/hqparYrqWyIR5uD1895L4mPLGIPMwUV5xFCS6+qLO6UmPJG7f3MXf2RO2McVmygG4b/UNDogqVBkzFMjBQvEptwLsVfOG/43i5FtKv9yzFYU9YTdn/ZnerGcdumK1iWoiFDpWKPBNLfF97Hv+Q2f+47aFo1eQ6+yFFxmq8TV7GBJbUiWCMFdXqanQ/hQyfNCfBK28k/BoMOk03io0cxhh/uu6uip3cGjXPJ2nWJuptjc/ew==;tpAvBYyHFWuE16knzqfZ3A=="
 ---
