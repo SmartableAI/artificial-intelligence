@@ -43,20 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "HawkEye 360 uses Amazon SageMaker Autopilot to streamline machine learning model development for maritime vessel risk assessment"
-    excerpt: "This post is cowritten by Ian Avilez and Tim Pavlick from HawkEye 360. HawkEye 360 is a commercial radio frequency (RF) satellite constellation data analytics provider. Our signals of interest include very high frequency (VHF) push-to-talk radios, maritime radar systems, AIS beacons, satellite mobile"
-    publishedDateTime: 2021-04-13T21:14:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/hawkeye-360-uses-amazon-sagemaker-autopilot-to-streamline-machine-learning-model-development-for-maritime-vessel-risk-assessment/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/21/1-Graphic-Updated.jpg"
-        width: 800
-        height: 432
-        isCached: true
 
 secured: "l/du1OpKE5izKytcEH5FvSFgA6qX7Mb0Vqnpt7A9OSi+3vPtk3rGrPIInvRNGl9J+tPL/jooal+85UB0QaEU/4FLLOBuUwIPWpZ0K6F21sZ1xlqcodpv3UyHv09R8DDIeModoq3g8DhWprbl3bBtWq6CtC0VoiGuqGOM0GomZe8LO7h8wgrqUcjPSFux0zVlji7chmsZs6hREpkXVF/MFPc9IJbnMhBkQNoicn2j9FlNQacuc6Q1nVC5rJl1J/7RKzZYjw/+yy6gZtAAzJT76ydPMH/zzk8HI1RhPb0QNSR4xMX4LHZPTwRPywXbAh3fkSoPbz9GXheYr1o05HH2Gan6l3i7WoY9z5PfHAdr3Yw=;tE3FiLaUbjoUt4yq1gTWOQ=="
 ---

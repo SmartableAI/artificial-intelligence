@@ -2,6 +2,57 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-05-apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19.md",
+      "title": "Apps, drone deliveries and AI: How technology stepped up its game to fight COVID-19",
+      "excerpt": "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "originalUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/04/10af9e08-4564-4dc6-bd8c-6cd04a69a9d3/cdei-repository-breakdown-by-sector.png",
+          "width": 1032,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "publishedDateTime": "2021-03-05T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-meet-the-ai-algorithms-that-judge-how-beautiful-you-are.md",
       "title": "Meet the AI algorithms that judge how beautiful you are",
       "excerpt": "Companies working on such technologies are a darling of venture capital, and such algorithms are used in everything from online cosmetic sales to dating apps. These beauty scoring tools, readily available for purchase online,",
@@ -1154,49 +1205,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-singapore-academy-of-law-considers-the-impact-of-robotics-and-artificial-intelligence-on-the-law.md",
-      "title": "Singapore Academy of Law Considers the Impact of Robotics and Artificial Intelligence on the Law",
-      "excerpt": "The Law Reform Committee (LRC) of the Singapore Academy of Law (SAL) established a Subcommittee on Robotics and Artificial Intelligence to consider and make recommendations regarding the application o",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
-      "originalUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
-      "publishedDateTime": "2021-03-04T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

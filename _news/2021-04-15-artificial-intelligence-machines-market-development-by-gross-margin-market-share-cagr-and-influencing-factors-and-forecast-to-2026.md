@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-04-14T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Size, Growth, Manufacturers Segments and Forecast 2025 | Says Kenneth Research"
     excerpt: "Apr 14, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Natural Language Processing Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
     publishedDateTime: 2021-04-14T06:28:00Z

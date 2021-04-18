@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
+      "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
+      "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "publishedDateTime": "2021-04-12T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-how-iot-and-artificial-intelligence-are-the-perfect-partners-to-boost-business-productivity.md",
       "title": "How IoT And Artificial Intelligence Are the Perfect Partners To Boost Business Productivity",
       "excerpt": "Thanks to the Internet-of-Things (IoT) and Artificial intelligence (AI) which has transformed the business world by storm. Indeed, they have made businesses less dependent on humans and more dependent on machines. The result is ultimately auspicious!",
@@ -1185,58 +1237,6 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
-      "publishedDateTime": "2021-04-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-launches-jarvis-conversational-ai-framework-in-general-availability.md",
-      "title": "Nvidia launches Jarvis conversational AI framework in general availability",
-      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. At its GTC 2021, Nvidia this morning announced the general availability of its Jarvis framework, which provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/8a5f192d-10ec-43eb-9c61-acb8418ac2c6.png?w=800&resize=800%2C390&strip=all",
-          "width": 800,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
       "publishedDateTime": "2021-04-12T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {

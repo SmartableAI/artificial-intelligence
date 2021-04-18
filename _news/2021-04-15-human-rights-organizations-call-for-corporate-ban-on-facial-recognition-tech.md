@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Narita airport starts facial recognition trial for faster travel"
-    excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
-    publishedDateTime: 2021-04-13T21:40:00Z
-    webUrl: "https://japantoday.com/category/national/narita-airport-starts-facial-recognition-trial-run-for-faster-travel"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
   - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
     excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
     publishedDateTime: 2021-04-16T22:54:00Z

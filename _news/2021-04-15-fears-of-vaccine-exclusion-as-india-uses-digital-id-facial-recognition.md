@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -100,22 +100,6 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
-    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
-    publishedDateTime: 2021-04-13T22:23:00Z
-    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
-    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 39
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
-        width: 880
-        height: 542
         isCached: true
 
 secured: "zkg3jZj5kxEOBRPgPvHqbBg/1PUiIQR52vH7pMdidH4eRHjigDJaPFrnnCu6uhhSdXQHQzPDboateJk5HHtXF3Ec72qwjv1N8AqXrmlhYCImuXPjKqCEhWgVohFywPN1FOA+qMQjmX78uM9XVGxkkQn4UvphLG5x2rLC7SNQ3H7baKFFU32FguakdnVhExS4e2cOpkRvFUpx9rlIut+NN0k88tHG3/kvSi0WxGO4Wvz29uAwnDp8EYpWO0DeJv2xD9URPOWLz25PB9hDndRDpo2vJ13dwRiURLiDW4MVuAlsqLtx3B1OCDtbXZxg8OUUl6WVfk+Duz80Uh93PnPuy+WT8/oOaPEZvVroTvHmu3c=;E/s/4r4/2MBQd1jaT8g7Yw=="

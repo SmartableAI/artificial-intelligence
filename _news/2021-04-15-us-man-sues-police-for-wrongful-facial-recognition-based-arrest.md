@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
-    excerpt: "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ..."
-    publishedDateTime: 2021-04-13T21:28:00Z
-    webUrl: "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wCFXwvsznnVpAgTx6vphHBWds9w=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69121480/acastro_180730_1777_facial_recognition_0002.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Man Sues Detroit Police After Facial Recognition Error"
     excerpt: "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ..."
     publishedDateTime: 2021-04-14T15:46:00Z
@@ -85,22 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Man mistaken for shoplifter through facial recognition technology sues Detroit"
-    excerpt: "DETROIT (AP) — A Black man who was arrested when facial recognition technology mistakenly identified him as a suspected shoplifter is suing Detroit police. Robert Williams of Farmington Hills is seeking compensation for the humiliating incident and ..."
-    publishedDateTime: 2021-04-13T22:26:00Z
-    webUrl: "https://www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit"
-    ampWebUrl: "https://www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 55
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e218c58/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2015%2F10%2F05%2FGettyImages-84611044_1444057759686_24781005_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
     excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
     publishedDateTime: 2021-04-13T23:25:00Z
@@ -116,22 +84,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Black Michigan man sues police after grainy facial recognition system mistakenly identified him as a shoplifter"
-    excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
-    publishedDateTime: 2021-04-13T21:35:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9467525/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/13/21/41718256-0-image-a-42_1618346556399.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
     excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."
@@ -181,21 +133,21 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Black man sues police after facial recognition mistakenly identified him as a suspected shoplifter"
-    excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
-    publishedDateTime: 2021-04-13T21:35:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9467525/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
+  - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
+    excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."
+    publishedDateTime: 2021-04-14T05:34:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-get-advice-around-use-facial-recognition-technology-two-leading-researchers"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 46
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/13/21/41718256-0-image-a-42_1618346556399.jpg"
-        width: 636
-        height: 382
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/12/07/CCTV_is.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
         isCached: true
   - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
     excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
@@ -235,6 +187,31 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
+    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
+    publishedDateTime: 2021-04-13T23:12:00Z
+    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 38
+  - title: "State surveillance body cautions over police facial recognition technology"
+    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
+    publishedDateTime: 2021-04-15T22:42:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 37
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
     excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
     publishedDateTime: 2021-04-14T15:07:00Z
@@ -290,20 +267,6 @@ related:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
-    excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
-    publishedDateTime: 2021-04-13T22:08:00Z
-    webUrl: "https://www.aclu.org/press-releases/michigan-father-sues-detroit-police-department-wrongful-arrest-based-faulty-facial"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 18
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "soKtKyrbk97sZEcSYPQY5dhZ3qjDmmydlI8EzNQ3TK10s9OgjBL5l9Iad6uYSzAOTMYZL8wHPKYS8EJpYAhFCGWB0J8kTbvcWDv4owuN6siE2J/f7Xeyk8SRroS2baJB09vXIGzzJemZMQ0batdwg27DLDssq1X4eiMi4Qbfwh7Ict8YVntgJ6Te5uk9taiiWEgaZnfue+yy0PudVghSVqECXQRjkY7ouXZ/kb7zvIGxpbQx/DPnSSCPVYcL/I2aSHCBc9R05AHxkEXRg5nCzPyw1Fj9JzOeY84en14w8y+HgCqufoBsIBWGm06ZSa1kLhq0lQeygyrrrjhMna5eu7V1jC5PbMyAMWml0uIrmZzy/e/sMt+xLzIAkKKn0kkFwX8TRt1G1dpcfsaK80uYC8MBujjy+cOod4WP/XU2Fx7zPXzOY1V13/lrObtz5KO9DB+qoROE1TRakCniUP1s3+ca06zbj5qj7U8PKP6sZApMNKwTuvlwPOXwePasLXPIfy+GcsPsKK/H95KsdTXg7w==;H3VDbmjmhIo+yXxlwPoaHw=="

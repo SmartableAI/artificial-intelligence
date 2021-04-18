@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implement-checkpoint
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/"
 type: article
 quality: 132
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "HawkEye 360 uses Amazon SageMaker Autopilot to streamline machine learning model development for maritime vessel risk assessment"
-    excerpt: "This post is cowritten by Ian Avilez and Tim Pavlick from HawkEye 360. HawkEye 360 is a commercial radio frequency (RF) satellite constellation data analytics provider. Our signals of interest include very high frequency (VHF) push-to-talk radios, maritime radar systems, AIS beacons, satellite mobile"
-    publishedDateTime: 2021-04-13T21:14:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/hawkeye-360-uses-amazon-sagemaker-autopilot-to-streamline-machine-learning-model-development-for-maritime-vessel-risk-assessment/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/21/1-Graphic-Updated.jpg"
-        width: 800
-        height: 432
-        isCached: true
   - title: "Estimating 3D pose for athlete tracking using 2D videos and Amazon SageMaker Studio"
     excerpt: "In preparation for the upcoming Olympic Games, Intel&reg;, an American multinational corporation and one of the world’s largest technology companies, developed a concept around 3D Athlete Tracking (3DAT). 3DAT is a machine learning (ML) solution to create real-time digital models of athletes in competition"
     publishedDateTime: 2021-04-14T23:21:02Z

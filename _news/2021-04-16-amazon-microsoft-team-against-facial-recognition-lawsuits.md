@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 338
+heat: 328
 published: true
 
 provider:
@@ -209,20 +209,6 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
         width: 1024
         height: 666
-        isCached: true
-  - title: "What to know about Microsoft’s Azure cloud strategy"
-    excerpt: "The global coronavirus pandemic has validated Microsoft’s hybrid go-to-market strategy that recognises the cloud is not a one-size-fits-all solution and providers must meet customers where they are on their digital transformation journeys,"
-    publishedDateTime: 2021-04-13T22:45:00Z
-    webUrl: "https://www.crn.com.au/news/what-to-know-about-microsofts-azure-cloud-strategy-563319"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210414094154_iStock-471179856.jpg"
-        width: 1254
-        height: 836
         isCached: true
   - title: "Microsoft’s $20 billion AI deal will shake up how we work"
     excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."

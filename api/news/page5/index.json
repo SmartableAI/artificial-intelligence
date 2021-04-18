@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-13-go-beyond-traditional-data-to-feed-next-gen-ai.md",
+      "title": "Go Beyond Traditional Data To Feed Next-Gen AI",
+      "excerpt": "When AI was introduced to the business community, visions of how we could use it to meet customers’ needs came clearly into focus. And, with those visions, came the promise for AI to revolutionize customer experience. The acquisition and successful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075b5229baf302bb5901b2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/04/13/go-beyond-traditional-data-to-feed-next-gen-ai/amp/",
+      "publishedDateTime": "2021-04-13T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows.md",
       "title": "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows",
       "excerpt": "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint.",
@@ -1163,58 +1214,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
-      "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
-      "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "publishedDateTime": "2021-04-12T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-18-ibm-watson-announces-2021-women-leaders-in-ai-honorees.md",
+      "title": "IBM Watson announces 2021 Women Leaders in AI honorees",
+      "excerpt": "To build trustworthy, unbiased and useful AI for a diverse population, we need diverse leadership in AI development. But today women represent just 26% of the data and AI workforce, according to the World Economic Forum, and gains in leadership are stalling across the board. As reported on International",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/2021-Women-Leaders-in-AI.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T05:00:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-oracle-brings-autonomous-data-warehouse-to-the-rest-of-us.md",
       "title": "Oracle brings Autonomous Data Warehouse to the rest of us",
       "excerpt": "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery.",
@@ -1159,39 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-an-autonomous-debating-system.md",
-      "title": "An autonomous debating system",
-      "excerpt": "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a",
-      "originalUrl": "https://www.nature.com/articles/s41586-021-03215-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

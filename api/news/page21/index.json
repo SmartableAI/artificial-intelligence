@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-31-contactless-biometrics-technology-market-to-hit-3012-bn-by-2027.md",
+      "title": "Contactless Biometrics Technology Market to Hit $30.12 Bn By 2027",
+      "excerpt": "The global Contactless Biometrics Technology market size is expected to be worth around US$ 30.12 billion by 2027, according to a new report by Vision Research Reports. The global Contactless Biometrics Technology market size was valued at US$ 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/138989/contactless-biometrics-technology-market-to-hit/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/138989/contactless-biometrics-technology-market-to-hit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
       "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
       "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
@@ -1148,57 +1191,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-the-author-behind-arrival-doesnt-fear-ai-look-at-how-we-treat-animals.md",
-      "title": "The Author Behind ‘Arrival’ Doesn’t Fear AI. ‘Look at How We Treat Animals.’",
-      "excerpt": "Chiang doesn’t like to talk about himself. But he does like to talk about ideas. And so we do: We discuss the difference between magic and technology, why superheroes fight crime but ignore injustice,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/30/opinion/30ekshow-chiang-image/30ekshow-chiang-image-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/30/opinion/ezra-klein-podcast-ted-chiang.amp.html",
-      "publishedDateTime": "2021-03-30T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

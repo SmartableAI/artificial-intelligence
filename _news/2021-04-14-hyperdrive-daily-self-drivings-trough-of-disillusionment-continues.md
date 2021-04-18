@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-d
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://i1.wp.com/media.nbcsandiego.com/2019/09/GMAP_18330654522712.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2021-04-18T02:46:00Z
+    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "pUXkOO773+SJsU6PFzOXcwEMQ9ggVmdyQZYoKrHkiyiB1OI33d1VN6rxIR3cJH6Jqj10bNt+x6OiCo9BJpZicHzSiZ/7Rb7HVo0jOaxtcg1oyjITFaKzIFc/y4e17QsHQsXukRqrmREtnmetbVnKPzRHa9ZuN0NvZZ83xIyoIXrOYjqL2Who5FsoKJsJ7StDxk/ld/Zf+yCEDAJ4WWKfFOS+UG1MLLgyw23ej3VV2WkR4zpEq14Bs3JAjcIsNJ30yNsy/Ek/obufCU/lm9yhwSKg8Euza2ejj9RodG5dkbVJtuYwVO58LZ/tnjvr/nNcezrQwz6JaJ5wSZv+vFIDq30Hy++LJV4sq+kENk24+44wHXRj0JxI/eIm7IRnjWpiIddcMksRsXUDMfSXR5OfYW9AJkV3YK+Q2dSWNWFdYrz7UCtrvrfm+0qNeQREUBWGA4/HFkBi2UIqPnaCu8E3g7bKTpeeuvSLFahMGew3tfoqViQm0fh7hgZs34YGPunJE6LrEyfXuewwyGS8bFF5ww==;8co+93YdgjNJMq288dZOvg=="

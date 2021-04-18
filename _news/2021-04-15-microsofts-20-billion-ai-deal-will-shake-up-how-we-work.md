@@ -222,20 +222,6 @@ related:
         width: 1024
         height: 666
         isCached: true
-  - title: "What to know about Microsoft’s Azure cloud strategy"
-    excerpt: "The global coronavirus pandemic has validated Microsoft’s hybrid go-to-market strategy that recognises the cloud is not a one-size-fits-all solution and providers must meet customers where they are on their digital transformation journeys,"
-    publishedDateTime: 2021-04-13T22:45:00Z
-    webUrl: "https://www.crn.com.au/news/what-to-know-about-microsofts-azure-cloud-strategy-563319"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210414094154_iStock-471179856.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
     excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
     publishedDateTime: 2021-04-15T07:15:00Z

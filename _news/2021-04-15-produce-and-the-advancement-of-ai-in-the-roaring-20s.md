@@ -18,34 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Giant Oak brings security screening into the age of AI"
-    excerpt: "Company’s GOST technology enables organizations to screen individuals for a wide range of illicit activities Giant Oak's software-as-as-service security screening platform, known as GOST, was borne out of the need that arose for large-scale,"
-    publishedDateTime: 2021-04-13T21:29:00Z
-    webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
+  - title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
+    excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
+    publishedDateTime: 2021-04-14T05:57:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 56
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/bigstock_Man_Working_On_Laptop_Computer_360085990.607609cdb5704.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Strategy in the Artificial Age: Observations From Teaching an AI to Write a U.S. National Security Strategy"
-    excerpt: "In every iteration of the artificial strategy, the neural network deep writes that the strategic environment will have changed “significantly,” “markedly,” or “dramatically.” Likewise, prior national security strategies have had high levels of ..."
-    publishedDateTime: 2021-04-14T07:45:00Z
-    webUrl: "https://warontherocks.com/2021/04/strategy-in-the-artificial-age-observations-from-teaching-an-ai-to-write-a-u-s-national-security-strategy/"
-    type: article
-    provider:
-      name: War on the Rocks
-      domain: warontherocks.com
-    quality: 38
-    images:
-      - url: "https://warontherocks.com/wp-content/uploads/2021/04/210404-N-YA628-2309.jpg"
-        width: 1330
-        height: 850
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 24
 
 secured: "SAASRgQMvcYOw9xQYz5AtLYV4h4/I3rp0Oiz79UOO4U+35loh42XA7HhEYdkoah+Ys3wT4bc4pkhQD0pVsmxHZmfIbHKbcJTkMXIyhUQ281dy043WVzbcp+DqJD4+gR3EbRdH3GciE7bdneYLTyDva9UlXzbKvOrKCUiXvokpDw9nKKV63t1/GLRKx8uGJbBfGF+EZ9Wuipr/f/dwqSu8qmo0Fvnm8EmhU/13b6TyujF2DvRixomcVCrYtB/kTCuAWlMhBsVAlJXkAWvFR9qkwShrcXBKvIj2XDMZSg4K78Hhy9KQ5wQT0ikSWtgW7BnjvKjf5bsF9cIqo92UQY4dEA/udnDlZx6zYZMY6pv9Y0=;VMsuC18QCtxlVT8N3Ja9Dw=="
 ---

@@ -98,22 +98,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
-    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
-    publishedDateTime: 2021-04-13T22:23:00Z
-    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
-    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 39
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
-        width: 880
-        height: 542
-        isCached: true
 
 secured: "T8wuPCTN/Kuq1Aww6NOen1Pxsp1uR2an37QJdMM76UJyCSV13p5u2KnxIDirWQphRPmHK6gD7/QXy1Aq78BOM4sk2+1yIrY1Tm4655fimMNMjN/kGYwKf2mYcCMBU1Jsw2lLA7Nw+ewbM66KTFQbSz10gVC7LckrHWuV+G8iSuwQFbo87n9cnNQcKrcWRrbcd/dkH4rkTOWgfvxaY7nQT5XU1GQM3qF1BDFFM/4/vdy+dyzXMOdkyOtzix1MNtAxbJUjHFvkAQZ+CL2Orl0D8RxtC6Ic/hRVM/7ahRz38hl9N8awvXYTUyrQNTN3mjP7PmmxYRqM1xWp0Smgb4ub9c1naBEUkkQ3na48ZidEuwm+KyqGCne/KJmvuEk7Q641wQWZcC6j51n0eV4ZgNIpfhw2ZfL7SYI84+ujbQ6B9VWcmwIxCi5O03fF4wyde8C/XHMINiOltr7gGJBFprggcfXoEbTsa0XOf//YXDGKxXY4+GSKtFLq+6k4o0SvchJwS3fxMRNUjtBPSVmWyGtFlg==;zL8flVW6uq5cVlel5BM1Qw=="
 ---

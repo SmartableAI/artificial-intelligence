@@ -33,15 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Narita airport starts facial recognition trial for faster travel"
-    excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
-    publishedDateTime: 2021-04-13T21:40:00Z
-    webUrl: "https://japantoday.com/category/national/narita-airport-starts-facial-recognition-trial-run-for-faster-travel"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
 
 secured: "XVu/A2H4G21ZZNlcVK8j2W/WP+A1IpUXtGUrEhE5XnCK1mDjgM56Dv4+P/5p8F61Jew75YXd5WR/vkGYhf1z5lXM08zBZ4yVY6wGX4pwPPLjRNxOvPWJwNmq7RfWz+mlq/y/1iNe+xBXi9IfQ1IDhn+QWn0JZbcoRz4BPTUvEAbEDHeODnuW6hpRKnkf9rr8t4oX/AJ92piuSXDEnFtZm+moshsZQpEEFaDpGLRHBNJWmO8ziMbe48L24N/FqVL5NsxbrSxcPoe+SaI/pxYd0VSlvi8VOOK1Lgwb1FwIJOihqXrJBWEbWNHvOLIotbaYcbGF901MxSgSRCBJyC8HutXeGKEhEJCiedzAyz31oTMr1Ft6qR3ymgAXJkkTi0pWScGa+3W1IZHdDZvTJPQK5L5BwFkrbU1qGXozIrZ2nZHKnD7YoZefs4EtZQNsyrml2gQnwZ9B7ixKrcMCd8OJJ8gHntM+tniNvz0yVf3RD84wbT8SfvAhYEQZSPPHAbXZ2rhDDBB8kj586Wy46EtA+Q==;8aN6oyvYdy/Mze5moZl2OA=="
 ---

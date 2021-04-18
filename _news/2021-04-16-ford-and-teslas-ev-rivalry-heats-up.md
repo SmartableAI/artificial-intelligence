@@ -3,8 +3,8 @@ category: news
 title: "Ford And Tesla’s EV Rivalry Heats Up"
 excerpt: "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech."
 publishedDateTime: 2021-04-16T12:10:00Z
-originalUrl: "https://www.cmcmarkets.com/en-gb/opto/ford-and-teslas-ev-rivalry-heats-up"
-webUrl: "https://www.cmcmarkets.com/en-gb/opto/ford-and-teslas-ev-rivalry-heats-up"
+originalUrl: "https://www.cmcmarkets.com/en/opto/ford-and-teslas-ev-rivalry-heats-up"
+webUrl: "https://www.cmcmarkets.com/en/opto/ford-and-teslas-ev-rivalry-heats-up"
 type: article
 quality: 39
 heat: -1
@@ -95,6 +95,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "rp/pzF+SM9cZGrvsxQIZykMXm9+KDgmTIWAjigefTUddHpHoP8amg6yuEqjW9BNHZlJhCRA5kSbcXUH8GYdGbEWPHDg53+VI6Qk0xxvW/0gngXGKbXtrpDy7URp/jTEIEZCNllwPGhqNqGpe+DWVzderDlEf5VXP3H3CrAdfN9vZRh+AHNG2fct/C+RASfebKq8G/TKYeF/ZXDbkh3a7XK64Hgc6pXvsvICItbXr5S1i1qmiO1KdUzSmNMJiMY57pwLOeJSzOp4xDYdiXqFkwgZk0GkbNmQOxyxykiNHhnUD1Pbr3rC4GYxhXHVZFIEJfpzYxSnXRBXUCbVirbbJhxl96tC9lzk9qdrpl7L+ZKk=;mAFAdB1lHabEnpgVuYUO3w=="
+secured: "iMI4xq0nTQU+qgJgHyGTVsOq7Im7UaSnM68Sh/xAup91aThnWDS/Mm9i0nQ4VgtVHVjkYRa8ZGNkpw0bm07AF8aYlBBld49kLHjobRpy0FfIYi9NBCi9jlaJFvf9rUcDsjZBxU94oqsA+TYHl3kMdpaMvo86AS7nd/hn6j5L7r4qomZoYuaEFm3/PEMWlr63qKjUthjlTLpp4+4D/iMFMCm2x782QIyeFsQVRdu4Xz+CJKZu7MXSEYBzN6ue9zsuuLR08gCouWA9WYGExNxCSM9iTUUkwj3QzqOy5HvDF8xl2naCbI0OSC4eYAX1DUljuFc63MgXdqkSAULcaHg+pbqHwhd39Lfi8aeks1Jm07Y=;feYv5FtY0+Fu8iE4gsGpEg=="
 ---
 
