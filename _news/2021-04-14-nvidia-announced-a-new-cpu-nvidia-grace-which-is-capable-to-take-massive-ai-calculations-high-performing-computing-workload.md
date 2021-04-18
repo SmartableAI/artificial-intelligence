@@ -245,15 +245,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads"
-    excerpt: "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A"
-    publishedDateTime: 2021-04-13T05:40:00Z
-    webUrl: "https://www.businesswireindia.com/nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads-72475.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 17
 
 secured: "mnBws2IvZCfjwUGiLZMtHXRbN9bkH9qyr4iUtI67EJyiPcYjeo/3EWYR15W8FLmyPxKPq4pScO7jyEKR4BVIO+8Vlmy6IamftkSXBaZGLdvgtUNo3aQcBj2Kt7/sLMZjayFYbVhGoMf6HKtF17VJpvQUfivfNfL+tdrqPlNiC/KE0/yJG1OPHZsVnQq87BuV497Aknnh4V/xKiHUzfI8atPzvzcoPSeTi5YbMCr6+3Xmr33hVIHO4jyDXMKJxQ1Ct6ireRpEm9iDjER2KwPclWVpEmyrHGJDnpTtzx8WplnTEDEnz42PLJJIkIsrUmTs9ELxXRz6UROz0Qcloeo9/ZCFRhj4dPVDkN2xQQisq8o=;cgCIyF1hswkgNNDeKNFcIA=="
 ---

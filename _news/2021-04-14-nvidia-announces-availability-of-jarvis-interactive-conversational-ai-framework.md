@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia announces move to ARM-based chips in newest threat to Intel"
-    excerpt: "The Nvidia Grace server processor is made on ARM architectures and makes it the largest chipmaker yet to adopt the British firm’s technologies.Nvidia claims Grace-based systems will deliver 10x faster"
-    publishedDateTime: 2021-04-13T06:47:00Z
-    webUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel-11618296043144.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nvidia-announces-move-to-arm-based-chips-in-newest-threat-to-intel/amp-11618296043144.html"
+  - title: "Nvidia Launches Jarvis Speech Recognition Framework"
+    excerpt: "including real-time translation and text-to-speech in addition to basic speech recognition. In other news, Nvidia has formed a partnership with Mozilla Common Voice in an effort to improve the Jarvis platform moving forward. Common Voice is an open source ..."
+    publishedDateTime: 2021-04-14T19:24:00Z
+    webUrl: "https://mobileidworld.com/nvidia-launches-jarvis-speech-recognition-framework-041404/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
     images:
-      - url: "https://images.livemint.com/img/2021/04/13/600x338/2021-02-24T214034Z_1_LYNXMPEH1N1KI_RTROPTP_3_NVIDIA-RESULTS_1618296077514_1618296090605.JPG"
-        width: 600
-        height: 338
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
         isCached: true
 
 secured: "skzwfEsn4qb08+7+Uy6q6gqVo1tVWnvs4pyIj/+dZG9XgF1uOiVFZBuRXHcKVHrL6UzTfeMbzsoQGWPzxAkgdunLU4UA5WyzFvelxMJAQOxfQgmv4Qt7jyOEgrAFGRcRG12JMWC8DQr3+RlB0AXJzFRuQQMDQ7hfF8JA2lcMU5dCPf2uM/jdorsU7wgzp19hovqQhb5fNuZFzJ0PhctHoMBU2nZ2XX76s0iHq8hnEpgGgFeP0UWtEK+RuSboGr21B/utD081QoR3WmMwZX8yXKfkjdIPlHSgE8W+aUFLC2t5XTjU068M8Bf7atd9soIGwnD0M8V07chinnfxTix1Qk3PuV3krHe1L3y4uzPli2M=;D9sOD9CIhU5olBb0JIsadg=="

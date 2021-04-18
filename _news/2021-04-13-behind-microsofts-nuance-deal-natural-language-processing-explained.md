@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natur
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
 type: article
 quality: 121
-heat: 481
+heat: 461
 published: true
 
 provider:
@@ -226,22 +226,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Microsoft makes its second biggest acquisition, buys AI speech tech company Nuance for $19.7 billion"
-    excerpt: "Microsoft is buying AI speech tech firm Nuance ... s technology with its existing software like Teams or even offer it independently as part of its Azure cloud business. “By augmenting the Microsoft Cloud for Healthcare with Nuance’s solutions ..."
-    publishedDateTime: 2021-04-13T05:26:00Z
-    webUrl: "https://www.indiatoday.in/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
-    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/microsoft-makes-its-second-biggest-acquisition-buys-ai-speech-tech-company-nuance-for-19-7-billion-1790336-2021-04-13"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 59
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202104/mico-647x363.jpeg?YVzozUuFPEpeAd8bDYmitKdUtfKbRKPd"
-        width: 647
-        height: 363
-        isCached: true
   - title: "Microsoft Bolsters Healthcare Offerings With Nuance"
     excerpt: "We are maintaining our fair value estimate after Microsoft announced the acquisition of Nuance Communications, a leader in conversational artificial intelligence."
     publishedDateTime: 2021-04-13T14:19:00Z
@@ -255,20 +239,6 @@ related:
       - url: "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/bltf5c9f6de4daaa773/5cb4f480fe8386be234ac8fb/QuarterEndReview_Sectors_Bars_1x1.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft buying speech recognition firm in $16B deal"
-    excerpt: "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health care industry through Nuance’s widely used medical dictation and transcription tools."
-    publishedDateTime: 2021-04-13T06:26:00Z
-    webUrl: "https://www.timesrepublican.com/news/money-markets/2021/04/microsoft-buying-speech-recognition-firm-in-16b-deal/"
-    type: article
-    provider:
-      name: Times Republican
-      domain: timesrepublican.com
-    quality: 56
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2021/04/13010153/AP21102458179095-1100x817.jpg"
-        width: 1100
-        height: 817
         isCached: true
   - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
     excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."

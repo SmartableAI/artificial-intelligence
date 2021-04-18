@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has 'New Force'"
-    excerpt: "Hong Kong -  MobiusTrend, the fintech market research organization, recently released a research report WIMI Hologram Cloud's AI Vision Aiming at the 100 Billion Market and Lidar Has ‘New Force'. Unknowingly,"
-    publishedDateTime: 2021-04-13T05:57:00Z
-    webUrl: "https://menafn.com/1101872539/WIMI-Hologram-Clouds-AI-Vision-Aiming-at-the-100-Billion-Market-and-Lidar-Has-New-Force"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "WMI Hologram Cloud, Tesla and Facebook Apply Brain-Computer Interface to Holographic AR Scenario, Making 5G+AI a Mainstream Technology"
     excerpt: "Tailor Insight, the fintech market research organization, recently released a research report \"WMI Hologram Cloud, Tesla"
     publishedDateTime: 2021-04-14T16:01:00Z

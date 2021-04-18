@@ -25,45 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Narita airport starts facial recognition trial run for faster travel"
-    excerpt: "The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a touchless experience for passengers, only involved airport staff and not actual travelers, Narita International Airport said."
-    publishedDateTime: 2021-04-13T05:52:00Z
-    webUrl: "https://www.thejakartapost.com/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/travel/2021/04/13/narita-airport-starts-facial-recognition-trial-run-for-faster-travel.html"
+  - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
+    excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."
+    publishedDateTime: 2021-04-14T05:34:00Z
+    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-get-advice-around-use-facial-recognition-technology-two-leading-researchers"
+    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
+    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 74
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 46
     images:
-      - url: "https://img.jakpost.net/c/2020/01/22/2020_01_22_84972_1579669739._medium.jpg"
-        width: 747
-        height: 412
+      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/12/07/CCTV_is.jpg?w=700&h=393.75&fit=crop&auto=format"
+        width: 700
+        height: 394
         isCached: true
-  - title: "Japan's Narita airport starts facial recognition trial run for faster travel"
-    excerpt: "CHIBA, Japan (Kyodo) -- Narita airport, near Tokyo, started Tuesday trialing the use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in."
-    publishedDateTime: 2021-04-13T06:15:00Z
-    webUrl: "https://mainichi.jp/english/articles/20210413/p2g/00m/0na/059000c"
+  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
+    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
+    publishedDateTime: 2021-04-13T23:12:00Z
+    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
     type: article
     provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 51
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 38
+  - title: "Voice Technology: From revolution to evolution"
+    excerpt: "Distribution centers no longer want voice for voice itself. Today it serves as one piece of an integrated solution for optimized operations."
+    publishedDateTime: 2021-04-16T19:42:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/voice_technology_from_revolution_to_evolution"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 24
     images:
-      - url: "https://cdn.mainichi.jp/vol1/2021/04/13/20210413p2g00m0na058000p/0c10.jpg?1"
-        width: 1200
-        height: 630
+      - url: "https://www.mmh.com/images/2021_article/MMH2104_Voice_Voxware_800px.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Narita airport starts facial recognition trial for faster travel"
-    excerpt: "Narita airport on Tuesday started trial use of facial recognition for international travelers, with no need to show passports or flight tickets after check-in. The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a ..."
-    publishedDateTime: 2021-04-13T21:40:00Z
-    webUrl: "https://japantoday.com/category/national/narita-airport-starts-facial-recognition-trial-run-for-faster-travel"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
 
 secured: "mZDFJ738IOZrAfFDLLuCDWajQbeg6LHr/3M7MOjgGFLqiaVMqSD9mNsUBE6/xwxf/lgfng6gWDFnVzuvqkpElz8h8c5ajlaQ1GMN9KBuiY8lgZhCJrvrCsbBjTqnewVFLXrE2QI+pYy6WAYjazU02JT8utlNer1vGisU5s02d/8lz9EXDAa2ZTAPgHZSLU+Q8janvHkHQxNLnUed/SvSlAe0WBvNEOeQoIDoAbAUTgYRHNe67bumK6CiBYSKOv5yNIKTpXqD71s57X+/e6zDg7r0AJmYacDeBIrNHL31lhsKKqR0vIePGPXQyqYR55+wOeRRrT11a8JhmbS0i2BlgdXFLd19zdhYLH7Ohevndeg=;mUkAKxCbnbkhc6BwYAMv+g=="
 ---

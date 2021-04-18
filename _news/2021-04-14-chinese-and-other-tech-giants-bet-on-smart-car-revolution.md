@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Drone maker DJI the latest Chinese tech giant to get into the car game"
-    excerpt: "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ..."
-    publishedDateTime: 2021-04-13T05:34:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NexMind AI launches Machine Learning SEO Platform in Chinese version"
     excerpt: "NexMind AI recently announced the newest version of one of its AI-Technology, the world’s-first Artificial Intelligence (AI) Machine-Learning SEO Platform as a Service (PaaS) named NexODN in Chinese Version."
     publishedDateTime: 2021-04-15T04:18:00Z
@@ -54,6 +38,20 @@ related:
       - url: "https://www.bernama.com/bm/img/bernama.png"
         width: 2483
         height: 2942
+        isCached: true
+  - title: "Chinese researchers say they’ve developed an AI text censor that is 91% accurate"
+    excerpt: "They claim it could be useful to ‘identify and filter sensitive information from online news media’. China’s Internet is tightly controlled and the government relies on a huge army of censors to vet content."
+    publishedDateTime: 2021-04-15T07:17:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/15/chinese-researchers-say-theyve-developed-an-ai-text-censor-that-is-91-accurate"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 34
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114435.jpg"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "JibaZsWF9QdGz/oecz7tUhQcJ/3e2enpjbMzMxmpVrrBrN7u+hzFSqwcw1Xqftil3o+qWml9ozjCIy/oXIjYZ0xecN7tngwQUR4tR+FesNb7R1eRN3BjvBpyk7HRsPK0XwUjayhO+JwRpVbdBHzXm7jDOvaW6SP3YVPzZkA3ss/YPJIJ/J/QWFBMAilE+UqT1qlicyM8GhZFA8UaSmQZdRt6bVghQCj/drAfeD0pUF/JHPZGNSZ24w9LltMeC3r7yYf4SczlrJHpG5RA1qV48u6X1XHIcAT8Q8gBaQStmZuTxv7d+lIH9s6/VpjXSt+tHbGpBZDGNljPXVd8iqEhp4C5s3YKC0plxxvuaZsm/XHczU6hRLetoRbnrnTyhKP2GjmNjSVQcxNoICiT44eRl+z0D1p1TaCpECZhE07x6XKeBEoK91oUf+P6eEPhieHoS2O+rGYhkI3i1mcCEJHSpKTkPVlG3MT3W7+kSN1QunUNrn+lmqyMcvgiSnSPTTzcfAbX2ApKdDg7pR/Z28Tutw==;OUyNUJXUX1JZIz4Z58OjCQ=="

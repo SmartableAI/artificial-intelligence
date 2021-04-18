@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-publishedDateTime: 2021-04-14T05:57:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
+publishedDateTime: 2021-04-14T13:00:00Z
+originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+    width: 845
+    height: 396
+    isCached: true
 
 related:
   - title: "AI-generated Nirvana, Hendrix songs shine spotlight on music industry mental health"
@@ -34,6 +40,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Nvo0KeLvnpHkqPH6XAC961X0k/TDrJUhP6JTnDxvohDgW75rd2zjkeD+fDkhSAweMeL+nsmAiB8/qtituwssfnPxUIn/djve8b7f04qhO7At1dgbKZ2o4wHjv2XHKfFceh61BJieYX/RVz8vz13qTI6xO51zAjdy1JdaPqvf7KGim01ro08rEt0gdIoxi0rQihQWYqe8pEhX/67SK75yGD2Uwnt9ypfJkR+sqj6bVZQ2dphWhiKp1Na+jHf3yEUjc4PR4+p6uJWKrXVnjuxBo5/35+bQB+fcvsacZFMBX5QfC9cp9qVH+p6mC4JgGWPR9DhRU/Zna/zdj6r4wo6VsMTPKkK8bn+yIoyxdicXBcE=;Z7470UWmZ5yBKtCPcpd4aw=="
+secured: "OEEMXbAVYxOZANW5oxd9JlWlt7oWm/VeWTjjGVbe1AfznEAPhxPGEcrFp19Bt8Cxjz0ZARtQLJsqj9MQeORKB3FSjMalXX7u3fDXi/EQVBdJN7Pvw/m5heUnCNdmRxShVSn1vHqgTuoqqPy9LhC2+WlStFi8GNVVmc4Qof5+cbEuDpNDpnIMH9B7D8IYtfamt7H9C9Gik5iR8U2OLnenmiTZOCWWnvOph38+n5iJTNr0GBtuaJNRYQ6P7Hojy+vWJm9XBT0w/acPdGOcP/EsGsCxV+bgahdXL6x0ZHYEhZNl3uOE/TzGmkSSFs/j8lMN1G9Hda0JkL4Eok8U6wiTmAOlfyUEZ1i/HZFwGy2Aoeo=;LJAuPqKSae4QRKMvwTMuBw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14"
 type: article
 quality: 83
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -187,15 +187,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet"
-    excerpt: "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization."
-    publishedDateTime: 2021-04-13T06:30:00Z
-    webUrl: "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
 
 secured: "3xbYC1gothcuiiBIlQyIO2zNeQhuBMlQdjrwkkARpJd9cyJmpjm07x8zeumU8Cm+4Z5YctmKIdQhhzeTmIbxYsQLljY4kq5lOvqpsvv2TuNdXbfmNL1BpDFq9kJoACVPsC8AM3KcO4rATGvQh4StP3a5meGGLnJdFD2iZti7JNNpBzM9aT3uLqodN0OVPesrsX14MuGPLjHNVdd+MXaDkyCdtrQ/rOTCsFo9267Wy+VABAxDuhyRxzlhsAUxFt0JS0zZbWoC7w3xmNPwwI2596VCTgW8BFVkuPYwA/lDGcXcIWJ7GabrLOLLaV7B04dhpgj/DvO5+bWQ2JruIeqkODg/wmVoOnF4VuK1y9ABlkg=;ChElYsJ14avp2c3yJ+zBpQ=="
 ---

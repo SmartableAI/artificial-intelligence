@@ -7,8 +7,8 @@ originalUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
 webUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: bernama.com
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Drone maker DJI the latest Chinese tech giant to get into the car game"
-    excerpt: "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ..."
-    publishedDateTime: 2021-04-13T05:34:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game"
+  - title: "Chinese researchers say they’ve developed an AI text censor that is 91% accurate"
+    excerpt: "They claim it could be useful to ‘identify and filter sensitive information from online news media’. China’s Internet is tightly controlled and the government relies on a huge army of censors to vet content."
+    publishedDateTime: 2021-04-15T07:17:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/15/chinese-researchers-say-theyve-developed-an-ai-text-censor-that-is-91-accurate"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
+      name: The Star
+      domain: thestar.com.my
+    quality: 34
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114435.jpg"
+        width: 1240
+        height: 697
         isCached: true
   - title: "Chinese and other tech giants bet on smart car revolution"
     excerpt: "Chinese smartphone giant Xiaomi is the latest newcomer in the electric vehicle, race with a plan to invest $10 billion over the next decade. At a March event unveiling the company's plans, billionaire founder and CEO Lei Jun called the new initiative \"the most significant decision in Xiaomi's history\" and said it will require \"full efforts for at least five to 10 years."

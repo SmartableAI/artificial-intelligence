@@ -185,15 +185,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 2
-  - title: "Artificial Intelligence in Transportation Market to See Explosive Growth by 2026 | Magna, Continental, Alphabet"
-    excerpt: "Latest added Global Artificial Intelligence in Transportation Market research study by AMA Research offers detailed outlook and elaborates market review till 2026. The market Study is segmented by key regions that are accelerating the marketization."
-    publishedDateTime: 2021-04-13T06:30:00Z
-    webUrl: "https://industribune.net/news/48789/artificial-intelligence-in-transportation-market-to-see-explosive-growth-by-2026-magna-continental-alphabet/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
 
 secured: "ZVgaDWTUoJAU1BM9fFX5uR2unVZppF8hOtlcRTrjw0LidmBkPtiI0dF53DgTBkB8bV6IRSkUdob9xLJALEaGeJFwtS/NNFmeGa2jmr5P/GVQ70tfE7nD0y5udfvXmu3fr2+v4/pkjrMqFm9i95VWpd62DHmR8MAiUvljKgWO8KSlx3AdufVEKlEpHhtAHLJ90Xpckbl7cXBboJpSysR2w3j+HVDojbkSpPVVTeoL1haqOQrYfcCGK8Q6WtCxLBVSAIbp+1LXcjKjOvbgD78awH4IVls4DzhNuQsEW4AJQfahAaqJGF2VIEVMlNbDBh1rSBwdrAi58ahQrhYiU0cCmGZgclkTzXRwctvz7OdWF+c=;Offf/pskijsujIVU/D57Bg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/work-and-careers/careers/how-business-leaders-
 webUrl: "https://www.afr.com/work-and-careers/careers/how-business-leaders-can-tap-into-the-positives-of-ai-20210412-p57iew"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How IoT And Artificial Intelligence Are the Perfect Partners To Boost Business Productivity"
-    excerpt: "Thanks to the Internet-of-Things (IoT) and Artificial intelligence (AI) which has transformed the business world by storm. Indeed, they have made businesses less dependent on humans and more dependent on machines. The result is ultimately auspicious!"
-    publishedDateTime: 2021-04-13T05:23:00Z
-    webUrl: "https://www.entrepreneur.com/article/369230"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/369230"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369230"
+  - title: "3 ways artificial intelligence can benefit agribusiness"
+    excerpt: "Artificial intelligence is a tool that the poultry industry can use to leverage data and improve operations. “Artificial intelligence has the ability to learn from data and experiences instead of being explicitly programmed to perform a task,"
+    publishedDateTime: 2021-04-15T20:35:00Z
+    webUrl: "https://www.wattagnet.com/articles/42676-3-ways-artificial-intelligence-can-benefit-agribusiness"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 79
+      name: WATTAgNet
+      domain: wattagnet.com
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1618291364-alexandre-debieve-FO7JIlwjOtU-unsplash1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://www.wattagnet.com/ext/resources/2021/04/15/blockchain-business_man.jpg?height=635&t=1618518793&width=1200"
+        width: 700
+        height: 341
         isCached: true
+  - title: "How Artificial Intelligence Can Tackle Indoor Air Pollution"
+    excerpt: "However, as countries have begun to open back up, pollution levels have rebounded to pre-pandemic levels. Scientists at NASA noticed NO2 bouncing back to near normal levels in China three months after the country"
+    publishedDateTime: 2021-04-15T13:14:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779290-how-artificial-intelligence-can-tackle-ind/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 32
 
 secured: "ToB0fwB3WZjsI3q9Qc9KFGr7mmR6KulM1F/U4tycOTa3Pej6jHTEb4awr7BEn7nNDlifRmqhhsQgEfV5DJ3ZZ2snu1aFd0WD1YYln6m60FhP2zdXCpK4dRhrVAkczUDif1h46kYYb9W7/n7IGMAMUbMgQaMM9E+oOOALiB7JR1hwC6OOtChL6TqJLpNAvUCbSgsjIIXKkvWRknnzLSPkG8U615jnlp3pKyz8pRzrl/TkvuvrHfV80XmG+xGNO/3wigkAU1f2MABnP3nl4YdgeoyRi35A/8iktGBnKD+mfCnDov+OP9lSL1DqDCKVn+KxZW5bOrQRNanV/pRw/jtLdFN8TPjqnX1ECce9SIOtLLF5m1hU6l0x2axBZUKXkCiFmEyfaFq0CJpx+KpVa+5cyefrrDmLbr1gjPBTpV01a8ePcBLrG6j8DIO3iOHFSxMZRnCAreMQGyLPGsfrUemiXv1nKS5JYuhorsc3KTUyL2jqeOdyOvG555cgF6Hd8nZtX+R1/cKsln+yj4l5KiGGWA==;X5rGiEFyWRR0B8P63Wa5qA=="
 ---
