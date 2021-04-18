@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-06-near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence.md",
+      "title": "Near-Vana: A “New” Kurt Cobain Track Appears Courtesy Of Artificial Intelligence",
+      "excerpt": "A \"new\" Nirvana track has been created using artificial intelligence software that analyzed a number of Nirvana tracks in order to mimic their writing, recording and lyrical styles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c74adda1ceeab6231e4a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eamonnforde/2021/04/06/near-vana-a-new-kurt-cobain-track-appears-courtesy-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-06T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers.md",
       "title": "Clarifai expands its AI product portfolio to serve its growing base of enterprise and public sector customers",
       "excerpt": "Clarifai, a leading AI lifecycle platform provider for managing unstructured image, video, text and audio data expands its product offerings",
@@ -1147,49 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-silicon-valley-self-driving-startup-gatik-works-with-isuzu-to-build-delivery-trucks.md",
-      "title": "Silicon Valley self-driving startup Gatik works with Isuzu to build delivery trucks",
-      "excerpt": "(Reuters) - Silicon Valley self-driving startup Gatik and Isuzu North America Corp on Tuesday said they will work together to build autonomous delivery trucks that Gatik will use to serve its retailer customers. Gatik, which works with Walmart Inc in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu-idUSKBN2BT0AH",
-      "originalUrl": "https://www.reuters.com/article/us-auto-autonomous-gatik-isuzu-idUSKBN2BT0AH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT0AH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT0AH",
-      "publishedDateTime": "2021-04-05T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

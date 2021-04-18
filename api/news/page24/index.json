@@ -2,6 +2,51 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
+      "title": "Object Detection, With TensorFlow",
+      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
+          "width": 877,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
       "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
       "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
@@ -1041,57 +1086,6 @@
         "name": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
         "domain": "theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc.md",
-      "title": "Seervision software with AI assist can operate multiple cameras from one PC",
-      "excerpt": "Seervision has unveiled new software that can operate cameras as if it was a human, making video production easier and less time-consuming. Seervision has roots at ETH Zürich, where students developed a prototype in the past for recording lectures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/",
-      "originalUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/seervision.jpg",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/amp/",
-      "publishedDateTime": "2021-03-29T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

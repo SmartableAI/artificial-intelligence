@@ -2,6 +2,50 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
+      "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
+      "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "originalUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/932/470/GettyImages-1229973204.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "publishedDateTime": "2021-03-10T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars.md",
       "title": "Elon Musk Disappointed With Cyberpunk 2077’s Lack Of Self-Driving Cars",
       "excerpt": "If I were a multi-billionaire I too would like to think I wouldn’t give up my current hobby of complaining about missing features in video games, so in that sense, Elon Musk is a real role model to me.",
@@ -1161,48 +1205,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads.md",
-      "title": "VMware's vSphere software now certified to run Nvidia AI workloads",
-      "excerpt": "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/",
-      "publishedDateTime": "2021-03-09T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

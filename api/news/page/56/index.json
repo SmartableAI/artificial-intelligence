@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
+      "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
+      "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
+      "originalUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553757520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2316M",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW23F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW23F",
+      "publishedDateTime": "2021-03-04T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis.md",
       "title": "Nvidia and Harvard develop AI tool that speeds up genome analysis",
       "excerpt": "Nvidia and Harvard researchers say they've developed an AI tool that can dramatically speed up genome analysis.",
@@ -1152,49 +1204,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
-      "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
-      "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
-      "sourceUrl": null,
-      "webUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "originalUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://recyclinginternational.com/wp-content/uploads/2021/03/SSR_Facility_FiberLines.jpg",
-          "width": 1460,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling International",
-        "domain": "recyclinginternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

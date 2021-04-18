@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.eenewseurope.com/sites/default/files/styles/facebook/public/sites/default/files/images/unicorn630_2.jpg?itok=u42Iys-J"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AI platform startup SambaNova Systems raises $676M in massive late-stage round"
-    excerpt: "SambaNova Systems Inc. reckons it’s the best-funded artificial intelligence systems and service platform startup in the world after landing a massive $676 million late-stage round of funding. Today’s Series D round was led by the SoftBank Vision Fund 2,"
-    publishedDateTime: 2021-04-14T03:11:00Z
-    webUrl: "https://siliconangle.com/2021/04/13/ai-platform-startup-sambanova-systems-raises-676m-series-d-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/sambanova-series-d-funding.jpg"
-        width: 877
-        height: 583
         isCached: true
   - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."

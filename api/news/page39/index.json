@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-18-scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage.md",
+      "title": "ScaleFlux Delivers Computational Storage with Support for Nvidia Magnum IO GPUDirect Storage",
+      "excerpt": "“Modern AI and data science workloads are powered by vast amounts of data, which makes it critical to enable fast communications between GPU computing and data center storage systems,” said Kushal Datta, Senior Product Manager at NVIDIA. “ScaleFlux ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
+      "originalUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-fetcherai-nabs-65m-to-match-employees-with-open-roles-using-ai.md",
       "title": "Fetcher.ai nabs $6.5M to match employees with open roles using AI",
       "excerpt": "Fetcher.ai, a recruitment platform that combines AI with human teams, today announced it has raised $6.5 million in a round led by G20 Ventures. The company, whose latest funding round brings its total to $12 million,",
@@ -1176,58 +1210,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-the-key-to-making-ai-green-is-quantum-computing.md",
-      "title": "The key to making AI green is quantum computing",
-      "excerpt": "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
-      "publishedDateTime": "2021-03-17T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
+      "title": "Driverless bus hits streets in southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution.md",
       "title": "Students From 52 Law Schools Boycott Seward & Kissel's Recruitment Over Alleged Conflict in Donziger Prosecution",
       "excerpt": "The unethical behavior of Seward & Kissel’s Chevron-linked prosecutors opens the door to future cases in which judges give private law firms the authority to prosecute the critics of multinational corporations—without disclosing their ties to those same industries,",
@@ -1155,59 +1198,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-tensorflow-a-cheat-sheet.md",
-      "title": "TensorFlow: A cheat sheet",
-      "excerpt": "TensorFlow was originally a deep learning research project of the Google Brain Team that has since become--by way of collaboration with 50 teams at Google--an open source library deployed across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/03/13/99aff292-46c4-4950-85d2-6e4cd750f51d/thumbnail/1200x675/8558ea8e682f0896a037fc60f2c2bb0e/2fnltensorflow.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-26T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

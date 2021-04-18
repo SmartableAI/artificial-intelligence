@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability.md",
+      "title": "Here’s why AI will be crucial for future US electrical grid reliability",
+      "excerpt": "But what if the biggest predictor of the success of the infrastructure plan is not in the materials but in artificial intelligence (AI) and machine learning (ML)? Electrek spoke with Monte Zweben ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "originalUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/03/Electricity-pylons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "publishedDateTime": "2021-04-16T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
       "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
       "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
@@ -1441,49 +1493,6 @@
       "provider": {
         "name": "The Irish Times",
         "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
-      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
-      "excerpt": "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html",
-      "originalUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/fd/0fdbaaa5-3d0c-5562-a649-df928d17e463/606e0c332880b.image.jpg",
-          "width": 700,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html",
-      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html",
-      "publishedDateTime": "2021-04-07T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

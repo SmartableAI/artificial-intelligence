@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-03-17-tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall.md",
+      "title": "TCS Named a Leader in SAP Cloud Migration Services by NelsonHall",
+      "excerpt": "Tata Consultancy Services’ Crystallus™ Offering, Industry Cloud Focus, Tools and Automation Assets, and Broad SAP ERP Cloud Migration Experience, Highlighted as Key Strengths.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
+      "originalUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
       "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
       "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
@@ -1105,49 +1139,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-researchers-enhance-quantum-machine-learning-algorithms.md",
-      "title": "Researchers enhance quantum machine learning algorithms",
-      "excerpt": "... infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. Their findings were published in Scientific Reports. The work could help build ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
-      "originalUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/11-researcherse.jpg",
-          "width": 711,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp",
-      "publishedDateTime": "2021-03-16T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-bmws-virtual-factory-uses-ai-to-hone-the-assembly-line.md",
+      "title": "BMW’s Virtual Factory Uses AI to Hone the Assembly Line",
+      "excerpt": "German carmaker BMW plans to start making drivetrains for electric vehicles at a vast factory in Regensburg, Bavaria, later in 2021. Well before any new parts roll off the production line, the entire manufacturing process will run in stunningly realistic detail inside a virtual version of the factory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
+      "originalUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60709bed3b14ce9d953f9773/master/pass/business_bmw-ai.jpg",
+          "width": 1802,
+          "height": 1201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
+      "publishedDateTime": "2021-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
       "title": "Mozilla winds down DeepSpeech development, announces grant program",
       "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
@@ -445,10 +497,10 @@
     {
       "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
       "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
+      "excerpt": "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -481,7 +533,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1164,49 +1216,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-vancouver-based-fintech-to-offer-ai-powered-personal-finance-platform.md",
-      "title": "Vancouver-based fintech to offer AI-powered personal finance platform",
-      "excerpt": "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx",
-      "originalUrl": "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mortgage Broker News",
-        "domain": "mortgagebrokernews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

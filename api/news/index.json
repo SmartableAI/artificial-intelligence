@@ -810,6 +810,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability.md",
+      "title": "Here’s why AI will be crucial for future US electrical grid reliability",
+      "excerpt": "But what if the biggest predictor of the success of the infrastructure plan is not in the materials but in artificial intelligence (AI) and machine learning (ML)? Electrek spoke with Monte Zweben ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "originalUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/03/Electricity-pylons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "publishedDateTime": "2021-04-16T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases.md",
       "title": "Facebook claims AI can predict drug combinations to treat complex diseases",
       "excerpt": "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease.",
@@ -1198,49 +1250,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-a-budding-leader-of-automation-and-robotics.md",
-      "title": "A Budding Leader of Automation and Robotics",
-      "excerpt": "Thailand’s automation and intelligent robotics industry has gone from strength to strength in recent years, driven by increasing demand from both domestic and overseas industries along with its well-established ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
-      "originalUrl": "https://www.khaosodenglish.com/sponsored/2021/04/16/a-budding-leader-of-automation-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khaosodenglish.com/wp-content/uploads/2021/04/1.png",
-          "width": 939,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-khaosodenglish-com.cdn.ampproject.org/c/s/www.khaosodenglish.com/invest-in-thailand/2021/04/16/a-budding-leader-of-automation-and-robotics/amp/",
-      "publishedDateTime": "2021-04-15T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaosod English",
-        "domain": "khaosodenglish.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

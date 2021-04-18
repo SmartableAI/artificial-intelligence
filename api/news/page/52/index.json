@@ -2,6 +2,59 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-09-gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate.md",
+      "title": "GPU and Machine Learning Identify Spots on DNA That Are Likely to Mutate",
+      "excerpt": "Now, researchers at Harvard University’s Department of Stem Cell and Regenerative Biology working with GPU manufacturer NVIDIA have developed a method of quickly and accurately identifying the wadded up DNA buried in our cells,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "originalUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60479eb693b426009ca958e9/lede/1615306658256-gettyimages-90739363.jpeg?crop=1xw:0.7072120559741658xh;center,center",
+          "width": 3504,
+          "height": 1971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "publishedDateTime": "2021-03-09T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-we-need-a-humanitarian-vision-for-ai-and-robotics.md",
       "title": "We need a humanitarian vision for AI and robotics",
       "excerpt": "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given",
@@ -1139,58 +1192,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

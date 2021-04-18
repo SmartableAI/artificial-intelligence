@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-03-04-can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers.md",
+      "title": "Can Employers Use Artificial Intelligence And Data Analytics To Track Remote Workers?",
+      "excerpt": "Notwithstanding federal, state, and local privacy and cybersecurity laws that may apply, employers may generally use artificial intelligence, data analytics, and other software and technologies to tra",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
+      "originalUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
+      "publishedDateTime": "2021-03-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-artificial-intelligence-in-agriculture-market-may-see-a-big-move-major-giants-microsoft-ibm-sap.md",
       "title": "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP",
       "excerpt": "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors",
@@ -1117,49 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-critics-have-much-to-say-about-the-fb-facial-recognition-technology.md",
-      "title": "Critics Have Much to Say About The 'FB' Facial Recognition Technology",
-      "excerpt": "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "originalUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c",
-          "width": 1000,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "publishedDateTime": "2021-03-03T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

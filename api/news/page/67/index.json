@@ -2,6 +2,57 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-02-26-ataccama-acquires-data-visualization-startup-tellstory.md",
+      "title": "Ataccama acquires data visualization startup Tellstory",
+      "excerpt": "Ataccama acquired TellStory to add data vizualization tools to an expert systems platform for managing large amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Ataccama-Editor-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "publishedDateTime": "2021-02-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-ey-unveils-expansion-of-technology-initiative-with-launch-of-cloud-enablement-center-for-financial-services-in-phoenix.md",
       "title": "EY unveils expansion of technology initiative with launch of cloud enablement center for financial services in Phoenix",
       "excerpt": "The EY Cloud Enablement Center, the first of which will be based in Phoenix, will provide clients with a range of services and ... intelligence (AI), machine learning, data, cybersecurity ...",
@@ -1144,57 +1195,6 @@
         "AWS AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-covid-19-california-with-50000-lost-has-more-deaths-than-any-other-state.md",
-      "title": "Covid-19: California, With 50,000 Lost, Has More Deaths Than Any Other State",
-      "excerpt": "In a video message to the Defense Department on Wednesday, Mr. Austin said members of the armed ... “We want to minimize any chances of this reoccurring,” he said. New York opens vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots",
-      "originalUrl": "https://www.nytimes.com/live/2021/02/24/world/covid-19-coronavirus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/getty/2021/3/18/cd2005e2-e966-4b7f-9abe-d1c669847918-getty-1180651459.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots/amp",
-      "cdnAmpWebUrl": "https://www-inputmag-com.cdn.ampproject.org/c/s/www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots/amp",
-      "publishedDateTime": "2021-02-24T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
