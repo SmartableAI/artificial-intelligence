@@ -9,7 +9,7 @@ ampWebUrl: "https://www.analyticsinsight.net/austrian-startup-reveals-multifunct
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/austrian-startup-reveals-multifunctional-construction-robot/?amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1024
     height: 575
     isCached: true
-
-related:
-  - title: "Modular mobile robot can take on multiple roles at construction site"
-    excerpt: "Modular mobile robot can take ... Austrian startup Printstones has been developing ... The development team aims to work on AI simulations of work environments in the future, so that the robot ..."
-    publishedDateTime: 2021-04-13T16:33:00Z
-    webUrl: "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/"
-    ampWebUrl: "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mobile Robot Market Segmentation, Industry Analysis By Production, Consumption, Revenue And Growth Rate By 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
-    publishedDateTime: 2021-04-13T15:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-segmentation-industry-analysis-by-production-consumption-revenue-and-growth-rate-by-2027-2021-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Rf7q1uc10dOZto4eKBFFiGTpFRt6JKmnUKyfApv7ffnVwBsOHg2Cb/My3lkRpW5PzC8H0Ljs4aHwrFOKe+e5OxJpMm1poLS0Cm4Lqq79f3Qnt4soAFYbVzVU5VKKUxa+MPvL2Z9MNLQIfy57gfyed3Sbmn2kZDtTdaBLxI9tJBr0DeXSZbcuKVzlFTC2bXqs2VqRFCg4aLzZj6tGVUjO1sR2NUhNp9uM1r74LvKM1wb8dmfem5aDAWYAJiuUjXa4rV5HT9f0/EZhRkbGgPy0/0gGSGhZyybLHd3oeG1jP6IvjXqIv6XVozdSBPZAeN7OtLXRmh5l5Fy13tljIC8UrX41GMY2TA5nxEmbEX6DXgsnq3WiIukCk8Kjzd5GhKHeCjFeDJ02KXqQVAqwAogod2jL4e0BZswiye5M1HF6elkpyR50APCkB2UvIrPQbdK6y+rx4Wp00iXmiOtITAtPi0YITStSkkfCxgGT+ef21XfF7IQmQBVLDAXJOvvl6u63L9bnOkrjiJ8oSVgTyY8MKQ==;SJgojqdZnRVAqEpbgIyjgQ=="
 ---

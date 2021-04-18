@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Chip Startup Groq Closes $300 Million in Series C Fundraising"
+    excerpt: "AI chip startup Groq has announced that it closed $300 million in new Series C fundraising, co-led by Tiger Global Management and D1 Capital, along with The Spruce House Partnership and Addition. Groq is a leader in computer accelerators for artificial intelligence (AI),"
+    publishedDateTime: 2021-04-14T13:49:00Z
+    webUrl: "https://www.unite.ai/ai-chip-startup-groq-closes-300-million-in-series-c-fundraising/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/Tech_Photo-1.png"
+        width: 812
+        height: 597
+        isCached: true
   - title: "AI chipmaker Groq raises $300M in Series C round"
     excerpt: "Artificial intelligence and machine learning chip startup Groq Inc. said today it has raised $300 million in a new round of funding that brings its total amount raised to $367 million. The Series C round was co-led by Tiger Global Management and D1 Capital,"
     publishedDateTime: 2021-04-14T13:00:00Z

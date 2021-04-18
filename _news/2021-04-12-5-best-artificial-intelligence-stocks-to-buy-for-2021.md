@@ -14,6 +14,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "Dg2dAP3l076PNonwk8Btjo3tuqXE3plK4/jxRokUP00ERoJTL8gV1AO+JNO3modAM367RMcbbgY6Q1HuYmux5jB2XjdqUPtzCnAKkPkcJaP4AP+VcN/6I3IwSdEiUe9uO6enN8NTKiQJvGbQ0d5FUqV/g1igcwiYwlTop+r+XUqpvl7nRvRyUWoJWfyHMGA/xYNnklCO56eUvWbl3MNSXFNmZhovKkZiWI+t8hC4zXfOkGlfOLED7WE7tx5eTP/6S6APrk23VKH7UJJhvqjuxEd/zb2A2TbrW4DmWOmEmxAoiWD8nBbNbfnhvwyDV3HH10si7kPYeRndoPNDS+GpSk3493QhwSSyMpE+bMRHVgw=;Epaf1f1kwOxmWKFchUZVGg=="
+secured: "NCfs8AUxev8NIxkzVW52rToYVI+vYfFZL8BOhefftHISHWXRiF8pD0QJv1ki/lDwx0zRymAqQMBFdXfxLh9+dJZ1dUkOiNC57tC8C5XOdriU3plQqJlFrkCJMmQP3E70lZOCmbcaXtgFMEOlZ2SaF7QBV4Um6SGPGlmXd2BeA2pXF8ljbR4c7WIeWmcBaEq8/EbBU+ahdFsrkl3NMMBtVUmClGH1vXG4HliVvkmCXdbDZS4RV3L0EAZf4I+78pqVqHrksMbpUokpuRr7Ju0boEVO7xdaUaDuVx/Z1S8/HUdJx+CAHduUdh71QA4p04MOZqGmkP4tcjm1ZTwF3qljcDssNdDFF4lfVmty8IeZtzjc5KntDvv4kEIMnbiHNevauHFTfXGwHt4BtCLSZCJqpmYCj9MG9EnvU1jhHZdO3a4MPX9JTUPfBTMepTFQYYEML1UxV7RT1BvrkbbRa7RHy/Wt4fVNDM2wF4TOVwDF7VkNKT6Ca2A+Cte/5DPZ9i+bSkpKU474w5mMfxmNHdBDsw==;FpgMletB8PJQBMFOZXwhBA=="
 ---
 

@@ -51,6 +51,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Ocado plans self-driving delivery vehicles and 'kerb to kitchen' robots in Oxbotica tech tie-up"
+    excerpt: "The grocery firm hopes to develop autonomous vehicle prototypes, for use in delivery as well as at its depots, within two years."
+    publishedDateTime: 2021-04-18T09:02:00Z
+    webUrl: "https://news.sky.com/story/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
+    ampWebUrl: "https://news.sky.com/story/amp/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 32
+    images:
+      - url: "https://e3.365dm.com/21/04/1600x900/skynews-ocado-vans-delivery_5344331.jpg?20210416145509"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
     excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
     publishedDateTime: 2021-04-16T06:37:00Z

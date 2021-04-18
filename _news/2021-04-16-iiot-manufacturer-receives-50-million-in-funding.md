@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seeq Announces $50 Million Series C Funding Round Led by Insight Partners"
-    excerpt: "“By leveraging big data, machine learning, and computer science innovations ... Seeq is available in the AWS Marketplace and is an AWS Industrial Competency Partner. On Azure, Seeq has been available in the Azure Marketplace since 2019 and was recently ..."
-    publishedDateTime: 2021-04-13T16:57:00Z
-    webUrl: "https://www.automation.com/en-us/articles/april-2021/seeq-50-million-series-c-funding-insight-partners"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 23
-    images:
-      - url: "https://www.automation.com/getmedia/817e3230-09cb-4b04-9b57-efd9b8f8bd9e/Seeq-news-April-13-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Seeq Announces $50 million Series C Funding Round led by Insight Partners"
     excerpt: "“By leveraging big data, machine learning, and computer science innovations ... Seeq is available in the AWS Marketplace and is an AWS Industrial Competency Partner. On Azure, Seeq has been available in the Azure Marketplace since 2019 and was recently ..."
     publishedDateTime: 2021-04-14T19:31:00Z

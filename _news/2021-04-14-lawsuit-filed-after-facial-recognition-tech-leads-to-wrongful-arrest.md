@@ -19,379 +19,351 @@ topics:
   - AI
 
 related:
-  - title: "Detroit man sues police for wrongfully arresting him based on facial recognition"
-    excerpt: "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ..."
-    publishedDateTime: 2021-04-13T21:28:00Z
-    webUrl: "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wCFXwvsznnVpAgTx6vphHBWds9w=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69121480/acastro_180730_1777_facial_recognition_0002.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Man Sues Detroit Police After Facial Recognition Error"
-    excerpt: "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ..."
-    publishedDateTime: 2021-04-14T15:46:00Z
-    webUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
+    publishedDateTime: 2021-04-16T16:37:00Z
+    webUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html"
+    ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 59
+    quality: 108
     images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_SPIRIT_OF_DETROIT.jpg"
-        width: 950
-        height: 629
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
         isCached: true
-  - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
-    excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
-    publishedDateTime: 2021-04-14T18:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
+  - title: "Why Microsoft’s new AI acquisition is a big deal"
+    excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
+    publishedDateTime: 2021-04-17T17:25:00Z
+    webUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/"
+    ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Lawsuit filed against Detroit police after controversial facial recognition leads to arrest of wrong person"
-    excerpt: "DETROIT (FOX 2) - Robert Williams was arrested last year after facial recognition matched him to a surveillance photo of someone shoplifting from the Shinola store in Detroit in 2018. According to the lawsuit filed against Detroit police, investigators put ..."
-    publishedDateTime: 2021-04-13T16:21:00Z
-    webUrl: "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person"
-    ampWebUrl: "https://www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/lawsuit-filed-against-detroit-police-after-facial-recognition-leads-to-arrest-of-wrong-person.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 56
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2021/04/932/470/wjbk-facial-recognition-aclu-lawsuit.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Man Falsely Arrested Because of Facial Recognition Software Error Sues Detroit"
-    excerpt: "A Michigan man Tuesday filed a federal lawsuit against the City of Detroit over his a wrongful arrest, which he says was caused by faulty facial recognition technology."
-    publishedDateTime: 2021-04-14T02:00:00Z
-    webUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/"
-    ampWebUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 55
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2021/04/monitoring-1305045_1920.jpg?fit=1200%2C800&ssl=1"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Man mistaken for shoplifter through facial recognition technology sues Detroit"
-    excerpt: "DETROIT (AP) — A Black man who was arrested when facial recognition technology mistakenly identified him as a suspected shoplifter is suing Detroit police. Robert Williams of Farmington Hills is seeking compensation for the humiliating incident and ..."
-    publishedDateTime: 2021-04-13T22:26:00Z
-    webUrl: "https://www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit"
-    ampWebUrl: "https://www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/man-mistaken-for-shoplifter-through-facial-recognition-technology-sues-detroit?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 55
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/e218c58/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2015%2F10%2F05%2FGettyImages-84611044_1444057759686_24781005_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T23:25:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Black Michigan man sues police after grainy facial recognition system mistakenly identified him as a shoplifter"
-    excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
-    publishedDateTime: 2021-04-13T21:35:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9467525/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/13/21/41718256-0-image-a-42_1618346556399.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
-    excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."
-    publishedDateTime: 2021-04-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/"
-    ampWebUrl: "https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 54
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Robert_Williams_11.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Michigan man sues police for wrongful arrest based on facial recognition technology"
-    excerpt: "Williams thought the call was a prank. He was arrested later that day. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to reports. “I came home from work ..."
-    publishedDateTime: 2021-04-13T19:26:00Z
-    webUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2TZT7C2WHBCQHOH7TAUSA45JYE.jpg"
-        width: 4611
-        height: 2708
-        isCached: true
-  - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
-    excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
-    publishedDateTime: 2021-04-16T10:52:00Z
-    webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 51
-    images:
-      - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Black man wrongfully arrested based on false facial recognition match sues Detroit police"
-    excerpt: "A 43-year-old Black man who was arrested after facial recognition technology incorrectly flagged him as a shoplifting suspect filed a federal lawsuit against Detroit"
-    publishedDateTime: 2021-04-14T15:28:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police"
-    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 50
-    images:
-      - url: "https://media1.fdncms.com/metrotimes/imager/u/original/26899305/robert_williams_facial_recognition.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Farmington Hills man sues Detroit police after facial recognition wrongly identifies him"
-    excerpt: "Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. Robert Williams, 43, was falsely identified as a suspect in a theft investigation in which a man ..."
-    publishedDateTime: 2021-04-13T20:15:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/2021/04/13/detroit-police-wrongful-arrest-faulty-facial-recognition/7207135002/"
-    ampWebUrl: "https://amp.freep.com/amp/7207135002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7207135002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTF/f82b8daf-2cc4-411c-a019-f6f0687a9521-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y262&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Black man sues police after facial recognition mistakenly identified him as a suspected shoplifter"
-    excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."
-    publishedDateTime: 2021-04-13T21:35:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9467525/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9467525/amp/Black-man-sues-police-facial-recognition-mistakenly-identified-suspected-shoplifter.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/04/13/21/41718256-0-image-a-42_1618346556399.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Lawsuit: Man suffered 'great harm' after wrongful arrest based on Detroit's facial recognition technology"
-    excerpt: "An ACLU press release Tuesday claimed: \"Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States.\" The suit says Williams' Fourth Amendment rights were violated and that ..."
-    publishedDateTime: 2021-04-13T18:21:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2021/04/13/michigan-man-sues-over-arrest-based-facial-recognition-software/7203369002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7203369002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7203369002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTN/a595e4a3-a66f-4d87-8b48-6fc501a90f92-williams.jpg?auto=webp&crop=1319,742,x0,y67&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
-    excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
-    publishedDateTime: 2021-04-14T06:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 40
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
-  - title: "Man Sues Detroit Police for Arrest After Faulty Face Recognition"
-    excerpt: "A man is suing Detroit police for wrongfully arresting him based on a faulty match by facial recognition technology."
-    publishedDateTime: 2021-04-13T17:39:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/man-sues-detroit-police-for-arrest-after-faulty-face-recognition"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/42416e7/2147483647/crop/3000x1153%2B0%2B14/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fb9%2F01%2Fc59cf04143fbbdb5f9aff753de56%2Fgettyimages-485280467.jpg"
-        width: 960
-        height: 369
-        isCached: true
-  - title: "US man sues police for wrongful facial recognition-based arrest"
-    excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."
-    publishedDateTime: 2021-04-14T12:11:00Z
-    webUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    ampWebUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
-    excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
-    publishedDateTime: 2021-04-15T02:02:00Z
-    webUrl: "https://www.law360.com/articles/1374707/detroit-pd-sued-over-false-arrest-using-facial-recognition"
-    ampWebUrl: "https://www.law360.com/amp/articles/1374707"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1374707"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "US man sues police for wrongful facial recognition-based arrest"
-    excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
-    publishedDateTime: 2021-04-14T18:32:00Z
-    webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"
-    ampWebUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 39
-  - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
-    excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
-    publishedDateTime: 2021-04-14T15:07:00Z
-    webUrl: "https://thecrimereport.org/2021/04/14/detroit-lawsuit-charges-facial-recognition-software-misidentifies-people-of-color/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 34
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/39225139155_fd0c8fbdec_b-e1618411761977.jpg"
-        width: 720
-        height: 360
-        isCached: true
-  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
-    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
-    publishedDateTime: 2021-04-15T15:33:00Z
-    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 30
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
-        width: 1000
         height: 600
         isCached: true
-  - title: "ACLU seeks to make facial recognition use by police a civil rights issue with wrongful arrest suit"
-    excerpt: "The suit alleges violations of civil rights law by Detroit Police, which the ACLU has consistently blamed on the use of face biometrics."
-    publishedDateTime: 2021-04-14T20:43:00Z
-    webUrl: "https://www.biometricupdate.com/202104/aclu-seeks-to-make-facial-recognition-use-by-police-a-civil-rights-issue-with-wrongful-arrest-suit"
+  - title: "Microsoft doubles down on healthcare and conversational AI with purchase of Nuance"
+    excerpt: "Nuance has been the largest independent speech recognition vendor servicing healthcare and enterprise customer service markets. With this acquisition, Microsoft gets serious healthcare chops, an arsenal of conversational AI assets (including voice biometrics),"
+    publishedDateTime: 2021-04-15T09:42:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
-    excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
-    publishedDateTime: 2021-04-14T16:51:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/the-computer-got-it-wrong-why-were-taking-the-detroit-police-to-court-over-a-faulty-face-recognition-match/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
+  - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
+    excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
+    publishedDateTime: 2021-04-14T13:59:00Z
+    webUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/"
+    ampWebUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
     type: article
     provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 19
+      name: Dataquest
+      domain: dqindia.com
+    quality: 91
     images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Healthcare.jpg"
+        width: 850
+        height: 400
         isCached: true
-  - title: "Michigan Father Sues Detroit Police Department for Wrongful Arrest Based on Faulty Facial Recognition Technology"
-    excerpt: "Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to the lawsuit. “I came home from work and was arrested in my driveway in front of my wife and ..."
-    publishedDateTime: 2021-04-13T22:08:00Z
-    webUrl: "https://www.aclu.org/press-releases/michigan-father-sues-detroit-police-department-wrongful-arrest-based-faulty-facial"
+  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
+    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
+    publishedDateTime: 2021-04-16T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
     type: article
     provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 18
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 83
+  - title: "Microsoft’s latest acquisition shows speech recognition is big business"
+    excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
+    publishedDateTime: 2021-04-16T03:20:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
     images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
+        width: 740
+        height: 420
         isCached: true
+  - title: "Microsoft Competes With Google, Amazon In Healthcare"
+    excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
+    publishedDateTime: 2021-04-16T19:02:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 76
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-nuance-healthcare-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Microsoft, Nuance News May Signify Next Era of AI in Healthcare"
+    excerpt: "April 14, 2021 - Artificial intelligence in healthcare has mostly existed in the realm of the hypothetical. Clinical use cases for AI algorithms permeate the research sector, while rarely infiltrating real-world care settings. With the recent news of ..."
+    publishedDateTime: 2021-04-14T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/microsoft-nuance-news-may-signify-next-era-of-ai-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 71
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "SmartStream introduces data management AI on Microsoft Azure"
+    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
+    publishedDateTime: 2021-04-14T08:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 69
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
+    excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
+    publishedDateTime: 2021-04-14T10:59:00Z
+    webUrl: "https://www.analyticsinsight.net/google-amazon-microsoft-who-is-leading-the-ai-race/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-11.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Microsoft to buy speech recognition firm Nuance for $19.7 billion"
+    excerpt: "Nuance will bring a number of useful technologies under the Microsoft umbrella, including the popular Dragon NaturallySpeaking speech recognition software. Apple’s Siri uses technology from Nuance for speech recognition. The AI company has already ..."
+    publishedDateTime: 2021-04-14T11:08:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-microsoft-nuance/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 56
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2018/02/microsoft-1.jpg.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
+    excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
+    publishedDateTime: 2021-04-15T04:11:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft-buying-speech-recognition-firm-nuance-in-16b-deal/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
+  - title: "Microsoft's healthcare partnerships in the last 6 months: A timeline"
+    excerpt: "Microsoft has continued its push into healthcare by pursuing strategic partnerships to improve the nation's COVID-19 vaccine rollout, conduct clinical research and help hospitals manage their data. Below is a timeline outlining key moves Microsoft has recently made with other organizations: Oct."
+    publishedDateTime: 2021-04-14T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-s-partnerships-in-the-last-6-months-a-timeline.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
+    excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to grow Microsoft’s presence in the rapidly-blooming speech to text software space. The company ..."
+    publishedDateTime: 2021-04-14T09:22:00Z
+    webUrl: "https://techhq.com/2021/04/microsoft-flexes-speech-recognition-muscle-with-us19-7b-nuance-acquisition/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
+        width: 1024
+        height: 666
+        isCached: true
+  - title: "What to know about Microsoft’s Azure cloud strategy"
+    excerpt: "The global coronavirus pandemic has validated Microsoft’s hybrid go-to-market strategy that recognises the cloud is not a one-size-fits-all solution and providers must meet customers where they are on their digital transformation journeys,"
+    publishedDateTime: 2021-04-13T22:45:00Z
+    webUrl: "https://www.crn.com.au/news/what-to-know-about-microsofts-azure-cloud-strategy-563319"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210414094154_iStock-471179856.jpg"
+        width: 1254
+        height: 836
+        isCached: true
+  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
+    excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."
+    publishedDateTime: 2021-04-15T07:15:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2021/04/15/commentary/world-commentary/microsoft-ai-nuance-communications-dax/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/04/np_file_81319-1-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
+  - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
+    excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
+    publishedDateTime: 2021-04-15T07:15:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
+        width: 450
+        height: 334
+        isCached: true
+  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
+    excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."
+    publishedDateTime: 2021-04-14T19:50:00Z
+    webUrl: "https://ca.investing.com/news/technology-news/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2407357"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 52
+    images:
+      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg"
+        width: 728
+        height: 485
+        isCached: true
+  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
+    excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."
+    publishedDateTime: 2021-04-14T10:28:00Z
+    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
+    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 41
+  - title: "Microsoft’s share price pops after Nuance acquisition"
+    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
+    publishedDateTime: 2021-04-16T12:25:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 41
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
+  - title: "Microsoft cools data center servers in liquid-filled tanks"
+    excerpt: "As advances in air-cooled computer chip technology have slowed, Microsoft touted its new cooling system that’s running in a production environment."
+    publishedDateTime: 2021-04-13T20:12:00Z
+    webUrl: "https://gcn.com/articles/2021/04/13/liquid-cooled-data-center-servers.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2021/April/MSliquidcooledservers.jpg"
+        width: 760
+        height: 368
+        isCached: true
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Why Did Microsoft Acquire Nuance?"
+    excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
+    publishedDateTime: 2021-04-15T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/why-did-microsoft-acquire-nuance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-13.jpg"
+        width: 2240
+        height: 1261
+        isCached: true
+  - title: "6 most recent interoperability initiatives from Google, Apple, Amazon and Microsoft"
+    excerpt: "The six most recent interoperability initiatives published by Becker's Hospital Review: Google is in the early stages of a new project that aims to explore and develop a new consumer-facing health records tool for Android users,"
+    publishedDateTime: 2021-04-13T20:18:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/6-most-recent-interoperability-initiatives-from-google-apple-amazon-and-microsoft.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/5.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
+    excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
+    publishedDateTime: 2021-04-17T00:29:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/16/seattle-judge-privacy-suits-amzn-msft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "sX4Knj0VEmn5Q3kfFUVIku1pQfJoKRJHB5VIUBillA40uMcRINSRqfeGk1f3O/kpygXZFpgCvGyTWIRi4Reub8tq9hNmwrpUPyQwHnHfJDYQmXX8jbIySK1AeCud66ISJ6OnBAqPG/YQkxtEVPJ5QvLEOeFwGBAZdLIFAg4BcaMrjLHXuKUCGuJj/64cXA3OyyEosdTrsqQDGLY6HPPl0iySuw9KITqDxwbYDfZlqv786GUTNBNotgu5mqkuSZ97xZEd76849HCinPA4mRbdd29buGJI+UnVeTkvJbtOo3YevwMDx7trLHcYAIOhDIRPzlVmAF8f1JZ6X8SRff9MsoI9MOIydbrOXveyDO+P7BWqJozja0epivt0JJpeq79+NQnQElXf66plveC6L02zHiap2Nmj3uo3H8mORIXdN3sApcJKie5yB3X1qmmZSEenZnTeFMJzueIE0h8Euap0p2fgXb7qFMRIZuP0Kd3HWagLpuO3XGCji6EfQhoakJ1Bki/GBFlxOPJrMHvy7yeh/g==;MLGjJnXBSgRX3VgPq3ThXg=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Opinion: Time to End Police Use of Facial Recognition Tech"
-    excerpt: "The use of facial recognition technology by police represents a breach of the public trust and a move toward the sort of widespread and invasive surveillance that has no place in our communities. (TNS) — Police departments in Hampton and Newport News recently joined the ignoble list of law enforcement agencies that lied about its officers using controversial facial recognition software,"
-    publishedDateTime: 2021-04-13T16:17:00Z
-    webUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/Opinion-Time-to-End-Police-Use-of-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/Shutterstock_Facial+Recognition_Header.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Civil rights organizations call for ban on corporate use of facial recognition"
     excerpt: "at the start of this year. The Portland ordinance bans private entities from using facial recognition technology in places of public accommodation. “We believe this ordinance should be used as a ..."
     publishedDateTime: 2021-04-14T10:00:00Z

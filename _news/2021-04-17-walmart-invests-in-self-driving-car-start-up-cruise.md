@@ -225,6 +225,20 @@ related:
         width: 1840
         height: 1200
         isCached: true
+  - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
+    excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
+    publishedDateTime: 2021-04-16T04:36:00Z
+    webUrl: "https://www.ibtimes.com/walmart-joins-multibillion-dollar-investment-self-driving-cars-3181996"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/self-driving-concept-cars_0.JPG"
+        width: 1200
+        height: 491
+        isCached: true
   - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
     excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
     publishedDateTime: 2021-04-15T15:57:00Z

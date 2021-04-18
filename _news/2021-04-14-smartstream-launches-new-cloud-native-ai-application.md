@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/smartstream-launches-new-cloud-native-
 webUrl: "https://ibsintelligence.com/smartstream-launches-new-cloud-native-ai-application/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "SmartStream introduces data management AI on Microsoft Azure"
-    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
-    publishedDateTime: 2021-04-14T08:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
+  - title: "CloudMoyo Enables Data and Infrastructure Readiness for Advanced Analytics and AI/ML Applications at Terracon"
+    excerpt: "Successful implementation of Snowflake data architecture on the Microsoft Azure platform has created centralized access for all structured and semi-structured data and allows us to leverage BI and AI capabilities for better business decisions.”"
+    publishedDateTime: 2021-04-14T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-corporate-news-north-america-9633ba14bf0645d2bdd88941725d8e62"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "SmartStream Expand Global Footprint With its Latest Cloud-Native AI Application"
     excerpt: "SmartStream Air version 3 is cloud-native, behaves like a consumer app, requires no training or IT skill set for its use and is the fastest AI data quality application available today. SmartStream Air has always been hosted on Amazon Web Services (AWS),"

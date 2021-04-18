@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Behind Microsoft’s Nuance Deal: Natural Language Processing, Explained"
-    excerpt: "From virtual assistants to call center attendants, voice is beginning to rival text as the primary computing interface."
-    publishedDateTime: 2021-04-13T16:02:00Z
-    webUrl: "https://www.wsj.com/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
-    ampWebUrl: "https://www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/behind-microsofts-nuance-deal-natural-language-processing-explained-11618333320"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 121
-    images:
-      - url: "https://images.wsj.net/im-324318/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
     excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
     publishedDateTime: 2021-04-16T16:37:00Z
@@ -144,19 +128,19 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Expect an even hotter AI venture capital market in the wake of the Microsoft-Nuance deal"
-    excerpt: "Microsoft’s huge purchase of healthtech AI company Nuance led the technology news cycle this week. The $19.7 billion transaction is Microsoft’s second-largest to date, only beaten by its ..."
-    publishedDateTime: 2021-04-13T15:40:00Z
-    webUrl: "https://techcrunch.com/2021/04/13/expect-an-even-hotter-ai-venture-capital-market-in-the-wake-of-the-microsoft-nuance-deal/"
+  - title: "SmartStream introduces data management AI on Microsoft Azure"
+    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
+    publishedDateTime: 2021-04-14T08:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
+      name: Finextra
+      domain: finextra.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533"
-        width: 533
-        height: 400
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
     excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
@@ -211,20 +195,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "They’re based in Africa. To stop poaching, they turn to Azure to effectively patrol vast amounts of area, which is what the range of the white rhino is, and…use AI and machine learning techniques fitted on quadcopter drones with cameras to constantly ..."
-    publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/7"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
     excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to grow Microsoft’s presence in the rapidly-blooming speech to text software space. The company ..."
     publishedDateTime: 2021-04-14T09:22:00Z
@@ -266,6 +236,22 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2021/04/np_file_81319-1-870x489.jpeg"
         width: 870
         height: 489
+        isCached: true
+  - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
+    excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
+    publishedDateTime: 2021-04-15T07:15:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
+        width: 450
+        height: 334
         isCached: true
   - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
     excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."
@@ -371,6 +357,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
+    excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
+    publishedDateTime: 2021-04-14T15:43:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lawsuit-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "OdGAhcH5H/2JWgw2MEKUYmot8PrPKNMpoVqxkJVgkCHy1TIXmzAU59HlyEWd4PZGNBzqEmokx+lEDSSXfGWMS3RVSqx9mTBoSAdcOzow38hzaSIirI8mTF6/x7NA0Z3yLSNOMIKWz9Hu5fVNHkZNz7/wiqqoKxLwdtBR/gZsd+qqwr+hz/iSRdgXfTOK8mOfAwblprtsR+7RTAdfhVJ8NxVOwO2sY0hG7e9Bq7brLe+L4L8YfuenmAnsQ6A/rMi22TEdyweJ0SFfvcgGZrVFsl3eld/XF7n/yfLnFdmT1omUviIU//dcdVoIxAkdLMo210JTqfpWlS8kmNBW1xMC8P6e9qHKDeo9V7ShTYZSXnInvOPjUn6NrchuW1It2sYaVY0tf+em+0ab+/EUWuT17KJxCoDj55L157IqUgaoXEfxaKiEblGczHxPCSnYYcNcawED4zn+D/rVItrebpyPAFsMRpAMvNgdQqrv1jJT11csNl9lxvIpZI1R+PTHFdYUBhbIuRHWZS7iFkjpph/OUA==;Vzp8dsjMnCQf3HjWIvozcg=="
 ---

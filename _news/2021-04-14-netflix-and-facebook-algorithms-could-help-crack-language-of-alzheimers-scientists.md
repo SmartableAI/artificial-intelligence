@@ -27,22 +27,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Algorithms Used by Companies Like Netflix Could Decipher Biological Language of Neurodegenerative Diseases"
-    excerpt: "Powerful algorithms used by companies like Netflix, Facebook, and Amazon could have major implications in healthcare. They have demonstrated the ability to predict the biological language of cancer and other neurodegenerative diseases such as Alzheimer’s."
-    publishedDateTime: 2021-04-13T15:39:00Z
-    webUrl: "https://www.unite.ai/algorithms-used-by-companies-like-netflix-could-decipher-biological-language-of-neurodegenerative-diseases/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 6
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/dna-3539309_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-
 secured: "sHtyyxlthHRRg4GmoPlEkPOIbJkgy/6oRrpXTxhx8OE4dKFY1l4Dj8qgNtbtqIpWDL7ibuGBxaH9bGov3F7s7yuGbEZuDw5qNLte5LtlKFUbzDdpi7a+ud499yCtIRWa0yY8mXX/D9KBC90S/S1FUdUGECVJxRoQH1KhXIIloDrkg0ciMLj10Od3NrbwgLR/A2JGKnSONi5RitpzUW1inUeUyZP17+OOpbAEzG/e4FhgLiOhUuvupnUNsaixgg9aH65MnwnOLngYRTOqn08gTgTQ8wZexac9VCWOYCGIJ121uLv+SIhX0tmGtd9REID6UfcyS4Byu0mm1jd43aE6bJYGRKtYuHz97LGzH/X26pQ=;Y6OAtMFVPnik4r8NpvIqlg=="
 ---
 

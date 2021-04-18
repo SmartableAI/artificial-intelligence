@@ -90,34 +90,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
-    excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
-    publishedDateTime: 2021-04-13T16:32:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/nvidia-rolls-out-slew-new-ai-hardware-data-centers"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 39
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx%20superpod%20supercomputer.jpg"
-        width: 1420
-        height: 747
-        isCached: true
-  - title: "Cloudflare Partners with NVIDIA to Bring AI to its Global Edge Network"
-    excerpt: "(NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced it is partnering with NVIDIA to bring AI to the edge at scale. Today’s applications use AI for a variety of tasks from translating text on webpages to object recognition in images,"
-    publishedDateTime: 2021-04-13T17:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-a8bdfbd712d944c2bcc0626f58cd079d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "hlNW0kFgYwK4VJlYy55VA/KxjtvvHUjJMnXXrYJXEaADd3uUvRkACBEefbZT42rVOBpS0cnyz87rlPH8GxT5P/Dku4NT1+AekyLB54vQo2jSSSjLWZB1iO7+B/UR1VGgNK8CTzMuM1cOB8kPRE85LaNGJqAHQbteYqP1HX4AztjPNKjd+ZIF0cd1ZVCWD0ZQXCmwXGuyNHxKe9f1FSEwmZFzBcdlUhJDvzjyhJKInKeoT71U0dHT5eiSPVrdVQLZKWq7cJ8KmPamsfiOAjdojqnin9jhW3nGtCEshe/hqparYrqWyIR5uD1895L4mPLGIPMwUV5xFCS6+qLO6UmPJG7f3MXf2RO2McVmygG4b/UNDogqVBkzFMjBQvEptwLsVfOG/43i5FtKv9yzFYU9YTdn/ZnerGcdumK1iWoiFDpWKPBNLfF97Hv+Q2f+47aFo1eQ6+yFFxmq8TV7GBJbUiWCMFdXqanQ/hQyfNCfBK28k/BoMOk03io0cxhh/uu6uip3cGjXPJ2nWJuptjc/ew==;tpAvBYyHFWuE16knzqfZ3A=="
 ---

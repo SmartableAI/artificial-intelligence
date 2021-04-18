@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "A Comparative Study of the Performance of Machine Learning based Load Forecasting Methods"
-    excerpt: "A significant aspect of power system control is short-term power load forecasting. It is the basis for the preparation of network systems, the exchange of energy and load scheduling. The accuracy of power load forecasting is directly linked to the security,"
-    publishedDateTime: 2021-04-17T03:31:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9395834"
+  - title: "SSRCNN: A Semi-Supervised Learning Framework For Signal Recognition"
+    excerpt: "Abstract: Due to the emergence of deep learning, signal recognition has made great strides in performance improvement. The success of most deep learning methods relies on the accessibility of abundant labeled training data. However, the annotation of ..."
+    publishedDateTime: 2021-04-18T02:07:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9383106"
     type: article
     provider:
       name: IEEE
       domain: ieee.org
-    quality: 10
+    quality: 4
 
 secured: "oQ3P8xvawPlLrlqLmrlpQBCpKVGyh3jwNyHiUYOJiN5XmXrkg965/YzQvgDD4eTodZWqHzwAeJF0jqqZaI0s/h0B720FkypfD1PTU4OmSOT3qb6TQbupd0bQlSbwWxMNNTuc58SQ7B3ruTN5wbk8Chzn6ECANPZ5AUephBoiSSGwK/GxJwEyfk3B6+DXV7RgtcFZpCilmq/PRdbyxGPb07kCi43g2jioPCdFfoVzbWBaNxciRUw9+jbFllc/urNjBFYnSdiqS7/EkZzXJST0Eidg0eQTl4kikZhvIZnUzLABkoLCr8UEGNO6wZtaNUSpB1o8ZO7WJ5LefPru5SqYgEK+quVQnnWbqVEmjw65d6Y=;lYNtgDG3ZH5oYuDkoe9tRA=="
 ---

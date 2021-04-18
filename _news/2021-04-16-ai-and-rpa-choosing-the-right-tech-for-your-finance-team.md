@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/04/16/ai-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/04/16/ai-and-rpa-choosing-the-right-tech-for-your-finance-team/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI and robotics tech team up for firefighters"
-    excerpt: "Robots have been used to fight fires for more than a decade ... told Design News recently, “our research utilizes artificial intelligence to help in these dynamic situations by providing real-time image enhancement capabilities to remove smoke, fog ..."
-    publishedDateTime: 2021-04-13T16:10:00Z
-    webUrl: "https://www.embedded.com/ai-and-robotics-tech-team-up-for-firefighters/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 69
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/04/04lf1.jpg"
-        width: 626
-        height: 417
-        isCached: true
 
 secured: "hLPQS7UVW2drwOt0IBC0m5OiR38wTeJ/rko5GPCXqg4XFh/XUUU3o3KlBLYzqyXFvrFZtsZq6EfWV269+7o4uZU2rSW/2ZWjZWYCIq7OaeT2bNxC1GOJmDRCvC8IH/EvgzGRCEn49TuvEPF7EkIVfgKsOSOmVTNFvvaNEKEMnwL8OdAAntv6UXlUthCTVWkgSijtzB0gQQJJBAazKaj/a51Me6DBO0zd5jQpn0FnPbbsggeSCs0Zqt3+bUuHrB/qOSlGoGkM3vaVFx5AnoP7KC+TypD9+/53A4RgmTlh2mjunigFR53AXeAWJJXNZk/ictIRvOmBav3BqGRSUhAVjF3LsQbd6zDNmEDJOSt4fL7HPpPERJmROGAb6WFvi3mzuJDKDWxf9esWjSiQMgX3fNjRwS/wX8uLv3FgqKVhFBAk+23i7P7YU6te6PYw87nc0oQvzY3+6pNiQOZ6jbESAx65AQpvzaxKB8Vatus8rRjLSRmsoa25T+kSpuiz0h4dYXe7Bz6jLFHg1nQG3Y8bEg==;id4Yb7kp0SXjJ1HpK3f26w=="
 ---

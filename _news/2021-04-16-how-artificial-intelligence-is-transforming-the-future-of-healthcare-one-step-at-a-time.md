@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelli
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Travel"
-    excerpt: "International Air Transport Association (IATA) research indicates passengers’ most desire: Increased innovation Reduced travel disruptions A seamless travel journey Streamlined baggage handling Greater accessibility for passengers with disabilities It is against this backdrop that Houston Airports and Avalon Airport have sought to innovate their operations."
-    publishedDateTime: 2021-04-13T16:45:00Z
-    webUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html"
-    ampWebUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/Shutterstock_Airports_Empty.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Promise and Peril: How artificial intelligence is transforming health care"
     excerpt: "Our latest eBook examines the promise and peril of Artificial Intelligence, as well as insights from experts in the field. Learn more."
     publishedDateTime: 2021-04-16T02:36:00Z

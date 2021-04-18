@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-m
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Financial regulators must keep up with the evolution of fintech"
-    excerpt: "In 2009, in the midst of the global financial crisis, Paul Volcker, the former Federal Reserve chair, famously observed that the only socially productive financial innovation of the preceding 20 years was the automated teller machine (ATM)."
-    publishedDateTime: 2021-04-13T16:19:00Z
-    webUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech-11618330378503.html"
-    ampWebUrl: "https://www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/financial-regulators-must-keep-up-with-the-evolution-of-fintech/amp-11618330378503.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/04/13/600x338/UPIPay_1579504433616_1618330550206.PNG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Marble Financial Completes Acquisition of Canadian Fintech Inverite"
     excerpt: "Marble Financial Inc. (CSE: MRBL; OTC: MRBLF; FSE:2V0), an AI-driven financial technology company that educates and helps Canadians better understand and manage their current cash flow and credit towards a better financial future,"
     publishedDateTime: 2021-04-15T17:18:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
         width: 600
         height: 512
-        isCached: true
-  - title: "Duke Pratt School of Engineering, FDIC to partner of fintech innovation"
-    excerpt: "Editor’s note: LimeLight is a new feature from WRAL TechWire offering another means of publishing noteworthy news. Be sure to check out more LimeLight worthy news at this link. WASHINGTON – The Federal Deposit Insurance Corporation (FDIC) and Duke ..."
-    publishedDateTime: 2021-04-13T16:41:00Z
-    webUrl: "https://www.wraltechwire.com/2021/04/13/duke-pratt-school-of-engineering-fdic-to-partner-of-fintech-innovation/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 24
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/11/TechwireLimeLightLogo20200122_2_Blue-Green-e1606302743940-1024x575.png"
-        width: 1024
-        height: 575
         isCached: true
   - title: "PwC unveils fintech marketplace"
     excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."

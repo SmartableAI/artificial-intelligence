@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Future of Travel"
-    excerpt: "International Air Transport Association (IATA) research indicates passengers’ most desire: Increased innovation Reduced travel disruptions A seamless travel journey Streamlined baggage handling Greater accessibility for passengers with disabilities It is against this backdrop that Houston Airports and Avalon Airport have sought to innovate their operations."
-    publishedDateTime: 2021-04-13T16:45:00Z
-    webUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html"
-    ampWebUrl: "https://www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/The-Future-of-Travel.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/Shutterstock_Airports_Empty.jpg"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "6gUAQyY7Ox6Vu5WJhD+pBODk0FFfPUprxxNGmiM0yz1PDmK6p0o29yZCAtBsBtML2s9Y0s/OvsSzjK4bEVpurvUyvhgeo/92cVP5IGitYCjMVrB5I5BY7hfjCSZ30b6gGZzuCkEDg7fwCvDfM3HuUeegSpmga5yQgTW/xQr4prS7VU3L3TTMPCwzAGydGhboQAv4Ve17IUuqn1YMDH9xmLKnnmVRLIXNP8XpY4tmihklm1Z4aB1+FiIO45PHYWxzFGx4oqtVsUuUOjA9RexuqJb+17l4tYr3zqa6aq2ByboL+7Rocmh4Rfohi2kXeJ1aajps3+MyhHpIt77yxRv1WsF1DC2ed15WxAErPuOm4HE=;QUPPM8aRofDKMISkJU9Z5w=="
 ---
