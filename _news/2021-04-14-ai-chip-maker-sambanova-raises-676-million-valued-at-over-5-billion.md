@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C01MU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C01MU"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg"
         width: 538
         height: 411
-        isCached: true
-  - title: "AI chip maker SambaNova raises US$676 million"
-    excerpt: "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised US$676 million in a funding round led by SoftBank Group Corp's Vision Fund 2."
-    publishedDateTime: 2021-04-14T00:29:00Z
-    webUrl: "https://www.crn.com.au/news/ai-chip-maker-sambanova-raises-us676-million-563325"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/iStock-918508630.jpg"
-        width: 1365
-        height: 768
         isCached: true
   - title: "AI chip companies SambaNova and Groq raise $676m and $300m respectively"
     excerpt: "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn."

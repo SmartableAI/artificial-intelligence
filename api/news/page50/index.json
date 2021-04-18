@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-03-10-global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-marketwatch.md",
+      "title": "Global Cloud AI in Fintech Market Growth (Status and Outlook) 2021-2026 - MarketWatch",
+      "excerpt": "11.8.1 Wi Vid Wireless Video Cameras.com,LLC Company Information 11.8.2 Wi Vid Wireless Video Cameras.com,LLCCloud AI in Fintech Product Offered 11.8.3 Wi Vid Wireless Video Cameras.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-2021-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-2021-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-how-to-run-ml-applications-on-particle-hardware.md",
       "title": "How To Run ML Applications On Particle Hardware",
       "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
@@ -1095,49 +1147,6 @@
       "provider": {
         "name": "ScienceBlog",
         "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-google-open-sources-automl-algorithm-model-search.md",
-      "title": "Google Open-Sources AutoML Algorithm Model Search",
-      "excerpt": "A team from Google Research has open-sourced Model Search, an automated machine learning (AutoML) platform for designing deep-learning models.Experimental results show that the system produces ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/google-model-search/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/google-model-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/google-model-search/en/headerimage/google-model-search-header-1614468411315.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning System Market Size Worth USD 93.34 Billion in 2028, Market Trends - Increased investment in deep learning R&D"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 13, 2021 (AB Digital via COMTEX) -- The global deep learning system market size is expected to reach USD 93.34 Billion at a steady CAGR of 39.1% in 2028, according to ..."
-    publishedDateTime: 2021-04-13T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-size-worth-usd-9334-billion-in-2028-market-trends---increased-investment-in-deep-learning-rd-2021-04-13"
+  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
+    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
+    publishedDateTime: 2021-04-16T01:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in BFSI Market Size Worth USD 68.23 Billion in 2028, Market Trends – Increased usage during COVID-19 pandemic"
-    excerpt: "Apr 13, 2021 (AB Digital via COMTEX) -- A closer look at the aspects including but not limited to Artificial Intelligence in BFSI market segmentation by the end-user, end-use, geography, type, and application forms an integral part of the research report."
-    publishedDateTime: 2021-04-13T23:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-size-worth-usd-6823-billion-in-2028-market-trends-increased-usage-during-covid-19-pandemic-2021-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
+        width: 300
+        height: 298
         isCached: true
 
 secured: "VxwxTRbnB5J4buzQ1e++lipqqPJNmX20tAe9zwnkLj6GePN1eCysu3xbDqakZDY/j3f4yzbYzI13NUyorEphsfaVDNHCP+iGkb6guZrxXvCDGQb1yhpE848Nw4LNnH6tkaMfvIGOkj4sz4yqJHFbh5gPCNktZuwPduIOhANAElTqMqxUOYxGFsi0hILKcqiDCYZJUYdsYZwwCEwA3MFoyOBTqstdv5sjsstq5F8hZNKnEWPfddhXw6oxzdPU0yT/nZDihsoW0rHu0PHVWt1stGxFw7RoLXmWf9ImMtPn8nEb+G6N4+Bem56ND+TiWl2xFsb3qAet5KPS6OG64+MzjRTftsrQ3KwBVVUTZd3S+YQ=;sD1aHn710KzkgvvnhZ2vjQ=="

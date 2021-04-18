@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Wrongfully arrested man sues Detroit police over false facial recognition match"
-    excerpt: "A Michigan man has sued Detroit police after he was wrongfully arrested and falsely identified as a shoplifting suspect by the department’s facial recognition software in one of the first lawsuits of its kind to call into question the controversial ..."
-    publishedDateTime: 2021-04-13T23:25:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/04/13/facial-recognition-false-arrest-lawsuit/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W3VDXSU4RAI6XMXVPUXQDATVBU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
     excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."
     publishedDateTime: 2021-04-14T09:00:00Z
@@ -188,17 +172,6 @@ related:
       name: WION
       domain: wionews.com
     quality: 39
-  - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
-    excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
-    publishedDateTime: 2021-04-13T23:12:00Z
-    webUrl: "https://www.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2104/S00094/police-engages-experts-to-better-understand-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 38
   - title: "State surveillance body cautions over police facial recognition technology"
     excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
     publishedDateTime: 2021-04-15T22:42:00Z

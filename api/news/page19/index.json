@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-01-read-resist-observing-trans-day-of-visibility.md",
+      "title": "Read & Resist: Observing Trans Day of Visibility",
+      "excerpt": "You can read more about everyday ways to support the trans and nonbinary people in your life here. Strangio and Willis explain why they expanded Trans Day of Visibility to Trans Week of Visibility and Action,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "originalUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2021/3/31/60c69bc7-48ab-4c30-95a8-e9275fed1dee-trans-day-of-visibility.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmagazine.com/culture/trans-day-visibility/amp",
+      "cdnAmpWebUrl": "https://www-wmagazine-com.cdn.ampproject.org/c/s/www.wmagazine.com/culture/trans-day-visibility/amp",
+      "publishedDateTime": "2021-03-31T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "W magazine",
+        "domain": "wmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
       "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
       "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
@@ -1162,49 +1205,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
-      "title": "The Future of Lab Robotics",
-      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
-      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
-      "publishedDateTime": "2021-03-31T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

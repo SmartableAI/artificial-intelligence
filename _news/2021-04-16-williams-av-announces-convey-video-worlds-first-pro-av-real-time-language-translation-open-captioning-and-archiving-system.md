@@ -2,24 +2,28 @@
 category: news
 title: "Williams AV Announces Convey Video - World's First Pro-AV Real-Time Language Translation, Open Captioning, and Archiving System"
 excerpt: "\"Utilizing leading-edge AI-based technology, Convey Video enhances communications across boundaries and languages. Whether it is enhancing comprehension in Higher Education, translation and ..."
-publishedDateTime: 2021-04-15T22:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20653055/williams-av-announces-convey-video-worlds-first-pro-av-real-time-language-translation-open-caption"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20653055/williams-av-announces-convey-video-worlds-first-pro-av-real-time-language-translation-open-caption"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20653055"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20653055"
+publishedDateTime: 2021-04-15T22:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
+webUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "8M8+IEGOG16b+CTOF5OIa3XJjCS7jKVrcbFQW1NWrVDXwr0lOdJfHqb0xSSUqBk3M7r3G/zzETea347vVTE5yKZ+EmsCVLrRRXDmMniZsCH5HrEry7SKK9EiLTDveV8bvqBAfU1+xNdyC6koa0beX0aeTwIyAk98XKNuGTEKBGXRYF0mpP+AhRZQA+Z53a6nNwA9Y8MtnBhBnrGOluMvxGoGfcg2W1gu4Jx1+i/LR0SuAgsbPZn+avyMUsumsY1S67Ic+cZwmJ5/x58xEegUL51a4yeeCfyjWZQo0f6BbSHGBw0VQZ8MA2alBpu6+Fd6kYGBnzN+ID29Llk/lF5VEvsiC+/BhSZI8ZKy7kc8tWA=;LwKfYGDGKLZdMTXpkf8ObA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1489012/WilliamsAV.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "bjPlu6liGdVk2CmhZukIWRdcY+N37WK885eSrXp/v1LIONxBCHqe2gt+s7V5y+V+PPGeaKyVpCkdEcLuPcoFAfeYqKdnRQ4c4eEsI0rMYffatHlzD2T0J9FPwOmuLPp9j59Serpd3p9w4GbdjDxL+CJrRSxRhK9eMZ+yL5EQFIzO07ehVjaIuJLOKWgd/Kk6l79hvK5GCwVJ5O1IplqB261G7nBDQg4EAvG4rW1eeeyLqNlPq8D/lYFkOGeUus/VArPuXkfQOe856yxU53Mho+gJ9cjHBC/rAwwPYny7iv4M9f/IS+LQhTewIHMKUzuUD5HQIWSSR/OOYxRTZZS7fTAEEuUBVJkH76zJmma092Y=;xjfmPslxFcbaRQl/oOqxCg=="
 ---
 
