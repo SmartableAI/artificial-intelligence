@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
+    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
+    publishedDateTime: 2021-04-16T15:45:00Z
+    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
     excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
     publishedDateTime: 2021-04-13T22:23:00Z

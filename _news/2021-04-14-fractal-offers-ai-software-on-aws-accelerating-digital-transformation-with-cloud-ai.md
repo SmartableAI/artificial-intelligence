@@ -55,20 +55,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
-    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
-    publishedDateTime: 2021-04-13T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "AWS launches Amazon Digital Suite to enable digital transformation for Indian SMBs"
     excerpt: "Building on Amazon’s commitment to digitize 10 million Indian small and medium businesses (SMBs) by 2025, Amazon Web Services (AWS) has announced the launch of the Amazon Digital Suite, a curated set of software solutions aimed at enabling SMBs to easily digitize their operations and bring their businesses online."
     publishedDateTime: 2021-04-16T13:04:00Z

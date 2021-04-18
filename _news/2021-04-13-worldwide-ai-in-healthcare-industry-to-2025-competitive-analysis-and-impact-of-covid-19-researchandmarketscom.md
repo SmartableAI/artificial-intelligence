@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market"
-    excerpt: "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of"
-    publishedDateTime: 2021-04-13T09:26:00Z
-    webUrl: "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
-    ampWebUrl: "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
+  - title: "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others"
+    excerpt: "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ..."
+    publishedDateTime: 2021-04-14T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 74
     images:
-      - url: "https://cdn.openpr.com/U/4/U413109506_g.jpg"
-        width: 720
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Natural Language Processing Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62049/natural-language-processing-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 17
 
 secured: "K1j5G7sVUjtF4t0mJAOevz2rfnYyCoYVq2nf4LkSPiBSTjQYu/gtBW7LeVvPSpTlxAGug3ypDETTgt0gcLhTtUWNIBebaJBS+daSYpbQMl6U4+Hrvk2tlHbXJby9HEJYLzRnYwsL5ktcgeF/RJy7vqdHS/02PDP0D3opj2CquYbiye/mhJ5kYq3n8bxbWlQLFdojT8IEn7ZYGr+yrqzUxaKm5p7xf42dZApgk8VnJZG3Ci1D8m12ZcG8EXacG3JkrY7c9BY/Su6HnNmAk13GN9eLYC+9TWZLatQ8Q0KrQb3kOCzgwSN6mgbeWIGHkcSIlyRfft1wb/aTxlEuGWsONyfq001JuywXr1Y84lEgosc=;EKxDK596nZfAiH5v23ZgpA=="
 ---

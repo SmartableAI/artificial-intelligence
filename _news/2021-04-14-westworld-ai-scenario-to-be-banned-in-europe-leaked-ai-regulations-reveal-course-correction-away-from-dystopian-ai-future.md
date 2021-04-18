@@ -62,20 +62,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Europe Is Already Policing Privacy. AI Could Be Next"
-    excerpt: "Europe is already the world’s tech privacy cop. Now it might become the AI cop too. Companies using artificial intelligence in the EU could soon be required to get audited first, under new rules set to be proposed by the European Union as soon as next week."
-    publishedDateTime: 2021-04-13T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-04-13/europe-is-already-policing-privacy-ai-could-be-next"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/injothoOqre4/v0/1200x810.jpg"
-        width: 1200
-        height: 810
-        isCached: true
   - title: "Europe seeks to limit use of AI in society"
     excerpt: "The use of AI in the military is exempt, as are systems used by authorities in order to safeguard public security. The suggested list of banned AI systems includes: those designed or used in a manner that manipulates human behaviour,"
     publishedDateTime: 2021-04-14T14:55:00Z

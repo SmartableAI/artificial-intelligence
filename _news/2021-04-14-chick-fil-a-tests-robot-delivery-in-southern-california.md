@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California Assembly bill aims to minimize discriminatory decisions by AI systems used by state"
+    excerpt: "That can lead to algorithms that make bad decisions or even perpetuate racial and gender bias. These algorithms feed into an artificial intelligence framework where machine learning makes decisions and predictions from data about people."
+    publishedDateTime: 2021-04-17T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/article/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/amp/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/amp/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 47
+    images:
+      - url: "https://s.hdnux.com/photos/74/30/16/15827881/11/rawImage.jpg"
+        width: 2048
+        height: 1634
+        isCached: true
   - title: "University of Southern California Information Sciences Institute researchers using AI to decode unique cultures"
     excerpt: "Following a $2.2 million DARPA grant, researchers at USC Viterbi’s Information Sciences Institute (ISI) will use AI to disambiguate these cultural codes to better understand the social science that drives group behavior."
     publishedDateTime: 2021-04-14T19:14:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market to See Major Growth by 2026 | Amazon, Intel, Micron"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Security Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and"
-    publishedDateTime: 2021-04-13T09:11:00Z
-    webUrl: "https://www.openpr.com/news/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/4/U413327692_g.jpg"
-        width: 800
-        height: 445
-        isCached: true
   - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
     publishedDateTime: 2021-04-14T17:15:00Z

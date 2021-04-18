@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self driving robot car will start delivering Domino's pizza in Houston"
-    excerpt: "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot."
-    publishedDateTime: 2021-04-13T10:11:00Z
-    webUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston"
-    ampWebUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
-    type: article
-    provider:
-      name: KRISTV.com
-      domain: kristv.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Houston, we have pizza: Domino’s and Nuro run self-driving delivery robots"
     excerpt: "Pizza chain Domino's and self-driving robot develope Nuro are working together to deliver pizzas by, well, robot to select customers in Houston."
     publishedDateTime: 2021-04-13T12:00:00Z
@@ -115,6 +99,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Food-Delivery Robots Are Roaming the Streets of Miami"
+    excerpt: "Self-driving robots are now roaming the streets of Miami, delivering takeout orders to customers who opt for an automated driver instead of a human one. The robots are the result of a collaboration between Miami-based Reef Technology,"
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.miaminewtimes.com/restaurants/reef-technology-and-cartken-team-up-in-miami-to-provide-robot-food-delivery-12069271"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 39
+    images:
+      - url: "https://images1.miaminewtimes.com/imager/u/original/12102751/img_1770.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Video: 35,000 self-driving delivery vans coming by 2028"
+    excerpt: "Mobileye, a division of Intel, and Udelv, a self-driving shuttle startup, are working together to produce more than 35,000 autonomous delivery vehicles by 2028. Mobileye’s self-driving system, Mobileye Drive,"
+    publishedDateTime: 2021-04-13T12:50:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16580/video-35-000-self-driving-delivery-vans-coming-by-2028"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "cwKnbmYcEl1lOQqLq1BF3/XdPErIJQFIlVTVud+E4/8pM8ec8TgpbsuPYNs+i3hv1SlXqRWZmC0wLSV42I8T2mnjORE7qfoO7lX+ZLnMmnvDSB1ETj2/DUVlYeNwGp3ubHJo/mxyHea+/an6fqAw+LqRNkSUPCPe57QO75L1a84617iAvYaW81rZ25SJo+ZUukjniw/qda2OySs/uXCEdGdM0JtpIoUdWPkHDFjtetJ/jtEGgnKIgXkdZscPtZAb0qPIhf7cpvrovdWYfptfCPwGxG6/wuI4evDCrC4jqFXSB8jemnXGctqmBS2ZepsjYtVWPEHIOzEje9oPOZTcOB+B/tQD6qUVGv39Ju+TLhCl3GvCppKy0Ih/OKZoLyOPofmC92v/09rUUp6/Mzr6KiTasYlzeXcnj4U4uCNVeOwuaq0Eq8p796ShcW0cxuBrTiZGDB5JGH+j9ImSW+xjdgfjDk+rHr9LEPaFV0xahzAoieMyf1IKgYjVybJhLdsp2NEIBaTu3X+cGQ8Q8SwEJA==;LddCfMVdghdfVpqDAq4Wtw=="
 ---

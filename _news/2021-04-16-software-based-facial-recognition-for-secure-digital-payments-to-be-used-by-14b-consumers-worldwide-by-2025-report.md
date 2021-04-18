@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facia
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -28,49 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition could soon let you pay for all your mobile purchases"
-    excerpt: "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ..."
-    publishedDateTime: 2021-04-13T09:19:00Z
-    webUrl: "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
+  - title: "Juniper predicts 1.4 billion software-based face biometric payments users by 2025"
+    excerpt: "While face biometrics use for payments is rising, in 2025 the technology will be in 17 percent of biometrically equipped phones compared to fingerprint sensors."
+    publishedDateTime: 2021-04-13T19:43:00Z
+    webUrl: "https://www.biometricupdate.com/202104/juniper-predicts-1-4-billion-software-based-face-biometric-payments-users-by-2025"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
-    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
-    publishedDateTime: 2021-04-16T15:45:00Z
-    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 41
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/04/03132543/46BCFF71-1A95-432B-A8E3-053985110F06.jpeg"
         width: 800
-        height: 533
-        isCached: true
-  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
-    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
-        width: 400
-        height: 400
+        height: 495
         isCached: true
 
 secured: "dophLQAJKtaVcaqjNFxECOqNefH3AgpsD644GBfxeFqBOnKu0vwrR5WNcD8PW5AHH8huNR3ms3TgnNF1wb6KB9Ck7WL7xti5L3Jidtfz0VOCQ29L5H/rT6WrJDMEAKDX8TkaRCUpzLFaA94RpUJtfQ2bJmT51UpBHiC10Qxk79PDdJf2+lDSWYeJld58EgzDsxBV9EJGMhbnumbnNIweNMmZgHhSrXdE0NQN0NsaBWnyipnLBBGjVfR0Sfwwj1nOp6Z57ER4mPQvvbZ2RqncDoU+u6sa39SXjSaehOzAw8tmSGcRDGlNZkyK1NO73EPufyZbvX7vX2zhd2wT32CwPs7ZF9kLvI2stJzDIR6Wt6g3PWciPfk4T0NA3yZ4x5HR6cz7KBLnbQulFTnDXghZc/8v5jALW4LKtx46NH4Df+9u/N82B+2oUx5dqOmfpnbydyKlMZUPvT0jJg6GaiDSBWe9R7UDSzwmGRpHKq+g6FH8P0HJKZwctH5RmeQo0Joo+ibuF8j3DnvsyoSdxSAIXw==;4KdKKatdacxtAcTLPvVx/A=="

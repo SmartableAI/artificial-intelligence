@@ -234,20 +234,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
-    excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
-    publishedDateTime: 2021-04-13T10:00:00Z
-    webUrl: "https://www.technewsworld.com/story/87093.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 56
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-microsft-nuance-1.jpg"
-        width: 620
-        height: 360
-        isCached: true
   - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
     excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
     publishedDateTime: 2021-04-14T10:59:00Z

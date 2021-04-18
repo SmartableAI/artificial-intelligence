@@ -37,22 +37,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Nvidia forms Inception VC Alliance to connect AI startups with venture capital"
-    excerpt: "Nvidia has formed its Inception VC Alliance to connect AI startups with venture capital. The move will help connect more than 7,500 startups in the company’s Inception program for AI tech with ..."
-    publishedDateTime: 2021-04-14T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/"
-    ampWebUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/nvidia-inception.jpg?w=1200&strip=all"
-        width: 1200
-        height: 635
-        isCached: true
 
 secured: "LUGPSQXMg5PFuX7G7wM7MwTLB+1VN2lVz1fm+70+CIX4HDwYuCjwF0HMF3fzYcLBkrcu29tSlJHFszQwoi3pEad1LK9fxjHLDWxKPWj+n/BKPVqmRjjsenpywEhHSzq+jVStsTZZft4Hhldl3s3/I5gHhExxPBNZ9WSvTLj5H6YR7RjhFfYzs/K0SsmeR9TQGZbKVBqgcKzPbLvv/mEicMk/NwwQJ5c/Jp/BryLoX49I5hWdvNGet4g+D/QVkoNXVVhWC4C6VrahoNbCg+iLAtOCwhRPsCwH1n1VoWYaI2fopmB4470BuKZrH8mBRGFVHo1qr0wMLEZDNQjmSsSLVcJWhdZKBZLpvJQ7UDundvM=;qGGasfSNQqOmoqNrzzGqXA=="
 ---

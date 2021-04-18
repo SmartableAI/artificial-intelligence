@@ -57,22 +57,6 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Artificial Intelligence in Security Market to See Major Growth by 2026 | Amazon, Intel, Micron"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Security Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Security Market research report shows the latest market insights with upcoming trends and"
-    publishedDateTime: 2021-04-13T09:11:00Z
-    webUrl: "https://www.openpr.com/news/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269395/artificial-intelligence-in-security-market-to-see-major-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/U/4/U413327692_g.jpg"
-        width: 800
-        height: 445
-        isCached: true
   - title: "AI Computing Hardware Market Growth Analysis by Revenue, Size, Share, Scenario on Latest Trends, Types, Applications to 2025"
     excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications, such as autonomous driving and surveillance cameras. Graphcore and a few other players offer ..."
     publishedDateTime: 2021-04-13T11:24:00Z

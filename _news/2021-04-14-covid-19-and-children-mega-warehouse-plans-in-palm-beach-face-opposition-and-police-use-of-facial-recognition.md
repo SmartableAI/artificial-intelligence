@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
+    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
+    publishedDateTime: 2021-04-16T15:45:00Z
+    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "wWugXa2Jh1QtyjHfGP/4KSLSq+nWmNPAi8NRB6iP0iIOm3TtLR7IgnhEaOXF9y6Ccq8puoYuUaG+mb7PDtDBsYsEZiqAMqDLopqLBdg8E5Ks71Zhi9PtudAPkJuJYQbf+chvlI0N+t9xi1Ulhnaz/5LRcbGW+A7WiZayzdFX8ybX9wtGJcOoEgrMJJx+m2sy3qhOk9lVu9HGHBJ66KqPTyUEByaPkbhi7WOryrN0KGt/4xUNuezvIm2oHMOBJrMUNxCgARpZS5GV2Y4LSb7TfqUM1O0gLLrHbuqaaH8OnM6fKFsJiFgSk1GFKHO4lOuWatRcStQ16Ura8qIXpNu8Sz7prTYM4m2vqyaxR3GhkLm7JH0cp85LQdesUedz1AWA7t14krh+ROPrEwWy5Lk3ry4NwwX0K8lC7Te3qhDLgkR7aetfE2MjP0XvDUbknuuHu2XyCeVzhm3FhJYUXAl/sZuE5VbhTg5ojTyHYnIY/7EiLB/glCMGc3WlBdH4DldMQall4uRADRUo+qQ4MAOyuA==;ApY90TpFE74pCMpwETuRyQ=="
 ---

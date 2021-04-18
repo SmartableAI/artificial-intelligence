@@ -228,20 +228,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Nabs Nuance for $19.7B to Bolster Cloud for Healthcare"
-    excerpt: "Mark Benjamin will remain CEO of Nuance and report to Scott Guthrie, executive vice president of cloud and artificial intelligence at Microsoft, the Redmond, Wash. company said in a statement. \"Nuance's popular healthcare-focused products and services will ..."
-    publishedDateTime: 2021-04-13T10:00:00Z
-    webUrl: "https://www.technewsworld.com/story/87093.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 56
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-microsft-nuance-1.jpg"
-        width: 620
-        height: 360
-        isCached: true
   - title: "Microsoft Releases AI Training Library ZeRO-3 Offload"
     excerpt: "an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters ..."
     publishedDateTime: 2021-04-13T13:04:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/dominos-nuro-delivering-pizzas-self-dr
 webUrl: "https://thenextweb.com/news/dominos-nuro-delivering-pizzas-self-driving-robots"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: The Next Web
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self driving robot car will start delivering Domino's pizza in Houston"
-    excerpt: "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot."
-    publishedDateTime: 2021-04-13T10:11:00Z
-    webUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston"
-    ampWebUrl: "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true"
-    type: article
-    provider:
-      name: KRISTV.com
-      domain: kristv.com
-    quality: 76
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Beep Beep: Domino’s Is Testing a Self-Driving Delivery Car"
     excerpt: "Domino’s is piloting pizza delivery via self-driving car in Houston, the chain announced on Monday. Starting this week, select customers who place a prepaid online order from a Domino’s location in the Woodland Heights neighborhood can opt to have ..."
     publishedDateTime: 2021-04-13T15:52:00Z
@@ -105,6 +89,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Food-Delivery Robots Are Roaming the Streets of Miami"
+    excerpt: "Self-driving robots are now roaming the streets of Miami, delivering takeout orders to customers who opt for an automated driver instead of a human one. The robots are the result of a collaboration between Miami-based Reef Technology,"
+    publishedDateTime: 2021-04-13T12:00:00Z
+    webUrl: "https://www.miaminewtimes.com/restaurants/reef-technology-and-cartken-team-up-in-miami-to-provide-robot-food-delivery-12069271"
+    type: article
+    provider:
+      name: Miami New Times
+      domain: miaminewtimes.com
+    quality: 39
+    images:
+      - url: "https://images1.miaminewtimes.com/imager/u/original/12102751/img_1770.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dominos is Delivering Pizzas in Houston Using Small Autonomous Vehicles Built by Silicon Valley Startup Nuro"
     excerpt: "One company working on autonomous delivery is Silicon Valley startup Nuro. The company announced this week ... Nuro's team includes experts in robotics, AI and autonomous vehicles. Many of Nuro's employees previously worked on autonomous driving projects ..."
     publishedDateTime: 2021-04-13T21:35:00Z
@@ -119,6 +117,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Video: 35,000 self-driving delivery vans coming by 2028"
+    excerpt: "Mobileye, a division of Intel, and Udelv, a self-driving shuttle startup, are working together to produce more than 35,000 autonomous delivery vehicles by 2028. Mobileye’s self-driving system, Mobileye Drive,"
+    publishedDateTime: 2021-04-13T12:50:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16580/video-35-000-self-driving-delivery-vans-coming-by-2028"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "CAXPjwP12olfYPEwXgJxmRMEtDGIolbV6Rtde93Vwj94sIMcf3tEWZBiGqGzkAXRdm3WQB9j5hCX7/5saJDal+Jrr5NKi+bNCPyENRFvBuSInxRFRpt7bxU0vT4Plbf5fN+9rM7qsZjWkcErgi+7TpJUNFj/pv9aesDW2/UEbkYYm6IHTeMAnEzF8//mUrxuYsjr6fUyYMVjMdYKDnif0vCltsZ3XZCkiL10na/K08HaiOut5AKepWKotY0LelEiDlGjOog0+G1afibJ732k2WaTQgEPNuBJI+PpgESdfK85js743Dh1+Pd3n6EwkPJ/X9e+ExPohQpJ9ALuro4vZzZSfVetUlma/IMxyZNXkCs=;TL+KV/5VUwEx7knmMnozeQ=="
 ---

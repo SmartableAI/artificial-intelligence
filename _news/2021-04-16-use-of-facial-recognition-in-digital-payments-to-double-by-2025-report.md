@@ -26,51 +26,94 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition could soon let you pay for all your mobile purchases"
-    excerpt: "Using facial recognition for payment authentication is set to transform the world of e-commerce by 2025, new research has claimed. A report from Juniper Research claims the use of such software is set to rise 120% from just 671 million in 2020, with ..."
-    publishedDateTime: 2021-04-13T09:19:00Z
-    webUrl: "https://www.techradar.com/uk/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/facial-recognition-could-soon-let-you-pay-for-all-your-mobile-purchases"
+  - title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
+    excerpt: "(Thomson Reuters Foundation) - Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres, rights groups and ..."
+    publishedDateTime: 2021-04-15T14:06:00Z
+    webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+  - title: "Social wasps lose face recognition abilities in isolation"
+    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
+    publishedDateTime: 2021-04-14T17:29:00Z
+    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
+    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uueti7Azobwty7mTrgQrkh-480-80.jpeg"
-        width: 480
-        height: 270
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
+        width: 900
+        height: 1035
         isCached: true
-  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
-    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
-    publishedDateTime: 2021-04-16T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+  - title: "AWS launches Amazon Digital Suite to help SMBs in India go digital"
+    excerpt: "The suite provides a broad selection of business software focused on SMBs from seven AWS Partner Network technology partners in areas such as accounting, customer support, and human resources"
+    publishedDateTime: 2021-04-16T09:23:00Z
+    webUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital-11618564585058.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
-        width: 300
-        height: 298
+      - url: "https://images.livemint.com/img/2021/04/16/600x338/AFP_8QN2MT_1600991712241_1618564906958.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
-    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
+  - title: "AWS launches Amazon Digital Suite to accelerate digital adoption for SMBs in India"
+    excerpt: "SMB spend on public cloud services is expected to contribute more than 29% of the $7.9 billion public cloud services market in India in 2024."
+    publishedDateTime: 2021-04-16T09:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/articleshow/82100388.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-94899,msid-82100523/amazonap.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
+    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
+    publishedDateTime: 2021-04-15T12:46:00Z
+    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "COVID-19 And Children, Mega Warehouse Plans In Palm Beach Face Opposition, And Police Use Of Facial Recognition"
+    excerpt: "A fight in Palm Beach County over the construction of a giant warehouse. Plus, a new investigation explores facial recognition software — and the police departments that are using it."
+    publishedDateTime: 2021-04-13T22:23:00Z
+    webUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition"
+    ampWebUrl: "https://www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/2021-04-13/covid-19-and-children-mega-warehouse-plans-in-palm-beach-face-opposition-and-police-use-of-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/65bcee0/2147483647/strip/true/crop/701x432+33+0/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F0d%2Fd6b8680448fcbbc78f9fc6140eb4%2Fmia-schools-04132021.jpeg"
+        width: 880
+        height: 542
         isCached: true
 
 secured: "dkt6QbuGvmyOEIGAMGoEGoX626vneuVlRmUa+nfZ19akZCE9pm7HHAUVJ1HHuBiZnl1U38TthOaWZhAXXJ2Q2VXIVynSyMt7ON7kKiOuFOPdMYvgMBGr7mdTk8KV6cgaZFy3fFMUdxZh20PWoJ6kVY+yxjIPsWUcuBqoeQ7eXYM7rpBKmX+oV9Z0sMQdJhZOvL2FRY18RguUIy1FdDb/CQvwfaSx4OxTgtg0C3kpHQp7KIW9sbxrWmVIvB3xQ9q5/zbzvKEuI149hIiNlJZhxDYGWDgUg/0YDiCWXtEfhywd4LIwbkSeooVZWu0jHC+cdLuQpKwod0mtZe2LcTL6SIJ1OQkBFWeTccyP0cdBuv5D1/aVVrcxTSpclYP5HgbWstTSVM0ToasEdZCQ6ygfa63MOmZWR+EVPVctFlX504yeyzzVKoY4Y6udaCnWH7pQdtvIENPUrPpp33oEKvPeuZeqDrw1NEAStZZt30/atgNd/mvBZN+adKYEyOuYqxbUt3ZMizDID6CvwdCHZ/ZOLw==;CerBVSVenweaTp4sJ1uT/g=="

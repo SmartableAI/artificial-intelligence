@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Big Shake up due to COVID-19 on Natural Language Processing (NLP) in Healthcare and Life Sciences Market"
-    excerpt: "In addition many governments are taking several initiatives to support the organizations during the COVID 19 pandemic period For instance the UK government has launched future fund for UK based companies and they can apply for a loan amount of"
-    publishedDateTime: 2021-04-13T09:26:00Z
-    webUrl: "https://www.openpr.com/news/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
-    ampWebUrl: "https://www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269408/big-shake-up-due-to-covid-19-on-natural-language-processing-nlp"
+  - title: "COVID-19 impact: It’s a rough ride ahead for Cognitive Cloud Computing Market"
+    excerpt: "Recent Advances in the Market According to a recent report by Research Dive, the most significant players of the global cognitive cloud computing market players include SparkCognition, CognitiveScale, Microsoft ... its managed services portfolio and ..."
+    publishedDateTime: 2021-04-14T09:55:00Z
+    webUrl: "https://www.openpr.com/news/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+    ampWebUrl: "https://www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269905/covid-19-impact-it-s-a-rough-ride-ahead-for-cognitive-cloud"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 74
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/U/4/U413109506_g.jpg"
+      - url: "https://cdn.openpr.com/U/4/U414987465_g.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Worldwide AI in Healthcare Industry to 2025 - Competitive Analysis and Impact of COVID-19 - ResearchAndMarkets.com"
-    excerpt: "Artificial intelligence in healthcare is one of the most important scientific advancements in medicine so far. The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the ..."
-    publishedDateTime: 2021-04-13T11:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-sports-products-and-services-coronavirus-pandemic-d6c542bc68264212a237424ea8aa1d97"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Q3atpz5Hyd8TqU37IiMsfdx/S2DEbuShXt3v+GjRgSVVzx5FRHCVeIlXXKkRCE2lhOrNhH5/DoPl4SgIEaAdjDr1O2qxofGu0vNtVWEB0VXGveBACO6joS4i1DHlcWNZnEZ8ntzdzBwn7SkBTXOKW94l/kDLbrSjqKyu6yvs+NYln+DKA4jEAs+C2pnXAp7mMw0sClFG0Bc14x5gyqskUMLUlFDIS+I5bYWBSZwN4sDdUJNcVD7K/PKcrJLy3Qlm85mEAHlXNAAcJ9O0mSbN8alYUf6s05XoApWIiFrohfuxrJLVLZmjsRvISWtXUlBpl9GddF7t1NF7w/Mr+vKMthb+U1jnM3QToAaqOXbci5w=;OJ06h7NjRrARg1aMgWpZhg=="

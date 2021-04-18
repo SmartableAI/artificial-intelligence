@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2021/04/14/venture-capital-firms-use-ai-to-invest-better/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia forms Inception VC Alliance to connect AI startups with venture capital"
-    excerpt: "Nvidia has formed its Inception VC Alliance to connect AI startups with venture capital. The move will help connect more than 7,500 startups in the company’s Inception program for AI tech with ..."
-    publishedDateTime: 2021-04-14T15:30:00Z
-    webUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/"
-    ampWebUrl: "https://venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/nvidia-forms-inception-vc-alliance-to-connect-ai-startups-with-venture-capital/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/nvidia-inception.jpg?w=1200&strip=all"
-        width: 1200
-        height: 635
-        isCached: true
   - title: "Financial Standards Setter To Focus On Use Of AI"
     excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that its main focus for the year ahead will be on the role of artificial intelligence in the sector."
     publishedDateTime: 2021-04-16T13:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-di
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/"
 type: article
 quality: 112
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-697397,msid-82100654/amazon-india.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
-    excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"
-    publishedDateTime: 2021-04-13T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
     excerpt: "Fractal (  ), a global leader in artificial intelligence and analytics, powering decision-making in Fortune 500"

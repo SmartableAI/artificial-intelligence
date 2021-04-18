@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/security-executives/article/2121
 webUrl: "https://www.securityinfowatch.com/security-executives/article/21218454/giant-oak-brings-security-screening-into-the-age-of-ai"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://warontherocks.com/wp-content/uploads/2021/04/210404-N-YA628-2309.jpg"
         width: 1330
         height: 850
-        isCached: true
-  - title: "Bid Ops hosts virtual event with insight into the role of artificial intelligence in procurement sourcing"
-    excerpt: "Among the many trends happening in procurement today, artificial intelligence and machine learning are two of the biggest topics. A recent industry conference, Bid Ops’ Optimal AI event, brought professionals together to discuss the often confusing ..."
-    publishedDateTime: 2021-04-13T11:00:00Z
-    webUrl: "https://spendmatters.com/2021/04/13/bid-ops-hosts-virtual-event-with-insight-into-the-role-of-artificial-intelligence-in-procurement-sourcing/"
-    type: article
-    provider:
-      name: Trade Financing
-      domain: spendmatters.com
-    quality: 20
-    images:
-      - url: "https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2020/11/16140911/City-scaled.jpeg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "Produce and the advancement of AI in the Roaring 20s"
     excerpt: "The webinar was hosted by Scott Penberthy, director of applied AI at Google.  Penberthy spoke in the learning lounge about how artificial intelligence is changing the world — and by extension the produce industry — as we know it."
