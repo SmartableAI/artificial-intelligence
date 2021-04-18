@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -61,34 +61,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Artificial intelligence could be adding to the bias at your company"
-    excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
-    publishedDateTime: 2021-04-13T15:02:00Z
-    webUrl: "https://www.benefitnews.com/news/heres-how-your-ai-could-be-introducing-racial-bias"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/2c88ebf/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc0%2F4e%2F0f683dac49d39661f753f551c22b%2Fcybersecurity-problem.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pega Process AI Delivers Self-Optimizing Process Automation"
-    excerpt: "CAMBRIDGE, Mass., April 13, 2021 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company that crushes business complexity, today announced Pega Process AI – a new set of Pega Platform™ capabilities that help organizations optimize their ..."
-    publishedDateTime: 2021-04-13T13:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42d0fef72ab2e738b12453f9e9f7844d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "4wblunla5f9rBB0USWQyV+Aa+NyDNJIVD1XlaBselGd6jWs7gHwbvC8Z9OJ8R4rrNiBj0uvo0zVwjoFF0+2E0mpBj1qf1G1Hkd0sAWI46PsC1680ZludwfjIWRHJYF3kd40ezLWbIS/zxC84PnR4G5ivizpJFBT02OzuA8W2Mq4QAfK+00jc9Nrsh8OyoIKiPQ5sTvpM7JKTaIZbMR+qZgIoMPjRx+rJhgpEdpsPhzaXPH/cEdPj95vSIrO6CI7mo83LbOF3EfZ2VB8t414Hp/QZxjYiESuLD+NEKyFC2hGqZUJcFQ73QO9WymdVFH/1vcHvJaqSNide6UWGKyf0iy/T8TDtTS2u3LCEesCbDtifpqPi04O4fp8NxSAe7aWUunsZLwwf0FDUZT4YACj++iqPQqjtapOApJ2xkE+6z5F4Szdxs+L8/Hhyeej1BzLx3R0p9rLeWNn0Lkri3bG1AEAo9Wo6xPj6bqv4h2Vpy7T5nbn1dOp6akQU9ETzowqRW7p4szJNz+jsAyNuBg8PVg==;dIyjr09tD4dpJaShHXiNRA=="

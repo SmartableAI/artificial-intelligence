@@ -111,22 +111,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 83
-  - title: "Microsoft's $19.6 billion investment in health care AI"
-    excerpt: "(Credit: VDB Photos/Shutterstock.com) (Bloomberg) –Microsoft Corp. is making a massive bet on health-care artificial intelligence. The software giant is set to buy Nuance Communications Inc., tapping the company tied to the Siri voice technology to ..."
-    publishedDateTime: 2021-04-13T14:15:00Z
-    webUrl: "https://www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/"
-    ampWebUrl: "https://www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/04/13/microsofts-19-6-billion-investment-in-health-care-ai/?amp=1"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 78
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/08/Microsoft.jpg"
-        width: 616
-        height: 372
-        isCached: true
   - title: "Microsoft’s latest acquisition shows speech recognition is big business"
     excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
     publishedDateTime: 2021-04-16T03:20:00Z
@@ -173,22 +157,6 @@ related:
         width: 533
         height: 400
         isCached: true
-  - title: "Microsoft buys AI speech firm Nuance for $19.7 billion"
-    excerpt: "“AI is technology’s most important priority, and healthcare is its most urgent application.” Nuance’s products include multiple clinical speech recognition software as a service (SaaS) offerings built on Microsoft Azure. The firm’s solutions work ..."
-    publishedDateTime: 2021-04-13T13:13:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-buys-ai-speech-firm-nuance-for-197-billion/article34311257.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/yp9e8e/article34311262.ece/ALTERNATES/LANDSCAPE_615/Microsoft-Nuance"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Microsoft, Nuance News May Signify Next Era of AI in Healthcare"
     excerpt: "April 14, 2021 - Artificial intelligence in healthcare has mostly existed in the realm of the hypothetical. Clinical use cases for AI algorithms permeate the research sector, while rarely infiltrating real-world care settings. With the recent news of ..."
     publishedDateTime: 2021-04-14T13:30:00Z
@@ -202,34 +170,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Microsoft Bolsters Healthcare Offerings With Nuance"
-    excerpt: "We are maintaining our fair value estimate after Microsoft announced the acquisition of Nuance Communications, a leader in conversational artificial intelligence."
-    publishedDateTime: 2021-04-13T14:19:00Z
-    webUrl: "https://www.morningstar.com/articles/1033339/microsoft-bolsters-healthcare-offerings-with-nuance"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 56
-    images:
-      - url: "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/bltf5c9f6de4daaa773/5cb4f480fe8386be234ac8fb/QuarterEndReview_Sectors_Bars_1x1.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Microsoft Releases AI Training Library ZeRO-3 Offload"
-    excerpt: "an extension of their DeepSpeed AI training library that improves memory efficiency while training very large deep-learning models. ZeRO-3 Offload allows users to train models with up to 40 billion parameters on a single GPU and over 2 trillion parameters ..."
-    publishedDateTime: 2021-04-13T13:04:00Z
-    webUrl: "https://www.infoq.com/news/2021/04/microsoft-zero3-offload/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2021/04/microsoft-zero3-offload/en/headerimage/microsoft-zero3-offload-header-1617471413275.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
     excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
@@ -325,20 +265,6 @@ related:
       - url: "https://cdn-japantimes.com/wp-content/uploads/2021/04/np_file_81319-1-870x489.jpeg"
         width: 870
         height: 489
-        isCached: true
-  - title: "Tech & Science Daily| Microsoft’s $16bn takeover of AI firm behind Apple’s Siri"
-    excerpt: "Having moved on from offering voice assistant tech, the firm now focuses on building software and AI for healthcare companies. New research suggests the Kent ... to such large volumes of water is unknown. Facebook News is adding a local news section ..."
-    publishedDateTime: 2021-04-13T13:24:00Z
-    webUrl: "https://www.standard.co.uk/tech/microsoft-s-16bn-takeover-of-ai-firm-behind-apple-s-siri-b924211.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 52
-    images:
-      - url: "https://static.standard.co.uk/2021/03/15/14/SITETechScience_NEW_final_3x2.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
     excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."

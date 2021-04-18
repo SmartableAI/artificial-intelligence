@@ -57,38 +57,6 @@ related:
         width: 538
         height: 411
         isCached: true
-  - title: "SambaNova raises $676M at a $5.1B valuation to double down on cloud-based AI software for enterprises"
-    excerpt: "SambaNova — an AI startup building hardware and integrated systems that run on it that only officially came out of three years in stealth last December — is announcing a huge round of funding ..."
-    publishedDateTime: 2021-04-13T13:13:00Z
-    webUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/"
-    ampWebUrl: "https://techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/13/sambanova-raises-676m-at-a-5-1b-valuation-to-double-down-on-cloud-based-ai-software-for-enterprises/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "'We are the best-funded AI startup,’ says SambaNova co-founder Olukotun following SoftBank, Intel infusion"
-    excerpt: "and the Intel Capital arm of chip giant Intel. The new funding round brings the company's total investment to date to over $1 billion. The company is now valued at more than $5 billion. \"With this $676 million, we are the best-funded AI startup,\" said ..."
-    publishedDateTime: 2021-04-13T14:20:00Z
-    webUrl: "https://www.zdnet.com/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-are-the-best-funded-ai-startup-says-sambanova-co-founder-olukotun-following-softbank-intel-infusion/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 71
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/13/1fabbe95-5e82-4d47-824c-55f6b881ad84/kunle-sambanova-april-2021.jpg"
-        width: 1396
-        height: 794
-        isCached: true
   - title: "AI chip maker SambaNova raises US$676 million"
     excerpt: "SambaNova Systems, a Silicon Valley startup that makes semiconductors for artificial intelligence related computation work, said on Tuesday it raised US$676 million in a funding round led by SoftBank Group Corp's Vision Fund 2."
     publishedDateTime: 2021-04-14T00:29:00Z

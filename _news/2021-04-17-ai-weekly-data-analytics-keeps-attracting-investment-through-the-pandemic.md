@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-
 webUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-attracting-investment-through-the-pandemic/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
         width: 611
         height: 343
-        isCached: true
-  - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
-    excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
-    publishedDateTime: 2021-04-14T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-analytics-appointments-at-major-tech-firms-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art-11.jpg"
-        width: 1004
-        height: 591
         isCached: true
 
 secured: "by3eecLlICBv9vxF14/osvzyP0mcClQj5fU2vYVHevHoie+n0PrlnX0To1WajeklkonXNJrBJHBUd9m7VZ1jycuCmE0uq/fZ7H0kDgnx2bCJpabLY0OldvuNFs6hGy7NUY5luVzKlowmXZO0JKppHYBfaLQ/WwefgfI0d3otp2CoQT3NQ0eGTCyOb2a05n7UwRIfakUcSOZEwI6fbtoMLiLDyO+l+K80A4BoBFdkUH9jdV98VUGqkrhWhbBX82UHCVlJTfiMnt1cc9+qnaSr4RoYCnZ7J5rinc5q5bng8I0PsqTUKelephWpyi8p1AJc0baIHjVhkP22Z2qCTOozk1/QZCcOzPgahWOHMobVZY4nBXuUzZWd005/Iy17kmqfDa6NGnf/MPU2OqQEhrvXjxDjXtY1S1uHQwi2dvzNvPQj7U5ATlmcC5mOkXZVrAiWPG6MzP37T6b/FvgV0C9a0DsL4ikBFf8xbSSY3EbDs3O7rP0TxW5h5fn6BlMOxlrjW7z3ReDF6oAlup033kTuEg==;sdmPsv5UlCSYH5eTFgGbYQ=="

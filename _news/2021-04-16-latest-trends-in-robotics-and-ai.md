@@ -7,8 +7,8 @@ originalUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--n
 webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIOReview
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "3 Customer Trends AI Can Spot Before Marketing"
-    excerpt: "especially when trends start in one location and spread to other locations over time. ML algorithms can spot these phenomena as they develop, so marketers can leap on the trend. Retail is one industry where this kind of AI-enabled trend-spotting is valuable."
-    publishedDateTime: 2021-04-13T14:27:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/"
+  - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
+    excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
+    publishedDateTime: 2021-04-14T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-analytics-appointments-at-major-tech-firms-in-2021/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 74
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://www.cmswire.com/-/media/92ab9c0cbdb04ac7b897dac42a4474c0.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art-11.jpg"
+        width: 1004
+        height: 591
         isCached: true
 
 secured: "K7hjco5IdB02hEU6GVKBo8E6lD36yWSnfoZU3QWIP78rlLIMkgwUeaX0o3g8r0mrk/cMeSMyEcOXsRBhwM3rOAINbLgI3eSIpH6zrpvNxpNLt5IqD7m6456CqRb3bSltEPhXUlJo4IJdnVznybISXFwS4EUrNeD5HfYcDwoxx/Pko+iDaNS4uHiO1v+l62N1ftCLjdEq3mDJGlKYk7ELgMA+FC44t4JRI9OGpUiUzq/grXiBlN0OKy1o7a3TLXaEWW4flfoGEFktIeK5bkTzhJ+X7yBj2yW4i68nxGmwxMYKUBT/0ecRKcclTeTViq1vH3un/SIgWRiVfnomqGR41JN2mLGe99EWNYDtFFkAOxMfqPYb3QdcXxH5Y8jbklvy/POht/tTjcn6tNjJJY4X1jbXUvPaThSuOA1Llro+BB8UfeBsED50xdFeqotJemjIo9pkczUonUzYPEPT1x2Czmo6e6D7BIcT8QBJmbn2/yfZtXpb59R9woqxj0/M1SSspRa5E1cqMrML9Ry8eZmhBw==;P+U95pzHw6FZMAlX3B/DHw=="

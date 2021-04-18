@@ -134,20 +134,6 @@ related:
         width: 1088
         height: 604
         isCached: true
-  - title: "The Future of Artificial Intelligence Requires the Guidance of Sociology"
-    excerpt: "In the race to out-compete other companies– artificial intelligence (AI ... the term with software that is able to learn and act on its own. For example, self-driving cars learn and identify routes and obstacles – just as robotic vacuums do the ..."
-    publishedDateTime: 2021-04-13T14:31:00Z
-    webUrl: "https://drexel.edu/now/archive/2021/April/The-future-of-artificial-intelligence-requires-sociology/"
-    type: article
-    provider:
-      name: Drexel University
-      domain: drexel.edu
-    quality: 38
-    images:
-      - url: "http://drexel.edu/~/media/Images/now/v2/story-images/2021/April/googleiStock-1173509038.ashx"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "MjB4x0QSXVE0XVecmACnxBm3Z3JTAihOSe96Yd06nsT4vnbHhShe7DIL02s6DoOmLeNtKP9zLOo2wjGqw9u2p8HtwH3MjDXoEf2iZJqHHAFomMnW8jKSv0DyelVM/vewkyoEAgN6DIvPKm6kzkkr0hmLZZt6haMCHG4oYAaCZNWGgbKoqjNaON9r8Hz67bjesF8+OK2Baxx00r2zv0dVafx1yQjkWCd+WaqcO4grQqGsHTHApWHb7s8D8cEdp3TSLVi27y1xF+PCbpzwyfX0IT8s+l8N9gHS7cut7cnlin3NdDobFJUsswC0WUFNCfASLO0HVzVcPTdjKtvsffx5SjwAOc9lnAGioBLXoLtBXRsA0eUSzQxadpkrUPFK8BEi5wLpUw9qfy2TK64sCsMHGSJj/Y+VHQxF/pV7KAYwHBZ6OfSLLvLSK+J/Ckw3W3EKLhrQkrH5nZIFM1hxtw6ZJCBu+vvUojy6XkY9lzg7/BB3oDDLr6+1PXJVJijvM9GBShiOFdrlEqL5l67qdNVrxQ==;T8huLiqU8qewDBYV2BtDOg=="
 ---

@@ -59,34 +59,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Artificial intelligence could be adding to the bias at your company"
-    excerpt: "Employers are increasingly turning to technology to ramp up their diversity, inclusion and recruiting efforts, but the wrong applications could be introducing bias instead of eliminating it. While employers may be utilizing software created by some of the ..."
-    publishedDateTime: 2021-04-13T15:02:00Z
-    webUrl: "https://www.benefitnews.com/news/heres-how-your-ai-could-be-introducing-racial-bias"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/2c88ebf/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc0%2F4e%2F0f683dac49d39661f753f551c22b%2Fcybersecurity-problem.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pega Process AI Delivers Self-Optimizing Process Automation"
-    excerpt: "CAMBRIDGE, Mass., April 13, 2021 /PRNewswire/ -- Pegasystems Inc. (NASDAQ: PEGA), the software company that crushes business complexity, today announced Pega Process AI – a new set of Pega Platform™ capabilities that help organizations optimize their ..."
-    publishedDateTime: 2021-04-13T13:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42d0fef72ab2e738b12453f9e9f7844d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "BPt0zsuADEqp+/AM8TFLj/cI65vGftyFQNDRtMG7xBtfHMfotHIXmNRxjXzdK0TGM83B8DXJXleFSgmIZxr7F0lFkhZrK6EUYw1pctZWl/IXx9MfmyZR0mmGTKVC1pBvVm/mg4h3KsiYBVQ26T00IfAL+NXlHCWcI+OcQbpbA3CGxCJUDyGI9LTNJCHiATj7Tgcqlkbwz7VKKDEEGaADmoRxSK3oygZMLL5cB/judknNH3IaQlbnEbOGm+U+cNbzOxY7OTl/+Xe/JrDomvu0W4FqD7bcXs50AaFFP4C77n/jVMBopZbNjovGs9SSIvpFrPuNM7Ak7WrZQQvLH7t9aZrfFWXGZDlyvxlNI809D9GGUlSImOGbkIicyQFYDHwYVPG3uU1Vmi0kCQZela1FTtq9E0sahQcBBkqTzRtqw8x8EBOuqOwuhgrkolSpwb/QKFDnPz1Efv5wVE9uxeUa8GMJHfhoS3PNsFDRa41P2YZpvrPuroIc7SW+/hq0lfqvBG6T4M3xcb78+G97wGTipw==;cpDfmNvP/dw6Fjdq7mHsVQ=="
 ---

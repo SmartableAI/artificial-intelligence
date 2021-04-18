@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
         width: 1088
         height: 604
-        isCached: true
-  - title: "The Future of Artificial Intelligence Requires the Guidance of Sociology"
-    excerpt: "In the race to out-compete other companies– artificial intelligence (AI ... the term with software that is able to learn and act on its own. For example, self-driving cars learn and identify routes and obstacles – just as robotic vacuums do the ..."
-    publishedDateTime: 2021-04-13T14:31:00Z
-    webUrl: "https://drexel.edu/now/archive/2021/April/The-future-of-artificial-intelligence-requires-sociology/"
-    type: article
-    provider:
-      name: Drexel University
-      domain: drexel.edu
-    quality: 38
-    images:
-      - url: "http://drexel.edu/~/media/Images/now/v2/story-images/2021/April/googleiStock-1173509038.ashx"
-        width: 800
-        height: 534
         isCached: true
   - title: "AI and the future of gaming"
     excerpt: "Charlotte Murphy is a freelance writer who loves writing about all things AI and how it's revolutionising the world in unexpected ways. There are few industries that cut as close to the edge in"
