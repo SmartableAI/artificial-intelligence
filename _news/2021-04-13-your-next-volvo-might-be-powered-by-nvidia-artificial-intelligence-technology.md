@@ -104,17 +104,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
-    excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
-    publishedDateTime: 2021-04-13T08:15:00Z
-    webUrl: "https://tass.com/press-releases/1277131"
-    ampWebUrl: "https://tass.com/press-releases/1277131/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 46
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z

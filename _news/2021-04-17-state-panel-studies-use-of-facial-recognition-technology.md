@@ -135,20 +135,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "AI is generally seen as objective, clever and a feat of humanity. But for Professor Kate Crawford, it is far from neutral and is increasingly impacting on people and the environment."
-    publishedDateTime: 2021-04-13T07:44:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/ai/13301014"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13301090-16x9-large.jpg?v=4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "AI and the future of gaming"
     excerpt: "Charlotte Murphy is a freelance writer who loves writing about all things AI and how it's revolutionising the world in unexpected ways. There are few industries that cut as close to the edge in"
     publishedDateTime: 2021-04-14T09:40:00Z

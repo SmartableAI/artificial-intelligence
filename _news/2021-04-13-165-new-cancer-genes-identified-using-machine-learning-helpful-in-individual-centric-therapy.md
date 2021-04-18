@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/165-new-cancer-genes-identified-using-mach
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/165-new-cancer-genes-identified-using-machine-learning-helpful-individual-centric-therapy-835196"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "165 New Cancer Genes Identified Using Machine Learning"
-    excerpt: "News Apr 13, 2021 | Original story from the Max Planck Institute for Molecular Genetics Preclinical research using human tissue samples, human cell lines and mice has revealed that inositol hexaphosphate (IP6), a naturally occurring compound, inhibits ..."
-    publishedDateTime: 2021-04-13T07:26:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/165-new-cancer-genes-identified-using-machine-learning-347599"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/165-new-cancer-genes-identified-using-machine-learning-347599.jpg?cb=20210413"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "5GZnkk52YTB2Mz+8UjTfT2XpdRndmGsEdmJj/81EumGVUpLes477K6e6nAiujJsfiVXCu3t/TLjqTi6Ql8JII5SMRICY73biQ0NvN0mbi8U1mTUqtZoQfzsgVNeS9jgKkfoL8So520VrD70yIknN2Xz4gqmRr5c0SruWnXwepe++E1qTlEneM2e/vLRVZPtTjgyG7EzdpHKiSULZ96vj2PCDPmpRwf6BETy2nYRe1UE7T6BWeb6HH+oVMtfBLGrKI5EJ7LN6UGpXo3FSTjxpGTaINOhYnkqIy5dUXjScJYaAoe/hQ+jpfLftkT8J2Y5TYEU2JS17qx5UavltGZDnwZsc3yGFiUvy6RtLQ8l0d2UhisFHKRZ5ftu8muqXCEcajoBeFd+xcHTKKG0NFtGHWu2b0GtA5eyEFSEB5RDTsey6QHjzgg/R83BxvA9S9IdQAX8dAmvEBfWZ6x/o9PKWWjwIokKkGbhoSwWCgPPrxMXZ5+a+1b/cksGCUAwlw7Bw2nk2euhHwmemnFpON0zRQg==;BbYOSfLijuOi7hasqJPpXg=="
 ---

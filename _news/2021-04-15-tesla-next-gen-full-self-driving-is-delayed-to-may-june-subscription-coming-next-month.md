@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-dela
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F03%2Fthird-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving.png&signature=045313075df9ec4fba69a44106485acf"
         width: 1280
         height: 640
+        isCached: true
+  - title: "China’s self-driving buses now in full operations"
+    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. BUSES OF THE FUTURE Three self-driving buses ..."
+    publishedDateTime: 2021-04-15T17:20:00Z
+    webUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/"
+    ampWebUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 44
+    images:
+      - url: "https://www.manilatimes.net/wp-content/uploads/2021/04/self-driving-buses20210416.jpg"
+        width: 1013
+        height: 566
         isCached: true
 
 secured: "a6Pwp+tmo6kAFU9XJN9A82e4/LU3B/5LRrEFt4FSuVoPepbbFy7yl1KsyAB7FXV6zIuf0lmyb3JIP8QJefxjTzNZqyZWeuiGs6371GUv20xYkiza18onn+6DSsKxIiOAnY7PXJuuLJ8vg7kD8BwJn6X4fKc1Ofgg/vu8KBfmDfTEqVlxMqtMxQkeOWyEQOPflS1BUY+KQhPfDCICop/i5Jw93H0mftS6BREr/mJaXhfOLzJJ6tim7mKhA7kz9neeIwLh2kwQxQRC/kbeHfrtYdeVLj4xhAGScL3Jplaco6eA7Ip4PnA6suxugRrciqTcnBHoc5qIVuvTFEI+kxDjlf8pokqK3MejYHyM4nWzWD4=;DgLccet193bedCZiNQ7xbA=="

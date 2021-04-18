@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "China’s self-driving buses now in full operations"
+    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. BUSES OF THE FUTURE Three self-driving buses ..."
+    publishedDateTime: 2021-04-15T17:20:00Z
+    webUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/"
+    ampWebUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 44
+    images:
+      - url: "https://www.manilatimes.net/wp-content/uploads/2021/04/self-driving-buses20210416.jpg"
+        width: 1013
+        height: 566
+        isCached: true
 
 secured: "pSNondSycV2zr5fsiiDERaDnUgqTOk7/hVy8YVljmnhnjqZUXSlTTH6/KbZUyKl3spDWcDifXX0+rKZq7aOsy1wJPHQZ/RLi79LhxTtu9GfFu1xhkkn77PVLJtJNga8KjEysm5ZUfDcTP0FGPzuWneDi2a7rcDZQNxMUC7MpxzcxHsdkCxqjYcZ+RxWpdgaPdvdMTzXx7OdkDStLi/hA7Wok4fLXZoWNKd67FrMprMUQn9+ShlLJ9SsPFc8hfwD744VqDmYv5NPPh/U+Vh+TdTGrvAiFgIm1xlb464l7xB+P66osHlOETRlc2/DvzIv896Hlnjy5v7Gbr05hty2jkFENW49U2YyrKc4MqXVhg6zvMEx/BldcW3vsNWqZdTJjEVVXlTQQH1a35k7VPwcrBfA/DAxY7dZzGWKZWjcH2georcKQWfYmX39o5lWbiXFKxLPLfGUMq/r1NUpXbYihpq6UNqsMnFvAlmJ2siUI2Qkzme3fontoJAOAaiIL90FZc6u2Wy+11JLUT+FbGhcUAw==;uvnBapZ1xyOB2kJzcIifag=="
 ---

@@ -106,22 +106,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "There’s Nothing Nuanced About Microsoft’s Plans For Voice Recognition Technology"
-    excerpt: "Microsoft's acquisition of Nuance, announced on Monday, has ended up closing at $19.7 billion, up 23% from the company’s share price on Friday, which makes it Microsoft’s second-largest acquisition after LinkedIn in June 2016 for $26."
-    publishedDateTime: 2021-04-13T08:50:00Z
-    webUrl: "https://www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/"
-    ampWebUrl: "https://www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/04/13/theres-nothing-nuanced-about-microsofts-plans-for-voice-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607553e0a328a435c3742dce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1942%26cropY1%3D225%26cropY2%3D1135"
-        width: 1199
-        height: 562
-        isCached: true
   - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
     excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
     publishedDateTime: 2021-04-16T00:21:00Z
@@ -403,20 +387,6 @@ related:
       - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg"
         width: 728
         height: 485
-        isCached: true
-  - title: "Microsoft’s Nuance Deal Second Biggest in Its M&A History: Chart"
-    excerpt: "Microsoft Corp. is going all-in on health-care artificial intelligence with its $19.6 billion all-cash deal for speech technology company Nuance Communications Inc."
-    publishedDateTime: 2021-04-13T07:03:00Z
-    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/microsofts-nuance-deal-second-biggest-in-its-m-a-history-chart"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 41
-    images:
-      - url: "https://aboutblaw.com/Q2V"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
     excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."

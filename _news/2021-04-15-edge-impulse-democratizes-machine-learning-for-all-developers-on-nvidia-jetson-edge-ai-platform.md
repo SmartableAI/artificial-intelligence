@@ -120,17 +120,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Supermicro Expands NVIDIA Ampere Architecture-based GPU Product Line for Enterprise AI"
-    excerpt: "Featured at NVIDIA GTC21, the New Generation of Supermicro NVIDIA-Certified Systems Deliver up to 4.8 TB/sec GPU Interconnect, a 1:1 GPU to Network Card Ratio, and Support for Air or Liquid Cooling So"
-    publishedDateTime: 2021-04-13T08:15:00Z
-    webUrl: "https://tass.com/press-releases/1277131"
-    ampWebUrl: "https://tass.com/press-releases/1277131/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1277131/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 46
   - title: "Nvidia Rolls Out Slew of New AI Hardware for Data Centers"
     excerpt: "Performance advantage with AI applications is one of the few standout characteristics of the latest Intel Ice Lake server chips, but, if Nvidia is to be believed, its upcoming CPU would easily blow past Ice Lake’s performance with AI models. Read our ..."
     publishedDateTime: 2021-04-13T16:32:00Z
