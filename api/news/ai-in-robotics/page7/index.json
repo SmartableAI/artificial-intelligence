@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-04-artificial-intelligence-in-agriculture-market-may-see-a-big-move-major-giants-microsoft-ibm-sap.md",
+      "title": "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP",
+      "excerpt": "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "originalUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U303350659_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "publishedDateTime": "2021-03-03T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
+      "title": "Cables could help soft robots transform into harder structures",
+      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "publishedDateTime": "2021-03-03T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
       "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
       "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
@@ -1318,83 +1414,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-waterbridge-invests-in-nymble-labs-building-a-robot-that-can-cook-food.md",
-      "title": "WaterBridge Invests In Nymble Labs Building A Robot That Can Cook Food",
-      "excerpt": "It uses artificial intelligence (AI) and machine ... is another consumer kitchen startup Rotimatic, which is a roti cooking bot, which looks like a box but it is a robot. Rotimatic is available ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "originalUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-see-spot-gun-art-installation-controls-robot-dog-to-warn-public-of-its-murderous-military-capabilities.md",
-      "title": "See Spot Gun? Art installation controls robot 'dog' to warn public of its 'murderous' military capabilities",
-      "excerpt": "It is also a robot that can operate machinery and possesses ... Visitors to Spot's Rampage can use their phones to temporarily control the cybertronic canine, firing the paintball gun strapped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theartnewspaper.com/news/artist-collective-strap-paintball-gun-to-robot-dog-to-warn-public-of-its-military-capability",
-      "originalUrl": "https://www.theartnewspaper.com/news/artist-collective-strap-paintball-gun-to-robot-dog-to-warn-public-of-its-military-capability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmdlnu87i51n1.cloudfront.net/v1/uk/ckljp046h000j3h5pcxh0re42/0x76:1696x890/1200x630/screenshot_2021_02_24_at_170156_copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Art Newspaper",
-        "domain": "theartnewspaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

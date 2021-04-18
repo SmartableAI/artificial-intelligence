@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Augmented Attacks and the Battle of the Algorithms Report"
-    excerpt: "Read this report on AI-Augmented Attacks to discover how cyber-criminals might leverage AI in each stage of the kill-chain, streamlining the process and driving efficiency gains."
-    publishedDateTime: 2021-04-14T02:33:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
   - title: "AI and hiring bias: Why you need to teach your robots well"
     excerpt: "AI tools like natural language processing flag resumes that speak your company’s language, or at least the language of the job posting. This is great, until you start noticing the unconscious bias in your native tongue. If you use AI to narrow your ..."
     publishedDateTime: 2021-04-14T17:39:00Z

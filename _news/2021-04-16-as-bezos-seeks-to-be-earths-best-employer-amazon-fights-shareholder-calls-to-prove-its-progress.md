@@ -1,35 +1,23 @@
 ---
 category: news
-title: "As Bezos seeks to be ‘Earth’s best employer,’ Amazon fights shareholder calls to prove its progress"
-excerpt: "Among the proposals Amazon is recommending its shareholders vote against are reports on: pay by race and gender, who gets promoted, how customers use"
-publishedDateTime: 2021-04-15T22:13:00Z
-originalUrl: "https://www.marketwatch.com/story/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress-11618513578"
-webUrl: "https://www.marketwatch.com/story/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress-11618513578"
-ampWebUrl: "https://www.marketwatch.com/amp/story/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress-11618513578"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress-11618513578"
+title: "As Bezos seeks to be 'Earth's best employer,' Amazon fights shareholder calls to prove its progress"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-04-15T19:14:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress"
+webUrl: "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress"
 type: article
-quality: 60
-heat: 60
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.mktw.net/im-325685/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "GtfnumJ/flba8wKyVGqIfMN+YsmoVPKWoEOhjhJ9O8C1kVoJHiG+7LHeCQryFPAwDG7dgH6CEzJejev/1SRJbkhh0NGv09JeLIeABlMpOme8EJ2y+3M3HdLzHYiDeLEdsl3kMoyS8raCo3BRSWb2JwwQ/EIch6fTYe6b1UbntGZoUaSpTiop3iS/K2bcNOVesrvk7UMNJwfm/CAonKVNP48AJTIuiizHjO3mKC9ewk3L28bhefDuGhAhOUkXpSxZVlSct1zgJ4Vl1rBDyO7xXOeKuVi+tYnwqZW01jBshr3Bg5BkwUdKoMvRTBYBsvRVnACRSY9C2g1dusvcpN+6lWRYFNvpNoyX4L3k9yKKLYj4ISsXvesZlKeyUVeBFbRc9+D070MVQREmdVG/JPZECs3aMpUlywQtIhqMcnrwjGOFkPSZfu1EClncRFFeM831DINcjBYblkHll0vRPp0RLHGjSFPz0/+hwjVuFHXAVRRKLB6KM/aMedYdL07e1XbH7QPdwC9DGj52QXtwdES2kg==;jO2GxsjTyW8lvt5wulfpzw=="
+secured: "TnSC0JpdJ2tr1d9NO0KmlsE36zYXxBfnUugXT+zvSXN4r38QQCD7OUD8L8vxyTFCX1G5fGKqeDEpukprhUKtdl1Iv2e9qpa8p4Rk5WJd30ETjrxGv0fKk+seXEYPDdF/JUWeJq1n9o0SJgvDkV6qZ/eyvTNDn0hQAzql2nglE8+JoJa0lG0/I+6wOcLQZMD+c3HgZ7C1D6btVAeaGHOP7M+Tk2g83BlmCM/Cpr9aMLpHo3yTf80RxuI23PfSYT/s62XNWTaWdAyLhDaIEruvgu4kRpyogjzcSoTSPx7VerjUe6TZidtcp61VDRhrJqdZYUnKmtWluAxgnhvCCUwcImwHIXGivXuAvFH6o5TB+QA=;21Dn4jitQnWbGmltZpe4Vw=="
 ---
 

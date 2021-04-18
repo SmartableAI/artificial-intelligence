@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-cambridge-quantum-pushes-into-nlp-and-quantum-computing-with-new-head-of-ai.md",
+      "title": "Cambridge Quantum pushes into NLP and quantum computing with new head of AI",
+      "excerpt": "Cambridge Quantum Computing's new hire signals it may be looking at ways quantum computing could be used for natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/futuristic-supercomputer-gettyimages.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
+      "publishedDateTime": "2021-04-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
       "title": "Is Boston Dynamics becoming a boring robotics company?",
       "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
@@ -625,7 +721,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 328,
+      "heat": 338,
       "tags": null,
       "images": [
         {
@@ -1145,110 +1241,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-deep-learning-market-size-share-growth-trends-and-forecast-2021-2023.md",
-      "title": "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023",
-      "excerpt": "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-artificial-intelligence-and-whisky-making-the-perfect-blend.md",
-      "title": "Artificial Intelligence And Whisky Making: The Perfect Blend?",
-      "excerpt": "Find out how Mackmyra, a Swedish whisky distillery, used AI to analyze 70 million possible combinations and create an innovative new whiskey recipe that customers love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607910368e6e3822f9bc7cc1%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/16/artificial-intelligence-and-whisky-making-the-perfect-blend/amp/",
-      "publishedDateTime": "2021-04-15T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

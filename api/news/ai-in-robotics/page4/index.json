@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-vaarst-to-drive-the-future-of-marine-robotics-through-data-focus.md",
+      "title": "Vaarst to drive the future of marine robotics through data focus",
+      "excerpt": "The company is a technology spin-off of Rovco which was founded in 2015 and has invested heavily in real-time artificial intelligence-based 3D vision and autonomy systems. Future plans will see Vaarst take its offering to the wider industrial robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/",
+      "originalUrl": "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/Vaarst-SubSLAM-X2-3D-imaging-technology.jpg",
+          "width": 600,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/",
+      "publishedDateTime": "2021-03-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-azure-percept-is-microsofts-long-awaited-answer-to-advancing-robotics-and-edge-ai.md",
       "title": "Azure Percept Is Microsoft’s Long-Awaited Answer to Advancing Robotics and Edge AI",
       "excerpt": "Microsoft announced Azure Percept, an end-to-end edge Artificial Intelligence (AI) platform that includes hardware accelerators integrated with Azure AI and Internet of Things (IoT) services. Azure Percept is able to run deep learning-based machine vision workloads at the edge without connection to the cloud.",
@@ -1264,93 +1350,6 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
-      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
-      "excerpt": "Naval Information Warfare Center (NIWC) Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition. The two-part event, which centered on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition",
-      "originalUrl": "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dvidshub.net/media/thumbs/photos/2104/6584603/1000w_q75.jpg",
-          "width": 1000,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DVIDSHub",
-        "domain": "dvidshub.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-eri-improves-recovery-with-robotics.md",
-      "title": "ERI improves recovery with robotics",
-      "excerpt": "Electronics recycler ERI, headquartered in Fresno, California, is leveraging technology to improve e-scrap processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.recyclingtoday.com/article/electronics-recycler-improes-recovery-robotics-ai/",
-      "originalUrl": "https://www.recyclingtoday.com/article/electronics-recycler-improes-recovery-robotics-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/03/19/eri-sam-web.jpg?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling Today",
-        "domain": "recyclingtoday.com",
         "images": null,
         "publishers": null,
         "authors": null

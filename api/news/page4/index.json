@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-the-eu-is-considering-a-ban-on-ai-for-mass-surveillance-and-social-credit-scores.md",
+      "title": "The EU is considering a ban on AI for mass surveillance and social credit scores",
+      "excerpt": "If the draft proposal is adopted, it would see the EU take a strong stance on certain applications of AI, setting it apart from the US and China. Some use cases would be policed in a manner similar to the EU’s regulation of digital privacy under GDPR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "originalUrl": "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/QnQ780uD0M26Ro6g1aj9cPbNG8Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69124124/acastro_181017_1777_brain_ai_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit",
+      "publishedDateTime": "2021-04-14T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-global-ai-in-healthcare-market-2020-to-2025-featuring-intel-ibm-google-among-others.md",
+      "title": "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others",
+      "excerpt": "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-2020-to-2025---featuring-intel-ibm-google-among-others-2021-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-understanding-what-artificial-intelligence-is-and-what-its-not.md",
+      "title": "Understanding What Artificial Intelligence Is, And What It's Not",
+      "excerpt": "Jody Glidden is the Co-Founder and CEO of Introhive the fastest-growing B2B relationship intelligence service and data management platform. “It doesn’t look like anything to me.” So goes the classic line from HBO’s dystopian television series Westworld.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/14/understanding-what-artificial-intelligence-is-and-what-its-not/amp/",
+      "publishedDateTime": "2021-04-14T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
       "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
       "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
@@ -10,7 +164,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1124,164 +1278,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
-      "title": "Modular mobile robot can take on multiple roles at construction site",
-      "excerpt": "Modular mobile robot can take ... Austrian startup Printstones has been developing ... The development team aims to work on AI simulations of work environments in the future, so that the robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "originalUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0691c04/2147483647/strip/true/crop/3084x2056+106+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2F84%2Fe6e51926454eaacd6abed52030a4%2Fstairs-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/baubot-modular-mobile-construction-robot/?amp=true",
-      "publishedDateTime": "2021-04-13T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life.md",
-      "title": "Deeplite Raises $6-million Series Seed to Enable AI for Everyday Life",
-      "excerpt": "Montreal-based AI startup Deeplite Inc. today announced the closing of a $6-million seed financing round led by the Boston-based venture capital firm PJC with participation from leading AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/mms.businesswire.com/media/20210413005850/en/870815/4/Deeplite_team_-_main.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
-      "publishedDateTime": "2021-04-13T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-machine-learning-on-raspberry-pi-just-took-a-big-step-forward.md",
-      "title": "Machine learning on Raspberry Pi just took a big step forward",
-      "excerpt": "\"Increasingly we're seeing deep learning eating software as part of a general trend towards increasing abstraction, sometimes termed lithification, in software. Which sounds intimidating, but means that we can all do more, with less effort. Which isn't a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/200a744f-429b-4a0f-b243-5ccc37d7498c/resize/1200x/a486d534d301e3691d29b889a98e246a/raspberry-pi-board-tinyml-edit.jpg",
-          "width": 1200,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "publishedDateTime": "2021-04-13T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

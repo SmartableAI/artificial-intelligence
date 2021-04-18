@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
+      "title": "Mozilla winds down DeepSpeech development, announces grant program",
+      "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/11/mozilla_foundation.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
+      "publishedDateTime": "2021-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-volvo-taps-nvidia-orin-for-its-self-driving-cars-the-juicy-details.md",
+      "title": "Volvo taps NVIDIA Orin for its self-driving cars: The juicy details",
+      "excerpt": "Volvo plans to bake NVIDIA’s DRIVE chipsets for autonomous and smart cars into its next-generation platform, with the first fruit of that partnership to be revealed in 2022. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonomous-car-platform-12667945/",
+      "originalUrl": "https://www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonomous-car-platform-12667945/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/volvo-xc90-grille.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonomous-car-platform-12667945/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-taps-nvidia-orin-for-its-new-autonomous-car-platform-12667945/amp/",
+      "publishedDateTime": "2021-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-nuros-self-driving-robot-will-deliver-dominos-pizza-orders-to-customers-in-houston.md",
+      "title": "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston",
+      "excerpt": "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
+      "originalUrl": "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/oRCkywwYBpbl8UjzgYn9SHAuTVM=/0x0:5129x3420/1400x933/filters:focal(1863x1390:2683x2210):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
+      "publishedDateTime": "2021-04-12T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles.md",
       "title": "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles",
       "excerpt": "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models.",
@@ -288,10 +445,10 @@
     {
       "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
       "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ...",
+      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -324,7 +481,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1050,153 +1207,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-fintech-unsecured-lending-challenges-and-myths.md",
-      "title": "Fintech Unsecured Lending: Challenges And Myths",
-      "excerpt": "Fintech adoption in borrowing space is 61 per cent as per this ... Availability of many data points of the customers to feed AI/ML models to underwrite and mitigate the risks since portfolio is unsecured in nature and such players do not operate on brick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369125",
-      "originalUrl": "https://www.entrepreneur.com/article/369125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618209459-money-transfer-3588301-1920.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369125",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369125",
-      "publishedDateTime": "2021-04-11T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nypd-use-facial-recognition-app-against-their-own-officers-to-id-cops-drinking-before-mates-funeral.md",
-      "title": "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral",
-      "excerpt": "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/12/06/41638292-0-image-a-92_1618205309826.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "publishedDateTime": "2021-04-11T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry.md",
-      "title": "The Amazing Ways VR And AR Are Transforming The Travel Industry",
-      "excerpt": "Augmented reality and virtual reality make it possible to enjoy the adventures of travel from our couch while we're still under pandemic restrictions. VR and AR technology is also reshaping the travel industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073ca8507bbca6e73608580%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/04/12/the-amazing-ways-vr-and-ar-are-transforming-the-travel-industry/amp/",
-      "publishedDateTime": "2021-04-11T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

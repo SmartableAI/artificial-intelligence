@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory.md",
+      "title": "Will It Be Hard Or Easy For Self-Driving Cars To Expand Their Territory?",
+      "excerpt": "Will it be hard for companies like Waymo to expand out of suburban phoenix to all the different cities and countries they want to serve? Is the approach of Tesla or MobilEye superior?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062aaa1ca46bf5cf0c6ae58%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/30/will-it-be-hard-or-easy-for-self-driving-cars-to-expand-their-territory/amp/",
+      "publishedDateTime": "2021-03-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-didi-seeks-to-raise-6-billion-for-its-self-driving-unit-report.md",
       "title": "Didi seeks to raise $6 billion for its self driving unit: Report",
       "excerpt": "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year.",
@@ -1336,58 +1388,6 @@
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
-      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
-      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
-      "publishedDateTime": "2021-03-23T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,143 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
+      "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
+      "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
+      "originalUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/02/money.jpg?w=1024",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
+      "publishedDateTime": "2021-03-09T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
+      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
+      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "originalUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "publishedDateTime": "2021-03-09T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-assessing-regulatory-fairness-through-machine-learning.md",
+      "title": "Assessing regulatory fairness through machine learning",
+      "excerpt": "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
+      "originalUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg",
+          "width": 1500,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
+      "publishedDateTime": "2021-03-09T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-google-open-sources-automl-algorithm-model-search.md",
       "title": "Google Open-Sources AutoML Algorithm Model Search",
       "excerpt": "A team from Google Research has open-sourced Model Search, an automated machine learning (AutoML) platform for designing deep-learning models.Experimental results show that the system produces ...",
@@ -1023,153 +1160,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-we-need-a-humanitarian-vision-for-ai-and-robotics.md",
-      "title": "We need a humanitarian vision for AI and robotics",
-      "excerpt": "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "originalUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg",
-          "width": 1600,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "publishedDateTime": "2021-03-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made.md",
-      "title": "Is It Time To Question Our Assumptions About Hand-Made Vs Machine-Made?",
-      "excerpt": "The belief that something made by humans is of better quality crumbles when we confront it with the principles of Industry 4.0, which is seeing new standards of automation: historically this has always meant greater efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
-      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60473485586d43a09b09e3f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
-      "publishedDateTime": "2021-03-09T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic.md",
-      "title": "KPMG: AI adoption accelerated too fast during the pandemic",
-      "excerpt": "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "originalUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "publishedDateTime": "2021-03-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-Augmented Attacks and the Battle of the Algorithms Report"
-    excerpt: "Read this report on AI-Augmented Attacks to discover how cyber-criminals might leverage AI in each stage of the kill-chain, streamlining the process and driving efficiency gains."
-    publishedDateTime: 2021-04-14T02:33:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/ai-augmented-attacks-and-the-battle-of-the-algorithms-report/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
 
 secured: "+F0kGfCi+Z8Xhzt/PsRZ8m8bYWWHm1dJVHJNc1cZSp82ozgcb72V/+bZocTGEtzT/TvA8WqtzwbXjfflV8kid1L0Alfb8AZ56MrXyTOc5RwAGOZp4yuBgds12o3OMR/eMBr2KyVr9S3+sFbvm792+3GquDroZq350oeOH/0pHkjFSHFpfiYv/I4g1Guz534FA36W0WN5RHKb0W/imV1Z2I9c3m12EXiCWPYS07Kkp4Vku8l4CzTYB3mp/seqUZ6btbmoYoO5AQbAAPYEPrZvsaIv9aCZG6ugtEqfiSfoBIUegRNuS8L0UKpvIymcJDcsIF5UMWbdj0P2r9OVLg3dL5MyHXEGapfFq6iCRwRiuJI=;Weys/gQgJuITyR8c0qoJJA=="
 ---

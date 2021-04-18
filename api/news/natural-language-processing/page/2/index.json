@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
+      "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
+      "originalUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gpt-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
+      "publishedDateTime": "2021-03-27T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-segmentation-key-players-opportunities-and-forecast-2021-2028.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028",
       "excerpt": "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which",
@@ -1257,49 +1309,6 @@
       "provider": {
         "name": "SmartData Collective",
         "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
-      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
-      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "originalUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
         "images": null,
         "publishers": null,
         "authors": null

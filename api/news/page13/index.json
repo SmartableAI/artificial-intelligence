@@ -2,6 +2,156 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-07-photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost.md",
+      "title": "Photonic Supercomputer For AI: 10X Faster, 90% Less Energy, Plus Runway For 100X Speed Boost",
+      "excerpt": "An Envise blade includes 16 Envise chips in a 4U server configuration that uses a miserly ... And, of course, enables continued growth in our use of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d2d1d000492b0c778e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/04/07/photonic-supercomputer-for-ai-10x-faster-90-less-energy-plus-runway-for-100x-speed-boost/amp/",
+      "publishedDateTime": "2021-04-06T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market 2021 Top Manufacturers, Industry Share, Regional Investments and Future Trends by 2027",
+      "excerpt": "The increasing implementation of 3D technology along with neural networks and deep learning technologies will promote the healthy growth of the market during the forecast period, states Fortune Business Insights, in a report, titled “Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-2021-top-manufacturers-industry-share-regional-investments-and-future-trends-by-2027-2021-04-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
+      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
+      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "publishedDateTime": "2021-04-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email.md",
       "title": "Google’s senior AI scientist resigns after colleagues' firing, reveals email",
       "excerpt": "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart.",
@@ -1034,143 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers.md",
-      "title": "Clarifai expands its AI product portfolio to serve its growing base of enterprise and public sector customers",
-      "excerpt": "Clarifai, a leading AI lifecycle platform provider for managing unstructured image, video, text and audio data expands its product offerings",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-301263073.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/clarifai-expands-its-ai-product-portfolio-to-serve-its-growing-base-of-enterprise-and-public-sector-customers-301263073.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/837665/Clarifai_Logo_FC_Logo.jpg?p=facebook",
-          "width": 735,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-how-can-government-attract-the-ai-talent-it-needs.md",
-      "title": "How Can Government Attract the AI Talent It Needs?",
-      "excerpt": "Yll Bajraktari is executive director of the National Security Commission on Artificial Intelligence, a group of industry executives and academics that has studied the government’s AI needs. Martial Hebert is dean of the Carnegie Mellon University School ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "originalUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-320749/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "publishedDateTime": "2021-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "originalUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "publishedDateTime": "2021-04-06T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTXL ABC 27",
-        "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

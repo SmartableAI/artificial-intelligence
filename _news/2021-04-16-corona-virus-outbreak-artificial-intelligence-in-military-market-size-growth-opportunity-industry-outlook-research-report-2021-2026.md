@@ -74,20 +74,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-04-16T13:08:00Z

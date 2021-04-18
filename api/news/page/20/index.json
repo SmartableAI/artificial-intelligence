@@ -2,6 +2,144 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-31-autonomous-trucking-gains-steam-but-big-hurdles-remain.md",
+      "title": "Autonomous Trucking Gains Steam But Big Hurdles Remain",
+      "excerpt": "But robotic trucking has the potential to do all of that with artificial intelligence. Such services will still need ... its own self-driving Freightliner and also is working with Waymo. Autonomous technology startup TuSimple has deals with Navistar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/",
+      "originalUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.trucks.com/wp-content/uploads/2021/03/Volvo_Blog_Cover_1260x700-674x337.jpg",
+          "width": 674,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/amp/",
+      "cdnAmpWebUrl": "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2021/03/31/autonomous-trucking-gains-steam/amp/",
+      "publishedDateTime": "2021-03-31T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "trucks.com",
+        "domain": "trucks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025.md",
+      "title": "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025",
+      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
+      "title": "Scientists turn to deep learning to improve air quality forecasts",
+      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "originalUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/scientiststu.jpg",
+          "width": 730,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
       "title": "The Future of Lab Robotics",
       "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
@@ -1006,152 +1144,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-facebook-gets-a-c-startup-rates-the-ethics-of-social-media-platforms-targets-asset-managers.md",
-      "title": "Facebook gets a C – Startup rates the ‘ethics’ of social media platforms, targets asset managers",
-      "excerpt": "He says that when he left Fidelity he decided EthicsGrade would out to cover not just ESGs but also AI ethics for platforms that are driven by algorithms. He told me: “We’ve built a model to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
-      "originalUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/EthicsGrade-Industry-Summary-Scorecard-Social-Media-.jpg",
-          "width": 620,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
-      "publishedDateTime": "2021-03-31T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-xiaomi-invests-15-billion-in-fully-owned-ev-business.md",
-      "title": "Xiaomi invests $1.5 billion in fully owned EV business",
-      "excerpt": "The world's fourth-biggest phone maker Xiaomi now pledges to develop high-quality EVs with a 'best-in-class' connected device ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "originalUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2021/03/vbox12151_HSPH5091_212757.jpg?fit=1920%2C1080&ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "publishedDateTime": "2021-03-31T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-uniphore-raises-140-million-to-expand-ai-to-video-call-analysis.md",
-      "title": "Uniphore Raises $140 Million to Expand AI to Video-Call Analysis",
-      "excerpt": "“Labor-intensive contact centers couldn’t handle the deluge so AI and automation products like ours stepped in to fill the gap.” Sales tripled in the fiscal year ending March 2021 and the company is set to reach $100 million in annual subscription ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL.YJ53uTW1E/v0/1200x826.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

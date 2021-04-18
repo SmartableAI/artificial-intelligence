@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
+      "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
+      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-dominos-and-nuro-to-start-robot-pizza-delivery-in-houston.md",
+      "title": "Domino's and Nuro to start robot pizza delivery in Houston",
+      "excerpt": "Domino's Pizza Inc DPZ.N and Nuro Inc, a Silicon Valley startup, said on Monday they will launch a robotic pizza delivery service in Houston this week as they seek to satisfy increasing online orders during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/",
+      "originalUrl": "https://www.nasdaq.com/articles/dominos-and-nuro-to-start-robot-pizza-delivery-in-houston-2021-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B4HR3XMWWROH3K4V6SMATGKLSQ.jpg",
+          "width": 5011,
+          "height": 3341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-meet-the-xenobots-living-biological-machines-that-could-revolutionize-robotics.md",
       "title": "Meet the Xenobots: Living, biological machines that could revolutionize robotics",
       "excerpt": "“We could program the living robots to sense pollutants, and hopefully to seek them out and destroy them. Once they finish their job, they [could then] break down harmlessly in the environment, [without leaving] any artificial waste behind.” The longer ...",
@@ -524,19 +610,19 @@
     {
       "path": "_news/2021-04-08-appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to.md",
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
-      "excerpt": "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer",
+      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
-      "originalUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -546,11 +632,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T03:00:00-07:00",
+      "publishedDateTime": "2021-04-08T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1319,101 +1405,6 @@
         "name": "IFLScience",
         "domain": "iflscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-makers-of-humanoid-robot-sophia-are-building-its-sibling.md",
-      "title": "Makers of humanoid robot Sophia are building its sibling",
-      "excerpt": "Joyce will use data-in-picture technology and a multiple sensors to provide data to its AI, neural network and computer vision to increase visual perception",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/vgq89j/article34243251.ece/ALTERNATES/LANDSCAPE_615/sophia-joycejpeg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "publishedDateTime": "2021-04-05T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
-      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
-      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/EVyHjtXCueLKu0u1DCNzYopAafs=/1200x630/2020/09/24/ec6f03fc-1fda-4877-ab8e-12434a759b86/lg-wing-phone-7832.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics/",
-      "publishedDateTime": "2021-04-04T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

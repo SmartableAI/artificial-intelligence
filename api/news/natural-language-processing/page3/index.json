@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
+      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
+      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "originalUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-deephow-bridges-skills-gap-in-manufacturing-and-field-service-with-ai-powered-video-training-solution.md",
       "title": "DeepHow Bridges Skills Gap in Manufacturing and Field Service with AI-Powered Video Training Solution",
       "excerpt": "DeepHow, the AI company that turns know-how into smart, how-to training videos, has officially launched its AI-powered training platform for manufacturers and field-service teams. After extensive pilots and deployment with several Fortune 100 companies,",
@@ -1387,58 +1430,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

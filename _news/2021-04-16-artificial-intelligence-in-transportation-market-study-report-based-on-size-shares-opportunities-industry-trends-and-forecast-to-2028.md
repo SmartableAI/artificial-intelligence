@@ -75,20 +75,6 @@ related:
         width: 800
         height: 530
         isCached: true
-  - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
-    excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/insights-on-the-ai-in-healthcare-global-market-to-2025---by-sections-diagnosis-end-user-and-geography-301270595.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Corona Virus Outbreak: Artificial Intelligence in Military Market Size, Growth Opportunity & Industry Outlook Research Report, 2021-2026"
     excerpt: "Latest Industry Research Report On “Global Artificial Intelligence in Military Market 2021“ in-depth analysis of the Market State, Growth, Opportunities, and Analysis of Top Key Players over the forecast period to 2026."
     publishedDateTime: 2021-04-16T09:50:00Z

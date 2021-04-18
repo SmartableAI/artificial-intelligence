@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
 type: article
 quality: 59
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Man Falsely Arrested Because of Facial Recognition Software Error Sues Detroit"
-    excerpt: "A Michigan man Tuesday filed a federal lawsuit against the City of Detroit over his a wrongful arrest, which he says was caused by faulty facial recognition technology."
-    publishedDateTime: 2021-04-14T02:00:00Z
-    webUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/"
-    ampWebUrl: "https://www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/man-falsely-arrested-because-of-facial-recognition-software-error-sues-detroit/?amp"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 55
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2021/04/monitoring-1305045_1920.jpg?fit=1200%2C800&ssl=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
     excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
+      "title": "Artificial Intelligence, robotics new heights in healthcare",
+      "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-is-boston-dynamics-becoming-a-boring-robotics-company.md",
       "title": "Is Boston Dynamics becoming a boring robotics company?",
       "excerpt": "The new Stretch robot from Boston Dynamics doesn't do backflips or dance, but it may become the company's most successful commercial product.",
@@ -376,6 +420,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -416,41 +503,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1381,49 +1433,6 @@
       "provider": {
         "name": "Just-Food",
         "domain": "just-food.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-dominos-and-nuro-to-start-robot-pizza-delivery-in-houston.md",
-      "title": "Domino's and Nuro to start robot pizza delivery in Houston",
-      "excerpt": "Domino's Pizza Inc DPZ.N and Nuro Inc, a Silicon Valley startup, said on Monday they will launch a robotic pizza delivery service in Houston this week as they seek to satisfy increasing online orders during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/",
-      "originalUrl": "https://www.nasdaq.com/articles/dominos-and-nuro-to-start-robot-pizza-delivery-in-houston-2021-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B4HR3XMWWROH3K4V6SMATGKLSQ.jpg",
-          "width": 5011,
-          "height": 3341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

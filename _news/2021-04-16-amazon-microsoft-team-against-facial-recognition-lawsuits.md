@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 328
+heat: 338
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
+    publishedDateTime: 2021-04-18T19:04:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 67
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
     excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."

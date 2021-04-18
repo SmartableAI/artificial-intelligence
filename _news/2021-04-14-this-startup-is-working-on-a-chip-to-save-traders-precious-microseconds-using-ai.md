@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-startup-is-workin
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-startup-is-working-on-a-chip-to-save-traders-precious-microseconds-using-ai-71618398540419.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -25,22 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "This startup is building a chip to save traders vital microseconds"
-    excerpt: "In the unfathomably fast realm of high-frequency trading, a South Korean startup’s plan to build a microchip that speeds markets up by a few microseconds is bound to get some attention—particularly here in Chicago."
-    publishedDateTime: 2021-04-14T02:59:00Z
-    webUrl: "https://www.chicagobusiness.com/finance-banking/startup-building-chip-save-traders-vital-microseconds"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/GettyImages-1150316505.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "GRlCsf4Ylgju+QtaQKQTEeDkY42NNSb3pxgG4MME1Qrgq+J26Cto8nAFx+86MBZBn7d/3oGvv3GmU7V5HyxQyjDCQYNPwSuGaV4ukRn8AE3fV2w9/BOgg+J+tSK3o5ze/UqA6WCzi1K4AY9wj0DyIFhCa3v4Yx3zf3dlRFF4VYBDwR9AMB1V74ryX14Rf2gtCAIfsVO+Fq+MEimZbq/JA9pkqHE7/51ONNOUZhT3g/+URvejeUwqhJ+wmvJn9kGZepoIC8aW0zvJVhstJY08itBWlX+JFP1q4YgC7t7XWHgtfv20FoBzKBEJQpsnzb2U67eaVevjN01RQ3mN4veXPrb5H2lobbjKJOETv0HezD4xi8IVmLrPF2T007Jc0+EKEYP0RGs3rjwOedlmG33qZxXj1EiQOcz4cXvHXCTDaqQI0XYejQnG3EVVHvBb9ecXCkcipgbJEny5GLydhwv2a3Zks7/kVJp0+ZcPAns+eeFo3B4QJvI6+R6uUF2nsV2EFoKFUh7EOy0kU6a+eHIUxg==;YAmnaELDHye81LGy7boOyA=="
 ---
