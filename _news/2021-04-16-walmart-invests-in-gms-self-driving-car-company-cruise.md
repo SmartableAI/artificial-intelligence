@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
-excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
-publishedDateTime: 2021-04-16T04:36:00Z
-originalUrl: "https://www.ibtimes.com/walmart-joins-multibillion-dollar-investment-self-driving-cars-3181996"
-webUrl: "https://www.ibtimes.com/walmart-joins-multibillion-dollar-investment-self-driving-cars-3181996"
+title: "Walmart invests in GM’s self-driving car company, Cruise"
+excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."
+publishedDateTime: 2021-04-15T17:01:00Z
+originalUrl: "https://ktvz.com/lifestyle/technology/2021/04/15/walmart-invests-in-gms-self-driving-car-company-cruise/"
+webUrl: "https://ktvz.com/lifestyle/technology/2021/04/15/walmart-invests-in-gms-self-driving-car-company-cruise/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/self-driving-concept-cars_0.JPG"
-    width: 1200
-    height: 491
+  - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -225,19 +225,19 @@ related:
         width: 1840
         height: 1200
         isCached: true
-  - title: "Walmart invests in GM’s self-driving car company, Cruise"
-    excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."
-    publishedDateTime: 2021-04-15T17:01:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/15/walmart-invests-in-gms-self-driving-car-company-cruise/"
+  - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
+    excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
+    publishedDateTime: 2021-04-16T04:36:00Z
+    webUrl: "https://www.ibtimes.com/walmart-joins-multibillion-dollar-investment-self-driving-cars-3181996"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 24
     images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
-        width: 1024
-        height: 576
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/self-driving-concept-cars_0.JPG"
+        width: 1200
+        height: 491
         isCached: true
   - title: "Walmart invests in self-driving car start-up, Cruise"
     excerpt: "Walmart has recently invested in autonomous, self-driving car start-up, Cruise in its latest USD 2.75 billion funding round."
@@ -268,6 +268,6 @@ related:
         height: 844
         isCached: true
 
-secured: "fJL1+9ddIuX5BwcM10J/UkP7SuMMIV6/1G86g/oYqQtp35oncdmSuZp2ZGpD/3gPJt6cMZIT5HUZbXOsVHsVbU82xX+gARQo0xV9aZhomMQaNgQFyU1SNIVKfVvHoLmmOlIg4vEDyjZ+ga3N3uVNTW3Pik1x4JkaKg4zngzltNL113E9PISQTtgdIvmXc1I3eratRt560Nrz93dP/1kmMZIfO3YlUIfCijLEE6gpPNvjcNTeJZefFDn+GLCV9JOMRuZ9h8EnANPDj6Qip1wJ0M1jUiACsjJwTu61Vyh1O+Ezyi84EyzSR8Cs5TO/BAtl+J37QzGOvHyqAljsSPgIC6JQMt1biLc1DH7pyW66yx8lJuxzXz8Iirvn1+M22BZE41ct4yMwQ1hiEdxdPZVVFOVOYjIlTGIE1xJ+Y8UTmjEaOHkoq/XUudKxFysCOgrTmBIicxbRvw87rYp3CuFNqjLGsc7u1bMv2jo7T9+lFmbwVFC5ncrzQHpkk56zH5GoU1MIFXsA7vmWN4QrH5AP0A==;iUvFWTSIYpGdUpKYI4B6CA=="
+secured: "4/2Tm5RSjLYeMUhoHbgUtEI14KwLFgPXvilZvJVR4s3Comw9N4w7+BGpGuewWDnHm6QatVaPHwdyXr/oocnJw0YU0UTgjcAmpdgc1NmUSOfUY3qchaUR2Lom26cSDBUSSTkCL5tolVyy8d1Eq+++EsGH5KleVrC6jm5NNelVZ/VuXTouqf0LBdC5s7nuf7EfU2KYfrKHAPq1tU9qcj9ADnInG++I3kFNJ8O1XfJWyXhTCPejtDFy9+EhT0CSdPbyGN6xJQwJCRLlVlF3boU34MmKYM/ZF2sBezfZ5mhyaTpvLdwH46weltcbHOd0LFyYvwjVoeUsKrYXWryPaxBY3poLqwpkCaBpDaC1gJJVWkI=;DCMMTrkjwZa1VZCuHnWGUA=="
 ---
 

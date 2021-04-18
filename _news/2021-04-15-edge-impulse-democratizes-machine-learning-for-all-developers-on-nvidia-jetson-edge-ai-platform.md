@@ -74,24 +74,6 @@ related:
         width: 816
         height: 400
         isCached: true
-  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
-    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
-    publishedDateTime: 2021-04-13T18:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
-    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "9Ui+X8bigk8qsl+9zoDu49siDUsrPCV09vkJkXTHzo7/VgnnFg8GAORTb7d4xlFq9vnp1ujWwN7v9netJjmPp+wRH4/vV3tZLPxgA79C1/YTOKaRdmeJs8Th0u8Ot0uMsU3yFWDSq4eq673RmXwXpOtYl9hMQ9L4hw3lCVSSSEVazYaEErDIkP/pbS4DllDYKP+SINxQ/R60bOtSUrFILZfmXlV18xNapMx6zG1iZdHy7R+/Eso0NBQLW2GLwg//PA/2UPT/QPhS/F3jQSmMrejegHcdlAtfEo1L0cAi41ZmYGiGLoWyFmSwBCT6eFgGDmGHBQ79LIbkRv2+Z7gdLT+BuxAMbnhs/5LPZADPS7w=;rlSjZCKRW17J6NtcHz/3Qw=="
 ---

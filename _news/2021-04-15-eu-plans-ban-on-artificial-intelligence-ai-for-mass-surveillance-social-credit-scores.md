@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "EU Poised to Set AI Rules That Would Ban Surveillance, Scoring"
-    excerpt: "AI systems used to manipulate human behavior, exploit information about individuals or groups of individuals, used to carry out social scoring or for indiscriminate surveillance would all be banned in the EU. Some public security exceptions would apply."
-    publishedDateTime: 2021-04-13T18:29:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/eu-poised-to-set-ai-rules-that-would-ban-surveillance-scoring"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i47EMK4WYX7Y/v0/1200x736.jpg"
-        width: 1200
-        height: 736
-        isCached: true
 
 secured: "h6jcOydy3r6YxDuL56JoRU1eNQC8RUgJaU4YDA5eSpRxhjZR0BVWPi+7tMqyXhU53N1kQQhTIs+FdTEIPv1ZakGFsnkhRXs06eiPC7OzraHJf4A7/HVpaJk4wEtfYkrWuL6MkBxhJPx/OKFxeqr7d0AKol5gef6ACYvvJFfuihzS22ZCaXEqJlRdm7HSOEgMVaWbed17MLDTuRm/1VtuP5FPonGHKKRpoi3Adh8CB3ytf5gmgkxiQPb+H/cpTRsHaNNbrfzMU3HPBRnWpkuRp0wVwG5BV/OB6QOG0bhvYCCbehCCvhGERF0D6cyZwjG3fG9DmL32M/RFRkWkeflyiDCshOhTVf907BjUOHqkDm8=;xU/JsnmmYQQ5IYXnwRXYHg=="
 ---

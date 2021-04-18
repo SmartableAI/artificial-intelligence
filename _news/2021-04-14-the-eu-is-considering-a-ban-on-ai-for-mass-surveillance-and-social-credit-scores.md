@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regul
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU Poised to Set AI Rules That Would Ban Surveillance, Scoring"
-    excerpt: "AI systems used to manipulate human behavior, exploit information about individuals or groups of individuals, used to carry out social scoring or for indiscriminate surveillance would all be banned in the EU. Some public security exceptions would apply."
-    publishedDateTime: 2021-04-13T18:29:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-13/eu-poised-to-set-ai-rules-that-would-ban-surveillance-scoring"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i47EMK4WYX7Y/v0/1200x736.jpg"
-        width: 1200
-        height: 736
-        isCached: true
   - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
     excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
     publishedDateTime: 2021-04-15T08:00:00Z

@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 635
         isCached: true
-  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
-    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
-    publishedDateTime: 2021-04-13T18:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z
@@ -83,15 +74,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
-    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "mGVoNwg9kl5aoMYFUFLY+/CYbvDq6cZKMfP0R9pQkgZk7AKZE+L1GMs7TTS63ovIQbkrar20wf/UADvYJkTkexF2qdeWyGDysSEK4FUvHSb3b3fnJFayQuA/XB3vxCT2wy3tpkuSDw6Z1k4kRW8ty/6Cq67+rcTfP1iScH7Fq+CN4Vjasir98asr9vgERCKdhFtXNmbIsThGuY5okJxWR+vx4vKdBzXpOhvouAXQp008jnT2fWGHf2e8SfumIfXG8srcEqBrvY9BUmaqWYb2By2gGeneoF5V+fzl6ziEvBvBw5d67wFREKGZeU9ZgIZ5pi2b+/fR+CIO+KcLSkVZaiEjkcSKXxVTTzPyrNInW0Q=;JRfnMhU+GEyhhJFpIpwSIw=="
 ---

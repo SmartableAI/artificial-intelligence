@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "NexMind AI launches Machine Learning SEO Platform in Chinese version"
-    excerpt: "NexMind AI recently announced the newest version of one of its AI-Technology, the world’s-first Artificial Intelligence (AI) Machine-Learning SEO Platform as a Service (PaaS) named NexODN in Chinese Version."
-    publishedDateTime: 2021-04-15T04:18:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
+  - title: "The ulti-mutt pet? Chinese tech company develops robot dogs"
+    excerpt: "It's whip fast, obeys commands and doesn't leave unpleasant surprises on the floor -- meet the AlphaDog, a robotic response to two of China's burgeoning loves: pets and technology. The high-tech hound uses sensors and Artificial Intelligence (AI) technology to 'hear' and 'see' its environment -- and can even be taken for walks."
+    publishedDateTime: 2021-04-18T11:04:00Z
+    webUrl: "https://tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/"
+    ampWebUrl: "https://tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/amp"
+    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/amp"
     type: article
     provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 54
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 59
     images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
-        isCached: true
-  - title: "Chinese researchers say they’ve developed an AI text censor that is 91% accurate"
-    excerpt: "They claim it could be useful to ‘identify and filter sensitive information from online news media’. China’s Internet is tightly controlled and the government relies on a huge army of censors to vet content."
-    publishedDateTime: 2021-04-15T07:17:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/15/chinese-researchers-say-theyve-developed-an-ai-text-censor-that-is-91-accurate"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 34
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114435.jpg"
-        width: 1240
-        height: 697
+      - url: "https://guardian.ng/wp-content/tv-uploads/2021/04/rr-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "JibaZsWF9QdGz/oecz7tUhQcJ/3e2enpjbMzMxmpVrrBrN7u+hzFSqwcw1Xqftil3o+qWml9ozjCIy/oXIjYZ0xecN7tngwQUR4tR+FesNb7R1eRN3BjvBpyk7HRsPK0XwUjayhO+JwRpVbdBHzXm7jDOvaW6SP3YVPzZkA3ss/YPJIJ/J/QWFBMAilE+UqT1qlicyM8GhZFA8UaSmQZdRt6bVghQCj/drAfeD0pUF/JHPZGNSZ24w9LltMeC3r7yYf4SczlrJHpG5RA1qV48u6X1XHIcAT8Q8gBaQStmZuTxv7d+lIH9s6/VpjXSt+tHbGpBZDGNljPXVd8iqEhp4C5s3YKC0plxxvuaZsm/XHczU6hRLetoRbnrnTyhKP2GjmNjSVQcxNoICiT44eRl+z0D1p1TaCpECZhE07x6XKeBEoK91oUf+P6eEPhieHoS2O+rGYhkI3i1mcCEJHSpKTkPVlG3MT3W7+kSN1QunUNrn+lmqyMcvgiSnSPTTzcfAbX2ApKdDg7pR/Z28Tutw==;OUyNUJXUX1JZIz4Z58OjCQ=="

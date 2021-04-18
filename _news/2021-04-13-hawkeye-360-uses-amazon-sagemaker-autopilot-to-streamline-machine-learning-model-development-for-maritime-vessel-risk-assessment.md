@@ -44,20 +44,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Enable cross-account access for Amazon SageMaker Data Wrangler using AWS Lake Formation"
-    excerpt: "Amazon SageMaker Data Wrangler is the fastest and easiest way for data scientists to prepare data for machine learning (ML) applications. With Data Wrangler, you can simplify the process of feature engineering and complete each step of the data preparation workflow, including data selection, cleansing,"
-    publishedDateTime: 2021-04-13T18:27:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-cross-account-access-for-amazon-sagemaker-data-wrangler-using-aws-lake-formation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/12/1-Architecture.jpg"
-        width: 800
-        height: 309
-        isCached: true
   - title: "Estimating 3D pose for athlete tracking using 2D videos and Amazon SageMaker Studio"
     excerpt: "In preparation for the upcoming Olympic Games, Intel&reg;, an American multinational corporation and one of the world’s largest technology companies, developed a concept around 3D Athlete Tracking (3DAT). 3DAT is a machine learning (ML) solution to create real-time digital models of athletes in competition"
     publishedDateTime: 2021-04-14T23:21:02Z

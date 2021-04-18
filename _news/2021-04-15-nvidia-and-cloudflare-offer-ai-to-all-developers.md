@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/nvidia-and-cloudflar
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 816
         height: 400
         isCached: true
-  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
-    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
-    publishedDateTime: 2021-04-13T18:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z
@@ -86,15 +77,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
-    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "Oi40Ly7j2KB3bp9SqsGUZAl3GZFuCEFz2MsdApuYm1wWjiJr42lLLQ3l/Fg5pFxbJonpwyBaxmNvD37Cs9CY1vplFY5esWPbSJXBq9K9XAAkVzVGlmT5Qjasl4wiegvr21+ZqI+d/DiBFDagF6EMPkS5eecTU/8CIhJRFUfMcdcblQA/7Eh3FIE4ZmdS7YDj142APInScXiXAYV4Luz/eFw2vV9j2toLXawir/7WMfqYUt9kLM/iTj1org4gZqyeLJxWD9b9bS7hvIIyMEj9VfiI6TlmHM01E05SiRCH0kIzSuCqAhUv/VSQKW1U2rBAQXiUZBFQ9wLViDdhLFsiCGtVoGpo0lo/LhgCep5aaAY=;qakl+tMuco+Acvcls5eGig=="
 ---

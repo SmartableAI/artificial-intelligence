@@ -39,20 +39,6 @@ related:
         width: 2483
         height: 2942
         isCached: true
-  - title: "Chinese and other tech giants bet on smart car revolution"
-    excerpt: "Chinese smartphone giant Xiaomi is the latest newcomer in the electric vehicle, race with a plan to invest $10 billion over the next decade. At a March event unveiling the company's plans, billionaire founder and CEO Lei Jun called the new initiative \"the most significant decision in Xiaomi's history\" and said it will require \"full efforts for at least five to 10 years."
-    publishedDateTime: 2021-04-14T12:52:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Caixin/Chinese-and-other-tech-giants-bet-on-smart-car-revolution"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F0%252F6%252F33616029-1-eng-GB%252F2021-01-09T125517Z_875632062_RC2C4L9CJUZT_RTRMADP_3_NIO-CHINA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "FXpe44MJI/b0/YCKdRMxCpb3Pi/cmjHU7GRRPXlCSDt66q++nAkAz6BCBLxmMvDc0jRS9wOlV0bjv58GsPfbYqHCWSmSGGWX83K7WVos9Teki/9X3gLVeKQLJkW5uHRkU/c/hw8y3oEIWEm48mbqhTX61u0B1OVi2VpTVfVCBCKfpgTlrdRusFYoXl9fIIPrJ3C8P3ehX9Q/eMEb14ZxxWCgdQeurjxSJAOM21tG3b1tsVsgoFmpYnlyO8mfn5fCGQa+9VgtraVon3SgLXAwvaI3atpLmGwAhtw5H4YThny/CQbev1hZoyQ+zS8X40YJqVfxJ/c+DrkaZFNp32wgH75pOPTg9qUFqYCNlarKhFo=;sb590ZN9PJILPYMDSkn2tw=="
 ---

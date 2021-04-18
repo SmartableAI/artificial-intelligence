@@ -220,22 +220,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Lawsuit: Man suffered 'great harm' after wrongful arrest based on Detroit's facial recognition technology"
-    excerpt: "An ACLU press release Tuesday claimed: \"Mr. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States.\" The suit says Williams' Fourth Amendment rights were violated and that ..."
-    publishedDateTime: 2021-04-13T18:21:00Z
-    webUrl: "https://www.detroitnews.com/story/news/local/detroit-city/2021/04/13/michigan-man-sues-over-arrest-based-facial-recognition-software/7203369002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7203369002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7203369002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTN/a595e4a3-a66f-4d87-8b48-6fc501a90f92-williams.jpg?auto=webp&crop=1319,742,x0,y67&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
     excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
     publishedDateTime: 2021-04-14T06:39:00Z
@@ -251,20 +235,6 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
         width: 1242
         height: 709
-        isCached: true
-  - title: "Man Sues Detroit Police for Arrest After Faulty Face Recognition"
-    excerpt: "A man is suing Detroit police for wrongfully arresting him based on a faulty match by facial recognition technology."
-    publishedDateTime: 2021-04-13T17:39:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/man-sues-detroit-police-for-arrest-after-faulty-face-recognition"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/42416e7/2147483647/crop/3000x1153%2B0%2B14/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fb9%2F01%2Fc59cf04143fbbdb5f9aff753de56%2Fgettyimages-485280467.jpg"
-        width: 960
-        height: 369
         isCached: true
   - title: "US man sues police for wrongful facial recognition-based arrest"
     excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."

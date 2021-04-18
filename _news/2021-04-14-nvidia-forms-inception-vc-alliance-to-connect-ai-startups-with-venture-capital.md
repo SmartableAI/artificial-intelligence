@@ -62,15 +62,6 @@ related:
         width: 816
         height: 400
         isCached: true
-  - title: "Cloudflare, NVIDIA To Jointly Bring AI To Global Edge Network"
-    excerpt: "Website security company Cloudflare, Inc. (NET) said on Tuesday that it was partnering with NVIDIA to bring Artificial Intelligence or AI to its global edge network. Cloudflare helps users with their security,"
-    publishedDateTime: 2021-04-13T18:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/cloudflare-nvidia-to-jointly-bring-ai-to-global-edge-network-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Edge Impulse Democratizes Machine Learning for All Developers on NVIDIA Jetson Edge AI Platform"
     excerpt: "Edge Impulse, the leading development platform for machine learning (ML) on edge devices, announced today the general availability of their groundbreaking Linux solution enabling rapid ML development on the NVIDIA® Jetson™ Edge AI platform."
     publishedDateTime: 2021-04-15T12:08:00Z
@@ -85,15 +76,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Cloudera, Nvidia Team to Speed Cloud AI via Spark"
-    excerpt: "Cloud access to GPUs for AI development will expand under a partnership between Cloudera and Nvidia that calls for the data cloud provider to integrate"
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://www.datanami.com/2021/04/13/cloudera-nvidia-team-to-speed-cloud-ai-via-spark/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "F/tupiTC6YTbXOlWm17qPEL1XX2gJXLRJ4OY/OjSayp/tttKlbmjq1H2IcIvHHBvzhNP6VAjSkMQzOYtpg49qcbD4mJj6EUvZgzZjZkGy2ZrrWN5X8rfVwuoIQH2pTR3ecu9BlYra/DDiE8sagQnp1jbmwQOgEyy60SmcD/PfaLcTNy4aylnZm6x1UaqGdBrg3gAAlBdX3XNHbxO2l1LWuisGpOY1Iuxjj/Y6zspamtJqz0RGJvXidr1PXthKflcmPyF0Q0e2pZ4oUkKx8e0YFpbZxvs3fLeuRaPYRROfdcpAsiHO7LzMq2CItMi6/NfwZCGTubQnsh6MYGoBMZaqtyBxmKn9q93s2+N4tanm5yvvwJb/pAk8Jli5D0XQMq0avhlg6c6Dn2sCDojI4JnxqxMU2gqhaOYI5HFzsC7UlJ8FEjAL2ZWRxp5Eru4zvcsHGN6mEWxcrNwGFNEluF628TgRCGDPM/jt4L+8Ym7L7W2/VBy5PtiRQcyfSjMq/i/31ywiKxmY1OW0Rp20lZ4Jw==;9Vxzpq8z6NHFfUJ4Ev2YkA=="
 ---

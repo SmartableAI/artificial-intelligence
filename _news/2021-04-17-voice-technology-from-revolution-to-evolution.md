@@ -41,20 +41,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Facial recognition tech being tested for US flights"
-    excerpt: "San Francisco International Airport and United Airlines have become the first in the United States to trial a low-touch, biometric-enabled airport experience from check-in to boarding for domestic travelers on select flights. (April 13)"
-    publishedDateTime: 2021-04-13T18:15:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/04/13/facial-recognition-tech-being-tested-us-flights/7207628002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 39
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2c701787-51ba-4e02-a8e6-aa2203d7c7fe_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Police Engages Experts To Better Understand Facial Recognition Technology"
     excerpt: "“Facial recognition technology is a subject that draws strong interest, and sometimes distrust and controversy. Police recognises that and is seeking information and advice from independent experts,” says Deputy Chief Executive Mark Evans. Dr Nessa ..."
     publishedDateTime: 2021-04-13T23:12:00Z
