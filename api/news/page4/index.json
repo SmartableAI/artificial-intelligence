@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-hyperdrive-daily-self-drivings-trough-of-disillusionment-continues.md",
+      "title": "Hyperdrive Daily: Self-Driving’s Trough of Disillusionment Continues",
+      "excerpt": "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. The year 2020 was supposed to herald the arrival of self-driving cars. Instead, we got a global pandemic and growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8Bz9FU8rJs/v0/1200x801.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.md",
       "title": "Ahana Cloud for Presto review: Fast SQL queries against data lakes",
       "excerpt": "Ahana Cloud for Presto turns a data lake on Amazon S3 into what is effectively a data warehouse, without moving any data. SQL queries run quickly even when joining multiple heterogeneous data sources.",
@@ -572,7 +624,7 @@
       "originalUrl": "https://www.theverge.com/2021/4/13/22382398/robert-williams-detroit-police-department-aclu-lawsuit-facial-recognition-wrongful-arrest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1237,58 +1289,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows.md",
-      "title": "Routing Of Self-Driving Cars To Avoid The Bad Parts Of Town Raises Some Serious Eyebrows",
-      "excerpt": "Self-driving cars are readily routed and could be programmed to avoid the bad parts of town, but this raises concerns from a societal viewpoint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054328ffde2b821f6a8bec0%2F0x0.jpg%3FcropX1%3D25%26cropX2%3D1193%26cropY1%3D110%26cropY2%3D767",
-          "width": 1168,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/13/routing-of-self-driving-cars-to-avoid-the-bad-parts-of-town-raises-some-serious-eyebrows/amp/",
-      "publishedDateTime": "2021-04-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

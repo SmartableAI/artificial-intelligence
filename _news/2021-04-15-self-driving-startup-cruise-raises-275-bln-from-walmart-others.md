@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-cruise-raises
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
 type: article
 quality: 167
-heat: 337
+heat: 327
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1999
         height: 1125
         isCached: true
-  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
-    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
-    publishedDateTime: 2021-04-13T19:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
   - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
     excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
     publishedDateTime: 2021-04-15T20:36:00Z

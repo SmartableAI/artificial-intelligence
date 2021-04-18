@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "NVIDIA Announced A New CPU, NVIDIA Grace Which Is Capable To Take Massive AI Calculations & High Performing Computing Workload"
-    excerpt: "“NVIDIA has developed Grace as a CPU especially for giant-scale AI and HPC using licensed Arm IP. Grace, when combined with the GPU and DPU, has the third fundamental computing infrastructure, as well as the potential to re-architect the data center to ..."
-    publishedDateTime: 2021-04-13T19:40:00Z
-    webUrl: "https://techstory.in/nvidia-announced-a-new-cpu-nvidia-grace-which-is-capable-to-take-massive-ai-calculations-high-performing-computing-workload/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 11
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/3-9.jpg"
-        width: 1553
-        height: 932
-        isCached: true
 
 secured: "XSyZ9m9hk0OlwgRiuxymj2XzVshaQ+246FZgd78QFE1gaI3gAVxT3PAJP04adX3thH5Xr1MNAavmBaEABqc/wJ0KrakB7f4l08kEEBe+Oit9hafEifkHk4S25KZi8RreSanwNueG9ZL3rrafYCfyZ46sjg53Tsyr2imPcYB3399jV83n0aII/nnR+PtS/d9a1dM+NbZ6lWNkflxyz7+BRAAQe0k2g9YQWBgnqf7vaTTdmLwu+4IdL6c6Ru8hW2th7bu3ilar95MsEIUBsj1U1jz7cZv5z+1ONFwSL+r5OHJJNDHnAAIgQ/RKdnIW2WeLO8uQuaMzpcrl37I1h2exuyky4Z6OEuwnQyMiY8bJnm8=;2OJCr0+MNuCiSlk8p9gakg=="
 ---

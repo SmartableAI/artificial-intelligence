@@ -292,20 +292,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 41
-  - title: "Microsoft cools data center servers in liquid-filled tanks"
-    excerpt: "As advances in air-cooled computer chip technology have slowed, Microsoft touted its new cooling system that’s running in a production environment."
-    publishedDateTime: 2021-04-13T20:12:00Z
-    webUrl: "https://gcn.com/articles/2021/04/13/liquid-cooled-data-center-servers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2021/April/MSliquidcooledservers.jpg"
-        width: 760
-        height: 368
-        isCached: true
   - title: "InnovoEdge Joins Microsoft for Startups Program"
     excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
     publishedDateTime: 2021-04-15T14:48:00Z
@@ -333,20 +319,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-13.jpg"
         width: 2240
         height: 1261
-        isCached: true
-  - title: "6 most recent interoperability initiatives from Google, Apple, Amazon and Microsoft"
-    excerpt: "The six most recent interoperability initiatives published by Becker's Hospital Review: Google is in the early stages of a new project that aims to explore and develop a new consumer-facing health records tool for Android users,"
-    publishedDateTime: 2021-04-13T20:18:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/6-most-recent-interoperability-initiatives-from-google-apple-amazon-and-microsoft.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/5.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."

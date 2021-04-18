@@ -2,6 +2,111 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-02-build-a-cicd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services.md",
+      "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg",
+          "width": 800,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T13:06:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-steps-down-replaced-by-two-co-ceos.md",
+      "title": "Waymo CEO John Krafcik steps down, replaced by two co-CEOs",
+      "excerpt": "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
+      "originalUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/BpqqzSlbGMXZmST7t058Qp7ETkU=/0x0:2040x1360/1400x933/filters:focal(714x153:1040x479):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69067594/akrales_180327_2419_0161.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
+      "publishedDateTime": "2021-04-02T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip.md",
       "title": "Pixel 6 will reportedly debut Google’s Apple-inspired Whitechapel chip",
       "excerpt": "Google’s new Pixel phone is expected to switch to a homegrown processor chip known as Whitechapel, sources claim, as what’s expected to be the Pixel 6 takes a page out of Apple’s",
@@ -1102,110 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-apple-removes-siris-female-voice-as-its-default-and-adds-two-new-voices.md",
-      "title": "Apple removes Siri's female voice as its default and adds two new voices",
-      "excerpt": "“No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P 500 NASDAQ 100 Apple's voice assisitant Siri will no longer default to a female voice, TechCrunch reported on Wednesday. The tech giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4",
-      "originalUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6065e45352f11d0019431932?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-removes-siri-female-voice-as-its-default-2021-4?amp",
-      "publishedDateTime": "2021-04-01T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-hyundai-ioniq-5-ev-will-serve-as-motionals-next-self-driving-taxi.md",
-      "title": "Hyundai Ioniq 5 EV will serve as Motional's next self-driving taxi",
-      "excerpt": "The lovely Ioniq 5 is in for the robotaxi treatment. If Motional has its way, and autonomy plans out as the company sees it, the Hyundai Ioniq 5 will serve as an autonomous taxi. On Tuesday, the startup company announced Hyundai's new EV will serve as the vehicle platform for its next-gen car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b328YpeuyHZrJSOFHfIIXta1VoQ=/2021/02/22/b9bf5e91-004f-4d30-856d-76561388f5f9/hyundai-ioniq-5-1-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-ioniq-5-ev-motional-self-driving-taxi/",
-      "publishedDateTime": "2021-04-01T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

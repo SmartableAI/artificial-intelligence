@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
+      "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
+      "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "publishedDateTime": "2021-04-14T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-tesla-next-gen-full-self-driving-is-delayed-to-may-june-subscription-coming-next-month.md",
       "title": "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month",
       "excerpt": "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program.",
@@ -1189,58 +1232,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-hyperdrive-daily-self-drivings-trough-of-disillusionment-continues.md",
-      "title": "Hyperdrive Daily: Self-Driving’s Trough of Disillusionment Continues",
-      "excerpt": "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. The year 2020 was supposed to herald the arrival of self-driving cars. Instead, we got a global pandemic and growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8Bz9FU8rJs/v0/1200x801.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

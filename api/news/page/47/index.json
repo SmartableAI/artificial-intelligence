@@ -2,6 +2,101 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-03-11-fintech-il-futuro-delle-banche-tradizionali-che-punteranno-sullinnovazione.md",
+      "title": "Fintech: il futuro delle banche tradizionali che punteranno sull’innovazione",
+      "excerpt": "Dopo la crescita Fintech, il passo decisivo delle banche, sarà quello di abbandonare le tecnologie di legacy per diventare più agili",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "originalUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitmat.it/wp-content/uploads/2018/06/fintech.jpg",
+          "width": 870,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitMAT",
+        "domain": "bitmat.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-hugging-face-raises-40-million-for-its-natural-language-processing-library.md",
+      "title": "Hugging Face raises $40 million for its natural language processing library",
+      "excerpt": "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
+      "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/",
+      "publishedDateTime": "2021-03-11T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-go-big-or-go-home-asset-wealth-managers-need-to-seize-the-day-on-ai.md",
       "title": "Go Big Or Go Home: Asset & Wealth Managers Need To Seize The Day On AI",
       "excerpt": "Everyone in asset and wealth management is using AI, but there are significant differences between the leaders and the laggards in how they are applying it within their organizations.",
@@ -1087,102 +1182,6 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-study-it-might-be-unethical-to-force-ai-to-tell-us-the-truth.md",
-      "title": "Study: It might be unethical to force AI to tell us the truth",
-      "excerpt": "Until recently, deceit was a trait unique to living beings. But these days artificial intelligence agents lie to us and each other all the time. The most popular example of dishonest AI came a couple years back when Facebook developed an AI system that created its own language in order to simplify negotiations with itself.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/10/it-might-be-unethical-to-force-ai-to-tell-us-the-truth/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/10/it-might-be-unethical-to-force-ai-to-tell-us-the-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/it-might-be-unethical-to-force-ai-to-tell-us-the-truth/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/it-might-be-unethical-to-force-ai-to-tell-us-the-truth/amp/",
-      "publishedDateTime": "2021-03-10T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-activists-sue-clearview-ai-alleging-facial-recognition-surveillance.md",
-      "title": "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance",
-      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
-      "originalUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg",
-          "width": 1024,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
-      "publishedDateTime": "2021-03-10T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -89,15 +89,6 @@ related:
         width: 1999
         height: 1125
         isCached: true
-  - title: "Artificial intelligence firm Scale raises $325 mln at $7 bln valuation"
-    excerpt: "Scale AI said on Tuesday it had raised $325 million in fresh funding, doubling its valuation to $7 billion in just over four months, as the artificial intelligence (AI) firm plans to increase hiring and expand its product offerings."
-    publishedDateTime: 2021-04-13T19:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-firm-scale-raises-%24325-mln-at-%247-bln-valuation-2021-04-13"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 62
   - title: "Walmart invests in self-driving startup Cruise"
     excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
     publishedDateTime: 2021-04-15T18:19:00Z

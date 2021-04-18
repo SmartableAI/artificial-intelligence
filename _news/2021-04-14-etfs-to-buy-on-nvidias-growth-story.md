@@ -49,20 +49,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "NVIDIA Announced A New CPU, NVIDIA Grace Which Is Capable To Take Massive AI Calculations & High Performing Computing Workload"
-    excerpt: "“NVIDIA has developed Grace as a CPU especially for giant-scale AI and HPC using licensed Arm IP. Grace, when combined with the GPU and DPU, has the third fundamental computing infrastructure, as well as the potential to re-architect the data center to ..."
-    publishedDateTime: 2021-04-13T19:40:00Z
-    webUrl: "https://techstory.in/nvidia-announced-a-new-cpu-nvidia-grace-which-is-capable-to-take-massive-ai-calculations-high-performing-computing-workload/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 11
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/3-9.jpg"
-        width: 1553
-        height: 932
-        isCached: true
 
 secured: "bNxw6HYND24KBSiA9GMwyMWlMDMGb1UUDlkC+rg+dM7LMTedaRhHHGQouJkBEq4DsEMDDQENP/IrO8IIy6qaOq9jmShps/WgUMgKWBRDIze8jlxpLIIVWua7tXZmHbp8IZ2qvFOxyni1vkKCjASM9k5ftf7RMCuywtmXEcpw17hVVVqBpqu2dl7MG3IH8har/Od2blb9Vzk9BvzotfSh2VkF8Hqvu93dEOXD+VSbJAEdnFSqoKc2hnpn4PafaWR7Fq9I0E0PC54v9H8yVVlxhyFSkiTvLII06mH9MHtqJH+A6AT8hvobZQfcgRpMrFU+DURHBYkloe04ARyTWC3G21c60EpGMzx00I7dnu+c4Rs=;/telaaQXyCa72feDJ5RcbQ=="
 ---

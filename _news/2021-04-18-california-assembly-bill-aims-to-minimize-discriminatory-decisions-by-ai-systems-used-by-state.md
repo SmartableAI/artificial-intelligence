@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Chick-fil-A tests robot delivery in Southern California"
-    excerpt: "The quick-service chain has partnered with semi-autonomous robot company Kiwibot for robotic deliveries in Santa Monica"
-    publishedDateTime: 2021-04-13T20:59:00Z
-    webUrl: "https://www.nrn.com/quick-service/chick-fil-tests-robot-delivery-southern-california"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 39
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/Chick-fil-A_5_3.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "University of Southern California Information Sciences Institute researchers using AI to decode unique cultures"
     excerpt: "Following a $2.2 million DARPA grant, researchers at USC Viterbi’s Information Sciences Institute (ISI) will use AI to disambiguate these cultural codes to better understand the social science that drives group behavior."
     publishedDateTime: 2021-04-14T19:14:00Z

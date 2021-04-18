@@ -149,22 +149,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Michigan man sues police for wrongful arrest based on facial recognition technology"
-    excerpt: "Williams thought the call was a prank. He was arrested later that day. Williams’ experience was the first case of wrongful arrest due to facial recognition technology to come to light in the United States, according to reports. “I came home from work ..."
-    publishedDateTime: 2021-04-13T19:26:00Z
-    webUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html"
-    ampWebUrl: "https://www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/04/michigan-man-sues-police-for-wrongful-arrest-based-on-facial-recognition-technology.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 53
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2TZT7C2WHBCQHOH7TAUSA45JYE.jpg"
-        width: 4611
-        height: 2708
-        isCached: true
   - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
     excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
     publishedDateTime: 2021-04-16T10:52:00Z
@@ -196,22 +180,6 @@ related:
       - url: "https://media1.fdncms.com/metrotimes/imager/u/original/26899305/robert_williams_facial_recognition.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Farmington Hills man sues Detroit police after facial recognition wrongly identifies him"
-    excerpt: "Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. Robert Williams, 43, was falsely identified as a suspect in a theft investigation in which a man ..."
-    publishedDateTime: 2021-04-13T20:15:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/2021/04/13/detroit-police-wrongful-arrest-faulty-facial-recognition/7207135002/"
-    ampWebUrl: "https://amp.freep.com/amp/7207135002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7207135002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/13/PDTF/f82b8daf-2cc4-411c-a019-f6f0687a9521-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y262&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Black man sues police after facial recognition mistakenly identified him as a suspected shoplifter"
     excerpt: "Robert Williams, left, was arrested after Detroit police mistakenly matched his driver's license, top, with a shoplifter, right, using facial recognition software. He is suing cops for 'undisclosed damages'."

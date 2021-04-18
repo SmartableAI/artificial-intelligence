@@ -2,6 +2,93 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
+      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
+      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "publishedDateTime": "2021-03-30T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-central-taiwan-city-becomes-cloud-talent-incubator-with-help-from-amazon.md",
+      "title": "Central Taiwan city becomes cloud talent incubator with help from Amazon",
+      "excerpt": "Educators will incorporate curricula that meet the needs of the job market. The program's organizers will hold workshops and competitions such as the AWS GameDay and AWS DeepRacer where students can put their newly acquired techniques to test. The demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taiwannews.com.tw/en/news/4164984",
+      "originalUrl": "https://www.taiwannews.com.tw/en/news/4164984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tnimage.s3.hicloud.net.tw/photos/2021/03/31/1617164238-6063f7ce50fb0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Taiwan News",
+        "domain": "taiwannews.com.tw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
       "title": "DALL-E: OpenAI's new neural network wonder",
       "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
@@ -1128,101 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-how-are-gpus-going-to-change-your-working-world-its-ai-everywhere.md",
-      "title": "How Are GPUs Going To Change Your Working World? It’s AI, Everywhere",
-      "excerpt": "SPONSORED Mention GPUs these days, and you will naturally think about how they can accelerate the most challenging AI and machine learning workloads as",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
-      "originalUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg",
-          "width": 1199,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/",
-      "publishedDateTime": "2021-03-30T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-highradius-raises-300m-triples-valuation-to-31b-for-ai-powered-fintech-software.md",
-      "title": "HighRadius raises $300M, triples valuation to $3.1B for AI-powered fintech software",
-      "excerpt": "HighRadius, which has developed AI-powered fintech software, announced Tuesday it has raised $300 million in a Series C funding round led by D1 Capital and Tiger Global. The round values Houston ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "originalUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
-      "publishedDateTime": "2021-03-30T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
