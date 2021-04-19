@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of facial recognition blends AI and IR"
-    excerpt: "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ..."
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://www.androidauthority.com/future-face-recognition-1217022/"
-    ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 104
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "This AI Is A Leading Indicator Of The Future Of Work"
     excerpt: "The future of work promises increased productivity, getting top results with fewer resources, and using AI not to eliminate jobs but to help teams excel. Ofir Paldi and the startup he runs, Shamaym, may have found the key to this future of work ..."
     publishedDateTime: 2021-04-15T13:35:00Z
@@ -59,20 +43,61 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "State panel studies use of facial recognition technology"
-    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+  - title: "How artificial intelligence is transforming the future of healthcare one step at a time"
+    excerpt: "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost."
+    publishedDateTime: 2021-04-16T12:10:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 68
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
+    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
+    publishedDateTime: 2021-04-19T00:03:00Z
+    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
+    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 45
+    images:
+      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "The impact of AI on the gaming industry"
+    excerpt: "As time continues to pass and technologies continue to evolve, these AI features will get better and provide even better experiences."
+    publishedDateTime: 2021-04-17T16:18:00Z
+    webUrl: "https://techaeris.com/2021/04/17/impact-ai-gaming-industry/"
+    type: article
+    provider:
+      name: Techaeris
+      domain: techaeris.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
-        width: 1088
-        height: 604
+      - url: "https://techaeris.com/wp-content/uploads/2021/04/ai-gaming-industry-1000x543.jpg"
+        width: 1000
+        height: 543
         isCached: true
+  - title: "2 Unpacking the Ethics of AI"
+    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
+    publishedDateTime: 2021-04-19T02:52:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9361686"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 34
 
 secured: "C+YmRvB6s9YlCAycQvofqvbDS1YTbZjc4NGt9KhmWY0JLnaMXFiFpxawWDrkUmNUO42kJ5lMkGRbBp7xWFGdDsUpRaVbewxSq9fIXotqVG74Mzavpqh7dzxIdffBQ8T7YqzMzMVd57nF+qwER4cK9ftpecwk6OTWWUH7HPCIkgoLHUG8iThXCoDcYbDmeZhW6gRgxoCwZTuK3e8l19fuc4BVEUSsmUUtDTkuYGVk97KEQ+302ThYdtd57D/OndSyLhEpxD5DKuyU+DBcM1spBkSr44ETpiDV95o/Cdo9kMdPVm3keobWEcBnKooSRFU++1AtMFMERxXlyrv8JzVE/yBquV3WZzmuej9JmwZwk4FeFPhuuJeU2e7F+9Umx389z48A86Ax81P+LaQldL6DTHv4DOVKBBz0xqLbBDUw6q+JtgS0Hl5b9X+5DTEIf6GB/aEPguBNufvqW8sRlixLausYTbxUd55B0AFg2500OkNNm6d7HMdsj87OdP4Er6IMWGMYWRJA2ZY6T/BmZFbNXA==;SE/RDuvCk0jQLC4iTNpgcA=="
 ---

@@ -25,21 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "The EU is considering a ban on AI for mass surveillance and social credit scores"
-    excerpt: "If the draft proposal is adopted, it would see the EU take a strong stance on certain applications of AI, setting it apart from the US and China. Some use cases would be policed in a manner similar to the EU’s regulation of digital privacy under GDPR ..."
-    publishedDateTime: 2021-04-14T12:55:00Z
-    webUrl: "https://www.theverge.com/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/14/22383301/eu-ai-regulation-draft-leak-surveillance-social-credit"
+  - title: "EU plan for risk-based AI rules to set fines as high as 4% of global turnover, per leaked draft"
+    excerpt: "European Union lawmakers who are drawing up rules for applying artificial intelligence are considering fines of up to 4% of global annual turnover (or €20M, if greater) for a set of prohibited use-cases,"
+    publishedDateTime: 2021-04-14T13:19:00Z
+    webUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/"
+    ampWebUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/QnQ780uD0M26Ro6g1aj9cPbNG8Y=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69124124/acastro_181017_1777_brain_ai_0001.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "EU to unveil AI rules to fight Big Brother fears"
+    excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
+    publishedDateTime: 2021-04-18T22:22:00Z
+    webUrl: "https://www.brecorder.com/news/40085548"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 57
+    images:
+      - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "NEW: Leaked EU AI regulation, Update 1. Creating an army of Software Checkers?"
+    excerpt: "An EU draft regulation for Artificial Intelligence (AI) leaked today. After a quick scan here are my first few impressions: In trying to regulate AI is the EU"
+    publishedDateTime: 2021-04-14T20:29:00Z
+    webUrl: "https://www.thestreet.com/economonitor/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
+    ampWebUrl: "https://www.thestreet.com/economonitor/.amp/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/economonitor/.amp/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 53
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMzA5NTQxMzIwMTQwNjUy/full-office-of-software-checkers.jpg"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "h6jcOydy3r6YxDuL56JoRU1eNQC8RUgJaU4YDA5eSpRxhjZR0BVWPi+7tMqyXhU53N1kQQhTIs+FdTEIPv1ZakGFsnkhRXs06eiPC7OzraHJf4A7/HVpaJk4wEtfYkrWuL6MkBxhJPx/OKFxeqr7d0AKol5gef6ACYvvJFfuihzS22ZCaXEqJlRdm7HSOEgMVaWbed17MLDTuRm/1VtuP5FPonGHKKRpoi3Adh8CB3ytf5gmgkxiQPb+H/cpTRsHaNNbrfzMU3HPBRnWpkuRp0wVwG5BV/OB6QOG0bhvYCCbehCCvhGERF0D6cyZwjG3fG9DmL32M/RFRkWkeflyiDCshOhTVf907BjUOHqkDm8=;xU/JsnmmYQQ5IYXnwRXYHg=="

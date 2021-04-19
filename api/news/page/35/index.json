@@ -2,6 +2,238 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-03-22-deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies.md",
+      "title": "DeepMind Proposes Manipulation-Independent Representations for Imitation of Behaviours Demonstrated by Previously Unseen Manipulator Morphologies",
+      "excerpt": "A research team from DeepMind proposes manipulation-independent representations (MIR) that can support successful imitation of behaviours demonstrated by previously unseen manipulator morphologies using only visual observations.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
+      "originalUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/03/image-13-1.png?fit=460%2C288&ssl=1",
+          "width": 460,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/03/22/deepmind-proposes-manipulation-independent-representations-for-imitation-of-behaviours-demonstrated-by-previously-unseen-manipulator-morphologies/amp/",
+      "publishedDateTime": "2021-03-22T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-fda-clears-first-ai-device-to-spot-hidden-signs-of-covid-19.md",
+      "title": "FDA clears first AI device to spot hidden signs of COVID-19",
+      "excerpt": "The latest tool to gain clearance is the first AI-based screening device designed to pinpoint lurking ... Once strapped to a person's arm, the monitor's onboard sensors start collecting pulse signals from blood flow over a period of three to five minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
+      "originalUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/a7c72da0-8b13-11eb-9f6e-e37be8002944",
+          "width": 1119,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
+      "publishedDateTime": "2021-03-22T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-how-the-construction-industry-builds-smarter-with-artificial-intelligence.md",
+      "title": "How the construction industry builds smarter with artificial intelligence",
+      "excerpt": "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "originalUrl": "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MultiBriefs",
+        "domain": "multibriefs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep.md",
+      "title": "Online to In Your Hands: Shipping Technology That Helps Deliver Products to Your Doorstep",
+      "excerpt": "This route mapping platform is usually also complemented by artificial intelligence (AI) driven fleet management ... hybrid fuel options for their final mile, but in 202,1 UPS, Waymo, and Amazon will be rolling out their fully electric vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
+      "originalUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techspective.net/wp-content/uploads/2021/03/pexels-artem-podrez-5025668-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
+      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
+      "publishedDateTime": "2021-03-22T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techspective.net",
+        "domain": "techspective.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
+      "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
+      "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058379c4bda76219b24bcfd%2F0x0.jpg",
+          "width": 1000,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
+      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021.md",
       "title": "Why Pinterest Is a Great Artificial Intelligence Stock to Buy in 2021",
       "excerpt": "A rtificial intelligence has the potential to dramatically change the world. As many as 70% of companies will adopt some type of AI technology by 2030, potentially boosting economic output by $13 trillion per year,",
@@ -925,240 +1157,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-xsede-hpc-workshop-big-data-and-machine-learning-april-6-7.md",
-      "title": "XSEDE HPC Workshop: Big Data and Machine Learning, April 6-7",
-      "excerpt": "XSEDE, the National Science Foundation’s Extreme Science and Engineering Discovery Environment virtual organization that shares HPC, supercomputing and other advanced computing resources, will present a Big Data and machine learning workshop on Tuesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "originalUrl": "https://insidehpc.com/2021/03/xsede-hpc-workshop-big-data-and-machine-learning-april-6-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-neuron-device-could-shrink-energy-use-and-size-of-neural-network-hardware.md",
-      "title": "Artificial neuron device could shrink energy use and size of neural network hardware",
-      "excerpt": "Neural network training could one day require less computing power and hardware, thanks to a new nanodevice that can run neural network computations using 100 to 1000 times less energy and area than existing CMOS-based hardware. Training neural networks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210318122517.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
-      "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
-      "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60576485f4a1e62cb6f9a91e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/03/21/this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better/amp/",
-      "publishedDateTime": "2021-03-21T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-ford-spokeperson-calls-teslas-full-self-driving-vaporware.md",
-      "title": "Ford spokeperson calls Tesla’s Full Self-Driving ‘vaporware’",
-      "excerpt": "Driving’ package ‘vaporware’ in a spat with a Tesla investor over the Mustang Mach-E. Press relations and communication people at legacy automakers are generally pretty careful about what they say, especially when it is about the competition,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
-      "originalUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-vs-Ford-Mustang-Mach-E-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
-      "publishedDateTime": "2021-03-21T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring.md",
-      "title": "Cyberpunk 2077’s ‘Improved Police AI’ Video Is Not Terribly Reassuring",
-      "excerpt": "Cyberpunk 2077 is about to release its big 1.2 patch, and while it still doesn’t have a date, it should theoretically be out by the end of next week. This past week, CDPR shared some of the more prominent changes coming in the patch,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6057464874365ee1a9892f71%2F0x0.jpg",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/03/21/cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring/amp/",
-      "publishedDateTime": "2021-03-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

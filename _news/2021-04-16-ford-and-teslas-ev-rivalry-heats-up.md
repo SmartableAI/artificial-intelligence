@@ -7,7 +7,7 @@ originalUrl: "https://www.cmcmarkets.com/en-gb/opto/ford-and-teslas-ev-rivalry-h
 webUrl: "https://www.cmcmarkets.com/en-gb/opto/ford-and-teslas-ev-rivalry-heats-up"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "59 and 69-year-old men dead after self-driving Tesla crash, authorities said"
+    excerpt: "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside."
+    publishedDateTime: 2021-04-19T03:17:00Z
+    webUrl: "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    ampWebUrl: "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 71
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Two die in self-driving Tesla car crash in Texas"
     excerpt: "Police officers investigating a traffic accident in Texas say a car careered from a curve and crashed into a tree, bursting into flames and killing a man in the passenger seat and another in the back"
     publishedDateTime: 2021-04-18T23:01:00Z
@@ -39,6 +55,17 @@ related:
         width: 411
         height: 231
         isCached: true
+  - title: "Two men die in a fiery Tesla crash in Texas; investigators say it was set in \"self-driving\" mode"
+    excerpt: "Two people were killed in Texas in the fiery crash of a Tesla and authorities say there was no one in the driver's seat at the time of the crash,"
+    publishedDateTime: 2021-04-19T01:14:00Z
+    webUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.html"
+    ampWebUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
+    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
+    type: article
+    provider:
+      name: KMOV
+      domain: kmov.com
+    quality: 26
 
 secured: "JxhEMM9BG7SOQktCNNdFghMKoxoELHyd5zxk4M0Fv5ilyfjhXk5DoAXyiDBh8Qw6gD/eOXow9kZ9TyHVdc3VOuShL1PHPbdYqRKVjC6fR46P95t+DZi/frLw0d6RfleWQ+KIHk8JrP28yVuWLd50T5bwGWmCKR0WcpKpaSSYN9FEU5ftuPIWZPAzEMbEdMJAP5QKOT73UFdLXwvxAIpKRabbHgYZ5L36Yow+B4wgB/fLFfUljaCVi8WAXswuTJIodF/DTAwL90fy0g7KNEPEx9nhaq3cSOYnzPgTXn8HTCwLKtBfEPLMmsqPMoYlqHAOq3R7T5AcH4XtqIfIAYJs8JWVX8hzxL3Wr+1X4gOprLk=;xsRq2C/7d+uBKutGC1b7Eg=="
 ---

@@ -2,94 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
-      "title": "Why developing AI to defeat us may be humanity’s only hope",
-      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "publishedDateTime": "2021-02-18T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
-      "title": "Will the future of security be led by robots? AITX president says yes",
-      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "publishedDateTime": "2021-02-18T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Illinois Proud",
-        "domain": "centralillinoisproud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
       "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
       "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
@@ -1375,6 +1287,74 @@
         "AI",
         "AI in Security",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring.md",
+      "title": "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring",
+      "excerpt": "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19581042",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042",
+      "publishedDateTime": "2021-02-10T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
+      "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
+      "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
+      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
+      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "publishedDateTime": "2021-03-01T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026.md",
+      "title": "Global Self-driving Forklift Market Size, Share, Trends, Growth Rate, Competitive Landscape, COVID-19 Analysis and Future Prospect till 2026",
+      "excerpt": "The Global \"Self-driving Forklift Market\"report provides deep analysis of important market participants to help understand the use of leading strategies adopted in the global Self-driving Forklift ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026-2021-03-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026-2021-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-28T20:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-airbus-is-to-produce-pilotless-planes-but-will-they-take-off.md",
+      "title": "Airbus is to produce pilotless planes, but will they take off?",
+      "excerpt": "Read more November 23, 2017 Would you entrust your life to a driverless car ... for the country well known for its love of artificial intelligence. However, Airbus’ decision to set up base ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "originalUrl": "https://www.alphr.com/life-culture/1007782/airbus-is-to-produce-pilotless-planes-but-will-they-take-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.alphr.com/wp-content/uploads/2017/11/airbus_is_to_produce_pilotless_planes_but_will_they_take_off_-_1-scaled.jpg?fit=569%2C320&ssl=1",
+          "width": 569,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Alphr",
+        "domain": "alphr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-americans-want-self-driving-cars-but-want-safety-first.md",
       "title": "Americans Want Self-Driving Cars, But Want Safety First",
       "excerpt": "Americans are not known for prioritizing road safety. No state currently bans all cell use phone behind the wheel, and two states still allow drivers to text. And the United States consistently lags behind other developed nations,",
@@ -1269,144 +1416,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp.md",
-      "title": "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP",
-      "excerpt": "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
-      "publishedDateTime": "2021-02-20T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
-      "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
-      "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "originalUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/31/15/anthony-levandowski.jpg?width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "publishedDateTime": "2021-02-20T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
-      "title": "Why Baidu Stock Soared Today",
-      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F614330%2Fgrowth-gettyimages-884650780.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/19/why-baidu-stock-soared-today/",
-      "publishedDateTime": "2021-02-19T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
-    excerpt: "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ..."
-    publishedDateTime: 2021-04-14T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth"
     excerpt: "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ..."
     publishedDateTime: 2021-04-14T15:07:00Z
@@ -58,89 +44,54 @@ related:
         width: 628
         height: 385
         isCached: true
-  - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
-    publishedDateTime: 2021-04-14T17:15:00Z
-    webUrl: "https://www.openpr.com/news/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+  - title: "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption"
+    excerpt: "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market"
+    publishedDateTime: 2021-04-14T18:34:00Z
+    webUrl: "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 51
+    quality: 63
     images:
-      - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
-        width: 800
-        height: 530
+      - url: "https://cdn.openpr.com/U/4/U414438461_g.jpg"
+        width: 628
+        height: 385
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
-    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-04-16T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-study-report-based-on-size-shares-opportunities-industry-trends-and-forecast-to-2028-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Corona Virus Outbreak: Artificial Intelligence in Military Market Size, Growth Opportunity & Industry Outlook Research Report, 2021-2026"
-    excerpt: "Latest Industry Research Report On “Global Artificial Intelligence in Military Market 2021“ in-depth analysis of the Market State, Growth, Opportunities, and Analysis of Top Key Players over the forecast period to 2026."
-    publishedDateTime: 2021-04-16T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/corona-virus-outbreak-artificial-intelligence-in-military-market-size-growth-opportunity-industry-outlook-research-report-2021-2026-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
-    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
-    publishedDateTime: 2021-04-18T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
-    excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
-    publishedDateTime: 2021-04-16T01:26:00Z
-    webUrl: "https://menafn.com/1101921297/Artificial-Intelligence-Market-Analysis-Report-Global-Industry-Outlook-Size-Growth-Prospects-and-Overview-Forecasts-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231069"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
-    publishedDateTime: 2021-04-15T11:29:00Z
-    webUrl: "https://www.openpr.com/news/2270826/speech-and-voice-recognition-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+  - title: "Healthcare Information Technology Market to Record Significant Incremental Dollar Opportunity"
+    excerpt: "The global healthcare information technology market is estimated to surpass 606 598 4 million by 2027 exhibiting a CAGR of 15 8 from 2020 to 2027 OFFERINGS OF THE REPORT The report offers comprehensive analysis of the global healthcare information"
+    publishedDateTime: 2021-04-14T14:50:00Z
+    webUrl: "https://www.openpr.com/news/2270280/healthcare-information-technology-market-to-record"
+    ampWebUrl: "https://www.openpr.com/amp/2270280/healthcare-information-technology-market-to-record"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270280/healthcare-information-technology-market-to-record"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 2
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414626320_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market to Witness Increased Revenue Growth Owing to Rapid"
+    excerpt: "The global speech and voice recognition market is estimated to surpass $36,437.4 million by 2027, exhibiting a CAGR of 19.2% from 2020 to 2027. The report presents a comprehensive analysis of the global speech and voice recognition market by thoroughly ..."
+    publishedDateTime: 2021-04-14T17:06:00Z
+    webUrl: "https://www.openpr.com/news/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    ampWebUrl: "https://www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270418/global-speech-and-voice-recognition-market-to-witness-increased"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
 
 secured: "ZVgaDWTUoJAU1BM9fFX5uR2unVZppF8hOtlcRTrjw0LidmBkPtiI0dF53DgTBkB8bV6IRSkUdob9xLJALEaGeJFwtS/NNFmeGa2jmr5P/GVQ70tfE7nD0y5udfvXmu3fr2+v4/pkjrMqFm9i95VWpd62DHmR8MAiUvljKgWO8KSlx3AdufVEKlEpHhtAHLJ90Xpckbl7cXBboJpSysR2w3j+HVDojbkSpPVVTeoL1haqOQrYfcCGK8Q6WtCxLBVSAIbp+1LXcjKjOvbgD78awH4IVls4DzhNuQsEW4AJQfahAaqJGF2VIEVMlNbDBh1rSBwdrAi58ahQrhYiU0cCmGZgclkTzXRwctvz7OdWF+c=;Offf/pskijsujIVU/D57Bg=="
 ---

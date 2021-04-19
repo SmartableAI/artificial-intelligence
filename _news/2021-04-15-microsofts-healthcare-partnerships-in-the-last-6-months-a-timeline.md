@@ -156,20 +156,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Microsoft to buy speech recognition firm Nuance for $19.7 billion"
-    excerpt: "Nuance will bring a number of useful technologies under the Microsoft umbrella, including the popular Dragon NaturallySpeaking speech recognition software. Apple’s Siri uses technology from Nuance for speech recognition. The AI company has already ..."
-    publishedDateTime: 2021-04-14T11:08:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-microsoft-nuance/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 56
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2018/02/microsoft-1.jpg.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Microsoft buying speech recognition firm Nuance in $16B deal"
     excerpt: "Microsoft’s acquisition of Nuance comes after the companies formed a partnership in 2019 and is described as Microsoft's largest acquisition since its $26 billion purchase of LinkedIn in 2016. The purchase adds to Microsoft's health care portfolio."
     publishedDateTime: 2021-04-15T04:11:00Z
@@ -225,6 +211,15 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
+    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z

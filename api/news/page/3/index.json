@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-15-latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact.md",
+      "title": "Latana Uses Machine Learning to Help Retailers Track Their Marketing’s Impact",
+      "excerpt": "Latana offers AI-powered brand tracking designed to help retailers make better marketing decisions with scalable insights. The solution provider’s machine learning technology can accurately track retailers’ brands to provides deep audience segmentation.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "originalUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/04/latana_dashboard-1.png",
+          "width": 937,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "publishedDateTime": "2021-04-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-galileo-sunspot-sketches-versus-modern-deep-learning-ai.md",
+      "title": "Galileo sunspot sketches versus modern 'deep learning' AI",
+      "excerpt": "What would we see, if astronomers back in the time of Kepler and Galileo had modern technology monitoring the Sun across the electromagnetic spectrum, available to them? Thanks to modern artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
+      "originalUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/galileosunsp.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp",
+      "publishedDateTime": "2021-04-15T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-life-inside-the-self-optimizing-ai-automated-company.md",
       "title": "Life Inside The Self-Optimizing AI Automated Company",
       "excerpt": "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis.",
@@ -293,7 +380,7 @@
       "originalUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -429,6 +516,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq.md",
+      "title": "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq",
+      "excerpt": "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -632,50 +771,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-computer-vision-in-healthcare-market-to-witness-surge-in-demand-owing-to-rising-end-use-adoption.md",
-      "title": "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption",
-      "excerpt": "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "originalUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U414438461_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "publishedDateTime": "2021-04-14T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-04-15-are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it.md",
       "title": "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?",
       "excerpt": "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far.",
@@ -776,6 +871,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-domino-accelerates-mlops-with-new-nvidia-integrations.md",
+      "title": "Domino accelerates MLOps with new Nvidia integrations",
+      "excerpt": "It also allows organizations to standardize on these containers. NGC currently supports RAPIDS, TensorFlow, PyTorch, and CUDA. Domino additionally supports containers for SAS, MATLAB, Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
+      "originalUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/",
+      "publishedDateTime": "2021-04-14T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -942,7 +1090,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1030,21 +1178,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-14-europe-eyes-strict-rules-for-artificial-intelligence.md",
-      "title": "Europe eyes strict rules for artificial intelligence",
-      "excerpt": "The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost its potential for the economy in general.",
+      "path": "_news/2021-04-14-increasing-demand-for-artificial-intelligence-in-healthcare-market-to-fuel-revenue-growth.md",
+      "title": "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth",
+      "excerpt": "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
-      "originalUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
+      "webUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/14/iStock-1058701042-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://cdn.openpr.com/U/4/U414902043_g.jpg",
+          "width": 628,
+          "height": 385,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1052,13 +1200,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-14T07:00:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-04-14T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1068,161 +1216,8 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-real-time-3d-holograms-generated-by-artificial-intelligence.md",
-      "title": "Real-time 3D holograms generated by artificial intelligence",
-      "excerpt": "The truth is that this innovative technology has transcended screens and science fiction and is currently being developed successfully thanks to advances in Artificial Intelligence. Until today, virtual reality headsets have not brought down television ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369374",
-      "originalUrl": "https://www.entrepreneur.com/article/369374",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618350461-holograma11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369374",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369374",
-      "publishedDateTime": "2021-04-14T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-teslas-chinese-rival-xpeng-ups-the-self-driving-game-with-worlds-first-mass-produced-lidar-in-p5-sedan-defying-elon-musk.md",
-      "title": "Tesla’s Chinese rival Xpeng ups the self-driving game with world’s first mass-produced LiDAR in P5 sedan, defying Elon Musk",
-      "excerpt": "Xpeng, Tesla’s Chinese rival, fuels the competition of autonomous driving to a new level with its newly-launched P5 sedan becoming the world’s first mass-produced vehicle with LiDAR technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/a2d37930-99bd-43eb-b2cd-7d3f0e566db6_196207ae.jpg?itok=vfeqdmKJ&v=1618402372",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "publishedDateTime": "2021-04-14T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft.md",
-      "title": "EU plan for risk-based AI rules to set fines as high as 4% of global turnover, per leaked draft",
-      "excerpt": "European Union lawmakers who are drawing up rules for applying artificial intelligence are considering fines of up to 4% of global annual turnover (or €20M, if greater) for a set of prohibited use-cases,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "originalUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "publishedDateTime": "2021-04-14T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

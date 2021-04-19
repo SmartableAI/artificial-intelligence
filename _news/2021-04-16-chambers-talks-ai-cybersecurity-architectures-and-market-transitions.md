@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/development/chambers-talks-ai-cybersecurity-
 webUrl: "https://www.eweek.com/development/chambers-talks-ai-cybersecurity-architectures-and-market-transitions/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: 67
+published: false
 
 provider:
   name: eWeek
@@ -26,36 +26,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "H3C Semiconductor and Ansys Innovate Next-Generation Network Processor Chip for High-end Routing, 5G Backhaul, AI and Cybersecurity Applications"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
-    publishedDateTime: 2021-04-14T11:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/h3c-semiconductor-and-ansys-innovate-next-generation-network-processor-chip-for-high-end-routing-5g-backhaul-ai-and-cybersecurity-applications-1030302878"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://mma.prnewswire.com/media/1487184/ENGIANT_660.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Santander and IBM to award 1,000 Digital Experience scholarships in AI and cybersecurity"
-    excerpt: "The 1,000 Santander Technology Scholarships | Digital Experience IBM participants will receive training that bolsters digital capabilities and knowledge of artificial intelligence and ... cybersecurity and Watson. This content is provided by an external ..."
-    publishedDateTime: 2021-04-14T11:12:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87102/santander-and-ibm-to-award-1000-digital-experience-scholarships-in-ai-and-cybersecurity"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 30
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "FUdqfzDTlfqChqrfcaLatslAMlO81TPzU61hlDcHE16e8d/ao83llx6ihQKTk+6vBtFthQCIh58Qlo51uCXkCdXzzfTQYFpDFShqvSYHoRclp1JwHVtsKEbYdr3Ig4oJhMJbAxBYTjSu0fBeAky/53lAieigRjPA5qGpmJDD+TuANj8Ol5aMMFo1iiRluytk2O8y/4elt+7yvyyadRPuSqDF1oJ2TYMbVKl9C3QBMhofqZWTKT7ac6ltfR7XPAHKc+yOCDhUGm8gbN3/YJnB1S9MD4LF3F4JAivJhicJUsIvMYnHT32QfGbvwo/943uvCgMUu57wiCFi6nPDG1dha3yzlrjmGWY36WXXXuu2hQeYjdRilWkpTfKKXXxBbYR2cSmhfgAJOKL0X0vwKCwgWB9krknuVxw+VyrG13o/trWFKjn/adtWPYvUiuSeqtGDithPkXslsU0XRxT1KhMPW8Xp3/gop+BgzSyio20m+joShAw+u0NyAPGUzYLgvxeeGuVUAqvBBpAQTIyAuMo10A==;fRQ0jpNpeXcNa45g2wfHdQ=="
 ---

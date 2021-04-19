@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "publishedDateTime": "2021-04-18T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-59-and-69-year-old-men-dead-after-self-driving-tesla-crash-authorities-said.md",
+      "title": "59 and 69-year-old men dead after self-driving Tesla crash, authorities said",
+      "excerpt": "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside.",
+      "sourceUrl": null,
+      "webUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
+      "originalUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
+      "publishedDateTime": "2021-04-18T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13.com",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-better-buy-baidu-vs-alibaba.md",
       "title": "Better Buy: Baidu vs. Alibaba",
       "excerpt": "Last September, I declared Alibaba ( NYSE:BABA) was a better buy than Baidu ( NASDAQ:BIDU). I claimed that the strength of Alibaba's core commerce business, the narrowing losses at its cloud division,",
@@ -255,7 +341,7 @@
       "originalUrl": "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1107,6 +1193,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-12-huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla.md",
+      "title": "Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla",
+      "excerpt": "Huawei Technologies Co. will invest $1 billion on researching self-driving and electric-car technologies ... Search giant Baidu Inc. and Geely Automobile Holdings Ltd. are also said to be teaming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-12/huawei-to-invest-1-billion-on-car-tech-it-says-surpasses-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9jvJf6ReL2w/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-packing-safety-intelligence-into-robots-ai-brains.md",
       "title": "Packing safety intelligence into robots’ AI brains",
       "excerpt": "We’re finding that smart robots don’t necessarily have the common sense needed to keep human beings out of harm’s way.",
@@ -1366,144 +1504,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-margin-call-crash-creates-buying-opportunity-for-baidu.md",
-      "title": "Margin Call Crash Creates Buying Opportunity For Baidu",
-      "excerpt": "But, Robotaxi and autonomous drive opportunities are hard to value. Baidu's core search business is profitable, there is $25 billion of cash on the balance sheet, so one might argue you get Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
-      "originalUrl": "https://seekingalpha.com/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168331102/medium_image_1168331102.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
-      "publishedDateTime": "2021-04-08T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
-      "title": "What’s it going to take to perfect self-driving cars?",
-      "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Autonomous-driving-Barcelona-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
-      "publishedDateTime": "2021-04-08T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
-      "title": "Toyota unveils new models in advanced driver-assist technology push",
-      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984",
-      "originalUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp",
-      "publishedDateTime": "2021-04-08T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

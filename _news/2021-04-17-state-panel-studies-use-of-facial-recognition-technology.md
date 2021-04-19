@@ -25,53 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "The future of facial recognition blends AI and IR"
-    excerpt: "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ..."
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://www.androidauthority.com/future-face-recognition-1217022/"
-    ampWebUrl: "https://www.androidauthority.com/future-face-recognition-1217022/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/"
+  - title: "Fears of vaccine exclusion as India uses digital ID, facial recognition"
+    excerpt: "(Thomson Reuters Foundation) - Millions of vulnerable people are at risk of missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres, rights groups and ..."
+    publishedDateTime: 2021-04-15T14:06:00Z
+    webUrl: "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 104
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
-  - title: "This AI Is A Leading Indicator Of The Future Of Work"
-    excerpt: "The future of work promises increased productivity, getting top results with fewer resources, and using AI not to eliminate jobs but to help teams excel. Ofir Paldi and the startup he runs, Shamaym, may have found the key to this future of work ..."
-    publishedDateTime: 2021-04-15T13:35:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6077940a18631a01a05d68f4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The future of artificial intelligence requires the guidance of sociology"
-    excerpt: "In the race to out-compete other companies– artificial intelligence (AI) design is lacking a deep understanding of what data about humans mean and its relation to equity. Two Drexel University ..."
-    publishedDateTime: 2021-04-14T13:30:00Z
-    webUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.html"
-    ampWebUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+  - title: "Social wasps lose face recognition abilities in isolation"
+    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
+    publishedDateTime: 2021-04-14T17:29:00Z
+    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
+    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
     type: article
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 58
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-ai.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
+        width: 900
+        height: 1035
+        isCached: true
+  - title: "AWS launches Amazon Digital Suite to help SMBs in India go digital"
+    excerpt: "The suite provides a broad selection of business software focused on SMBs from seven AWS Partner Network technology partners in areas such as accounting, customer support, and human resources"
+    publishedDateTime: 2021-04-16T09:23:00Z
+    webUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital-11618564585058.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/aws-launches-amazon-digital-suite-to-help-smbs-in-india-go-digital/amp-11618564585058.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/04/16/600x338/AFP_8QN2MT_1600991712241_1618564906958.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AWS launches Amazon Digital Suite to accelerate digital adoption for SMBs in India"
+    excerpt: "SMB spend on public cloud services is expected to contribute more than 29% of the $7.9 billion public cloud services market in India in 2024."
+    publishedDateTime: 2021-04-16T09:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/articleshow/82100388.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/aws-launches-amazon-digital-suite-to-accelerate-digital-adoption-for-smbs-in-india/amp_articleshow/82100388.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-94899,msid-82100523/amazonap.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
+    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
+    publishedDateTime: 2021-04-15T12:46:00Z
+    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 43
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
+    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
+    publishedDateTime: 2021-04-16T15:45:00Z
+    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 41
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "XLaMdg+cxB2rslnQ8XlaDAwKah9CkN4PMna/r63fFXtS5LYSBgTXoXRQSX16oTHJLsWvo8D+7/NNhGsIrCKpgAmzA+EGHxNcCOEdMMOUbthnZsjFXamNTJ7FO5k92WD02TyRKbDdehytlGBhUqZGLLGEhaEDEQlz+F3eXkrzllo/zmvLxqqAbfCm/dmVa8R6Ir2cKEIiKDLx/pVJ9poa0Ojo4Vp62LNUaS4G04TQgq8pqW2YubJiZRt5vk555L8YYoEQ3lM40c5zJ1PJ7PSU5ZvhW78vEVtm09TCRan+E27yMgVVsuxAKe8J4RzbbxykpB4vJd1uk9Mi3lzn+Sgu0J9YeuGWAm19Ludyb6sC6VU=;ApESK0TE54BE8UX6w14y8w=="

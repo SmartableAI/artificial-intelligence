@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers"
-    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in"
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://www.samsara.com/"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 108
-    images:
-      - url: "https://images.ctfassets.net/bx9krvy0u3sx/2pEohyAk9wWMH5ChIl7RLf/edc6dce57b13e4190a32257b9986dee8/og-image.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Domino accelerates MLOps with new Nvidia integrations"
     excerpt: "It also allows organizations to standardize on these containers. NGC currently supports RAPIDS, TensorFlow, PyTorch, and CUDA. Domino additionally supports containers for SAS, MATLAB, Amazon ..."
     publishedDateTime: 2021-04-14T17:20:00Z

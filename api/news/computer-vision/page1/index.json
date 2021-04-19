@@ -108,7 +108,7 @@
       "originalUrl": "https://www.reuters.com/article/us-india-health-coronavirus-trfn-idUSKBN2C217V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -143,50 +143,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-15-computer-vision-in-healthcare-market-to-witness-surge-in-demand-owing-to-rising-end-use-adoption.md",
-      "title": "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption",
-      "excerpt": "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "originalUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U414438461_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "publishedDateTime": "2021-04-14T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-04-14-man-sues-detroit-police-after-facial-recognition-error.md",
       "title": "Man Sues Detroit Police After Facial Recognition Error",
       "excerpt": "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ...",
@@ -195,7 +151,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1406,6 +1362,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-facial-recognition-for-bears-and-other-ways-to-use-the-technology-for-good.md",
+      "title": "Facial recognition for bears (and other ways to use the technology for good)",
+      "excerpt": "Researchers have paired a neural network and a facial detection system used in a “dog hipsterisation” app to help manage and protect grizzly bears",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1617705786/itpro/2021/04/Melanie_Clapham_002.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359118/facial-recognition-for-bears-and-other-ways-to-use-the?amp",
+      "publishedDateTime": "2021-04-06T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

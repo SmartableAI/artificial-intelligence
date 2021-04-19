@@ -58,6 +58,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
+    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
+    publishedDateTime: 2021-04-15T08:00:00Z
+    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
+    type: article
+    provider:
+      name: Moneylife
+      domain: moneylife.in
+    quality: 46
+    images:
+      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
+        width: 810
+        height: 350
+        isCached: true
   - title: "EU set to release artificial intelligence legislation"
     excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
     publishedDateTime: 2021-04-16T20:11:00Z

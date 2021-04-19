@@ -2,6 +2,204 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-lays-out-its-three-chip-data-center-roadmap.md",
+      "title": "Nvidia lays out its three-chip data center roadmap",
+      "excerpt": "Grace, Huang said in his keynote, \"gives us the third foundational technology for computing and the ability to rearchitect every aspect of the data center for AI.\" The chip, designed for terabyte-scale accelerated computing, joins Nvidia's GPUs and DPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/12/cc5bd989-90a2-432f-bae2-c6250ff33ba9/image-grace-255543607271cab6bb18-97771987.jpg",
+          "width": 2000,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-lays-out-its-three-chip-data-center-roadmap/",
+      "publishedDateTime": "2021-04-12T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-plaintiffs-seek-preliminary-injunction-in-clearview-ai-privacy-mdl.md",
+      "title": "Plaintiffs seek preliminary injunction in Clearview AI privacy MDL",
+      "excerpt": "Plaintiffs in the recently consolidated multidistrict privacy litigation against Clearview AI Inc are seeking a preliminary injunction, renewing a previous push to bar the company from collecting Illinois residents’ biometric data without consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-clearview-idUSL1N2M52TL",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-clearview-idUSL1N2M52TL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2M52TL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2M52TL",
+      "publishedDateTime": "2021-04-12T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose.md",
+      "title": "Chinese autonomous vehicle startup WeRide scores permit to test driverless cars in San Jose",
+      "excerpt": "WeRide, the Chinese autonomous vehicle startup that recently raised $310 million, has received a permit to test driverless vehicles on public roads in San Jose, California. WeRide is the seventh company,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
+      "originalUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-12-at-12.34.41-PM.png?w=995",
+          "width": 995,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/12/chinese-autonomous-vehicle-startup-weride-scores-permit-to-test-driverless-cars-in-san-jose/amp/",
+      "publishedDateTime": "2021-04-12T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
+      "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
+      "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "originalUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621229%2Fudelv-driven-by-mobileye-night-75789135.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
+      "publishedDateTime": "2021-04-12T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai.md",
       "title": "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI",
       "excerpt": "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ...",
@@ -650,10 +848,10 @@
     {
       "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
       "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
+      "excerpt": "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -686,7 +884,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1022,206 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion.md",
-      "title": "Microsoft Buys Speech Recognition-Firm That Helped Build Apple’s Siri For $19.7 Billion",
-      "excerpt": "Microsoft plans to use Nuance’s speech recognition and transcribing tools to expand on its health care tech ambitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
-      "originalUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60741ca1c89a945e7b608580%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2092%26cropY1%3D110%26cropY2%3D1286",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
-      "publishedDateTime": "2021-04-12T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai.md",
-      "title": "SafeGuard nabs $45M to combat cybersecurity risks using AI",
-      "excerpt": "To accommodate the coming influx, organizations are beginning to transform operations models through the adoption of AI to optimize, enhance, and automate threat and risk visibility, detection ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
-      "publishedDateTime": "2021-04-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion NEW YORK -- Microsoft, on an accelerated growth push, is buying speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "publishedDateTime": "2021-04-12T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot.md",
-      "title": "Chinese robotics firm unveils AlphaDog, a cheaper alter ego to Boston Dynamics’ Spot",
-      "excerpt": "There is a growing preference for robopets which are robots using artificial intelligence (AI) to perform sometimes extraordinary tasks. US-based firm Boston Dynamics is a leading light in robotics, with its famous robotic dog called Spot. A Chinese tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/04/12/chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot/",
-      "originalUrl": "https://www.gizmochina.com/2021/04/12/chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/alphadog-1_resize_md.jpg",
-          "width": 744,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

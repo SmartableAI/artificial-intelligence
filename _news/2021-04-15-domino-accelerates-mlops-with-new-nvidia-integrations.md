@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/domino-accelerates-mlops-with-new-nvidia-integrations/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: VentureBeat
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers"
-    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in"
-    publishedDateTime: 2021-04-14T13:00:00Z
-    webUrl: "https://www.samsara.com/"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 108
-    images:
-      - url: "https://images.ctfassets.net/bx9krvy0u3sx/2pEohyAk9wWMH5ChIl7RLf/edc6dce57b13e4190a32257b9986dee8/og-image.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Harness gets more cloud integrations for its continuous software delivery platform"
     excerpt: "Harness Inc.’s continuous software delivery tools became a lot more useful today as the company announced new integrations with the three major cloud infrastructure providers that it says will make multicloud software deployment much easier than before."
     publishedDateTime: 2021-04-15T13:50:00Z

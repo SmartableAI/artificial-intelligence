@@ -47,20 +47,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "K Health, Blackstone Growth, Anthem to Partner on Technology Joint Venture to Advance More Affordable, High-Quality Healthcare"
-    excerpt: "enhance the healthcare experience, and help lower costs. As part of this approach, we focus on investments and partnerships like this one that leverage exponential technologies, such as Artificial Intelligence; revolutionize industries; and profoundly ..."
-    publishedDateTime: 2021-04-14T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-access-to-health-care-products-and-services-dcff0e4c3e264408905937a3f2616de2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "724mvPtChxFXmKN2VpWUwDqGNC1Ivcr8ijGI+mmyxmDER2bhqe4zsybugYB3pP05q5F3F8Zm9LM5ESqS9oc+7lVqal3Bx1VedefA4pWro+JbZzX9L7rfZKG0GQja7royWiq3OdDfbB0x2oUK38OJla59XASUFsVOReHP5NQNDgY/SqERxkSGyB36ms6H/nLfUBcPfkKdDQWEdn6MkImISZw9Xxn7xaJ1H4F5Q3TkUWkkgd9uajaLUJTKk4VkIhjHyAu4nRHmCT68S0izm7uNY31cZPzJFOV3BUWIc1IYzbUomkt4X1mw83DWv6Mg/ey0GYYKw3+jQ+Hm/yzfpQdAnZY+MHygtWFBeiKwTj5sZf0=;9msjbZX+1xuMEmmAd0DnfA=="
 ---

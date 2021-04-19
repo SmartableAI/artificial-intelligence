@@ -2,6 +2,232 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-30-indy-autonomous-challenge-racecars-to-highlight-innovation.md",
+      "title": "Indy Autonomous Challenge Racecars to Highlight Innovation",
+      "excerpt": "Organizers of the Indy Autonomous Challenge have unveiled the racecar that will be used in the first head-to-head, driverless race to be held this fall at the Indianapolis Motor Speedway. Teams from u",
+      "sourceUrl": null,
+      "webUrl": "https://www.insideindianabusiness.com/story/43529696/inpower-indy-autonomous-challenge-racecars-to-highlight-innovation",
+      "originalUrl": "https://www.insideindianabusiness.com/story/43529696/inpower-indy-autonomous-challenge-racecars-to-highlight-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://INSIDEINDIANA.images.worldnow.com/images/20239816_G.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INside INdiana Business",
+        "domain": "insideindianabusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
+      "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-facial-recognition-camera-projects-raise-concerns-in-eastern-europe.md",
+      "title": "Facial recognition camera projects raise concerns in Eastern Europe",
+      "excerpt": "Digital rights organizations are concerned about the increasing use of mass surveillance systems featuring thousands of facial recognition cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "publishedDateTime": "2021-03-30T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-artificial-intelligence-based-security-market-key-factor-drive-growth-is-increasing-adoption-of-internet-of-things.md",
+      "title": "Artificial Intelligence-Based Security Market Key Factor Drive Growth Is Increasing Adoption of Internet of Things",
+      "excerpt": "The New Report “Artificial Intelligence-based Security Market” posted through MarketResearch.Biz, covers the market panorama and its growth possibilities over the",
+      "sourceUrl": null,
+      "webUrl": "https://tylerpaper.com/covid-19/artificial-intelligence-based-security-market-key-factor-drive-growth-is-increasing-adoption-of-internet-of/article_af1da53f-e038-536a-9a54-c8968930d2a4.html",
+      "originalUrl": "https://tylerpaper.com/covid-19/artificial-intelligence-based-security-market-key-factor-drive-growth-is-increasing-adoption-of-internet-of/article_af1da53f-e038-536a-9a54-c8968930d2a4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/custom/image/1d130320-7305-11e7-aad4-cf9f36fa6d1e.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tyler Morning Telegraph",
+        "domain": "tylerpaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-self-driving-ev-takes-a-slow-steady-approach-to-solar-powered-mobility.md",
+      "title": "Self-driving EV takes a slow, steady approach to solar-powered mobility",
+      "excerpt": "When it comes to making road transportation more sustainable automakers are putting a lot of work into to fitting out conventional cars with electric drivetrains, but others are thinking a little further outside the box.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
+      "originalUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/670cf81/2147483647/strip/true/crop/1296x864+120+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2F77%2F94fdc819411b9aa1f26108fc94b7%2Fls-ev-prototype-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
+      "publishedDateTime": "2021-03-29T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-facial-recognition-how-closely-is-big-brother-watching.md",
       "title": "Facial recognition: How closely is Big Brother watching?",
       "excerpt": "Two years ago, Amazon decided to outsource the use of its facial recognition software, Rekognition, to the police, sparking nationwide fury in the US—only for Andy Jassy, CEO of Amazon Web Services, to defend “regulation” by the police. When a ...",
@@ -919,203 +1145,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
-      "publishedDateTime": "2021-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
-      "title": "Complementary security for Orange's Data and AI Ethics Council",
-      "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
-      "originalUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-alva-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "alva named winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-486c404ff933375e4315e9ed1f116a06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
-      "title": "Robotics and coding to be introduced in Grade R classrooms",
-      "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "originalUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesouthafrican.com/wp-content/uploads/2021/03/Untitled-design-21-16.jpg.optimal.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/lifestyle/kids-parenting/robotics-coding-grade-r-classrooms/amp/",
-      "publishedDateTime": "2021-03-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
-      "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
-      "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "originalUrl": "https://seekingalpha.com/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3677176-loop-upgrades-baidu-on-valuation-autonomous-vehicles",
-      "publishedDateTime": "2021-03-29T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

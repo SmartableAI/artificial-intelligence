@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "State panel studies use of facial recognition technology"
+    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
+        width: 1088
+        height: 604
         isCached: true
 
 secured: "zkg3jZj5kxEOBRPgPvHqbBg/1PUiIQR52vH7pMdidH4eRHjigDJaPFrnnCu6uhhSdXQHQzPDboateJk5HHtXF3Ec72qwjv1N8AqXrmlhYCImuXPjKqCEhWgVohFywPN1FOA+qMQjmX78uM9XVGxkkQn4UvphLG5x2rLC7SNQ3H7baKFFU32FguakdnVhExS4e2cOpkRvFUpx9rlIut+NN0k88tHG3/kvSi0WxGO4Wvz29uAwnDp8EYpWO0DeJv2xD9URPOWLz25PB9hDndRDpo2vJ13dwRiURLiDW4MVuAlsqLtx3B1OCDtbXZxg8OUUl6WVfk+Duz80Uh93PnPuy+WT8/oOaPEZvVroTvHmu3c=;E/s/4r4/2MBQd1jaT8g7Yw=="

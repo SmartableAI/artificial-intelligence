@@ -25,35 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026"
-    excerpt: "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ..."
-    publishedDateTime: 2021-04-14T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14"
+  - title: "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023"
+    excerpt: "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2021-04-16T05:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth"
-    excerpt: "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ..."
-    publishedDateTime: 2021-04-14T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
-    ampWebUrl: "https://www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
+  - title: "Machine Learning in Retail Market Size 2021 by Sales Growth, Revenue, Market Share and Forecast 2025 Research Report by Absolute Reports"
+    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" In the retail sector, top competitors"
+    publishedDateTime: 2021-04-15T13:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-2021-by-sales-growth-revenue-market-share-and-forecast-2025-research-report-by-absolute-reports-2021-04-15"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 65
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://cdn.openpr.com/U/4/U414902043_g.jpg"
-        width: 628
-        height: 385
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Asia-Pacific Machine Learning Market Strategy, Applications Analysis and Growth Forecast to 2021 -2023"
+    excerpt: "The value of the machine learning market in Asia-Pacific is expected to reach USD 10.00 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 51.3% during 2018-2023 .Machine learning the ability of computers to learn through experiences to improve their performance."
+    publishedDateTime: 2021-04-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/asia-pacific-machine-learning-market-strategy-applications-analysis-and-growth-forecast-to-2021--2023-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
     excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
@@ -71,6 +83,76 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
+    excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
+    publishedDateTime: 2021-04-19T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2026-2021-04-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Best Machine Learning Software in 2021"
+    excerpt: "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today."
+    publishedDateTime: 2021-04-15T18:20:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/best-machine-learning-software-in-2021/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 47
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
+        width: 1500
+        height: 840
+        isCached: true
+  - title: "Deep Neural Networks Market Share, Types, Applications, Products, Size, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-04-16T08:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-share-types-applications-products-size-growth-insights-and-forecasts-report-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Machine Learning Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
+    excerpt: "The value of the machine learning market in Europe is expected to reach USD 3.96 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 33.5% during 2018-2023.Machine learning the ability of computers to learn through experiences to improve their performance."
+    publishedDateTime: 2021-04-15T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-machine-learning-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Machines Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
+    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Machines"
+    publishedDateTime: 2021-04-15T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-04-16T13:08:00Z
@@ -85,24 +167,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Corona Virus Outbreak: Artificial Intelligence in Military Market Size, Growth Opportunity & Industry Outlook Research Report, 2021-2026"
-    excerpt: "Latest Industry Research Report On “Global Artificial Intelligence in Military Market 2021“ in-depth analysis of the Market State, Growth, Opportunities, and Analysis of Top Key Players over the forecast period to 2026."
-    publishedDateTime: 2021-04-16T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/corona-virus-outbreak-artificial-intelligence-in-military-market-size-growth-opportunity-industry-outlook-research-report-2021-2026-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Software Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027"
-    excerpt: "Apr 16, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Automotive Artificial"
-    publishedDateTime: 2021-04-16T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-04-16"
+  - title: "Artificial Intelligence in Agriculture Market Size 2021-2025 on Going Trends By Development History, and Business Prospect, | Says Kenneth Research"
+    excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
+    publishedDateTime: 2021-04-16T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-2021-2025-on-going-trends-by-development-history-and-business-prospect-says-kenneth-research-2021-04-16"
     type: article
     provider:
       name: MarketWatch
@@ -113,10 +181,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
-    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
-    publishedDateTime: 2021-04-18T14:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
+  - title: "North America Self-driving Car Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
+    excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
+    publishedDateTime: 2021-04-15T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
     type: article
     provider:
       name: MarketWatch
@@ -126,6 +194,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2021-04-18T02:46:00Z
+    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"

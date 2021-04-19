@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-06-you-can-now-turn-on-nvidias-excellent-noise-cancellation-with-any-geforce-gpu.md",
+      "title": "You can now turn on Nvidia's excellent noise cancellation with any GeForce GPU",
+      "excerpt": "With the latest update to RTX Voice, which now goes by 'Noise Removal' in the RTX Broadcast app, it's possible to run the feature across a wide range of GPU generations (nice spot ... as the Asus Noise-Cancelling AI Mic Adapter, which offer much of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "originalUrl": "https://www.pcgamer.com/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/48T59jevWjdV3uxFo5wWBb-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidia-rtx-voice-noise-cancellation-geforce-gpu-supported/",
+      "publishedDateTime": "2021-04-06T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-sambanova-raises-650m-to-mass-produce-ai-training-and-inference-chips.md",
       "title": "SambaNova raises $650M to mass-produce AI training and inference chips",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. SambaNova Systems, a startup developing chips for AI workloads, today announced it has raised $650 million ...",
@@ -1393,49 +1436,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-electrifai-announces-inspur-ai-server-collaboration.md",
-      "title": "ElectrifAi Announces Inspur AI Server Collaboration",
-      "excerpt": "Inspur AI servers (model: NF5280M5) are used to process and store data for ElectrifAi’s powerful animal welfare product, AnimalAi, developed to help prevent animal abuse in the livestock industry. The NF5280M5 features 2x Intel® Xeon® Scalable Processors and hosts 4x double width GPU accelerator cards in a 2U chassis to deliver high performance density and acceleration for high-intensity AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-north-america-cloud-computing-new-jersey-34e6f1067af8061187cd260394a38ef0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-north-america-cloud-computing-new-jersey-34e6f1067af8061187cd260394a38ef0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

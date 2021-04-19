@@ -55,6 +55,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AWS announces Amazon Digital suite to enable digital transformation for Small and Medium Businesses in India"
+    excerpt: "Read Article Amazon Web Services (AWS) has launched the Amazon Digital Suite, a curated set of software solutions aimed at enabling India’s small and medium businesses (SMBs) to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.crn.in/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    ampWebUrl: "https://www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 40
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/06/29104048/Puneet.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "2xkAHDnnqm2MUtxiM3Kyemm8HMtW9MCYUROt65yLP04jVd9w5rAxRsiaJiK5g0tNjLuNlwmykt2gbN7dBOtJSHcWGcLE8FlV0nFkma4QXEw8RoJWINWZmnCga/SHxL/jlRr+keM5oyQ29+CwjVI1FqLvAKNyaCKTS8YAlECKGZxD0DoyncD3kZnCnS80GR5NlmXOTuoDc9mM8x54Jxny4JBdtTTn40P0PDTvJuBQQ0f8jsM6Tqdq7NkfBlZYysZGkgn9Pk2w7IlMX8hp1MbcQbyAVrU/Fos3K126dgjlqnh8NIjo0V1LPMv7wWiVYC+XelC2FcjPwzocKsYc5hHAWt7gAfnsAHlbxYanBoHtZEQ=;EJy8+pZilnsmfGZ+rlNXuA=="
 ---

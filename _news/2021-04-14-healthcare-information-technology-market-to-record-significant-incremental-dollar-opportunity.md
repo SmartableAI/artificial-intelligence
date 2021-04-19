@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth"
+    excerpt: "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ..."
+    publishedDateTime: 2021-04-14T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
+    ampWebUrl: "https://www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 65
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414902043_g.jpg"
+        width: 628
+        height: 385
+        isCached: true
   - title: "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption"
     excerpt: "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market"
     publishedDateTime: 2021-04-14T18:34:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://cdn.openpr.com/U/4/U414212912_g.jpg"
         width: 628
         height: 385
+        isCached: true
+  - title: "Automotive Artificial Intelligence Software Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027"
+    excerpt: "Apr 16, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Automotive Artificial"
+    publishedDateTime: 2021-04-16T11:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "eQ2vi7CXZNo4+T73bCQO0ec741y26pOCLEbjHmPgz4KqxiAK1fOR2iTEz3p1Ft/RCu6Ivtgz2DE7hB9FutClhBptGNKjGHiHHEumpuFEKgyhCK84UYgPLbX+ccCObfHnYQjLY3yI8eTMOpqodOWMGdyMffopEiqsWo3aCj9k0b0SmnaEDelSrIMYprXWxjpqe5Jt+bzt0QU564/b9TtAkMfwU9FPAC4liYm2Ds11oJukdK4Z3tRGcu6re5k7g6cybg2aSDWbGmC7MQcL/Ejs3XnI1GATYfS8w6U/BEIHDjtfk47FYGPsxDvZqdizjjF4gWWlfuITYFoQxDX1JwpYBWgfndneEqDB5CqhJ++6EPf5t1MJubvye+d5e+oU5s2F7heOqobWB7czjQUXBdxfu1N4rdpvlQlUlh/I3ztH12wU+CKUu7kxIWlxI7ecQZ1dt/oztyik9SwkWa59g3nNSNPBpcYGBklkzAaqvbvIurtOINukEgEcwyvyu+LsY17wbalAVH9gOaM1WuJzWAb7aQ==;J0BTQbdfingjVz51BSPR0Q=="

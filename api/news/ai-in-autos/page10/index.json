@@ -2,6 +2,144 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-08-self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
+      "title": "Self-driving Ships Market Growth (2021-2027), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions.",
+      "excerpt": "Feb 08, 2021 (The Expresswire) -- Global \"Self-driving Ships Market\" (2021-2027) Research report covers the present situation and the development possibilities of the Self-driving Ships market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-ai-will-not-replace-auditors-expert-says.md",
+      "title": "AI will not replace auditors, expert says",
+      "excerpt": "Susan’s inspiration is Elon Musk, who pioneered the Tesla driverless cars and Space-X Starship rocket system to clean orbit. “Artificial intelligence is the science of training machines to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thepeninsulaqatar.com/article/08/02/2021/AI-will-not-replace-auditors,-expert-says",
+      "originalUrl": "https://www.thepeninsulaqatar.com/article/08/02/2021/AI-will-not-replace-auditors,-expert-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thepeninsulaqatar.com/images/front/whatsapp.png",
+          "width": 400,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Peninsula",
+        "domain": "thepeninsulaqatar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california.md",
+      "title": "Vietnam's Vinfast Gets Permit to Test Self-Driving Vehicles in California",
+      "excerpt": "Vietnam's first domestic car manufacturer, Vinfast, said on Monday it had obtained a permit to test autonomous vehicles on public streets in California. Vinfast, a unit of Vietnam's largest conglomerate Vingroup JSC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-02-07/vietnams-vinfast-gets-permit-to-test-self-driving-vehicles-in-california?context=amp",
+      "publishedDateTime": "2021-02-07T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
       "title": "IBM leads in quantum computing, Ford in driverless car patents",
       "excerpt": "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US ...",
@@ -1274,163 +1412,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-dont-fall-for-elon-musks-self-driving-car-fallacy.md",
-      "title": "Don't Fall for Elon Musk's Self-Driving Car Fallacy",
-      "excerpt": "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "publishedDateTime": "2021-01-31T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-softbanks-son-expects-mass-production-of-driverless-cars-in-2-years.md",
-      "title": "SoftBank's Son expects mass production of driverless cars in 2 years",
-      "excerpt": "SoftBank Group Corp Chief Executive Masayoshi Son said on Friday he expects mass production of self-driving vehicles to start in two years.",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9",
-      "originalUrl": "https://cn.reuters.com/article/davos-meeting-son-autonomous-idCNL1N2K41Y9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549571164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S194",
-          "width": 829,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2K41Y9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2K41Y9",
-      "publishedDateTime": "2021-01-30T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture.md",
-      "title": "Microsoft Corp. (NASDAQ: MSFT) Acquires Stake in Self-Driving EV Venture",
-      "excerpt": "Microsoft Corp. (NASDAQ: MSFT), a company primarily known for developing, manufacturing, licensing and selling computer software, electronics and personal computers, has announced that it has strategically teamed up with General Motors Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/microsoft-corp-nasdaq-msft-acquires-stake-in-self-driving-ev-venture-2021-01-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

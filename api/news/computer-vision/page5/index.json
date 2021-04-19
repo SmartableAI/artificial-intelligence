@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-05-facebook-trains-ai-to-see-using-1-billion-public-instagram-photos.md",
-      "title": "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos",
-      "excerpt": "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1602837049",
-          "width": 4256,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
-      "publishedDateTime": "2021-03-04T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-moscow-metro-to-introduce-facial-recognition-system-for-fare-payment.md",
       "title": "Moscow Metro to introduce facial recognition system for fare payment",
       "excerpt": "Passengers using the Moscow Metro system in Russia will be able to pay their fares at all metro stations using face biometrics by the end of this year.",
@@ -1414,6 +1361,58 @@
         "name": "Automotive News",
         "domain": "autonews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group.md",
+      "title": "Global Face Recognition Device Market Business Opportunities and Challenges Report 2031| Cloudwalk, Aurora, Insigma Group",
+      "excerpt": "Feb 22, 2021 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Face Recognition Device market for the forecast year 2022-2031, which is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

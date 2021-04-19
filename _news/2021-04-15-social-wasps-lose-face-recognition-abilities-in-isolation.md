@@ -98,6 +98,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "State panel studies use of facial recognition technology"
+    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
+        width: 1088
+        height: 604
+        isCached: true
 
 secured: "fETndCUVy1cyqy3vykz+OPDywdLMq3cGSq4nibmz627EBMBTuckHvgY70Z5sPOqQZPlFRuzl02bdCCzwSNNdbi7oY4oDkaNDubO+ktCru1QP9t7R/QLDUoxSvFb5dwjXCEo4OZVgkCKbYrOq6HKfE3UPtsHJBBbPui/WSyM6FjDDNGIzZHLEETKIU+ydhoO6YCZk3ziBnXyDMwMeaoERq9FKSUHTU+cFGS/xkw6Mz8meTm2r5MFbkJMdyuT08rzCsCzTO7b/kgrqyoDI9D7CSUJ//Je62QFAXHPtTFIH5EyDZGjwaWzEHN54aMsbTmoWu7cIkV+c6QDS/Ky2f9YUhETCjtKb2yTYVxI5rAga+K2KFIFeGhf/fAIC2uuRzigDmnMXAQO7Ja5DHm1GNIo/oI47KTfloGcr8tZ/VjGJXes3LrjjpZHLU7O+fYJqlZB0dHR6SG2jWJnTWNIG4eWHNYDPGjKfCtqjsZ8H7gF7eWT30UpysFt8l1RD+t5WhEbVXuiXXhoC1mnKn4HyaVDgcg==;/qNAplvynt+vhRFxBUrBEg=="
 ---

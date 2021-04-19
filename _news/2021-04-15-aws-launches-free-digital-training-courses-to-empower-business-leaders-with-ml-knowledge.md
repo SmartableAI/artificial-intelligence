@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-di
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/"
 type: article
 quality: 112
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-697397,msid-82100654/amazon-india.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "AWS announces Amazon Digital suite to enable digital transformation for Small and Medium Businesses in India"
+    excerpt: "Read Article Amazon Web Services (AWS) has launched the Amazon Digital Suite, a curated set of software solutions aimed at enabling India’s small and medium businesses (SMBs) to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.crn.in/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    ampWebUrl: "https://www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 40
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/06/29104048/Puneet.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "AWS launches Amazon Digital Suite to enable digital transformation for Indian SMBs"
     excerpt: "Building on Amazon’s commitment to digitize 10 million Indian small and medium businesses (SMBs) by 2025, Amazon Web Services (AWS) has announced the launch of the Amazon Digital Suite, a curated set of software solutions aimed at enabling SMBs to easily digitize their operations and bring their businesses online."

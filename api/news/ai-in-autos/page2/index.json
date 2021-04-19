@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-08-margin-call-crash-creates-buying-opportunity-for-baidu.md",
+      "title": "Margin Call Crash Creates Buying Opportunity For Baidu",
+      "excerpt": "But, Robotaxi and autonomous drive opportunities are hard to value. Baidu's core search business is profitable, there is $25 billion of cash on the balance sheet, so one might argue you get Cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
+      "originalUrl": "https://seekingalpha.com/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168331102/medium_image_1168331102.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418155-baidu-margin-call-crash-creates-buying-opportunity",
+      "publishedDateTime": "2021-04-08T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
+      "title": "What’s it going to take to perfect self-driving cars?",
+      "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
+      "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Autonomous-driving-Barcelona-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
+      "publishedDateTime": "2021-04-08T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
+      "title": "Toyota unveils new models in advanced driver-assist technology push",
+      "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984",
+      "originalUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/polopoly_fs/1.4531983.1617863976!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp",
+      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/transport-and-tourism/toyota-unveils-new-models-in-advanced-driver-assist-technology-push-1.4531984?mode=amp",
+      "publishedDateTime": "2021-04-08T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
       "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
       "excerpt": "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ...",
@@ -1218,144 +1356,6 @@
       "provider": {
         "name": "dealstreetasia",
         "domain": "dealstreetasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks.md",
-      "title": "Aurora, Volvo are latest partners on self-driving heavy trucks",
-      "excerpt": "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
-      "originalUrl": "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM",
-      "publishedDateTime": "2021-03-30T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-teslas-full-self-driving-scam-are-evs-really-better.md",
-      "title": "Tesla’s Full Self-Driving Scam; Are EVs Really Better?",
-      "excerpt": "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "originalUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "cdnAmpWebUrl": "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp",
-      "publishedDateTime": "2021-03-30T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ValueWalk",
-        "domain": "valuewalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-new-early-warning-system-for-self-driving-cars.md",
-      "title": "New early warning system for self-driving cars",
-      "excerpt": "Thanks to artificial intelligence (AI), their system can learn from past situations where self-driving test vehicles were pushed to their limits in real-world road traffic. Those are situations where a human driver takes over—either because the car ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-early-self-driving-cars.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-early-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg",
-          "width": 1280,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-early-self-driving-cars.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp",
-      "publishedDateTime": "2021-03-30T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

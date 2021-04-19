@@ -86,17 +86,6 @@ related:
         height: 400
         isCached: true
   - title: "US man sues police for wrongful facial recognition-based arrest"
-    excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."
-    publishedDateTime: 2021-04-14T12:11:00Z
-    webUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    ampWebUrl: "https://www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-news-education-veomlEbjebeeg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "US man sues police for wrongful facial recognition-based arrest"
     excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
     publishedDateTime: 2021-04-14T18:32:00Z
     webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"

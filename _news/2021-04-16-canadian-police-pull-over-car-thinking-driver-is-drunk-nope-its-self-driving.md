@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 666
         isCached: true
+  - title: "Two men dead after Tesla crashes while in self-driving mode"
+    excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
+    publishedDateTime: 2021-04-19T02:11:00Z
+    webUrl: "https://www.kulr8.com/news/two-men-dead-after-tesla-crashes-while-in-self-driving-mode/article_98a160b4-a0b4-11eb-9499-674147791e30.html"
+    type: article
+    provider:
+      name: KULR 8
+      domain: kulr8.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/34/2346eb46-a0c2-11eb-ac31-2b93c0ec754e/607cfdb787dae.image.png?crop=301%2C226%2C73%2C0&resize=301%2C226&order=crop%2Cresize"
+        width: 301
+        height: 226
+        isCached: true
 
 secured: "pSNondSycV2zr5fsiiDERaDnUgqTOk7/hVy8YVljmnhnjqZUXSlTTH6/KbZUyKl3spDWcDifXX0+rKZq7aOsy1wJPHQZ/RLi79LhxTtu9GfFu1xhkkn77PVLJtJNga8KjEysm5ZUfDcTP0FGPzuWneDi2a7rcDZQNxMUC7MpxzcxHsdkCxqjYcZ+RxWpdgaPdvdMTzXx7OdkDStLi/hA7Wok4fLXZoWNKd67FrMprMUQn9+ShlLJ9SsPFc8hfwD744VqDmYv5NPPh/U+Vh+TdTGrvAiFgIm1xlb464l7xB+P66osHlOETRlc2/DvzIv896Hlnjy5v7Gbr05hty2jkFENW49U2YyrKc4MqXVhg6zvMEx/BldcW3vsNWqZdTJjEVVXlTQQH1a35k7VPwcrBfA/DAxY7dZzGWKZWjcH2georcKQWfYmX39o5lWbiXFKxLPLfGUMq/r1NUpXbYihpq6UNqsMnFvAlmJ2siUI2Qkzme3fontoJAOAaiIL90FZc6u2Wy+11JLUT+FbGhcUAw==;uvnBapZ1xyOB2kJzcIifag=="
 ---

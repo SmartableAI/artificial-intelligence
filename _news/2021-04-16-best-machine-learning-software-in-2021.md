@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cloud Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "Global Cloud Machine Learning Market Report 2020 comes with the extensive industry analysis of development components, patterns, flows and sizes. The report also calculates present and past market values to forecast potential market management through the forecast period between 2020-2025."
-    publishedDateTime: 2021-04-14T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Asia-Pacific Machine Learning Market Strategy, Applications Analysis and Growth Forecast to 2021 -2023"
     excerpt: "The value of the machine learning market in Asia-Pacific is expected to reach USD 10.00 Bn by 2023, expanding at a compound annual growth rate (CAGR) of 51.3% during 2018-2023 .Machine learning the ability of computers to learn through experiences to improve their performance."
     publishedDateTime: 2021-04-15T10:27:00Z
@@ -85,10 +71,26 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Size Future Scope, Demands and Projected Industry Growths to 2025"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2021-04-14T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-04-14"
+  - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
+    publishedDateTime: 2021-04-14T17:15:00Z
+    webUrl: "https://www.openpr.com/news/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
+        width: 800
+        height: 530
+        isCached: true
+  - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
+    excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
+    publishedDateTime: 2021-04-19T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2026-2021-04-18"
     type: article
     provider:
       name: MarketWatch
@@ -141,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-04-16T13:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-study-report-based-on-size-shares-opportunities-industry-trends-and-forecast-to-2028-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size 2021-2025 on Going Trends By Development History, and Business Prospect, | Says Kenneth Research"
     excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
     publishedDateTime: 2021-04-16T05:59:00Z
@@ -169,6 +185,45 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2021-04-18T02:46:00Z
+    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
+    excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
+    publishedDateTime: 2021-04-16T01:26:00Z
+    webUrl: "https://menafn.com/1101921297/Artificial-Intelligence-Market-Analysis-Report-Global-Industry-Outlook-Size-Growth-Prospects-and-Overview-Forecasts-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231069"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
+    publishedDateTime: 2021-04-15T11:29:00Z
+    webUrl: "https://www.openpr.com/news/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 2
 
 secured: "vPAS8liNO6l/btkfZzpGEpVSU3EgCWK9Equ+NjnpWn896lKngT7M63J95naRg0IqL1Kfi2i/VjP0l3WOgCe3nqaRcGEGreHr8OWLfRxTa6yoQjHBp58/OaiSIoBJV7CGy7XAdkI4G3nDk9fz5xHQ+3c0vs7pLMvuJQLHg1XrLeFQzi8F3HqI1IYeXoq7K7zxuFL0tsAqPHz/Wfc0mvswb+eDSwfjdhWeXWlbMnLCUshybjVPNeLL41FZrhtjfIHRAMDyqKtfdmCDdFR/KlPlB2Im5BGGgTLv0If135r/Tx0pR3RdVnD2BeCCkLS4hcMzOeCCRUyL+xa+4bb+zbsbWSMdAwMI883ku3BOkc5YgPWk8gk+uLzGSayDU84ijioXDF+oiZjOrWb+oVcSeGyfYiC2uaMhO6IAmd6a/hE74rOJsvlid0Pq18F6czCsad2QmxG+QSEGLAAq6kwgaUSmOSQysgFzjNbMNklIToE6vFNaiajzCjKlOIH+U3JSbZdXEklC4lt4D+WwDO453lFNlw==;jUrrKhEhRUVo+L5Dw48Ovw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-dela
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
         width: 1024
         height: 666
+        isCached: true
+  - title: "Two men dead after Tesla crashes while in self-driving mode"
+    excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
+    publishedDateTime: 2021-04-19T02:11:00Z
+    webUrl: "https://www.kulr8.com/news/two-men-dead-after-tesla-crashes-while-in-self-driving-mode/article_98a160b4-a0b4-11eb-9499-674147791e30.html"
+    type: article
+    provider:
+      name: KULR 8
+      domain: kulr8.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/34/2346eb46-a0c2-11eb-ac31-2b93c0ec754e/607cfdb787dae.image.png?crop=301%2C226%2C73%2C0&resize=301%2C226&order=crop%2Cresize"
+        width: 301
+        height: 226
         isCached: true
 
 secured: "a6Pwp+tmo6kAFU9XJN9A82e4/LU3B/5LRrEFt4FSuVoPepbbFy7yl1KsyAB7FXV6zIuf0lmyb3JIP8QJefxjTzNZqyZWeuiGs6371GUv20xYkiza18onn+6DSsKxIiOAnY7PXJuuLJ8vg7kD8BwJn6X4fKc1Ofgg/vu8KBfmDfTEqVlxMqtMxQkeOWyEQOPflS1BUY+KQhPfDCICop/i5Jw93H0mftS6BREr/mJaXhfOLzJJ6tim7mKhA7kz9neeIwLh2kwQxQRC/kbeHfrtYdeVLj4xhAGScL3Jplaco6eA7Ip4PnA6suxugRrciqTcnBHoc5qIVuvTFEI+kxDjlf8pokqK3MejYHyM4nWzWD4=;DgLccet193bedCZiNQ7xbA=="

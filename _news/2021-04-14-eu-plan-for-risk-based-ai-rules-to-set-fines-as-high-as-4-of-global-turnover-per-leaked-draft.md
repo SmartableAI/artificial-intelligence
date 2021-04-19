@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMzA5NTQxMzIwMTQwNjUy/full-office-of-software-checkers.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
+    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
+    publishedDateTime: 2021-04-15T08:00:00Z
+    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
+    type: article
+    provider:
+      name: Moneylife
+      domain: moneylife.in
+    quality: 46
+    images:
+      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
+        width: 810
+        height: 350
         isCached: true
   - title: "EU set to release artificial intelligence legislation"
     excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."

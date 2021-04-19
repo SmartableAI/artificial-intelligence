@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/mayo-clinic-launches-two-new
 webUrl: "https://www.fiercehealthcare.com/tech/mayo-clinic-launches-two-new-companies-to-advance-early-disease-detection-using-ai"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mayo Clinic Launches Joint Ventures to Create and Commercialize AI Diagnostic Tools"
-    excerpt: "The AI and medical algorithms from the two companies will ... will enable a comprehensive translation of the language of the heart. We think of it as the Rosetta Stone for cardiac medicine.” Lucem Health was launched by Commure and Mayo clinic to provide ..."
-    publishedDateTime: 2021-04-14T12:10:00Z
-    webUrl: "https://www.pharmalive.com/mayo-clinic-launches-joint-ventures-to-create-and-commercialize-ai-diagnostic-tools/"
+  - title: "Detecting rare disease: Revealing the methods, motivations, and implications"
+    excerpt: "By their nature, rare diseases are difficult to detect because of their low overall occurrence in most populations. Improving identification and detection of these disorders, particularly early in the life of the patient,"
+    publishedDateTime: 2021-04-16T18:25:00Z
+    webUrl: "https://www.sciencemag.org/custom-publishing/webinars/detecting-rare-disease-revealing-methods-motivations-and-implications"
     type: article
     provider:
-      name: PharmaLive
-      domain: pharmalive.com
-    quality: 33
+      name: Science | AAAS
+      domain: sciencemag.org
+    quality: 21
     images:
-      - url: "https://www.pharmalive.com/wp-content/uploads/2021/04/Mayo-Clinic-Launches-Joint-Ventures-to-Create-and-Commercialize-AI-Diagnostic-Tools-BioSpace-4-14-21.jpeg"
-        width: 625
-        height: 350
-        isCached: true
-  - title: "Mayo Clinic launches two joint ventures to build, commercialize diagnostic AI tools"
-    excerpt: "To start, Anumana will be tasked with developing ... “We have a rich pipeline of ECG-based AI algorithms and we are actively pursuing FDA approval,” said David McMullin, chief business officer ..."
-    publishedDateTime: 2021-04-14T11:30:00Z
-    webUrl: "https://medcitynews.com/2021/04/mayo-clinic-launches-two-joint-ventures-to-build-commercialize-diagnostic-ai-tools/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 31
-    images:
-      - url: "https://medcitynews.com/uploads/2017/07/GettyImages-545123748.jpg"
-        width: 724
-        height: 483
+      - url: "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/0506Ipsen3_16x9_large_v1_0.jpg?itok=o6QiOrW2"
+        width: 850
+        height: 478
         isCached: true
   - title: "Heralding a 'societal transformation' in health care, Mayo Clinic launches two companies to harness patient data"
     excerpt: "Mayo Clinic is forming a pair of companies to collect and analyze data from remote monitoring devices and diagnostic tools, a move that comes as part of a broader bid to harness patient data to deliver continuous care guided by artificial intelligence."
