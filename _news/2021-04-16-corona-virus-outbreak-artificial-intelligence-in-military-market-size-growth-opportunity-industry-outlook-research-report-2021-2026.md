@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Facial Recognition Market - Company Profiles, Industry Trends, Global Segments, Landscape and Demand by Forecast to 2027"
-    excerpt: "(MENAFN - Market Research Future) The Global Facial Recognition Market will witness a healthy growth from 2016 to 2022, a research report suggests. Growing at a CAGR of 19.68%, the market is ..."
-    publishedDateTime: 2021-04-14T06:29:00Z
-    webUrl: "https://menafn.com/1101911548/Global-Facial-Recognition-Market-Company-Profiles-Industry-Trends-Global-Segments-Landscape-and-Demand-by-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?333846"
-        width: 443
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
     excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
     publishedDateTime: 2021-04-16T01:26:00Z

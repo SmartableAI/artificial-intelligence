@@ -61,6 +61,20 @@ related:
         width: 1013
         height: 566
         isCached: true
+  - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
+    excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
+    publishedDateTime: 2021-04-18T21:17:00Z
+    webUrl: "https://www.ibtimes.com/2-dead-after-self-driving-tesla-crashes-tree-bursts-flames-3183036"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
+        width: 1024
+        height: 666
+        isCached: true
 
 secured: "pSNondSycV2zr5fsiiDERaDnUgqTOk7/hVy8YVljmnhnjqZUXSlTTH6/KbZUyKl3spDWcDifXX0+rKZq7aOsy1wJPHQZ/RLi79LhxTtu9GfFu1xhkkn77PVLJtJNga8KjEysm5ZUfDcTP0FGPzuWneDi2a7rcDZQNxMUC7MpxzcxHsdkCxqjYcZ+RxWpdgaPdvdMTzXx7OdkDStLi/hA7Wok4fLXZoWNKd67FrMprMUQn9+ShlLJ9SsPFc8hfwD744VqDmYv5NPPh/U+Vh+TdTGrvAiFgIm1xlb464l7xB+P66osHlOETRlc2/DvzIv896Hlnjy5v7Gbr05hty2jkFENW49U2YyrKc4MqXVhg6zvMEx/BldcW3vsNWqZdTJjEVVXlTQQH1a35k7VPwcrBfA/DAxY7dZzGWKZWjcH2georcKQWfYmX39o5lWbiXFKxLPLfGUMq/r1NUpXbYihpq6UNqsMnFvAlmJ2siUI2Qkzme3fontoJAOAaiIL90FZc6u2Wy+11JLUT+FbGhcUAw==;uvnBapZ1xyOB2kJzcIifag=="
 ---

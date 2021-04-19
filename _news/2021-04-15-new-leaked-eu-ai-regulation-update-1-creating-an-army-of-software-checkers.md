@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "EU to unveil AI rules to fight Big Brother fears"
+    excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
+    publishedDateTime: 2021-04-18T22:22:00Z
+    webUrl: "https://www.brecorder.com/news/40085548"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 57
+    images:
+      - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "EU set to release artificial intelligence legislation"
     excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
     publishedDateTime: 2021-04-16T20:11:00Z

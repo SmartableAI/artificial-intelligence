@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-dela
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.manilatimes.net/wp-content/uploads/2021/04/self-driving-buses20210416.jpg"
         width: 1013
         height: 566
+        isCached: true
+  - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
+    excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
+    publishedDateTime: 2021-04-18T21:17:00Z
+    webUrl: "https://www.ibtimes.com/2-dead-after-self-driving-tesla-crashes-tree-bursts-flames-3183036"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
+        width: 1024
+        height: 666
         isCached: true
 
 secured: "a6Pwp+tmo6kAFU9XJN9A82e4/LU3B/5LRrEFt4FSuVoPepbbFy7yl1KsyAB7FXV6zIuf0lmyb3JIP8QJefxjTzNZqyZWeuiGs6371GUv20xYkiza18onn+6DSsKxIiOAnY7PXJuuLJ8vg7kD8BwJn6X4fKc1Ofgg/vu8KBfmDfTEqVlxMqtMxQkeOWyEQOPflS1BUY+KQhPfDCICop/i5Jw93H0mftS6BREr/mJaXhfOLzJJ6tim7mKhA7kz9neeIwLh2kwQxQRC/kbeHfrtYdeVLj4xhAGScL3Jplaco6eA7Ip4PnA6suxugRrciqTcnBHoc5qIVuvTFEI+kxDjlf8pokqK3MejYHyM4nWzWD4=;DgLccet193bedCZiNQ7xbA=="

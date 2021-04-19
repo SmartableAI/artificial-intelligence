@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "1bv0EaIiLQDQFyAmPx5baZjrtfkvK/KjpP/oChsC6vDLSIpIwtJ+4Xv0vvlAl1uOq3Fm4AUc7i+M0nPiXbBlwhV4mSYTDMPFdElYuDBaFTBWVeRbFRMQPiAIpX5hg4tMMdv9sm8B+vW1aVx3p22dG7By/YBkzlRNojkgLpr6coQnBjLPfmkFW2XXg5Wj2MoLCnBG3dSI4B8onKeON4/ya2wWrpmwfQtvTP5YTgy1A6DzzASH+3nBa0L4c2jr4g9pFZ6U60mWOhu+tPetZ9Wi3YpxWYKRH5afqzKxPuBICkEpAeJRKV5ZGRySdf7UBl39CYw6Jhgkh/Z6fB5sgUtjn+KFnLMJDqZMpzEtR3yeRno=;cffYDgCFMdpli1M2MyQJHQ=="
+secured: "W4AkCrlA04Wxm9IIeDKw/wft1eMwViiQtYVsKIgl11OutKWCLuGFli6n9p6ifYXrRArLkEYYhVqNoqCLutnxADVS8tWkHY/mEsvhGefCZXcCQsn9eyrLAN/p/fjqkJIl/k6zTK/bYV0V2KKs1+dTrn4LvYQGFSmvURJG++If0KKw0F3vufImGpXEMRnmWJQACgKfpEws/Bvo6h3rbIPgKWwnoAJCFDy2pIE4YkonoYcIwJpLKk1ghkeojhdlmn/87+mFmh+GoPCTYl+V7efGnpS22HBh7pkkYAK/7C0YfftCef2arwWNlred/JF/5oTi2mwXUT7KEB/UmqH+Elht20kcLrtOV8YHfACD1aBG7gA=;zsqxqdj7P0QiyK+mRJ5m3w=="
 ---
 

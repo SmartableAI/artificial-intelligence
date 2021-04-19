@@ -105,38 +105,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Police to get advice around the use of facial recognition technology from two leading researchers"
-    excerpt: "Police will get advice around the use of facial recognition technology from two leading researchers as the force continues to grapple with privacy, ethical, and human rights implications of the technology. Victoria University of Wellington’s Dr Nessa ..."
-    publishedDateTime: 2021-04-14T05:34:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/police-get-advice-around-use-facial-recognition-technology-two-leading-researchers"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIxJTJGMDQlMkYxNCUyRnBvbGljZS10by1nZXQtYWR2aWNlLWFyb3VuZC10aGUtdXNlLW9mLWZhY2lhbC1yZWNvZ25pdGlvbi10ZWNobm8="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 46
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/12/07/CCTV_is.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "US Man Sues Police For Wrongful Arrest Based On False Facial-recognition Match"
-    excerpt: "A black man who was arrested when facial recognition technology wrongfully identified him as a suspected shoplifter has now sued the Detroit police. Also, the man is now seeking compensation for the incident and restrictions on how the city uses the tool."
-    publishedDateTime: 2021-04-14T06:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/us-news/us-man-sues-police-for-wrongful-arrest-based-on-false-facial-recognition-match.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 40
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/jezouabm7v3quhun_1618379730.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
   - title: "US man sues police for wrongful facial recognition-based arrest"
     excerpt: "A man in the US has sued the Detroit Police Department for arresting him after he was falsely accused of shoplifting based on a faulty facial recognition match."
     publishedDateTime: 2021-04-14T12:11:00Z

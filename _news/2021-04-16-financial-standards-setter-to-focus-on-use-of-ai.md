@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Financial Standards Setter To Focus On Use Of AI"
-excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that its main focus for the year ahead will be on the role of artificial intelligence in the sector."
+excerpt: "A global standards-setting body for the prudential regulation of banks said on Friday that one of its main focuses for the year ahead will be on the role of artificial intelligence in the sector."
 publishedDateTime: 2021-04-16T13:42:00Z
-originalUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-tech-ai"
-webUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-tech-ai"
+originalUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai"
+webUrl: "https://www.law360.com/articles/1375927/financial-standards-setter-to-focus-on-use-of-ai"
 ampWebUrl: "https://www.law360.com/amp/articles/1375927"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375927"
 type: article
@@ -38,6 +38,6 @@ related:
         height: 467
         isCached: true
 
-secured: "LUGPSQXMg5PFuX7G7wM7MwTLB+1VN2lVz1fm+70+CIX4HDwYuCjwF0HMF3fzYcLBkrcu29tSlJHFszQwoi3pEad1LK9fxjHLDWxKPWj+n/BKPVqmRjjsenpywEhHSzq+jVStsTZZft4Hhldl3s3/I5gHhExxPBNZ9WSvTLj5H6YR7RjhFfYzs/K0SsmeR9TQGZbKVBqgcKzPbLvv/mEicMk/NwwQJ5c/Jp/BryLoX49I5hWdvNGet4g+D/QVkoNXVVhWC4C6VrahoNbCg+iLAtOCwhRPsCwH1n1VoWYaI2fopmB4470BuKZrH8mBRGFVHo1qr0wMLEZDNQjmSsSLVcJWhdZKBZLpvJQ7UDundvM=;qGGasfSNQqOmoqNrzzGqXA=="
+secured: "TenSYLL1q4MGmv/Y/AoRR3euap0L49tMMf7dScA77+IOgXKvb5Xce+GMWiXmjdwdkIwTN3zcPSHA9o9YCCG6pipjky4d+DIZ9rfQo7bI3CCwUpvjR+TFFscahJ2L57XsQLp7t5tnq/Gv9gYM1aX/dVfDrDtkxyEeeGBCEIa5tr4vTe0zKcxdnuxmbcOK+cVSQcgqBOZn4SUv2tPkaNyGvnnMgPX5e8hcDtcyeqK3YaBF8Spia3D/CLJbroqL8a6Ve4DzeMjArWD0Fp/jTcUuRfBa4ds12uf7YA4lljavxeD0OSgKaMyC2MomiZ6nDvYf0zPEJIDthYi2bOOfHCfZIrSDCd47H+86xW+xXIdRLcc=;KnQwHH6gu6CnCIOlFEFLsw=="
 ---
 

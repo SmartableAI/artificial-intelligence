@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ..."
+excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "PJyOsGbYLEtoP8n6Bnmf9Oul+78VW653ymBOZpw14iZoKCmz2dzU1Q/ktX97XpVvZ5u//F0J42PY9zYMPyiyx5w/0dMJu3jogDE3PgKLzQWjbkEgYNSuMx0tr5lOfy3/RY8EIG0PvgDaHHJfQ5HKYfnstpTspbkjKh50Oy0HG3gDQQtsDkKStuNJAh091Np4zGx9wS7lxujKUDnjJCEs2MWnBHDIsweSs0zN7r+Tuy2Lp7PbZTU+T/lTsZy/xAWiIQJeszSrfG3/YLzodFX0yQRq2WVyM7Hvr+opqquJ0BBcnmoF7GI2tPv7+Vx+HtsLOyPc/u9m1Vg7TKAi40uVxC+9H+W6LVDwd4JfJ1ciW6g=;XB6X0BI/IMbaLwueK6FirA=="
+secured: "ibnEJq7PhzeM72LyQZukI2uXC1hLxzBQ0KYXdoRYsK6Qbjg/xQ/BtKD7JXGhjsgy2MyxbundIeISNGzloy01kueLby57rV4ZwtnTXf4X5nSme6uNYW4JOVFU65lJ8fggWJ0QM69qwhpViPt9Cnx82GBbFD1HD62Gbf3ooiClPx2Dgi9tga0tx2tYng0vHJb0wTssVGTbc2wdxqpdZOsh6K8fXC87sSHpys80f9ZNi4x/CxqbrhGoIPw+asLhN4lzKdeUxfvF0HYYdRLga3N3NFd0us1hMlCRMuA4be3hM/IHcUP1j67HrNvkLhMGuUy4jWDRowtNiHMZuM1wvSm226S9qXAkaxvCirsNsO+l1LI=;xH9Yr2Y8hGZVaJ+IGtmRGw=="
 ---
 

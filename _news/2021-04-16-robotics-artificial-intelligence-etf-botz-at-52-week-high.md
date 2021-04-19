@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-15T22:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
 webUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
 type: article
-quality: 81
-heat: 81
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -15,10 +15,9 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
   - AI
   - AI in Robotics
 
-secured: "MRwg6qaz/fa98o6Y55p913Jidf9hIMJpvYsw4eEPP0AeJRjvND/lmWDzGG5OnjymEhxojazg/tF6ihMtdR5IRPVZGv3vNl6qM4P45BeLYiX6WYwEsFjS0d8qLVew1b39Nt04B6OpBip+ILhY+G+wu1wVWu8mXFF4vi6Pn2G/6UZXfe21nNfxrwAIbv5RZSWCTFthKb/hFTACgOsHH+xaG+NFw6YvZIdO50jzTYwcT36Hzb8HbyEB0yKA0zCykZU0EDaVQuYOsbWfPkFScMtZ+D4CvVRqbCYMAz9BRQ9Y65VIWFiKhaZbCeaQI5+KdKGlt7yLrDADYNfrr9V1OY7b9/HelPvkK1Cdrdhysk6a2UQ=;6aU6aYIk3OvuPfdYi1FP/g=="
+secured: "wbfC5x8EiSynV0x0dAqddXVfyWv2MuT9NGx0Uqd3gb8b29oJPq8gn1qZoI0T8bVm188TfnV+WIpH1BpT8VVHNu4umhCyK5ym/QFsZGJ8Xa0rkR6+T7DGkdhu/qTc/RRkUYEaZCmGS/uyFQgvUGiFonfY+T9lU7hAIBZ22Orcig8swAqjNYLWoBMqVCmEN/E7CaCG510PEwQ4NMVZKiCh4kvafJ4qW7E4PuSsp8hq+/tnT8WMuFYlIdiIHq1bK7UPkmgHtAcgkFYLuWCeVAwzvca8dzDkGajd6LrzifOrBkkDc/ff15D/++9ZavJVYb9lu6skw8V9VnOMr1/81L5aFuSCxDZtFmV5QS9c9uUsQo0=;ruhCb0MhHCSu4ybbGfKBdQ=="
 ---
 

@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Size, Growth, Manufacturers Segments and Forecast 2025 | Says Kenneth Research"
-    excerpt: "Apr 14, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Natural Language Processing Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ..."
-    publishedDateTime: 2021-04-14T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-growth-manufacturers-segments-and-forecast-2025-says-kenneth-research-2021-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Best Machine Learning Software in 2021"
     excerpt: "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today."
     publishedDateTime: 2021-04-15T18:20:00Z
@@ -169,17 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Drug Discovery Market Size Analysis, Growth Insights, Opportunities Forecast To 2025"
-    excerpt: "Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact:  The global artificial intelligence (AI) in drug discovery market is expected to grow from $0."
-    publishedDateTime: 2021-04-14T05:57:00Z
-    webUrl: "https://www.openpr.com/news/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269760/artificial-intelligence-ai-in-drug-discovery-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
   - title: "North America Self-driving Car Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
     excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
     publishedDateTime: 2021-04-15T06:17:00Z
