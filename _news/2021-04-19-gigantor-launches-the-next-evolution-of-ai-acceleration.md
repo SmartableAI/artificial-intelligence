@@ -1,54 +1,55 @@
 ---
 category: news
 title: "Gigantor Launches the Next Evolution of AI Acceleration"
-excerpt: "Gigantor Technologies Inc. is set to disrupt the market with its multiple patent-pending revolutionary technology, GigaMACS. Co-founders Don Gaspar, CEO, and Mark Mathews, CTO, formed Gigantor after analyzing the market’s existing approach to acceleration using stock hardware solutions or imprecise model altering strategies."
+excerpt: "Startup, Gigantor Technologies Inc., is revolutionizing artificial intelligence's high performance Gigantor Technologies Inc. is set to disrupt the market with its"
 publishedDateTime: 2021-04-19T13:39:00Z
-originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/gigantor-launches-the-next-evolution-of-ai-acceleration/article_7db17bb6-d218-5359-8ff2-d6c565ba4e9b.html"
-webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gigantor-launches-the-next-evolution-of-ai-acceleration/article_7db17bb6-d218-5359-8ff2-d6c565ba4e9b.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20682373/gigantor-launches-the-next-evolution-of-ai-acceleration"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/b20682373/gigantor-launches-the-next-evolution-of-ai-acceleration"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20682373"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20682373"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
 related:
-  - title: "Lenovo Accelerates Artificial Intelligence with Ready-to-Deploy AI Solutions"
-    excerpt: "Infrastructure Solutions Group (ISG) announces the expansion of its partner ecosystem and launches five new ready-to-deploy artificial Intelligence (AI) solutions. This growing global ecosystem of industry-leading independent software vendors (ISVs) enables Lenovo to bring to market AI solutions for a wide range of applications and industries,"
-    publishedDateTime: 2021-04-15T10:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-coronavirus-pandemic-be5404953b66450a97ff871dc8111f45"
+  - title: "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine"
+    excerpt: "Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible."
+    publishedDateTime: 2021-04-15T23:07:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
+      name: MD&M East
+      domain: mddionline.com
+    quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png"
+        width: 770
+        height: 400
         isCached: true
-  - title: "Lenovo Announces Ready-to-Deploy AI Solutions"
-    excerpt: "Lenovo’s Infrastructure Solutions Group (ISG) today announced the expansion of its partner ecosystem and launched five artificial Intelligence (AI) solutions. The company said the ecosystem of independent software vendors (ISVs) enables Lenovo to bring to market AI solutions for manufacturing,"
-    publishedDateTime: 2021-04-15T17:31:00Z
-    webUrl: "https://insidehpc.com/2021/04/lenovo-announces-ready-to-deploy-ai-solutions/"
+  - title: "Voice Technology: From revolution to evolution"
+    excerpt: "Distribution centers no longer want voice for voice itself. Today it serves as one piece of an integrated solution for optimized operations."
+    publishedDateTime: 2021-04-16T19:42:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/voice_technology_from_revolution_to_evolution"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 17
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 24
+    images:
+      - url: "https://www.mmh.com/images/2021_article/MMH2104_Voice_Voxware_800px.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "/YctouzVDrbX+mctxPESzDhS2urv4LxS0gZd/9LwK8SsPY8KEPw2Ad8sTfRSyDI+Lpxx6/4K1dkEWdmqt6v9EHMzGdOr9wlwuSjhJSiI39/eDq1E+mDp7f+4i/aVkSohnjpDITyFdMB1T7UOtdl2KyUtX8KyihwT62Bo3rPZUrPH8ZF4HuLtRBDQ+ylSU+YkSNImGoEKvoZ9mV+h6TPZolu9EtVhRbZKHDsAp8IZymrfg6qOGc/Zs3NLXH0eNrWXquQtNYIbASgG9+3gd11yjeg9fkK9YIrEFw6QzaPxZ6wsBz+lsmmWpxRY6zvfFHe8+0ldBJz5MkSLApeyWbuVBLTg62UjPP8jzQAi4kcmkPM=;Lty0XGRrzJT2K139gZgNww=="
+secured: "Njs7y/sLDuTO5Gw0YlQXAFfKaeUpFw8eKU7QAR52lgnk/wNf+nyCLfN5EMAzPF1oxQBgFew5dpjjqystxC0LBNRIvW73AAo55eXcyqfj1byvGAPy1y6vpvWyKsZ/k7f/kEkts9USEyCo+YBwLwmNOhKc4n/jM589CIp4YvwnX4Fm0Wbd5mitDyXwsFDf4P5iPHnGT9j9bANnBIa21DWj9txDsFq/P7+ozVnvaObM1WlctjxKsxoLtbwlqNLnFO7FSYv3XzmgXs5Xr1apN8bR66L9NDCNKvovJSzTK0xEYmTmxazI0clqyEH0Q/l+yhWUZjRgqPflvN3nFuIILJNbgnKhln8uxtu4Q9WZQxvFSoA=;5sH3vR/tAk4p+r9Q1M1J4w=="
 ---
 

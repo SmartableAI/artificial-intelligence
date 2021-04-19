@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Companies wary of unexpected outcomes in AI adoption"
+    excerpt: "Half (52%) of companies with mature AI implementations say they check the fairness, bias and ethics of their AI platforms, according to the O’Reilly 2021 AI Adoption in the Enterprise report, released Monday."
+    publishedDateTime: 2021-04-19T20:57:00Z
+    webUrl: "https://www.ciodive.com/news/ai-fairness-ethics-bias-risks/598660/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/e6/aa/e6aaea614ed299010621172ab9693560.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "4wblunla5f9rBB0USWQyV+Aa+NyDNJIVD1XlaBselGd6jWs7gHwbvC8Z9OJ8R4rrNiBj0uvo0zVwjoFF0+2E0mpBj1qf1G1Hkd0sAWI46PsC1680ZludwfjIWRHJYF3kd40ezLWbIS/zxC84PnR4G5ivizpJFBT02OzuA8W2Mq4QAfK+00jc9Nrsh8OyoIKiPQ5sTvpM7JKTaIZbMR+qZgIoMPjRx+rJhgpEdpsPhzaXPH/cEdPj95vSIrO6CI7mo83LbOF3EfZ2VB8t414Hp/QZxjYiESuLD+NEKyFC2hGqZUJcFQ73QO9WymdVFH/1vcHvJaqSNide6UWGKyf0iy/T8TDtTS2u3LCEesCbDtifpqPi04O4fp8NxSAe7aWUunsZLwwf0FDUZT4YACj++iqPQqjtapOApJ2xkE+6z5F4Szdxs+L8/Hhyeej1BzLx3R0p9rLeWNn0Lkri3bG1AEAo9Wo6xPj6bqv4h2Vpy7T5nbn1dOp6akQU9ETzowqRW7p4szJNz+jsAyNuBg8PVg==;dIyjr09tD4dpJaShHXiNRA=="

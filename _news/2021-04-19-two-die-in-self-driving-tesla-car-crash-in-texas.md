@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
+    excerpt: "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla. You're warned when you pick up your Tesla that this is just a ..."
+    publishedDateTime: 2021-04-19T21:55:00Z
+    webUrl: "https://www.kcra.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    ampWebUrl: "https://www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    type: article
+    provider:
+      name: KCRA
+      domain: kcra.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
     excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
     publishedDateTime: 2021-04-18T21:17:00Z

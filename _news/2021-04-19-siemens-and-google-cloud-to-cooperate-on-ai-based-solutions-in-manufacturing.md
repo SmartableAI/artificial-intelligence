@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google and Siemens teaming up bringing AI to the factory floor"
+    excerpt: "The companies are joining forces to create industrial applications, optimize processes, improve productivity and help manufacturers innovate using AI."
+    publishedDateTime: 2021-04-19T20:13:00Z
+    webUrl: "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Siemens partners with Google to offer industrial AI tools"
     excerpt: "Siemens gives Google a major partner in the manufacturing space, one of six key verticals the cloud company is going after."
     publishedDateTime: 2021-04-19T07:01:00Z

@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "Li Zhenyu, senior corporate vice president at Baidu, made the remarks at the 2021 Shanghai motor show. Baidu established its autonomous driving unit Apollo in 2017. The unit mainly supplies technology powered by artificial intelligence and works with automakers such as Geely,"
-publishedDateTime: 2021-04-19T04:27:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
+title: "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years"
+excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,"
+publishedDateTime: 2021-04-19T04:06:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 67
+heat: 97
+published: true
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
-    isCached: true
 
 related:
   - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
@@ -52,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Baidu's Apollo smart bus gets green light"
-    excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
-    publishedDateTime: 2021-04-17T02:22:00Z
-    webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-04/16/AT_997a8602-8image_story.png"
-        width: 2041
-        height: 1356
-        isCached: true
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z
@@ -81,6 +65,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vEdDV3SEWhH9WOCipSVzbouCSZebxnOZZQKytsHoAXOvmDYhTo8SP50HPvuWOPa9+8FmpmyhOiMvMLyKh2KnY3zvcr/JQSsdDsowpFjDSbf4SAqIR8q3gZA2PC0+UWck/00+rg7G4UjHAx2wp/mPrUQpMbTAV/GCwHvNLuWCGnkrzqC6WG3yG0t1evpLNshxosd+8sMa1dqXJmn0UT7vNbo2xWWUnPk8aQMpLxFrBC62bacGHcFIoUJdAsr+s6IomYVvvGjgGQhZ4eB5Je+hHFFO0bNaaH7jfcrPWyf67suXupjTxabhn+RKtZfzw4wudMM2AYzYOUJIqETXO8wS7uv4N2DOq3UzMGQ257/mIy4=;QO4tcorb7zjL06szYDLsYA=="
+secured: "wHi4Wa32SIcPDyKkOw6W30kyDacg5Wor1DoOg9SUzB1ev50GGvwA/HuN2crLSOHQGaB/O9nI7Y3o2i+dGcZdJ/EVVNBLL9FJqpv2HGnRw5pJ41NJLjgNEac2B/XUWfyDNmRVhlfu0w4edaUlVZsxOf+j+sLPRa0/RUenfkGzVLcbrcgTKlMeOdewms3hzantf4Q5P60+Yb/IyygkXYTjP2U0xji6B1Zx0BxauXUKxsRtAb+N3M+kVtUnC6zCvJ7Evu9mvqYUB5pLlTJ1ki1P8l3lYb0w57JcmftrOpwLgEKDmpI9ML6qm+JhElC/WWdGLf3f24/+g9QOpe6t3FXZKkMcQNFPlNujsAg4kx1wO3N+vHOnV3Fmu+OCIFxMaUmKirjaVI1KSsy/GjkNKg+oa+kbEGpasegMcI3sBmdqFsZGNKBkomg58K8bHo+z8o1SsfB1XXp8zsk7C6dsDrC6fGfc+AMtAVxg4wDghDlJHr8pVtowHmMj2EaGfCZ3voeoW35EG+Q7xi8nG4uaUPm2yA==;GX/xsqDAKOPp4iN42K9qqw=="
 ---
 

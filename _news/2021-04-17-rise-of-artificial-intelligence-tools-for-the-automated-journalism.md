@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Companies wary of unexpected outcomes in AI adoption"
+    excerpt: "Half (52%) of companies with mature AI implementations say they check the fairness, bias and ethics of their AI platforms, according to the O’Reilly 2021 AI Adoption in the Enterprise report, released Monday."
+    publishedDateTime: 2021-04-19T20:57:00Z
+    webUrl: "https://www.ciodive.com/news/ai-fairness-ethics-bias-risks/598660/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/user_media/cache/e6/aa/e6aaea614ed299010621172ab9693560.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "BPt0zsuADEqp+/AM8TFLj/cI65vGftyFQNDRtMG7xBtfHMfotHIXmNRxjXzdK0TGM83B8DXJXleFSgmIZxr7F0lFkhZrK6EUYw1pctZWl/IXx9MfmyZR0mmGTKVC1pBvVm/mg4h3KsiYBVQ26T00IfAL+NXlHCWcI+OcQbpbA3CGxCJUDyGI9LTNJCHiATj7Tgcqlkbwz7VKKDEEGaADmoRxSK3oygZMLL5cB/judknNH3IaQlbnEbOGm+U+cNbzOxY7OTl/+Xe/JrDomvu0W4FqD7bcXs50AaFFP4C77n/jVMBopZbNjovGs9SSIvpFrPuNM7Ak7WrZQQvLH7t9aZrfFWXGZDlyvxlNI809D9GGUlSImOGbkIicyQFYDHwYVPG3uU1Vmi0kCQZela1FTtq9E0sahQcBBkqTzRtqw8x8EBOuqOwuhgrkolSpwb/QKFDnPz1Efv5wVE9uxeUa8GMJHfhoS3PNsFDRa41P2YZpvrPuroIc7SW+/hq0lfqvBG6T4M3xcb78+G97wGTipw==;cpDfmNvP/dw6Fjdq7mHsVQ=="
 ---
