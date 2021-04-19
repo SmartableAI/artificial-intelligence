@@ -193,49 +193,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-17-strategies-driving-adoption-of-artificial-intelligence.md",
-      "title": "Strategies Driving Adoption of Artificial Intelligence",
-      "excerpt": "AI (Artificial Intelligence) has been around for a while now. More than half of the survey participants also indicated that there is a direct correlation between AI adoption and superior business outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/",
-      "originalUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg",
-          "width": 1600,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-04-17T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
       "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
@@ -244,7 +201,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1415,6 +1372,49 @@
       "provider": {
         "name": "Just-Food",
         "domain": "just-food.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-dominos-and-nuro-to-start-robot-pizza-delivery-in-houston.md",
+      "title": "Domino's and Nuro to start robot pizza delivery in Houston",
+      "excerpt": "Domino's Pizza Inc DPZ.N and Nuro Inc, a Silicon Valley startup, said on Monday they will launch a robotic pizza delivery service in Houston this week as they seek to satisfy increasing online orders during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/",
+      "originalUrl": "https://www.nasdaq.com/articles/dominos-and-nuro-to-start-robot-pizza-delivery-in-houston-2021-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/B4HR3XMWWROH3K4V6SMATGKLSQ.jpg",
+          "width": 5011,
+          "height": 3341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

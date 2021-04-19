@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-launche
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CNN-News18
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "IIT Roorkee announces online certification programs in Data Science and Machine Learning"
+    excerpt: "Indian Institute of Technology, IIT Roorkee, launches online certification programs in Data Science and Machine Learning. Prof. Ajit K. Chaturvedi, Director, IIT Roorkee announces this through a press release."
+    publishedDateTime: 2021-04-19T10:00:00Z
+    webUrl: "https://www.timesnownews.com/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
+    ampWebUrl: "https://www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 50
+    images:
+      - url: "https://imgk.timesnownews.com/story/Machine_Learning_and_AI.png?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "W23I/R4No0MjrLNO2kHNGivP48myCs5OaR2NZvi71lqsVrWI6mYKbTxjJFQucC8MPLlLlBnXK7K5Dub+nLhmqinnhH308CJ97DZ7E6yspRLhpiWiGEEfMqXF8C5hquOTaEP0d99Hi4ESaDIelLd4T99Yz3iL7C/IrmSHm5KiFDVOSAHuywr9agepQWKhAi3nQHVgAZowVfwUf2B1tLVaro3+edL2Sr2vdkxCpIbbjoJMB/pD9/gVylLf3d+KPfP34mqPA8FXb6h6qtsiX8ac5hrMfWycJ0FA3I15fLGsuIBGBvdNr3l1tMJpcBie4VkOYAi9uUE/OrAL0T1lq7UtA7H4f65qLNYnZtwT1yjJLZIoC7mI5dDHJZQz4ft9cSQ0V3sSlerIamZJ8bP2xEMMdXkeqVRF4+qRuc+yzUSFk8bZD4I2pxT6DU7eN8syYwHAGI/kAVVUhZv0H6MxpZ8qdmOvgFvNfhbk1ZaLdo4QT3ingJT3p2iECfU8+pd5xPiqSzg8fR/k0075ivfSIeY1Sg==;kZkGlqwun1iT2Do5b7Ze9g=="
 ---

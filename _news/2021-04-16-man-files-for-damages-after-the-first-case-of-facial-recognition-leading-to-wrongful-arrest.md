@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-th
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: IFLScience
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
-    excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
-    publishedDateTime: 2021-04-14T18:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
     excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
     publishedDateTime: 2021-04-15T02:02:00Z
@@ -54,17 +38,6 @@ related:
     provider:
       name: Law360
       domain: law360.com
-    quality: 39
-  - title: "US man sues police for wrongful facial recognition-based arrest"
-    excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
-    publishedDateTime: 2021-04-14T18:32:00Z
-    webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"
-    ampWebUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
     quality: 39
   - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
     excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
@@ -94,6 +67,15 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
+    excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
+    publishedDateTime: 2021-04-16T22:54:00Z
+    webUrl: "https://www.consumerreports.org/law-enforcement/facial-recognition-in-shoplifting-cases/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 19
 
 secured: "x+HI4QDExubJDwiD7ktFYEsk+QqaqYg58dP5xIoTPjb+qNzGupg/6JVfXAE71XYTEq9i8NgETE9z9l4IN2jv/nwK5oLdY9PLjEOTssyRiK87N92Giyoie2aV/FUYQm66Z5u5sCnG4yMtUwZNeugcJb6hBd/NVkafR/1pD7fHoZdBYDIYhkv7TJY3/Ysoim7ZKRcT3b32i99UBZv/q9ml5ZxcecqFH8loOuFl1aUh+LvNdEImRqa8PwAgXMAdCjsg7H1FCq/YTrzLcxYxFp+W40yPLTPfYW8uj19pcAAwfLRqs+NuqJx7slSxa8hfn+rceIMBNrAMaFYEpHnfNrYL8Orh2GvmF0PtVr118mzl+0/bEUKWdiYEfX7jz6Y2kFpnTUcotHwXyx6NVBEE+WF/o3HSXXrGuSqOEJpSUY5ESPvIYDGgDUieFvfS/heJoyavwclhFV0kEY2w4/lM7Weq5GAdN/rI4ktnd56t6ampqY8ThWR9fbo+Ik7RqlGzv2MvZabIa7MegSbfl7w+7cqC+w==;7qZx5n8KPf3l4xWvKTuRGg=="
 ---

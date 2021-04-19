@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI and hiring bias: Why you need to teach your robots well"
-    excerpt: "AI tools like natural language processing flag resumes that speak your company’s language, or at least the language of the job posting. This is great, until you start noticing the unconscious bias in your native tongue. If you use AI to narrow your ..."
-    publishedDateTime: 2021-04-14T17:39:00Z
-    webUrl: "https://hrexecutive.com/ai-and-hiring-bias-why-you-need-to-teach-your-robots-well/"
-    type: article
-    provider:
-      name: hrexecutive
-      domain: hrexecutive.com
-    quality: 54
-    images:
-      - url: "https://hrexecutive.com/wp-content/uploads/2021/04/AI-Bias.Social.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "EewNAEWm7exk315IhCFhTToUhsqY13/WuK8XlDAbxuv46F+iUIp2GY6nb5UucqjR/Q+RTJG7/1GP3aw8TaeSZcsni5cjoYgb07r3vk/U28LqOAVYDx34oYlhGbAJYeQw+Nuk7yhvK4gVLn8qQ6OoXsUjXFJyfrf4/9h5gZ87dv0Wi3Hi877G5EIMcxVUgE7jNSBHCABIEdkKwB4MrSbXORPvQwQONJFEGosbJOTMH9WSbXduWAItTSJ/4/OJNjtuVBGq95rmw8N1ASJMLpe7UXyBTRCGW/rtZ80fz83b2kDkrMKLnYXcfNdQtgDIu3JLf0JTX6iE4tclWaJNGtK+m4rH4Qp7CKIj0Y+nC+Rvcbq+E2lBKyifemcYlIaQme6lXU+sqoXbnqfEfnC0o9Abh/Y5L5O/i9WsHwmXdFg5y54nsJ64vlIGOxYOhUQcmI2co0DakfiF2lgdGzb1Y/yuO49peM0Cc1QtlZ8X9MgJ27KuAJUvbgEfqeAJSWybqwfOqbKMCtx4dJDhciuSCOYIaA==;/zUOxcd+TFC3CAUUF70+2Q=="
 ---

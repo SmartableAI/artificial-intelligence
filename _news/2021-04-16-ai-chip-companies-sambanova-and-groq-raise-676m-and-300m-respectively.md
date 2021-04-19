@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-samba
 webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
-    excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
-    publishedDateTime: 2021-04-14T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg"
-        width: 538
-        height: 411
-        isCached: true
   - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
     publishedDateTime: 2021-04-16T20:24:00Z

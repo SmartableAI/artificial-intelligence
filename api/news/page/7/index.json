@@ -2,6 +2,207 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-how-iot-and-artificial-intelligence-are-the-perfect-partners-to-boost-business-productivity.md",
+      "title": "How IoT And Artificial Intelligence Are the Perfect Partners To Boost Business Productivity",
+      "excerpt": "Thanks to the Internet-of-Things (IoT) and Artificial intelligence (AI) which has transformed the business world by storm. Indeed, they have made businesses less dependent on humans and more dependent on machines. The result is ultimately auspicious!",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369230",
+      "originalUrl": "https://www.entrepreneur.com/article/369230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618291364-alexandre-debieve-FO7JIlwjOtU-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369230",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369230",
+      "publishedDateTime": "2021-04-12T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
+      "excerpt": "The powerful robot vacuum DEEBOT N8 Family delivers a more powerful, worry-free and automated cleaning experience   JAKARTA, INDONESIA - Media OutReach  - 13 April 2021 -  ECOVACS ROBOTICS , the world's leading home",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/N8-PRO-mop-1.jpg?itok=lwWr1lI_",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
+      "publishedDateTime": "2021-04-12T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
+      "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
+      "excerpt": "Carbon Robotics’ Autonomous Weeder uses artificial intelligence to identify and zap weeds growing in fields of vegetables. (Carbon Robotics Photo) Carbon Robotics, a Seattle company led by Isilon Systems co-founder Paul Mikesell, is unveiling its self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
+      "originalUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/photo3-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/isilon-founder-lifts-hood-farming-startup-carbon-robotics-weed-zapping-machine/amp/",
+      "publishedDateTime": "2021-04-12T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks.md",
+      "title": "How Machine Learning Will Enable Technologies That Anticipate What The Brain Thinks",
+      "excerpt": "And now, converging with advances taking place in machine learning, BMIs are on the verge of entirely new capabilities. The Problem with One-Size-Fits-All BMIs There is a tremendous amount of engineering that goes into developing BMIs. State of the art ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606f78e1c80df8df6e0b0c6d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2021/04/13/how-machine-learning-will-enable-technologies-that-anticipate-what-the-brain-thinks/amp/",
+      "publishedDateTime": "2021-04-12T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-how-to-ace-a-job-interview-with-a-robot-recruiter.md",
       "title": "How to ace a job interview with a robot recruiter",
       "excerpt": "So, if you are faced by a robot recruiter in your next interview ... Aida Fazylova is CEO of HR tech startup XOR, which uses AI to automate the earliest stages of hiring like applying, screening and getting scheduled for in-person meetings. \"",
@@ -1061,186 +1262,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
-      "title": "New Advancements in AI are Changing Healthcare as We Know It",
-      "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "publishedDateTime": "2021-04-12T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation.md",
-      "title": "HelloWoofy is an AI-driven social media manager that can save brands hours in content creation",
-      "excerpt": "Sponsored Deals HelloWoofy Social Media Management is poised with all the tools to take the reins of your most important social media platforms, helping you generate content that resonates with your audience,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "publishedDateTime": "2021-04-12T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-musk-reveals-details-related-to-teslas-artificial-intelligence.md",
-      "title": "Musk Reveals Details Related To Tesla's Artificial Intelligence",
-      "excerpt": "Tesla is using computer vision and artificial intelligence for its Full Self-Driving technology. However, it also has many other practical applications.",
-      "sourceUrl": null,
-      "webUrl": "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/",
-      "originalUrl": "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.motor1.com/images/mgl/9qkQv/s1/tesla-fsd-with-beta-renderings.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/",
-      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/500502/tesla-artifical-intelligence-future-musk/amp/",
-      "publishedDateTime": "2021-04-12T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inside EVs",
-        "domain": "insideevs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-vertical-farmer-appharvest-buys-robotics-start-up-root-ai.md",
-      "title": "Vertical farmer AppHarvest buys robotics start-up Root AI",
-      "excerpt": "US vertical-farming business AppHarvest has acquired Root AI, an artificial intelligence start-up that uses robotics to collect harvest data, predict yields and evaluate crop health. AppHarvest, which cultivates a range of tomatoes in indoor farms around ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx",
-      "originalUrl": "https://www.just-food.com/news/vertical-farmer-appharvest-buys-robotics-start-up-root-ai_id145522.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i4.progressivedigitalmedia.com/3/2017-08-09-10-03-19958918_1672264276138920_2939318213788909041_n_cropped_90.jpg",
-          "width": 424,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just-Food",
-        "domain": "just-food.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

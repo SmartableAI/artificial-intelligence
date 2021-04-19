@@ -72,6 +72,20 @@ related:
         width: 1000
         height: 543
         isCached: true
+  - title: "3 Ways Artificial Intelligence Is Changing Our World"
+    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
+    publishedDateTime: 2021-04-19T10:03:00Z
+    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 39
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
     publishedDateTime: 2021-04-19T02:52:00Z
@@ -82,6 +96,6 @@ related:
       domain: ieee.org
     quality: 34
 
-secured: "ElJx95H2nJyWxPS8LZANlLOfIbnlVHsZeTmOSuAF241twzb8B37KFcLh6DKt4xDBszHw4n7jDDmKya9LGwQjPL2sk39kEHbrUY2X6Z+w344gSXnsjMHxm2M2EzkRm0fOKpRVra9k8meXmw9HHDAMvp5bdzBfwcyr3ZIssv0rtf6TYmJH7h62dsnofys43mTOlXALURs7aswfiqXu4xpbXNwEctgUfWOwx7S+OVtcgvdviRVZwx4Ethdj57ju1nUT2nOj+tgWfUKNJTTgZE/uY5LnpzgFNGyrECGVMxJOUMx/Pg1GEWUmRKW1qM8CABYLBk1nVVdSv8r40x3CmeGfrO67qcQjtYP5/CAfgKhdYgs=;NvcRHEH2fVHMUBnoS8Infw=="
+secured: "0t41784Muelbk/XPXJdnlmUWQ00sSH7KpOB1jEDzlPUTkFtD2wgz5hoNhTgcg1RKpmHzav1QpH1qLbwiA6Q6oADMoncYmytlWOD/gc5O/Bz+roC0oIMDg4dDlZq4sRV6ntHIBaku7XAkdZk9qIxOlkY3jubXktUjpkWI6HyqKMs/Psk9vH7rfvsXi6OmmsXYZ7eI6wE63y89P1Xvy6E6DCwKSYfthBUiWA7cEJZxpxXrg8khzpg3KEQFg2JVOLhjJVlpYnSTdVUzLj6gbzoY7pfOG2uypHX6AWSVNHjA/Ctcs1K1pZdK/Cgi+OgxEsUjxQtDkfWVaeGTfqaWFhCGo5a5Gr47aCxG8wACJnFnhnHJbnIuiP216fu2uaAQWgSCziSjso1jjcZYPCx6J+9c6j0XP2Bq+fmw2sijxbLPuODOV6u9hx7wb0+tltya2PF3njCHcmT98oOi4d/mzU5vtm1b3Gfko8+gHk2eKZf7aKxSPO+/Weo7plf5dbfpmQnuq5N8a0xWOhlMfVp0B6Q6Cw==;iicRLCgva+Os8RiXbrYXig=="
 ---
 

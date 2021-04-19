@@ -2,23 +2,27 @@
 category: news
 title: "Williams AV Announces Convey Video - World's First Pro-AV Real-Time Language Translation, Open Captioning, and Archiving System"
 excerpt: "\"Utilizing leading-edge AI-based technology, Convey Video enhances communications across boundaries and languages. Whether it is enhancing comprehension in Higher Education, translation and ..."
-publishedDateTime: 2021-04-15T22:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20653055/williams-av-announces-convey-video-worlds-first-pro-av-real-time-language-translation-open-caption"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20653055/williams-av-announces-convey-video-worlds-first-pro-av-real-time-language-translation-open-caption"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20653055"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20653055"
+publishedDateTime: 2021-04-15T22:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
+webUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1489012/WilliamsAV.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
 
 related:
   - title: "3 Reasons Why Localization Teams Should Be Thinking about Language Operations"
@@ -36,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "3mUndQy/IrOiS4O7jWXbLNjeIYHv/gpoyAFaE2znd86hxMXBGBOYNaHsElfOvEULtpncK1Ho6bjaNT71ZlSJzboYKovgST7kMp/w8XYlRyjl4sM2/j3/HVqbt8cBLupsv70QbXa8CQlkqE2b0Rf+BD/qURy5+/GjWQFWfPCe52lmvBW3tkCLl5yWfcnYoyMKWk5pXr3z1n+RAPjb9NXVTaBK66/9p2NqYzZH8XQhZ9pLTKwlkdXX8istZZrjDugR0gVFo5b/JtpT09LELWPgTn0p6O8Nw75KEqemWyKFCoXxAcYZqq4ud+AoEvrljTco0XmetboXxOA63qF9DO0PVoLwr9Jx1Dq8aGDgKgdVc0c=;EJZFtP1m+Y6UQbjNYwV52Q=="
+secured: "/UrQtfdA4EDfjxgdsIsBn19sHTIdY1ZorabDMUj3Erq+11UIsWb4P9eUeW9kOtQNY+4sW8mKBih81naTfYRnvsZrkmdvro8SVsSbgY8iKke09yQ/0w27BD09OR2T1zTJzxhk+IvpqucCJyxWp3Gqv9hMtl1sRAxFCaw2/L/v1t4ke2X0DYmsPhNpFoVXVZmxpsEjKWdEc8BEIKdON8+DFf6D7+BYlV5P7LGcOti1CHlzJaOBGz9vmeQkRx4B7hr680XDhSpVT33c0vkmbrAnPvhUS+H/aBr/4n5WikTsIsq+fXwnj2PYfQ3bjAyQKsEELowbVffqEaVwtLh7ZhY8MJDvn5BRVh9EAi1lwvaYbwE=;U72iz+GcXglDIuYLwXpbYA=="
 ---
 

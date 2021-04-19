@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Computer Chip Biz Groq Closes $300M Series C"
-    excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
-    publishedDateTime: 2021-04-14T18:15:00Z
-    webUrl: "https://www.law360.com/articles/1375106/ai-computer-chip-biz-groq-closes-300m-series-c"
-    ampWebUrl: "https://www.law360.com/amp/articles/1375106"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1375106"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 54
   - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
     excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."
     publishedDateTime: 2021-04-19T06:48:00Z

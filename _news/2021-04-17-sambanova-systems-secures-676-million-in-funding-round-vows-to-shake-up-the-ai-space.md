@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?"
-    excerpt: "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far."
-    publishedDateTime: 2021-04-14T17:56:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg"
-        width: 538
-        height: 411
-        isCached: true
   - title: "AI chip companies SambaNova and Groq raise $676m and $300m respectively"
     excerpt: "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn."
     publishedDateTime: 2021-04-15T18:32:00Z

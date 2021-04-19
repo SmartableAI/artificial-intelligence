@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-futu
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Three practical ways AI will help finance shape up for the future"
+    excerpt: "AI in finance is capable of much more than shortening processes by a few days here and there. Erik Zahnlecker of Sage AI Labs shares three concepts that make the most of the growing financial data available to customers."
+    publishedDateTime: 2021-04-19T10:25:00Z
+    webUrl: "https://diginomica.com/practical-ai-finance-future"
+    ampWebUrl: "https://diginomica.com/practical-ai-finance-future?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/practical-ai-finance-future?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2021-04/shutterstock_1728847657.png"
+        width: 740
+        height: 450
+        isCached: true
 
 secured: "lst8/5WseYY+SQTSsc2p/h+/mJRh3Vstl5cRCgPZOxmS4sZf9t7aN0c+CK9TXj1/L5aodC8CPDZ3e2QMxsoZtHOHiYjqwPn6yVzTVpixfSBQsfrzJFJHrb9Gi7W7jpZ1hWk8RFFGZrofauDFHLxtHQNBuhGcdn8/kcAYCT4cview5jITVwtKwsiGpjZp2hWuRQEJYXZe1EJOp8VBkZ/LnXIrSduLayriTjjmir3FrQa2PbmnXaTfenP7ovAOWXAHyk8ydQcxeOjiNR6iZ95v4I2o+ga89nrMWlJ7wtuSF1DxtWQ0YpnqQeXPLGd3tTIWNKiTFgWCQfu2ZRWJmRd017A0v6OKwDeP3A+6otVbOts=;hCf88ycda+jWxaIFEV2GTA=="
 ---

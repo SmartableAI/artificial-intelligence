@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Legal AI Software Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "AI-powered software takes over the world and is used in most of our lives. As technology advances further, these devices will find more uses in the food, fintech, legal, e-commerce markets, and more. We believe that these technologies are the service ..."
-    publishedDateTime: 2021-04-14T17:15:00Z
-    webUrl: "https://www.openpr.com/news/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270421/global-legal-ai-software-market-2021-growth-covid-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/4/U414630144_g.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
     excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
     publishedDateTime: 2021-04-19T05:06:00Z

@@ -19,19 +19,60 @@ topics:
   - AI
 
 related:
-  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
-    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
+  - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
+    excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
+    publishedDateTime: 2021-04-16T10:52:00Z
+    webUrl: "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
+      name: IFLScience
+      domain: iflscience.com
+    quality: 51
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
+    excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
+    publishedDateTime: 2021-04-15T02:02:00Z
+    webUrl: "https://www.law360.com/articles/1374707/detroit-pd-sued-over-false-arrest-using-facial-recognition"
+    ampWebUrl: "https://www.law360.com/amp/articles/1374707"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1374707"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
+    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
+    publishedDateTime: 2021-04-15T15:33:00Z
+    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 30
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "ACLU seeks to make facial recognition use by police a civil rights issue with wrongful arrest suit"
+    excerpt: "The suit alleges violations of civil rights law by Detroit Police, which the ACLU has consistently blamed on the use of face biometrics."
+    publishedDateTime: 2021-04-14T20:43:00Z
+    webUrl: "https://www.biometricupdate.com/202104/aclu-seeks-to-make-facial-recognition-use-by-police-a-civil-rights-issue-with-wrongful-arrest-suit"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 25
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
 
 secured: "XVu/A2H4G21ZZNlcVK8j2W/WP+A1IpUXtGUrEhE5XnCK1mDjgM56Dv4+P/5p8F61Jew75YXd5WR/vkGYhf1z5lXM08zBZ4yVY6wGX4pwPPLjRNxOvPWJwNmq7RfWz+mlq/y/1iNe+xBXi9IfQ1IDhn+QWn0JZbcoRz4BPTUvEAbEDHeODnuW6hpRKnkf9rr8t4oX/AJ92piuSXDEnFtZm+moshsZQpEEFaDpGLRHBNJWmO8ziMbe48L24N/FqVL5NsxbrSxcPoe+SaI/pxYd0VSlvi8VOOK1Lgwb1FwIJOihqXrJBWEbWNHvOLIotbaYcbGF901MxSgSRCBJyC8HutXeGKEhEJCiedzAyz31oTMr1Ft6qR3ymgAXJkkTi0pWScGa+3W1IZHdDZvTJPQK5L5BwFkrbU1qGXozIrZ2nZHKnD7YoZefs4EtZQNsyrml2gQnwZ9B7ixKrcMCd8OJJ8gHntM+tniNvz0yVf3RD84wbT8SfvAhYEQZSPPHAbXZ2rhDDBB8kj586Wy46EtA+Q==;8aN6oyvYdy/Mze5moZl2OA=="

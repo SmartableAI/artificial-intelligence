@@ -1,27 +1,30 @@
 ---
 category: news
 title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
-excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases"
-publishedDateTime: 2021-04-19T09:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
-webUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
+excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases from images. There are several eye diseases such as diabetic retinopathy,"
+publishedDateTime: 2021-04-19T09:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
+webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 64
+heat: 104
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -41,21 +44,44 @@ related:
         width: 1600
         height: 984
         isCached: true
-  - title: "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine"
-    excerpt: "Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible."
-    publishedDateTime: 2021-04-15T23:07:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine"
+  - title: "How State’s Disinformation-Fighting Arm Uses Artificial Intelligence"
+    excerpt: "Emerging technologies—and partnerships promoting their use—have proven instrumental for the State Department’s Global Engagement Center, a hub that steers federal efforts to counter state-sponsored propaganda and disinformation campaigns aimed at undermining the U."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/how-states-disinformation-fighting-arm-uses-artificial-intelligence/173401/"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 36
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png"
-        width: 770
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/15/NGfact20210415/open-graph.jpg"
+        width: 400
         height: 400
         isCached: true
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
+  - title: "How Artificial Intelligence Can Tackle Indoor Air Pollution"
+    excerpt: "However, as countries have begun to open back up, pollution levels have rebounded to pre-pandemic levels. Scientists at NASA noticed NO2 bouncing back to near normal levels in China three months after the country"
+    publishedDateTime: 2021-04-15T13:14:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779290-how-artificial-intelligence-can-tackle-ind/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 32
 
-secured: "XxUMZVbr7P11ihb2WBMqo01FZiHrg1eK1HVQ+95c58aQYToQycBDAULwdXlYr4KkQ4sC6wTDTO9clZQofUtCzLCWzP4sVWKrUraB5zLQDB4P03yVvLVajS/xjZnECjOLabR173+0yTEmq/vEzMBXB1csTd//yz1LanY+Iav79LI579jah0iKqFOI8/K7mTi52+diNLOVxzlUzgPqj3JgG7TPQAugCY23GeLwoouXvZOwesBKaB2QJUevPFEtqGBKRHDAwYbMHQ+3tHXnEXTX8SiP2WHuuEqyuvj5vrvznDLJC8YrfSp49IirFmmNwL29OauPNIEc3sxJrTckCw9JjKf/lHPPhytJD2pIyZfd4Mk=;JM4rk5bcqkh8CXq/lgoXsg=="
+secured: "gAjB9RllfpJvxNFoNI/mfYSOQ65iWw2a2j7QFcFSsBtFb26kQzF/jnRnROdzwiwFB3WDipEBi7lvLlZA40vlx1zf2/2UK8CHdNsy7ZukZ+hhDajU2Dk+3AhN+L5FQjKwB7cFzrOadUBP+7aZx66uBLcFjitD2+bLaOZ7eFnEf5ShzVn/GqV2VAHojVes6TTlXkji/DoN1tYrKYKsqEnJzq5TGZ//jJa0Imom9tquN/Qk66Q7preUt6tzBnTYL4yfjP1Q5A/SqHAlr4v2fdSu8D1XFFSIEWMbAr+xUAjzzVDWSiubQ7dbtaR8ZjF3xytw9N0pGg+A1C01VnH1EjxwGNkHt3m6Ry5Kqv6xC6Ylqas=;FPsHbQO7pUBLtVugukvqyw=="
 ---
 

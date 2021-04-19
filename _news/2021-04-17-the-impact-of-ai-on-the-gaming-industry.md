@@ -73,6 +73,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "3 Ways Artificial Intelligence Is Changing Our World"
+    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
+    publishedDateTime: 2021-04-19T10:03:00Z
+    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 39
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
     publishedDateTime: 2021-04-19T02:52:00Z

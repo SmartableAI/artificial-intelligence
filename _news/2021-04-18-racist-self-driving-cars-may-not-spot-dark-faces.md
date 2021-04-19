@@ -57,7 +57,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Are self-driving cars inherently RACIST? Autonomous vehicles may struggle to recognise dark-skinned faces in the dark, experts warn"
+    excerpt: "Law Commission has warned autonomous cars may also be prejudiced against women and the mobility-impaired, because their operating systems have largely been created by able-bodied men."
+    publishedDateTime: 2021-04-19T10:20:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9486453/Self-driving-cars-struggle-recognise-dark-skinned-faces.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9486453/amp/Self-driving-cars-struggle-recognise-dark-skinned-faces.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9486453/amp/Self-driving-cars-struggle-recognise-dark-skinned-faces.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 14
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/19/09/33167216-0-image-a-2_1618820927003.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "4e1IWEn4yvSfcL45UM3sw9iScPo9IRanEPiUYVQAI0VxVSZ06Gffj+7/CGTEi3p3pnOgDr0excOctH+ir2MHY+9Qo+cZ+je0k8Rq69uKCM8F4GpnKilv6EqlWYGvQYocDIFCmdsEukAokGZtbXhD1DHpXqJ4EglXxRhS7vl9E7VXGJ+LaqIoMtXSIuJZkAglqWFfOfiNFBmy7EqYN94SVrSOcaToi/WuJa+BM3/pXQnIGK7X4sVaSGgxMQhd1oA/CKx17wDpsXUkm6UQDqJsZrsGntSYAcyC49U0usv6VOzW31TvsgAUekjzUmE4DnbU2Th0qqntQjxr93N2F1IlwTWoVtZNmrbupUraDokb/U8=;t5dnO8DLkWfxMBxJX7JAjg=="
+secured: "DSNKyf3i8A0KbjAVeUaEQAuA1hiKpOtN8MwQnhwwZSl82LRQfY47/a5QTigOoalrem5w82A1YVy9Gj8/y/gZbSEeRcLbLMpn02dtgZZt2AEjkXhTYXkCEqTmLdqciiWxSnw0knb2WWNDTWRR0Ow9dN4B0NWim8IYGy8m+XmdobDQ7rcUhIJl2qBLHb4GKRPKUxuRR0sChNDEC4Kfl9TBVYrNQ4jLuA2uExvH09B3MlXxQcDM+Kz5PdsCzYfVignoXEBujOgLPZefHKuIOUPpzsFk8dEJelQFR24stJPrbSdc/BTKxFjtcq0Bm5UHNhpHeHHVxzmG81SNaCuB5HlGyvAEd1j4p0nm9sBTqK0zO4m4LwNfI0hNcfs2U6YZltJ6KwXm7Blu1YkHEXUnZsSjAY/EGoJ/NLXcTohNp+ZhV5WWvNlUqmcK9vd/W2tpW4HXSheLMRHtAwhGg9wRN1EM8BcPoLS+clGPQFgXIYfdSF5TIV1XYKwhJhmGBqfHXfrECNIMeTIOSzQ2CWK3fWXw6g==;hwPkRlPnjRksbQ4v/bBdAA=="
 ---
 

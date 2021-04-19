@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GAC Motors to launch its first self driving car with Huawei after 2024"
+    excerpt: "China’s GAC Motors is apparently planning on launching its first car model that supports self driving technology after 2024. The company is partnering with Huawei Technologies for its autonomous driving technology."
+    publishedDateTime: 2021-04-19T10:27:00Z
+    webUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/04/MZ7XYVRYLRMF3PDC436LFXYEPM.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
     excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
     publishedDateTime: 2021-04-16T04:49:00Z
@@ -73,6 +87,34 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Didi Chuxing Self-Driving Technology To Attain Cars From Volvo"
+    excerpt: "Volo is going to provide XC90 SUVs that can be imbibed with Didi's software. Last month, they announced their fundraising details."
+    publishedDateTime: 2021-04-19T10:17:00Z
+    webUrl: "https://techstory.in/didi-chuxing-self-driving-technology-to-attain-cars-from-volvo/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/103176071_048050512.jpg"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "Volvo Working with Ride-Hailing Company Didi to Test Self-Driving Technology"
+    excerpt: "Robotaxis are here to stay and it looks like it won’t be long until most ride-hailing companies rely solely on driverless cars. Well-known names in the industry are doing it and emerging startups are also developing self-driving technology,"
+    publishedDateTime: 2021-04-19T07:11:00Z
+    webUrl: "https://www.autoevolution.com/news/volvo-working-with-ride-hailing-company-didi-to-test-self-driving-technology-159558.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/volvo-to-work-with-ride-hailing-company-didi-for-testing-self-driving-technology-159558-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
   - title: "Huawei to invest in electric cars and self-driving tech"
     excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
     publishedDateTime: 2021-04-16T11:00:00Z
@@ -86,6 +128,20 @@ related:
       - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Geely's Volvo Cars collaborates with DiDi on self-driving"
+    excerpt: "Geely's Volvo Cars and DiDi Autonomous Driving have signed a strategic collaboration agreement on autonomous vehicles for a self-driving test fleet."
+    publishedDateTime: 2021-04-19T11:51:00Z
+    webUrl: "https://www.just-auto.com/news/geelys-volvo-cars-collaborates-with-didi-on-self-driving_id201342.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.progressivedigitalmedia.com/3/2021-04-19-11-40-volvocarsdidiavdeal_cropped_90.jpg"
+        width: 424
+        height: 282
         isCached: true
   - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
     excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."

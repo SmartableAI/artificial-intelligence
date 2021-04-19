@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/siemens-partners-with-googl
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/siemens-partners-with-google-to-offer-industrial-ai-tools/"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -25,20 +25,48 @@ topics:
 
 related:
   - title: "Siemens and Google Cloud to Cooperate on AI-based Solutions in Manufacturing"
-    excerpt: "Google Cloud and Siemens, an innovation and technology leader in industrial automation and software, today announced a new cooperation"
-    publishedDateTime: 2021-04-19T09:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/siemens-and-google-cloud-to-cooperate-on-ai-based-solutions-in-manufacturing-301271351.html"
+    excerpt: "Google Cloud and Siemens, an innovation and technology leader in industrial automation and software, today announced a new cooperation to optimize factory processes and improve productivity on the shop floor."
+    publishedDateTime: 2021-04-19T09:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/siemens-and-google-cloud-to-cooperate-on-ai-based-solutions-in-manufacturing-1030316620"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg?p=facebook"
-        width: 1920
-        height: 1004
+      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Siemens will use Google’s AI to enable more efficient factory automation"
+    excerpt: "The idea is to pair Google’s cloud, AI and machine learning technologies with Siemens’ factory automation systems to help manufacturers digitally transform their operations, the companies said. The companies are a good fit on paper,"
+    publishedDateTime: 2021-04-19T07:01:00Z
+    webUrl: "https://siliconangle.com/2021/04/19/siemens-will-use-googles-ai-enable-efficient-factory-automation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/6964-tia-visual-outline-style-160406-1-highres-rgb.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Siemens and Google Cloud come together for AI-flavoured manufacturing cloud"
+    excerpt: "Siemens and Google Cloud are working together to deliver AI-based solutions in manufacturing - in what can be seen as another 'industry cloud' offering."
+    publishedDateTime: 2021-04-19T11:20:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/apr/19/siemens-and-google-cloud-come-together-for-ai-flavoured-manufacturing-cloud/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 35
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/04/iStock-587206266.jpg"
+        width: 1242
+        height: 844
         isCached: true
 
-secured: "alANLoOn3t+SXhRVjtL3MDxuqxqnBw1+aY0BPjih7NQ1MyQzaE5aadHHAGiwHZ70R7GYPgxezLNfRgMUuun6MyEMT/XxpGwz2jwk1v1GS4deyFgrqQ7bmep5ithuo4FNq6uYVkrTCog/2vVeSappEM02OAcTDJegM56fwgln3TOpoIFYMrckOm3JvUTNnt97wXBwxAxpfiPAT0v2XdEstEcY2dfl4j+NfNy3QbQMwy+Ij2sPgg5sExYqDtE5HGQ2xM6FDHJ6I7xTSZJBYXMncLHvPoMPyvszh5qI3fTSpVtFgQCoKvEwyLqZBTEbHD4Ekvpb3/rfpw7y2m5pSdzBFIDSrEwWJHb+g/ZkquhD570U6EhnvOQkv56eHJKMoGMBLd7mzq+e4PeSnLNsmrwFY52k+kabV71B8BJV5AkYV5v7W+DFwmJP8yHZ/TKXbHMdAtk0FjR41M52TFyJLn1Cztqulq+E7ApPtEhHFciYsr41hwAkuMjtopOOWEE/EZ31lM1wt1Okj5OswSor0dA+YQ==;1ltJs7b511wViwYT30d5OA=="
+secured: "pthzqP51VFkJCMq1LHaLy+SsAS/tRYWpmvR2Xdai26cFi7S2KND4QWfsl2lXSt+5mfzMOTXcrtbg7dQ3irXREMlOGQXkLwRxbnAnBxSvek+4TAK/G8ZKJ0pKGscJLPmFeDqG4t6j1AYoG5MGVLSJuddS0ZNqTX1d35x1kLE1HSOU+bz1RL920idEYfqT5yluRXEsBMKHIuRHEg23zZp1hysx6fX6sH2ISiji74nWXVkniSKZTqvr5UAm2xvjpt7t2IaErnsAe4FEE1gHXCty+H73yFn1cjz6PtIdzzuDRewSx8stp06y4dFI1X8ChN3SZspMUC/3kaQwf5yJG9Mo3WeGrv9me/KqdL71Vez1Jov4M3YsHgzbQmgKUGdrCXV76ZFiPXMCkuc8a4abt0t9xD/2JIu9xUJASq1xtjlF0U89uXJlrLwnCgboswz7UDq4GSgtrjUhzVfYzP28jtY7T4oEnsv5tcS2jY0fOaXl/h/piRSztOgpUnwls7x2khX+p37L8Klax9BmnCV4YDBTZg==;I7QSMnmDwD2/t9+IzHoECw=="
 ---
 

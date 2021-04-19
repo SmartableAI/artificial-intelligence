@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
-    excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
-    publishedDateTime: 2021-04-14T18:23:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest"
     excerpt: "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments"
     publishedDateTime: 2021-04-16T10:52:00Z
@@ -68,17 +52,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "US man sues police for wrongful facial recognition-based arrest"
-    excerpt: "Williams' experience was the first case of wrongful arrest due to facial recognition technology to come to light in the US, according to the ACLU. \"I came home from work and was arrested in my driveway in front of my wife and daughters, who watched in ..."
-    publishedDateTime: 2021-04-14T18:32:00Z
-    webUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636"
-    ampWebUrl: "https://www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/us-man-sues-police-for-wrongful-facial-recognition-based-arrest-377636/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 39
   - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
     excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
     publishedDateTime: 2021-04-15T15:33:00Z
@@ -93,6 +66,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
+    excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
+    publishedDateTime: 2021-04-16T22:54:00Z
+    webUrl: "https://www.consumerreports.org/law-enforcement/facial-recognition-in-shoplifting-cases/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 19
 
 secured: "8QGBZRe+mFy0OaOfmkpZnTxoX6BO9HWOi73d7fVs+S1ThrHNdlCsF8uS4wOsG2MTboQRjI6mbEBXg2EJ9RxccodrOzhrhgGhlc1g7E0WHG7RIeKKp4eF4ip9GcnQ7GJGyUd0zrP7ZktXMXBBQEcKtFM2apswTuYXopyqpQkShc970y0OYiTpl24tDfRRZseJQ3TKIn6AI5JDPGnfHnsRI/dfJQskWm0Lm36XS8EWE9otlo6FmGtmBkDrpd7bVrawXeotK1Sdp4Sh6N4JU1XK8+gly7g2fGtI/58sAxUub2FHXP8V+sjDR+heudT0a6SdLoF8zB5HEwSBhovWcIp6x/R5r83CmOzGsGoAFkCwcLkwc+fwoqTvoxsaEhSekVEpqHxBEMpaROAZbWPIK9llX6GsmQ9qln0eQaVSoura+6Agd33G1IeHQSv9Pdmt/pNHWzdNG8QUFF3bbCGBlXKYMqpQbU4llLmJ6nsntdkaMAgImWD8pLvAGLPo+j5MLr/Ot06Wzz+B2e5gtgatgup8wQ==;xVCqANezFy5OaSelwy1ggg=="
 ---

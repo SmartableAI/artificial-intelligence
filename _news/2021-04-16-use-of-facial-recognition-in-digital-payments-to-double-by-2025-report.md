@@ -37,22 +37,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Social wasps lose face recognition abilities in isolation"
-    excerpt: "The study opens the door for further research to understand the specific role that the anterior optic tubercle might play in facial processing in paper wasps, and invites comparisons with socially ..."
-    publishedDateTime: 2021-04-14T17:29:00Z
-    webUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.html"
-    ampWebUrl: "https://phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-social-wasps-recognition-abilities-isolation.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/socialwaspsl.jpg"
-        width: 900
-        height: 1035
-        isCached: true
   - title: "AWS launches Amazon Digital Suite to help SMBs in India go digital"
     excerpt: "The suite provides a broad selection of business software focused on SMBs from seven AWS Partner Network technology partners in areas such as accounting, customer support, and human resources"
     publishedDateTime: 2021-04-16T09:23:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-arti
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics Insight
@@ -27,34 +27,57 @@ images:
     isCached: true
 
 related:
-  - title: "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine"
-    excerpt: "Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible."
-    publishedDateTime: 2021-04-15T23:07:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine"
+  - title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
+    excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases from images. There are several eye diseases such as diabetic retinopathy,"
+    publishedDateTime: 2021-04-19T09:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 36
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png"
-        width: 770
+      - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "How State’s Disinformation-Fighting Arm Uses Artificial Intelligence"
+    excerpt: "Emerging technologies—and partnerships promoting their use—have proven instrumental for the State Department’s Global Engagement Center, a hub that steers federal efforts to counter state-sponsored propaganda and disinformation campaigns aimed at undermining the U."
+    publishedDateTime: 2021-04-16T13:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/how-states-disinformation-fighting-arm-uses-artificial-intelligence/173401/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/15/NGfact20210415/open-graph.jpg"
+        width: 400
         height: 400
         isCached: true
-  - title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
-    excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases"
-    publishedDateTime: 2021-04-19T09:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
+      name: PRI
+      domain: pri.org
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg?p=facebook"
-        width: 1920
-        height: 1005
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
+  - title: "How Artificial Intelligence Can Tackle Indoor Air Pollution"
+    excerpt: "However, as countries have begun to open back up, pollution levels have rebounded to pre-pandemic levels. Scientists at NASA noticed NO2 bouncing back to near normal levels in China three months after the country"
+    publishedDateTime: 2021-04-15T13:14:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779290-how-artificial-intelligence-can-tackle-ind/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 32
 
 secured: "T/emLTvjtZcNpkPN/YLjJC39eXxK8Ofbj0XO/9+TZ3YEOZKAxm2buH4/c6b/XA/iumHxXrqnCeBtypyN0ryK5fQ/tMJzml9gB5x+dsMaKl03V8srd4TJl0fr996nYHXnX1IKQK1nuZcRt0xFV8O9FcYiA0BZ/XpIDPmCddAhYu3+YSR9pIQTkRigd8rCgkL/IgZZeXDCu7mweP9aK6xj6ISgBf3YAIwV4SXpMBRQmnCVU4CXFzVfO4VrP4FZ5r/ehAs2LaVBCbKmhubu+InXIAlhi1ye0nN/Q3bT/XuVDnkxhd94fs54kY3IW8EyrJRuB4Oz6YOFhV1c9lJ2M1n+7tbCAh+BXLci1C7Pj4cSitBGyYwUEE7pOYxi4h4T7taCspMUp2mJkKouJgLl7WPbLMNvf03mDa0Yn8GYWFkCrWL5D1cYg8cgx3P6vxSMx3Ym/40J8PhWEsQKcKFiFZSvdogCQtDZconjaLl6RaAmB7rl7IJlvCUFjzPL4jQZwvC8gcHyjL4Bvc9FqRGdfA0vgg==;/lAS0n08jkGsMbkh7aR05Q=="
 ---
