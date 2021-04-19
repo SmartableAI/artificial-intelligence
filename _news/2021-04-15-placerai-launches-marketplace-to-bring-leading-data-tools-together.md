@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services"
-    excerpt: "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering."
-    publishedDateTime: 2021-04-15T01:58:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/"
+  - title: "Poker Playing AI to Change the Game"
+    excerpt: "Great Big Story, YouTube Artificial Intelligence (AI) never fails to surprise us. With its limitless possibilities and an extensive capacity to adapt and learn has always been a topic of curiosity. Artificial Intelligence (AI) has proven to extremely useful in many fields."
+    publishedDateTime: 2021-04-18T06:50:00Z
+    webUrl: "https://techstory.in/poker-playing-ai-to-change-the-game/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 68
+      name: tech
+      domain: techstory.in
+    quality: 39
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://techstory.in/wp-content/uploads/2021/04/0_q7R7nvpcCkl8pryb.jpg"
+        width: 1620
+        height: 1081
         isCached: true
 
 secured: "bH0WQV/YVzxTfk+u2Pm/HivEGCLhvAnrKWGa32p/iLxjOVpiR5A3VgJ/9lXU/KuQSgsX7EDb5mbnf1h3QxKIiIcShYzcol84AIrRu3nTh5M4C+5pgby302ZiiMBNWTwoQHWwsjZAE4HDY62weBHEPyScMaMGocC4zDdTCqvKxy+nr/ewJYNWlxWvjuKO77UhRuAma+Xvrh4F9dfnlAZTq7aVcJ2d8ghleyP5NwShaxiAtdWtyfGOyw+ayleZ82N35MIpfn/5x7V+otZWKxltAhexqZ9dlAsAQSZ1GYfNmq5L4NNINQUvkQCP/erYUAPfxb/bBFDlOEE9TWP94b55omeLNL9r2usacLSHoMxRg5c=;zGKAY0SIBDd2ri2V2+h7KQ=="

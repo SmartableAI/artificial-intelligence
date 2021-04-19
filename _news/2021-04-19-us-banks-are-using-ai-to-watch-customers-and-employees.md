@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/0f/10f6b3bb-d47c-570d-bb40-09c89f419646/607d62b3738bf.image.jpg?resize=1024%2C673"
         width: 1024
         height: 673
+        isCached: true
+  - title: "US banks deploy AI to monitor customers, workers amid tech backlash"
+    excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
+    publishedDateTime: 2021-04-19T18:56:00Z
+    webUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
+    ampWebUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NbC/n7x28bBulU14uQ6n692UrK/Ho/zUta+xMUWuAV8bBquqw28KicrqXNFqT8zEuEJ0Vk6N72mQKlWm1llTyXdWtpJBwyqDN6qyt/38n7MEMkCwauQwsOXfAvxOFn9/F5JAA+ueZ8PEB9HDjah4CzN3AZg3FX8hU+OAxO5s4mZujB3Yanha23EBKrGk+1NvUGr+7jM0d1AFsFjpVrO73oXcGkvHcyC6bJ3UqRAZWix/CTsNRi2qYGhp/YEF1uR1cTDUPxpNmhT7Ynh0MPQR1lMNuoYE1O+CYvoC7jBRntPyt+PUUWdsD+MzhD3X7oT9pnpqa+3WHqA28DuhOpVS2uQjiNrl9S6NGaY65/ED4zHaOcDKCmw8vOsOdyU5l7f3kWdJhyuB8UQftAv7X9hVETbqTl60FsX3NOjWC6wob6WbWzZDoRhHfM9Ux1ONpk3H1hgnxPP9WEFHEZog/ig+ay6A0i2eRXIOVqMfQo/y8vlzI3WgRTn8PY87aI23Su2Xc6ktDT9Ace12N4z1HWfgBw==;Obh2t5+mWiENJ7dKli1Vxw=="

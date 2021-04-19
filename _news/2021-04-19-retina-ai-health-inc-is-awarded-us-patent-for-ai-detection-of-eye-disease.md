@@ -1,27 +1,31 @@
 ---
 category: news
 title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
-excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases"
-publishedDateTime: 2021-04-19T09:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
-webUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
+excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases from images. There are several eye diseases such as diabetic retinopathy,"
+publishedDateTime: 2021-04-19T09:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
+webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
 type: article
-quality: 36
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -58,6 +62,6 @@ related:
         height: 984
         isCached: true
 
-secured: "6fOx0io2sJR5NOkwgONbR99S83XwGaBXgvzm1PkvXXtcJ5aFIxTRhNS2vxU2pjOZq7x8n2ZtOUjIZSQK16xva1OOYOzaR9M0vTw+AEL5+W25G6e53DczCvy37BammOYUW/n97jRxEPzdN8zp25cjxuJtASsmQ2M75hEjmwPXVexxCY952nYdZpwBf2Q05r7oQ5wl64UtJawttBTqg/iCMOr6bh2CBNXfkgSU9mJhMl3byAo9FlOciBAExDf5rDDR3ol34btZfMAT7jnV3rqW4MSJ46XtHGKkqKkQTduioxzWhApX2sDadcgIrYaPt3LVtkyGWdbOR01EahxoYlafuNzuSq3HDRNvmQGRVe4LeBPIxnniPVV7Gs46d3DMgCWaldg0T1dfXalE/uM6w8lR6ILMQu29Umek/jFR8iZTANeRwzmjili48fqUa5BuohvQBAjOsORO1BTUw/3Z+3WDKhPvk7vvt/oZzQBEHKEXwPvh9q6Lgsm0ODwrv1hPvkud9vbfmJNxrnBM+I8dr/fOVw==;EFGWZCTbvP/qV2a2NdT7BA=="
+secured: "sPxSPbLDsyxYT6JcHFuWQFy/C01DLTZWstpEigXzeWVyy4OH+xiv17hn1oh5nf7dISiokIub68MI1nRxXbi/zLspqUzz0vqUYoKtCOiLsEjo4dQxpMY4ewWnQwlRaLvNiHc+MpE/L4NGZmwW/u84QrzovUC7y/c6PRkSC490QWF6U79hA+S+8NL4tZf2JRvF+OduOe5TlOinJUD7CWh/k/KdSpBkW3CyXG9wrh7YjeeS9gZzaHCKk8Lh+V1Vs5aH7tNQx4ui0euAUYbcpvaQ1eBtzrPfky9CE+mEARfYlYFJ+Kv3NMva3GZsinEuG+hrh0GETouJ3akdU2+VB4aHgXCxdDC2QdLvgceFgnNS/q8=;fh3I7CoeNEFew03TpxHlcw=="
 ---
 

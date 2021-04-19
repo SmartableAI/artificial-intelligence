@@ -28,13 +28,13 @@ related:
   - title: "Why Intel Investors Should Worry About NVIDIA's New Data Center Chips"
     excerpt: "NVIDIA (NASDAQ: NVDA) is flexing its muscles and announced at its investor day last week that it's prepping a new data-center processor aimed at one of Intel's tentpole businesses. As computing needs quickly evolve,"
     publishedDateTime: 2021-04-19T15:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-intel-investors-should-worry-about-nvidias-new-data-center-chips-2021-04-19"
+    webUrl: "https://www.nasdaq.com/articles/why-intel-investors-should-worry-about-nvidias-new-data-center-chips-2021-04-19?time=1618846501"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
 
-secured: "yXWjbVw7ZJ9LtimBqUbYSCjW4TkFbJmRE5Za524WIVYzJ6aAkOcvMNV3joLog0vxeuJTvyKUFg02KLEttDFSXCuNZETzmnJivn+ZyTd63OTWhk8T75VOiLVjAfsIO5B8sKggGfTixWDJXl1+N4ZU/1gSvDBeMPUOgJX5FDNAwFcbBsw4o2ybAnykBCktEstJ8vizQM9h9A0kXK2JHkSlyE9klrTZ6OSoVACktv0vOdeJA1nMUvDczG4WCgLPpNp5pLnSNjFnKNolI+yC1KWWkXtum/d+T/n9XMLQshsY9NLQrRpgsLgMZ9hYwHTM9cZfJXHj62Gp/U8kl7p/rqqeVKQ1h2eKSV7DbS6ZDZ+l52M=;K0tmQTrWREqES33KPRxMaQ=="
+secured: "OFfut+XPMqciBta4xNzgAuVv24h1FY8lZ0KYd3589JPKje+3+HOOO5ZVt4PFOPRS8h1SYxnyzOuVPgT9IBuy8RoMUJcr7AZnaCoM0ftFOtLgt0d2fPJuBatD16ysR+DML9Oo2w6Yvia8nfTCWIegwWJsKYyNNBd2Bnr9ZAB40J/3obQmHgDgdIctg1Es0jmqSoZZp0V+xN3sqW89xtN7lYX8sKhSqw+UojzP5+csnpB273VL1ksYquS7UWQx/kikrUSB17D66OPLVi5895qOeW4SjF8K3xuhcp6/LWbMyDXmisG6Yfj2USFIqwCeA+idS7WG9fQd2GR0nF99Si/FO+v3aaZnlQeXuzEj53B+DnO2DxAe5xD5whmNx75VCAL8SzgzIRHbi6c5TyPZTlrcVLvo1z9yh70g4bGrQnWQeZCwQYskK6bhA7o20Dq+zVwv/csj/2fg4S1AOxH0b0Xe9UkcobHrQfzeUNW/rjxwXgIjOwmfZ/1DnT6+XMm4dMam1ywMmKML5JbNkIYhJsoevw==;WLbbEzHsVKWefVLY/HK2Gg=="
 ---
 

@@ -35,17 +35,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
-    excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
-    publishedDateTime: 2021-04-15T02:02:00Z
-    webUrl: "https://www.law360.com/articles/1374707/detroit-pd-sued-over-false-arrest-using-facial-recognition"
-    ampWebUrl: "https://www.law360.com/amp/articles/1374707"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1374707"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
     excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
     publishedDateTime: 2021-04-15T15:33:00Z
