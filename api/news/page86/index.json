@@ -2,6 +2,49 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2021-02-13-apple-patent-reveals-that-they-could-be-working-on-a-breathalyzer-like-feature-for-a-future-iphone-or-apple-watch.md",
+      "title": "Apple Patent reveals that they could be working on a Breathalyzer-Like Feature for a Future iPhone or Apple Watch",
+      "excerpt": "According to Apple, \"control circuitry can use object recognition techniques to process the captured image and identify objects of interest for sensing. The objects of interest may be, for example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/02/apple-patent-reveals-that-they-could-be-working-on-a-breathalyzer-like-feature-for-a-future-iphone-or-.html",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/02/apple-patent-reveals-that-they-could-be-working-on-a-breathalyzer-like-feature-for-a-future-iphone-or-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c026bdebcf36d200c-600wi",
+          "width": 600,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots.md",
       "title": "Baidu Launches Self-Driving Cars, Shuttles, Buses, Vending, And Even Police Robots",
       "excerpt": "The Mobility-as-a-Service program in Guangzhou steps beyond previous deployments, in that it pulls together different transportation modalities and use cases into a single service.",
@@ -1085,49 +1128,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-how-to-manage-your-power-bill-while-adopting-ai.md",
-      "title": "How to manage your power bill while adopting AI",
-      "excerpt": "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
-      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T17:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

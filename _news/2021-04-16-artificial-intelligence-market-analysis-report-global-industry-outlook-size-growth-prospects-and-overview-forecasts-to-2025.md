@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
+    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
+    publishedDateTime: 2021-04-18T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
     publishedDateTime: 2021-04-15T11:29:00Z

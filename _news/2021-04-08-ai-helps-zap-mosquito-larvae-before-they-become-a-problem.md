@@ -2,27 +2,27 @@
 category: news
 title: "AI helps zap mosquito larvae before they become a problem"
 excerpt: "WASHINGTON (Zenger News) — An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to ..."
-publishedDateTime: 2021-04-08T16:31:00Z
-originalUrl: "https://wset.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-webUrl: "https://wset.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-ampWebUrl: "https://wset.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-cdnAmpWebUrl: "https://wset-com.cdn.ampproject.org/c/s/wset.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+publishedDateTime: 2021-04-08T16:17:00Z
+originalUrl: "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+webUrl: "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+ampWebUrl: "https://news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+cdnAmpWebUrl: "https://news3lv-com.cdn.ampproject.org/c/s/news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
 type: article
 
 provider:
-  name: WSET
-  domain: wset.com
+  name: News 3 Las Vegas
+  domain: news3lv.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://wset.com/resources/media/27865894-144f-4418-921e-a1cf03f9b238-medium16x9_SprayingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898405947"
+  - url: "https://news3lv.com/resources/media/9007fd1c-1781-4825-9617-4af26f7143e2-medium16x9_SprayingstagnantwatersourceskillsdiseasecarryingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898310418"
     width: 648
-    height: 364
+    height: 365
     isCached: true
 
-secured: "8wywrnx7V7ZBVtOotAoqqQz9GTSFbhxTS/COj+rqvpWVmdRTJDk8X2ECkFPBJbatown84YQjBm/7/0UaUlGd/rDN3yX3E6r+83N7+VZwANIgit8ChaUf/hR/utT9Pvgyy7aMcTlyDq6rBOFaBqts8z/LC1+uLCy4dwSO3vf5mC9f67iVWoZP5RiJR3J0T9JZ0PCR0HKnYAG0Q7EQiHNOnXpPgeOR/J9Vo6z9ZzYGu/Qfo3U5XHL8KqLqcV9GLuwhxfVyr+vIJFEba/izs/s/tNu1DL4AeZDqwuxmCjztiA5GRqsEQVHAUafogsuNN54Imw/JnrmgDmBtqUJL8MzgykPhbKil9Haqx9Wc58ta9YA=;H4n8mQJosxRXfSwEJ5yulg=="
+secured: "sP7dqV79fy8tRes8g5QnFCwGyuDzFMhpe+Q9Xx1qnepCOsu5mVwXQWudg3xjbDgj5x+wPOmydQETB+QS/KMs3mtMAiS67h2M0C9/aoP+3ifuDoE8F6DXH692VfbBxLgESIDqhCpIyB/oYvOjTM4gRHuP3pfvGeNHy1Rz8Asgpo3zNUAnFfmJz5nHdhJJT88r03aqg03Blrn3kKYIUcxIkyFePg993FlCc9osgm8Mc/cJrd6JOESrWJYEc4AOyFE2Pch0XoYnbEF5EFUAgRrdwDX5PkaUFjkVpYmQ4F4T/b0GYrhrHu9q5nD78VlWN5YOLQSS/fGe0oX6RaBrogkiP9Sh1dHa1idX0nmBXMbHuYY=;aYLNF1uctmK4NTCILLGoAA=="
 ---
 

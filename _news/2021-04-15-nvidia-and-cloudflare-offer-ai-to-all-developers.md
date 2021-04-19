@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/nvidia-and-cloudflar
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-and-cloudflare-offer-ai-to-all-developers/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

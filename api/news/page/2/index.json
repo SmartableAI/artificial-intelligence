@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker.md",
+      "title": "This New Jupiter Webcam From eMeet Includes AI Framing Technology And A Built-In Speaker",
+      "excerpt": "This webcam from eMeet includes a speaker and an array of four microphones. Thanks to AI technology it can zoom in on a speaker's face automatically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60769fedbb83b12f0d643cc0%2F0x0.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
+      "publishedDateTime": "2021-04-16T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-twitter-analysing-harmful-impacts-of-its-aiml-algorithms.md",
       "title": "Twitter analysing harmful impacts of its AI/ML algorithms",
       "excerpt": "Read Article In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,",
@@ -279,6 +330,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -319,41 +413,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1120,57 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-life-inside-the-self-optimizing-ai-automated-company.md",
-      "title": "Life Inside The Self-Optimizing AI Automated Company",
-      "excerpt": "Business is becoming increasingly automated. Not just in terms of software chatbots designed to deal with customer queries online, but at a lower substrate level where the real operational mechanics of the business happen on a day-to-day basis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60782b57f405c4c5b83c4b8b%2F0x0.jpg",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/04/15/life-inside-the-self-optimizing-ai-automated-company/amp/",
-      "publishedDateTime": "2021-04-15T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-14-video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations.md",
+      "title": "Video conferencing company Touchcast uses AI to add context to conversations",
+      "excerpt": "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/touchcast_inspirehall_venue_3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
+      "publishedDateTime": "2021-04-13T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-gridai-launches-platform-for-training-ai-models-on-the-cloud-at-scale.md",
       "title": "Grid.ai launches platform for training AI models on the cloud at scale",
       "excerpt": "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure.",
@@ -1210,50 +1262,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
-      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
-      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "publishedDateTime": "2021-04-13T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRISTV.com",
-        "domain": "kristv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

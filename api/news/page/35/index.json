@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-03-22-why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021.md",
+      "title": "Why Pinterest Is a Great Artificial Intelligence Stock to Buy in 2021",
+      "excerpt": "A rtificial intelligence has the potential to dramatically change the world. As many as 70% of companies will adopt some type of AI technology by 2030, potentially boosting economic output by $13 trillion per year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
+      "originalUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
+      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
       "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
       "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
@@ -1126,51 +1160,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-healthcare-providers-globally-are-applying-aws-ml-services-to-store-data.md",
-      "title": "'Healthcare providers globally are applying AWS ML services to store data'",
-      "excerpt": "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
-      "originalUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg",
-          "width": 575,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html",
-      "publishedDateTime": "2021-03-21T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

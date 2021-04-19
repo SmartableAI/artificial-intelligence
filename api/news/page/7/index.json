@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-13-a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai.md",
+      "title": "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI",
+      "excerpt": "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
+      "publishedDateTime": "2021-04-12T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ai-startup-uipath-looks-to-raise-11-billion-in-us-ipo.md",
       "title": "AI startup UiPath looks to raise $1.1 billion in US IPO",
       "excerpt": "Photo by Noam Galai/Getty Images for TechCrunch UiPath, an automation software startup founded in Bucharest ... a gifted Peloton » SHARE THIS POST C3.ai NewsMORE Related Stocks Find News",
@@ -599,10 +650,10 @@
     {
       "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
       "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "The company has also restructured itself around artificial intelligence in recent years, with AI-driven programs in the automobile, smartphone, healthcare, and semiconductor businesses. The company has a market cap of more than $1.52 trillion and posted a ...",
+      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/?singlepage=1",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -635,7 +686,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1171,58 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-why-predictive-cash-flow-data-is-the-future-of-small-business-lending.md",
-      "title": "Why Predictive Cash Flow Data Is The Future Of Small Business Lending",
-      "excerpt": "With machine learning becoming common in every industry, it’s unsurprising that it can be used to predict more and more about a business’s potential cash flow. To extend the earlier metaphor, predictive cash flow data is like driving a car and knowing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607054a6a7383ea37b4d6d9f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/why-predictive-cash-flow-data-is-the-future-of-small-business-lending/amp/",
-      "publishedDateTime": "2021-04-12T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

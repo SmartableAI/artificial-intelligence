@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-06-meet-scout-the-cute-ai-powered-robot-ready-for-any-exploration-mission-strictly-robots.md",
+      "title": "Meet Scout, the cute AI-powered robot ready for any exploration mission — Strictly Robots",
+      "excerpt": "Night vision? Check.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/scout-ai-robot/",
+      "originalUrl": "https://mashable.com/video/scout-ai-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F04%252F06%252Ffc%252F1c13a666dcbb4cdba60567ccb316c520.d47ca.jpg%252F1200x630.jpg?signature=wZAI6Rxb_djHhrYN8_0e7xvlTUE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/scout-ai-robot.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/scout-ai-robot.amp",
+      "publishedDateTime": "2021-04-06T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-easysplitter-uses-ai-to-strip-vocals-and-instrumentals-out-of-your-favorite-songs.md",
       "title": "EasySplitter uses AI to strip vocals and instrumentals out of your favorite songs",
       "excerpt": "Sponsored Deals Splitting vocals and instrumentals used to be a process that would require a trained sound engineer and some serious equipment. Now, EasySplitter Pro Vocal Remover puts AI on the case,",
@@ -98,10 +141,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -134,8 +177,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1144,58 +1188,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-has-invested-28-billion-in-norwegian-robotics-firm-autostore.md",
-      "title": "SoftBank has invested $2.8 billion in Norwegian robotics firm AutoStore",
-      "excerpt": "For example, SoftBank backed U.S. warehouse robotics group Berkshire Grey in 2019 ... Nathan Benaich, a venture capital investor with a focus on artificial intelligence, told CNBC that the pandemic has clearly been a \"boon\" for warehouse logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105170051-GettyImages-915309154.jpg?v=1588214950",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "publishedDateTime": "2021-04-06T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

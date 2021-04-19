@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "2 Unpacking the Ethics of AI"
+    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
+    publishedDateTime: 2021-04-19T02:52:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9361686"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 34
 
 secured: "6gUAQyY7Ox6Vu5WJhD+pBODk0FFfPUprxxNGmiM0yz1PDmK6p0o29yZCAtBsBtML2s9Y0s/OvsSzjK4bEVpurvUyvhgeo/92cVP5IGitYCjMVrB5I5BY7hfjCSZ30b6gGZzuCkEDg7fwCvDfM3HuUeegSpmga5yQgTW/xQr4prS7VU3L3TTMPCwzAGydGhboQAv4Ve17IUuqn1YMDH9xmLKnnmVRLIXNP8XpY4tmihklm1Z4aB1+FiIO45PHYWxzFGx4oqtVsUuUOjA9RexuqJb+17l4tYr3zqa6aq2ByboL+7Rocmh4Rfohi2kXeJ1aajps3+MyhHpIt77yxRv1WsF1DC2ed15WxAErPuOm4HE=;QUPPM8aRofDKMISkJU9Z5w=="
 ---

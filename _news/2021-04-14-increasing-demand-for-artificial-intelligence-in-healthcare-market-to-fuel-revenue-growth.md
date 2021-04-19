@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
+    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
+    publishedDateTime: 2021-04-18T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
     excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
     publishedDateTime: 2021-04-16T01:26:00Z

@@ -155,20 +155,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
-    excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
-    publishedDateTime: 2021-04-14T10:59:00Z
-    webUrl: "https://www.analyticsinsight.net/google-amazon-microsoft-who-is-leading-the-ai-race/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-11.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Microsoft to buy speech recognition firm Nuance for $19.7 billion"
     excerpt: "Nuance will bring a number of useful technologies under the Microsoft umbrella, including the popular Dragon NaturallySpeaking speech recognition software. Apple’s Siri uses technology from Nuance for speech recognition. The AI company has already ..."
     publishedDateTime: 2021-04-14T11:08:00Z
@@ -207,20 +193,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft flexes speech recognition muscle with US$19.7B Nuance acquisition"
-    excerpt: "Microsoft has agreed terms to purchase leading speech recognition software maker Nuance Communications for US$19.7 billion. The acquisition is expected to grow Microsoft’s presence in the rapidly-blooming speech to text software space. The company ..."
-    publishedDateTime: 2021-04-14T09:22:00Z
-    webUrl: "https://techhq.com/2021/04/microsoft-flexes-speech-recognition-muscle-with-us19-7b-nuance-acquisition/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/04/000_97U8YD.jpg"
-        width: 1024
-        height: 666
         isCached: true
   - title: "Microsoft’s $20 billion AI deal will shake up how we work"
     excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."
@@ -266,17 +238,6 @@ related:
         width: 728
         height: 485
         isCached: true
-  - title: "Why Microsoft’s $19bn acquisition of Nuance makes sense"
-    excerpt: "Microsoft regularly demos real-time speech to text transcription and has just spent $19bn on bolstering its voice capabilities."
-    publishedDateTime: 2021-04-14T10:28:00Z
-    webUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense"
-    ampWebUrl: "https://www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499249/Why-Microsofts-19bn-acquisition-of-Nuance-makes-sense?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 41
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z

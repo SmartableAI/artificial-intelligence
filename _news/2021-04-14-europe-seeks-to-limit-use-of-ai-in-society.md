@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Westworld-AI Scenario To Be Banned In Europe: leaked AI Regulations Reveal Course-Correction Away From Dystopian AI Future"
-    excerpt: "I going to reveal some key plot elements from the hit TV show ‘Westwold’ in this feature, but I’m also going to spoil the surprise in case you were hoping to read the draft regulations cold on Wednesday 21st April when they are due for official publication!"
-    publishedDateTime: 2021-04-14T09:21:00Z
-    webUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/14/westworld-ai-scenario-to-be-banned-in-europe-leaked-ai-regulations-reveal-course-correction-away-from-dystopian-ai-future/"
-    ampWebUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/04/14/westworld-ai-scenario-to-be-banned-in-europe-leaked-ai-regulations-reveal-course-correction-away-from-dystopian-ai-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/14/westworld-ai-scenario-to-be-banned-in-europe-leaked-ai-regulations-reveal-course-correction-away-from-dystopian-ai-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076b3a61dc4ab0469643cc0%2F0x0.jpg"
-        width: 1200
-        height: 778
-        isCached: true
 
 secured: "2WYSzgl0hZRYR1wjC6nvfTemXnjXgdrwuV3MkJzaP4udFpI7nre1vkRWmp+jc07Nmst0kO/M2tNkEGV5wx9sPoy8c/wDVoSAi4TBFS0SbyvS9olVoBVLTS/UvA40L0BAIEaW3AeRux52kLlJz3JOxCxhm51urzD38ZtNeP0X6zKuM9f2ygs692sEAHM0hY/w8Dr2tK8tk8kmfcef876j5NJVsd0pwSBv1YnUs3LoYHe1HNL/NoquScxIDUwZDvcb3B3TIlMeszPNWEev55Z8MTYh3Hpb3RaTt66Ms5yFRKfPsXtGQwPDfPb2DyAP/HfaAZwo/21EmZTHM+0fBeKQDA+BsC9slQAdyqgkpJXyOw60aoyEnvr/ZxkHfDFOkBX+fwCk4Gm9J2cpu/1oOJxR7OoWxBjgbYPvuGPS2MoY26YwnU+YENqmTm/cy/BdBeih3hMHcK7Bqsmfz2INn8FC3wvXMubPnR1fYcnntX1oC3mUZ+nIcG7NH4adu/UaGkXPkD6PpILHthTFIV43v6KAdQ==;odAtB3PvVjADvqcfTE1wTw=="
 ---

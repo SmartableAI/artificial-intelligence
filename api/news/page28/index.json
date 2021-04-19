@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
+      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
+      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-progress-toward-antiaging-gene-therapy-treatments.md",
       "title": "Progress Toward Antiaging Gene Therapy Treatments",
       "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
@@ -1082,58 +1125,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027.md",
-      "title": "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027",
-      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

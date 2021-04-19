@@ -8,8 +8,8 @@ webUrl: "https://www.thewindowsclub.com/artificial-intelligence-software-for-win
 ampWebUrl: "https://www.thewindowsclub.com/artificial-intelligence-software-for-windows-10?amp"
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/artificial-intelligence-software-for-windows-10?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.thewindowsclub.com/wp-content/uploads/2021/04/Cortana-AI.jpg"

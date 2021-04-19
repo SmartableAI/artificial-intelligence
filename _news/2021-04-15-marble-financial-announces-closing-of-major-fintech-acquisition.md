@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "PwC unveils fintech marketplace"
-    excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
-    publishedDateTime: 2021-04-14T10:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87100/pwc-unveils-fintech-marketplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "yn0WIDlv2h1GZtyPQGIwe9rE9X/09fxxyKa+NL11lEA8sMZgGH3bpb2BFu5jJXoP0c87AKiYkLiDZ7wZAHNPrBoS4m8OkjjUTnhc5xdLHZs9/Kb6XdoMWs/cx3QHxo13rbawAKxxQS4WI3o/ssPqO/iMvq10qlgaLKh+rH4UFRHttv5H1NPB7Bw5CjtUdAkkPHIdpcH5cfROjDpVHVx5YRwyHD82jw/eH6ULhL5umNlgVVKDV087/J0MTVd4tQbTgpJzuh9FLrqfyX8Gwu/+yG1EaauY+vp305v362WpPp09KlTfKsUlRcN/bt9/mk/J1Yvw/Kvpf5IqyG6OSgrQKlrPMo7qBG8fUAQylCcBADg=;zHwHMe5V+Ex4Rzypi/Cqyg=="
 ---

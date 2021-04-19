@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-29-augmented-analytics-a-key-lever-for-transformation.md",
+      "title": "Augmented Analytics – a key lever for transformation",
+      "excerpt": "AutoML leverages techniques and relevant insights using NLP and conversational analytics. It includes: Augmented analytics provides numerous benefits, beginning with its ability to democratise data analytics across the entire data value chain. This is ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecoms.com/opinion/augmented-analytics-a-key-lever-for-transformation/",
+      "originalUrl": "https://telecoms.com/opinion/augmented-analytics-a-key-lever-for-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telecoms.com/wp-content/blogs.dir/1/files/2018/03/AdobeStock_135990387-300x202.jpg",
+          "width": 300,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecoms",
+        "domain": "telecoms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry.md",
       "title": "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry",
       "excerpt": "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, ...",
@@ -1096,58 +1139,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
-      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

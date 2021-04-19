@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "‘Racist’ self-driving cars may not spot dark faces"
+    excerpt: "A new generation of self-driving cars was supposed to eliminate the dangers caused by fallible human motorists, but an official body has warned that they may pose a new threat: racist and sexist"
+    publishedDateTime: 2021-04-17T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/racist-self-driving-cars-may-not-spot-dark-faces-nsg6qtgv8?shareToken=f3499969aa33f70d328ae4bf6aa63dcc"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F48b39752-9f79-11eb-9528-e3733dc789af.jpg?crop=2250%2C1266%2C0%2C117&resize=685"
+        width: 685
+        height: 385
+        isCached: true
 
 secured: "Oo8GyupNh62yweexeZ9GT9EoPrc8BhLSGVEg3KEeRJE54sDvc6NrcI2YaL/CHJRSiyCZZw0HKLIupETFhy30kOrsc9xz+myniDFTegSPGTICBbMAye/5hxdLCxsAx/jLa90ZCWMCHUZliSuwgXleDj0maf3plKBtrrGrx7FqJxLNBGtEOXv0vrZ1L2xno3B0sdfiXAOYLvd5eLeLWUYwqLSAPb3Q0ESWj2zWLNDsdTTJmOMBTq8Nr2TVET6J8cPe4VcE92SDCtVqemzQgaA3QRNrOdgcY6B0Qh8aX/vAF3MvKWwR96iVLQ6iKqkGGfUtC70dgEYhE0QBpaRc3unb/na9Sb2dnlNENRSnOMFb1Zk=;/P0QAChYUsbm4yKd1m4oxA=="
 ---

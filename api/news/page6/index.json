@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
+      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
+      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "publishedDateTime": "2021-04-13T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRISTV.com",
+        "domain": "kristv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-10-authors-sharing-the-secrets-behind-startup-success-and-failure.md",
       "title": "10 Authors Sharing The Secrets Behind Startup Success And Failure",
       "excerpt": "Making your startup successful means aiming for success while dodging classic startup killers — the best way to know how is by learning from those who have been there before. Here are 10 authors who have seen the highs and lows of the startup journey and have invaluable knowledge for you to draw from:  In the first days of your startup,",
@@ -1175,57 +1219,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai.md",
-      "title": "“A Citizen’s Guide To Artificial Intelligence”: A Nice Focus On The Societal Impact Of AI",
-      "excerpt": "“A Citizen’s Guide to Artificial Intelligence,” by a cast of thousands (John Zerilli, John Danaher, James Maclaurin, Colin Gavaghan, Alistair Knott, Joy Liddicoat, and Merel Noorman) is a nice high level view of some of the issues surrounding the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/12/a-citizens-guide-to-artificial-intelligence-a-nice-focus-on-the-societal-impact-of-ai/amp/",
-      "publishedDateTime": "2021-04-12T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

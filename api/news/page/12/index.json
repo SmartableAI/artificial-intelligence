@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-08-the-mavericks-who-brought-ai-to-the-world-review-of-genius-makers-by-cade-metz.md",
+      "title": "The Mavericks Who Brought AI to the World - Review of “Genius Makers” by Cade Metz",
+      "excerpt": "It is the last four digits of Pi. The book isn’t organised this way, but Metz describes five phases in the rise of deep learning, which has brought AI to such prominent public attention. In the first phase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d8f5f33b81da20078e83e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2021/04/07/the-mavericks-who-brought-ai-to-the-worldreview-of-genius-makers-by-cade-metz/amp/",
+      "publishedDateTime": "2021-04-07T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-artificial-intelligence-studied-kurt-cobain-to-create-a-new-nirvana-song-and-it-kinda-rocks.md",
       "title": "Artificial intelligence studied Kurt Cobain to create a ‘new’ Nirvana song, and it… kinda rocks",
       "excerpt": "But in 2021, we actually have a “new” Nirvana song — thanks to artificial intelligence and a pitch perfect assist from a cover band leading man. As part of the Lost Tapes of the 27 Club, a project that is using artificial intelligence to create new ...",
@@ -1159,49 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-predicting-regional-coastal-sea-level-changes-with-machine-learning.md",
-      "title": "Predicting regional coastal sea level changes with machine learning",
-      "excerpt": "In this context, we present a machine learning approach that exploits key ocean temperature estimates (as proxies for the regional thermosteric sea level component) to model coastal sea level variability and associated uncertainty across a range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87460-z?error=cookies_not_supported&code=14d544be-58bc-4334-8810-e6877c286acd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87460-z/MediaObjects/41598_2021_87460_Fig1_HTML.png",
-          "width": 685,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

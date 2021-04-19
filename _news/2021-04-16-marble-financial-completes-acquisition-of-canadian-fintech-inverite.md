@@ -57,20 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "PwC unveils fintech marketplace"
-    excerpt: "Ten of the UK’s leading FinTechs have been brought together in a groundbreaking initiative by PwC which showcases how the future of banking will rely on collaboration and innovation, with personalisation at its heart."
-    publishedDateTime: 2021-04-14T10:41:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87100/pwc-unveils-fintech-marketplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Marble Financial announces closing of major fintech acquisition"
     excerpt: "Marble Financial has announced the closing of its acquisition of Canadian fintech Inverite Verification. Marble’s personal finance platform MyMarble will be incorporating the features of the AI-powered Inverite,"
     publishedDateTime: 2021-04-15T08:30:00Z

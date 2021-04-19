@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
+      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "publishedDateTime": "2021-03-19T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
       "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
       "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
@@ -1139,58 +1173,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem.md",
-      "title": "AI can be unintentionally biased: Data cleaning and awareness can help prevent the problem",
-      "excerpt": "But how can organizations safeguard against systems so the AI doesn't inadvertently inject bias that affects the accuracy of results? Bias can be injected into AI by faulty algorithms, by lack of complete data on which the algorithms operate or even by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "publishedDateTime": "2021-03-18T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-25-the-trevor-project-enlists-googles-ai-to-help-combat-the-lgbtq-suicide-crisis.md",
+      "title": "The Trevor Project enlists Google’s AI to help combat the LGBTQ suicide crisis",
+      "excerpt": "To accomplish this, the group’s AI division turned to the experts at Google.org to help with funding and know-how. Their combined efforts produced a novel training system called the “Crisis ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/trevorsplash-796x396.jpg",
+          "width": 796,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "publishedDateTime": "2021-03-24T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-trueblue-designs-the-future-of-artificial-intelligence-and-analytics-for-healthcare-with-aidea-integrated-with-microsoft-dynamics-365.md",
       "title": "Trueblue Designs the Future of Artificial Intelligence and Analytics for Healthcare With Aidea Integrated With Microsoft Dynamics 365",
       "excerpt": "VERONA, Italy--(BUSINESS WIRE)--Trueblue, after having announced the integration of its Artificial Intelligence Relationship ... Managing Director, HealthCare and Life Sciences, EMEA Regional Lead.",
@@ -1070,49 +1121,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-orange-forms-ai-data-ethics-council.md",
-      "title": "Orange forms AI, data ethics council",
-      "excerpt": "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg?fit=600%2C375&#038;ssl=1",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp",
-      "publishedDateTime": "2021-03-24T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

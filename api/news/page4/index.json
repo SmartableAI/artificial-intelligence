@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-14-ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers.md",
+      "title": "AI Chip Startup Groq, Founded By Ex-Googlers, Raises $300 Million To Power Autonomous Vehicles And Data Centers",
+      "excerpt": "The new funding values Groq at more than $1 billion – though just how much more Ross declined to say Over the past five years, Groq developed its first AI chip and got it into the market, with customers in both data centers and autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074cb4ae44b16aa367895a0%2F0x0.jpg",
+          "width": 841,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-samsara-unveils-new-app-marketplace-integrations-to-streamline-and-automate-workflows-for-customers.md",
       "title": "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers",
       "excerpt": "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in",
@@ -52,7 +104,7 @@
       "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -258,7 +310,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1250,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations.md",
-      "title": "Video conferencing company Touchcast uses AI to add context to conversations",
-      "excerpt": "Touchcast is staying a step ahead of the giants by innovating on AI-powered services for premium users. Special effects are important, but the key differentiator lies in creating more context to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/touchcast_inspirehall_venue_3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/video-conferencing-company-touchcast-uses-ai-to-add-context-to-conversations/amp/",
-      "publishedDateTime": "2021-04-13T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

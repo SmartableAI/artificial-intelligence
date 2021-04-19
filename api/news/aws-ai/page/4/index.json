@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-03-kaskada-launches-platform-to-prep-data-for-ai-models.md",
+      "title": "Kaskada launches platform to prep data for AI models",
+      "excerpt": "Kaskada, a startup developing a platform for feature engineering, has launched its platform in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "publishedDateTime": "2021-03-02T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies.md",
       "title": "The mindblowing Amazon work from home policy that rivals all other companies",
       "excerpt": "The online retail giant Amazon announced last year that it would allow its employees to work from home. It is now extended to the 30th of June 2021.",
@@ -1323,58 +1376,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience.md",
-      "title": "Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience",
-      "excerpt": "This is a guest post authored by Ben Rigby, the VP, Global Head of Product &amp; Engineering, Artificial Intelligence and Machine Learning at Talkdesk. Talkdesk broadens contact center machine learning capabilities with AWS Contact Center Intelligence. At Talkdesk, we’re driven to reduce friction in",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T09:13:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

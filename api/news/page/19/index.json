@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-01-ping-an-askbob-doctors-smart-imaging-model-for-diagnosis-of-pelvic-and-hip-injuries-is-a-breakthrough-for-artificial-intelligence.md",
+      "title": "Ping An AskBob Doctor's Smart Imaging Model for Diagnosis of Pelvic and Hip Injuries is a Breakthrough for Artificial Intelligence",
+      "excerpt": "In a research paper published in the international journal Nature Communications, the model is shown to overcome the limitation of other artificial intelligence (AI ... to continue offering our pelvic floor therapy across northern California.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19728461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -1171,40 +1214,6 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31?time=1617191701",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31?time=1617191701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

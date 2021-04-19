@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-18-microsoft-buys-siris-ai-partner-firm-nuance-for-197b.md",
+      "title": "Microsoft buys Siri’s AI partner firm Nuance for $19.7B",
+      "excerpt": "Microsoft is in advanced talks for buying speech AI startup Nuance for $16 billion. The firm has helped Apple improve Siri over the years.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
+      "originalUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fjohny-vino-R54V69BN0MI-unsplash.jpg&signature=de913f0a1ee80bdb56f6a999dee9653f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-17-artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google.md",
       "title": "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google",
       "excerpt": "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 328,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -1332,58 +1384,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard.md",
-      "title": "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard",
-      "excerpt": "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg",
-          "width": 1200,
-          "height": 1169,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "publishedDateTime": "2021-03-25T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

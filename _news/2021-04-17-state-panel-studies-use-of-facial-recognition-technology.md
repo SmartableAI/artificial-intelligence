@@ -73,52 +73,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Civil rights organizations call for ban on corporate use of facial recognition"
-    excerpt: "at the start of this year. The Portland ordinance bans private entities from using facial recognition technology in places of public accommodation. “We believe this ordinance should be used as a ..."
-    publishedDateTime: 2021-04-14T10:00:00Z
-    webUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial"
-    ampWebUrl: "https://thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/548037-civil-rights-organizations-call-for-ban-on-corporate-use-of-facial?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 55
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition_113017getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "First-Of-Its-Kind Letter Calls For Ban On Private And Corporate Use Of Facial Recognition"
-    excerpt: "More than 20 civil and human rights organizations are expanding the fight against facial recognition and calling for a ban not only on government and law enforcement use of the technology, but also private and corporate use. The letter says that “In a ..."
-    publishedDateTime: 2021-04-14T10:00:00Z
-    webUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition/"
-    ampWebUrl: "https://www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
-    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/letter-calls-ban-use-facial-recognition?amp"
-    type: article
-    provider:
-      name: ValueWalk
-      domain: valuewalk.com
-    quality: 50
-    images:
-      - url: "https://www.valuewalk.com/wp-content/uploads/2019/12/facial_recognition_1575578207.png"
-        width: 1280
-        height: 1066
-        isCached: true
-  - title: "AI and the future of gaming"
-    excerpt: "Charlotte Murphy is a freelance writer who loves writing about all things AI and how it's revolutionising the world in unexpected ways. There are few industries that cut as close to the edge in"
-    publishedDateTime: 2021-04-14T09:40:00Z
-    webUrl: "https://www.pocketgamer.biz/comment-and-opinion/76274/ai-future-gaming/"
-    type: article
-    provider:
-      name: Pocket Gamer.Biz
-      domain: pocketgamer.biz
-    quality: 37
-    images:
-      - url: "https://resource.steelmedia.co.uk/skins/25041616150133desktop.jpg"
-        width: 1600
-        height: 930
-        isCached: true
 
 secured: "XLaMdg+cxB2rslnQ8XlaDAwKah9CkN4PMna/r63fFXtS5LYSBgTXoXRQSX16oTHJLsWvo8D+7/NNhGsIrCKpgAmzA+EGHxNcCOEdMMOUbthnZsjFXamNTJ7FO5k92WD02TyRKbDdehytlGBhUqZGLLGEhaEDEQlz+F3eXkrzllo/zmvLxqqAbfCm/dmVa8R6Ir2cKEIiKDLx/pVJ9poa0Ojo4Vp62LNUaS4G04TQgq8pqW2YubJiZRt5vk555L8YYoEQ3lM40c5zJ1PJ7PSU5ZvhW78vEVtm09TCRan+E27yMgVVsuxAKe8J4RzbbxykpB4vJd1uk9Mi3lzn+Sgu0J9YeuGWAm19Ludyb6sC6VU=;ApESK0TE54BE8UX6w14y8w=="
 ---
