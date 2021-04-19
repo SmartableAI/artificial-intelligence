@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/pills-4099841_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Facebook unveils AI model to mix up cancer-curing cocktails with existing drugs"
+    excerpt: "No longer content to simply provide a platform for keeping up with long-lost cousins and spreading conspiracy theories, Facebook has branched out into developing artificial intelligence to help treat complex diseases."
+    publishedDateTime: 2021-04-19T15:45:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/facebook-unveils-ai-model-to-predict-efficacy-combining-existing-drugs-into-new-cancer"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 35
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1618844032/GettyImages-1040557296.jpg/GettyImages-1040557296.jpg?JMA_phMztn1QOuUs_88cl2PRK2Lnn1ca"
+        width: 8000
+        height: 3628
         isCached: true
 
 secured: "rWMLFRk5no84tGsUqtmXx6qgmLbqkHqCnnkQBmVx66xm90rzBJBhp+cGMYnK1/qAZOyQ4NdZd8krP7Bgmot6pWGh4wux6S4dGmu9pSzJADN05JgRaS60uvwa5VPgenZwwSbZjHjcKIQywGma8hgdoIWfl1UgmbvDa6AmORQ6wpbHUUa7G0sY1xN3T2JSfkipjnIFXai1aOzA5mDXRMO8wb++j3N33tf2od1O6Pf9kZk2yVPuKlK3k8HKqoqGvd0kuphOMbpCEu0BerSwnfVH5J74SBrtBspZhB9cXAMRY/JxrjHNYRaO0jit6lTkZiznZxB0m88zx5YHecZflLl/5vZe+dKlPkgXynaBJuHPUGdZGjqmFNugZt4Bm+gP5bItCYjv54HlMB+BC+FqU9kFyKPrZKCMlAyRzwSoSG/Jy0QU5sjQkWxPRw/dN9OV9bj479pRPAQIK92o+v8mV9ILk5dxBqH79gXtqFYeV5sx67htOpArcEv/EYriHI9E+pVaP2X8IbilAB6fTkM5zJ0/yg==;z5mndzKdTGk+carX7w+tKw=="

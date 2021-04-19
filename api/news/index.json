@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-12-expert-tips-to-help-small-businesses-affordably-leverage-aiml.md",
+      "title": "12 Expert Tips To Help Small Businesses Affordably Leverage AI/ML",
+      "excerpt": "However, with careful planning and targeted implementation, even small businesses can tap into the power of AI and ML. To help, 12 experts from Forbes Technology Council share tips to help small businesses incorporate AI and ML without breaking the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6079f6c7d2f0dc6ee4ec7716%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/amp/",
+      "publishedDateTime": "2021-04-19T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-everything-elon-musk-has-said-about-teslas-self-driving-cars.md",
+      "title": "Everything Elon Musk Has Said About Tesla's Self-Driving Cars",
+      "excerpt": "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg",
+          "width": 2500,
+          "height": 1566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "publishedDateTime": "2021-04-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-us-banks-are-using-ai-to-watch-customers-and-employees.md",
       "title": "US banks are using AI to watch customers and employees",
       "excerpt": "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ...",
@@ -566,7 +670,7 @@
       "originalUrl": "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -885,49 +989,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-59-and-69-year-old-men-dead-after-self-driving-tesla-crash-authorities-said.md",
-      "title": "59 and 69-year-old men dead after self-driving Tesla crash, authorities said",
-      "excerpt": "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside.",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "originalUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "publishedDateTime": "2021-04-18T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13.com",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai.md",
       "title": "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI",
       "excerpt": "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform.",
@@ -1074,7 +1135,7 @@
       "originalUrl": "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1159,58 +1220,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-microsoft-buys-siris-ai-partner-firm-nuance-for-197b.md",
-      "title": "Microsoft buys Siri’s AI partner firm Nuance for $19.7B",
-      "excerpt": "Microsoft is in advanced talks for buying speech AI startup Nuance for $16 billion. The firm has helped Apple improve Siri over the years.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
-      "originalUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fjohny-vino-R54V69BN0MI-unsplash.jpg&signature=de913f0a1ee80bdb56f6a999dee9653f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

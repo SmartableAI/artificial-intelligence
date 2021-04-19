@@ -25,51 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month"
-    excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
-    publishedDateTime: 2021-04-14T23:56:00Z
-    webUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/"
-    ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
+  - title: "Everything Elon Musk Has Said About Tesla's Self-Driving Cars"
+    excerpt: "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas."
+    publishedDateTime: 2021-04-19T15:51:00Z
+    webUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727"
+    ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
+      name: Newsweek
+      domain: newsweek.com
+    quality: 104
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg"
+        width: 2500
+        height: 1566
         isCached: true
-  - title: "Canadian police pull over car thinking driver is drunk — nope, it’s ‘self-driving’"
-    excerpt: "Police in Canada pulled over a car last week thinking it was being driven by a drunkard! But no, it was driving itself... apparently!"
-    publishedDateTime: 2021-04-16T16:30:00Z
-    webUrl: "https://thenextweb.com/news/canadian-police-driver-drunk-nope-self-driving"
+  - title: "Two dead in self-driving Tesla crash after hitting tree, bursting into flames"
+    excerpt: "Two men were killed in Spring, Texas after officials said a Tesla was driving itself when it ran off road, hit a tree and burst into flames."
+    publishedDateTime: 2021-04-19T17:42:00Z
+    webUrl: "https://www.nbcnews.com/video/two-dead-in-self-driving-tesla-crash-after-hitting-tree-burst-into-flames-110467653753"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo110467653753"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110467653753"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F03%2Fthird-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving.png&signature=045313075df9ec4fba69a44106485acf"
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/teslawreck.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All"
+    excerpt: "Self-driving cars will be capturing video of everything they encounter, raising privacy qualms, of which using blurring might be a helpful remedy."
+    publishedDateTime: 2021-04-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361"
+        width: 617
+        height: 347
+        isCached: true
+  - title: "59 and 69-year-old men dead after self-driving Tesla crash, authorities said"
+    excerpt: "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside."
+    publishedDateTime: 2021-04-19T03:17:00Z
+    webUrl: "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    ampWebUrl: "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 71
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg"
         width: 1280
-        height: 640
-        isCached: true
-  - title: "China’s self-driving buses now in full operations"
-    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. BUSES OF THE FUTURE Three self-driving buses ..."
-    publishedDateTime: 2021-04-15T17:20:00Z
-    webUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/"
-    ampWebUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 44
-    images:
-      - url: "https://www.manilatimes.net/wp-content/uploads/2021/04/self-driving-buses20210416.jpg"
-        width: 1013
-        height: 566
+        height: 720
         isCached: true
   - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
     excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
@@ -85,20 +103,45 @@ related:
         width: 1024
         height: 666
         isCached: true
-  - title: "Self-driving cars coming to Maine in the future"
-    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
-    publishedDateTime: 2021-04-19T08:37:00Z
-    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
+  - title: "2 killed in self-driving Tesla crash in Texas"
+    excerpt: "The crash killed two people in Spring, Texas."
+    publishedDateTime: 2021-04-19T16:17:00Z
+    webUrl: "https://www.wcax.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
     type: article
     provider:
-      name: Maine Campus
-      domain: mainecampus.com
+      name: WCAX3
+      domain: wcax.com
     quality: 39
     images:
-      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
-        width: 560
-        height: 416
+      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
+        width: 980
+        height: 551
         isCached: true
+  - title: "Two die in self-driving Tesla car crash in Texas"
+    excerpt: "Police officers investigating a traffic accident in Texas say a car careered from a curve and crashed into a tree, bursting into flames and killing a man in the passenger seat and another in the back"
+    publishedDateTime: 2021-04-18T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/two-die-in-self-driving-tesla-car-crash-in-texas-6933kphcj"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3e3b9d1c-a094-11eb-b457-728758ee7665.jpg?crop=411%2C231%2C114%2C35&resize=685"
+        width: 411
+        height: 231
+        isCached: true
+  - title: "Two men die in a fiery Tesla crash in Texas; investigators say it was set in \"self-driving\" mode"
+    excerpt: "Two people were killed in Texas in the fiery crash of a Tesla and authorities say there was no one in the driver's seat at the time of the crash,"
+    publishedDateTime: 2021-04-19T01:14:00Z
+    webUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.html"
+    ampWebUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
+    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
+    type: article
+    provider:
+      name: KMOV
+      domain: kmov.com
+    quality: 26
 
 secured: "RacVmivygABE6hhua9Kdg6mwN+ZkkmbobhC9qRf06y5zCOtLzkr14VyRMdKz1RxpzjpoDRUNIQqXdS1mQVL4obiT9HRR3dCkh+RSSifBoIYT1z6FMYnYr+ozO5JOHmlbDkv+jhApzeIM4KKRp2cok1EdgZ4gaigEFdMRgANrxMmV1aWXWOvoNH4rZxqtzSwJyS4aekXx/BUMiRYyKSeaTaUjlihkRuHnVTrc80z89LtyBeCFKTh9adSwDWbeqjawXoptrdlP6vzLpggzHQXKs7zhL/dAMwpb9AGA9Kfb24FQRDCO3/Vp9Gqflkwe8MGrMD/JGW1qS2iG9n2BtxMoPwc7AQYXh1eaDkmx59VNvv73E3bNhqZ+4vpM3qgrQPWslMfIO/55V3AdKMM/1wh96BDeaYr4oUtmW9orbIrI+th89XCZ1hPR3CKxQJrDcHdyGaLLO/5tyIJkCVV4g01Y8B6kZqR2Z+UKm+ddqsdBDQg+VOCtoiJxCJhX8RjAHrMLSiqhltytUhfvlwNfTdeLTQ==;iYIQiPYv/KtAA5hdf8xN+Q=="
 ---

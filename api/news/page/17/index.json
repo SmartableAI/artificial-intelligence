@@ -2,6 +2,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-06-apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.md",
+      "title": "Apple’s C.E.O. Is Making Very Different Choices From Mark Zuckerberg",
+      "excerpt": "kara swisher The day of the attack, I was actually interviewing the C.E.O of Parler ... that it’s hard to imagine my life without it. “Sway” is a production of “New York Times” Opinion. It’s produced by Nayeema Raza, Blakeney Schick, Heba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/05/opinion/apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/05/opinion/apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/05/opinion/05sway-cook-image/05sway-cook-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/05/opinion/apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/05/opinion/apples-ceo-is-making-very-different-choices-from-mark-zuckerberg.amp.html",
+      "publishedDateTime": "2021-04-05T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-autonomous-endgame-the-10-year-plan.md",
+      "title": "Autonomous endgame: The 10-year plan",
+      "excerpt": "After its debut in 2015 in Las Vegas, the autonomous commercial vehicle has been making waves in the trucking industry. Some skeptical, some awed, some practical and some cautiously optimistic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21160184/autonomous-endgame-the-10year-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/fleetowner_33944_091318_volvo_trucks_vera_autonomous_10_1.606b0be5465da.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-us-army-looks-to-facial-recognition-access-at-bases.md",
       "title": "U.S. Army looks to facial recognition access at bases",
       "excerpt": "The U.S. Army seeks to install face-recognition cameras at base entrance checkpoints, it announced in a contract call for a recognition biometric camera system.",
@@ -1120,91 +1214,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-rethinking-the-case-for-governance.md",
-      "title": "Rethinking the Case for Governance",
-      "excerpt": "Yet, positive energy aside, our traditional approach to endorsing governance of data, analytics, or AI remains ... a universal translator and navigational beacon—one which ensures that everyone, regardless of role, is speaking the same language and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
-      "originalUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-parties-use-data-analytics-ai-to-understand-voters-preferences-in-kerala.md",
-      "title": "Parties use data analytics, AI to understand voters’ preferences in Kerala",
-      "excerpt": "Though bulk SMSes and recorded voice calls remained in use, political parties, aided by IT firms, used data analytics and Artificial Intelligence (AI) for analysing voters’ minds and the character of a constituency. AI is a machine’s ability to think ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
-      "originalUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/4/5/w600X390/Partiesaaa-.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2021/apr/05/parties-use-data-analytics-aitounderstand-voters-preferences-in-kerala-2285892.amp",
-      "publishedDateTime": "2021-04-04T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

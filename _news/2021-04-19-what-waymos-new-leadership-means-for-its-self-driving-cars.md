@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-waymos-new-leadership-means-for-i
 webUrl: "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
+    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company's rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha \"Sid\" Venkatesan will join as Chief Legal Officer."
+    publishedDateTime: 2021-04-19T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/embark-expands-senior-leadership-team-to-commercialize-self-driving-trucks-1030318818"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1489905/Richard_Hawwa.jpg"
+        width: 286
+        height: 400
+        isCached: true
   - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
     excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
     publishedDateTime: 2021-04-16T04:49:00Z

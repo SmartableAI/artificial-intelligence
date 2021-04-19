@@ -29,79 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month"
-    excerpt: "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program."
-    publishedDateTime: 2021-04-14T23:56:00Z
-    webUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/"
-    ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
+  - title: "Precipice Edginess When A Self-Driving Car Drives Down A Super-Steep Slope Like These Top Ten U.S. Vertical-Drop Streets"
+    excerpt: "Self-driving cars need to cope with steep downward sloping streets, which can also be challenging to human drivers (included is a list of the Top 10 steepest gradients in U.S. public roadways)."
+    publishedDateTime: 2021-04-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 49
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "China’s self-driving buses now in full operations"
-    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. BUSES OF THE FUTURE Three self-driving buses ..."
-    publishedDateTime: 2021-04-15T17:20:00Z
-    webUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/"
-    ampWebUrl: "https://www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/04/16/news/world/chinas-self-driving-buses-now-in-full-operations/864336/amp/"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 44
-    images:
-      - url: "https://www.manilatimes.net/wp-content/uploads/2021/04/self-driving-buses20210416.jpg"
-        width: 1013
-        height: 566
-        isCached: true
-  - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
-    excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
-    publishedDateTime: 2021-04-18T21:17:00Z
-    webUrl: "https://www.ibtimes.com/2-dead-after-self-driving-tesla-crashes-tree-bursts-flames-3183036"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
-        width: 1024
-        height: 666
-        isCached: true
-  - title: "Self-driving cars coming to Maine in the future"
-    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
-    publishedDateTime: 2021-04-19T08:37:00Z
-    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
-    type: article
-    provider:
-      name: Maine Campus
-      domain: mainecampus.com
-    quality: 39
-    images:
-      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
-        width: 560
-        height: 416
-        isCached: true
-  - title: "Two men dead after Tesla crashes while in self-driving mode"
-    excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
-    publishedDateTime: 2021-04-19T02:11:00Z
-    webUrl: "https://www.kulr8.com/news/two-men-dead-after-tesla-crashes-while-in-self-driving-mode/article_98a160b4-a0b4-11eb-9499-674147791e30.html"
-    type: article
-    provider:
-      name: KULR 8
-      domain: kulr8.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/34/2346eb46-a0c2-11eb-ac31-2b93c0ec754e/607cfdb787dae.image.png?crop=301%2C226%2C73%2C0&resize=301%2C226&order=crop%2Cresize"
-        width: 301
-        height: 226
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6043fdc573ab10aeef8f1713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D453%26cropY1%3D20%26cropY2%3D275"
+        width: 453
+        height: 255
         isCached: true
 
 secured: "pSNondSycV2zr5fsiiDERaDnUgqTOk7/hVy8YVljmnhnjqZUXSlTTH6/KbZUyKl3spDWcDifXX0+rKZq7aOsy1wJPHQZ/RLi79LhxTtu9GfFu1xhkkn77PVLJtJNga8KjEysm5ZUfDcTP0FGPzuWneDi2a7rcDZQNxMUC7MpxzcxHsdkCxqjYcZ+RxWpdgaPdvdMTzXx7OdkDStLi/hA7Wok4fLXZoWNKd67FrMprMUQn9+ShlLJ9SsPFc8hfwD744VqDmYv5NPPh/U+Vh+TdTGrvAiFgIm1xlb464l7xB+P66osHlOETRlc2/DvzIv896Hlnjy5v7Gbr05hty2jkFENW49U2YyrKc4MqXVhg6zvMEx/BldcW3vsNWqZdTJjEVVXlTQQH1a35k7VPwcrBfA/DAxY7dZzGWKZWjcH2georcKQWfYmX39o5lWbiXFKxLPLfGUMq/r1NUpXbYihpq6UNqsMnFvAlmJ2siUI2Qkzme3fontoJAOAaiIL90FZc6u2Wy+11JLUT+FbGhcUAw==;uvnBapZ1xyOB2kJzcIifag=="

@@ -2,13 +2,13 @@
 category: news
 title: "U.S. banks deploy AI to monitor customers, workers amid tech backlash"
 excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
-publishedDateTime: 2021-04-19T09:03:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-banks-facialrecognition-insight/u-s-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash-idUSKBN2C611P"
-webUrl: "https://www.reuters.com/article/us-usa-banks-facialrecognition-insight/u-s-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash-idUSKBN2C611P"
+publishedDateTime: 2021-04-19T09:05:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-banks-facialrecognition-insight-idUSKBN2C611P"
+webUrl: "https://www.reuters.com/article/us-usa-banks-facialrecognition-insight-idUSKBN2C611P"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C611P"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C611P"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -95,6 +96,6 @@ related:
         height: 673
         isCached: true
 
-secured: "nI/uXUcUkf02RsSCY45fniujWKcJBousBWYMIGNI6UKFU5d169jNd+Y4QVyZCNLrI54Mxr6ysf1BM5vRtu+YptpvxkqGoLAoR4Tdk7mELdgHo3jB5aB6XjlLjciGNbMYpCI/M6JGNbZR7/YwO94Z2QirzyONCgyEuv6NjZrxdNkYYDFC5TzUct0RzIOd0Sg/lH5gvewwfqMgTK8lH7Zd8orDQJhsUKVt4SB2d4jfYaIKlH5s3Df0SPO0qVV79//NJ+iHwKjh9El4ln6kCyZUC66TBZPpM3IKgloG1DH+SQNbDvWjD8zKyr939LmSrJPyy5s86Vvdmqs+XiN4PD6GoUSsXtAkE3qOo6brFMAG7vLUmYN+jpXp3tEfsw3x8q04bLyvKCjDMBursKPOA2NJ/plVa3AJwIIDN6+Ffimml1mNdQl68N2AntOm3XJo1r8QLYZPtrBVbp6sBeIbBB4RDu7nSlClbknSgumao/EubmuxFUWw2cKFy7tCk+Y3IsgNFMzqVnVL7JBdBBGnRZ2rJg==;QpSNbYcUzToIoE3fGs4nSg=="
+secured: "0AEoaXBaSAxv9BO0Xmk2VYdzFJXbdwxlondfgLaLPuzs2MSvMQiPhKSjgmYgZGG+mGzhZsFl2KJNyvKyLxMXV6TBixj5O8PfN/YgJyTw4I0l81EGTBSR6BbSRKvi3Dp4yu83leuStRC/El4oL28zkO+ut0MwSxIWupdtf1I04VJsNon0dWzBYlTN9KgRK7Vyl3LcCjrd7SqIgsDPkv7AYS4YL3MvE91T/Jc7jZkihSqc2mdiXql3lKCbPY7jlFMuZ9MRYaqSDV5Ew9FsfSTDIK194iHFuFtnKT3ptEqKuon1JOTjKLB1t90DqitCIx3fvz0vvbpXwXOVikla7BBXD7Tx0HyfJRDjkWrQuSdg9iw=;LJMSfeX/J8PmwEWgoJDdIg=="
 ---
 

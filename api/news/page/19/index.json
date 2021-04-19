@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-04-02-adapts-mission-to-empower-tech-users-with-an-ethical-approach-to-ai.md",
+      "title": "Adapt’s mission to empower tech users with an ethical approach to AI",
+      "excerpt": "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
+      "originalUrl": "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2021/04/V_WADE_1_of_25.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation.md",
+      "title": "Five Things To Consider When Choosing AI-Driven Proptech For Your Multifamily Operation",
+      "excerpt": "Elik Jaeger President & CEO at SuiteSpot Technology, frictionless facilities management PropTech for multifamily operators. Many multifamily operators are still making important decisions about property operations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606615d9264f96883f69916a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2021/04/02/five-things-to-consider-when-choosing-ai-driven-proptech-for-your-multifamily-operation/amp/",
+      "publishedDateTime": "2021-04-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates.md",
       "title": "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates",
       "excerpt": "Based in Shenzhen, the powerhouse of ICT industry in China, HAI ROBOTICS has been developing AI powered ACR systems since 2015 and ... of the Shenzhen based ACR systems pioneer’s strong head start of a fast expansion to the global markets.",
@@ -1105,100 +1200,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-curri-nabs-6m-for-ai-powered-last-mile-construction-logistics.md",
-      "title": "Curri nabs $6M for AI-powered last-mile construction logistics",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Curri, a Y Combinator-backed logistics startup delivering construction supplies and materials, today ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/warehouse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/curri-nabs-6m-for-ai-powered-last-mile-logistics-for-construction/amp/",
-      "publishedDateTime": "2021-04-01T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-researchers-develop-explainable-artificial-intelligence-algorithm.md",
-      "title": "Researchers develop 'explainable' artificial intelligence algorithm",
-      "excerpt": "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg",
-          "width": 750,
-          "height": 304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
-      "publishedDateTime": "2021-04-01T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

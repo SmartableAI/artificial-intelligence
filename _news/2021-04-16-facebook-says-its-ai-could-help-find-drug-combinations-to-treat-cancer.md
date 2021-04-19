@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Facebook unveils AI model to mix up cancer-curing cocktails with existing drugs"
+    excerpt: "No longer content to simply provide a platform for keeping up with long-lost cousins and spreading conspiracy theories, Facebook has branched out into developing artificial intelligence to help treat complex diseases."
+    publishedDateTime: 2021-04-19T15:45:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/facebook-unveils-ai-model-to-predict-efficacy-combining-existing-drugs-into-new-cancer"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 35
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1618844032/GettyImages-1040557296.jpg/GettyImages-1040557296.jpg?JMA_phMztn1QOuUs_88cl2PRK2Lnn1ca"
+        width: 8000
+        height: 3628
+        isCached: true
 
 secured: "LIMew8AK6W2/iK2k7k4p5oqcLkToFCoGk/1nRGZ3vPr9TmjsY+7sk09caoBZTnkgpPFL2vAvLFzvnJxkXyVJp8PzN6C/cDQRAQ1AAlipQqP4HxeKbLL3kPKe8fz3kU6NgKppdoOApudDWRTrW4DIpAA8VnYZOSPmrVMFercGlMmfC0JxzNX1lBrByR+vDILViagP1bxUcXY3P1SsICZh0KhE0XTd6x8gZv/YIZUwZnrTrWeWj3L2xH4wukUaWwgJG+F1hFfPu5x8kr8Zj/vjeyOlVl5nzVBXDIgAOgDJGQEST4Ej8lQprs5MwUr4dHNJuG/MAoYWC5akxM1QMxjSf1YAlFf2hmOWQwEAnhKBfdde9aiWTdorVgU42HoH1/+c0rqMpOGImPag0O+2m5wuV7lUgUdokM7n85haIeeiGVpxF1X786dr8H3VuZAdNIoxU/64LJodE9JXilLPww1DQwpNUic/iq/eALlMBMI7cUVylGvR+vbEY9tjEy6ifllYSKgULqWWHSY0ETR9Z4HkJA==;wYvh+3TaNX0iDjgQOuq8Pw=="
 ---

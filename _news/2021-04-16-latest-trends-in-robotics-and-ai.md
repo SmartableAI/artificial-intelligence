@@ -39,6 +39,20 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "AI Augmentation in Healthcare and Life Sciences"
+    excerpt: "The use cases for augmentative AI are expanding, and the Healthcare and Life Science industry is tapping into it’s potential."
+    publishedDateTime: 2021-04-19T16:00:00Z
+    webUrl: "https://www.cio.com/article/3615462/ai-augmentation-in-healthcare-and-life-sciences.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/04/linked-neurons_4-19-21-post-100885228-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
     publishedDateTime: 2021-04-16T21:00:00Z

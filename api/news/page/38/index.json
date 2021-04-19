@@ -2,6 +2,111 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-03-20-how-many-robot-helpers-are-too-many.md",
+      "title": "How many robot helpers are too many?",
+      "excerpt": "About a year ago, at a robotics conference TechCrunch held at UC Berkeley, AI startup founders explored solutions for common problems encountered when trying to automate construction projects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
+      "originalUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Piaggio-Fast-Forward-x-Trimble3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
+      "publishedDateTime": "2021-03-19T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
+      "title": "AI Weekly: With RPA on the rise, security challenges remain",
+      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rpa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "publishedDateTime": "2021-03-19T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-vietnams-first-autonomous-vehicle-debuts.md",
       "title": "Vietnam’s first autonomous vehicle debuts",
       "excerpt": "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam's first smart self-driving vehicle.Vietnam's first self-driving vehicle's prototype was displayed in front of a conference building at Phenikaa University.",
@@ -1078,92 +1183,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-niti-aayog-aws-partner-to-train-students-on-cloud-computing.md",
-      "title": "Niti Aayog, AWS partner to train students on cloud computing",
-      "excerpt": "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),",
-      "sourceUrl": null,
-      "webUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "originalUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sakshi Education",
-        "domain": "sakshieducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ibms-project-debater-showcases-next-gen-ai-driven-productivity.md",
-      "title": "IBM’s Project Debater showcases next-gen AI-driven productivity",
-      "excerpt": "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html",
-      "originalUrl": "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html",
-      "publishedDateTime": "2021-03-19T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-everything-elon-musk-has-said-about-teslas-self-driving-cars.md",
+      "title": "Everything Elon Musk Has Said About Tesla's Self-Driving Cars",
+      "excerpt": "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg",
+          "width": 2500,
+          "height": 1566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "publishedDateTime": "2021-04-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-the-station-a-chat-with-scale-ais-alexandr-wang-the-nyc-scooter-winners-and-tusimple-goes-public.md",
       "title": "The Station: A chat with Scale AI’s Alexandr Wang, the NYC scooter winners and TuSimple goes public",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
@@ -167,7 +219,7 @@
       "originalUrl": "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -241,49 +293,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-59-and-69-year-old-men-dead-after-self-driving-tesla-crash-authorities-said.md",
-      "title": "59 and 69-year-old men dead after self-driving Tesla crash, authorities said",
-      "excerpt": "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside.",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "originalUrl": "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/",
-      "publishedDateTime": "2021-04-18T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13.com",
-        "domain": "abc13.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
