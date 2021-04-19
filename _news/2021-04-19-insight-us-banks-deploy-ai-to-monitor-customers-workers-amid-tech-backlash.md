@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "US banks are using AI to watch customers and employees"
+    excerpt: "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ..."
+    publishedDateTime: 2021-04-19T15:31:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596536929/Facial_recognition_SHUTTERSTOCK.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "U.S. banks deploy visual AI tools to monitor customers and workers"
     excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences and monitor workers."
     publishedDateTime: 2021-04-19T10:38:00Z

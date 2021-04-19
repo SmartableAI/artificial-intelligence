@@ -92,6 +92,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "TuSimple’s Mullen maps out trucking’s self-driving future"
+    excerpt: "Truly driverless tests are scheduled in Arizona later this year as the San Diego-based company continues on its path to offer Level 4 trucks by 2024 via its production partnership with Navistar."
+    publishedDateTime: 2021-04-19T15:09:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21161589/qa-tusimples-mullen-maps-out-truckings-selfdriving-future"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/TuSimple_IPO_4.15.607d8efb45060.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MHbSgiWyddt8GgLl75rccwfBOg9NlwAtXTWXRlbPfbPYMsQj99+c1kEc768Ex7a8aqfDTHMGlPTErnceUFzDAsuzVlT1R+Vu2CfS1xPWAJ9Ek8Vo32vQkkrZL+tbfNuAxK8Eqe6xZ/A9ADsCyueS1E1Z3gugy3fF+5C8m0hCU5dM2nOUAeb09pn3NLcp59yAVPHDWsRAmQg/VtJilZKKZut2kAOPFg2ZO5uzGdpjpc/Br7SVluo7qcPqbHpTMz+1vghCzKcvftgRC7C0QGRXASwZIUSVZwGfXK0Fzgg+JnFrZBtyccznLGK3i64XHWM9fIF3vXfi+Gz9ETsJAQbTpmtu7jU6ZtrsyqBw4AacDHM=;KHim0faFAei6ca672SIVPw=="
 ---

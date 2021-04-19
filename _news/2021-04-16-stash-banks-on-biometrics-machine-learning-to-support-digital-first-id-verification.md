@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machi
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -26,6 +26,24 @@ images:
     width: 457
     height: 274
     isCached: true
+
+related:
+  - title: "How Stash Is Tapping Machine Learning, Behavioral Biometrics For Robust, Digital-First Identity Verification"
+    excerpt: "In an interview, Caleb Callahan, VP of fraud at personal finance app Stash, discusses the use of machine learning for digital-first identity verification."
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/"
+    ampWebUrl: "https://www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/stasfs0421-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "42JiZ31gJL+IjgbWsxW7quNWP+e8KRScXxhxaCiqUCUv+9DQf+J0YMH7GmwkQAdSn8yKKt8JL0qP3VGQME+6mCn9+tqki4SWBVqChTdPJzlQnMmJ9qOkbxWOm3tiFcD7PXtgjp5sauEQH4rV0Nnj5PsVV8S9stH193VhSHmYKQ6gxkJvQ7cUvqIQBq4yyBs6dfA+22wFh94RfLDQWQghoyTsitavQ2OhSvH6aeZJt6i63Qll3UDUc+P3VPhyDa16rnG5o0kgTZ/JdpC/sZWlbCODwyJYOaRk7FKz+8mogKTvK6Z5Bd1cKWwgWMgCOR9NFAbY/3UjcLKlX/2LcOpYzsvKc5E85GB47DmNJNpUJWFNq+Ti2Lxal/FC37G4lxRJiCsxHCLFpj9fyCcAxkm6HWBIoRwAY4sr6t+NHotEO+tARWgok/eqHjpUCjFzJPE30iXrAPQO1aDYIDVyuMbDmH6q369uTjp3Q46oCZEI+EVkYMJGRjN4FpIah5/SrJBZWVfWIYitUF+Cs6hSQXYJmw==;32uMYNiVzDGcSya3uISm5A=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 877
         height: 461
         isCached: true
+  - title: "Investors Pump $1 Billion into AI Chip Startups Samba Nova, Groq"
+    excerpt: "Investors are pouring money into artificial intelligence (AI) startups at an unprecedented rate. Last week, two AI hardware startups received nearly $1 billion in venture capital funds to bring additional chips to market."
+    publishedDateTime: 2021-04-19T15:09:00Z
+    webUrl: "https://datacenterfrontier.com/investors-pump-1-billion-into-ai-chip-startups-samba-nova-groq/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 54
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/groq-node.jpg"
+        width: 740
+        height: 412
+        isCached: true
 
 secured: "NQuzEQWi7hundL4kCbvBpyMTrkNwIl15fjArz1fHG28snPwPMU7uaYHU3L+esvFQc/fHBiYrnvUAj/7iXq/AHQmwoK7ndIiXPpXGmEmVpTeOUfrz2U3FOucxRH71HwaDWzLqx/Cx2RVp80b68oYQWiwOiaNTXKT2y0gBnSHrvTbRnbdQ8IhZYJAZJkkwjyiCPK7JC/99pBy1vaJHPbqFa8N7x7+gkshDYG8utEQQCDDsdquhv0KujK51SbTh6CptXRlbbO5JBoAx3GDxtBYa43aMgmDeJWfI9rWrZWodg0gyfri+jdjW4fq4pFX+90ijLWDYrYMeOqn3Jx4kgxhPp4DYx9d8j4RfLAD3FoCfe0c=;Ni2zjSyZP1mDrtIOKH9DfA=="
 ---

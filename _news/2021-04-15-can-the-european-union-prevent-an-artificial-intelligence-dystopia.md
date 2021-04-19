@@ -55,19 +55,16 @@ related:
         height: 350
         isCached: true
   - title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
-    excerpt: "Applied Recognition and the Sovrin Foundation are proud to announce a strategic partnership to create biometric binding for digital identity credentials and digital wallets."
+    excerpt: "To advance privacy and security of digital identity credentials for consumers, Sovrin is working with Applied Recognition Corp. to deliver biometric binding for"
     publishedDateTime: 2021-04-19T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-credentials/article_7e9f415c-5b13-51eb-946f-1af0561f1818.html"
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20681185/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-cr"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20681185"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20681185"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 6
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "W/I66zQhumiWm39zorJPDhx8A72atxNbpxmiUTvvST4zMxmHTTn+ZwW7q8GzS++EiNt7TsXttlb00y7FD04GOczRYiXtO+pRlUoEsUF6JqnEGjIghAoGaIAnI8PMahNdNdbmN0dOPId0WJxvN3M9tRkQkC57p5p3tgU93IWKt7WS9BqS7Cdnt1OisdlXDe8sR4G1JqOZnhW5kUh8GhMouZdymayNTzHaaG7yy11DtaoMEcpkbv4x5R5Pja78j7UvxQQNLvDiEov3zTUI6gxlxlBDulV+j1fsdG4GiZHl0wywTeg7SzapXbuG939Miisv4UQGyt21nIPz7QzEgL8MTTvJtfhOR2b4xCgnHIZLn+mcqFBboN8zCUNuq7PTXPZzkFjxtMWcQ7Q4tAi7MY+9y9lLejvfRi4sBLoC0GWtGkSTQjk5piRfTGCcpdO5c+tqK6rII208tY0NihJdcPM/hulX6dcaV/4IlYZxIlvTsAkFBKB3TXbY91nk5z1aRx9smPFjjln0ieV689RDc+ODrQ==;Aw9L0VcviyCuVSTqA+aRgw=="
 ---

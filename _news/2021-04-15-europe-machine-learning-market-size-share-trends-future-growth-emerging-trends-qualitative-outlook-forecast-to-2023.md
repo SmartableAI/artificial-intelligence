@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-04-19T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
     excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
     publishedDateTime: 2021-04-19T05:06:00Z
@@ -108,6 +122,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
+    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
+    publishedDateTime: 2021-04-19T11:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-overview-by-size-share-trends-growth-factors-analysis-opportunities-and-forecast-by-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -159,6 +187,20 @@ related:
     excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
     publishedDateTime: 2021-04-16T05:59:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-2021-2025-on-going-trends-by-development-history-and-business-prospect-says-kenneth-research-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
+    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
+    publishedDateTime: 2021-04-19T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
     type: article
     provider:
       name: MarketWatch

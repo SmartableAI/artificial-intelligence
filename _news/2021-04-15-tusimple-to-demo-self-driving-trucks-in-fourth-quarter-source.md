@@ -87,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "TuSimple’s Mullen maps out trucking’s self-driving future"
+    excerpt: "Truly driverless tests are scheduled in Arizona later this year as the San Diego-based company continues on its path to offer Level 4 trucks by 2024 via its production partnership with Navistar."
+    publishedDateTime: 2021-04-19T15:09:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21161589/qa-tusimples-mullen-maps-out-truckings-selfdriving-future"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/04/16x9/TuSimple_IPO_4.15.607d8efb45060.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
     excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
     publishedDateTime: 2021-04-15T10:18:00Z

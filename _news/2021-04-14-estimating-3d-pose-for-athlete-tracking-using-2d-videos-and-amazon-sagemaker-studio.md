@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/estimating-3d-pose-f
 webUrl: "https://aws.amazon.com/blogs/machine-learning/estimating-3d-pose-for-athlete-tracking-using-2d-videos-and-amazon-sagemaker-studio/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 824
     height: 464
     isCached: true
-
-related:
-  - title: "Implement checkpointing with TensorFlow for Amazon SageMaker Managed Spot Training"
-    excerpt: "Customers often ask us how can they lower their costs when conducting deep learning training on AWS. Training deep learning models with libraries such as TensorFlow, PyTorch, and Apache MXNet usually requires access to GPU instances, which are AWS instances types that provide access to NVIDIA GPUs with"
-    publishedDateTime: 2021-04-14T22:44:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 132
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "l/du1OpKE5izKytcEH5FvSFgA6qX7Mb0Vqnpt7A9OSi+3vPtk3rGrPIInvRNGl9J+tPL/jooal+85UB0QaEU/4FLLOBuUwIPWpZ0K6F21sZ1xlqcodpv3UyHv09R8DDIeModoq3g8DhWprbl3bBtWq6CtC0VoiGuqGOM0GomZe8LO7h8wgrqUcjPSFux0zVlji7chmsZs6hREpkXVF/MFPc9IJbnMhBkQNoicn2j9FlNQacuc6Q1nVC5rJl1J/7RKzZYjw/+yy6gZtAAzJT76ydPMH/zzk8HI1RhPb0QNSR4xMX4LHZPTwRPywXbAh3fkSoPbz9GXheYr1o05HH2Gan6l3i7WoY9z5PfHAdr3Yw=;tE3FiLaUbjoUt4yq1gTWOQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/
 webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21161146/electronic-design-ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Electronic Design
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tiger Global, D1 Lead $300 Million Round in AI Chip Startup Groq"
-    excerpt: "Read more: Small Chip Startup Cerebras Shows Off World’s Biggest Processor Ross said his approach is unconventional and more efficient than the AI chips made by Nvidia and rivals. An electric vehicle maker and a financial-services company are in the ..."
-    publishedDateTime: 2021-04-14T22:52:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq"
+  - title: "Danish AI startup Abzu raises 5.8 million euros seed round"
+    excerpt: "Denmark-based AI startup Abzu has announced a 5.8 million euro seed round led by Danish Seed Capital, Inventure, and PreSeed Ventures after Abzu has seen increased traction with several of the world’s largest pharmaceutical companies."
+    publishedDateTime: 2021-04-16T11:39:00Z
+    webUrl: "https://arcticstartup.com/danish-ai-startup-abzu-raises-5-8-million-euros-seed-round/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 84
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 37
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH_t8r6CqG2g/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/04/abzu.jpg"
+        width: 1234
+        height: 792
         isCached: true
   - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
     excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."

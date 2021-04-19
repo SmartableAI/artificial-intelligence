@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-19T09:25:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-greater-china-products-and-services-6384465665f71fa22b262d721785056c"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

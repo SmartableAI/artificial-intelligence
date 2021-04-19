@@ -7,8 +7,8 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-samba
 webUrl: "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Datacenter Dynamics
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investors Pump $1 Billion into AI Chip Startups Samba Nova, Groq"
+    excerpt: "Investors are pouring money into artificial intelligence (AI) startups at an unprecedented rate. Last week, two AI hardware startups received nearly $1 billion in venture capital funds to bring additional chips to market."
+    publishedDateTime: 2021-04-19T15:09:00Z
+    webUrl: "https://datacenterfrontier.com/investors-pump-1-billion-into-ai-chip-startups-samba-nova-groq/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 54
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2021/04/groq-node.jpg"
+        width: 740
+        height: 412
+        isCached: true
   - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
     publishedDateTime: 2021-04-16T20:24:00Z

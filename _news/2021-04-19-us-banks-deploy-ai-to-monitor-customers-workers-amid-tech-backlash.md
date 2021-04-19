@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "US banks are using AI to watch customers and employees"
+    excerpt: "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ..."
+    publishedDateTime: 2021-04-19T15:31:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596536929/Facial_recognition_SHUTTERSTOCK.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "U.S. banks deploy visual AI tools to monitor customers and workers"
     excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences and monitor workers."
     publishedDateTime: 2021-04-19T10:38:00Z
@@ -79,6 +95,6 @@ related:
         height: 673
         isCached: true
 
-secured: "QHQmFvzTlfmLkouQIzQ0tpbJhCViAh8tI0sO/u0NsfXY0pY5UBAQGCXHu5Dv5jw0YISZnTchjqBuSce9a9kPKXbekzxLghV0cCL0vKqTIVobHwqaYzUvYISrvSf/ct+c2mXAZl5j0UXSfKudqIS/TvKl40+w1ZIoq2+daQuJDVHjCbKpV1Aj0+PMVFc6xaG6FdSUsC5a5aVK60xlQewChopqY14QqfjW+mQwUd2Ffu9X2LOZ2EsM7HIexSdb13qbQFurKlDxdwTa0L45wZ7xBUuHyYReNTv7LZMa0Kt60IiuMMNqhXg2Aob6eJQqBQ6BAe4HoqwHXm8OSu8Z7+w7emzC6emJ5kU7mIZQO86irZg=;TbLrJ6LnghPlr1Btg6hmmg=="
+secured: "nI/uXUcUkf02RsSCY45fniujWKcJBousBWYMIGNI6UKFU5d169jNd+Y4QVyZCNLrI54Mxr6ysf1BM5vRtu+YptpvxkqGoLAoR4Tdk7mELdgHo3jB5aB6XjlLjciGNbMYpCI/M6JGNbZR7/YwO94Z2QirzyONCgyEuv6NjZrxdNkYYDFC5TzUct0RzIOd0Sg/lH5gvewwfqMgTK8lH7Zd8orDQJhsUKVt4SB2d4jfYaIKlH5s3Df0SPO0qVV79//NJ+iHwKjh9El4ln6kCyZUC66TBZPpM3IKgloG1DH+SQNbDvWjD8zKyr939LmSrJPyy5s86Vvdmqs+XiN4PD6GoUSsXtAkE3qOo6brFMAG7vLUmYN+jpXp3tEfsw3x8q04bLyvKCjDMBursKPOA2NJ/plVa3AJwIIDN6+Ffimml1mNdQl68N2AntOm3XJo1r8QLYZPtrBVbp6sBeIbBB4RDu7nSlClbknSgumao/EubmuxFUWw2cKFy7tCk+Y3IsgNFMzqVnVL7JBdBBGnRZ2rJg==;QpSNbYcUzToIoE3fGs4nSg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocad
 cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Ocado plans self-driving delivery vehicles and 'kerb to kitchen' robots in Oxbotica tech tie-up"
-    excerpt: "The grocery firm hopes to develop autonomous vehicle prototypes, for use in delivery as well as at its depots, within two years."
-    publishedDateTime: 2021-04-18T09:02:00Z
-    webUrl: "https://news.sky.com/story/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
-    ampWebUrl: "https://news.sky.com/story/amp/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/ocado-plots-future-of-kerb-to-kitchen-robots-in-tech-tie-up-12277230"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 32
-    images:
-      - url: "https://e3.365dm.com/21/04/1600x900/skynews-ocado-vans-delivery_5344331.jpg?20210416145509"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Ocado to pump £10mln into self-driving vehicle specialist Oxbotica"
     excerpt: "The companies plan to develop a wide range of autonomous solutions that have the potential to transform the warehouse and service delivery"

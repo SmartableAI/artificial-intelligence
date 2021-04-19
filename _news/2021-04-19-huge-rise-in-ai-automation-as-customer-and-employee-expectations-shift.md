@@ -32,6 +32,22 @@ related:
         width: 2000
         height: 1006
         isCached: true
+  - title: "Army researchers create pioneering approach to real-time conversational AI"
+    excerpt: "Spoken dialogue is the most natural way for people to interact with complex autonomous agents such as robots. Future Army operational environments will require technology that allows artificial intelligent agents to understand and carry out commands and interact with them as teammates."
+    publishedDateTime: 2021-04-19T15:04:00Z
+    webUrl: "https://techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/armyresearch.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "kNm8x5xWrEh1wt5mwwspCMEKtoxalM9O899HVHPFs9A55yxcZE9uc/G8Y+K78QKcaVEMxgvAGWP8+i1FlWOPs1lBljH0rGxoV+tLV02caE77SwgkvvcNn+UN0a0XHlMavSvzv2nt2txjI1NBVUKv4iI4jYC8b1KyHvckH68rVpDcrlRF7SkmAW8jPbpdkjsV7GSadP8osofoSvX7HnfH/85/R+0nBN4qqsHYLtMuY3Ow9VYEngpRFjYuCV95mfW8rXVVHJQkaM9R/QpLMBF6MbS25YHuWDfCxgmS1Zo2CYObwLI7pHO1EqU8tn2iLyZJvZKL+dA7xm/WFwl1UKACsvUshxMrvGyTWWi6vBK6i2N1Scp/3k6HvcnO7ogPLfTfu75Y9xoPwD4u4eob9AKX40BI8x4Lf7+vko7Pf1rmQIH4urRp7XHRWpS7Skty9j7CwqTrRGGNhmg+fCPYAcC99/XJ567TVBcaX5u8v8yH5y6gziGnsG05j7E6GRufdT+MwyQ7XxBhPkGsafVBGvD21Q==;n6fgQKV33nkv8zKbhj0pBA=="
 ---

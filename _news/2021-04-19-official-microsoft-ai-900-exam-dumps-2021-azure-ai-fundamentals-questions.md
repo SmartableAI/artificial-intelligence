@@ -122,20 +122,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "Microsoft's healthcare partnerships in the last 6 months: A timeline"
-    excerpt: "Microsoft has continued its push into healthcare by pursuing strategic partnerships to improve the nation's COVID-19 vaccine rollout, conduct clinical research and help hospitals manage their data. Below is a timeline outlining key moves Microsoft has recently made with other organizations: Oct."
-    publishedDateTime: 2021-04-14T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-s-partnerships-in-the-last-6-months-a-timeline.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Microsoft’s $20 billion AI deal will shake up how we work"
     excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."
     publishedDateTime: 2021-04-15T07:15:00Z

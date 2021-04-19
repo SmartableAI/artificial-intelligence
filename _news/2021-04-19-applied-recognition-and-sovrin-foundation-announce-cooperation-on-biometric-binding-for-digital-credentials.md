@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
-excerpt: "Applied Recognition and the Sovrin Foundation are proud to announce a strategic partnership to create biometric binding for digital identity credentials and digital wallets."
+excerpt: "To advance privacy and security of digital identity credentials for consumers, Sovrin is working with Applied Recognition Corp. to deliver biometric binding for"
 publishedDateTime: 2021-04-19T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-credentials/article_7e9f415c-5b13-51eb-946f-1af0561f1818.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-credentials/article_7e9f415c-5b13-51eb-946f-1af0561f1818.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/p20681185/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-cr"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/p20681185/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-cr"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20681185"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20681185"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "MEPs call for European AI rules to ban biometric surveillance in public"
@@ -70,6 +66,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TUStRgmtK+bbXSZH/y4RaQDu3OSbegMEUogHGKctTck2v0XI2ytUL8jcj3avwKSoLFH2LKazXPhcolEYdwrthY/28m99du/0HUvlq95M60CLVDfik5QUVnFSjN4nJ3Pvj6b9/vyv8tEP9/HN6OMKohUp+EYsbWRy/IPEjy3sCxpbpxKIXGPMNtliqQj+JEqdPcfFLpT2F3ygg89QyGFmvzbS/mG0iTNNqchWrQBWj7AjnzmdvQJSHb4p/fxesK2IjlLyZ252D+LvVAAoC1qTNMJUJ5UqqMvJ02GT861wyubmk8n8gw4JDQVtxeLul8K7HaEptlRlAV6Twoh23+ONQdHd1Vh22Wmighmnlb5CflY=;0En9YcF/UPchgVy8jx65xg=="
+secured: "E7fGzPHbpsKuHQDj6OqMz++p41PuPe7urFFeo1YzWaXyJ5gGUNiXbXLJBRZw9lptjpBQR82xsLl9/DXt/Usx12aAMGyvAcEYI+jLzcxtbynMk5ixGAMneKukJrpS4USv700fM09nOMl1IW3FqyF54pneBygA5xRMFIMz4guyL4VL511f09gJVqOQ/OUkkFiBaZSux8oOZrnmBj3JcOXOVvqUDTMDWi8lfmPyu3oo+rlMLq34LcwXRlLiWsgxEaWTseWd4PVc0lKKe/CuoK0lkXUFrR7dVj2XoU5nAbnpmNukEhlJPJHb5LeQof8jVIH2twS8uRe0auKvAJhlLMpWxoZPw+NJZ/jVOR2XzWsQrJg=;ie3H1Uuw7yJIzZkErBnapg=="
 ---
 

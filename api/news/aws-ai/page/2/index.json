@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-facial-recognition-how-closely-is-big-brother-watching.md",
+      "title": "Facial recognition: How closely is Big Brother watching?",
+      "excerpt": "Two years ago, Amazon decided to outsource the use of its facial recognition software, Rekognition, to the police, sparking nationwide fury in the US—only for Andy Jassy, CEO of Amazon Web Services, to defend “regulation” by the police. When a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/facial-recognition-how-closely-is-big-brother-watching-news-columns-vd4fg8gdhdhdg.html",
+      "originalUrl": "https://www.sify.com/news/facial-recognition-how-closely-is-big-brother-watching-news-columns-vd4fg8gdhdhdg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/soying_vd0mxsaeaeifc.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
       "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
       "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
@@ -1323,49 +1367,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path.md",
-      "title": "Docebo Strengthens Relationship With Amazon Web Services by Joining AWS ISV Partner Path",
-      "excerpt": "Docebo Inc. ('Docebo”) (Nasdaq:DCBO; TSX: DCBO), a leading artificial intelligence (AI)-powered learning platform announced today that it has",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/docebo-strengthens-relationship-with-amazon-web-services-by-joining-aws-isv-partner-path-1030222900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

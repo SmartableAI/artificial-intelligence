@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-us-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers.md",
-      "title": "U.S. banks deploy visual AI tools to monitor customers and workers",
-      "excerpt": "Several U.S. banks have started deploying camera software that can analyze customer preferences and monitor workers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers/",
-      "originalUrl": "https://venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers/amp/",
-      "publishedDateTime": "2021-04-19T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-04-18-heres-why-we-should-never-trust-ai-to-identify-our-emotions.md",
       "title": "Here’s why we should never trust AI to identify our emotions",
       "excerpt": "Emotion recognition technology can hurt people, both by working properly and enabling harassment, and also by not working accurately. Do we really want it?",
@@ -1448,6 +1396,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
+      "title": "Complementary security for Orange's Data and AI Ethics Council",
+      "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "originalUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

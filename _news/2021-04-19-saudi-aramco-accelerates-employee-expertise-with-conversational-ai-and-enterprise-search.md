@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-exp
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Army researchers create pioneering approach to real-time conversational AI"
+    excerpt: "Spoken dialogue is the most natural way for people to interact with complex autonomous agents such as robots. Future Army operational environments will require technology that allows artificial intelligent agents to understand and carry out commands and interact with them as teammates."
+    publishedDateTime: 2021-04-19T15:04:00Z
+    webUrl: "https://techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-army-approach-real-time-conversational-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/armyresearch.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Huge rise in AI, automation, as customer and employee expectations shift"
     excerpt: "A global survey analysis of more than 25,000 consumers, business buyers, and professionals finds that customer expectations are growing amid the transition to all-digital experiences. And employees – who are already stretched thin – are feeling more pressure to meet demand."
     publishedDateTime: 2021-04-19T06:41:00Z
@@ -39,6 +55,6 @@ related:
       domain: ameinfo.com
     quality: 16
 
-secured: "wrORQ5UD+qVdAwNweGa2C4ymNia7AWRgeyPHyN1RIFi4fHkzAlb8W3sUjEnNIKhhH+I26jgH/1sLC9DJCaDk1Xht/4DbrKPKbAKGoW4PKq3CXKXF591iUgbXrxksBAeojS6jw/4wmUonIKYrIy7mstX0BOv4bXe8iCUHMH6lY/DqPv8MxNkeR6baj6Z0YCyPmRW2BykZEdz/VN36y/12MMNJ5GQlPaMG5DhMKu4do/KGr+etPskMoGKqSWKmi/8wbY87s5DrjotQln9DmdV/SNWoMhNY5LGT8dvbtRxYYqQU0eAdXh2b+EYc6Nxhg5CtF6rsv8OQFPIEIDOAiskNnJtSxWT1knyegcOm73QB+EQ=;lq+xHLrmEPeYdhmbfG0uPw=="
+secured: "x8A6XfNsP2RIfF37LbnDt1QotGz3VtlZG53h5bjeIrkk/ESHLm1OJF/1vuIuYn1Mz2Q35cfpd4S4SymORn1Eh30c0S8R7NBMt7VXGXL53yg7sOSUqUt9qeaZjLEa7PaQPRTOom36CUgVcljcr1Higph6H5r0sgLgpRxSQe1J1dM4RyqejuLCQ9LlYibDAhOKGlTUbYQBJJQ7i65JOGbIynaGbSLFhyN9UbYyh+zd3vYLyGur2Tvrkzvgezb80LdUYFproWMTXnsVlReLFA55FdXKvFjMdutomkmrP/9wsumwK0QDoy0xQtBSof/8joIUcFC1CDJ8olv5smyDDA5Y7Uza200rol3a7yYNSpWi0nc=;+dfNDOEyCDZaWeLzV0a60g=="
 ---
 

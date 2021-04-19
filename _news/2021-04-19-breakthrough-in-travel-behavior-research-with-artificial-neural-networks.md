@@ -20,6 +20,22 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "SMART breakthrough to enhance travel behavior research with artificial neural networks"
+    excerpt: "Researchers from the Singapore-MIT Alliance for Research and Technology developed a synthetic framework known as theory-based residual neural network (TB-ResNet) to improve individual decision-making analysis used in travel behaviour research."
+    publishedDateTime: 2021-04-19T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/safr-sbt041921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
+        width: 585
+        height: 363
+        isCached: true
+
 secured: "zdGY0JMhzn6YGD67blS7729sq8M1V+Q3Eb28J51BU90BgX+c0f7zhHllfhhH58+1/s+qJp4YrMb0T5FeBff8uZAPY+LEsuiVofGum+DuhJO9NfVF7ZmnjnN0nDrl8rM7jusn8BJfusOI43cwPgycXZ/g9MYVjadOmUwcdUh3KwL4lZfJT0jLkSWLN4liCv6X/cmt7dpO/oxfeKvjBBkuTZSEFDT4xhUvmcirl5u2kEp6efI7hWxYw+cjuJQeMYLunRIZ/ojG8hpHyW9RGrItWZRbWhetK5kMiom36sDdew4Hrfk43bus7wbmliYQkfHSfTr5A0afkV40/IM2dVDn2uodzvQononuBiFeMt9UXbc=;erUIRtasKiYw7x5v12dMSw=="
 ---
 
