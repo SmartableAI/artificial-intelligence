@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man Sues Detroit Police After Facial Recognition Error"
-    excerpt: "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ..."
-    publishedDateTime: 2021-04-14T15:46:00Z
-    webUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/SHUTTERSTOCK_SPIRIT_OF_DETROIT.jpg"
-        width: 950
-        height: 629
-        isCached: true
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
     excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
     publishedDateTime: 2021-04-14T18:23:00Z
@@ -75,22 +43,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Black man wrongfully arrested based on false facial recognition match sues Detroit police"
-    excerpt: "A 43-year-old Black man who was arrested after facial recognition technology incorrectly flagged him as a shoplifting suspect filed a federal lawsuit against Detroit"
-    publishedDateTime: 2021-04-14T15:28:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police"
-    ampWebUrl: "https://www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news-hits/archives/2021/04/14/black-man-wrongfully-arrested-based-on-false-facial-recognition-match-sues-detroit-police?media=AMP+HTML"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 50
-    images:
-      - url: "https://media1.fdncms.com/metrotimes/imager/u/original/26899305/robert_williams_facial_recognition.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Detroit PD Sued Over False Arrest Using Facial Recognition"
     excerpt: "A man is suing the Detroit Police Department in Michigan federal court for wrongly arresting him in front of his family and jailing him for 30 hours after a detective used facial recognition technology to incorrectly identify him."
@@ -114,34 +66,6 @@ related:
       name: WION
       domain: wionews.com
     quality: 39
-  - title: "State surveillance body cautions over police facial recognition technology"
-    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
-    publishedDateTime: 2021-04-15T22:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Detroit Lawsuit Charges Facial Recognition Software Misidentifies People of Color"
-    excerpt: "The city of Detroit is being sued by a man who claims he was wrongfully arrested as a result of misleading facial recognition technology used by police, according to Courthouse News Service."
-    publishedDateTime: 2021-04-14T15:07:00Z
-    webUrl: "https://thecrimereport.org/2021/04/14/detroit-lawsuit-charges-facial-recognition-software-misidentifies-people-of-color/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 34
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2021/04/39225139155_fd0c8fbdec_b-e1618411761977.jpg"
-        width: 720
-        height: 360
-        isCached: true
   - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
     excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
     publishedDateTime: 2021-04-15T15:33:00Z
@@ -169,20 +93,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
-        isCached: true
-  - title: "The Computer Got it Wrong: Why We’re Taking the Detroit Police to Court Over a Faulty Face Recognition “Match”"
-    excerpt: "Last year, Detroit police arrested a Black man, Robert Williams, based on a false face recognition match. They held him in a dirty, overcrowded cell for 30 hours — until they realized that “the computer got it wrong.” Unfortunately for Williams ..."
-    publishedDateTime: 2021-04-14T16:51:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/the-computer-got-it-wrong-why-were-taking-the-detroit-police-to-court-over-a-faulty-face-recognition-match/"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 19
-    images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "x+HI4QDExubJDwiD7ktFYEsk+QqaqYg58dP5xIoTPjb+qNzGupg/6JVfXAE71XYTEq9i8NgETE9z9l4IN2jv/nwK5oLdY9PLjEOTssyRiK87N92Giyoie2aV/FUYQm66Z5u5sCnG4yMtUwZNeugcJb6hBd/NVkafR/1pD7fHoZdBYDIYhkv7TJY3/Ysoim7ZKRcT3b32i99UBZv/q9ml5ZxcecqFH8loOuFl1aUh+LvNdEImRqa8PwAgXMAdCjsg7H1FCq/YTrzLcxYxFp+W40yPLTPfYW8uj19pcAAwfLRqs+NuqJx7slSxa8hfn+rceIMBNrAMaFYEpHnfNrYL8Orh2GvmF0PtVr118mzl+0/bEUKWdiYEfX7jz6Y2kFpnTUcotHwXyx6NVBEE+WF/o3HSXXrGuSqOEJpSUY5ESPvIYDGgDUieFvfS/heJoyavwclhFV0kEY2w4/lM7Weq5GAdN/rI4ktnd56t6ampqY8ThWR9fbo+Ik7RqlGzv2MvZabIa7MegSbfl7w+7cqC+w==;7qZx5n8KPf3l4xWvKTuRGg=="

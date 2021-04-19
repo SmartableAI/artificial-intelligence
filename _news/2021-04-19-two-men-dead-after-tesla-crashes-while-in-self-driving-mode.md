@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 666
         isCached: true
+  - title: "Self-driving cars coming to Maine in the future"
+    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
+    publishedDateTime: 2021-04-19T08:37:00Z
+    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
+    type: article
+    provider:
+      name: Maine Campus
+      domain: mainecampus.com
+    quality: 39
+    images:
+      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
+        width: 560
+        height: 416
+        isCached: true
 
 secured: "RacVmivygABE6hhua9Kdg6mwN+ZkkmbobhC9qRf06y5zCOtLzkr14VyRMdKz1RxpzjpoDRUNIQqXdS1mQVL4obiT9HRR3dCkh+RSSifBoIYT1z6FMYnYr+ozO5JOHmlbDkv+jhApzeIM4KKRp2cok1EdgZ4gaigEFdMRgANrxMmV1aWXWOvoNH4rZxqtzSwJyS4aekXx/BUMiRYyKSeaTaUjlihkRuHnVTrc80z89LtyBeCFKTh9adSwDWbeqjawXoptrdlP6vzLpggzHQXKs7zhL/dAMwpb9AGA9Kfb24FQRDCO3/Vp9Gqflkwe8MGrMD/JGW1qS2iG9n2BtxMoPwc7AQYXh1eaDkmx59VNvv73E3bNhqZ+4vpM3qgrQPWslMfIO/55V3AdKMM/1wh96BDeaYr4oUtmW9orbIrI+th89XCZ1hPR3CKxQJrDcHdyGaLLO/5tyIJkCVV4g01Y8B6kZqR2Z+UKm+ddqsdBDQg+VOCtoiJxCJhX8RjAHrMLSiqhltytUhfvlwNfTdeLTQ==;iYIQiPYv/KtAA5hdf8xN+Q=="
 ---

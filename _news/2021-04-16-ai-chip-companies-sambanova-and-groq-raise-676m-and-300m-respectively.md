@@ -41,20 +41,6 @@ related:
         width: 538
         height: 411
         isCached: true
-  - title: "SambaNova raises $676m as best funded AI startup"
-    excerpt: "SambaNova is now clearly the best funded AI startup even though multiple AI startups have achieved \"unicorn\" status, including Graphcore in the UK. The company said it will use the latest injection of money to increase AI performance, to challenge legacy ..."
-    publishedDateTime: 2021-04-14T15:55:00Z
-    webUrl: "https://www.eenewseurope.com/news/sambanova-raises-676m-best-funded-ai-startup"
-    type: article
-    provider:
-      name: eeNews Europe
-      domain: eenewseurope.com
-    quality: 37
-    images:
-      - url: "https://www.eenewseurope.com/sites/default/files/styles/facebook/public/sites/default/files/images/unicorn630_2.jpg?itok=u42Iys-J"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
     publishedDateTime: 2021-04-16T20:24:00Z

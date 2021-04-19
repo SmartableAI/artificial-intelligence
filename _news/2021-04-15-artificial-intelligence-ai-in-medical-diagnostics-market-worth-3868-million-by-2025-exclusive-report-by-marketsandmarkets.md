@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Size, Industry Report by Share, Growth, Key Regions, Segments, Trends, Technology and Forecast till 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2021-04-19T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-report-by-share-growth-key-regions-segments-trends-technology-and-forecast-till-2028-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "no+BIwwOYWR5IUw3uDURrZWiBsL8UU8Apu/1eo6YAzI7pIbe2vuzRrybPmfwpedX+StiM3jkghEYrb9ATaX7noLO6XfEihJhrIqz1f9Nahmp0Holsfp5xf9mqlwu9V/F0nlpFecbKMEXc4z22NXZNLtoQa0A6jxuBT+ECfacVMvy2FfTRBXJTxr9Y56kAOcSUjXELBPsbnWEGhqI9MLV/sqFRX8/oCKZ2rGwOvH3NvFm1mVkTTnmOG1SfaszeaROMLnSgx6KmDhaxA80hn0rvBrKj0T51VcLDKSAZt2+44vmLDEu8Fk0JoQjiLuEJznAWnX80J2Psg8ty/yN0Gz6dWEMxEFm8lQTRS/uQBjnU4o=;ZeQmjbqYYeow93305m1CVQ=="
 ---

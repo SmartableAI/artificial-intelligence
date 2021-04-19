@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-exp
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -34,7 +34,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
+  - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
+    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
+    publishedDateTime: 2021-04-19T04:24:00Z
+    webUrl: "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 31
+    images:
+      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "W6TsOg7Inellug6PK5W80hgUzMZ6xmGPPi9tW/b4ZxGQNp5FiR61S9dEi9DP9l/tJpa/X1KBLUoSjiTB5s8qBJaZxotG/G/XpElLtLpFnXwJijEXjiss48i5nJAit3yDKR+MYKimjy6662wgCSfPkLnLQiRgvC2jHEJmxNdKd8TVaje2HqNvOEldI3IFaKY8XNJnwvUVP8yP5kVa8iRWc3iUs6lKq/8MEQm8k5QS7ASM/iZP+yzdIPS6+oHo54oq+Yp3Xc9NStD6YkaFZYbgJG7m4JwxAZdJCvS9N8KoVVfXZmEpwl5YD5uS89+Oo8DSsC9Q1ZTQm7xia+8p8EJeVg5FuQCG/ZiShV5T2ZG3+7gQ2m+7H2fL1QH/jK/Msj5Q6K9SC2t7LMBzf5XtwLcWXtxKUSrA9ITL8VvqKI8excy0CvqSUjuPt1aCTO9I/VsiB+Huz1vCairTvIHn+cTE+yNlLysO8iXQ0x+UeyDJrG9r6UsD3YoUjY0NNlZcCuhNhxrlzO5lU7jMDkL/fsTgDg==;cBdn7eXJypfGx+QkBNKFjA=="
+secured: "Rf4yYO0YZ9csJ3d4vUTg4guc0/bHWGhjaPFAAnRQH2act3jTOqflBDK/AOKhgXlXiDWkS16gKCRZAXoiyg8T6kKROtDgLrrtaw630lptxJZU+L+cS0bwRsLuI7E3Wi2HEwyrqxpQ4bxnBB7WvQfpcKWg5i0ejIUSRvGs9a9DvscBIQ7+8E4/VA3/86YUdWRhhB0z78fviD8+reT61wSuEG0cr/kkqfIVTU3+MRXjkgAAu8TAea6fMkRSyqvAkwrYD62skU/lmdP2rwNU2XAr+yz1DGo+mUKaDY9smxmAu/HINQR7vclPXBaVEwb1/HUZzeX4PpA+wRdpMBoj+rQ0EEgc3AwFT6pEPkIYH8EvyOuJcXCZ0kywPA9dxyTeeldJlG1CRJ2URdTop1Yk8nacyJKExHcWu0p2OwVbu0/htEenykHpPR14iWQ5c/Kbbjr5w7BSWLJCl7yDqJiJYhTI2uNCKarhOe0lEX2OLKvA08uWzO6cC7Hp2M6mu3Rp3xifqUxfWHDERrgEAD51ZC8tgw==;2TgBfeuvMj7DeSdeSdI70Q=="
 ---
 

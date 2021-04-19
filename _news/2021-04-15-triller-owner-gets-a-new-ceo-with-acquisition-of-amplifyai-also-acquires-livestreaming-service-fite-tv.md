@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "TrillerNet Acquires Leading AI-Powered Customer Engagement Platform Amplify.ai for Completion of Triller's Launch of \"Internet 3.0\""
-    excerpt: "TrillerNet (formerly Triller Hold Co, LLC), owner of the global AI-powered short-video app Triller, today announced it has reached an agreement to acquire customer engagement platform Amplify.ai, a global leader in Conversational AI and"
-    publishedDateTime: 2021-04-14T16:42:00Z
-    webUrl: "https://www.lelezard.com/en/news-19748978.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 9
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "I6mL8d6AhlcNj9+bqaF/JOHLeWBG4pLvKRCJvXGKt0JCis5i4PJUMPP2Nqgvn7O/H+rHhprl0d2XBOrw5tH9tcG45uVdGjhW98s5A6ag89uNzZjFgeKUvHoGsBhPWrKKNxiSVvFj1+5TFgCX1gHyzhkZXf7CowfZipolYekG2+DTgT+c8INK64H3F+vBEOywy0IauSlJYYUt5THDHPo9CuHvHwc7TTRbo63JERsmOrqOh9kydgpXFIBuzLLeXW2UEJuJUn+wquwicPVqW7syc7Zq3bYpXKLhggpWJp3fphOVs1v0xvmLGB3v/FVtBJq7NdIL7nYx0Ws/o4b15SrXP+5K2QX/hv4dF4S4u0Q1nvEZHhr94WxrgCIvh528O4cUmquSbeXpr7h2RbvyqhY9rKCY9bdMiIMUMRr0cZWxWeH+ucxw/0nN+3aGuLyHhq+ZjkJIgWwSpN95eSSAGo+lKYZid0hFfCUKky1fBR3Nrbq2NCQ9imgg32eM0gCWQwiWM0ZbcwDR9+yV/LMToEkryg==;dsfbsTl2g1vvocvVCAq9QQ=="
 ---

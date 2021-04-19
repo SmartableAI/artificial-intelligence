@@ -193,6 +193,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-17-strategies-driving-adoption-of-artificial-intelligence.md",
+      "title": "Strategies Driving Adoption of Artificial Intelligence",
+      "excerpt": "AI (Artificial Intelligence) has been around for a while now. More than half of the survey participants also indicated that there is a direct correlation between AI adoption and superior business outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/",
+      "originalUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg",
+          "width": 1600,
+          "height": 984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp",
+      "publishedDateTime": "2021-04-17T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
       "excerpt": "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,",
@@ -201,7 +244,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-04-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -470,7 +513,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -491,6 +534,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI",
         "AI in Robotics"
       ]
@@ -718,58 +762,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-pickles-new-robot-works-with-people-to-get-your-online-orders-delivered-sooner.md",
-      "title": "Pickle's new robot works with people to get your online orders delivered sooner.",
-      "excerpt": "After spending months inside warehouses observing operations, the engineers at Pickle realized that if you try to completely replace people with robots, the operation would quickly grind to a halt. With that insight,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pickle-s-new-robot-works-with-people-to-get-your-online-orders-delivered-sooner-1030304557",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pickle-s-new-robot-works-with-people-to-get-your-online-orders-delivered-sooner-1030304557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1487784/PickleRobot_Hero.jpg",
-          "width": 400,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

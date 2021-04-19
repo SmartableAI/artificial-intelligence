@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 278
+heat: 268
 published: true
 
 provider:
@@ -242,15 +242,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
-    excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
-    publishedDateTime: 2021-04-14T15:43:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/lawsuit-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "mA6wgXITfu2tlY4ORQicZuXeVsNjMUOU5+VLICfDGt4T2VlgIPho2gS/klnEJyDp4PIIT+FZoW5D6rw5nbamuoppwT9vndXp8LjiSUR/8sXAgDqrAaBuKGzcBHiS27PD6Hiu00+QGRWUkDbr7tFvVS1kykqrA6nkS8jbZsJq3POd6zTwMEAt1AddoHrK7J7NmIQq3zw5vza1jBKd+YdQ28kzl6lJPYcvIwFPvFvGdNh/qNj7Kqpz4QDsBrXkUhMNtKSNZa8DKkyQP56nlOPKKJE64a3e2BLo+NikXeJGjdVDENdaKB29b9M06zOarbcgllH/TEBCx94iCWP9k0UYzSByeJNjptWPiR9+qwbqAUpOCMJasMVndAMwCPqGB1IW9T2Zg2CpI4jPD4/ZpTm/sK1hjIthHTPIAilhmX6+dX4pKVMJFyX4ntOObf+1Iu16GwnZIJh99Fl2vaVh6bg9Agc7m9BBJycZHTnYL8eP6hNbwqKtIyUBu+pNeLda3a81ydJHgFGehOYnXZJPaQalwg==;dr1K8bXrQux/bcC37cz9DQ=="
 ---

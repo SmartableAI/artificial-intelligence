@@ -28,10 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
-    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
-    publishedDateTime: 2021-04-15T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
+  - title: "Automotive Artificial Intelligence Software Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027"
+    excerpt: "Apr 16, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Automotive Artificial"
+    publishedDateTime: 2021-04-16T11:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-04-16"
     type: article
     provider:
       name: MarketWatch

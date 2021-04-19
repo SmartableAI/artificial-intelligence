@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Industry Leaders Look To Artificial Intelligence To Drive Advancements In Mental Healthcare"
-excerpt: "Many in the mental healthcare industry are looking to expand and improve patient outcomes by incorporating new technologies into treatments for these chronic and complex conditions. One of the technologies with the highest potential impact increasing the efficacy of mental healthcare treatments is Artificial Intelligence (AI)."
-publishedDateTime: 2021-04-14T05:57:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
-webUrl: "https://stockhouse.com/news/press-releases/2021/04/14/industry-leaders-look-to-artificial-intelligence-to-drive-advancements-in"
+excerpt: "Artificial Intelligence (AI) is a powerful and disruptive force driving ... MINDCURE, a healthcare company with advanced proprietary technology for psychedelic therapy, has announced it will be incorporating an AI platform called Speak Ai into its iSTRYM ..."
+publishedDateTime: 2021-04-14T13:00:00Z
+originalUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
+webUrl: "https://www.baystreet.ca/stockstowatch/10249/Industry-Leaders-Look-To-Artificial-Intelligence-To-Drive-Advancements-In-Mental-Healthcare"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "rvPBbKOr3o+ILBmZGoWJt5npMhcL0KHIVOh2HzjY4lHN4asMqJI2JITYQ/6glMRPrRKskdtPRVrRPG+AJ+NLJmiMYDi04B2RdbN14M13gPCxpRInK964rkcp34jNCYggU7BSdNEf7nweOB2WnE6RdvVaFWj2oc7Z6yjpHk3ApGYEXiZxqUcCZmMdVUT/rdLgc+EDrmkeGSdHNX7pgTBclzZYEpZf89cK9rUdumWaJeew/50KgZ7Jqxw49hNY+PFa+Nq3qTkeKJQ1ta0nml2z7PR5gKHh9p5HPC5b7yxeI5nm+jxHfckr8FvIF5A8Ng8QdJQW6IfcmcpvPo+hjqKAEakBgJzoVjJzhByZSjS9ElI=;GiBY90RnPrPbwhYgBFhzlg=="
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+    width: 845
+    height: 396
+    isCached: true
+
+secured: "WYoVrDKw1VCvdiWQ/x2Y/NI9NeMQ1IBmFC8UUYpV4Zuqk0pY+FcECEs+JE7aC88uMBX+dfCywECnz8dMxvR7UTz9M99PW0wf29lB7T99VJmDzlFfo3XMfKnjd55wmMpfQnnILMRlCjz+5UhTUydba1CpZc+ZgblOh6ZLP4OqmgkU3A4NQ7p/8VjGweRTTeRYU3MVUICIZpCDmBWajkqcEAwnqzvXymkjdOtBhWAvoTZLQUX0hllEjNSlIiEET4QCVza0SKVk+016FD3Eagr4AqWeCDIVNpzCQIEpvJaSwC+Dhx2tfVM5hRq2MwxhGZzI0tvJFB7oM9c4BZmwNOWa9YGzJHCMjbTJJ5bpiQS1JP8=;cvtcuOEdN2qCp8+PM++OUQ=="
 ---
 

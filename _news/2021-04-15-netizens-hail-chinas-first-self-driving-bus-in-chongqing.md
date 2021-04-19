@@ -73,20 +73,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Netizens hail China’s first self-driving bus in Chongqing"
-    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. Each bus has a member of staff who can switch to ..."
-    publishedDateTime: 2021-04-14T16:03:00Z
-    webUrl: "https://www.globaltimes.cn/page/202104/1221101.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-04-12/7e711ab4-24e2-4e14-9e16-c1d3d6758cde.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Huawei to invest in electric cars and self-driving tech"
     excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
     publishedDateTime: 2021-04-16T11:00:00Z

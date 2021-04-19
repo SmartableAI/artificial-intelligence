@@ -241,15 +241,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Lawsuit Filed After Facial Recognition Tech Leads to Wrongful Arrest"
-    excerpt: "Detroit officials are being sued by a Michigan man who claims the city's use of facial recognition technology led to his wrongful arrest. Attorneys representing Robert Julian-Borchak Williams filed a federal lawsuit on April 13 against the city,"
-    publishedDateTime: 2021-04-14T15:43:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/lawsuit-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "5shBIYLzjbLl4GVsIsz4hW26zKa7zDWTVwWPR2dlU4/yTX0E+PGISR0OfdfjnbudVV/+yzEmPyg0ML5XWD9jlxERepwna3tHtVYy6TDJ1A3Rj7I3SGEDVDm22KwGVQiH9UA1DJY/PgU/MOJ4H3HVrIj9vhailPYsJHIO3/zlnmD3Zarpnw8U5M03bIu8ppFr+32sZWnHMUUWygx2XnyjOO4b/MfOsveDSanz5TZuFBIVoagj5WaQFp1vo2uIU+VT/lYIIX4RL+G27mSBBpPxQdknDz1Aiv4Vog8nhYcomT1vnQAwDZgEchoTY2G7DqM8MdZHJpG1bcBE+y/ken5K4O5qO5KwTxrWNvpjSjX2Q6I=;j1W+o+O8lfWzKqVrnjAp4g=="
 ---

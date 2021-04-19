@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 984
         isCached: true
+  - title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
+    excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases"
+    publishedDateTime: 2021-04-19T09:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/retina-ai-health-inc-is-awarded-us-patent-for-ai-detection-of-eye-disease-301271207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg?p=facebook"
+        width: 1920
+        height: 1005
+        isCached: true
 
 secured: "pMjYt39Fa7h8xjNaND2hZUiBIfVFjDVdXrW81PNadslKB24LFjDOD3BI4H4cehURbByv/u9opedSonzyp6+c1zxeBO4n0rv4FJJsWEq8xk5nZCMLbBqhTmLMfV37jWqa5fEkEEr4ctzpqCpCYc6toSLUV/iJdSJGgIrzs9RzjvSiK1UNIZsLsOdxYWMLUyi1EzpIfRdDBxei6Fcw97raw+09tzsPn2FJoHG4FPmQF1uPa1vGEqurW+BN3dL7HDVowHRL09+XdhtKAztInQD8g6ZJPK0NwCJYUK8WC5u9ZUpPlVDPHbvfuqwT24hKGwCyi5k44rfYowEXbZhkYNMyJURMq3ZxJKo2TOLhZzZdyoYyaxHe2Ix04FT5BJGD1AW9YcdCMRFTOlye21A7dXNOd2QjmSR2O4ByKeC46gfq38O6XDAnqaObXed4GBPyVhZLVFby72vLf7+y1cwHPy3i5ZknyJKKbl96ITHUdpas6kgNePviX6nVt4KB308xkqQzYx+2A6tXffsDyPQglzl5Eg==;yZB3AgfNstu1z5rC2x/pig=="
 ---

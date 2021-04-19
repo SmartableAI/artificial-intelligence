@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/volvo-didi-self-driving.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/volvo-didi-self-driving.amp"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-67256,msid-82137457/volvo-logo.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Netizens hail China’s first self-driving bus in Chongqing"
-    excerpt: "Three self-driving buses, launched by Baidu Apollo and King Long Bus, officially hit the road in Chongqing on Monday, the first such service in the country, according to the Chongqing Daily on Tuesday. Each bus has a member of staff who can switch to ..."
-    publishedDateTime: 2021-04-14T16:03:00Z
-    webUrl: "https://www.globaltimes.cn/page/202104/1221101.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-04-12/7e711ab4-24e2-4e14-9e16-c1d3d6758cde.jpeg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Netizens hail China’s first self-driving bus in Chongqing"
     excerpt: "Netizens are hailing China's first self-driving bus service, which has started in Yongchuan, Southwest China's Chongqing Municipality."
@@ -130,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5aNwBUUTeQyKsGm6oJfqWtaTRvII2YjICKOY4zzDRDmj+gJ5NYpVttum/0WOtoI96Gj5P/Pu0lr93fMycgJajyg13OFb/goOx0DL7eLH8RIm/aXlaO020dVQFiedXcB+xbQSin86n/FadFhYygp6Uwy4v17M6LDnGeF2NrYCdYYAOXP3HKYCqb85CA5CMGzVJSczL8u78kjHEnOcF1fR5Rc7XUV2ZvvIRzmTLX4gb2YTjcQsC9IC5Tybe4g//kCByACyyr70B75ekZb78XnzhZefDBS/2lRZIJJTzX54j+JsPqHcZ7oE+zFaH2dMo8oZoIRlt41uY5do2Xy5xN+NerlnGeDWa2H1c9LnNujz/4U=;ASAkH+0R+X4/get5IpoP8Q=="
+secured: "ogW3a6LJNdbtT3acvUdMkljQsqdS7QWgG3pP/Putvt4gLPglhcYLEPjDgixYxBafDMCR4oIlEnUw6j6a37ljcVOn844YU6dIDeeMG8TiMwie1SDAXQx0d8NIivZebUGecmWS8L4di2F0EW0fhf4zGK5RwcrRKBqQKQBRIZ+92Wo0Qtnp+7ps0HbITLZXjjUO+Q0e7lLMAartq3rq6916aa+Wsrg0PA0TcqBRyA0oM/iKd67fYSJQ1iH1z1b87Rk0Z6NeWxCDbBVkmnkDSbmSe7hcSTNyh19Aa39019Zm5spXHq6KGYMbL/deh0BO8HQ/uiRAtIoym9BsLvYILuw5S/a2Cl/ZxI3k3/aFEiZ92xU9F1ahGd/k9MA0V22B+DJUcypnd3+9f7EZVpn3DE0paTemluaFspFD+Iwplxg+emR+okAPa3cdW9nBBGdlp9iM68mTKKQ9f/PmtBNEkPzxvHVbZOa9ftPLA5pceFP+cYjbJr6CuM4hOUIHetLFHA838v9bt+ZVttF1JeUqvvAKOQ==;uy8OVILvspS79RsqWzF9OQ=="
 ---
 

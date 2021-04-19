@@ -71,6 +71,20 @@ related:
         width: 1013
         height: 566
         isCached: true
+  - title: "Self-driving cars coming to Maine in the future"
+    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
+    publishedDateTime: 2021-04-19T08:37:00Z
+    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
+    type: article
+    provider:
+      name: Maine Campus
+      domain: mainecampus.com
+    quality: 39
+    images:
+      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
+        width: 560
+        height: 416
+        isCached: true
   - title: "Two men dead after Tesla crashes while in self-driving mode"
     excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
     publishedDateTime: 2021-04-19T02:11:00Z

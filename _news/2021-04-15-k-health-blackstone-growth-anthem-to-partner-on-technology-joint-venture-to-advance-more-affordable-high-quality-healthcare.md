@@ -33,20 +33,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Anthem, Blackstone, digital health startup K Health launch joint venture to curb costs"
-    excerpt: "Anthem first tapped K Health for its AI technology in 2019, investing tens of millions of dollars in the platform in a bid to better triage care for its more than 40 million members. K Health's app allows consumers to screen medical needs past an AI ..."
-    publishedDateTime: 2021-04-14T15:27:00Z
-    webUrl: "https://www.healthcaredive.com/news/anthem-blackstone-digital-health-startup-k-health-launch-joint-venture-to/598376/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 14
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/16/3b/163b7d82955a8111c9f01701fb3f90a7.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "724mvPtChxFXmKN2VpWUwDqGNC1Ivcr8ijGI+mmyxmDER2bhqe4zsybugYB3pP05q5F3F8Zm9LM5ESqS9oc+7lVqal3Bx1VedefA4pWro+JbZzX9L7rfZKG0GQja7royWiq3OdDfbB0x2oUK38OJla59XASUFsVOReHP5NQNDgY/SqERxkSGyB36ms6H/nLfUBcPfkKdDQWEdn6MkImISZw9Xxn7xaJ1H4F5Q3TkUWkkgd9uajaLUJTKk4VkIhjHyAu4nRHmCT68S0izm7uNY31cZPzJFOV3BUWIc1IYzbUomkt4X1mw83DWv6Mg/ey0GYYKw3+jQ+Hm/yzfpQdAnZY+MHygtWFBeiKwTj5sZf0=;9msjbZX+1xuMEmmAd0DnfA=="
 ---

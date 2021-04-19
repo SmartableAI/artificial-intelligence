@@ -30,6 +30,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
+    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
+    publishedDateTime: 2021-04-19T04:24:00Z
+    webUrl: "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 31
+    images:
+      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FkwNXtMOy+GAJwDdTO046Kfv7nD+eXcRdgdjCbbhaNSNPoiVbIWemMFN7bc3JRkhmysKsvL9niOretlYmZnpacgTJxLt9jhMWfbcV7RuKeLJSQnc5GHhSCh9u0KCkJ869n7akFwks2amVBcyRHVSLwncnUqS0DI+mTTX5K7Sc1CLf0TsNbPBd8r+mMx1CuZHq9m4dcvC29vfiei0yCQBI1FWmdOz5AzORJ7EJ+25Mq7bvZKPVtYtL4UageV32aNVgwLGxk9y3SD1gI37q86pv6PYlGQ+tLArlohV+KKnpoo75R1OGry4RrjYFjzQafRgcX7fEVXPfQ4F3CZ5+8XfYD0hDZa3QO+4NyipAiHiNh5TOZJ5D2a5+S+U2XjCJf6/MKoz71B2YgNRS/5/bmGDxMiZnQsnavTI6D5GLxEEt6fkgp6mDk4GG2tfcULO5Xkm9AAzwfrULgNQbcYHjEqWovmjEqUC0ZRbX8KH+4F6S2/DDGX1zYZsHnx9vga8XrtnFwKiRrwSSi1RawRT0KE1iQ==;WhVkT71k/hy7hK83kXYvbQ=="
 ---

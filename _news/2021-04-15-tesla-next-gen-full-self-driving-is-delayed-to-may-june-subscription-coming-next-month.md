@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/04/14/tesla-next-gen-full-self-driving-dela
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/14/tesla-next-gen-full-self-driving-delayed-to-may-june-subscription/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
         width: 1024
         height: 666
+        isCached: true
+  - title: "Self-driving cars coming to Maine in the future"
+    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
+    publishedDateTime: 2021-04-19T08:37:00Z
+    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
+    type: article
+    provider:
+      name: Maine Campus
+      domain: mainecampus.com
+    quality: 39
+    images:
+      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
+        width: 560
+        height: 416
         isCached: true
   - title: "Two men dead after Tesla crashes while in self-driving mode"
     excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
