@@ -33,20 +33,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Mayo Clinic launches two companies to create digital health care tools"
-    excerpt: "“Turning data into wisdom” is the goal of two new complementary digital health care companies launched by Mayo Clinic ... of Anumana Inc. and Lucem Health Inc., which are working with artificial intelligence and medical algorithms that tap into Mayo ..."
-    publishedDateTime: 2021-04-14T07:14:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6983498-Mayo-Clinic-launches-two-companies-to-create-digital-health-care-tools"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 24
-    images:
-      - url: "https://www.fccnn.com/incoming/6801003-x173z1-3935744_0033.jpg/alternates/BASE_LANDSCAPE/3935744_0033.jpg"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Anthem, Blackstone, digital health startup K Health launch joint venture to curb costs"
     excerpt: "Anthem first tapped K Health for its AI technology in 2019, investing tens of millions of dollars in the platform in a bid to better triage care for its more than 40 million members. K Health's app allows consumers to screen medical needs past an AI ..."
     publishedDateTime: 2021-04-14T15:27:00Z

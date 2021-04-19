@@ -54,20 +54,6 @@ related:
         width: 877
         height: 461
         isCached: true
-  - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
-    excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
-    publishedDateTime: 2021-04-14T08:27:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/ai-startup-sambanova-raises-us676m-from-investors-including-temasek-gic"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/14/ak_sn_1404.jpg?itok=XgC819DT"
-        width: 763
-        height: 509
-        isCached: true
   - title: "SambaNova Systems Secures $676 Million in Funding Round, Vows to Shake Up the AI Space"
     excerpt: "SambaNova Systems, the company building the industry's most advanced software to run AI applications, is receiving $676 million in Series D funding, empowering the company to use its latest injection to aggressively challenge legacy competitors."
     publishedDateTime: 2021-04-16T20:24:00Z

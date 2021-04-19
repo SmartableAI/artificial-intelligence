@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/14/nyregion/robot-dog-nypd.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

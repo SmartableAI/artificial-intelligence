@@ -141,20 +141,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "SmartStream introduces data management AI on Microsoft Azure"
-    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
-    publishedDateTime: 2021-04-14T08:40:00Z
-    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 69
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Google, Amazon & Microsoft – Who Is Leading The AI Race?"
     excerpt: "Every company is trying to unleash the full potential of AI to leverage businesses. Out of the three tech giants, Amazon, Google, and Microsoft, let’s see who is leads the race of AI."
     publishedDateTime: 2021-04-14T10:59:00Z

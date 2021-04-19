@@ -57,22 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "POLITICO AI: Decoded: The EU’s AI rules — Finland talks to machines — Facebook’s fairness project"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-04-14T09:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 48
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facebook leaning into medical research in its quest to advance AI"
     excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
     publishedDateTime: 2021-04-16T17:27:00Z

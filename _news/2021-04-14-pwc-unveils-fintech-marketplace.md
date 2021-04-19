@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Top 5 female-fronted fintech firms"
-    excerpt: "Canadian fintech firm Borrowell is on a mission to help those struggling ... as well as pioneering the country’s first AI-powered ‘credit coach.’ Eva Wong, the firm’s co-founder and COO, has long been a vocal advocate of diversity and inclusion ..."
-    publishedDateTime: 2021-04-14T08:00:00Z
-    webUrl: "https://www.worldfinance.com/markets/technology/top-5-female-fronted-fintech-firms"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 24
-    images:
-      - url: "https://www.worldfinance.com/wp-content/uploads/2021/04/K094-600x423.gif"
-        width: 600
-        height: 423
-        isCached: true
   - title: "Marble Financial announces closing of major fintech acquisition"
     excerpt: "Marble Financial has announced the closing of its acquisition of Canadian fintech Inverite Verification. Marble’s personal finance platform MyMarble will be incorporating the features of the AI-powered Inverite,"
     publishedDateTime: 2021-04-15T08:30:00Z

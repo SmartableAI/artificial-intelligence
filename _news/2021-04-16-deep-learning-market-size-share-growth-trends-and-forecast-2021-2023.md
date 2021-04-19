@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-siz
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -169,17 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
-    excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
-    publishedDateTime: 2021-04-14T08:26:00Z
-    webUrl: "https://www.openpr.com/news/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    ampWebUrl: "https://www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
 
 secured: "MdnOHoHgVfVcILafaIBqvp9aTa60dGGVesVVpVQev87vQHJfSxzy1qUpXBXozkSZLHp19dli38Iq6wSIWWKSn3tP/yFReJqyH62PtTVTYqg/j5VdmGWjHb/rfWY8uFWnueWMbv24OSLU+IwXWdYchvdAbIsrRCEmKMNnAMPDJ4eJgnIb2glWwFQPtF0Dl8Hr8wsNcZ+B33AToHT0qR6v0Km3I6N0QQmQ/BT2qSCR5iqF78y2cSL7tWiH6GfityTV2DSM5cp/0brLNr4hOEOOCAEEihFBzpxkNc9JMyu8Jh2mDBOVSMw6xa8kbacUSqljdZaWKmUV5c3fWW6jhwAOKryExMu23PmrKrZFdD4kMhw=;PB2K4brXJ7yayR/sQSfkQw=="
 ---

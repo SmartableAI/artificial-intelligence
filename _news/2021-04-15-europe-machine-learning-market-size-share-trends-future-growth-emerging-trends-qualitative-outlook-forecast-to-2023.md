@@ -169,17 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industry Overview of Artificial Intelligence as a Service Market : Report Based on Development, Scope, Share, Trends, Forecast to 2027"
-    excerpt: "The Artificial Intelligence as a Service Market size is expected to grow at an annual average of 45% during 2021-2027. AIaaS (Artificial Intelligence Service) is a third-party provider of artificial intelligence (AI) outsourcing. This allows people and ..."
-    publishedDateTime: 2021-04-14T08:26:00Z
-    webUrl: "https://www.openpr.com/news/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    ampWebUrl: "https://www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269839/industry-overview-of-artificial-intelligence-as-a-service"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 5
 
 secured: "wxe+nqxOYUtMTaFP+TFys4Ob2esjUg4f/LOpkL6cV/2X+FaK6VaoBcfIKdDzBg0kDGA2NSujrB3pgpD9lsvzEhjHLUVJ5/QFegplpUeCb9sOw74Bs5jdilOqJrWo2JaF+vjk9s5o4Ox4vettyH8p6hh4YMDKp4eTqrEDkVfjiPhUPFAw3BFVJ5AyOqjMAKGL6VpLsN+GeYZAY+Ls/Jmz/qQmxOkvejZ69Orr2tKzSsV9NJyoY0eElUytf+0KpEGJ3VZTkPyyRe6KvSelRJ7hivQprvuQlFVmNh1DJnfR0k2E2vmtdE/FfbPt5yxeYHzQksWFhA+lH6iTOlSV88GghDIHBLXIWWNyttFuPaPVDhs=;nU6zu0c+dFu//8dnhBg26Q=="
 ---

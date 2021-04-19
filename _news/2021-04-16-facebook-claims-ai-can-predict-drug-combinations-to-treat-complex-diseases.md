@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/Facebook-AI-pharmaceuticals-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "POLITICO AI: Decoded: The EU’s AI rules — Finland talks to machines — Facebook’s fairness project"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2021-04-14T09:00:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-transatlantic-schisms-finland-talks-to-machines-facebooks-fairness-project/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 48
-    images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Facebook says its AI could help find drug combinations to treat cancer"
     excerpt: "Facebook claims that its new artificial intelligence can predict the way drugs interact with each other inside cells, but other researchers say it may not translate into results that will be useful in"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg"
         width: 877
         height: 461
-        isCached: true
-  - title: "AI start-up SambaNova raises $904m from investors including Temasek, GIC"
-    excerpt: "For example, they can help medical labs detect cancer cells in high-resolution images with much greater accuracy, or they can be used to translate complicated material into several languages, he said. SambaNova's customers include the United States Energy ..."
-    publishedDateTime: 2021-04-14T08:27:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/ai-startup-sambanova-raises-us676m-from-investors-including-temasek-gic"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 38
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/14/ak_sn_1404.jpg?itok=XgC819DT"
-        width: 763
-        height: 509
         isCached: true
   - title: "SambaNova raises $676m as best funded AI startup"
     excerpt: "SambaNova is now clearly the best funded AI startup even though multiple AI startups have achieved \"unicorn\" status, including Graphcore in the UK. The company said it will use the latest injection of money to increase AI performance, to challenge legacy ..."

@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-02-27-qeexo-automl-embedded-machine-learning-tool.md",
+      "title": "Qeexo AutoML (Embedded Machine Learning Tool)",
+      "excerpt": "Qeexo AutoML is an end-to-end platform that empowers users to collect, clean, and visualize data to automatically build machine learning models that run at the Edge. An end-to-end solution that embeds the data science, machine learning, signal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/content/st_com/ja/products/development-tools/software-development-tools/software-development-tools-from-partners/qeexo-automl-embedded-machine-learning-tool.html",
+      "originalUrl": "https://www.st.com/content/st_com/ja/products/development-tools/software-development-tools/software-development-tools-from-partners/qeexo-automl-embedded-machine-learning-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage.md",
       "title": "AI Weekly: Biden calls for $37 billion to address chip shortage",
       "excerpt": "President Biden this week signed a supply chain executive order and pledged support for $37 billion to address a semiconductor shortage.",
@@ -1155,49 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-what-do-ai-equity-funds-actually-invest-in-lets-take-a-closer-look.md",
-      "title": "What do AI equity funds actually invest in? Let’s take a closer look",
-      "excerpt": "The term has become ubiquitous in recent years, but where is the smart money in Artificial Intelligence funds putting its money?",
-      "sourceUrl": null,
-      "webUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570",
-      "originalUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_fb75c62a-16bd-403e-9c33-20bfe11da7bc_Large",
-          "width": 1040,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Citywire",
-        "domain": "citywireselector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

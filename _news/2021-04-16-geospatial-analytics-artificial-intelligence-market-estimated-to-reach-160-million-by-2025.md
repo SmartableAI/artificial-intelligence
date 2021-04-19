@@ -69,20 +69,6 @@ related:
         width: 611
         height: 343
         isCached: true
-  - title: "Top AI & Analytics Appointments At Major Tech Firms In 2021"
-    excerpt: "Croak manages the teams working on artificial intelligence for social good, algorithmic fairness, and AI ethics. She reports to the SVP of Google AI Research and Health. Read the news here. Salesforce has appointed Sanket Atal as the Senior Vice President ..."
-    publishedDateTime: 2021-04-14T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-ai-analytics-appointments-at-major-tech-firms-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Cover-Art-11.jpg"
-        width: 1004
-        height: 591
-        isCached: true
 
 secured: "JXPz0lQufEBMFWJhaChFBSDyBu8YbokOiHiP92X1vXkf0hTyNH1NpkOtzyShamkbC7nwTr+qZArQimqiS7fsNRAP+beEmfQ4N1JNCqNPzdGC1F6zImpQ7BjWSxTYuGvbkZqJC00tjQiWsFQrY8Wp7JgXALrnhOfrRML8mt1tNxBJbhzFD+ffEo9NtKnnRDLr4QkZ7bH+hgiHPOvZHWjnvohP2Xff3azsMUHh9Ilzlq/ka+9TwoAk01MPVkGZ/cbAmPE4ssPD5V72Tn7ugpufIukHkrNuBzjwIi9zFdbget9/GfaUisHhr1M74rzgIH2fBsu+e5awDbKO+4IusR+klXoxQZ3GXDzdqVUTFwJ2K5ivSU2N8C56FC1mG84sigUOfj7ZVXi53tbSeuiNx0N+AcZsCQpYUn8CZcGojO7hvQnToCZ83j1BoHaHCAdxb6Rdc8hhkiryucUWmb6HqXGlp/QHiq7NqXkMXQCUVOEYY9qw2l1ks9910ooilaFSTCuNOfk+LSMEU41dnH7XOpg3hg==;uorACEkusjF/dPhL7Kf6lQ=="
 ---

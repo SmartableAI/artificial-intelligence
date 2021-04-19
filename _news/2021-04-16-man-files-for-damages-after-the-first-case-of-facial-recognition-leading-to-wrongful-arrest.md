@@ -60,22 +60,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "The new lawsuit that shows facial recognition is officially a civil rights issue"
-    excerpt: "Robert Williams, who was wrongfully arrested because of a faulty facial recognition match, is asking for the technology to be banned. On January 9, 2020, Detroit Police drove to the suburb of Farmington Hill and arrested Robert Williams in his driveway ..."
-    publishedDateTime: 2021-04-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/"
-    ampWebUrl: "https://www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/14/1022676/robert-williams-facial-recognition-lawsuit-aclu-detroit-police/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 54
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Robert_Williams_11.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Black man wrongfully arrested based on false facial recognition match sues Detroit police"
     excerpt: "A 43-year-old Black man who was arrested after facial recognition technology incorrectly flagged him as a shoplifting suspect filed a federal lawsuit against Detroit"
     publishedDateTime: 2021-04-14T15:28:00Z
