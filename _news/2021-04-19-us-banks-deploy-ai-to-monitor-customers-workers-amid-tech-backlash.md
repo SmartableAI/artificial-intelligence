@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "INSIGHT-U.S. banks deploy AI to monitor customers, workers amid tech backlash"
+    excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
+    publishedDateTime: 2021-04-19T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-banks-facialrecognition-idUSL1N2JZ0G0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559044039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I0LL"
+        width: 859
+        height: 545
+        isCached: true
   - title: "U.S. banks deploy artificial intelligence to monitor customers, workers"
     excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
     publishedDateTime: 2021-04-19T10:55:00Z
@@ -63,6 +79,6 @@ related:
         height: 673
         isCached: true
 
-secured: "3cbL/flz3436FKeADg77XKXbCczRF6TI9+TCNVMj6sCGCjsKAbqmbp2sOOTM8NkPPOYe+BetlQS22bnI/GTHHawfjBNd7+b9s2hdW5P0U7UCqhzX1MVKsZDjZMDI5N+oBF1ATM4yg0kTFt0uq0NBWawNdRiYatP4jyLtjW3O2p10/gDaL6K/sEbjLyj6S4H0mzCchHpUTLQS1WRdkvXZbIvLDiZs0+q6+d6DWdGHpAHHOkF7A7xJ9s9FhhRJaNXl3NieedcwLsHRL/u0yo6olAPWuPWIcOSB0aGlOzLsFhTPkaK6KpJuV5515s8qIrg2SqVl+pBW2kTEyUc0hPi2VgLMOyK89tRHwfAdxlIxuS0=;EwgqE5zXupNp4ChaU4UghA=="
+secured: "QHQmFvzTlfmLkouQIzQ0tpbJhCViAh8tI0sO/u0NsfXY0pY5UBAQGCXHu5Dv5jw0YISZnTchjqBuSce9a9kPKXbekzxLghV0cCL0vKqTIVobHwqaYzUvYISrvSf/ct+c2mXAZl5j0UXSfKudqIS/TvKl40+w1ZIoq2+daQuJDVHjCbKpV1Aj0+PMVFc6xaG6FdSUsC5a5aVK60xlQewChopqY14QqfjW+mQwUd2Ffu9X2LOZ2EsM7HIexSdb13qbQFurKlDxdwTa0L45wZ7xBUuHyYReNTv7LZMa0Kt60IiuMMNqhXg2Aob6eJQqBQ6BAe4HoqwHXm8OSu8Z7+w7emzC6emJ5kU7mIZQO86irZg=;TbLrJ6LnghPlr1Btg6hmmg=="
 ---
 

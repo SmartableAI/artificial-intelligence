@@ -24,6 +24,22 @@ images:
     height: 660
     isCached: true
 
+related:
+  - title: "Dynamic PET Image Denoising Using Deep Image Prior Combined With Regularization by Denoising"
+    excerpt: "The quantitative accuracy of positron emission tomography (PET) is affected by several factors, including the intrinsic resolution of the imaging system and inherently noisy data, which result in a low signal-to-noise ratio (SNR) of PET image."
+    publishedDateTime: 2021-04-19T13:32:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9388697"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 13
+    images:
+      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9388697/graphical_abstract/access-gagraphic-3069236.jpg"
+        width: 660
+        height: 295
+        isCached: true
+
 secured: "XvtSm7KEow4mtLCnn3CcSvtf29z6B8Rq4rfX1VofC6gqBszZgmjK7ZaI98oKQVBlWNGniKF/+JWKh20v19clXgUKyz0v1C4FtyLbHRczFlZhAAsU73raRJvKyXvskBhMvt2kjUIjsy4aea5ySDK7Y1g/s8KmVv3bDeUAmJYvD00YaBLz2WjfhGTwSlDeh1TxJmAMEF3GYtLjfjRR7QLVYtwZaob+CJJB9yg5s6VfYADdw8g6B5XWo6VLEQ5NPp5YyU0+iWh2muUombcJBWtVoNpBkkTKUa827GFGr4Gct/9JGVC0b5zstHcOpdhs3HM6Q634abT3fZoRi62ZEAfy1KOBWMRaXmQKM+SPCEqrzBRSvStKgWhQANKR/T0mGP/K9R+tzuEgQtVRpYWivTZm01Jz9wZigzm5K8EJEER89W2U/zVYorbR18eCHy7ohPA3I55GEELKfhj9t+/n4vK+aXaGyz0m1sSlh8wwBEZFcy8mXz0clyOMPEYxgTnuDRJfgQe96f+LzVn+MkzdKj68eQ==;zQdSyYSocYXKIzv2qx+YeA=="
 ---
 

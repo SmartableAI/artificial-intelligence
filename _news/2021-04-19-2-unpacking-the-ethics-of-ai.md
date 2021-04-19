@@ -95,6 +95,20 @@ related:
         width: 750
         height: 468
         isCached: true
+  - title: "5 Powerful Ways AI Is Impacting The Web Hosting Industry"
+    excerpt: "Want to know how artificial intelligence can impact website hosting? Read this post to understand ho,General Information"
+    publishedDateTime: 2021-04-19T12:05:00Z
+    webUrl: "https://www.hostreview.com/blog/210419-5-powerful-ways-ai-is-impacting-the-web-hosting-industry"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 37
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "AGaunzDsklzVICBkfqmQpm9C16FKjmds8ZCntj7TVEiqG42HSDU8cocm+8gGVBGmleejSMsO8WS7pnNrs/M0+bazS3AS9aVar80tt2ybyMu9uHWfZ0dYaUnS8UQpTKmDyTyam4pkFN/nbkW+mqrnsYPXRSJVBdMFuVPU6h4XMsCMSM6DGuUW+CKDl8H0UFYcECtNqIqidcBUsa0vS5UMMaQYoNlOU4YVoCcDud33TZENLQPen1TzMkeWKjo5ku1qv24z+FYEIspmPpaUBcLhFHzYQ3AWW552GrzWgSrOt7qw/Z58dZeXdaC2fQ9SZoVt6cE78VqsUJV7tA914PRq5pLDQYaPciziAxFVEIatkMY=;9yu/AlOuwJcTrPSEj7lz4g=="
 ---

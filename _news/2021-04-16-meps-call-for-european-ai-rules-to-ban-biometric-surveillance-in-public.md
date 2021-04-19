@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/04/15115331/15-april_eu-ai.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
+    excerpt: "Applied Recognition and the Sovrin Foundation are proud to announce a strategic partnership to create biometric binding for digital identity credentials and digital wallets."
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-credentials/article_7e9f415c-5b13-51eb-946f-1af0561f1818.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 6
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "JRr/7BI/5gnpW0WlapBkJwRZrf0aJDoSICV8v82xLJz6M7rT6lSY8EvUBApULZ5uq9NOnrp1QR/artMNvQId61Jb+jNoyBUqx3k1oOwPNVXu+tSSWhXoisRJ6TWT2YanoM/Dxv9tghrhSw9zpxmSNZ8tzGqp1k+z+bh2ci3KMpJx9FU99IVbsuN+BZNwBvFUamfCCdaiwSN428SIE4bT6x19YrzUOJqzTBWbXIKn85/ocUmthPDT5WPeZvDCEClSrDYKVOq6lxJvFg1r30DCGYPZ+Xd426PDfEUPcKAcSJopIMJyOW8g8o4P/796EHB6hogbWxHEcK+m3E+2Fqt6gPt370k2Scgvu/9konu40pA9yu5OkHKRk7ovqn5d55UXtp2FmSdYOFCAHxHOQQEjQAdm4Lh41b2MOgO5tU51srljNZwgLghktaQ+VsXIO2jAQVCbYjDgOa7sfVG2eqakKZhW1k+p9ZxafwupDdDOHL1et9PnhbK8xplYq2kX6hCWdRYKX1mrDZqrc+6pXY6Vcw==;llLjkBfKmdgJbMdnQut7kg=="

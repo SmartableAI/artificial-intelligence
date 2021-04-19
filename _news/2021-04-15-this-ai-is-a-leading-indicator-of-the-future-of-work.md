@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leadin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
         width: 750
         height: 468
+        isCached: true
+  - title: "5 Powerful Ways AI Is Impacting The Web Hosting Industry"
+    excerpt: "Want to know how artificial intelligence can impact website hosting? Read this post to understand ho,General Information"
+    publishedDateTime: 2021-04-19T12:05:00Z
+    webUrl: "https://www.hostreview.com/blog/210419-5-powerful-ways-ai-is-impacting-the-web-hosting-industry"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 37
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."

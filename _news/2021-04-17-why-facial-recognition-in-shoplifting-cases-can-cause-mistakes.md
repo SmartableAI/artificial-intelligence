@@ -60,20 +60,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "ACLU seeks to make facial recognition use by police a civil rights issue with wrongful arrest suit"
-    excerpt: "The suit alleges violations of civil rights law by Detroit Police, which the ACLU has consistently blamed on the use of face biometrics."
-    publishedDateTime: 2021-04-14T20:43:00Z
-    webUrl: "https://www.biometricupdate.com/202104/aclu-seeks-to-make-facial-recognition-use-by-police-a-civil-rights-issue-with-wrongful-arrest-suit"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 25
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "XVu/A2H4G21ZZNlcVK8j2W/WP+A1IpUXtGUrEhE5XnCK1mDjgM56Dv4+P/5p8F61Jew75YXd5WR/vkGYhf1z5lXM08zBZ4yVY6wGX4pwPPLjRNxOvPWJwNmq7RfWz+mlq/y/1iNe+xBXi9IfQ1IDhn+QWn0JZbcoRz4BPTUvEAbEDHeODnuW6hpRKnkf9rr8t4oX/AJ92piuSXDEnFtZm+moshsZQpEEFaDpGLRHBNJWmO8ziMbe48L24N/FqVL5NsxbrSxcPoe+SaI/pxYd0VSlvi8VOOK1Lgwb1FwIJOihqXrJBWEbWNHvOLIotbaYcbGF901MxSgSRCBJyC8HutXeGKEhEJCiedzAyz31oTMr1Ft6qR3ymgAXJkkTi0pWScGa+3W1IZHdDZvTJPQK5L5BwFkrbU1qGXozIrZ2nZHKnD7YoZefs4EtZQNsyrml2gQnwZ9B7ixKrcMCd8OJJ8gHntM+tniNvz0yVf3RD84wbT8SfvAhYEQZSPPHAbXZ2rhDDBB8kj586Wy46EtA+Q==;8aN6oyvYdy/Mze5moZl2OA=="
 ---

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Asia Pacific Artificial Intelligence (AI) in Healthcare Market"
+    excerpt: "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and"
+    publishedDateTime: 2021-04-19T07:53:00Z
+    webUrl: "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
+    ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 89
+    images:
+      - url: "https://cdn.openpr.com/U/4/U419236836_g.jpg"
+        width: 563
+        height: 423
+        isCached: true
   - title: "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026"
     excerpt: "Selbyville, Delaware, As per the report titled ' Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report, Regional Outlook,"
     publishedDateTime: 2021-04-16T10:20:00Z
@@ -56,29 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Industry Report by Share, Growth, Key Regions, Segments, Trends, Technology and Forecast till 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2021-04-19T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-report-by-share-growth-key-regions-segments-trends-technology-and-forecast-till-2028-2021-04-19"
+  - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
+    publishedDateTime: 2021-04-19T09:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19754376.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market worth $3,868 million by 2025 - Exclusive Report by MarketsandMarkets"
-    excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Medical Diagnostics Market by Component (Software, Service), Application"
-    publishedDateTime: 2021-04-15T14:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52587905-artificial-intelligence-ai-in-medical-diagnostics-market-worth-dollar-3-868-million-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "lF8LJ31m5rmKl2NZglHHmghilsOqwarKQk2n3Q8dosEnDmZP6LtKy79CrPcjS26Qkzdi9Zpj9v2u3RwCTM8vwZeV85laTkFZNxAY1qNgkU0kpLyu0u+/qxnsDFtg4qlq1Byt6OwdUlym3Hj2aDifb4+sMNpaVsmCLj4olJjuBZdBWxoLkKVrGId+DCWezd7iMV+GMdZL/rpF4AnuWSWUVrDTaQXkc0S0FxgWqKVKFgySpe9dAoC8bMUvrQ7cN3c1W1n8a3HOsJhzI9Q/UQBQiJTDD8EqqUyE5hO0s2z9TQbat015wvHXmwMGsF2iQPbr7qeGdg6byocdEwY4pfYi0HzRb181iqhj16UCCHIvdZ4=;0fsIcbfdbN837x7QSo73Gg=="
 ---

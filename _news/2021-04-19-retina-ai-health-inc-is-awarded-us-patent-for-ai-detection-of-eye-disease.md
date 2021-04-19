@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-i
 webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
 type: article
 quality: 64
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Survey finds talent gap is slowing enterprise AI adoption"
+    excerpt: "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI."
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Strategies Driving Adoption of Artificial Intelligence"
     excerpt: "AI (Artificial Intelligence) has been around for a while now. More than half of the survey participants also indicated that there is a direct correlation between AI adoption and superior business outcomes."
     publishedDateTime: 2021-04-17T07:04:00Z
@@ -44,44 +60,7 @@ related:
         width: 1600
         height: 984
         isCached: true
-  - title: "How State’s Disinformation-Fighting Arm Uses Artificial Intelligence"
-    excerpt: "Emerging technologies—and partnerships promoting their use—have proven instrumental for the State Department’s Global Engagement Center, a hub that steers federal efforts to counter state-sponsored propaganda and disinformation campaigns aimed at undermining the U."
-    publishedDateTime: 2021-04-16T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/how-states-disinformation-fighting-arm-uses-artificial-intelligence/173401/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/15/NGfact20210415/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "EU set to release artificial intelligence legislation"
-    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
-    publishedDateTime: 2021-04-16T20:11:00Z
-    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
-        isCached: true
-  - title: "How Artificial Intelligence Can Tackle Indoor Air Pollution"
-    excerpt: "However, as countries have begun to open back up, pollution levels have rebounded to pre-pandemic levels. Scientists at NASA noticed NO2 bouncing back to near normal levels in China three months after the country"
-    publishedDateTime: 2021-04-15T13:14:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7779290-how-artificial-intelligence-can-tackle-ind/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 32
 
-secured: "gAjB9RllfpJvxNFoNI/mfYSOQ65iWw2a2j7QFcFSsBtFb26kQzF/jnRnROdzwiwFB3WDipEBi7lvLlZA40vlx1zf2/2UK8CHdNsy7ZukZ+hhDajU2Dk+3AhN+L5FQjKwB7cFzrOadUBP+7aZx66uBLcFjitD2+bLaOZ7eFnEf5ShzVn/GqV2VAHojVes6TTlXkji/DoN1tYrKYKsqEnJzq5TGZ//jJa0Imom9tquN/Qk66Q7preUt6tzBnTYL4yfjP1Q5A/SqHAlr4v2fdSu8D1XFFSIEWMbAr+xUAjzzVDWSiubQ7dbtaR8ZjF3xytw9N0pGg+A1C01VnH1EjxwGNkHt3m6Ry5Kqv6xC6Ylqas=;FPsHbQO7pUBLtVugukvqyw=="
+secured: "+jam1Nfjg/lUAnBjh0ohr96zuq0Vd52gDheeBbgXSfq6EXx5aKDLx20E2ZAnbqPbrIyAAphvUI86WNHGNY1B8mkRWpLSVEDQR9WaRBLwR6gb5OLEdn8EhIRWEC8EILTsRd5XTDZeHkRoi5UZPfaxE6yaC4AC0mIT6hWnlaC9o9QFVpwiMb7JEUyCVTCcGmEkNNfWG64SfLOw/eTQOrfuNRwGKOX+B5Z1Hxceco6HPKHWO+yGnyNtab2hSKDKxaJxT/OeDqrCTupEysOpZTjcM2bpHIO0LNnXsrlEXnNeT/+d9Ciwp85RkaBNCaFu1Y/6nLJNSBxlcnyk0/zMaCxhfsWiam0H0VcD0CpNNugf1r0=;Z0hGJhY4rYXtgxvB9DndVA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 268
+heat: 258
 published: true
 
 provider:
@@ -167,20 +167,6 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
         width: 450
         height: 334
-        isCached: true
-  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
-    excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."
-    publishedDateTime: 2021-04-14T19:50:00Z
-    webUrl: "https://ca.investing.com/news/technology-news/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2407357"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg"
-        width: 728
-        height: 485
         isCached: true
   - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
     excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."

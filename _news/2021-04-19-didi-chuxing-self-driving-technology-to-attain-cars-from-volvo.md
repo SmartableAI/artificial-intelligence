@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo will provide cars for Didi’s autonomous vehicle division"
+    excerpt: "Volvo will provide vehicles for Didi Chuxing’s self-driving taxi fleet, according to a new deal between the two companies. The Swedish automaker, which is owned by China’s largest private automaker Geely,"
+    publishedDateTime: 2021-04-19T12:43:00Z
+    webUrl: "https://www.theverge.com/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Oud0pM50v4pRO0W90Vjl7h0Er9M=/0x0:4000x2667/1400x933/filters:focal(1680x1014:2320x1654):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69148795/Volvo_XC90_DiDi_2.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Volvo partners with China's DiDi Chuxing to build fleet of self-driving cars"
     excerpt: "Volvo is partnering with DiDi Chuxing's Autonomous Driving division to build a fleet of self-driving vehicles, the companies announced Monday. DiDi, a Chinese Uber competitor with more than 550 million users and tens of millions of drivers,"
     publishedDateTime: 2021-04-19T07:34:00Z
@@ -40,36 +56,6 @@ related:
       - url: "https://mondrian.mashable.com/2021%252F04%252F19%252F78%252Fd7bf69acb5614e9cbb5dccd018b65db4.c22f4.jpg%252F1200x630.jpg?signature=UedR8Wbcllae92S4rXpxn7UX4Tc="
         width: 1200
         height: 630
-        isCached: true
-  - title: "GAC Motors to launch its first self driving car with Huawei after 2024"
-    excerpt: "China’s GAC Motors is apparently planning on launching its first car model that supports self driving technology after 2024. The company is partnering with Huawei Technologies for its autonomous driving technology."
-    publishedDateTime: 2021-04-19T10:27:00Z
-    webUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/04/MZ7XYVRYLRMF3PDC436LFXYEPM.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
-    excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
-    publishedDateTime: 2021-04-16T04:49:00Z
-    webUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/investigations/nbc-7-responds/self-driving-cars-have-a-long-way-to-go-to-earn-drivers-trust/2578125/?amp"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/media.nbcsandiego.com/2019/09/GMAP_18330654522712.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Volvo to provide cars for Didi Chuxing's self-driving test fleet"
     excerpt: "Volvo will provide XC90 SUVs equipped with backup steering and braking systems that DiDi Autonomous Driving will integrate with Didi Gemini, its new self-driving hardware platform."
@@ -87,20 +73,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Netizens hail China’s first self-driving bus in Chongqing"
-    excerpt: "Netizens are hailing China's first self-driving bus service, which has started in Yongchuan, Southwest China's Chongqing Municipality."
-    publishedDateTime: 2021-04-15T09:04:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/04/15/netizens-hail-chinas-first-self-driving-bus-in-chongqing"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114800.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Volvo Working with Ride-Hailing Company Didi to Test Self-Driving Technology"
     excerpt: "Robotaxis are here to stay and it looks like it won’t be long until most ride-hailing companies rely solely on driverless cars. Well-known names in the industry are doing it and emerging startups are also developing self-driving technology,"
     publishedDateTime: 2021-04-19T07:11:00Z
@@ -114,20 +86,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/volvo-to-work-with-ride-hailing-company-didi-for-testing-self-driving-technology-159558-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "Huawei to invest in electric cars and self-driving tech"
-    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
-    publishedDateTime: 2021-04-16T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Geely's Volvo Cars collaborates with DiDi on self-driving"
     excerpt: "Geely's Volvo Cars and DiDi Autonomous Driving have signed a strategic collaboration agreement on autonomous vehicles for a self-driving test fleet."
@@ -143,19 +101,19 @@ related:
         width: 424
         height: 282
         isCached: true
-  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-04-18T02:46:00Z
-    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+  - title: "Volvo will provide cars for Didi's self-driving test fleet"
+    excerpt: "Volvo has signed an agreement to provide cars to the autonomous driving technology unit of China's top ride-hailing firm, Didi Chuxing, for its self-driving test fleet. Volvo will provide XC90 SUVs equipped with backup steering and braking systems that DiDi Autonomous Driving will integrate with DiDi Gemini,"
+    publishedDateTime: 2021-04-19T10:52:00Z
+    webUrl: "https://europe.autonews.com/technology/volvo-will-provide-cars-didis-self-driving-test-fleet"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20Didi%20test%20car%202.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Volvo Cars teams up with world’s leading mobility technology platform DiDi for self-driving test fleet"
     excerpt: "Volvo Cars, a global leader in automotive safety, and DiDi Autonomous Driving, the self-driving technology arm of Didi Chuxing, the world’s leading mobility technology platform, have signed a strategic collaboration agreement on autonomous vehicles for DiDi’s self-driving test fleet."
@@ -172,6 +130,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DLp855TX+qna6sE7aAS7+6iUESziZzTysf07QwR7ZoKgX5jNkSfenjMG1AzvYqK+zbhLSMT0ovhD1xw+/qdcEzmSUh3CQKB+Z8cfMJUAmQRQumM+PvKqAS16iX6BjG2zOtspaRqhbZJ9HiFd8iim4dfVDRofYgoaQXLYpXeMB9qrc3dxYLthbZkZoKB54Xe/X3aWnd3GFjWEaNrjC4DdILCaf4S14rjVn9HHc3QYINXfY8ByWyPPYP5nR2BsU1cQabW+D3QbrZtiew+Y035jP0TlmvmNygEyBi1eGTQENOy5jk1kDoMV4bKLxpXmYqpr29+qxf3i8lc/bf7wq4j0Rw2VjZd4FibOcULg3atBYlI=;xazQE6+pmKbp6TOixM3fbg=="
+secured: "liv8lwAEYyKhakBCjQLR5uLDteWHmn7blpWvdm7qyUoM4uc9TG8ptLmrQmZ15skc82qfz3g96fDQTS41MjQPtRiKkksW0DjbaKrpjUzqK3RxzlBF9wV+D9KsvxAbiyzuhyM531KixSXC/enf2wYXTKP6dd8cPObwA+rn4+9Q5qOaMwpZSPRliPmfwxuW3eityrJsT5q2qduxJSrwf5BlfQPYLH8V4YHhyrIRAqGWkmTcHAUVbw9ZtGpY1pv9PdogHsmdt1UZLyBBAgpkdHoDo6iFYGZcBn7II9Qh4Xi9Pl9G9E2QzL5UaHvmpW1saJ7uIIWI/uf3fzjmQmaRcbqH5TefdG37Ddi5K9J02VtRX80ZkYvDH1XnyUL8doXdRicZjv8zLf7hu2SslsbIyK5WS49UdNdnbJ3U040iiN0XCTE1hoqosl5i83GIUvAs97x3PnxrvBW7KGKpth+DgK+FaJL2ERIrzJwPJm9fDkDxsx2GOc223NO25mi8IH2Zw6H0iLd9Ss1P8NRpNFmZTyu+mw==;ukwI2SFl9inpHdVdgeG/rQ=="
 ---
 

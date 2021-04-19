@@ -176,20 +176,6 @@ related:
         width: 450
         height: 334
         isCached: true
-  - title: "Microsoft doubles down on cloud healthcare business with $16 billion Nuance buy"
-    excerpt: "Microsoft Corp (NASDAQ:MSFT) said on Monday it would buy artificial intelligence and speech technology firm Nuance Communications Inc for about $16 billion, as it expands cloud solutions for healthcare customers."
-    publishedDateTime: 2021-04-14T19:50:00Z
-    webUrl: "https://ca.investing.com/news/technology-news/microsoft-to-buy-ai-firm-nuance-communications-in-197-billion-deal-2407357"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 52
-    images:
-      - url: "https://i-invdn-com.akamaized.net/news/LYNXMPEA8I0M2_L.jpg"
-        width: 728
-        height: 485
-        isCached: true
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z

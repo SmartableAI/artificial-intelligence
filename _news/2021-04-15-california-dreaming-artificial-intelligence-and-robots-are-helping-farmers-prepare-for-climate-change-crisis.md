@@ -9,8 +9,8 @@ ampWebUrl: "https://abc7.com/amp/climate-change-california-indoor-farming-vertic
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: ABC7
@@ -42,20 +42,6 @@ related:
       - url: "https://s.hdnux.com/photos/74/30/16/15827881/11/rawImage.jpg"
         width: 2048
         height: 1634
-        isCached: true
-  - title: "University of Southern California Information Sciences Institute researchers using AI to decode unique cultures"
-    excerpt: "Following a $2.2 million DARPA grant, researchers at USC Viterbi’s Information Sciences Institute (ISI) will use AI to disambiguate these cultural codes to better understand the social science that drives group behavior."
-    publishedDateTime: 2021-04-14T19:14:00Z
-    webUrl: "https://www.miragenews.com/university-of-southern-california-information-544078/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 19
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics+Library/14-04-2021-NASA-La-Soufriere-eruption-01.jpg/image770x420cropped.jpg"
-        width: 770
-        height: 420
         isCached: true
 
 secured: "neenjOM+nyoERB8UDEafMm/vyktSgRNyLRJdll1yT9KtDJ0CGqPpvZHv5VJ7GOz66J5SsjKCtFZ6rXDgP4bdcPb4XcsC27l5HsfwQyhKx08v1IVVlTTUmEcZcH0eVfUs3f9Qe/ncR6ALrhJO++PsuFWFNI+tLMCR3giRf3P5CIWBUt/2xl3UzEhDBILT2brQw94Ifwx2Jkd8AcX0UmDHSkJ22Yggee5FRbiBZqFuOZuO83lNP0WQDfj6/FsuqIQMNwjEVuJPk9jbB+y87S9bCvc8XeovVFHgwLdI/2SjRsTCO6Oo2wyvzd3wdp/7i5+OEQ6ei04icXlz9WN3lsndZ3sIXD1lCw6e4oR/EndFxOwzspP0lRIXntAhaAkxVMthGuWZDB6Z2wy9TfQ0ysAGKd2ZCP4Nhgecw1Bmcq2HO9SmENbAKJa8aJ7tjc1QNfRcG0dfCC+b6N+eqTPyj/Qv3hLv4yRnO58Zf41nC3sDrsCDPVaF5k9EwDLJ9AonIJ0w6xuWRAhhEx5RaJER/tnRmA==;EWBddZNO3Xnthu/iMnXWxg=="

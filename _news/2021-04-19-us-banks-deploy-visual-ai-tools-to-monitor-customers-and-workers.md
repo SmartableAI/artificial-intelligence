@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/u-s-banks-deploy-visual-ai-tools-to-monitor-customers-and-workers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 859
         height: 545
         isCached: true
+  - title: "INSIGHT-U.S. banks deploy AI to monitor customers, workers amid tech backlash"
+    excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
+    publishedDateTime: 2021-04-19T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-banks-facialrecognition-idUSL1N2JZ0G0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559044039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I0LL"
+        width: 859
+        height: 545
+        isCached: true
   - title: "U.S. banks deploy artificial intelligence to monitor customers, workers"
     excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
     publishedDateTime: 2021-04-19T10:55:00Z
@@ -64,6 +80,6 @@ related:
         height: 673
         isCached: true
 
-secured: "Xbn61gb6MeCVW0KJNt22s3KQ5oGBQ2ZuuLyBjmZRfmyMCFzpbgYBQAluVe+p3IctP4O8HepzTTCp2W0lmfNV+i/On8Jc1MvS086oZsvjYZygi18H5DZJWckn/OrkSIKUdidmrHPc61UkReA31kTb6fCR7hz2SgC1FB0eaSqRPO9WNXKCtyfAnNccNT3IvC21VPe6qa2bpC8reSTyJMYzUcc4c/OSXli8R+GNPgXy4dDn/55oTxu5mbV6tuDsMK3b2iOzdZSukpnriIzx18TPOEbQU0H3Fl9QR1V97xB5E6GyRm8H5TLTjUElelv5xvRONEZSnaEhe0j2WjV0GUrCrjhRwql1nljlL/MM/Pu0Cmw=;WwYV3FMNoG/aMTFZTx/clw=="
+secured: "uE3/Q7x9vG+kt8WvXDDIetGDMfdbj12B3Mrm+HNlmk41cYaLT+y9Wi/SFRLTK8JRBCDAlqmIHkXXbpx+iTGS/sZdsSQmjlu9vIsCh8lkVCwhG5TM9cWYX8nYNy5P7TjpGN2IztKqhKu9Yncw79hjOBIu0UfV3M2a+IHCX2JizXENXW+32EEYQR1OkZp6wrMgpOAm/j+Yq3oc70nQyGHEUonCeeS/ew42q8s8q3GocFDxYn0a6TzrpZkGYHmXxo2F5FtiEKPRF1jPb8CTz+cLQoJ7cAxRm4vuDaST++FvxlKOp0KiXLbSz0E2fzu0FmrwGlhS0KDEpNenAJvORgRy52H5gdzfAZF7bAcrS7FfFMJrJT6/hR1nYh91wIVkhUoDgOdXL+WpUY28QFHUnzA9xaBgiu5H/pATJ5N5rue/CFm33aNlYWddHl46qK4jYpPDAIIqFSY0UhL5XrNXHUmloH9UBSRdXdUbbWsRmCZzxBxIaDEEGs6EgeymxWNhZF8fSmRwhn81hN4GA9rcKaLv9w==;4HigTN4qerFZ6zd4f5QxLg=="
 ---
 

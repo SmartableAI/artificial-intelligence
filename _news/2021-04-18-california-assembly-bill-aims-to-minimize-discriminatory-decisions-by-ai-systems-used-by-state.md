@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "University of Southern California Information Sciences Institute researchers using AI to decode unique cultures"
-    excerpt: "Following a $2.2 million DARPA grant, researchers at USC Viterbi’s Information Sciences Institute (ISI) will use AI to disambiguate these cultural codes to better understand the social science that drives group behavior."
-    publishedDateTime: 2021-04-14T19:14:00Z
-    webUrl: "https://www.miragenews.com/university-of-southern-california-information-544078/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 19
-    images:
-      - url: "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Graphics+Library/14-04-2021-NASA-La-Soufriere-eruption-01.jpg/image770x420cropped.jpg"
-        width: 770
-        height: 420
-        isCached: true
 
 secured: "das4RXeuLdsW0JMg7GqLLQMuGYgqyyAHt3zaTxeR9Mq27NgyTGrBuoO3LnGw0poimhfISUuvd7OF9Gkj58CyCEuqCpCnEkoT2ZtMW8x6lcBd/gc8HHiGGw9eHYB1z9sz/VPmu730Gt4hrovIPgo2aYwHgnJjukuR5dsrIayJxTXwQKzlxmFo1GH0vWyUoWPCTZ+Ktxyk/G4Pv2HoHBSYBJ6P0rJZ6KUSHbq5zQ9PrCy4bx+BTQiNs3U2MO1VYCthT4STEk742FB//1yAx7En4+lRLu0GmjwChRzs0/A7JRUK/qAHu+BgMnPgFCfOHEmeiXHnEtSJAxoBijhaYsERJOZfwTR2YL/BuI5O8ohVv39UX+gemPDgqLXGmIpb4ZQHyFHuu/1tU4X2ckVbe2efY4CY0RsJSEIbBhUyNAoZ7YPeu0YI+6djSJlki8W9W9d+6FyFbTV6IgmR7KzRYkysN7h9DFzevqrhSLCMXYxT/m8JEfXEA4QxHsjMvQ91YYN5ezlJ378QFsj7w0clbabGOw==;0Qmj1jdtzMqB4TR/5nSF8A=="
 ---

@@ -71,6 +71,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Top Fintech Companies to Watch in 2021"
+    excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
+    publishedDateTime: 2021-04-19T12:49:00Z
+    webUrl: "https://techreport.com/software/3474080/fintech-companies-in-2021/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 24
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
 
 secured: "W2BMTE8R7pss6ceeoRnnxgxCMkzZi2mYTZ/yU4s+idBFs4usFoUwxaoV2vhGx1nFzu++LD1oYno3m0j9QWyawP4N5vHVAItrEXTIU7EmrV2YrNef+pnYKQB1mXfdabdae2jA1DVa+VXkJ7CvB7oD3ths2Q7rQhr0ge+ITQY90J7LFOxYRxErltX4Tklv1/TQfmBdX3EWwjl1Gygf5VBxiOE1Gk/YqN33TWVj40l/SXlKhwjIeL3+wEzk2HHlcYNyx5m/fr4QHMxdZZ52BzEDhqdK6Ieh1f9DESOxb14uIbMxodyBcxz1RHXWdGWsb/Od2Xmib0Hh+enoJ/MzSjSTPPAmFH4Xi4tF+L4prPa621FdCWShalxuSU0AR8PNw8HMkisKEsB1ca2xE+Xn41onESAapUsjvjTC/mCuxtow4esCNDzAduQc7cQ72hWZvQ8enDMaI2x8+6NKMmX8oHOUeiKpWunswSe0OxLDquwxqE5lNgdIPwcUBg5JgNWVCozmnS+Ttz/Ijntc50SKP3xNPQ==;xsnegUrdt9NeGHvHYzGJ5w=="
 ---
