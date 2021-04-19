@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Chip Startup Groq Closes $300 Million in Series C Fundraising"
-    excerpt: "AI chip startup Groq has announced that it closed $300 million in new Series C fundraising, co-led by Tiger Global Management and D1 Capital, along with The Spruce House Partnership and Addition. Groq is a leader in computer accelerators for artificial intelligence (AI),"
-    publishedDateTime: 2021-04-14T13:49:00Z
-    webUrl: "https://www.unite.ai/ai-chip-startup-groq-closes-300-million-in-series-c-fundraising/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/Tech_Photo-1.png"
-        width: 812
-        height: 597
-        isCached: true
   - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
     excerpt: "Groq CEO Jonathan Ross previously co-founded the project that engineered Google's TPU, which was specifically designed to run machine learning software in Google's data centers."
     publishedDateTime: 2021-04-15T17:05:00Z
@@ -63,6 +49,15 @@ related:
         width: 1200
         height: 722
         isCached: true
+  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
+    excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."
+    publishedDateTime: 2021-04-19T06:48:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/semiconductors/article/21218836/ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 34
 
 secured: "dDpTRvVPb52Kx/vvjMpc9b1ipnXIB0D4hbgtPmNuBcBlpbHY/zj8CXMKLf1usHfm3MbfGzm0k8KWdMm4TAfZW9MdEbohcMyq5WUAGBWZGkQLSftviS/fPqQOw/K6I04+cBsaJCe5Hlid7dKIUT76iXdKleQj1ETWb+nxf9KpMsQ3ySlmQ3hLep8C/kD86YxHR7tLy0ojq2meVgW9LBeISY13kYRK6yPLikoifWp5iWMoxRlGiQargAYIzsgqdVexchrP2RNFuAtdJXIMvKCdF5oWL1sMP2UyR/0Tqy0AqKYKWRrWgh/2ph+wqu7QOoTh6T6hCBuZm/fGGVihz0ZYFquY/usVOg4BuFxHQyZrEm0=;01URoQvXSh5iuQBQQJ8Zdg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
 webUrl: "https://www.bernama.com/en/business/news.php?id=1952401"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: bernama.com
@@ -38,6 +38,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/04/15/1114435.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Pivotree Introduces its Novel MAachine Learning Platform DIVE"
+    excerpt: "Pivotree Introduces its Novel MAachine Learning Platform DIVE  - The DIVE Platform can now use image data and context to complement the text-based inferences that DIVE might provide"
+    publishedDateTime: 2021-04-19T06:12:00Z
+    webUrl: "https://www.cioreview.com/news/pivotree-introduces-its-novel-maachine-learning-platform-dive-nid-33380-cid-175.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
         isCached: true
 
 secured: "rAMMAY6hEc3M1u6+cYRxNAZcOh+mLmN5+9He/VDZpB7tFuVAgxmRVGxBCgu8LSHMhStEIjaOipZI8q7Hv2oojclx3hoWhKjcL94GHQxKyOftDy72BvnElMrDPgFNx62ghOGaRNA8lT/89OXSZayhPKugA8CMJuVti5VIKObLAPh5RlzF540FhQVkuQfofDE8NMUpuDhnYjFPMZR4NJId7V3OMFQoXkb8kk1LKFuYkP24pICZFA7dCscERTWsAhnbJe6U1cpZl1bF/FEnvsnaeEWiWroMumgIv/9kmCUIGmgIbzGgCyP6pSaq78uDESp0p/2UMnZgeARa7vTN5A8N6eqcK0O+Zy9ahME3oODuWxk=;BI8MJg4WAngvKEwxIcEJsQ=="

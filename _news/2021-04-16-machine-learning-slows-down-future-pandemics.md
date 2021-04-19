@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-slows-down-future
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-slows-down-future-pandemics-200810-1.htm"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medindia
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning can help slow down future pandemics: Study"
-    excerpt: "Machine Learning (ML) can be used to find effective testing methods during epidemic outbreaks, thereby helping to better control the outbreaks, a new study said."
-    publishedDateTime: 2021-04-14T14:31:00Z
-    webUrl: "https://www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    ampWebUrl: "https://www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
   - title: "Machine Learning can help slow down future pandemics: Study"
     excerpt: "Machine Learning (ML) can be used to find effective testing methods during epidemic outbreaks, thereby helping to better control the outbreaks, a new study said.ML is a type of Artificial Intelligence"
     publishedDateTime: 2021-04-16T08:37:00Z

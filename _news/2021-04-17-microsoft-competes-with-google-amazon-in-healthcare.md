@@ -71,22 +71,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 95
-  - title: "Microsoft’s nearly $20 billion plan for AI in healthcare"
-    excerpt: "The Nuance Communications’ acquisition will double Microsoft’s total addressable market (TAM) in the healthcare provider space, bringing the company’s TAM in healthcare to nearly $500 billion."
-    publishedDateTime: 2021-04-14T13:59:00Z
-    webUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/"
-    ampWebUrl: "https://www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsofts-nearly-20-billion-plan-ai-healthcare/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 91
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Healthcare.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
     excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
     publishedDateTime: 2021-04-16T00:21:00Z
@@ -113,20 +97,6 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
         width: 740
         height: 420
-        isCached: true
-  - title: "Microsoft, Nuance News May Signify Next Era of AI in Healthcare"
-    excerpt: "April 14, 2021 - Artificial intelligence in healthcare has mostly existed in the realm of the hypothetical. Clinical use cases for AI algorithms permeate the research sector, while rarely infiltrating real-world care settings. With the recent news of ..."
-    publishedDateTime: 2021-04-14T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/microsoft-nuance-news-may-signify-next-era-of-ai-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 71
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
-        width: 690
-        height: 400
         isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"

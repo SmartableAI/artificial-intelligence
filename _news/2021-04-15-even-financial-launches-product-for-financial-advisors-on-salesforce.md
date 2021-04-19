@@ -41,15 +41,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Even Financial Launches 'Financial Products for Salesforce' on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace"
-    excerpt: "The Even platform uses direct connections to the underwriting systems of financial services providers and machine learning to match consumers with personalized financial solutions from an expansive network of premium financial services providers and ..."
-    publishedDateTime: 2021-04-14T14:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financial-launches-financial-products-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud/article_7d158a9e-e4d8-570e-81e8-ed4c36385a6c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "/esdaD1erbxgMv5V6dWSfI6NnmWYvulVEuVz8Uhxl6IsV7tlCEDQ/8qi+Wx4CLyba81oLuz1tJclMcBhyInqQOBw8hRktJaMetEp7hlDiyLC8p/xIQIuMDK/P/+87TvGp8x+49PuSX15BW7p78IgUyNefcuc4sL5HJ3A1YSNzW/WiqpnU2PSftePLbrScO+Upm9v99g00x5Zy43NJGYQ2uBm1SFXUfxS6H4vApRnrZ+8xNwrO6JbHUELtTpDWSahGGGeqFXxn1NRNwrQLBALxr6Wqu9as31H2yF1WSdXeZrt0mZjLjmlBs63g7dlAvt96dmtilWd7FE4Dlk69CAiPQ/KoSiE0mGqVZQKhCBXYFg8kmOSdSLaE58Cg0UbNgxEXqv8oFITQA/dFf+mV3LkzVg2XBAPnEpD9XPPNfBPvbCzhml1NOapQYamHQrwuybqR4ZyMCGKfC+J7HrFBisdNsPaltaXcDN1C6T4p0y4iglTEh5+GywCz+vOMZyUznTG2Umyx4aVHvIsSwwgXYAJ1w==;KLAZon+jWeK5RtswQ+wW2Q=="
 ---

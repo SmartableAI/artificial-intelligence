@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-19-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
+      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
+      "excerpt": "Naval Information Warfare Center (NIWC) Atlantic swept the top five places in the Amazon Web Services (AWS) DeepRacer First Annual Army-Navy Competition. The two-part event, which centered on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition",
+      "originalUrl": "https://www.dvidshub.net/news/393042/niwc-atlantic-wins-big-joint-artificial-intelligence-robotics-competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dvidshub.net/media/thumbs/photos/2104/6584603/1000w_q75.jpg",
+          "width": 1000,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DVIDSHub",
+        "domain": "dvidshub.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-eri-improves-recovery-with-robotics.md",
       "title": "ERI improves recovery with robotics",
       "excerpt": "Electronics recycler ERI, headquartered in Fresno, California, is leveraging technology to improve e-scrap processing.",
@@ -1321,49 +1365,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
-      "title": "Robots learn faster with quantum technology",
-      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
-          "width": 817,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "publishedDateTime": "2021-03-11T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

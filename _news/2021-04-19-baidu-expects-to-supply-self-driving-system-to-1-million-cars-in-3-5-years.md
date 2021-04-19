@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-exp
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -34,21 +34,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Huawei to invest in electric cars and self-driving tech"
-    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
-    publishedDateTime: 2021-04-16T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
-secured: "erpAHxSY998UJrGewPaci+ng69dwxBMJ607WlT4/yohpY6jKm/ANvyEV2o/0USdfg314SGpLUf9g8c4bwLjofok8jPQfu/+zfXf9KKG6xH+cseQf2Hr9bBzzSaxjnS+Gnx3yV8JuFBIGS7gAxw1trVpJc+63mzHJw4U1eJDGal6rjDlVMVhUP887SF6QgBw20EmjbmWPi6vSRsCrJA+FLETad8AEa5dGm23BKA/NLuENBsd7/2eVf5vLzN/G/Yj3BH7SGhDMX3C/SZ2TbzB8STUBnGBvL0YTt/Y72WxuF+FNhHC8+HvLs4P90l+/nnChVaO4P0G24GGmok6tkMF2e935WxVNleRACv7FJn6YDkQBzSyScTE8LVk3oJr8f6/CHtYhr2PuAWBOBhRbtiFOJkET5ohZRcdzgQPEaNAIzayRQ2gLj75bBmNpu++Kw4j4OAq9APWTnDMAwF9XSj1w7Oj1WVel/cDT0b/zhVPj1WUP4J3gkzsiaDZHKXzshnSEghJpmqcWzbBTFgmOoq5qUg==;oAW3E8vu37q8s1JndoJKBg=="
+secured: "W6TsOg7Inellug6PK5W80hgUzMZ6xmGPPi9tW/b4ZxGQNp5FiR61S9dEi9DP9l/tJpa/X1KBLUoSjiTB5s8qBJaZxotG/G/XpElLtLpFnXwJijEXjiss48i5nJAit3yDKR+MYKimjy6662wgCSfPkLnLQiRgvC2jHEJmxNdKd8TVaje2HqNvOEldI3IFaKY8XNJnwvUVP8yP5kVa8iRWc3iUs6lKq/8MEQm8k5QS7ASM/iZP+yzdIPS6+oHo54oq+Yp3Xc9NStD6YkaFZYbgJG7m4JwxAZdJCvS9N8KoVVfXZmEpwl5YD5uS89+Oo8DSsC9Q1ZTQm7xia+8p8EJeVg5FuQCG/ZiShV5T2ZG3+7gQ2m+7H2fL1QH/jK/Msj5Q6K9SC2t7LMBzf5XtwLcWXtxKUSrA9ITL8VvqKI8excy0CvqSUjuPt1aCTO9I/VsiB+Huz1vCairTvIHn+cTE+yNlLysO8iXQ0x+UeyDJrG9r6UsD3YoUjY0NNlZcCuhNhxrlzO5lU7jMDkL/fsTgDg==;cBdn7eXJypfGx+QkBNKFjA=="
 ---
 

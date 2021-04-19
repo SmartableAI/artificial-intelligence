@@ -39,6 +39,20 @@ related:
         width: 2483
         height: 2942
         isCached: true
+  - title: "Pivotree Introduces its Novel MAachine Learning Platform DIVE"
+    excerpt: "Pivotree Introduces its Novel MAachine Learning Platform DIVE  - The DIVE Platform can now use image data and context to complement the text-based inferences that DIVE might provide"
+    publishedDateTime: 2021-04-19T06:12:00Z
+    webUrl: "https://www.cioreview.com/news/pivotree-introduces-its-novel-maachine-learning-platform-dive-nid-33380-cid-175.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/owtv8.300.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "FXpe44MJI/b0/YCKdRMxCpb3Pi/cmjHU7GRRPXlCSDt66q++nAkAz6BCBLxmMvDc0jRS9wOlV0bjv58GsPfbYqHCWSmSGGWX83K7WVos9Teki/9X3gLVeKQLJkW5uHRkU/c/hw8y3oEIWEm48mbqhTX61u0B1OVi2VpTVfVCBCKfpgTlrdRusFYoXl9fIIPrJ3C8P3ehX9Q/eMEb14ZxxWCgdQeurjxSJAOM21tG3b1tsVsgoFmpYnlyO8mfn5fCGQa+9VgtraVon3SgLXAwvaI3atpLmGwAhtw5H4YThny/CQbev1hZoyQ+zS8X40YJqVfxJ/c+DrkaZFNp32wgH75pOPTg9qUFqYCNlarKhFo=;sb590ZN9PJILPYMDSkn2tw=="
 ---

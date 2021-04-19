@@ -9,7 +9,7 @@ ampWebUrl: "https://napavalleyregister.com/news/local/napa-county-weighs-using-a
 cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/news/local/napa-county-weighs-using-artificial-intelligence-based-fire-detection-system/article_4fef4b2a-4061-53a1-867c-70d89007bce1.amp.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 782
     height: 593
     isCached: true
+
+related:
+  - title: "Intrusion Detection System - Deep Learning Perspective"
+    excerpt: "Nowadays the large amount of sensitive data set is a traverse through different devices and communication channels and continuously new invention in computer network technology, security problem comes out increasingly,"
+    publishedDateTime: 2021-04-19T06:15:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9395992"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
 
 secured: "NnmVxuvnVRPhiq3SdE2Y0k36mZ5ZMTcWoxbMIFfOXcosQd8qI3zAOAD7sX676GioXKg2Jq96X9YQiXWXDUKNv+rQ3qAekc/VVRp4WT51d/kd12pDEpQw6py/gFCzKXy+bQ26PzcDeC3xoc4DCya2jwlanvf3+7unxEaBebwUb8oroyjnrx68XOBGuukAdAH6QJMWDrCuh36deXPOwYIK9pvMNnJl2omqESczn3Huk4Upkb3ZyM8MNAOGex/m6gwDiH0PxC7dB0lDS6snF9cqygyVdrao6JrP2VbAIKGEcdukqL0kXKX7KtL06C2+O8TKXH1v4MRh9HqiBG8iJAaT16oX7bIZb3mqt+aHOitOUO2V4aIjO3vTAtfoUrWhKBe+Cady0M+wAiTyiG/4PHx0xmbSlsZwTY2m0RHh4nWFcgs2yWnmo1gWvVtE05e5DbCAre7E1LQi2pmSRkQZY8qyqGDeOxW3shosOxbov3Zu8G0pzhfv+/0EOVDaIF7L4HsgcxvbHnt0HAqTwp2GIWGKjw==;F1618y7iTYpu1UkHoMivdg=="
 ---

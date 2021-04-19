@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,37 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost its potential for the economy in general."
-    publishedDateTime: 2021-04-14T14:00:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
-    ampWebUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-strict-rules-artificial-intelligence/amp/"
+  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
+    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
+    publishedDateTime: 2021-04-15T08:00:00Z
+    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
     type: article
     provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 157
+      name: Moneylife
+      domain: moneylife.in
+    quality: 46
     images:
-      - url: "https://www.politico.eu/wp-content/uploads/2021/04/14/iStock-1058701042-1200x628.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
+        width: 810
+        height: 350
         isCached: true
-  - title: "Europe seeks to limit use of AI in society"
-    excerpt: "The use of AI in the military is exempt, as are systems used by authorities in order to safeguard public security. The suggested list of banned AI systems includes: those designed or used in a manner that manipulates human behaviour,"
-    publishedDateTime: 2021-04-14T14:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-56745730.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-56745730.amp"
+  - title: "Can the European Union prevent an artificial intelligence dystopia?"
+    excerpt: "Leaked draft legislation suggests the European Union is attempting to find a “third way” on artificial intelligence regulation, between the free market US and authoritarian China"
+    publishedDateTime: 2021-04-15T11:13:00Z
+    webUrl: "https://www.newscientist.com/article/2274720-can-the-european-union-prevent-an-artificial-intelligence-dystopia/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17BD3/production/_118053279_aiec.jpg"
-        width: 1024
-        height: 576
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/15115331/15-april_eu-ai.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "JRr/7BI/5gnpW0WlapBkJwRZrf0aJDoSICV8v82xLJz6M7rT6lSY8EvUBApULZ5uq9NOnrp1QR/artMNvQId61Jb+jNoyBUqx3k1oOwPNVXu+tSSWhXoisRJ6TWT2YanoM/Dxv9tghrhSw9zpxmSNZ8tzGqp1k+z+bh2ci3KMpJx9FU99IVbsuN+BZNwBvFUamfCCdaiwSN428SIE4bT6x19YrzUOJqzTBWbXIKn85/ocUmthPDT5WPeZvDCEClSrDYKVOq6lxJvFg1r30DCGYPZ+Xd426PDfEUPcKAcSJopIMJyOW8g8o4P/796EHB6hogbWxHEcK+m3E+2Fqt6gPt370k2Scgvu/9konu40pA9yu5OkHKRk7ovqn5d55UXtp2FmSdYOFCAHxHOQQEjQAdm4Lh41b2MOgO5tU51srljNZwgLghktaQ+VsXIO2jAQVCbYjDgOa7sfVG2eqakKZhW1k+p9ZxafwupDdDOHL1et9PnhbK8xplYq2kX6hCWdRYKX1mrDZqrc+6pXY6Vcw==;llLjkBfKmdgJbMdnQut7kg=="

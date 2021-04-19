@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-i
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
 type: article
 quality: 71
-heat: 101
+heat: 102
 published: true
 
 provider:
@@ -67,6 +67,6 @@ related:
       domain: kmov.com
     quality: 26
 
-secured: "jR6WNDrfnwFbqgCNLC9QSwuVZ6gGrJ1Roz10wIBJNbU3KOI6xzL5aAzYXxoVpNJa7yKmZKMwt8JzsKwlPpPUiS6ZdLoHKSQMXNJVmXNNqhB0xIDCoPBvaJPZH60BjZ2vxxDr+lHiAz+D6DPesaU+Wu6co0V3HNA9PDGUwvcpWAVA3bwQIyumoWDtohD9nPkb/Nr6V9QJBi3l8w/deG0rHZd2qSm/hgj6qJ41t2n85azkUhAYC7iF7RFYcV9BJdaxkOmIZeSYQetdF5E1hon6w2LCvoPmpugepbkJzQWroQF8ycvUfmFvs6ljy2HqPK7zHJdHLsWwpDtk9vFTAkCmU/9OxU8BXsRCLiOuUaPmIMY=;5WirzvwWd17fmcohRoYZTA=="
+secured: "+F9QGJgHWpNozfLBuQ+B5DdI4cxl/7/FJRfaNSgWdKCtS8HZpchQvZQtk4PkISUik0LoEYY73Vsd7P7nLT48bzgnod/cHyqOme8oyxsHjN9Yu1FsZN3fgsPCddYMh4AzgCnzCWGmEP/YMOT59jZXTlMjQnIfTOMAXMds/CrHRwuLif//ELzUi4WvbAw0TDSBQ7vgARzVXCBtNZJpWe45Fwh8a/e4MHwb++cnoaAxIRFawdcDt0XZppI57Yl4hagnDqXA51gzZx9hYQ6SKfWikc3OgnXl+GlA0rWTgw6bvqOkslebbdcR2rxWv22Cb99KFxxm0iEdQX42JZK9OFmrwUDzLWW9bjkBDcfolafgjmJh9DLopiuNcwmppFbuvSIH/9BzpEkc2aV0hT7Y5dT7h9XFZUMhqecSRzDbEkzTSQnbMwVUQRT2nHELnFO21SvxB9W/OttG0HJnNqhSk0AJhawpfwj5ant1qyjXJguvpszgUTwfJ5P9sgUz1niiacRgBcyfmLQZIcLsm+vdgapFZA==;sZ9BwMPDL5vY6fA0Rep9hw=="
 ---
 

@@ -51,22 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The future of artificial intelligence requires the guidance of sociology"
-    excerpt: "In the race to out-compete other companies– artificial intelligence (AI) design is lacking a deep understanding of what data about humans mean and its relation to equity. Two Drexel University ..."
-    publishedDateTime: 2021-04-14T13:30:00Z
-    webUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.html"
-    ampWebUrl: "https://phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-future-artificial-intelligence-requires-guidance.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-ai.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
     excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
     publishedDateTime: 2021-04-19T00:03:00Z

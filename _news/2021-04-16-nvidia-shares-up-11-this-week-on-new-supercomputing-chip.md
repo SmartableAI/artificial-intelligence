@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "ETFs to Buy on Nvidia's Growth Story"
-    excerpt: "Nvidia NVDA delighted investors following its Investor Day, wherein it projected better-than-expected revenues for fiscal Q1 and announced a host of advancements in artificial intelligence, computer graphics, robotics and data centers. The graphic maker ..."
-    publishedDateTime: 2021-04-14T14:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/etfs-to-buy-on-nvidias-growth-story-2021-04-14"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "NhoKMr4KawSqlZdiiIfIPLrsy9ysQX98uB/rkZ8d1lX851TfTmi7Jd2OwG9ZB5GQSQZ+DiXZsmOmFOEvHfK0wbrXnZFN8X5cf79l0zfw4LzgVuNvAJEy7aP9PZ8r87COVUoAhqhN6VcOC+e6Arc56rPLd7RPKIAeIb0KGHQygsPlRlYzKS2rZTjrGs22CWSIUWQO1s+IGl2MXUsv3BzoTCns9FPP37KHWKFqIUUmX+cNXMM+7oEU26/BJhrI0B1jvscY89x/U+EjyaQxo1wz20l+faAAt1DJhEy5IAurqT6LnGMqmX0E49vKJoPdzB98OGVtwMVt52WdYy3D+/mkfY0aKgjuqp50qkW5KfCwEXo3l2x/crtUAAMGGPMT4RJJFzWMeaaykN5izaNZUjF5qf+hvRYP0TRyA5Y/LxX9NOfO93w8xUbMjCXCM4fTRqn1j7bj1gaZrlUe3Ab/zgVMwypAuioF5JplTKsZQJHktMnxbJDKEhJnYmiY5oqBDsEf3Y+vwUvjN4VZ+vzqx2GXxw==;4BPuF5P9iWkLggLhjZ1k8Q=="
 ---

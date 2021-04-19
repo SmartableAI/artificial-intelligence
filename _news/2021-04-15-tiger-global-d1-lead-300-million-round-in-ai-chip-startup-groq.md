@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Startup Groq Closes $300 Million in Series C Fundraising"
-    excerpt: "AI chip startup Groq has announced that it closed $300 million in new Series C fundraising, co-led by Tiger Global Management and D1 Capital, along with The Spruce House Partnership and Addition. Groq is a leader in computer accelerators for artificial intelligence (AI),"
-    publishedDateTime: 2021-04-14T13:49:00Z
-    webUrl: "https://www.unite.ai/ai-chip-startup-groq-closes-300-million-in-series-c-fundraising/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/Tech_Photo-1.png"
-        width: 812
-        height: 597
-        isCached: true
   - title: "AI Computer Chip Biz Groq Closes $300M Series C"
     excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
     publishedDateTime: 2021-04-14T18:15:00Z
@@ -68,6 +54,15 @@ related:
         width: 1200
         height: 722
         isCached: true
+  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
+    excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."
+    publishedDateTime: 2021-04-19T06:48:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/semiconductors/article/21218836/ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 34
 
 secured: "qj90FzDM5iudOhQ4/+51vRA1t3I41tCZIHSc2dVDHFYeKdVU3Znxn+NXOnQOGJKp62489kqDmscOl2nAwTSVxLahRxchCUvt+3ZZsaTai35uFNBTAGgUh3EgEWBdtp9jY5CG2RwafgEyyN67wpD0jRYEs1XO8WOROefCZFZ9VrDTyGnBAOQL6kJ8B//CpyXfWEr+inD3HObeOB2gjHx08HTrW/vCrvYQtWSdKSMtYQzolWEayKTT8XOlf8cbixVrQibhZYw4n3vqlZ2bwGF/Srtq5i9cpjy9qv+w9CRH42H4bfVnGJsEjitE7u/jXQ/PaIJmhIxBmJ4nw3Lu1CU3hvUl7R427pwk+OeXmbfwCPbWJ1EHHponO7SzrLLlKq9oRbXDqBdXs4IE6Lmp9EI3QL6LlKPBeI3pEWwFSXPtHc126+RjfVsSaIFthXUG+dI9P9Tj+wmNWs5TBhFcreD8O8a/aK0hM/6nNaiBqR8FDnv6RPYHNHKSdY/VClDqB4HCDfPf8NnwVKgH9KWyjhDvUw==;Q7DSNZw3+Hz+JPZ1IjgioA=="
 ---

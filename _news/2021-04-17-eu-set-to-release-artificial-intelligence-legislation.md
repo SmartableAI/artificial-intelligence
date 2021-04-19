@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU plan for risk-based AI rules to set fines as high as 4% of global turnover, per leaked draft"
-    excerpt: "European Union lawmakers who are drawing up rules for applying artificial intelligence are considering fines of up to 4% of global annual turnover (or €20M, if greater) for a set of prohibited use-cases,"
-    publishedDateTime: 2021-04-14T13:19:00Z
-    webUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/"
-    ampWebUrl: "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 75
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "EU to unveil AI rules to fight Big Brother fears"
     excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
     publishedDateTime: 2021-04-18T22:22:00Z
@@ -55,36 +39,6 @@ related:
       - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "NEW: Leaked EU AI regulation, Update 1. Creating an army of Software Checkers?"
-    excerpt: "An EU draft regulation for Artificial Intelligence (AI) leaked today. After a quick scan here are my first few impressions: In trying to regulate AI is the EU"
-    publishedDateTime: 2021-04-14T20:29:00Z
-    webUrl: "https://www.thestreet.com/economonitor/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
-    ampWebUrl: "https://www.thestreet.com/economonitor/.amp/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/economonitor/.amp/europe/new-leaked-eu-ai-regulation-update-1-creating-an-army-of-software-checkers"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 53
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgwMzA5NTQxMzIwMTQwNjUy/full-office-of-software-checkers.jpg"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
-    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
-    publishedDateTime: 2021-04-15T08:00:00Z
-    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
-    type: article
-    provider:
-      name: Moneylife
-      domain: moneylife.in
-    quality: 46
-    images:
-      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
-        width: 810
-        height: 350
         isCached: true
 
 secured: "uZTzBmZLlCXekcTXoqWxKj4/VOU0miMTI5wJ8AG6bfY71r5dGLDX2b1rh0OEBPWCi93+ApLNmYnFYOQ+Dz2mEjW2gR9AzGR/W8n1VakMDM/PMccoXJuPXelBcNx49N2U9u83jLFzx/sxFvkZDl5L0Q6MNCu++z/DZXljMyxhHXKWvY37PrAZTuNUIcYchaeGRrdUHeSYz6PRL73xz3hB+kL+/o6W4w+cDi2338GS2uPQVCStHPqIYjNaYXDvnXaJLA7D4QbxAwXwUM8qQkiGSX+U0u9n9qH2LAtTNfwFzFN3iN0kLimQmO74jC/2JP/Pm1RWNo3bcE//7yu4PMyuIsjh9x9KRWUNZ4o85rH1GuQ=;rjz2O+n5v3Ffam7DcJdZiQ=="

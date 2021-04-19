@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Chip Startup Groq Closes $300 Million in Series C Fundraising"
-    excerpt: "AI chip startup Groq has announced that it closed $300 million in new Series C fundraising, co-led by Tiger Global Management and D1 Capital, along with The Spruce House Partnership and Addition. Groq is a leader in computer accelerators for artificial intelligence (AI),"
-    publishedDateTime: 2021-04-14T13:49:00Z
-    webUrl: "https://www.unite.ai/ai-chip-startup-groq-closes-300-million-in-series-c-fundraising/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/04/Tech_Photo-1.png"
-        width: 812
-        height: 597
-        isCached: true
   - title: "AI Computer Chip Biz Groq Closes $300M Series C"
     excerpt: "\"Our mission is more disruptive: Groq seeks to unleash the potential of AI by driving the cost of compute to zero,\" he said. Groq said in its statement that its tensor streaming processor is the fastest single core chip in the industry and overcomes ..."
     publishedDateTime: 2021-04-14T18:15:00Z
@@ -64,6 +50,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
+  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
+    excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."
+    publishedDateTime: 2021-04-19T06:48:00Z
+    webUrl: "https://www.evaluationengineering.com/industries/semiconductors/article/21218836/ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+    type: article
+    provider:
+      name: evaluationengineering
+      domain: evaluationengineering.com
+    quality: 34
 
 secured: "5vC+Ztv/nU+zNuysKn69vUXdk8GeT5bS1Rq/9ByAzKZ2XglMXMjAm1K8pkGTIY31F9WTHW95ypoFvRYXrOG3Mi4COqw3tE0Qf2DnR3MNJz2PELtiRA/AVnbSNENujsanollgtntf9H5Q7HABQ36jhm1ExYBU0Q8oU68SSiYCQo6A5yNEKr+NNyC4P0EwDDW85jL0i8uIGjexyMkJ7XcDKtv/O2Wwc6k4L2Evae4tGiCkgyLPaecUuge4z33b3smSLpsDo1CBxqy4RIhe/gR9HdGsa8bf4kFbonFY+fWlVgUgFu+f3KG7Ks+7wSCOQypVfmyTsQ4h25W4Om9aZnHgm31KAynTXTHAZOYafqcWB44=;sT4oAhnrChaWu31K59b67g=="
 ---

@@ -195,20 +195,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-04-18T02:46:00Z
-    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+  - title: "Artificial Intelligence Services Market 2021: Trends, Growth and Profit Analysis, Forecast by 2030"
+    excerpt: "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global artificial intelligence services market is expected grow"
+    publishedDateTime: 2021-04-19T06:10:00Z
+    webUrl: "https://www.openpr.com/news/2271826/artificial-intelligence-services-market-2021-trends-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
   - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
     publishedDateTime: 2021-04-15T11:29:00Z

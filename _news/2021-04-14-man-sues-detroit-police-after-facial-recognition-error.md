@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Could your Facebook photos be used for police facial recognition?"
+    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
+    publishedDateTime: 2021-04-19T06:30:00Z
+    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 59
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Detroit man sues over wrongful arrest due to facial recognition technology"
     excerpt: "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ..."
     publishedDateTime: 2021-04-14T18:23:00Z

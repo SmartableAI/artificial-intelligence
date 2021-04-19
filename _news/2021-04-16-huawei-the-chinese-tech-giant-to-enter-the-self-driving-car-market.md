@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s Chinese rival Xpeng ups the self-driving game with world’s first mass-produced LiDAR in P5 sedan, defying Elon Musk"
-    excerpt: "Xpeng, Tesla’s Chinese rival, fuels the competition of autonomous driving to a new level with its newly-launched P5 sedan becoming the world’s first mass-produced vehicle with LiDAR technology."
-    publishedDateTime: 2021-04-14T13:25:00Z
-    webUrl: "https://www.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first"
-    ampWebUrl: "https://amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first"
+  - title: "The ulti-mutt pet? Chinese tech company develops robot dogs"
+    excerpt: "It's whip fast, obeys commands and doesn't leave unpleasant surprises on the floor -- meet the AlphaDog, a robotic response to two of China's burgeoning loves: pets and technology. The high-tech hound uses sensors and Artificial Intelligence (AI) technology to 'hear' and 'see' its environment -- and can even be taken for walks."
+    publishedDateTime: 2021-04-18T11:04:00Z
+    webUrl: "https://tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/"
+    ampWebUrl: "https://tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/amp"
+    cdnAmpWebUrl: "https://tv-guardian-ng.cdn.ampproject.org/c/s/tv.guardian.ng/news/world-news/the-ulti-mutt-pet-chinese-tech-company-develops-robot-dogs/amp"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
+      name: The Guardian Nigeria
+      domain: guardian.ng
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/a2d37930-99bd-43eb-b2cd-7d3f0e566db6_196207ae.jpg?itok=vfeqdmKJ&v=1618402372"
-        width: 1200
-        height: 630
+      - url: "https://guardian.ng/wp-content/tv-uploads/2021/04/rr-640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "cZbLGuv2V28oKcUPJ41F2m8J1PSqV+6Eq/Oe0LjYvJ3opq2uTIX9q/BkssyLpyQHWJIq4BjOx9X/NPd+NoVXphnMV+T37dy5G/pV64lGRQWrq4OnK41KOEfQ3KkyNSRmKkh7MXRZfvftU7+RG+PjYq60Y1K4R0I2t5Ee0/68aN+CEq0ft4C/nat5oPmTqskHHRHVHZUgEhgh3MCqK5uP2cXG7qLDDHfHOVYFRugNkN+Vg375yRo/BFkbRUrv077MxbEtE+/EH8XZEYbaKNY9svqrR06tLIOtTKOgWsUiVZIPSMedJXztegmEU/Expmm6Np/czvT19La/rD0wNvLGCiAIq/r2el0UOdvgnAZI1Uk=;kg/p3Bdv8pJIW2aAu51MAw=="

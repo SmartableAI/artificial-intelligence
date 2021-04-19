@@ -41,17 +41,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Machine Learning can help slow down future pandemics: Study"
-    excerpt: "Machine Learning (ML) can be used to find effective testing methods during epidemic outbreaks, thereby helping to better control the outbreaks, a new study said."
-    publishedDateTime: 2021-04-14T14:31:00Z
-    webUrl: "https://www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    ampWebUrl: "https://www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/movies/machine-learning-can-help-slow-down-future-pandemics-study-news-bollywood-veoo5zgdeicih.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
 
 secured: "ROiHO8H0sGT/e0gwY9UDpwJkETk2f1cm/jrKXUpNvQXUFgPyIo1/2eAz8QPxGwrRZxSI7LAkmsYEGOAK2wHCCtUPNNQvXqApFGAzzE4UWrllcJc+Tgjh2e22YJdZWKFzulI0nhl/BLu1oxRtzlEW0BlV/OmbqcWITLpHRxUedMDN3cZowyi23DAD69J4eKJrA0pVvI/HGT08iNh78sUmvW5nbXyzfKlhMAYVoiXl/uBtG78HfkxXEbK6YC831hEmLCwmGP/r8N5vc9tqSvQtoHUT5zWoB00JmxoGzoDyo0oOA7ivDr76MyB0NkkLNrkaLHkX/PCTBtTTl3hAtTnc+DI4aGYUuivWcdAhsqpt9zo=;w8Va3ZeuCjJWuO1aWxYkGA=="
 ---
