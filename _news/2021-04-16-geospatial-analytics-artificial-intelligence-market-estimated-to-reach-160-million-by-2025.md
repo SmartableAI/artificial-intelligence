@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "This video analytics startup aims to be the Google Analytics for offline retailers"
+    excerpt: "Gurugram-based Veda Labs is a video analytics platform that uses existing CCTV infrastructure to provide businesses with insights like total footfall, demographic overview, customer journey, and more."
+    publishedDateTime: 2021-04-19T23:50:00Z
+    webUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers"
+    ampWebUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 51
+    images:
+      - url: "https://images.yourstory.com/cs/2/a9efa9c02dd911e9adc52d913c55075e/Image6lmw-1618820546780.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
     excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
     publishedDateTime: 2021-04-16T19:21:00Z

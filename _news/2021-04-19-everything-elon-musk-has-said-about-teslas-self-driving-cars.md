@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       name: KMOV
       domain: kmov.com
     quality: 26
+  - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
+    excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
+    publishedDateTime: 2021-04-19T21:57:00Z
+    webUrl: "https://www.insideedition.com/no-one-was-behind-wheel-of-self-driving-tesla-that-crashed-into-tree-killing-2-passengers-inside"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 20
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-04/041921_tesla_crash_web.jpg?h=d1cb525d&width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "5CpJNcxJ6nEYkagUC/pzpTltXPbDV9eRdbfq1Li8Os4JH3cyAgj42n4VCY9uXg2VFx6oa4hLN/6K/9rBBXN6E6CBqF/KGq7BGd3ofPSvgTM/Mlv5rHpZnhkaCGcHOEKegskKlxuh2dSbk16kCHCM3fc/sV8JgU8E7WptXdbpsN1PaDToL8xb6HhFqO3/dWDUtGndYtcmhU8mvvGj9Fw0nQn6bqyZ5FCjSp5xuh/t5j6AvMdYZhFU3SffdQSWNxnvmqvgC53Mc9PvHvHxFgOQHi+E+2tQ4A36bExAgFDKMncZSKDSawgolRQ6ZZaxYbrhfcfrVpfUtK3bNcUfPb6h2Uhv9pj9WVQ3ebkGUirjdRiqr+pDrqGE1yC1Sl4k3NJiNbMg0zhJm9TTsZtY/hCbyrcNxqxLtP8NmjGBBo4l180Lgc9n97JrZj+ipaMAVT7vfQwoUHY/Ig3wRFlglPkjhBRtTQ3wD7kEagqCy7v8S6OwoBDh1dLChUepVa2VY69d7LqVrEytqcruwussDhf7eA==;NdtvjxThPV/s+wYWv5m4mQ=="
 ---

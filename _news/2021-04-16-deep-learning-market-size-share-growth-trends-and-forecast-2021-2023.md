@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-siz
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
 type: article
 quality: 69
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -206,20 +206,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Self-driving Car Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
-    excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
-    publishedDateTime: 2021-04-15T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

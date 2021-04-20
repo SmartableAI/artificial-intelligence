@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-exp
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15"
         width: 1200
         height: 800
+        isCached: true
+  - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
+    excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
+    publishedDateTime: 2021-04-19T22:15:00Z
+    webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 11
+    images:
+      - url: "https://img.futurecar.com/202104/19/l_607e01de12460.jpeg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "wHi4Wa32SIcPDyKkOw6W30kyDacg5Wor1DoOg9SUzB1ev50GGvwA/HuN2crLSOHQGaB/O9nI7Y3o2i+dGcZdJ/EVVNBLL9FJqpv2HGnRw5pJ41NJLjgNEac2B/XUWfyDNmRVhlfu0w4edaUlVZsxOf+j+sLPRa0/RUenfkGzVLcbrcgTKlMeOdewms3hzantf4Q5P60+Yb/IyygkXYTjP2U0xji6B1Zx0BxauXUKxsRtAb+N3M+kVtUnC6zCvJ7Evu9mvqYUB5pLlTJ1ki1P8l3lYb0w57JcmftrOpwLgEKDmpI9ML6qm+JhElC/WWdGLf3f24/+g9QOpe6t3FXZKkMcQNFPlNujsAg4kx1wO3N+vHOnV3Fmu+OCIFxMaUmKirjaVI1KSsy/GjkNKg+oa+kbEGpasegMcI3sBmdqFsZGNKBkomg58K8bHo+z8o1SsfB1XXp8zsk7C6dsDrC6fGfc+AMtAVxg4wDghDlJHr8pVtowHmMj2EaGfCZ3voeoW35EG+Q7xi8nG4uaUPm2yA==;GX/xsqDAKOPp4iN42K9qqw=="

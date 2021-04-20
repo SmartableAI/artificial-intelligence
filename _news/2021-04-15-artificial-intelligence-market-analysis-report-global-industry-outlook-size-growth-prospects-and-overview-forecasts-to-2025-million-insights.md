@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latin America Self-driving Car Market by Application Analysis, Regional Outlook, Competitive Strategies And Forecast 2021 – 2024"
-    excerpt: "Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
-    publishedDateTime: 2021-04-15T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-by-application-analysis-regional-outlook-competitive-strategies-and-forecast-2021-2024-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
     excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
     publishedDateTime: 2021-04-18T14:39:00Z

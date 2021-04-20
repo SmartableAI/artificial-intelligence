@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Long road trip shows that self-driving Ford F-150 can provide a 'much less stressful driving experience'"
+    excerpt: "Long road trips can be exceedingly dull and stressful. Ford engineers say they've taken some of the edge off after road-testing their BlueCruise self-driving feature in what they call the Mother of All Road Trips."
+    publishedDateTime: 2021-04-19T22:09:00Z
+    webUrl: "https://www.equipmentworld.com/trucks/article/15065029/long-road-trip-shows-that-selfdriving-ford-f150-can-provide-a-much-less-stressful-driving-experience"
+    type: article
+    provider:
+      name: Equipment World
+      domain: equipmentworld.com
+    quality: 7
+    images:
+      - url: "https://img.equipmentworld.com/files/base/randallreilly/all/image/2021/04/BlueCruise_Ford_F_150_02.60774dca76ff3.60776038be338.png?auto=format&fit=max&w=1200"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "bgmynlZxkebLMLGM5v0GAC5TWgsHyL9nJl9S8iXUv11gNwMpwhJ+OjXMMgJyBTFZWptIcx4D7u29JMAjHa0g9d4dS3D7B367GcKJRRcP1om4UL+yyy4hPekk2UilyaWr5IQLe90onNQ3oQibr1+yXb6S7VgevvN3Eqi8Z/0iI2EwfS9agYXugHEGwdBcPTwtiQsu50t7r/Xu+cafOVOv74RJZ5CIqaR6rtyUNeiNtqyaRJ/iZrmJ8/rl3I9WXbidAGmheZnQ03QW66UepPz1ke30ASM7avSMlCMGqne6DAIbbe3MRwZ2qTh3TarlDarRoWhUp72XPmxMsc84hPxGV/Mr9ByIZX7nqScI4Lb3ms5rjTHSGqsZXUZztuzMBTfsEjNrcx97HMwZal9R7GLEBoyeDHpdgKHUkJmKsSZPlW4/eDtzyWQ2VJluD8/8ZplOGR3cObHc3n13DLog7ciJJvaeTEFSfuhJ7lSavbApdlXyKkDUNl9P/8jH1y/MSpR1IMGe8/Ty7peccpxi8ejNGw==;gqi5DyUf3vWl0CaUmebyPQ=="
 ---

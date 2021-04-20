@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
+      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T16:44:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026.md",
       "title": "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026",
       "excerpt": "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1398,58 +1451,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-superhuman-the-future-of-email-or-a-monumental-waste-of-money.md",
-      "title": "Superhuman: The Future of Email or a Monumental Waste of Money?",
-      "excerpt": "I've been using Superhuman, an invite-only email client Silicon Valley startup owners swear by. With a wait list that's 250,000 users",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2217-superhuman-email/",
-      "originalUrl": "https://www.techspot.com/article/2217-superhuman-email/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2217/images/2021-03-24-image-3.jpg",
-          "width": 2089,
-          "height": 1617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2217-superhuman-email/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2217-superhuman-email/",
-      "publishedDateTime": "2021-04-01T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

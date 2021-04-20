@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
+      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
       "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
       "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
@@ -847,8 +881,8 @@
       "title": "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports",
       "excerpt": "Increasing penetration of Smartphones with image recognition technology for authentication, object identification and augmented reality use cases. Increasing adoption of image recognition ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264522",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1316,49 +1350,6 @@
         "Google AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-cohesity-recognised-as-a-customers-choice-in-2021-gartner-peer-insights-voice-of-the-customer-distributed-file-systems-and-object-storage.md",
-      "title": "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage",
-      "excerpt": "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

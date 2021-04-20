@@ -2,6 +2,142 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-19-examining-the-bias-in-artificial-intelligence.md",
+      "title": "Examining the bias in artificial intelligence...",
+      "excerpt": "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09508517_1616140084.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket.md",
+      "title": "SDSMT students use artificial intelligence, trying to pick perfect bracket",
+      "excerpt": "“The output of the neural network will predict how far a team will make it in ... where there’s a whole bunch of teams from around the Midwest area that are creating their own artificial intelligence and machine learning algorithms and competing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "originalUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kota-prod.cdn.arcpublishing.com/resizer/2bWT7mv88yOtN9iK5do5R5NJgrU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/H3OKFAFYNBEPHGPFPLVTQBQTEY.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOTA TV",
+        "domain": "kotatv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-alexa-what-is-union-busting-john-oliver-lobs-tough-questions-at-amazons-ai-on-tonight-show.md",
+      "title": "‘Alexa, what is union busting?’ John Oliver lobs tough questions at Amazon’s AI on ‘Tonight Show’",
+      "excerpt": "Clearly Alexa is not a British soccer fan, and she spouted off about the 1985 Chicago Bears NFL team. Fired up by his annoyance with the AI, Oliver leaned into the camera from his remote location and asked, “Alexa, how bad are Amazon working conditions?”",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/",
+      "originalUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/alexa-what-is-union-busting-john-1260x709.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/amp/",
+      "publishedDateTime": "2021-03-18T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-ceo-of-fintech-lender-now-a-billionaire-after-shares-soar-89-in-one-day.md",
       "title": "CEO Of Fintech Lender Now A Billionaire After Shares Soar 89% In One Day",
       "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
@@ -1069,162 +1205,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ibm-watson-announces-2021-women-leaders-in-ai-honorees.md",
-      "title": "IBM Watson announces 2021 Women Leaders in AI honorees",
-      "excerpt": "To build trustworthy, unbiased and useful AI for a diverse population, we need diverse leadership in AI development. But today women represent just 26% of the data and AI workforce, according to the World Economic Forum, and gains in leadership are stalling across the board. As reported on International",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/2021-Women-Leaders-in-AI.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T05:00:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-oracle-brings-autonomous-data-warehouse-to-the-rest-of-us.md",
-      "title": "Oracle brings Autonomous Data Warehouse to the rest of us",
-      "excerpt": "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "originalUrl": "https://www.zdnet.com/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/18/b89dc660-6163-4316-a919-9cd06252cb8a/self-driving2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "publishedDateTime": "2021-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-three-ways-machine-learning-helps-tech-businesses.md",
-      "title": "Three Ways Machine Learning Helps Tech Businesses",
-      "excerpt": "Machine learning, a subcategory of artificial intelligence, has quickly proven to be a helpful tool for consumers and tech business owners. There’s AI-powered software on the market that helps leaders and marketing teams understand their audience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db4cb496d3e0006c97ad8%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "publishedDateTime": "2021-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

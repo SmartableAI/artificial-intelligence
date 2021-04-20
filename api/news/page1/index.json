@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
+      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T16:44:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-move-over-artificial-intelligence-there-is-a-new-ai-in-town.md",
+      "title": "Move Over Artificial Intelligence, There Is A New AI In Town",
+      "excerpt": "What is Augmented Intelligence and why should you care about it? Why does Augmented Intelligence need AI Literacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de55517e34e233f65920b%2F0x0.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
+      "publishedDateTime": "2021-04-19T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai.md",
       "title": "The Forbes 30 Under 30 Asia Startups Unshackling Businesses Using AI",
       "excerpt": "The four cofounders of South Korean startup Selectstar are among the entrepreneurs in the Enterprise Technology category of this year's Forbes 30 Under 30 Asia list that are using AI technologies to improve everything from drafting legal documents to the way AI itself is trained.",
@@ -319,7 +423,7 @@
       "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -979,7 +1083,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1126,7 +1230,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1157,92 +1261,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
-      "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
-      "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2021/04/phone-technology-device-finance-business-tech-696x400.jpg",
-          "width": 696,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "publishedDateTime": "2021-04-18T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai.md",
-      "title": "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI",
-      "excerpt": "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "publishedDateTime": "2021-04-18T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

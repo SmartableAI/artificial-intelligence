@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-08-uws-os-keyes-takes-on-techs-ethical-challenges-from-gender-bias-in-ai-to-facial-recognition.md",
+      "title": "UW’s Os Keyes takes on tech’s ethical challenges, from gender bias in AI to facial recognition",
+      "excerpt": "A PhD candidate with the University of Washington's Department of Human Centered Design & Engineering, Os Keyes researches the ethical and political impact that new technologies have on the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/os-keyes/",
+      "originalUrl": "https://www.geekwire.com/2021/os-keyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/Edwards_STEMos_HERO-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/os-keyes/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/os-keyes/amp/",
+      "publishedDateTime": "2021-03-07T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-facebook-enhances-ai-computer-vision-with-seer.md",
       "title": "Facebook enhances AI computer vision with SEER",
       "excerpt": "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets.",
@@ -1381,58 +1434,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
-      "title": "Amazon launches computer vision service to detect defects in manufactured products",
-      "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "publishedDateTime": "2021-02-24T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

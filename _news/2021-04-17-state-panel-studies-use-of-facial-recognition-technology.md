@@ -107,6 +107,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "XLaMdg+cxB2rslnQ8XlaDAwKah9CkN4PMna/r63fFXtS5LYSBgTXoXRQSX16oTHJLsWvo8D+7/NNhGsIrCKpgAmzA+EGHxNcCOEdMMOUbthnZsjFXamNTJ7FO5k92WD02TyRKbDdehytlGBhUqZGLLGEhaEDEQlz+F3eXkrzllo/zmvLxqqAbfCm/dmVa8R6Ir2cKEIiKDLx/pVJ9poa0Ojo4Vp62LNUaS4G04TQgq8pqW2YubJiZRt5vk555L8YYoEQ3lM40c5zJ1PJ7PSU5ZvhW78vEVtm09TCRan+E27yMgVVsuxAKe8J4RzbbxykpB4vJd1uk9Mi3lzn+Sgu0J9YeuGWAm19Ludyb6sC6VU=;ApESK0TE54BE8UX6w14y8w=="
 ---

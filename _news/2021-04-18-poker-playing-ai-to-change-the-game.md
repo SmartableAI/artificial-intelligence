@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Ways Artificial Intelligence Is Changing Our World"
+    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
+    publishedDateTime: 2021-04-19T10:03:00Z
+    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 39
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "Placer.ai Launches Marketplace to Bring Leading Data Tools Together"
     excerpt: "The marketplace will enable data analytics providers to layer new datasets and perspectives on top of Placer.ai’s dashboard enabling immediate access to leaders in CRE, Retail, Hospitality, investments,"
     publishedDateTime: 2021-04-15T15:16:00Z

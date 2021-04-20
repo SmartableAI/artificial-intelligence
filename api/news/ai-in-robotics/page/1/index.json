@@ -341,6 +341,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time.md",
+      "title": "How artificial intelligence is transforming the future of healthcare one step at a time",
+      "excerpt": "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
       "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
       "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
@@ -514,49 +558,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
-      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-robotics-deliver-goods-beyond-the-supply-chain.md",
       "title": "Robotics Deliver Goods Beyond The Supply Chain",
       "excerpt": "Robots are popping up everywhere: delivering, unloading, cooking and even farming, but we’re likely a few years away from affordable in-home applications.",
@@ -586,6 +587,40 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-robotics-artificial-intelligence-etf-botz-at-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High",
+      "excerpt": "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "originalUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,59 +1426,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nuros-self-driving-robot-will-deliver-dominos-pizza-orders-to-customers-in-houston.md",
-      "title": "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston",
-      "excerpt": "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
-      "originalUrl": "https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/oRCkywwYBpbl8UjzgYn9SHAuTVM=/0x0:5129x3420/1400x933/filters:focal(1863x1390:2683x2210):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston",
-      "publishedDateTime": "2021-04-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

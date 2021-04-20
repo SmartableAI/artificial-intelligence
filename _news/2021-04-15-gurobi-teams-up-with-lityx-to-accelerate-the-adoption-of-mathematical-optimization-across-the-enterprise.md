@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise"
-excerpt: "Gurobi Optimization, LLC – which produces the world’s fastest mathematical optimization solver, the Gurobi Optimizer – and Lityx, LLC – which produces the leading no-coding-required automated machine learning (AutoML) platform,"
-publishedDateTime: 2021-04-15T14:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-science-industrial-products-and-services-electronic-parts-manufacturing-9c82333953824f5b9b76c5df45a758cb"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-industrial-products-and-services-electronic-parts-manufacturing-9c82333953824f5b9b76c5df45a758cb"
+excerpt: "This combination of Lityx’s user-friendly, cutting-edge AutoML platform with Gurobi’s best-of-breed solver will give users across the enterprise (including data scientists and business ..."
+publishedDateTime: 2021-04-15T15:37:00Z
+originalUrl: "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html"
+webUrl: "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html"
 type: article
-quality: 7
-heat: 7
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise"
@@ -35,6 +29,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "hEK1OLlLs0r/Pggc+y5VTfqcwS4jT5imaFfT1IMl3XNAIxmrUveUulZzzVK4j6F7NCDUqjeYm4C5GFjTUU9n7HRTMv9y+mzLwpVljSOkri7T8c3lkueYc4vh/X1QTtTobx8tRAVEO2qciWJ/2DL4y8iKhQ0mpbk9uuC1gmesBs2Zx+ReJ0gGHG9/os5ekD5aa0ekg307iifvKhAQLm3SdH8PiA/mm37Ja9lgwYf1DwUtBQlW0fW0UHfHvcYxhoRn+JJkUwgfDmSkCQlCNP64ndpxJig6m3DEUOIqPHx8Hx1QXFLQr33s5xzDna3YulERnlvwleXc4MT2vBRt31r/wZ7B38KbwrIVf7MzvQ8MNLc=;U3p5p1Ux5CnGcVFD0ASFbQ=="
+secured: "lersSups5hJK20y0Ud0Azx+qa6weMr1Je3203XZP6pNS0tObtk+Kxq4NZ+jeN2RABjDxYOoopPVlRsKoHe6ChYyvOL6WBcgQznGEBjiX95TNiQWOUcGoUh50VjmENCMiLWyLZ9GfQcTucZvjEablhhS68Gb+UsKXp1kKaAAImhs5SV+596Lll+N5tVZ4jxkfJAurQhou2PlQxO26cz2Qxsf7XWA1eUW75KC4JVu6u8G5yMV3UhROTimYrzuq1XrIBv4Iie+aN95+4ItVRbDXbMIAZwmfXn5I0lJq53S5NIsJuIBwVR2/9ecyKlDfjX7VmjHPXUK/vvTvc/e7fYjbrIBMbdzM0T4Kty8tv7tin0U=;Y+W9Ke2YzyTdLFI1Igu67A=="
 ---
 

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
+      "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
+      "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
+      "sourceUrl": null,
+      "webUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
+      "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2021/04/phone-technology-device-finance-business-tech-696x400.jpg",
+          "width": 696,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
+      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
+      "publishedDateTime": "2021-04-18T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamic Business",
+        "domain": "dynamicbusiness.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai.md",
+      "title": "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI",
+      "excerpt": "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "publishedDateTime": "2021-04-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
       "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
       "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
@@ -512,7 +598,7 @@
       "originalUrl": "https://www.businessinsider.com/analytics-ai-tips-to-grow-business-kellogg-marketing-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -816,7 +902,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 238,
+      "heat": 248,
       "tags": null,
       "images": [
         {
@@ -1009,6 +1095,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time.md",
+      "title": "How artificial intelligence is transforming the future of healthcare one step at a time",
+      "excerpt": "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-ai-and-rpa-choosing-the-right-tech-for-your-finance-team.md",
       "title": "AI And RPA: Choosing The Right Tech For Your Finance Team",
       "excerpt": "Both RPA and AI have their place among truly modern finance teams looking to process copious amounts of data quickly and accurately.",
@@ -1093,145 +1223,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest.md",
-      "title": "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest",
-      "excerpt": "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "originalUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "publishedDateTime": "2021-04-16T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
-      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
-      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "publishedDateTime": "2021-04-16T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker.md",
-      "title": "This New Jupiter Webcam From eMeet Includes AI Framing Technology And A Built-In Speaker",
-      "excerpt": "This webcam from eMeet includes a speaker and an array of four microphones. Thanks to AI technology it can zoom in on a speaker's face automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60769fedbb83b12f0d643cc0%2F0x0.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
-      "publishedDateTime": "2021-04-16T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

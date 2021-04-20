@@ -27,22 +27,6 @@ images:
 related:
   - title: "Social isolation may reduce face recognition ability: Study"
     excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
-    publishedDateTime: 2021-04-15T06:45:00Z
-    webUrl: "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    ampWebUrl: "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1594299345.jpg"
-        width: 660
-        height: 502
-        isCached: true
-  - title: "Social isolation may reduce face recognition ability: Study"
-    excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
     publishedDateTime: 2021-04-16T04:30:00Z
     webUrl: "https://www.freepressjournal.in/science/social-isolation-may-reduce-face-recognition-ability-study"
     ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"

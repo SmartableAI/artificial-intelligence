@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelli
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Hindustan Times
@@ -28,79 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Is A Leading Indicator Of The Future Of Work"
-    excerpt: "The future of work promises increased productivity, getting top results with fewer resources, and using AI not to eliminate jobs but to help teams excel. Ofir Paldi and the startup he runs, Shamaym, may have found the key to this future of work ..."
-    publishedDateTime: 2021-04-15T13:35:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/04/15/this-ai-is-a-leading-indicator-of-the-future-of-work/amp/"
+  - title: "Promise and Peril: How artificial intelligence is transforming health care"
+    excerpt: "Our latest eBook examines the promise and peril of Artificial Intelligence, as well as insights from experts in the field. Learn more."
+    publishedDateTime: 2021-04-16T02:36:00Z
+    webUrl: "https://www.statnews.com/promise-and-peril/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6077940a18631a01a05d68f4%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
-    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
-    publishedDateTime: 2021-04-19T00:03:00Z
-    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
-    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 45
-    images:
-      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "The impact of AI on the gaming industry"
-    excerpt: "As time continues to pass and technologies continue to evolve, these AI features will get better and provide even better experiences."
-    publishedDateTime: 2021-04-17T16:18:00Z
-    webUrl: "https://techaeris.com/2021/04/17/impact-ai-gaming-industry/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 39
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2021/04/ai-gaming-industry-1000x543.jpg"
-        width: 1000
-        height: 543
-        isCached: true
-  - title: "3 Ways Artificial Intelligence Is Changing Our World"
-    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
-    publishedDateTime: 2021-04-19T10:03:00Z
-    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 39
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
-        width: 750
-        height: 468
-        isCached: true
-  - title: "5 Powerful Ways AI Is Impacting The Web Hosting Industry"
-    excerpt: "Want to know how artificial intelligence can impact website hosting? Read this post to understand ho,General Information"
-    publishedDateTime: 2021-04-19T12:05:00Z
-    webUrl: "https://www.hostreview.com/blog/210419-5-powerful-ways-ai-is-impacting-the-web-hosting-industry"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
+      name: STAT
+      domain: statnews.com
     quality: 37
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.statnews.com/wp-content/uploads/2019/09/default_social_image-1024x512.png"
+        width: 1024
+        height: 512
         isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."

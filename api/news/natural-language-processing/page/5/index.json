@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-26-bollywood-movies-still-associate-beauty-with-fair-skin-ai-study-finds.md",
+      "title": "Bollywood Movies Still Associate Beauty With Fair Skin, AI Study Finds",
+      "excerpt": "By analysing subtitles over the last 70 years, researchers also found that while Bollywood films have improved at representing religious diversity, the plot continues to be helmed by upper-caste heroes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
+      "originalUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6038c700a13bb1009c61968a/lede/1614333882060-fotojet-55.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
+      "publishedDateTime": "2021-02-26T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-artificial-intelligence-market-worth-19061-billion-by-2025-at-a-cagr-of-3662.md",
       "title": "Artificial Intelligence Market worth $190.61 billion by 2025, at a CAGR of 36.62%",
       "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
@@ -1329,40 +1381,6 @@
       "ampWebUrl": "https://amp.benzinga.com/amp/content/19697414",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697414",
       "publishedDateTime": "2021-02-16T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697382",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697382",
-      "publishedDateTime": "2021-02-16T18:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

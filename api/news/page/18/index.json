@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-05-north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025.md",
+      "title": "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025",
+      "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-makers-of-humanoid-robot-sophia-are-building-its-sibling.md",
+      "title": "Makers of humanoid robot Sophia are building its sibling",
+      "excerpt": "Joyce will use data-in-picture technology and a multiple sensors to provide data to its AI, neural network and computer vision to increase visual perception",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/vgq89j/article34243251.ece/ALTERNATES/LANDSCAPE_615/sophia-joycejpeg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
+      "publishedDateTime": "2021-04-05T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
+      "title": "SKorea’s LG to exit loss-making mobile phone business",
+      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
+      "originalUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
+          "width": 1280,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
+      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
+      "publishedDateTime": "2021-04-05T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAVY",
+        "domain": "wavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-neo-banking-startup-stashfin-raises-40-mn-in-series-b-extension-round.md",
       "title": "Neo-banking Startup StashFin Raises $40 Mn In Series B Extension Round",
       "excerpt": "and agility in a startup team. Equally rare is a clear vision and great unit economics. The team has built extremely compelling bank-grade infrastructure in a frugal manner. The advanced machine learning and AI models can be scaled across various geographies.",
@@ -1063,162 +1201,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-seattle-area-ai-startup-darklight-raises-51m-to-help-companies-automate-cybersecurity-tasks.md",
-      "title": "Seattle-area AI startup Darklight raises $5.1M to help companies automate cybersecurity tasks",
-      "excerpt": "New funding: Seattle-area startup Darklight raised a $5.1 million round from undisclosed investors. Total funding to date is about $10 million. The tech: Founded in 2014, Darklight’s software uses artificial intelligence and machine learning to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "originalUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/Dan-Wachtler-sm-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-area-ai-startup-darklight-raises-5-1m-help-companies-automate-cybersecurity-tasks/amp/",
-      "publishedDateTime": "2021-04-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-build-a-cicd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services.md",
-      "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg",
-          "width": 800,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:06:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-waymo-ceo-john-krafcik-steps-down-replaced-by-two-co-ceos.md",
-      "title": "Waymo CEO John Krafcik steps down, replaced by two co-CEOs",
-      "excerpt": "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "originalUrl": "https://www.theverge.com/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BpqqzSlbGMXZmST7t058Qp7ETkU=/0x0:2040x1360/1400x933/filters:focal(714x153:1040x479):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69067594/akrales_180327_2419_0161.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/2/22364317/waymo-ceo-john-krafcik-stepping-down-self-driving-cars-google-alphabet",
-      "publishedDateTime": "2021-04-02T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

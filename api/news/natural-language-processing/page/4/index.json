@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-09-active-learning-workflow-for-amazon-comprehend-custom-classification-models-part-1.md",
+      "title": "Active learning workflow for Amazon Comprehend custom classification models – Part 1",
+      "excerpt": "This is the first in a two part series on Amazon Comprehend custom classification models. In Part 1 of this series, we look at how to build an AWS Step Functions workflow to automatically build, test, and deploy Amazon Comprehend custom classification models and endpoints. In Part 2, we will look at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/09/Merged-Image.jpg",
+          "width": 800,
+          "height": 654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:46:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-researchers-find-that-large-language-models-struggle-with-math.md",
       "title": "Researchers find that large language models struggle with math",
       "excerpt": "In a new paper, researchers show that even the most sophisticated general-purpose AI language models struggle to solve math problems.",
@@ -1403,58 +1456,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-bollywood-movies-still-associate-beauty-with-fair-skin-ai-study-finds.md",
-      "title": "Bollywood Movies Still Associate Beauty With Fair Skin, AI Study Finds",
-      "excerpt": "By analysing subtitles over the last 70 years, researchers also found that while Bollywood films have improved at representing religious diversity, the plot continues to be helmed by upper-caste heroes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "originalUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/6038c700a13bb1009c61968a/lede/1614333882060-fotojet-55.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "publishedDateTime": "2021-02-26T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

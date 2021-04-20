@@ -89,6 +89,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-16-how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time.md",
+      "title": "How artificial intelligence is transforming the future of healthcare one step at a time",
+      "excerpt": "AI in healthcare refers to the use of complex algorithms designed to mimic human cognition and perform certain tasks in an automated fashion at a fraction of the time and cost.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/04/16/1600x900/technology-3389904_1920_1618574748877_1618574756518.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html",
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-computer-vision-in-healthcare-market-to-witness-surge-in-demand-owing-to-rising-end-use-adoption.md",
       "title": "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption",
       "excerpt": "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market",
@@ -1365,49 +1409,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-researchers-develop-explainable-artificial-intelligence-algorithm.md",
-      "title": "Researchers develop 'explainable' artificial intelligence algorithm",
-      "excerpt": "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
-      "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg",
-          "width": 750,
-          "height": 304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
-      "publishedDateTime": "2021-04-01T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-r
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Free Press Journal
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Social isolation may reduce face recognition ability: Study"
-    excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
-    publishedDateTime: 2021-04-15T06:45:00Z
-    webUrl: "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    ampWebUrl: "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 59
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1594299345.jpg"
-        width: 660
-        height: 502
-        isCached: true
   - title: "Could your Facebook photos be used for police facial recognition?"
     excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
     publishedDateTime: 2021-04-19T06:30:00Z

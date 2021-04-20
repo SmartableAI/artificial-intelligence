@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-19T21:56:00Z
 originalUrl: "https://www.channelnewsasia.com/news/commentary/ai-robot-criminal-law-harm-negligence-ethics-autonomous-vehicle-14609928"
 webUrl: "https://www.channelnewsasia.com/news/commentary/ai-robot-criminal-law-harm-negligence-ethics-autonomous-vehicle-14609928"
 type: article
-quality: 21
-heat: 21
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14037880/16x9/991/557/2d26f73c58687774eaf4ed33fb0df2d2/XU/autonomous-bus-at-science-park.jpg"

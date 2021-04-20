@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-01-superhuman-the-future-of-email-or-a-monumental-waste-of-money.md",
+      "title": "Superhuman: The Future of Email or a Monumental Waste of Money?",
+      "excerpt": "I've been using Superhuman, an invite-only email client Silicon Valley startup owners swear by. With a wait list that's 250,000 users",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2217-superhuman-email/",
+      "originalUrl": "https://www.techspot.com/article/2217-superhuman-email/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2217/images/2021-03-24-image-3.jpg",
+          "width": 2089,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2217-superhuman-email/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2217-superhuman-email/",
+      "publishedDateTime": "2021-04-01T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
       "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
       "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
@@ -1302,42 +1354,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
-      "excerpt": "and Region – Global Forecast to 2026 The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20259676",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20259676",
-      "publishedDateTime": "2021-03-19T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

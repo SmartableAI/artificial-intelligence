@@ -158,6 +158,20 @@ related:
       name: KMOV
       domain: kmov.com
     quality: 26
+  - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
+    excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
+    publishedDateTime: 2021-04-19T21:57:00Z
+    webUrl: "https://www.insideedition.com/no-one-was-behind-wheel-of-self-driving-tesla-that-crashed-into-tree-killing-2-passengers-inside"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 20
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-04/041921_tesla_crash_web.jpg?h=d1cb525d&width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "I+w0JbhvWNL98UAN9uAtvyHljj46pB5jOuc+6wc5eHDXlDg7bTK8NSltHxpI7c3WR1kwwM8QuOpLvA7SN926xVGf/qVLfQmW2dF4k94Nz15Tm5FduiNSzXS897zC2r0MEH/tJn3UAA6VhlUdrfROMClcSuk3onNNcSHSOnt0pQ1NINE3A8IqFBpjcW99ai5yMITMb9DJMZD4LCO+MQpyVa5nUN+0fq+M3bOpivij7NQc2y8reWAl0EfSmWipJCIrUZxSyPTH7WZ5U3UMDznA9tuAUKnH9n4pRw566XoIW7DETlPjW0FcjN5BjGHcl9Krkd+tfIIIfLHmugVgTam/nzHIZUffOo3tDm+CExyGPt/PuXO7+/aXIVaRWjtQykvku27mphsyas1wx8kg3sv00OYp6CvTX+UPqwPeuDZVHg+Jkfw+kDSNjqS/6FZ3WisqkZa+cn9oJEfLYyElZJ7PUeUzcU4p3uYqDtw+bRGV4+0Lqxdzsz/rBwCdE41nc3y/B17rgROSQ5EZLZt/8JA7zA==;w+Xh8eT0d3AEJ83fM6/vIg=="
 ---

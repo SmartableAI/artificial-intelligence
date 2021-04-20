@@ -93,6 +93,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "State panel studies use of facial recognition technology"
     excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
     publishedDateTime: 2021-04-16T21:00:00Z

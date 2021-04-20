@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
+    excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
+    publishedDateTime: 2021-04-19T22:15:00Z
+    webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 11
+    images:
+      - url: "https://img.futurecar.com/202104/19/l_607e01de12460.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "VF5zdLyIYDBDYAAcn03hB1NFe/zdGui727FlIJxWKjEQanka1tTtEUg8XsK/z1JOg/uUTLjiuz0vSAruBBrzKaVz/EjX+ePwL61BSOoU4xKP3SKw7dqELEXf0erxfybRDecBBpvhSy4qxIW+YeZk3SXD7MqC+tG+tFaE/Idvef8xDadHqxtH6gsqcZc/l/pJpbkEJEwzunreRJdBGCvAPquL4nv+qoi9cUN9Vy4Nsm87n4QqfDe4T/VxhmhDjpopFOMpWCJ6PKq6MWb0uKYRWKT//iENwfpZwvtG+PLXjAi0IU41FHSmpsdfY+ccLmMdD9r+dcGo7kL/G7NceTP5L7E9AHqZfnVggCxb86ILRo2nEBMaFVXYqpLBPAtiQOYd6TGWIq+K0kMD7bXEewM4HhrxFqm0BJwMfX9Qazsxe/Ic6h8ahff7ydaGBjdU/8c9wmX07ONp+E7auV65yfVDrR2vjGqaC+ALudxtAiOD6LZod3Eu/q+zjUh4H/Fnv6P8U3D14VcRGdCve9vd4QWZkw==;f2qNinhmFA2achu3PpcOcQ=="
 ---

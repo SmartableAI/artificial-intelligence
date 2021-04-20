@@ -2,6 +2,162 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-09-watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind.md",
+      "title": "Watch: Elon Musk’s Neuralink monkey appears to play Pong with its mind",
+      "excerpt": "Brain implants could help paralyzed people ‘use a smartphone with their mind faster than someone using thumbs,’ Musk tweeted",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "originalUrl": "https://www.marketwatch.com/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-322928/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/watch-elon-musks-neuralink-monkey-appears-to-play-pong-with-its-mind-11617982913",
+      "publishedDateTime": "2021-04-09T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models.md",
+      "title": "Tableau adds support to Einstein Discovery for user control over AI models",
+      "excerpt": "Register for a free or VIP pass today. Salesforce’s Tableau arm is making a case for employing AI to drive a new era of business science using analytics applications infused with machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Tableau-prediction-simulator-general.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/tableau-adds-support-to-einstein-discovery-for-user-control-over-ai-models/amp/",
+      "publishedDateTime": "2021-04-09T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-elon-musks-neuralink-teases-brain-computer-tech-in-new-video.md",
       "title": "Elon Musk's Neuralink teases brain-computer tech in new video",
       "excerpt": "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ...",
@@ -1078,159 +1234,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-us-spy-agencies-warn-of-threats-from-digital-currency-to-ai.md",
-      "title": "U.S. Spy Agencies Warn of Threats From Digital Currency to AI",
-      "excerpt": "The U.S. intelligence community predicts an increasingly leaderless and unstable world in the coming decades as trends such as artificial intelligence, digital currencies and climate change reshape the global arena, according to the National Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-08/u-s-spy-agencies-warn-of-threats-from-digital-currency-to-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iexSk_KE7Df0/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mlops-startup-comet-raises-13m-to-launch-model-monitoring-products.md",
-      "title": "MLOps startup Comet raises $13M to launch model monitoring products",
-      "excerpt": "MLOps startup Comet today announced that it raised ... (MPM), a product that enables organizations to track and monitor AI model quality. MLOps, or machine learning operations, encompasses the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
-      "originalUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
-      "publishedDateTime": "2021-04-08T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-klevu-raises-12m-for-ai-that-personalizes-ecommerce-search.md",
-      "title": "Klevu raises $12M for AI that personalizes ecommerce search",
-      "excerpt": "Klevu, a startup developing products that leverage AI to optimize ecommerce discovery experiences, has raised $12 million,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
-      "originalUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
-      "publishedDateTime": "2021-04-08T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

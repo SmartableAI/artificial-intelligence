@@ -211,20 +211,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Self-driving Car Market Size, Share Trends, Future Growth, Emerging Trends, Qualitative Outlook – Forecast To 2023"
-    excerpt: "North America self-driving car market A self-driving car also known as the driverless car or an autonomous car or a"
-    publishedDateTime: 2021-04-15T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-size-share-trends-future-growth-emerging-trends-qualitative-outlook-forecast-to-2023-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Services Market 2021: Trends, Growth and Profit Analysis, Forecast by 2030"
     excerpt: "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global artificial intelligence services market is expected grow"
     publishedDateTime: 2021-04-19T06:10:00Z

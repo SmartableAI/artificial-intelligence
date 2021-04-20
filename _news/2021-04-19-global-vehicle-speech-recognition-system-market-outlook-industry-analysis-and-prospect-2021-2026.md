@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-re
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Self-driving Car Market by Application Analysis, Regional Outlook, Competitive Strategies And Forecast 2021 – 2024"
-    excerpt: "Latin America self-driving car market A self-driving car, also known as the driverless car or an autonomous car or"
-    publishedDateTime: 2021-04-15T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-by-application-analysis-regional-outlook-competitive-strategies-and-forecast-2021-2024-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
