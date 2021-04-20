@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/log-management-database-startup-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Era Software Raises $15.25M in Series A Funding"
+    excerpt: "Era Software, the Seattle, WA-based creatot of EraDB to allow enterprises to manage hyperscale, cloud-native workloads, closed a $15.25m Series A funding"
+    publishedDateTime: 2021-04-20T16:25:00Z
+    webUrl: "https://www.finsmes.com/2021/04/era-software-raises-15-25m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/era-software.png"
+        width: 280
+        height: 280
+        isCached: true
 
 secured: "rjT2UL8wBP21jX/pD5hSzAEE8xgbVf4hfczQxn6BgIjx9hu2q3XZX8+P5tpXkLud47Gnfj6v0iQ8uaPiCCNnhwb8BeFH59P8fD9DhIW5iah/S1k3F8ZialMx1uCcKhsLqUPz/82k/43Wz6JEefaxEdPpkQgTgckaJAxORo6l4tTgnJmGAHrb5bcWwg0PmNi7oiLxdsrHnpaJ4WhtOQxvNfNyOyfdvj47FMX1s8uzvLpWIOx/mr/BgKIB9ncg58pLlcHByrYW7mJIfu61QHr8unvx2t4tiAggqyujNNnyS1/JgmzTrVCi1Cf6uTFkBevucUnJcl2mRHGDGzHgLghr8yzmwyK+jM/BzY0vyhg+/vE=;Qg44dHvK8lMC22QgWrOwkA=="
 ---

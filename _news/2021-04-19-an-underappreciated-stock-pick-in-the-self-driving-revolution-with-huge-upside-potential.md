@@ -1,31 +1,27 @@
 ---
 category: news
 title: "An Underappreciated Stock Pick in the Self-Driving Revolution with Huge Upside Potential"
-excerpt: "For a better part of the past decade, a French ad tech company by the name of Criteo (NASDAQ:CRTO) was at the forefront of the data-driven advertising revolution."
-publishedDateTime: 2021-04-19T09:46:00Z
-originalUrl: "https://investorplace.com/hypergrowthinvesting/2021/04/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential/"
-webUrl: "https://investorplace.com/hypergrowthinvesting/2021/04/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential/"
-ampWebUrl: "https://investorplace.com/hypergrowthinvesting/2021/04/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/hypergrowthinvesting/2021/04/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential/amp/"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Self-driving stocks have been killed over the past few weeks. It all started"
+publishedDateTime: 2021-04-19T13:46:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential-1030318331"
+webUrl: "https://markets.businessinsider.com/news/stocks/an-underappreciated-stock-pick-in-the-self-driving-revolution-with-huge-upside-potential-1030318331"
 type: article
-quality: 35
-heat: 35
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2020/10/marijuana-leaves.jpg"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "QpsM5udMLefBDO6qAHvAqiYiZiWIsyR7JbwPtjOxFQ+bjsLF3rlbih2VFSg2KVTjxeEYlK0ljlld8UeoBmcCHWCIm9J0DeAZK0Uj6sqh65+s6R4DvJnQjlY2wRDiwQStDYsjtDkOFKl2bJG601oXEfSpFG+pTSXbs9QlfpbC8POodvY0z07eg/fsNs+il/ue1ShTnbd4T2Ldjfd6ldoRTr32SL9aVzM40bqWkgFBXH9jSxhFH/l0eNb6GlE34NbxCln7l3Ofyk06/JJX0q4iLacm/xJbDM0QKi/c/gUanPSe5r/9dz1jApdn1ll83ueqWfMhMBjub7bMgEJVUvaoa26W5h5uv0cM8yI5oJjhwZQ=;BK7PsSy1YVGip9QXj1SkKQ=="
+secured: "r9r1neBgRkmNI5agaoiz0AjxDBnMwnaSRZG7gH2HOFOLbD/kbithdS6eUTmQyHF3J4Ichy0u+IWDU7s9nsn+83GbUHkHa8d0VWiRUc726NZ7LIP6hJMfXdgPb2s2oKjq0hF37jRujLtwaLfIikaYQj4KZPddvb7hdp2OmnUaJNJiOSruI3I2Q2iJYCg6siYkvPm38P5YxdkZL7mXpstsaIK2aI4elLGVMZonWEFxmZFkzNscfKnZO3fzBCSi0/4N5o6Vw4Vn7Xsl64Pp4PmqtdarWrTnxJDOu62RrQVqfA+gAjLwikkvUH27YebRd1CznSITZ6dp0wy1sYnirwKz4T2x5Nfwr8KrFVGE1SDlsRo=;ACh6Gb/qXQUy3SR1MazhhQ=="
 ---
 

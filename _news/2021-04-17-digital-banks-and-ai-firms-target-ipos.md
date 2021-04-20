@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/ipo/2021/digital-banks-ai-firms-target-i
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/digital-banks-ai-firms-target-ipos/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "AppLovin CEO Talks IPO, Apps and AI"
-    excerpt: "AppLovin CEO Adam Foroughi on the firm's $2 billion initial public offering on the Nasdaq as well as demand for apps, AI's push into mobile gaming and more."
-    publishedDateTime: 2021-04-16T00:56:00Z
-    webUrl: "https://www.thestreet.com/video/applovin-ceo-adam-foroughi-ipo-nasdaq"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/applovin-ceo-adam-foroughi-ipo-nasdaq"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/applovin-ceo-adam-foroughi-ipo-nasdaq"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 57
-    images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjUxMzQxNjg2NTgxMTQz/airbnb.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "ijaRbs9wY9eBaBtlFpIAEFK3vHRbSLdM967pLTI8eengEkOCpXapM9t+QGGG2UVv65ifnNTiLe+WAiS/Ckf7NiJBWEqV7DZTdsK80NEP1a65ueeYIA69tHretrjc0+ErAQiUWCM0aUj62raJ3/eTuC/b9AJI+6RKec4P+hXfMQNxORlvRBqu+MVOVI9L7jlGfa0qHJkUcj9bwReYVRQmeM2XHk/U8jB6toDmZi8foHQF1bzm1CJhyX5bOQs4gj+AKlpFitydmX3t5dAfX/0Hc/wG+u3E9d2SR4OROmnL1FPwR4Ihb+qvRvih3mfdI1ModTzhU3uoZQREFvd4Y7MlET0RdD+Mo0XHVrGdRhKzjTmki6IJQ9h2+cQvDHFOI1iAVrq6gTV3IxNALqds8e9bgJ87+jL0e0lZI0XM6JCMA/VM1Lu1OCERwwB+5TYKeJPg2AOIC40if0qLqXDelAxNt8T73U/YNuJXQ+p+iC85NQ4DPWFSsX06aB0I7Gjb3L2xSMUyC3Yh24MNoUCn/dAq6g==;O0w/bN7kmcd7NejwNQ3JLg=="
 ---

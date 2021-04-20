@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-20T11:59:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
 type: article
-quality: 45
-heat: 45
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "7aWZTiKx7alZqJeCUz6SqTVHLArX+0hsfL0SMqsfUTm3FAiu0Kw1BvE534J7iR8ViONObsJnG9c2TQzdFy6VbXcpKfMFZArp13yOGkvY3Uax2GYhu+2TOgVJPqI/i7htgPymCh3W0gShk9C+5Dm4ftlxTBQgMQf8e86nf1d67OoGXOHTdQdmWMXZ2lk4wk2Ofq762IIYD9Z63UFLMxA3pdeb3+Y3J/zyO39soYDA+jvPOVYYzx05WR0lNS0+yM3K/Upgb9AL9Pr7ST5QplJvOvmFbg3ab8xTu6yhBJ57XIfOOXbA1ZZhA4rmzC2rl0bPWQPIkkixjeZLD5C7OjIPPDJwUOJTqU+t20km/qOYO9M=;KvBCgNnF6+M6vty8jpLV/Q=="
+secured: "QuKiC8RSPB+NZwVIPKtZmrwDiB3y13RXgeA6GWDaRex17M2NbRo4BusHaZZG0AckA1yX8WjMmr0NPFSELCYQcbK2GFS2e5+ItJ2f8gEi9mDRGy2EE4OP/mQnu9klFcCA2udw6q5Iebwv+LP0XLSgSZRWvGg+cPA8AJWoTGz2LfRDpggcjOyqMJYAIVUxslRNDRPy4zUxNEKaoYBr/squiaQxYUSIukkZZTYvb8uD5wTz8z4P/gE2KdkJ2oRv4ZLk5emVC8W5+uymbtKsLHoj7354E1jMBwP+vV9iTR6p6GIusQ3N2wMMQaoXBGV7C26xKn2JKrhlQD4YEcBrxIV9+ne/BeoLuxz+pYDaoYEilg4=;JvmTzNngKR5L9ttoKY7p1A=="
 ---
 

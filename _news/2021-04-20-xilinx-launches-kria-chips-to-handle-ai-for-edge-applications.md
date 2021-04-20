@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-han
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -48,6 +48,29 @@ related:
         width: 999
         height: 563
         isCached: true
+  - title: "How Festo Applies Artificial Intelligence for Predictive Applications"
+    excerpt: "As part of Festo’s exhibit at the 2021 virtual Hannover Messe event, the company featured its Festo AX software, developed by Festo and Resolto (a Festo subsidiary specializing in artificial intelligence)."
+    publishedDateTime: 2021-04-20T16:21:00Z
+    webUrl: "https://www.automationworld.com/analytics/article/21390038/festo-applies-artificial-intelligence-for-predictive-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 37
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/Titelbild32Schwei223zange_0.607ef5b69119f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 773
+        isCached: true
+  - title: "Xilinx Launches Kria System-on-Modules for Edge AI"
+    excerpt: "Xilinx, Inc. (NASDAQ: XLNX) today introduced the Kria portfolio of adaptive system-on-modules (SOMs), production-ready small form factor  embedded boards that enable deployment in edge-based applications."
+    publishedDateTime: 2021-04-20T15:45:00Z
+    webUrl: "https://insidehpc.com/2021/04/xilinx-launches-kria-system-on-modules-for-edge-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "Ow/E7gLUr1jIpo8jsuw1FGZGrBcWGHL9JwXbrYRiuz4bCMJOOmd3pu9m04UNCr0phn+WmRKLRRrVOm0B6fx3IklbQnpCO+ZbkwsBZCFAuVzGNM3uZc1vHUVI//7BHjjsTVCSojmykBhbd4n1f0fwg9lme9VW1T3pDr+W9+R3UiRqCA3+rSNll2I6cxDttsj6T2iYp6wLPNrdXNPL9JvYtzLC2il1c7NPw5atHlACoM8KkKKhIBDoMVHiUKMeZKIhieHZTrbIUcLsK502mXfUukM57UW6zn7Ut3U2rF7+gUiTS0xRBT2el4yM24YsVnwEKSCvjdIa5rkfk0xsCKROM+42tbjbQLRMIlSDREmV4fkQFAVqhqGByaXqE2unPY7CTI9AKZWqhxyaxu4rsxFZfjbhEqbxcBGLMhiknkgR/IynEXvbg0ZLm/50GltMjXuIwnYtluuxCHt5SEte+8vCzJgwZe0sENgkE0FBvPm4bBjI4Y6vbt7EjXoU4y9T41f2P1G3jz5uxUFQ+ceKekPbpw==;Oo6mnU9Ybgh07r18UomETg=="
 ---

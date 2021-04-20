@@ -3,8 +3,8 @@ category: news
 title: "IBM Reports Revenue Growth For The First Time Since 2018"
 excerpt: "International Business Machines Corp. (NYSE:IBM) has posted its first quarterly revenue growth since 2018 due to strong demand for its cloud computing services. IBM’s first revenue increase in 11 consecutive quarters came as sales increased 1%"
 publishedDateTime: 2021-04-20T11:10:00Z
-originalUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
-webUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
+originalUrl: "https://www.baystreet.ca/articles/techinsider/66259/042021"
+webUrl: "https://www.baystreet.ca/articles/techinsider/66259/042021"
 type: article
 quality: 24
 heat: -1
@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 533
         isCached: true
+  - title: "IBM’s cloud business helps first-quarter revenue edge higher"
+    excerpt: "The company last week said that the services business it plans to spin off by the end of this year would be called Kyndryl and be based in New York City"
+    publishedDateTime: 2021-04-20T17:08:00Z
+    webUrl: "https://www.livemint.com/companies/company-results/ibms-cloud-business-helps-first-quarter-revenue-edge-higher-11618936053696.html"
+    ampWebUrl: "https://www.livemint.com/companies/company-results/ibms-cloud-business-helps-first-quarter-revenue-edge-higher/amp-11618936053696.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/company-results/ibms-cloud-business-helps-first-quarter-revenue-edge-higher/amp-11618936053696.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/04/20/600x338/2021-04-20T023824Z_1_LYNXMPEH3J02R_RTROPTP_3_IBM-RESULTS_1618938474492_1618938492534.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "IBM Reports Higher 1Q Revenue"
     excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
     publishedDateTime: 2021-04-19T15:31:00Z
@@ -72,6 +88,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "F47oZbbjXuTN7tmGtRbm4KYfsnLGMA+i45NUQz7Q/HNykxhI+Ww4LhjZhCBcqju5OeeUWzo1b9JEk437zgpfQnDb2xzwZh7LuF5YEd63Ru4U+6Y3DyzEzhCPOeFFL1LS+cCmCbpqfEwPORnka3fa7fQf/PaMtZB2FQyFjuSrFp7C/qkMj5MDn2cjE7AoHGVjwRaGy+DoqBG29K7kAOmKLaXi6+XcAtgc/njJh1lwEzz+URcAWOdI3/Y9eYxbgdQ8XhHCWLvmD/Z7xhiNouFFJ+/U0SpxLD1PsoZdaOUHMj5ZkUdWQiq2qZVDZ/40p5nOyQLI8XJpgRWIG/dGl6f/1xBZRF86Kcf5xzloEhk4dcqeRHlKpjw/Y9+ErMKe0EY08Ph4p3mzxwrRv6VYFWAwsRNGcHNezQfzyoH8QDF/Ou7sRrax1MQNMMF07IlOmVAp3zSqCrHA51xdGgivDhDy3i0sTYXcVlDNz90Wix/bExtyzvQA1fpMcZGp5W8XUZ3oPKJg9HGOWwPI5lRsjSG5bQ==;8snep1uma51erOpO7Dwe3Q=="
+secured: "ZgHihrUR1Oy6YJEOXvjSldpW9eMAl+dTpSYr9guqhOj5mGe2d5s7XLsrS1PV4Z2M6BFgRBkArfYGR4i7LgPiK6Fw9g+wWm4GNmKojR7aQYVpnZ7ceUNFUit8OF6kVgASRfxySjdewyRW2p2Guv7kFsAthQkmswaWtlHmZ0mAhLauMGAikuggf3CdJxKve7rTNG+cjdTTsPL2Sf1HvE0Y2I5T2HaSzJ69RmuYjpWOyrrZ62Ek2N1VKa5WWJdydvJfbBz5BD5NMN9su0v/U+OhhWJnRwX7AuPqGuDVLtE/TiT51Af2JVQH0QTo3EhQF5s0M1/GY9mDC5rI0ha7FK7lfD0C+kzSCjaX2aihpPEDYw8=;T9YefDItCEiWs7gjaoxdHQ=="
 ---
 

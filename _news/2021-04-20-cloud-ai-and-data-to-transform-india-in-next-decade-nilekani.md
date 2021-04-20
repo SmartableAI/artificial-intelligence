@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cloud, AI and data to transform India in next decade: Nilekani"
-excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age techno."
-publishedDateTime: 2021-04-20T13:26:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/articleshow/82164689.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/articleshow/82164689.cms"
-ampWebUrl: "https://m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
+excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
+publishedDateTime: 2021-04-20T16:04:00Z
+originalUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+webUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-82164755/82164755.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.sify.com/uploads/riznb6ehieagi.jpg"
+    width: 650
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
         height: 431
         isCached: true
 
-secured: "g5Mek/W7UYVcZlBe2fCHP5nIqZBzj9Ob667EBa+gZziDOCEG5PEQI/rstqk8pqjp2NwParz8CiGE5TWRAPKszj42HCARENeHPkeYA3Ew7u5BjKXl1hU9Y8Dv29vnvilCLOYtf2f+VO6vj13IKNsvhXzuNU3YyyXHuskzz2SKgKlr59hd7NPYKCLrFfw6MbcNt5fPaIq+/8O+XEPG/iNC/LljESqUtWxs4+/mA2hUklModlsVZfbQ5+b+eK6GTLov07vccbxjX+8/1b6Sg1aagL2+yCoivLRC9MFDEvOyVJdgDBtG2eaajB5SSs+ZLNzOYWQz1LaAQsq7FbjTLaUXWwkqG7eLXlZSHMiOw7shfqEV1mGSRTYtLldFfTVrF+758OmpvPKKXIHED0nMXk/CcwXaLFfkkB2qOpxUQO2B0B13jqeeW//LWQXHk9/DRyWxx5wAGbXCkcjQaY68cvpuYg9HOfPQyWYX0lnX3io4Dk+DrrXB6ftKyDjO5xUSQloNWBOGdXkHtJAsA4GTAO+j3A==;bEkUs5hfkB8FO/aUkUMGOw=="
+secured: "x2y/mfw6tKQt+FEooA2d6YeDhm2Y/RbRz2c9s29OLpvPY70JQdtu0Q5mhWvcmNNNElJmf7k+DW1kwQNROH4TWhwkxqWdFuJPyxGOzJ/RyAyMuSPSICPi60BIIzdkZGoUYqpiFiAjnBKrS0NpZBBBcvwOjGpV5BmSdqXhXZ8CY8+EyCgRjnjTHZs2FVdnrWf3VP6t+LqDK+3vne3JzLHN0z2mz+joQJO02GGWV04jQ5uzVfetNh33DZkeDd2DNgkrdKNz1e2aLo2vhdx5IKjIfZAXBvgb7B07owkQRGc1fD9Hj2bZuyKgYhUsvmvSd2zMTeSA0zxQPP+ULKSqARzzP4oec/Fnc5Jv1+D/BGSXuq8=;jlAYGiY5Ur3YLJ1/1xmRow=="
 ---
 

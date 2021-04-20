@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-re
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
+    excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
+    publishedDateTime: 2021-04-20T16:28:00Z
+    webUrl: "https://www.openpr.com/news/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    ampWebUrl: "https://www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/4/U420595093_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
     excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
     publishedDateTime: 2021-04-18T14:39:00Z

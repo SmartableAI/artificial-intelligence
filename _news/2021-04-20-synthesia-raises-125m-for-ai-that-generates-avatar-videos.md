@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-g
 ampWebUrl: "https://venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/synthesia-raises-12-5m-for-ai-that-generates-avatar-videos/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/maxresdefault-3-e1618843541929.jpg?w=1200&strip=all"
@@ -30,6 +31,24 @@ images:
     height: 601
     isCached: true
 
-secured: "vhDG38/v015BH5UzrefxtPd1uVIwbZeURJ5oddvP6dZi43xPqlMiOT1+gqnhONeGoV5o6U4Bff7H0KZx3MN6QuXHEL457CZECXnAstgtW1ek8llTCl8SvhjZDM92HNcSd+b4l8d5sQMR75z5IqTqt3dxfNSux6wAPhwq9IerF76+EXxygQfDFGD8wEFEEkjCl6hzPmMQUD5X6qQJ8vkQtneJEImwV+fhomgjObPHwPmqOM+0YDUwjokQVjOgSm2h7NZHQkvJDEt1ebMIInZQLoKCNKI0Nx+lHUjndN2SI9TS6cr9BC1FDx9nrQnzfFjIKO5KOfT3jpqTDClm6mYFKcMs2ck3aDO3AKo6IFuvLnY=;AtfknHtqveM2a3+x8iwbJg=="
+related:
+  - title: "Synthesia’s AI video generation platform hooks $12.5 million Series A led by FirstMark"
+    excerpt: "As AI improves, the possibilities of what we can do with the technology grow exponentially (for better or worse). Synthesia, an AI video generation platform, is looking to make video content creation as simple and efficient as possible,"
+    publishedDateTime: 2021-04-20T14:07:00Z
+    webUrl: "https://techcrunch.com/2021/04/20/synthesias-ai-video-generation-platform-hooks-12-5-million-series-a-led-by-firstmark/"
+    ampWebUrl: "https://techcrunch.com/2021/04/20/synthesias-ai-video-generation-platform-hooks-12-5-million-series-a-led-by-firstmark/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/synthesias-ai-video-generation-platform-hooks-12-5-million-series-a-led-by-firstmark/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/2.png?w=1024"
+        width: 1024
+        height: 628
+        isCached: true
+
+secured: "AdhEzm8yNh1fLuHZRoXeEbrVhxCtLBlwiwFdTqhLrmpbsD6UNdjP6fibI0te/8FXiAJBhHNVwwkkw+uoKpq4kBfsAWiFTOkxz16fH7BzfDb+r8Q/RUVQD2KPi71EvnQ3yFfy9Lgshct43KHnRr/Tdk6mR/vSk2BfShbLTuGW0vIZWwQ686tf7sqHH33K5A3ZAXJUBcrywBfc17KNfI1jbRE04gho7GnRYpWB5NMcLhj9faNx2/pO0ICsRUXoDTXhVReKNVCeaVm49jIhaBtRyrz3oXNdOdYed9mA3L4wxSE4SlNKMJ21ReKWl/jFh3jEIsBw6wAbowbgOhIOQ/IbkKklpgNXDYXv8HQeuKSVc64=;9MRUumVZqMGi4zzak0uY+g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "My Legal Einstein Partners with the American Bar Association to Enable Attorneys with Advanced AI for Legal Contract Review"
+    excerpt: "My Legal Einstein, the AI-powered Legal Contract Review software provider, today announced it has partnered with the American Bar Association's (ABA) Blueprint program to help establish modern law practices by enabling attorneys with market-leading and advanced AI technology for legal contract review."
+    publishedDateTime: 2021-04-20T16:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/my-legal-einstein-partners-with-the-american-bar-association-to-enable-attorneys-with-advanced-ai-for-legal-contract-review-1030324319"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "lsDi1m9H8tj4DxvNQnLFMC0FPlmhgAvaLgBCjwcYF5v2nMC6LGLpL8jh7blxKtTiK5MbWZNA+HtwwMQmtk0RNk/EDWemvIOTOnJH7qXvoJpy2k5I+FtbJ2aZN2TtR9Z1VkMWytaZiLXEF95rQy751MTwOuoxVCoBQ2m6zUiKe5GgfYENs+WrfHgAZ8i9d/kE4rsn/7r3c8A6UgNHn7HfKFE/o6MKrW+dXW+XscV6L12+zqsTe+5slDrSGb7Wg9daSrV21m9IGdA1i4KjsoVKdWl2oEbaM8F3R6zOJ1zommVvybo0p/vO4QD05FCqYNhX78j3LcS3RUOy0/J++IXG/Lg/azaiBbYsE1kLFkwHgisuuzJG2RpGWpkx6nutdvc9xB+y+GCa9SM3O3Z8mzvFmTL+EXcfC/bmsYxX/z9MrUl3/92efC11obmuv1EoA5rNWM4jtAmfnx/5btZRd3i7zc1qx8SypqNM3/Fr9DC5NIiBCceo1HFfQPtAvDBJSiQDMijlJpIavrfWTzj94tDPVg==;Qzinj2eLN7gz9ETmFh9P5g=="
 ---

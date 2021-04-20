@@ -76,17 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
-    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
-    publishedDateTime: 2021-04-16T00:21:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 83
   - title: "Microsoft Competes With Google, Amazon In Healthcare"
     excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
     publishedDateTime: 2021-04-16T19:02:00Z

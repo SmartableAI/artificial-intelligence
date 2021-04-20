@@ -99,6 +99,17 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Why a U.S. hospital and oil company turned to facial recognition"
+    excerpt: "BP has used facial recognition for at least two years at its Houston campus to help security staff detect people on a watchlist because they trespassed before or issued threats"
+    publishedDateTime: 2021-04-20T17:16:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Why_a_US_hospital_and_oil_company_turned_to_facial_recognition-TR20210420nL1N2LF006X2/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/TR20210420nL1N2LF006X2/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/TR20210420nL1N2LF006X2/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
     excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."
     publishedDateTime: 2021-04-20T08:21:00Z

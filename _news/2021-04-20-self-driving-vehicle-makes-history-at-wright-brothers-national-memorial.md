@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "NCDOT, National Park Service launch self-driving shuttle at Wright Brothers National Memorial"
+    excerpt: "There’s a new ride in town and it’s driverless. The Connected Autonomous Shuttle Supporting Innovation, or CASSI for short, just debuted at the Wright"
+    publishedDateTime: 2021-04-20T16:58:00Z
+    webUrl: "https://www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/"
+    ampWebUrl: "https://www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/amp/"
+    type: article
+    provider:
+      name: WAVY
+      domain: wavy.com
+    quality: 33
+    images:
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2021/04/51118751680_cf791dbd71_o.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "State Transportation, National Park Service Officials Mark a Milestone in Launch of Self-Driving Shuttle"
     excerpt: "N.C. Department of Transportation and the National Park Service today announced the launch of the first self-driving vehicle to be tested at a recreational public lands"
     publishedDateTime: 2021-04-20T15:14:00Z

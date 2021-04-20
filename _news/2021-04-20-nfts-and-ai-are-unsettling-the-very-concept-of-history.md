@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-conc
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine"
-    excerpt: "Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible."
-    publishedDateTime: 2021-04-15T23:07:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 36
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
     publishedDateTime: 2021-04-19T02:52:00Z
@@ -55,6 +41,6 @@ related:
       domain: ieee.org
     quality: 34
 
-secured: "nD5ZKsI50XrFVbOAOoVvcReDgtftP2XfWhvwtqCsUZrdIB12mQT//9iNM1UShFG+4T9/DYYB+FFBp5OU6SYhrkqzToonxdTHK+ZsDT/mfzyFbu+BznFyvz6x/b045A/C02aOGGh8oljZFtAo8qrnnUbKmRYEFuEyXRt06EbsjyRqZmVY40CJxNzYaPd7f2DIQtk7He8LasoPyLCGUbuCaslJb26nvU7NywErobV1DRnVozQAyAJ/9yXzYuTLp2NPe0n8LEe5Pqf6KFggnBLANd/FRSkEqFtGP9wIVp4I5G+o/MAHk9jnTAmQGXJbuIkOMZMXl113auIkQv9YOxgwcpuXaXTyaptMtF272noIMTg=;0DArECpqW6OakbfEI/BQdQ=="
+secured: "93ICPxRxa6Pi/8zxUo+Om6hHXa/w9MtlC3zDOjzlqa9aztY1IikyS1dVuYBg8pMKEfnQYuKD2YGQoQef7Ehn7J7nAjKt6GCYvHEySGkfWo3beBBDfjwgbU0SJMc2GnTtxkbjN5o9BgQHOgpC7R1HPGa6pfmfOKztr5Z6x7snJwEtMTSjpTQ+Q9PxfrrGKYLGWDcAEMrP/xfTZDCcUkRgF4WwtvatmT9TA5uAmeQl2TvupaMII5Mt+coynyPoWPLaNqNAWae+n7B5WiuFyHDi8tl1JnBOOv7xDaX2I904Ng+XQojrbmmCmKsX1q8lBVMbqPl4hCncjxrvjhcI/QBL8I7gGRFjrCSB9haNEgr1rUtiQ81N+44uy8VsR32jcP5szjbiuYFU/CABhnQg9B/i2TfydaeAixVl7u9XY2Lo1d9DK3iUOjNFHmwGkUZXI7A4Y6P5BBGkpbgoa1utyk4kFIhUjG6bClpG8e7LWP9TfhvfPdm6y+AIBhTIhWnqEjayXrg+c66riPHuzde+eSSFKQ==;vWh8csiZ5kdDwbc1tv6YaQ=="
 ---
 

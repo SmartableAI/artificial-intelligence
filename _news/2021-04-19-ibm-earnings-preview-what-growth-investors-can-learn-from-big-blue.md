@@ -26,6 +26,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Book Review: Machine Learning for Kids"
+    excerpt: "I greatly enjoyed reading and reviewing this delightful new book, Machine Learning for Kids: A Project-based Introduction to Artificial Intelligence, by Dale Lane, which was developed to introduce machine learning technology to children. It is well-written and includes everything needed to jump-start a kid’s life in data science. The book is just the thing to motivate a young person to extend their innate curiosity to data centric experimentation."
+    publishedDateTime: 2021-04-20T13:00:00Z
+    webUrl: "https://insidebigdata.com/tag/kids/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
+
 secured: "XcT4JGWRu9Ls5/ZPIBB+fqwFfoLOZfvaxg+hW51ZgsV9TA+dnbWgOMV2kYFSsHxJc8SQB1l8HHhQ4B/WQzEhbywUshyQBKUfwNjhlth4KFLuu0qw1E2DtC8aC8PmHC4OhVsqJx8kI6Bml/dE+kEaZtk/ihV/Vt81k3U9q9FUFhl2qytM2eRNzka7C81Q8C1y9RaLheXPl6nXhCwK8934Ah+JaNrGVZ0/rrDz7t+rjkhgiOypqqVZoQ2dXWluY1DQ8fUzpF6hrP0w1/CMbrPNnC5zyKXwcx+lur/8ekH+E0Yay2/PkHshVx19KaCEG/d831/ytfPNj6MlrEKMom2n8WQvJFCoD0HSIstO36h+9nI=;lvjRMFaAb55z0qyBlhXAzw=="
 ---
 

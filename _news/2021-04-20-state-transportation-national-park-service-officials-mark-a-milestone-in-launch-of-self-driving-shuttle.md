@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NCDOT, National Park Service launch self-driving shuttle at Wright Brothers National Memorial"
+    excerpt: "There’s a new ride in town and it’s driverless. The Connected Autonomous Shuttle Supporting Innovation, or CASSI for short, just debuted at the Wright"
+    publishedDateTime: 2021-04-20T16:58:00Z
+    webUrl: "https://www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/"
+    ampWebUrl: "https://www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/north-carolina/obx/ncdot-national-park-service-launch-self-driving-shuttle-at-wright-brothers-national-memorial/amp/"
+    type: article
+    provider:
+      name: WAVY
+      domain: wavy.com
+    quality: 33
+    images:
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2021/04/51118751680_cf791dbd71_o.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "uCdHIG2o/advjcatDd2cQQiz0M/xm1CMsaGn3O/ZuCV2BvXyYRO37/l8yq6bvoegWKpydc8YZXwLs6Y2R2p7UyfpM75GTw8wDeWL622f+l4+gjYR+wssujr+OJy+o/tksByZQukO9zyZEW7hS23QkZm5Pz639XmXE2uqyaxWQhlT3+Rr/Wd5WkwBoZNcdr/1K/BPe/OlmdvRira1VNLwunqWhzUKCaZZ8kh4/G1VLCLkX2f3/i5NOxZls9LDhCXo7cRturwrHjTCzP1/Miw1p8rV+ASq1gbkCDXCeWs9/V9Guqp4adtkrlXVXV9A0Cpe02fjPFkKtGG21C+rQjiCpxWnDNS/yguJoKNY5TIg270=;+0QDpAlY0y4c8nEdRPW2QQ=="
 ---

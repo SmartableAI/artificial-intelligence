@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T04:01:00Z
+    webUrl: "https://www.freep.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    ampWebUrl: "https://amp.freep.com/amp/7283027002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7283027002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
     excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
     publishedDateTime: 2021-04-20T01:53:00Z

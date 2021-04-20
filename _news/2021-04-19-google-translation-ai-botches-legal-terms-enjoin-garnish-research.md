@@ -7,7 +7,7 @@ originalUrl: "https://www.metro.us/google-translation-ai-botches/"
 webUrl: "https://www.youtube.com/watch?v=eKRpiMBlu40"
 type: article
 quality: 139
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ – research"
+    excerpt: "Translation tools from Alphabet Inc's Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\""
+    publishedDateTime: 2021-04-20T05:14:00Z
+    webUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research"
+    ampWebUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 58
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2019/05/crime-scene-300x200-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Google translation AI botches legal terms"
     excerpt: "Translation tools from Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\" according to research due to be presented at an academic workshop."
     publishedDateTime: 2021-04-20T00:44:00Z

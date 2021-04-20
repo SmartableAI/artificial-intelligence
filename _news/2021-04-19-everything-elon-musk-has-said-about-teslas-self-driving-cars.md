@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T04:01:00Z
+    webUrl: "https://www.freep.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    ampWebUrl: "https://amp.freep.com/amp/7283027002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7283027002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
     excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."

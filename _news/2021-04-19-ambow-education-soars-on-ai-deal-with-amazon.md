@@ -43,20 +43,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "On Artificial Intelligence in Education"
-    excerpt: "Rarely a day goes by that does not bring some news about Artificial Intelligence (AI). While it can seem that this is an entirely new field for exploration as to how it might impact education, the research into those possibilities and limitations has been going on for decades."
-    publishedDateTime: 2021-04-15T23:08:00Z
-    webUrl: "https://www.miamioh.edu/digital-learning/blog/2021/04/on-artificial-intelligence-in-education.html"
-    type: article
-    provider:
-      name: Miami University
-      domain: miamioh.edu
-    quality: 54
-    images:
-      - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "3mKUhvUTsf0MWaQHDQRGerMv8iDK+6kJEVq3PZ0unntS9fIt+yd4P+I5D+AIBfOZKq5p+wlXeMU+yToAf2a3c84xowlfHGtLqvuHjXarkKKuvwazghEQQG/3qOn3eAKlzUh96zwr5FG4VagezBwWA7Ztat8UzHfSbR8AXWOGrNoNgff8ttw50N5RK5enikW1D9DrttiOS8ymCksoTQDBKUDMVvWtb22L2mOC7h+LPajoKXIT9G1R1u4vgwvRtLES8eT+4lqubsKZpic/4G3H6NMJi9S8tJEwI0sXhj1XHRuMiJj866O7Jn0FaT7GcgW+28YFMAC/+wHolQB5o93+7twaKdF5OFwgpenvkGqe0o/xf28xPoAX+LoaJD4zVE5EtCvI2aLX8i+r4vxjkS78CJ3ID79IAJW2yeNV7kOznzf2U5Zhj5QMJbi/CH1vn5CHPpMAZlQlttHHMQHrkOsKYCpZiCjE+NVpQrcp1ElZCSTJXD3Qlv6hy0v2vJ3z2NnRFNc89GYHHRY0a7KTzXlr9g==;mw4mK8rhOXoVax8BKjJsjw=="
 ---

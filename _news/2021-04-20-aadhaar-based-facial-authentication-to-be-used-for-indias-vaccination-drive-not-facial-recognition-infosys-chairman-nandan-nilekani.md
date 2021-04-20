@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "Cloud, AI and data to transform India in next decade: Nilekani"
-    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age techno."
-    publishedDateTime: 2021-04-20T13:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/articleshow/82164689.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
+    publishedDateTime: 2021-04-20T16:04:00Z
+    webUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Sify.com
+      domain: sify.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/msid-82164755/82164755.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.sify.com/uploads/riznb6ehieagi.jpg"
+        width: 650
+        height: 450
         isCached: true
 
 secured: "2JzJGW5Dd0EBEhplTVspwfsdrQcZLH/ZQ5cl7U7Y8qWmznrhoXaxthYyC6MAaq5Ai4769QVxFjgpZyFjwlt8XLYA6SRuuI6QBSjORgW6lq6KsnpYJk0fEe2f7oW1o7R5glTM7xqz4E++zrWlt139drPxik6YV09vvQMdNtJKu7jqWBFEx+ESBqtprmj393IMndyfpmB+R/paA4mZQ7AWBf6dKrGavhgdfTurXrCrcehyFKFjVyOfQooT6aOsuYqMLwuu2T9ohQFT3rF/FRJboKN0DMTaPA4NS19ZY5XvnuVGYIu0Cvsly2i+9E6RhxWvuUGi0NEmMt4nO2qgcghSRkQjrccl3Awlu0hiiqcLaxsdtuZAxUDLBUXL3a3/W6HH8qrWwWhvR091vvTKg2QKzqBJB5uVjnSP69GoUmCnxWwBtrSx5odk8h4kNZkMPZhPz0wjiw045oHGHJv+oAURand4Ndylx3JIju8ZWDSbHF8XXrI0sFlOU5OkZQEWbk6VvI/m7a9dywvOdBu/3oX3Lg==;c9XYG8jprJh95phCXyRozg=="

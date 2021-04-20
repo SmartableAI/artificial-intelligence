@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
-    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
-    publishedDateTime: 2021-04-16T00:21:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 83
   - title: "Microsoft’s latest acquisition shows speech recognition is big business"
     excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
     publishedDateTime: 2021-04-16T03:20:00Z

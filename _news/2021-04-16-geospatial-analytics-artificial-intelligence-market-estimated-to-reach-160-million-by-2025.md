@@ -85,6 +85,20 @@ related:
         width: 611
         height: 343
         isCached: true
+  - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
+    excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
+    publishedDateTime: 2021-04-20T16:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends-global-industry-scenario-outlook-and-growth-strategies-forecast-2020-2026-2021-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JXPz0lQufEBMFWJhaChFBSDyBu8YbokOiHiP92X1vXkf0hTyNH1NpkOtzyShamkbC7nwTr+qZArQimqiS7fsNRAP+beEmfQ4N1JNCqNPzdGC1F6zImpQ7BjWSxTYuGvbkZqJC00tjQiWsFQrY8Wp7JgXALrnhOfrRML8mt1tNxBJbhzFD+ffEo9NtKnnRDLr4QkZ7bH+hgiHPOvZHWjnvohP2Xff3azsMUHh9Ilzlq/ka+9TwoAk01MPVkGZ/cbAmPE4ssPD5V72Tn7ugpufIukHkrNuBzjwIi9zFdbget9/GfaUisHhr1M74rzgIH2fBsu+e5awDbKO+4IusR+klXoxQZ3GXDzdqVUTFwJ2K5ivSU2N8C56FC1mG84sigUOfj7ZVXi53tbSeuiNx0N+AcZsCQpYUn8CZcGojO7hvQnToCZ83j1BoHaHCAdxb6Rdc8hhkiryucUWmb6HqXGlp/QHiq7NqXkMXQCUVOEYY9qw2l1ks9910ooilaFSTCuNOfk+LSMEU41dnH7XOpg3hg==;uorACEkusjF/dPhL7Kf6lQ=="
 ---

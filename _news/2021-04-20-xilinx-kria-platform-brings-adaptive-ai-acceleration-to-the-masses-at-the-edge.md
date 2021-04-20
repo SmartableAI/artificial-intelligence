@@ -48,6 +48,29 @@ related:
         width: 1200
         height: 781
         isCached: true
+  - title: "How Festo Applies Artificial Intelligence for Predictive Applications"
+    excerpt: "As part of Festo’s exhibit at the 2021 virtual Hannover Messe event, the company featured its Festo AX software, developed by Festo and Resolto (a Festo subsidiary specializing in artificial intelligence)."
+    publishedDateTime: 2021-04-20T16:21:00Z
+    webUrl: "https://www.automationworld.com/analytics/article/21390038/festo-applies-artificial-intelligence-for-predictive-applications"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 37
+    images:
+      - url: "https://img.automationworld.com/files/base/pmmi/all/image/2021/04/Titelbild32Schwei223zange_0.607ef5b69119f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 773
+        isCached: true
+  - title: "Xilinx Launches Kria System-on-Modules for Edge AI"
+    excerpt: "Xilinx, Inc. (NASDAQ: XLNX) today introduced the Kria portfolio of adaptive system-on-modules (SOMs), production-ready small form factor  embedded boards that enable deployment in edge-based applications."
+    publishedDateTime: 2021-04-20T15:45:00Z
+    webUrl: "https://insidehpc.com/2021/04/xilinx-launches-kria-system-on-modules-for-edge-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "qfCZ28pPGr/WOa45x/Vp5u3PRtwgoLi32xDoWO8LsZf/J5Toi1oHUDnu4frzDcYCjU4xlV0X6LCnB8xqsBCvzI6FJWbEsyk4Ypf9FFgm72rxDyw0sdUtzpDFcW1k9XGaiiy18pC0nVZ0G8LPDKjtt0RCNttZ9NdBXm8tgvaN0Ljs8P8WkwSyiRtwTJz4rf5Xd/oi+fjSAeoOOd/6MEjwx2FlOIuxgVtwTtrbDukxkSWuOmczdlS0H4qOZ3z8eFfr7vOZTEWvomoMh6DG8Z24lhfn6ZCIozo37af82UPOtN//Gw60MH6ZWkJTgMnN13HCsSVMbzXG9J4gCEFEpLbwwjo31WOkQq/xIBTdhJyJbsU7MUYNHUBiowLCqhkpYxr1e/lF9m9W4QFAudK13etEAlqnCMDTp39ofRC1Kp2KqrABkqwHjcUrJeY0lfoqSsivXSUt7J3+hdy1VCYRhnkj/7dY82xZBP2IgxWOu9DbSkrbRqCxEJZzom6nBVgdzm79p/kGzgPjHsnTmo7rEv10YA==;krE0cmKlhOfQJcMvjbOJ6g=="
 ---

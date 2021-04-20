@@ -7,7 +7,7 @@ originalUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-
 webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Software based Facial Recognition for Secure Digital Payments to be Used by 1.4B Consumers Worldwide by 2025: Report"
-    excerpt: "A recent study released by Juniper Research, titled Mobile Payment Authentication: Biometrics, Regulation & Market Forecasts 2021-2025, reveals that the number of users using software-powered facial recognition to conduct secure digital payments will surpass 1."
-    publishedDateTime: 2021-04-16T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174198-software-based-facial-recognition-for-secure-digital-payments-to-be-used-by-1-4b-consumers-worldwide-by-2025-report/amp/"
+  - title: "EU lawmakers propose strict curbs on use of facial recognition"
+    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
+    publishedDateTime: 2021-04-20T16:59:00Z
+    webUrl: "https://www.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
+    ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-300x298.jpeg"
-        width: 300
-        height: 298
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "dkt6QbuGvmyOEIGAMGoEGoX626vneuVlRmUa+nfZ19akZCE9pm7HHAUVJ1HHuBiZnl1U38TthOaWZhAXXJ2Q2VXIVynSyMt7ON7kKiOuFOPdMYvgMBGr7mdTk8KV6cgaZFy3fFMUdxZh20PWoJ6kVY+yxjIPsWUcuBqoeQ7eXYM7rpBKmX+oV9Z0sMQdJhZOvL2FRY18RguUIy1FdDb/CQvwfaSx4OxTgtg0C3kpHQp7KIW9sbxrWmVIvB3xQ9q5/zbzvKEuI149hIiNlJZhxDYGWDgUg/0YDiCWXtEfhywd4LIwbkSeooVZWu0jHC+cdLuQpKwod0mtZe2LcTL6SIJ1OQkBFWeTccyP0cdBuv5D1/aVVrcxTSpclYP5HgbWstTSVM0ToasEdZCQ6ygfa63MOmZWR+EVPVctFlX504yeyzzVKoY4Y6udaCnWH7pQdtvIENPUrPpp33oEKvPeuZeqDrw1NEAStZZt30/atgNd/mvBZN+adKYEyOuYqxbUt3ZMizDID6CvwdCHZ/ZOLw==;CerBVSVenweaTp4sJ1uT/g=="
