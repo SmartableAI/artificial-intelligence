@@ -59,7 +59,35 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Self-driving vehicle tested at Wright Brothers Memorial"
+    excerpt: "The N.C. Department of Transportation (NCDOT) and the National Park Service (NPS) today announced the launch of the first self-driving vehicle to be tested at a"
+    publishedDateTime: 2021-04-20T16:49:00Z
+    webUrl: "https://www.outerbanksvoice.com/2021/04/20/self-driving-vehicle-tested-at-wright-brothers-memorial/"
+    type: article
+    provider:
+      name: The Outer Banks Voice
+      domain: outerbanksvoice.com
+    quality: 24
+    images:
+      - url: "https://www.outerbanksvoice.com/wp-content/uploads/2021/04/CASSI-autonomous-vehicle-ncdot.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "National Park Service and NCDOT Launch Self-Driving Shuttle"
+    excerpt: "The N.C. Department of Transportation and the National Park Service today announced the launch of the first self-driving vehicle to be tested at a recreational public lands site in the"
+    publishedDateTime: 2021-04-20T17:22:00Z
+    webUrl: "https://www.thepilot.com/news/national-park-service-and-ncdot-launch-self-driving-shuttle/article_ff87c766-a1fc-11eb-80d1-c3668ea4c60f.html"
+    type: article
+    provider:
+      name: The Pilot Newspaper
+      domain: thepilot.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/assets/v3/editorial/a/4a/a4a9c956-a1fd-11eb-9700-534d6fde92ea/607f0f685820a.image.png?resize=778%2C524"
+        width: 778
+        height: 524
+        isCached: true
 
-secured: "uCdHIG2o/advjcatDd2cQQiz0M/xm1CMsaGn3O/ZuCV2BvXyYRO37/l8yq6bvoegWKpydc8YZXwLs6Y2R2p7UyfpM75GTw8wDeWL622f+l4+gjYR+wssujr+OJy+o/tksByZQukO9zyZEW7hS23QkZm5Pz639XmXE2uqyaxWQhlT3+Rr/Wd5WkwBoZNcdr/1K/BPe/OlmdvRira1VNLwunqWhzUKCaZZ8kh4/G1VLCLkX2f3/i5NOxZls9LDhCXo7cRturwrHjTCzP1/Miw1p8rV+ASq1gbkCDXCeWs9/V9Guqp4adtkrlXVXV9A0Cpe02fjPFkKtGG21C+rQjiCpxWnDNS/yguJoKNY5TIg270=;+0QDpAlY0y4c8nEdRPW2QQ=="
+secured: "72aFK55rPNjUOF+VfkbmzWCIFHm2XSyDTpE46hYiwtvb/mbJO0KsA9OYTNDI/mMnJVJXrZQ5MM/Jy0qyZKW4zBebUIsH6Fvr/66k6PxLRMF0NMdNVu++08+3hn8BTekfpMvgmLWMy16yw0nYbsRiJVqgPhee4oL4QIjFbhCzFrhWgOASAzwgr7NoOO2UDw7482i53Nkw7yA7JMSSpfO85rVN+0nySbaDaAWC0BDo/VVP+nr7OlEuZjNbjId6Rg2jcs+Nini149d44v011JLfmeunn0fh/e54A3dm6J0O1kAD09gYY9kJvgS6Kp0HSoOznPgQE+UK0NBzHHLNK+oUKNbW4NrBg11Un+gRNqOQf/bxBxLgsk7xwPQoR0C8VprINissnYkiC9E1zTOQIg4bQmQ0OH85Qh1kp+MEm3cTWbboFYXY5a4XH3Kgxl+IqO3UlPu+Hp9mzZ4th8Yh/SqVNRLRZac1EEuK/3dA3ORAmFok1Vw7XYbeMLmfi8ypPia26iJ0m+nuJCJ11Zfe5ENYsg==;I6HSNR/qa+DLWWrSyRTyJg=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-cloud-ai-and-data-to-transform-india-in-next-decade-nilekani.md",
+      "title": "Cloud, AI and data to transform India in next decade: Nilekani",
+      "excerpt": "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html",
+      "originalUrl": "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/riznb6ehieagi.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html",
+      "publishedDateTime": "2021-04-20T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-synthesia-raises-125m-for-ai-that-generates-avatar-videos.md",
       "title": "Synthesia raises $12.5M for AI that generates avatar videos",
       "excerpt": "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million.",
@@ -367,7 +410,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1405,50 +1448,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-corporate-forces-that-helped-shape-ai.md",
-      "title": "The corporate forces that helped shape AI",
-      "excerpt": "The Mavericks Who Brought AI to Google, Facebook, and the World,” New York Times tech correspondent Cade Metz writes about the history of AI and the corporate forces that have shaped it since the mid-2000s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2017/09/GettyImages-813130280.jpg?fit=740%2C411",
-          "width": 740,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "publishedDateTime": "2021-03-31T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

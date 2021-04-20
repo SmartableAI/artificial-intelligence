@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "EU lawmakers propose strict curbs on use of facial recognition"
+    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
+    publishedDateTime: 2021-04-20T18:28:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/07/GettyImages-607358443-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
     excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
     publishedDateTime: 2021-04-16T15:45:00Z

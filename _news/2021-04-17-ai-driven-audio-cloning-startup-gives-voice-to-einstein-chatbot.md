@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gi
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Digital Albert Einstein artificial intelligence is here to help with your science homework"
+    excerpt: "Have you been having a hard time with the ins and outs of Einstein's Special Theory of Relativity lately? Perhaps you just need to go straight to the source to get all your questions answered from the genius himself — or at least a very passable digital likeness of Albert Einstein,"
+    publishedDateTime: 2021-04-20T18:27:00Z
+    webUrl: "https://www.syfy.com/syfywire/digital-albert-einstein-artificial-intelligence"
+    ampWebUrl: "https://www.syfy.com/syfywire/digital-albert-einstein-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/digital-albert-einstein-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Syfy
+      domain: syfy.com
+    quality: 47
+    images:
+      - url: "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/04/gettyimages-517323568_0.jpg?offset-x=0&offset-y=0"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "My Legal Einstein Partners with the American Bar Association to Enable Attorneys with Advanced AI for Legal Contract Review"
     excerpt: "My Legal Einstein, the AI-powered Legal Contract Review software provider, today announced it has partnered with the American Bar Association's (ABA) Blueprint program to help establish modern law practices by enabling attorneys with market-leading and advanced AI technology for legal contract review."
     publishedDateTime: 2021-04-20T16:04:00Z

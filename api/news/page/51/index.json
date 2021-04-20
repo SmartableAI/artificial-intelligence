@@ -2,6 +2,135 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-03-11-app-fintech-gratuite-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
+      "title": "App FinTech gratuite: il 50% non sa che uso viene fatto dei dati personali",
+      "excerpt": "Una ricerca effettuata da ESET vuole mostrare come i consumatori che usano App FinTech Gratuite proteggono le proprie informazioni sensibili",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitmat.it/blog/news/110452/app-fintech-gratuite-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "originalUrl": "https://www.bitmat.it/blog/news/110452/app-fintech-gratuite-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitmat.it/tv/wp-content/blogs.dir/9/files/2021/03/SNOM-EDIT.00_07_54_19.Immagine005-356x220.jpg",
+          "width": 356,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitMAT",
+        "domain": "bitmat.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-microsoft-edge-ai-kit-runs-linux-on-imx8m-and-adds-myriad-x-and-8mp-cam.md",
+      "title": "Microsoft edge AI kit runs Linux on i.MX8M and adds Myriad X and 8MP cam",
+      "excerpt": "Microsoft’s $349 “Azure Percept DK” edge AI kit runs Linux on an i.MX8M and works with Azure IoT services. The kit has a “Vision” module with a 0.7 TOPS Myriad X and an 8MP camera plus an an optional “Audio” module with a 4-mic array.",
+      "sourceUrl": null,
+      "webUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "originalUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T21:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "run Linux-based Opera TV",
+        "domain": "linuxgizmos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people.md",
+      "title": "Fujitsu develops facial detection AI to quantify concentration levels of people",
+      "excerpt": "Fujitsu has developed a new AI model that it claims can capture and quantify how much a person is concentrating when performing tasks. Conventionally, AI models that are designed to quantify concentration have been created by training algorithms to recognise the expressions and behaviours of people performing specific tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/11/b337ae1c-ce88-445d-bf1d-968f76b35dfd/fujtisu.jpg",
+          "width": 444,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "publishedDateTime": "2021-03-10T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102.md",
       "title": "2025: Healthcare Natural Language Processing (NLP) Market Size report will reach to 2129.4 Million USD at CAGR of 10.2%",
       "excerpt": "Mar 11, 2021 (Market Insight Reports) -- Selbyville, Delaware. The Healthcare Natural Language Processing (NLP) market share stands tall together of the foremost proactive industry verticals, as claimed by a auxiliary report. This research study forecasts ...",
@@ -1021,139 +1150,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-facial-recognition-company-sued-by-california-activists.md",
-      "title": "Facial recognition company sued by California activists",
-      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
-      "originalUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
-      "publishedDateTime": "2021-03-10T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-raspberry-pi-machine-learning-with-tensorflow-lite.md",
-      "title": "Raspberry Pi machine learning with TensorFlow Lite",
-      "excerpt": "Check out the video below for an introduction into the proof of concept tutorial. “TensorFlow Lite allows you to take the same ML models used with TensorFlow (with some tweaks) and deploy them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "originalUrl": "https://www.geeky-gadgets.com/raspberry-pi-machine-learning-with-tensorflow-lite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/Raspberry-Pi-TensorFlow.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
-      "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
-      "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
-      "originalUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/932/470/GettyImages-1229973204.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
-      "publishedDateTime": "2021-03-10T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

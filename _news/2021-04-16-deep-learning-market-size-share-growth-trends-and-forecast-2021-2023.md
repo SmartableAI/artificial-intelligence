@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-siz
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
 type: article
 quality: 69
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -205,20 +205,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
-  - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
-    excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
-    publishedDateTime: 2021-04-16T01:26:00Z
-    webUrl: "https://menafn.com/1101921297/Artificial-Intelligence-Market-Analysis-Report-Global-Industry-Outlook-Size-Growth-Prospects-and-Overview-Forecasts-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231069"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "MdnOHoHgVfVcILafaIBqvp9aTa60dGGVesVVpVQev87vQHJfSxzy1qUpXBXozkSZLHp19dli38Iq6wSIWWKSn3tP/yFReJqyH62PtTVTYqg/j5VdmGWjHb/rfWY8uFWnueWMbv24OSLU+IwXWdYchvdAbIsrRCEmKMNnAMPDJ4eJgnIb2glWwFQPtF0Dl8Hr8wsNcZ+B33AToHT0qR6v0Km3I6N0QQmQ/BT2qSCR5iqF78y2cSL7tWiH6GfityTV2DSM5cp/0brLNr4hOEOOCAEEihFBzpxkNc9JMyu8Jh2mDBOVSMw6xa8kbacUSqljdZaWKmUV5c3fWW6jhwAOKryExMu23PmrKrZFdD4kMhw=;PB2K4brXJ7yayR/sQSfkQw=="
 ---

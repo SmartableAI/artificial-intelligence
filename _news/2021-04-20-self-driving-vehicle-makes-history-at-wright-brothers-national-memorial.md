@@ -59,6 +59,34 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Self-driving vehicle tested at Wright Brothers Memorial"
+    excerpt: "The N.C. Department of Transportation (NCDOT) and the National Park Service (NPS) today announced the launch of the first self-driving vehicle to be tested at a"
+    publishedDateTime: 2021-04-20T16:49:00Z
+    webUrl: "https://www.outerbanksvoice.com/2021/04/20/self-driving-vehicle-tested-at-wright-brothers-memorial/"
+    type: article
+    provider:
+      name: The Outer Banks Voice
+      domain: outerbanksvoice.com
+    quality: 24
+    images:
+      - url: "https://www.outerbanksvoice.com/wp-content/uploads/2021/04/CASSI-autonomous-vehicle-ncdot.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "National Park Service and NCDOT Launch Self-Driving Shuttle"
+    excerpt: "The N.C. Department of Transportation and the National Park Service today announced the launch of the first self-driving vehicle to be tested at a recreational public lands site in the"
+    publishedDateTime: 2021-04-20T17:22:00Z
+    webUrl: "https://www.thepilot.com/news/national-park-service-and-ncdot-launch-self-driving-shuttle/article_ff87c766-a1fc-11eb-80d1-c3668ea4c60f.html"
+    type: article
+    provider:
+      name: The Pilot Newspaper
+      domain: thepilot.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/assets/v3/editorial/a/4a/a4a9c956-a1fd-11eb-9700-534d6fde92ea/607f0f685820a.image.png?resize=778%2C524"
+        width: 778
+        height: 524
+        isCached: true
 
 secured: "Gp+nAv3g77Zu+2WXkR4s8doYd9tmqPuOBEw43YZRAR6ZS9ZUT8vXibBrGpgBgy7KlPlLe8HjJqFyEO869o33PMxDS6mPlplZY3BSrQ0/EX24Ssi9AqiEDAlgBXhW0o8Hatqwl+fY5pqfnb1OkOF2+5aCpDz993h5aIVivJ8b6/2p7gsPW6kLJ23HZUZhF96jgS2zCBWwpr7GI3Yn161Jx8A7Qn5LEFt04t/DbzTNGcH5JQWiHs3pgGVMOIArm2CoBTOe4WOsfopnG+kJOTZvoY7HJ7Nl8L/WeEMN63J7TUyv83YwXb/wG8lRjqWJ/1YGkbZIAPO5nzJ+LkzLYzyUtw8N21Yqswc3HIMS3723Co+e1c+eCELhlhAfOszUu9Sb1VL9tNIF4i6urrsYuPWeXytwgMNT3oB7rY1EV2Cg4WLjhxXSqxkQT3cP3edgolSaoA0V4he/xhm9ZGUMBTz0eqYNl46Az7OgRnCjI6o6NEk60hnQKVVRCbtifHshG7JT3kFOInllGeYh7wuMSQuAHw==;c1LEb40Hnp21QvIDkGu55w=="
 ---

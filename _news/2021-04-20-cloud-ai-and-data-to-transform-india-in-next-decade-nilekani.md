@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Sify.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
+    publishedDateTime: 2021-04-20T18:49:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Aadhaar-based facial authentication to be used for India's vaccination drive, not facial recognition: Infosys Chairman Nandan Nilekani"
     excerpt: "What will be used is facial authentication where they compare your photograph with your Aadhaar number. It is no different than fingerprint authentication, iris or OTP authentication. Now we have to aim for 5-10 million vaccines a day and hence the transaction time is very important."
     publishedDateTime: 2021-04-20T08:10:00Z

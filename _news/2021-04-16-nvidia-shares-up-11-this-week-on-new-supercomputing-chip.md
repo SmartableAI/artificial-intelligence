@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors"
+    excerpt: "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores."
+    publishedDateTime: 2021-04-20T18:53:00Z
+    webUrl: "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/"
+    ampWebUrl: "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
 
 secured: "NhoKMr4KawSqlZdiiIfIPLrsy9ysQX98uB/rkZ8d1lX851TfTmi7Jd2OwG9ZB5GQSQZ+DiXZsmOmFOEvHfK0wbrXnZFN8X5cf79l0zfw4LzgVuNvAJEy7aP9PZ8r87COVUoAhqhN6VcOC+e6Arc56rPLd7RPKIAeIb0KGHQygsPlRlYzKS2rZTjrGs22CWSIUWQO1s+IGl2MXUsv3BzoTCns9FPP37KHWKFqIUUmX+cNXMM+7oEU26/BJhrI0B1jvscY89x/U+EjyaQxo1wz20l+faAAt1DJhEy5IAurqT6LnGMqmX0E49vKJoPdzB98OGVtwMVt52WdYy3D+/mkfY0aKgjuqp50qkW5KfCwEXo3l2x/crtUAAMGGPMT4RJJFzWMeaaykN5izaNZUjF5qf+hvRYP0TRyA5Y/LxX9NOfO93w8xUbMjCXCM4fTRqn1j7bj1gaZrlUe3Ab/zgVMwypAuioF5JplTKsZQJHktMnxbJDKEhJnYmiY5oqBDsEf3Y+vwUvjN4VZ+vzqx2GXxw==;4BPuF5P9iWkLggLhjZ1k8Q=="
 ---

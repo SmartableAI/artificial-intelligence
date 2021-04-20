@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 781
         isCached: true
+  - title: "Xilinx Enters Module Market For Vision AI"
+    excerpt: "Vision is one of the hottest area for AI development because vision can or will be used for a wide variety of consumer and industrial applications. Everything from security systems and retail monitoring solutions to manufacturing quality control and autonomous machines require vision AI."
+    publishedDateTime: 2021-04-20T19:43:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2021/04/20/xilinx-enters-module-market-for-vision-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/04/20/xilinx-enters-module-market-for-vision-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/04/20/xilinx-enters-module-market-for-vision-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f2a73ea1583536bb6b57d%2F0x0.jpg"
+        width: 653
+        height: 571
+        isCached: true
   - title: "Xilinx Kria Platform Brings Adaptive AI Acceleration To The Masses At The Edge"
     excerpt: "If the software tools, libraries and app support is as robust as it seems pre-launch, it could become a Johnny Appleseed moment for the company, allowing the FGPA to truly go mainstream."
     publishedDateTime: 2021-04-20T13:00:00Z

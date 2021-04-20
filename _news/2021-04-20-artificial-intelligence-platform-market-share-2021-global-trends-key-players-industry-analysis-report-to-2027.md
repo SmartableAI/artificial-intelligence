@@ -199,20 +199,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
-    excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
-    publishedDateTime: 2021-04-16T01:26:00Z
-    webUrl: "https://menafn.com/1101921297/Artificial-Intelligence-Market-Analysis-Report-Global-Industry-Outlook-Size-Growth-Prospects-and-Overview-Forecasts-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 11
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?231069"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "EhegXam5HU3NAEfRH3dX0eXIj19wx5oWCBBQMe8lyPYznsfoGD40TiiTCH3CXqBXA4gzUYqCqmodff1ok/G4hd9iCTXtIVCm5OSCbkP7u7/acWi5NabDqn96Gf1LrgJyz6wuGaNH96RzRbj5hhj+oGTZmJtSuTxbo/iWaCfWHZyhh8uM4WPnd2FZJ05mHdtGP2CoHauh7iBAlQ3TJ0CriecReMYUHC4GuPjQCVDYmkOY+DcRRy5pHbYXAcEZB3ajhNV6bQ9K/d2iU0aATdedJFXb1A5q9HJ8ptF+MyaruWvGg0tIIb7wvvMnAVaHGjuENWM0SeDvsOZi57YKaRH3RLb9gS5OQTqzrYMfZJC5PLo=;xf06M/1XsqLEsYZY253PkQ=="
 ---

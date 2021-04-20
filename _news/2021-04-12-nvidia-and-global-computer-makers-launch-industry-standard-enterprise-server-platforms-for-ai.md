@@ -1,20 +1,26 @@
 ---
 category: news
 title: "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI"
-excerpt: "Atos, Dell Technologies, GIGABYTE, H3C, Inspur, Lenovo, QCT and Supermicro are the first to offer NVIDIA-Certified mainstream servers supporting the NVIDIA EGX™ platform, enabling enterprises for the first time to run AI workloads on the same infrastructure used for traditional business applications."
-publishedDateTime: 2021-04-12T16:29:00Z
-originalUrl: "https://www.nasdaq.com/press-release/nvidia-and-global-computer-makers-launch-industry-standard-enterprise-server"
-webUrl: "https://www.nasdaq.com/press-release/nvidia-and-global-computer-makers-launch-industry-standard-enterprise-server"
+excerpt: "NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure. These include high-volume enterprise servers from top manufacturers,"
+publishedDateTime: 2021-04-12T16:32:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "8CMSSK9vtYL8hFqJPthmqZiZN+oYWNDOzQ7SXClSlbpTtQ8DXtzwE9RQdfRQELPfW+BjQdgnfh0JS/7BSzsa9jfObvwAMpDfzVZzZHwaqTooQqoIdWqiKyvyn6N9/VGJTh405TBps+vOgdLQzF3mgbw4MNSOHRfs0Bw+SlFiqeUuXDvf2La2hnYo1gWLTsNr/K0hLcOidi2y1urbM9mKXKhqxQFTxn8vG1054vQcqTTqtED7S3U01UVuwi0tKuf9LkIZj3jbmUe17Jnubgw8y/1hNueQ46pVRwkPhaYRbqUvIpShitfzHzQGicpDXKdg9dNm4FxCp3YmXDMbWQpu3pL68aSSSmJX3yFByGFywsQ=;2Lz/TerOKrI+ufnWOuwMXg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "3OM6pFkYjhMhy7lZS5rjx+eJNdVv1BEn43Vq9ZUwDGikeO/NKwbx/MBUuUYj2GRjhe1nhdyFedjsXndiTogDZoZFH2evOoUe7uukQU5vpEF2dh7hnOufzXYuAA5vlPZHjQxvfg5VeiKf99zzpkVvPhvnPzJRsUXOWG2qnEFJU/+rsuEP42x6Zacj5xEudjceRnvph+mha95x2ooEQrJtjWFHrCdZSObxMhscbYcgWHTUbhj+Je+SYCxRBJFTgBXcBGV4Lv26YKzu38ywglxId4NTdHrLrdSP9yGsvHS7npYQDUb9kkFu9Oe0+RM5ObVOmdQsCcUiGC8+PBzmVB54b+n4AUtQMenvtmpSpYzSunY=;ZxzLymNkN6VsgajTHnXugw=="
 ---
 

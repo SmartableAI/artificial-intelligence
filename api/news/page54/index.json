@@ -2,6 +2,143 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-03-10-using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup.md",
+      "title": "Using The Cloud To Bootstrap Your Autonomous Vehicles Startup",
+      "excerpt": "Cloud computing is a crucial ally when trying to get a startup underway that is focused on Autonomous Vehicles, here's the reasons why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6046bb448ea9344158a8e912%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1345%26cropY1%3D14%26cropY2%3D771",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
+      "publishedDateTime": "2021-03-09T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc.md",
+      "title": "Synopsys ARC EV Processor Enables Kyocera Document Solutions to Launch AI-enabled Multifunctional Printer SoC",
+      "excerpt": "The toolkit includes the MetaWare NN Compiler that analyzes neural networks trained using popular frameworks like Tensorflow or Pytorch and automatically generates the executable for the programmable CNN engine. “As new artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eejournal.com/industry_news/synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc/",
+      "originalUrl": "https://www.eejournal.com/industry_news/synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-app-di-fintech-luso-dei-dati-personali-per-molti-e-un-mistero.md",
+      "title": "App di Fintech, l'uso dei dati personali per molti è un mistero",
+      "excerpt": "Che fine fanno i dati personali transitanti dalle applicazioni e piattaforme Fintech per i pagamenti digitali? Un fruitore su due di questi servizi non sa rispondere, ma ciononostante continua a usarl",
+      "sourceUrl": null,
+      "webUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
+      "originalUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ictbusiness.it/files/2021/03/immagini_contenuti/45353/icona_t.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IctBusiness",
+        "domain": "ictbusiness.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
       "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
       "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
@@ -1012,154 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-zero-to-blockchain-il-corso-di-formazione-online-sulla-blockchain-promosso-da-acta-fintech.md",
-      "title": "Zero to Blockchain: il corso di formazione online sulla blockchain promosso da Acta Fintech",
-      "excerpt": "“ Zero to Blockchain ” è il corso di formazione online on-demand che mira a spiegare le basi della tecnologia blockchain e degli asset digitali. Lanciato diversi mesi fa da Acta Fintech, il corso di f",
-      "sourceUrl": null,
-      "webUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech",
-      "originalUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NWY4MDBjMjViNzE4YjFjYTdiNDk5MWEyNjk2YzhhNS5wbmc=.png",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech/amp",
-      "cdnAmpWebUrl": "https://it-cointelegraph-com.cdn.ampproject.org/c/s/it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech/amp",
-      "publishedDateTime": "2021-03-09T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cointelegraph Italia",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-theres-no-real-ai-revolution-without-ethics.md",
-      "title": "There's no real AI revolution without ethics",
-      "excerpt": "Tonya Hall interviews Matthew Bailey, author and CEO at AIEthics.World, about what governments and regulators need to do for AI to really benefit humankind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-ethics/",
-      "originalUrl": "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/09/74a047d6-d94e-40f3-90b0-b0e8d8a00317/thumbnail/770x578/81359fad8cc8e9e806c84eab2c0c0e88/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate.md",
-      "title": "GPU and Machine Learning Identify Spots on DNA That Are Likely to Mutate",
-      "excerpt": "Now, researchers at Harvard University’s Department of Stem Cell and Regenerative Biology working with GPU manufacturer NVIDIA have developed a method of quickly and accurately identifying the wadded up DNA buried in our cells,",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "originalUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60479eb693b426009ca958e9/lede/1615306658256-gettyimages-90739363.jpeg?crop=1xw:0.7072120559741658xh;center,center",
-          "width": 3504,
-          "height": 1971,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
-      "publishedDateTime": "2021-03-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
