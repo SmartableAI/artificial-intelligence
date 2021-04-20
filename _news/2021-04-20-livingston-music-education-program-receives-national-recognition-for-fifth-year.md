@@ -7,7 +7,7 @@ originalUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-enterta
 webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 497
     isCached: true
-
-related:
-  - title: "Mahopac’s Music Education Program Receives National Recognition"
-    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
-    publishedDateTime: 2021-04-19T23:17:00Z
-    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
-    type: article
-    provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 41
-    images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "Cb26BIQAirqaWFYJD+i4wS141QCZaVm4fg6bKto7W8HVtGD4W2A4TCwvSwrMrAjbQPWgwFgALdS3VnoSWKwCS9LWHs55fTkoJrtXPACLE9TzqBkgJbWLFfOufVuKbElcuOTkngEZt/kXeNTanx7VVpokI4YirEVIXobhib3YBh1cpurYByK7EcVYMrYq+ZzDo0fesgyQmxOP30wmiFzY//RAtwtT2SKXCHwuCNLDqg9E14lcgKYk8PvPXfNKHN3GzZSeZ8ZXw/JF5YQVQLjsDrX8EFHv7bpysMb6UXXzPvSqNrxuVIkhOLtCuvlVJWHwz+P8MOV9PG4V+be5OLzCaGFfSpDBHEAQ8et3UZuXblE=;KWv4UdP6qWHG1lf/orrYVg=="
 ---

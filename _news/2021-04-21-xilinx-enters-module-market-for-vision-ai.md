@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Denali 3.0 Soft ISP & HDR Sensor Module for Xilinx Kria SOM Platform and Vision AI Starter Kit"
+    excerpt: "Combining the Denali ISP with the new plug-and-play Xilinx starter kit affords developers access to real-time, high-quality HDR video to fuel their artificial intelligence and computer vision advancem"
+    publishedDateTime: 2021-04-20T20:28:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/product/21219369/pinnacle-imaging-systems-denali-30-soft-isp-hdr-sensor-module-for-xilinx-kria-som-platform-and-vision-ai-starter-kit"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 27
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/Denali_3_board_in_hand.607f33fb3d4b7.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Xilinx Launches Kria System-on-Modules for Edge AI"
     excerpt: "Xilinx, Inc. (NASDAQ: XLNX) today introduced the Kria portfolio of adaptive system-on-modules (SOMs), production-ready small form factor  embedded boards that enable deployment in edge-based applications."
     publishedDateTime: 2021-04-20T15:45:00Z
@@ -88,6 +102,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "aGJo9F8mjWQfQ8DBa0o5bR0YIb7jwNgwbm84zYo7uBmr46u073sjyabCTXU6z50WQ0AL0GwPVDmefOXEYbUK7yCep54EG48xoWX6JYtyE/zHfkj2aRF51hxvb06UhN8V2R1MEer+I9vOGZT4GJJpNL5sbR/JffabU4rUADrJeZ5LmiM2kXjYHyB1feW522JAeVP5P0g7Sdliam8BUuOdTv87WXYMBossbUJT6FIwX5lbRu3/fPfsH1+4GctjqhlnITDWOYw3RYiIwqgwJMKryE1gn+HUl5uR9c5TKjYGUFhSf0IsdATXKt+bLJ4SAk+dS1UQ1DurT0Dq0LJOAsA3gQ3RY7lsgBNcmNoRvBa9i80=;SzxzMn+CxR1XCiID2RXmpw=="
+secured: "fa+8kS3i+dlkKcUX5TTHKR7ClX73mGPJZK5BLOm/yzOSEE9BwNOvyaCWJyEYfX2o6SRe6fMi4ntvx3TfGcEv2AdzWutlDS4+Bx9rCYR6fWlrTYg2UnhU3wZM9ZXQXLMXnQxfjrvMGhqe2lACJbty9Oc/kRtB+4HqJKFXZwnrkHUzMkKu9GKkAaCXwYIISa62MaFdHGfdkU4sWxLPOA2KPbHxf50WTOSyWamoQzKn8CG3gzEgT4g6JdJIvCPtJ8ZD23T0q07U12Yexvib2uZt5fBy08WY65ap7LMmEofQck02+BRs6AFTctysa/O4WpkgzAamZm+aNXMJHJLd/4kz6OHv1mjXHdI2kv81/DXJmz8c88STcRsL1NtoZXfZxVJg9ucpo4sm6K2JSue51r7ryy3cn/9KyX9cxGTFINIQ97bgaTAtDs7jqJe+mpSS9cMLW4BB52b0ORvdFJ6DQGM0IRr2/PRfBOV93JKlqJAu1y/uQRv+fLnvP5kt7h/arIvgexmbsBoroBGYuHOJxb7TsQ==;7EWIqE4Z3nlw4I5RneZFrA=="
 ---
 

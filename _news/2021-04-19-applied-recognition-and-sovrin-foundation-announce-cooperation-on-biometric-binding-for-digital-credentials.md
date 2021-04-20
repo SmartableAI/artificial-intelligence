@@ -53,6 +53,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Applied Recognition brings biometric binding to Sovrin Foundation credentials"
+    excerpt: "The partnership allows the Sovrin Foundation to deliver biometric binding to enhance the privacy and security of its digital credentials and digital wallets."
+    publishedDateTime: 2021-04-20T21:44:00Z
+    webUrl: "https://www.biometricupdate.com/202104/applied-recognition-brings-biometric-binding-to-sovrin-foundation-credentials"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/19104531/biometric-card-platform-partnership.jpg"
+        width: 696
+        height: 392
+        isCached: true
 
 secured: "E7fGzPHbpsKuHQDj6OqMz++p41PuPe7urFFeo1YzWaXyJ5gGUNiXbXLJBRZw9lptjpBQR82xsLl9/DXt/Usx12aAMGyvAcEYI+jLzcxtbynMk5ixGAMneKukJrpS4USv700fM09nOMl1IW3FqyF54pneBygA5xRMFIMz4guyL4VL511f09gJVqOQ/OUkkFiBaZSux8oOZrnmBj3JcOXOVvqUDTMDWi8lfmPyu3oo+rlMLq34LcwXRlLiWsgxEaWTseWd4PVc0lKKe/CuoK0lkXUFrR7dVj2XoU5nAbnpmNukEhlJPJHb5LeQof8jVIH2twS8uRe0auKvAJhlLMpWxoZPw+NJZ/jVOR2XzWsQrJg=;ie3H1Uuw7yJIzZkErBnapg=="
 ---

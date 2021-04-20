@@ -59,22 +59,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "10 Most Popular Online Courses in India"
-    excerpt: "The COVID-19 has resulted in closure of offline classes all across the world and rise of online learning platform."
-    publishedDateTime: 2021-04-20T11:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/10-most-popular-online-courses-in-india/articleshow/82163005.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/msid-82163008/82163008.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "c/YrImy4NGxfNaiUHLiOnMVl6cOsBDc2kQZrIe4tR7MmqoVp/lXTGFW0wx9UCtmR2cliY2l9kfmVQjAJR76/JDq+AhwxvYm4LwXtpgvpBemV5+6AArC9VKoLlt92KXH1o/rPZdDY+9H3tDWzASndr5WTEaLPyDb05aQks+a2byrySasRcsFPDDKCugoHAz92yZNiYH00yxh4h3SKpv+jG48wUxntHn0a4QqoCtmERsAb3UBdseznj84RJXmGVuzGtF7qeL8Rf2jABMnOKxd4SVka7jBGJr3Zx9TrYftHjJfF0jKGDXvgqM+Klb3wOgXC1PUWj0ROs3fMPDxRTBfi77jOR0w8M9tAg1fSyon25QSCXyr3lyUJDT42YD/eJcJMaog5smApGw6xvZ/9mc8r9Q68FPd330W1Zw55IMoCAbgBp1ViQ+hPWRzZHD4hi52pjZCt0Dw1Bqnjl0Ut2nl9KGAF4BlaBOosfPLcJvIfi6ehSmV5P4gbKr+w4jwK/8YM6Zo9IPzZMVSoYFkpYd4w3Q==;YC69myNRifHLpIjuDZSEEw=="
 ---

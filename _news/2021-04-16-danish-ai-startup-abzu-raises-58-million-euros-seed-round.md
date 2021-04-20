@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Supply chain startup PAXAFE pulls in $2.25 million in seed funding"
+    excerpt: "PAXAFE, a Milwaukee-based startup that applies AI and machine learning to manage risk in the supply chain, announced the company has raised $2.25 million in seed funding. The round was led by Ubiquity Ventures,"
+    publishedDateTime: 2021-04-20T20:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/04/20/paxafe-raises-in-225-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "6/dxhhwbnO5wIYgQIkh44RX8brvVOD81ziQhiYVR9yPwDBGMc+wq+WTavGDP9vptjLTWDDGFcRehMgH/1ktpluI6b8MdqEWseq0z0UUkyLWdjyvLnLYN/kmc5AVoHHiExKGz2VwT5DiLPp/9RVF1pTCfcIE2UQ7vhlAyB9Vu7ExW8t0Ua8sJ0dLlTdOOtUPuqRneHnSkrtYLi++SY71QPyxxZmi/g8TIULfflno/3U4l3qpay0HoWIu4HafXMNKGm5okkh7mfCeEfgeLZOmkayxUEUbemqmYss+GADCMC1qb+raZskofaQWY7uzUAmUTI0cP3CGA5fhkKNU0xfJQORbjgEBzoe/eCsXD2+FvrUxG4Tf2EnKcXbX6teKwUF6eLeMSlWFIAelGn5VBEo/uMbRRuQNHp7gBFT/H7Z4h8R5sjM495WtHi89zWU9t4QVqB/I4K7VbLN0nz/eGc+fDaD16Fy9f+Mt6vJVxH9DJ2IktNddTg9REOvUg797ccN9Bx2jFDuh0cL9M985kLry7/g==;UT4k9kSeAcgM2g5NCa2r1w=="
 ---

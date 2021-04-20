@@ -27,53 +27,97 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI"
-    excerpt: "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform."
-    publishedDateTime: 2021-04-19T03:14:00Z
-    webUrl: "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
+  - title: "Why B-Schools in India should include AI and Robotics in curriculum"
+    excerpt: "As a result, many B-schools in India have started to include this in their curriculum. While a management graduate may not use these technologies the way an engineer would, they need to know their impact on the business world."
+    publishedDateTime: 2021-04-20T06:27:00Z
+    webUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece"
+    ampWebUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
     type: article
     provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 67
+      name: The Hindu
+      domain: thehindu.com
+    quality: 89
     images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.thehindu.com/education/md6lqp/article34345019.ece/ALTERNATES/LANDSCAPE_615/19EPBSROBOTICSjpg"
+        width: 615
+        height: 384
         isCached: true
-  - title: "IIT Roorkee announces online certification programs in Data Science and Machine Learning"
-    excerpt: "Indian Institute of Technology, IIT Roorkee, launches online certification programs in Data Science and Machine Learning. Prof. Ajit K. Chaturvedi, Director, IIT Roorkee announces this through a press release."
-    publishedDateTime: 2021-04-19T10:00:00Z
-    webUrl: "https://www.timesnownews.com/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
-    ampWebUrl: "https://www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895"
+  - title: "Latest Trends in Robotics and AI"
+    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
+    publishedDateTime: 2021-04-16T10:08:00Z
+    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
     type: article
     provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 50
+      name: CIOReview
+      domain: cioreview.com
+    quality: 69
     images:
-      - url: "https://imgk.timesnownews.com/story/Machine_Learning_and_AI.png?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
+      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
+        width: 705
+        height: 485
         isCached: true
-  - title: "IIT Roorkee launches online certificate programs in Data Science and Machine Learning on Coursera"
-    excerpt: "The online certificate in Advanced Machine Learning and AI uses hands-on learning to teach the advanced ML techniques and skills."
-    publishedDateTime: 2021-04-20T09:52:00Z
-    webUrl: "https://www.thestatesman.com/education/iit-roorkee-launches-online-certificate-programs-data-science-machine-learning-coursera-1502963677.html"
-    ampWebUrl: "https://www.thestatesman.com/education/iit-roorkee-launches-online-certificate-programs-data-science-machine-learning-coursera-1502963677.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/education/iit-roorkee-launches-online-certificate-programs-data-science-machine-learning-coursera-1502963677.html/amp"
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
+    publishedDateTime: 2021-04-20T16:04:00Z
+    webUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 46
+      name: Sify.com
+      domain: sify.com
+    quality: 59
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/QT-IIT-Roorkee-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.sify.com/uploads/riznb6ehieagi.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
+    publishedDateTime: 2021-04-20T18:49:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
+    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
+    publishedDateTime: 2021-04-19T00:03:00Z
+    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
+    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 45
+    images:
+      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "12 Latest Data Scientist Jobs At Top Firms In India"
+    excerpt: "Data scientists deal with swathes of structured and unstructured data to extract valuable insights to drive business processes. Below, we have listed the latest (posted last week) data scientist jobs at top Indian firms."
+    publishedDateTime: 2021-04-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top-firms-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-11-1.jpg"
+        width: 2240
+        height: 1261
         isCached: true
 
 secured: "MdTzu1bXn7989tSa0c8qHtmrLHo9S5iPte9z9MGJzB1Nfl//iocfaEv7qJL27cxEIi5zw+P94tgo9V/xtc8RmkU7D6/WipEwDAFc4IkG0HB+0zKIci9szXdN+8JddHpDvtOuZ8h5niQPok/n0wyzj7s8MzABT7bEaCkVUzl6xblhyZrxKNVO/agRv80MENNZeYSNnOqtRlREtfMyAJx4IfysWwy4mm8QzdpeR5XmvrZNfa10D5teymUPagT7rZduJHQXYS1U8pn31KFXjJOInjswIlFv5RhOTxus0nFg907c2d8TZRwAoWNJKsVJKMEck6kJ1zEMNcTQReFy6pr7LzEE+y2P9q3pq9ROsQ3vjw/xMyUWkDo3y4Y5N58xkU69oSiI7q/8PlghJL8tdo7IZb34lw/cnvP+KkAR1BGHJK9NVfYjNBfJdMG+Cnycooi6PAHkejKMPVCxSuLze7XVfW4x7xvchKxPX9hYG/TRGn6ahV5EJqngHAV7BVsg7NM9I/57okHf2r5fACmlWb8GKA==;JmjVQJwYy15XwxH90POqkg=="

@@ -3,8 +3,8 @@ category: news
 title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
 excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
 publishedDateTime: 2021-04-20T01:53:00Z
-originalUrl: "https://www.law360.com/articles/1376577/self-driving-car-tech-in-crosshairs-as-feds-probe-tesla-crash"
-webUrl: "https://www.law360.com/articles/1376577/self-driving-car-tech-in-crosshairs-as-feds-probe-tesla-crash"
+originalUrl: "https://www.law360.com/productliability/articles/1376577"
+webUrl: "https://www.law360.com/productliability/articles/1376577"
 ampWebUrl: "https://www.law360.com/amp/articles/1376577"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1376577"
 type: article
@@ -197,6 +197,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fW6D2Tu2TV9vOju1CyPrq/zmk9GmcPNSO2YJWr+rQ/OYHtPiSN5gk2ry/4IJu2jNmQHZxl9NiZrQEbwtef+fHUpVREavEr5Pm4XJNadZJdT6tQnvmGKBxe+Q1QyXj2yYmEuPpAYb6vHXfscFh1U8mKf5eRYwpUZ7c6we+4ePA6szD/rnVFWVRL5EbYHXQFUzKf4FwNfl2eE6aLGw2HlCP/e3tPr2TVMWQNFg4XjlVeRITIBMeXnDWFNQR8+cF5vR5oTZtIJqLyPXYRb0KMOWX05ofAmJz0qd6sP4dKle3B+UGbgN4C/rxOgena3eDmuZP1Q2QZ/hXmrDF2vBhcx+3x3JCL1SvFBOepIoT8UCOt4=;WZDyd1ozx9S8vPBW5Iss7w=="
+secured: "PSaGxJctNVcJC0n/66ha0jph77hTyhKSx2LU5ivti92m5JFyqAz/NbrGlQ+PFEu6KCGhVaLu4FR3c7L4PIDkoCwejlvdYftEpqi37HR8cpdnhmj5Ghn7Ycn0KpaZnc6P0661NX/K2doHdZlNWaVzzm/Mlt/I6fxDbfCD4YGbug6ovhrqURdQklYE9EwlKsXIisduv1XdAsYvbl6020KR1T6uoBt/olkfxOgmVyeD4OROW2dhEWz2L0inzn/a2W5fNBV+n5qoUbAhaBCJbCxPhwD81byEEVOF7EHMkD1sdcF7qx//u3E1MmqYQccAUv4BswSqy2oJX0Lll/yxcM/wlOP5rOOdQhHNReVEARe75fw=;llkmi/e+2QZFjhNhgMpGmQ=="
 ---
 

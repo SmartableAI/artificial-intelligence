@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Sify.com
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Why B-Schools in India should include AI and Robotics in curriculum"
+    excerpt: "As a result, many B-schools in India have started to include this in their curriculum. While a management graduate may not use these technologies the way an engineer would, they need to know their impact on the business world."
+    publishedDateTime: 2021-04-20T06:27:00Z
+    webUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece"
+    ampWebUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 89
+    images:
+      - url: "https://www.thehindu.com/education/md6lqp/article34345019.ece/ALTERNATES/LANDSCAPE_615/19EPBSROBOTICSjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Latest Trends in Robotics and AI"
+    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
+    publishedDateTime: 2021-04-16T10:08:00Z
+    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 69
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
+        width: 705
+        height: 485
+        isCached: true
   - title: "Cloud, AI and data to transform India in next decade: Nilekani"
     excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
     publishedDateTime: 2021-04-20T18:49:00Z
@@ -43,23 +73,53 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Aadhaar-based facial authentication to be used for India's vaccination drive, not facial recognition: Infosys Chairman Nandan Nilekani"
-    excerpt: "What will be used is facial authentication where they compare your photograph with your Aadhaar number. It is no different than fingerprint authentication, iris or OTP authentication. Now we have to aim for 5-10 million vaccines a day and hence the transaction time is very important."
-    publishedDateTime: 2021-04-20T08:10:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/aadhaar-based-facial-authentication-to-be-used-for-indias-vaccination-drive-not-facial-recognition-infosys-chairman-nandan-nilekani-6792011.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/aadhaar-based-facial-authentication-to-be-used-for-indias-vaccination-drive-not-facial-recognition-infosys-chairman-nandan-nilekani-6792011.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/aadhaar-based-facial-authentication-to-be-used-for-indias-vaccination-drive-not-facial-recognition-infosys-chairman-nandan-nilekani-6792011.html/amp"
+  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
+    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
+    publishedDateTime: 2021-04-19T00:03:00Z
+    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
+    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 42
+      name: Mint
+      domain: livemint.com
+    quality: 45
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Infosys_Nandan-Nilekani1-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "10 Most Popular Online Courses in India"
+    excerpt: "The COVID-19 has resulted in closure of offline classes all across the world and rise of online learning platform."
+    publishedDateTime: 2021-04-20T11:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/10-most-popular-online-courses-in-india/articleshow/82163005.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-82163008/82163008.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "12 Latest Data Scientist Jobs At Top Firms In India"
+    excerpt: "Data scientists deal with swathes of structured and unstructured data to extract valuable insights to drive business processes. Below, we have listed the latest (posted last week) data scientist jobs at top Indian firms."
+    publishedDateTime: 2021-04-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top-firms-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-11-1.jpg"
+        width: 2240
+        height: 1261
         isCached: true
 
-secured: "x2y/mfw6tKQt+FEooA2d6YeDhm2Y/RbRz2c9s29OLpvPY70JQdtu0Q5mhWvcmNNNElJmf7k+DW1kwQNROH4TWhwkxqWdFuJPyxGOzJ/RyAyMuSPSICPi60BIIzdkZGoUYqpiFiAjnBKrS0NpZBBBcvwOjGpV5BmSdqXhXZ8CY8+EyCgRjnjTHZs2FVdnrWf3VP6t+LqDK+3vne3JzLHN0z2mz+joQJO02GGWV04jQ5uzVfetNh33DZkeDd2DNgkrdKNz1e2aLo2vhdx5IKjIfZAXBvgb7B07owkQRGc1fD9Hj2bZuyKgYhUsvmvSd2zMTeSA0zxQPP+ULKSqARzzP4oec/Fnc5Jv1+D/BGSXuq8=;jlAYGiY5Ur3YLJ1/1xmRow=="
+secured: "hOJ63wNtNnBxHf6777m3ux4pGIiQ3pZ2pcq08Igp2ZZbVkwq+3YwEjfNZ49py/jB1V6/rs6FF+znJC/S5u1I3hzZ3H/Zi+BPxSXG/wbrJcjuUX6BNSvtOvJ9Z7hztmAz8MYQJx0hLt6psBYIXpWbNPkdRwnhsy2Yzc7vGPmZlUres6f5UIO7B6zjfFgw0LGHrWZ7wL20vj8LPiarPUQqGO1PTp+RijZLQFvrShkIdYryGvPszkWveYjWuKqQ2iUxCFpvMOGA4lOk743df03jOWAPCL64gzAlyYxpzWA6hYWkDV6xHqF6YYxU2WYeCgfKfRhheFD67KDIUjilMCWXt8/5Gm8XViVDpwfMxBPQajQ=;VHc36WivcUb1cG2I7o7ePA=="
 ---
 

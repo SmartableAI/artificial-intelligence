@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "Denali 3.0 Soft ISP & HDR Sensor Module for Xilinx Kria SOM Platform and Vision AI Starter Kit"
+    excerpt: "Combining the Denali ISP with the new plug-and-play Xilinx starter kit affords developers access to real-time, high-quality HDR video to fuel their artificial intelligence and computer vision advancem"
+    publishedDateTime: 2021-04-20T20:28:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/product/21219369/pinnacle-imaging-systems-denali-30-soft-isp-hdr-sensor-module-for-xilinx-kria-som-platform-and-vision-ai-starter-kit"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 27
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/Denali_3_board_in_hand.607f33fb3d4b7.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "VCYSkMJWCRermgg2HyiRRtzq+0l4aeBHL9SGzF7nJM7Zk0BpQAu29gpesF6B6AxDeXZhWe0EUlmOE7nUmi2j30I0QXWj/T71ugf5MVV2z4Cex102ISD9x9wydQs15JdFlKAkqUnNoE1zg/LGLpI1VGslt7LToe6Rbrd1ecKVB03KYwvTtKxPwUbbtYdY60ILF/tCw60CvQ1kvNS40SUYIk7XMm2iwG4sT/x/3hEAuz/OJUANE64+OidswGFEVUlKnpb5+vn7Ucv9vgbyjyB4vNpDV23622vbMB6JecNi0/R3xmlDktc+FXA/3j+Bs1mTDgctdmLDpOl70kiBGV6aauWeGyFDTmYVOu4yK+vfxLw=;hwCxoRkARDjHQXZzLTRvZw=="
 ---

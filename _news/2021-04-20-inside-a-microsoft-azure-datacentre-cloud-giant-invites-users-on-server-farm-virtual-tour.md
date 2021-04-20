@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s latest acquisition shows speech recognition is big business"
-    excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
-    publishedDateTime: 2021-04-16T03:20:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 76
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
-        width: 740
-        height: 420
-        isCached: true
   - title: "Microsoft Competes With Google, Amazon In Healthcare"
     excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
     publishedDateTime: 2021-04-16T19:02:00Z
@@ -151,6 +135,22 @@ related:
       - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
         width: 768
         height: 576
+        isCached: true
+  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
+    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
+    publishedDateTime: 2021-04-20T21:05:00Z
+    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 40
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."

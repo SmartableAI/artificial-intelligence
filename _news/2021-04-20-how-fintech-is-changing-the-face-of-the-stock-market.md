@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369803"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
-    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
-    publishedDateTime: 2021-04-16T04:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
-        width: 600
-        height: 512
-        isCached: true
   - title: "Fintech’s big week highlights long-term opportunity"
     excerpt: "Financial market coverage by the UBS CIO House View. The past week has seen two key milestones for fintech disruptors in the world’s two largest markets, with Chinese payment leader Ant Group announcing a restucturing to comply with local regulations and US crypto exchange Coinbase making its Nasdaq debut."
     publishedDateTime: 2021-04-16T12:11:00Z

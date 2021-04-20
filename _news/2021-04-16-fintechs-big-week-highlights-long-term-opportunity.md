@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
-    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
-    publishedDateTime: 2021-04-16T04:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
-        width: 600
-        height: 512
-        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z

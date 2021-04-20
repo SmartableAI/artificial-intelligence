@@ -39,20 +39,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "Latest Trends in Robotics and AI"
-    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
-    publishedDateTime: 2021-04-16T10:08:00Z
-    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 69
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Insights on the AI in Healthcare Global Market to 2025 - by Sections, Diagnosis, End-user and Geography"
     excerpt: "The \"Global AI in Healthcare Market (2020-2025) by Sections, Diagnosis, End user, Geography, Competitive Analysis, Impact of Covid-19"
     publishedDateTime: 2021-04-16T21:00:00Z

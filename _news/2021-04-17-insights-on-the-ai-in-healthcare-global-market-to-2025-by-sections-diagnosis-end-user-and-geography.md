@@ -40,20 +40,6 @@ related:
         width: 325
         height: 325
         isCached: true
-  - title: "Latest Trends in Robotics and AI"
-    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
-    publishedDateTime: 2021-04-16T10:08:00Z
-    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 69
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "AI Augmentation in Healthcare and Life Sciences"
     excerpt: "The use cases for augmentative AI are expanding, and the Healthcare and Life Science industry is tapping into it’s potential."
     publishedDateTime: 2021-04-19T16:00:00Z

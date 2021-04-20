@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/aadhaar-based-facial-auth
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/aadhaar-based-facial-authentication-to-be-used-for-indias-vaccination-drive-not-facial-recognition-infosys-chairman-nandan-nilekani-6792011.html/amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
-    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
-    publishedDateTime: 2021-04-20T16:04:00Z
-    webUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
-    ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
     images:
-      - url: "https://www.sify.com/uploads/riznb6ehieagi.jpg"
-        width: 650
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
         height: 450
-        isCached: true
-  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
-    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
-    publishedDateTime: 2021-04-20T18:49:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "2JzJGW5Dd0EBEhplTVspwfsdrQcZLH/ZQ5cl7U7Y8qWmznrhoXaxthYyC6MAaq5Ai4769QVxFjgpZyFjwlt8XLYA6SRuuI6QBSjORgW6lq6KsnpYJk0fEe2f7oW1o7R5glTM7xqz4E++zrWlt139drPxik6YV09vvQMdNtJKu7jqWBFEx+ESBqtprmj393IMndyfpmB+R/paA4mZQ7AWBf6dKrGavhgdfTurXrCrcehyFKFjVyOfQooT6aOsuYqMLwuu2T9ohQFT3rF/FRJboKN0DMTaPA4NS19ZY5XvnuVGYIu0Cvsly2i+9E6RhxWvuUGi0NEmMt4nO2qgcghSRkQjrccl3Awlu0hiiqcLaxsdtuZAxUDLBUXL3a3/W6HH8qrWwWhvR091vvTKg2QKzqBJB5uVjnSP69GoUmCnxWwBtrSx5odk8h4kNZkMPZhPz0wjiw045oHGHJv+oAURand4Ndylx3JIju8ZWDSbHF8XXrI0sFlOU5OkZQEWbk6VvI/m7a9dywvOdBu/3oX3Lg==;c9XYG8jprJh95phCXyRozg=="

@@ -43,22 +43,6 @@ related:
         width: 2000
         height: 1080
         isCached: true
-  - title: "Social isolation may reduce face recognition ability: Study"
-    excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
-    publishedDateTime: 2021-04-16T04:30:00Z
-    webUrl: "https://www.freepressjournal.in/science/social-isolation-may-reduce-face-recognition-ability-study"
-    ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/4281970b-34da-409f-ad92-7ecd1e513e7a/info_3rd_lead_april_15.jpg"
-        width: 1240
-        height: 816
-        isCached: true
   - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
     excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
     publishedDateTime: 2021-04-16T22:54:00Z

@@ -25,182 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023"
-    excerpt: "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2021-04-16T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-growth-trends-and-forecast-2021-2023-2021-04-16"
+  - title: "Precipice Edginess When A Self-Driving Car Drives Down A Super-Steep Slope Like These Top Ten U.S. Vertical-Drop Streets"
+    excerpt: "Self-driving cars need to cope with steep downward sloping streets, which can also be challenging to human drivers (included is a list of the Top 10 steepest gradients in U.S. public roadways)."
+    publishedDateTime: 2021-04-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-04-19T13:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
-    excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
-    publishedDateTime: 2021-04-19T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2026-2021-04-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Forbes
+      domain: forbes.com
     quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6043fdc573ab10aeef8f1713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D453%26cropY1%3D20%26cropY2%3D275"
+        width: 453
+        height: 255
         isCached: true
-  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-04-20T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
+  - title: "Canadian police pull over car thinking driver is drunk — nope, it’s ‘self-driving’"
+    excerpt: "Police in Canada pulled over a car last week thinking it was being driven by a drunkard! But no, it was driving itself... apparently!"
+    publishedDateTime: 2021-04-16T16:30:00Z
+    webUrl: "https://thenextweb.com/news/canadian-police-driver-drunk-nope-self-driving"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F03%2Fthird-autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving.png&signature=045313075df9ec4fba69a44106485acf"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Deep Neural Networks Market Share, Types, Applications, Products, Size, Growth, Insights and Forecasts Report 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
-    publishedDateTime: 2021-04-16T08:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-share-types-applications-products-size-growth-insights-and-forecasts-report-2027-2021-04-16"
+  - title: "Long road trip shows that self-driving Ford F-150 can provide a 'much less stressful driving experience'"
+    excerpt: "Long road trips can be exceedingly dull and stressful. Ford engineers say they've taken some of the edge off after road-testing their BlueCruise self-driving feature in what they call the Mother of All Road Trips."
+    publishedDateTime: 2021-04-19T22:09:00Z
+    webUrl: "https://www.equipmentworld.com/trucks/article/15065029/long-road-trip-shows-that-selfdriving-ford-f150-can-provide-a-much-less-stressful-driving-experience"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Equipment World
+      domain: equipmentworld.com
+    quality: 7
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.equipmentworld.com/files/base/randallreilly/all/image/2021/04/BlueCruise_Ford_F_150_02.60774dca76ff3.60776038be338.png?auto=format&fit=max&w=1200"
+        width: 700
+        height: 467
         isCached: true
-  - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
-    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
-    publishedDateTime: 2021-04-19T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-overview-by-size-share-trends-growth-factors-analysis-opportunities-and-forecast-by-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Industry Report by Share, Growth, Key Regions, Segments, Trends, Technology and Forecast till 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2021-04-19T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-report-by-share-growth-key-regions-segments-trends-technology-and-forecast-till-2028-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
-    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-04-16T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-study-report-based-on-size-shares-opportunities-industry-trends-and-forecast-to-2028-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Size 2021-2025 on Going Trends By Development History, and Business Prospect, | Says Kenneth Research"
-    excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
-    publishedDateTime: 2021-04-16T05:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-2021-2025-on-going-trends-by-development-history-and-business-prospect-says-kenneth-research-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2021-04-19T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Services Market 2021: Trends, Growth and Profit Analysis, Forecast by 2030"
-    excerpt: "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global artificial intelligence services market is expected grow"
-    publishedDateTime: 2021-04-19T06:10:00Z
-    webUrl: "https://www.openpr.com/news/2271826/artificial-intelligence-services-market-2021-trends-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 25
-  - title: "Global Language Processing Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2027"
-    excerpt: "Apr 19, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Language Processing Market”"
-    publishedDateTime: 2021-04-19T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-language-processing-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
-    publishedDateTime: 2021-04-20T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2272686/artificial-intelligence-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "fXTt4QaSpKradTNTPBZrguWlSO/R/96IZbT5teY20hGSuXs5zQ2xUHXHbQOJbVkbVv1yoHV8yOhlkKzKIMlYlFjIJMeeZp2H19CtEGrsZxBqFnIgzKeaoJZUB43+tuJ7scAsaw3EoowU67DZ4td8yx2t0O9L4nSBxV/GXifGUIuNUlsMZ/58TrTOuMGSuLyLTxLCVxUfG7tZy/oO2QCIDSDrmHxKV7M97G6vMqCjP/4g1qu9a2hPhr61/E9Qwn/tUqPpOCo+U42B8pcynEe+AMXl+RuYRUiYJcBx91ejTI1KwoYv9opoMoLqp+z+pUx6MnE41nAryyYmqKZBt/D3UTU3aAQ1+7M2Sqh741Xpx6E=;S9MNnvievWeTGBjoXLGIpg=="
 ---

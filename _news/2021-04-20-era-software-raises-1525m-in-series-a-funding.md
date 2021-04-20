@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Era Software nabs $15M to deliver AI-supported data management"
+    excerpt: "Seattle startup Era Software Inc. today said that it has secured a $15.25 million funding round to develop data management technology for large-scale enterprise applications. Era has built a database,"
+    publishedDateTime: 2021-04-20T18:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/era-software-nabs-15-25m-deliver-ai-supported-data-management/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/unsplash-1.png"
+        width: 750
+        height: 431
+        isCached: true
 
 secured: "ITiREtLM8FCewn1AsViZFDIsIku0B599yji7fiwypo/uuQddBlHKtJ46hZbh+YEnpHayxitA6RCyLIVRa+W++TPoxz6dkyX8vtnUfxm/TRElkyl96DkTz7kM9at6Y2ZOk82fP1O9e5QmpDDgHVf1PrL6lo1ahvGyiZQ/W8THNGpymL/XRmAiMkJjOgMjNZjvZe0wG9ZvQ7Oeb2kdxZm9JFNz3eTxntyX2QzYqkJ01E3I4oBK2TeL3lnpynJ/KAzV4pvFsH/n/4kzOonu/ZwreddynmaFhnrezQQ+Gn/7nNJFASW62sPoyFj6wnz1UajOolg08zmd4yCEQhbh+10BJuuximoCzR0ppL0FdO7/pL8=;xYQYjju92JLWDgTfxdUnjQ=="
 ---

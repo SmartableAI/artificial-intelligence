@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/log-management-database-startup-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/04/era-software.png"
         width: 280
         height: 280
+        isCached: true
+  - title: "Era Software nabs $15M to deliver AI-supported data management"
+    excerpt: "Seattle startup Era Software Inc. today said that it has secured a $15.25 million funding round to develop data management technology for large-scale enterprise applications. Era has built a database,"
+    publishedDateTime: 2021-04-20T18:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/20/era-software-nabs-15-25m-deliver-ai-supported-data-management/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/unsplash-1.png"
+        width: 750
+        height: 431
         isCached: true
 
 secured: "rjT2UL8wBP21jX/pD5hSzAEE8xgbVf4hfczQxn6BgIjx9hu2q3XZX8+P5tpXkLud47Gnfj6v0iQ8uaPiCCNnhwb8BeFH59P8fD9DhIW5iah/S1k3F8ZialMx1uCcKhsLqUPz/82k/43Wz6JEefaxEdPpkQgTgckaJAxORo6l4tTgnJmGAHrb5bcWwg0PmNi7oiLxdsrHnpaJ4WhtOQxvNfNyOyfdvj47FMX1s8uzvLpWIOx/mr/BgKIB9ncg58pLlcHByrYW7mJIfu61QHr8unvx2t4tiAggqyujNNnyS1/JgmzTrVCi1Cf6uTFkBevucUnJcl2mRHGDGzHgLghr8yzmwyK+jM/BzY0vyhg+/vE=;Qg44dHvK8lMC22QgWrOwkA=="

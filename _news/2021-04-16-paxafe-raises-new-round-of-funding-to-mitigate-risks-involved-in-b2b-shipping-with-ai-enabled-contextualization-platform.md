@@ -45,6 +45,15 @@ related:
       name: evaluationengineering
       domain: evaluationengineering.com
     quality: 34
+  - title: "Supply chain startup PAXAFE pulls in $2.25 million in seed funding"
+    excerpt: "PAXAFE, a Milwaukee-based startup that applies AI and machine learning to manage risk in the supply chain, announced the company has raised $2.25 million in seed funding. The round was led by Ubiquity Ventures,"
+    publishedDateTime: 2021-04-20T20:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/04/20/paxafe-raises-in-225-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Zuelr0SfHk2UbGBJAPwEp+Drkrjh5XEv7GNlUrZsR4TvJpJvfHP2HI5OCV2FpyoN15z+KNDUZ9cE2GzyX3zOsk8RTjSj8YUFgHfV35Myj1n/cJAvrEAr31erhWABDi7ki3iZ9aot0VdYP8Kl8iixtKsFC9Mo0Yfl8ADN9fHB7f+NQTDzDHFyHSUsGPvSx7dTzMCFvrmvGTUufZ1IOyOfP2699r8kblibcMC4rSC5mBSjPuCBTSxgnETOtzdcG82qtaHXajZwNXS1w+FLRN+/NGPte2ZFKBSGGrSsqqU8bwl83U0gLj18oZtcZWcNQr2t5TA2Z1Ju9T0GIEs0bmUOFdE9tqa6IPTsG1uDvc583Ic=;1xZ/UbuwD1FApcetkcHkFQ=="
 ---

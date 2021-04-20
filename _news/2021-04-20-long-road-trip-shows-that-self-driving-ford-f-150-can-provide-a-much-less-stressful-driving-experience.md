@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
+    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2021-04-18T02:46:00Z
+    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "2elOACcuxqSoj//x10X3TzlYK1QO961W8zdkn4CqMiiSp6NXMRJO14Edrzh6XOnFMI/ghs/yx/U+uYSz+kI35L+sChWmKMKXf9SeZNALCILIclpssB9SCvtvYKfeZ8dpiqkNSQSN/xkcPUGRn5Wlwh1iy4yvtS+Z8ohHxQ5NdLT1qYBOv1zmkXN+s5Y5GLFdrB3Nhp8eM/hLXJWHFlw5CVeQ20NuUbJqs0CY9u5R87D8grmUXNbU7WHoYS3CkA44qz84A5wCVP8UUg5aH5oWjVMZeK+zsOQmKvUxfz1bhLRfFuhvnDDW66AY52FHa4mXgiU35mhskizfuhy7x5hzKM2GjIdzdWL25fh0LWc5SonUoQCgPzyBDDYhmNio1lNRCMLIUUMmSsiAoNz1/T/xbikAvolV6dIUe8aFYqX8Irj4HKRaNAryA+5uBk7TSvcEnp9EqzdIEfWH8pt/A+tdiA/GXClWGy+J313LpW3II+lgDbkSksadqlW8iZFXDfEJyNkDyR8N6l1DH+tbIFrexg==;NaLWxlZ1LW+NcVtyKCXdLQ=="
 ---

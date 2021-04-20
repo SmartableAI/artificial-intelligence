@@ -25,21 +25,99 @@ images:
     isCached: true
 
 related:
-  - title: "Robots are coming for your job! 5 jobs in India in which robots, AI have already replaced humans"
-    excerpt: "Robots, AI, and automation have already started replacing humans in jobs in manufacturing, warehousing, IT companies, online media, etc."
-    publishedDateTime: 2021-04-16T04:26:00Z
-    webUrl: "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/"
-    ampWebUrl: "https://www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/"
-    cdnAmpWebUrl: "https://www-91mobiles-com.cdn.ampproject.org/c/s/www.91mobiles.com/hub/robots-ai-automation-replace-humans-jobs-india/amp/"
+  - title: "Why B-Schools in India should include AI and Robotics in curriculum"
+    excerpt: "As a result, many B-schools in India have started to include this in their curriculum. While a management graduate may not use these technologies the way an engineer would, they need to know their impact on the business world."
+    publishedDateTime: 2021-04-20T06:27:00Z
+    webUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece"
+    ampWebUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
     type: article
     provider:
-      name: 91mobiles
-      domain: 91mobiles.com
-    quality: 61
+      name: The Hindu
+      domain: thehindu.com
+    quality: 89
     images:
-      - url: "https://static.hub.91mobiles.com/wp-content/uploads/2019/06/deepnude-featured.jpg"
+      - url: "https://www.thehindu.com/education/md6lqp/article34345019.ece/ALTERNATES/LANDSCAPE_615/19EPBSROBOTICSjpg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Latest Trends in Robotics and AI"
+    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
+    publishedDateTime: 2021-04-16T10:08:00Z
+    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 69
+    images:
+      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
+        width: 705
+        height: 485
+        isCached: true
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
+    publishedDateTime: 2021-04-20T16:04:00Z
+    webUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    ampWebUrl: "https://www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-news-topnews-veuqeIfiaaebg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/riznb6ehieagi.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
+    publishedDateTime: 2021-04-20T18:49:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
+    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
+    publishedDateTime: 2021-04-19T00:03:00Z
+    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
+    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 45
+    images:
+      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
         width: 600
-        height: 315
+        height: 338
+        isCached: true
+  - title: "10 Most Popular Online Courses in India"
+    excerpt: "The COVID-19 has resulted in closure of offline classes all across the world and rise of online learning platform."
+    publishedDateTime: 2021-04-20T11:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/10-most-popular-online-courses-in-india/articleshow/82163005.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/10-most-popular-online-courses-in-india/amp_articleshow/82163005.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-82163008/82163008.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "1W0xkou9UbQR3ZhKYy3wQEv3ytSUQkdPIh9smqG+qe2YfeD8rHk662qsd23IzSV9cia4vJGx6IH72Oi/X9IO3bgAKl9BqJOetfPb/bVWpM4r47dNGqhyb2dcJAoKUYGbraeKsbntkzNIFQv0pqPMrp550FHtpWEUILInGkySJNHeV4vPBAeMMipQWoW9JBnmZRXRJ27gHdFb988O/1L4C3Qivsp5Isud2NXaVEHBJ8oXAT1QEMtFTPEG+UxgJCakEABKmB0t4bP5W9t/PsjCAmJgJTUZT5mQg3/sGm6Dcz1kGVFrsNmhWddPoC+P7n3QOGOg4mrBG/oFblVYcg9cKg2W1OBWD5qd4jnhAq9z80wCeiSdOZR+z+fZiVu/LTOWbCJes7/w0vz10cR/ldvVNZrOHR9lRjsNJWvZu1w1I+TOz5FKr84xht3TI83H87iw24PpZSBrBEorq7qOf9N/z88DjV5lPZhhukhesECXatN8lpRCJJozGO6JXqgpb4nHrEU2tf6P/O3JQWIaqH49fg==;xIapYxDx9bRcPBfVF9/m8A=="

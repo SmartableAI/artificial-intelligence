@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The platform has an expanded suite of components that includes Cloud Data Fusion, Cloud AutoML, BigQuery ML, AI Platform Notebooks and TensorFlow. Google is set to launch its new unified AI Platform in 2021 with key features and services including AutoML ..."
-publishedDateTime: 2021-04-07T06:38:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
+publishedDateTime: 2021-04-07T03:55:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
 
 provider:
@@ -12,8 +12,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -21,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "4y+CcMUZYyze6W02KxK/YeJSvpgmIskIEtMFzMm/C/yUI38eKa4leMJH/VT8EMqs1owMRgtTEcMKPe2uGKRhrHvlJEionBlTgvX3P2b+DWt4JtXdZsKzW9YRe3gZ5/0znBt0XdZOjnFUtiVYXgKUJjveolgERX+1oHHynU77wJFd51YUg2MEk5kUeNPXwFNvnqMAjQ+Xvb9fzDE82FrBuq9a8tHlOFxGz95OXccnyeVzgiAq2z5dGuV+kYzsQGcwqsz5gAKY1ToBfCLif6rFrdEwkRnDcRxmXiu5TH+QkJDv8zSrLbc9ubkBrNhLOpI5Xn6VPbmr0a4ic99zQGKoSLC/4TvmvXwIY8+v6sttyK4=;oNyC0vyintVKYUg+E6MRig=="
+secured: "Wmh9tNyM+77FOehlFiDVJ5DUq5Zc9rXZip3WTXGjWhCHfkVWc0Du+XfAlo6OQLaZ19e3S0V0zTVinDZOeoH+ZA5yxElUZ+3oNqfIU8tzRglocP2kIpBOvwvMnqsTpT+htC4uDArHeQmUUQWTWi4ydfXHiagF3t5zuKfnH1oYOGfVNI46UAQ6pOo+QJKgazbP1xpKjU4fcynGk6m+AUYMJpi8iNmJl2kt05v938bAxucMWW7Gpn7Fww2jdUxCQPtXe24w5gcPC2geUY9KLZo/BCDBbABvbdmCW0RGnH9VU4aUwtdAJLS7XDg3nUVNXWhQGbFmq0kKLigKJrurp/HtLY5Km6DABRSob2S10TZn/k4=;ZyTpjnXh09rJGWD9LReEZA=="
 ---
 
