@@ -27,35 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Social isolation may reduce face recognition ability: Study"
-    excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
-    publishedDateTime: 2021-04-16T04:30:00Z
-    webUrl: "https://www.freepressjournal.in/science/social-isolation-may-reduce-face-recognition-ability-study"
-    ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
+  - title: "Amid ethical concerns, facial recognition has gained some traction in the US"
+    excerpt: "Identifying shoplifters and fraudsters may make sense for retail, but what about for marketing? And what about face masks?"
+    publishedDateTime: 2021-04-20T12:38:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 88
+    images:
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
+  - title: "Why a U.S. Hospital and Oil Company Turned to Facial Recognition"
+    excerpt: "Cedars-Sinai’s main hospital uses AnyVision facial recognition to give staff a heads-up about individuals known for violence, drug fraud or using different names at the emergency room, three sources said. Cedars said it “does not publicly discuss our ..."
+    publishedDateTime: 2021-04-20T10:43:00Z
+    webUrl: "https://www.fxempire.com/news/article/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition-721416"
+    ampWebUrl: "https://amp.fxempire.com/en/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition/721416"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition/721416"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
     quality: 59
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/4281970b-34da-409f-ad92-7ecd1e513e7a/info_3rd_lead_april_15.jpg"
-        width: 1240
-        height: 816
+      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3J0K7-VIEWIMAGE.jpg"
+        width: 615
+        height: 410
         isCached: true
-  - title: "Mahopac’s Music Education Program Receives National Recognition"
-    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
-    publishedDateTime: 2021-04-19T23:17:00Z
-    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+  - title: "State panel studies use of facial recognition technology"
+    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
     type: article
     provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 41
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
     images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
-        width: 600
-        height: 450
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
+        width: 1088
+        height: 604
+        isCached: true
+  - title: "State panel studies use of facial recognition"
+    excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
+    publishedDateTime: 2021-04-19T09:55:00Z
+    webUrl: "https://www.gloucestertimes.com/news/local_news/state-panel-studies-use-of-facial-recognition/article_e6a50073-4284-5d51-830a-e183e51b0e68.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition solution to boost contactless site entry"
+    excerpt: "Biosite Systems Ltd has developed a facial recognition solution to respond to increased demand for contactless site entry"
+    publishedDateTime: 2021-04-20T11:00:00Z
+    webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/facial-recognition-construction/92223/"
+    type: article
+    provider:
+      name: pbctoday.co.uk
+      domain: pbctoday.co.uk
+    quality: 39
+    images:
+      - url: "https://www.pbctoday.co.uk/news/wp-content/uploads/2021/04/Biosite-Facial-Recognition-2-lr.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "State surveillance body cautions over police facial recognition technology"
     excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
@@ -71,20 +115,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
-    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
-    publishedDateTime: 2021-04-20T02:00:00Z
-    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
-    type: article
-    provider:
-      name: TAPinto
-      domain: tapinto.net
-    quality: 37
-    images:
-      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
-        width: 600
-        height: 497
-        isCached: true
   - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
     excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
     publishedDateTime: 2021-04-20T11:45:00Z
@@ -99,6 +129,17 @@ related:
         width: 2560
         height: 1701
         isCached: true
+  - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
+    excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."
+    publishedDateTime: 2021-04-20T08:21:00Z
+    webUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 22
 
 secured: "3jTxVb6dC3+BJ5jI5LfDEOBE8BaWUVWyW7xojIA1lM7HbWmOqjjZZ2CtPDodoDInLfbLMRpdqtQVF1Y00iz7q9i/kNBtIi9tVtU4e7ONYpWqDSnXUiFIzB/aP/JC4x1HkvqiZm3tbXrfRMtFLSQTKUrrC6lV11hTGPaVHhOrhSOxAqqm6W/RURWqEKQ2T+cbzSuTHkA5X+nwi4VIM7/fyOfYmmWYJ1hUw8N6JM9xNFkc/9+5DuZmYnPm0cU7ejBueG+U26b8CALC//WQizyhd/+AHo1mcpoONWBfuxBmCQQFQl5ujtIQPLi2lG44ZjhU/pGs7bK7nqldXtRB/0HCNMyMmgUjpDLZ05X+4fAAlNp/fZn6Ba4BHRkinv0jBnPFdLnq/t3zVNUF5rJWFFVLL1/SdlJLb3v6PBMTfB86oSYBdWVisWi/VTxZKClXBhwyoGiuESFOSVFBH5ogU8CKz5+81cqSA70Q02pBBETilAgMjSfsHX9tZQMY9zlMf7Q70QC8ZfNVsi8Vn4LwsLXM7w==;BUk9jahPb1VaWshrFyp8mQ=="
 ---

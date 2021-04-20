@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ – research"
-excerpt: "Translation tools from Alphabet Inc's Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\""
-publishedDateTime: 2021-04-19T13:52:00Z
-originalUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research"
-webUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research"
-ampWebUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
-cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
+title: "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ -research"
+excerpt: "Translation tools from Alphabet Inc’s Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as “enjoin,” according to research due to be presented at an academic workshop on Monday."
+publishedDateTime: 2021-04-19T10:14:00Z
+originalUrl: "https://www.metro.us/google-translation-ai-botches/"
+webUrl: "https://www.youtube.com/watch?v=eKRpiMBlu40"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 137
+heat: 147
+published: true
 
 provider:
-  name: Philippine Daily Inquirer
-  domain: inquirer.net
+  name: Metro US
+  domain: metro.us
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2019/05/crime-scene-300x200-300x225.jpg"
-    width: 300
-    height: 225
+  - url: "https://i.ytimg.com/vi/eKRpiMBlu40/maxresdefault.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -42,6 +39,6 @@ related:
         height: 323
         isCached: true
 
-secured: "f0MtnIwLVr/TsyR4/VAXzfvYQE5xSrm9LyPsBNdoUxYuhcs/dsZwNKWjra/um+kuACfwuGLoZersZLsIJmOh2CYfJ8n/AYR1I9tynNgVQyDM4Vl031hIrZV3mtIimZJxPnMjqSw7cpN6N9DicTBf8EAiMQo4Yof4VrKNUln+1RSDTXrUMoWZ4EAZeUo/sQhOmzMIE97fAe4hYM21hFqTxdTADEDk14D8oinAlZS9yPCLnPkO+KwN7ca/56NVCCCpz3212IclcwNy/hJns62ck8aWEKyP9s9Py/7SX01jyRkvp6Gfb29QdPf5wT+ngKNvdmjM7FljblkK5SfduNeBCieUxDLzEtqoRm6TWb6mgMg=;yfl2ELMcTvon3bxyF/chZQ=="
+secured: "MaPq2R00US3Fte9hnCS73FgMGR4Eeui3vA3jElWvyqqa+OTSuGiVLh/AW66HBMif7drODobqUMEV8GJfc1yMR2EraU00wijsdd9DFQhMANeA9Yi/5pDqelLK1nBCONoAAOMVkx/8sTcLLUru3p1lZE4Ai2UE72qLfnQEnL5ti978dt3f6s076ey7lQj2vrSHM14OkNlT2EyfhhE9xnt63t2ixArBGUebNnbXV9QGK1Rnk4PrefSFpXbqeDjUK2G1IVn0Y1p+5Yu4S4wMaVO9ynS5X+e5IqkICddOVxHlPgAc5lCRN07RHIV0D6XVyvSFPzZp86fDusVWrFo2XaQthsapk/OtoWg+6v4uFK8w6fU=;O/wnPFAk1CCxfsj2gQA2IA=="
 ---
 

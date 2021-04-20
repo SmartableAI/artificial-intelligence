@@ -143,6 +143,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Volvo to build self-driving fleet with Chinese startup"
+    excerpt: "Volvo Cars will provide vehicles for Chinese autonomous driving startup DiDi’s self-driving platform to create a fleet of automated cars for the domestic market. Volvo will provide DiDi with XC90 cars equipped with backup systems for functions such as steering and braking that will be equipped with DiDi’s autonomous driving technology that will integrate software and hardware required for full self-driving capabilities."
+    publishedDateTime: 2021-04-20T12:46:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16614/volvo-to-build-self-driving-fleet-with-chinese-startup"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "liv8lwAEYyKhakBCjQLR5uLDteWHmn7blpWvdm7qyUoM4uc9TG8ptLmrQmZ15skc82qfz3g96fDQTS41MjQPtRiKkksW0DjbaKrpjUzqK3RxzlBF9wV+D9KsvxAbiyzuhyM531KixSXC/enf2wYXTKP6dd8cPObwA+rn4+9Q5qOaMwpZSPRliPmfwxuW3eityrJsT5q2qduxJSrwf5BlfQPYLH8V4YHhyrIRAqGWkmTcHAUVbw9ZtGpY1pv9PdogHsmdt1UZLyBBAgpkdHoDo6iFYGZcBn7II9Qh4Xi9Pl9G9E2QzL5UaHvmpW1saJ7uIIWI/uf3fzjmQmaRcbqH5TefdG37Ddi5K9J02VtRX80ZkYvDH1XnyUL8doXdRicZjv8zLf7hu2SslsbIyK5WS49UdNdnbJ3U040iiN0XCTE1hoqosl5i83GIUvAs97x3PnxrvBW7KGKpth+DgK+FaJL2ERIrzJwPJm9fDkDxsx2GOc223NO25mi8IH2Zw6H0iLd9Ss1P8NRpNFmZTyu+mw==;ukwI2SFl9inpHdVdgeG/rQ=="
 ---

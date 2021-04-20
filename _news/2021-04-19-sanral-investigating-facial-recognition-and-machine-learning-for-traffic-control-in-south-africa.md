@@ -40,15 +40,15 @@ related:
         isCached: true
   - title: "Facial recognition tech, data learning for road safety being studied by Sanral hub"
     excerpt: "\"The intention is not to observe individuals, but rather to identify trends and incidents to inform appropriate response and interventions,\" Sanral says."
-    publishedDateTime: 2021-04-20T08:40:00Z
-    webUrl: "https://www.sowetanlive.co.za/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    ampWebUrl: "https://www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    cdnAmpWebUrl: "https://www-sowetanlive-co-za.cdn.ampproject.org/c/s/www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    publishedDateTime: 2021-04-20T12:54:00Z
+    webUrl: "https://www.heraldlive.co.za/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    ampWebUrl: "https://www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    cdnAmpWebUrl: "https://www-heraldlive-co-za.cdn.ampproject.org/c/s/www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
     type: article
     provider:
-      name: Sowetan LIVE
-      domain: sowetanlive.co.za
-    quality: 55
+      name: heraldlive.co.za
+      domain: heraldlive.co.za
+    quality: 53
     images:
       - url: "https://lh3.googleusercontent.com/qRA-IUE4u7tQG5g9h2fURzTarh4UXMMNnlGnWML8mpIyhYds7DylaPOeVeSFCSpPvm8FIxRJ5bZ0zJSydU4y5W2H8g=s1000"
         width: 1000

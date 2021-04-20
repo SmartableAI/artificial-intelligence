@@ -44,6 +44,17 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
+    excerpt: "To advance privacy and security of digital identity credentials for consumers, Sovrin is working with Applied Recognition Corp. to deliver biometric binding for"
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20681185/applied-recognition-and-sovrin-foundation-announce-cooperation-on-biometric-binding-for-digital-cr"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20681185"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20681185"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "j+8t6LDu6ghV/jVwXvWHLC5SxBIvvSBaoSpZSjTIy5ZacKxV1FXDjdzoerByWiY+Ju/mQ2McauYU5TlY1QktGUY8/T9N+6PlsRK8mnYZstzLjPCGUEAl0Qi8O+TvLuJ0BopqIyVPMG0CXLgvOUzUqir98ILZYlyv+h+G/Ijn1lHdKx5QlKGrq3G49c/qtQNKYlvnr4QONsGgMDeifWVyZIUlsm0TQ5BgyNQBwXFWeZdot3JWfHs2E/28s38h33yR736x15Dov1zLYvORZZslXSstHMHhsJClfPwhuEvLfd6Xx2dBdWuNic0ZlA18cfHGxrdS0mjY5HXybnEENLZnFnWVWloX5nqPOtgfFOBpx9QyaqGgQ/nGyPiu8NPPAwR41Oo8rGchUqvQ9esppMXaBLUjuz65cY/7YvadmFzp7gpHz8jDuya4JfDRBypbSjGVo/YH9s9MEcHgDW09Hy62OJgZOizVuXIQ7aUWdwmvhmQghV9roVsrJ8hHBDTFpq/N8LSX6o4A87dpjDBk4WRsRg==;vDw01QXDbi99buzrq8Y/3w=="
 ---

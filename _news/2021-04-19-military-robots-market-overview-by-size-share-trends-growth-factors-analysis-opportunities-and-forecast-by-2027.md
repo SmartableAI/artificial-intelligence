@@ -194,6 +194,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
+    publishedDateTime: 2021-04-20T12:59:00Z
+    webUrl: "https://www.openpr.com/news/2272686/artificial-intelligence-platform-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "Artificial Intelligence Market Analysis Report - Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025"
     excerpt: "According to new report available with Million Insights, the global artificial intelligence (AI) industry is driven by rising widespread applications in agriculture, BSFI, manufacturing, etc. Also, Artificial Intelligence finds its driving force in consumer services,"
     publishedDateTime: 2021-04-16T01:26:00Z

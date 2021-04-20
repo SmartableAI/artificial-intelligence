@@ -6,9 +6,6 @@ publishedDateTime: 2021-04-15T19:14:00Z
 originalUrl: "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress"
 webUrl: "https://www.morningstar.com/news/marketwatch/20210415680/as-bezos-seeks-to-be-earths-best-employer-amazon-fights-shareholder-calls-to-prove-its-progress"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -18,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "Z7PkCh6BjtbBFuFRQoAGlUudJZ+eto/+wI2sgV65NX4R6sqT6yy4WWTzYleZSv9CXtJEN6XVCLKDzZgFjQeeWHN4kZuThI84R38NMZBXEijpGK877whf860b/TegsX2lef93tcuv9jvkuxB2HR5fOFKxt9gFe+P9mmr+w/6nRp+LdPo5v3VczFcfy6g5jX3n4R7hoXIkQqKLcqpe1mNZHv0mQlTHZ2REZKnAaJRsTn+3CG0SKz1v18RUPU+N8U/Cp9pDvGOvDbT9fuOkI5HMg64O1oyJXT5CbH6IL/4otb0OuWdjmXLa7Upqq2p3DtkTRMI7M+2QcwzGsPhGhIkaOuS14knalXxzGSFMlau3RJY=;1jmzubEZNBQHqLM4qRBPJA=="
+secured: "KiDpBCGovtE9JE+0TSFJQuwspzswmcg3iMQ1RkE7hghe9k4sXSOlEUvvR/Ip5svPstpAsB5PCtTTg1JvAvfXl0ZqlHEo2ITUTy9/9eoSJekS0E9Xn7CU1yPfaQhx7Dwxou32KbXiALDRXA/1sHS/vspYwT8hB4LeJAiF/AiSQzkx4jXTvFqWhEPYD5wexzkTKJ5SfnsetsIsjH0VSih3yua6Tq6KgqxnhuOArd3UTfCJzbUGRCAzAaoGSO3dTv0bAPP1esSE98FMlpfMJmSj9cBhY86ut8R4VMfPWBU6HT0ijK3eijkbUyzKObZI1PnZyagC0mlnfdGSZwKP4SxNTXlp46lFBSmO2t8uyj0etr0=;81+eDyROd6ceVN+OxWMVZQ=="
 ---
 

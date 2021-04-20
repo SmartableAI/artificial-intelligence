@@ -2,6 +2,363 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-08-the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development.md",
+      "title": "The Negative Impact Of \"Blacklisting\" On The Future Of Domestic AI Development",
+      "excerpt": "Chinese companies that utilize and are developing important AI technologies such Huawei, Xiaomi, and TikTok, were targeted to varying degrees. The logic was that, by working through “trusted” suppliers, the U.S. would benefit from a “clean network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606e365b33a5a8a82d408f31%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1616%26cropY1%3D18%26cropY2%3D927",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/07/the-negative-impact-of-blacklisting-on-the-future-of-domestic-ai-development/amp/",
+      "publishedDateTime": "2021-04-07T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-thousands-of-us-government-agencies-using-facial-recognition-without-permission.md",
+      "title": "Thousands of US government agencies using facial recognition without permission",
+      "excerpt": "Over 1800 government bodies in the US have been using the Clearview AI facial recognition tool with little to no public oversight, in a clear violation of an individual's privacy, according to newly assembled data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "originalUrl": "https://www.techradar.com/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xFSPYWDAyGJWpbXpUuYWBK-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/thousands-of-us-government-agencies-using-facial-recognition-without-permission",
+      "publishedDateTime": "2021-04-07T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-study-suggests-that-ai-model-selection-might-introduce-bias.md",
+      "title": "Study suggests that AI model selection might introduce bias",
+      "excerpt": "Register for a free or VIP pass today. The past several years have made it clear that AI and machine learning are not a panacea when it comes to fair outcomes. Applying algorithmic solutions to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
+      "originalUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/big-data.shutterstock_350592197.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/study-suggests-that-ai-model-selection-might-introduce-bias/amp/",
+      "publishedDateTime": "2021-04-07T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-education-tech-investments-boom-in-2020-focused-on-ai-solutions.md",
+      "title": "Education tech investments boom in 2020 focused on AI solutions",
+      "excerpt": "Commentary: Investors are betting that new, AI-driven approaches to education will persist after the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
+      "originalUrl": "https://www.techrepublic.com/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/11/dd5301ff-4b8d-4721-8b3f-f5e4be250449/resize/1200x/f5499424e7abfd445db0b75ffb698889/istock-1214106787.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/education-tech-investments-boom-in-2020-focused-on-ai-solutions/",
+      "publishedDateTime": "2021-04-07T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-weaviate-is-an-open-source-search-engine-powered-by-ml-vectors-graphs-and-graphql.md",
+      "title": "Weaviate is an open-source search engine powered by ML, vectors, graphs, and GraphQL",
+      "excerpt": "A modular structure enables people to plugin their own vectorizers, too. Weaviate also works with popular machine learning frameworks such as PyTorch or TensorFlow. However, there is a catch: At this time, if you train your model, or use one provided by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
+      "originalUrl": "https://www.zdnet.com/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/fcc7e36c-88fb-43dd-a426-58da9d148fcf/weaviate.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/weaviate-an-open-source-search-engine-powered-by-machine-learning-vectors-graphs-and-graphql/",
+      "publishedDateTime": "2021-04-07T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-ai-powered-virtual-assistants-and-the-future-of-work.md",
+      "title": "AI-powered virtual assistants and the future of work",
+      "excerpt": "I was recently connected with Jim Kaskade, CEO of Conversica, a company that has spent the last 14 years perfecting its AI-based virtual assistants for enterprise marketing, sales, and customer success teams. \"Liza, can you tell me how sales are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
+      "originalUrl": "https://www.zdnet.com/article/ai-powered-virtual-assistants-and-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/07/9f87f6fa-b6b8-48b5-8f64-6d646c0f5e99/delacolcreative-artificial-intelligence2.jpg",
+          "width": 1280,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-virtual-assistants-and-future-of-work/",
+      "publishedDateTime": "2021-04-07T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-is-it-time-to-buy-the-nasdaqs-biggest-dippers.md",
+      "title": "Is It Time to Buy the Nasdaq's Biggest Dippers?",
+      "excerpt": "The Chinese tech giant is also an early mover in artificial intelligence and self-driving vehicle software, and it's said to be readying a big push in the electric vehicle space. Baidu won't be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html",
+      "originalUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/fd/0fdbaaa5-3d0c-5562-a649-df928d17e463/606e0c332880b.image.jpg",
+          "width": 700,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html",
+      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_b0e9e18a-c23c-5977-a0de-b81f5e8deef1.amp.html",
+      "publishedDateTime": "2021-04-07T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-snorkel-ais-app-development-platform-lures-35m.md",
       "title": "Snorkel AI’s app development platform lures $35M",
       "excerpt": "Register for free or grab a discounted VIP pass today. Snorkel AI, a startup developing data labeling tools aimed at enterprises , today announced that it raised $35 million in a series B round ...",
@@ -860,349 +1217,6 @@
         "name": "The Express Tribune",
         "domain": "tribune.com.pk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics.md",
-      "title": "Customer Engagement During The Pandemic: Lessons Learned In AI And Analytics",
-      "excerpt": "When it comes to understanding customer sentiment and needs, AI and analytics can be indispensable. They’re akin to the navigation system of an automobile. They can guide you to the best and shortest route to your desired destination — and that’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c7e4bfdbcdb9a01d2e4c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
-      "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
-      "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "originalUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/polopoly_fs/1.4531004.1617795508!/image/image.jpg_gen/derivatives/landscape_620/image.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "cdnAmpWebUrl": "https://www-irishtimes-com.cdn.ampproject.org/c/s/www.irishtimes.com/business/technology/co-mayo-based-machine-learning-start-up-peroptyx-raises-1-7m-1.4531005?mode=amp",
-      "publishedDateTime": "2021-04-07T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-cars-may-be-too-speculative-even-for-this-market.md",
-      "title": "Self-Driving Cars May Be Too Speculative Even for This Market",
-      "excerpt": "Autonomous driving remains an unproven technology, but trucks have a better commercial case than robotaxis as startups sound out stock investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-321568/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-cars-may-be-too-speculative-even-for-this-market-11617797642",
-      "publishedDateTime": "2021-04-07T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker.md",
-      "title": "Software Acquires Hardware: Defense AI Startup Anduril Buys Drone Maker",
-      "excerpt": "AI startup Anduril aims to bring Silicon Valley smarts to the defense industry; their acquisition of drone-maker Area-I gives a whole new set of platforms for their AI brains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d887fa8869e929c0f78ef%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/04/07/software-acquires-hardware-defense-ai-startup-anduril-buys-drone-maker/amp/",
-      "publishedDateTime": "2021-04-07T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch.md",
-      "title": "Intel and AMD chip war heats up once more with Ice Lake launch",
-      "excerpt": "Intel has unveiled its latest weapon in the fight against AMD in the data center wars with the release of its new Ice Lake chips. The new 3rd Gen Intel Xeon Scalable chips are the company's first 10nm data center processors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "originalUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ns7nbikpEgre9kGi25QHVU-480-80.jpg",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "publishedDateTime": "2021-04-07T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-sverica-capital-management-announces-strategic-investment-in-winwire-technologies.md",
-      "title": "Sverica Capital Management Announces Strategic Investment in WinWire Technologies",
-      "excerpt": "Sverica Capital Management LP (“Sverica”), a private equity investment firm, announced today that it has made a strategic investment in WinWire Technologies, Inc. (“WinWire” or the “Company”), a leading data-driven digital engineering company specializing in Microsoft Azure and other Microsoft cloud platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-investment-management-financial-services-bbfc235a56454120a031e211b7a1035e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-investment-management-financial-services-bbfc235a56454120a031e211b7a1035e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes.md",
-      "title": "Blue Dot raises $32M for AI that helps companies comply with tax codes",
-      "excerpt": "Leveraging a knowledge base as well as AI and machine learning algorithms, it looks for anomalies in evidence, supplier data, and reports, consolidating data sources and processes into a single ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes/",
-      "originalUrl": "https://venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/blue-dot-raises-32m-for-ai-that-helps-companies-comply-with-tax-codes/amp/",
-      "publishedDateTime": "2021-04-07T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

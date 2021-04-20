@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us.md",
+      "title": "Amid ethical concerns, facial recognition has gained some traction in the US",
+      "excerpt": "Identifying shoplifters and fraudsters may make sense for retail, but what about for marketing? And what about face masks?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/",
+      "originalUrl": "https://www.businesslive.co.za/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000",
+          "width": 1000,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/",
+      "publishedDateTime": "2021-04-20T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
       "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
       "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
@@ -107,7 +151,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 208,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -152,7 +196,7 @@
       "originalUrl": "https://www.freepressjournal.in/science/social-isolation-may-reduce-face-recognition-ability-study",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1343,40 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
-      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
-      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
-      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

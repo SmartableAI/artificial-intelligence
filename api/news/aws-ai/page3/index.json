@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
+      "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
+      "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/Flight-Graphicv2.jpg",
+          "width": 800,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T16:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
+      "excerpt": "and Region – Global Forecast to 2026 The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20259676/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-microsoft-google-amazon-web-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20259676",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20259676",
+      "publishedDateTime": "2021-03-19T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-niti-aayog-aws-partner-to-train-students-on-cloud-computing.md",
       "title": "Niti Aayog, AWS partner to train students on cloud computing",
       "excerpt": "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),",
@@ -1293,113 +1382,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
-      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
-      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T09:54:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
-      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
-      "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
-      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
-      "publishedDateTime": "2021-03-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

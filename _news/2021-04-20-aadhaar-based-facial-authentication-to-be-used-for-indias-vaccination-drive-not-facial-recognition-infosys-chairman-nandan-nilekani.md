@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/aadhaar-based-facial-auth
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/aadhaar-based-facial-authentication-to-be-used-for-indias-vaccination-drive-not-facial-recognition-infosys-chairman-nandan-nilekani-6792011.html/amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
-    excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."
-    publishedDateTime: 2021-04-20T08:21:00Z
-    webUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
+  - title: "Cloud, AI and data to transform India in next decade: Nilekani"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age techno."
+    publishedDateTime: 2021-04-20T13:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/articleshow/82164689.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani/amp_articleshow/82164689.cms"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 22
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-82164755/82164755.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "2JzJGW5Dd0EBEhplTVspwfsdrQcZLH/ZQ5cl7U7Y8qWmznrhoXaxthYyC6MAaq5Ai4769QVxFjgpZyFjwlt8XLYA6SRuuI6QBSjORgW6lq6KsnpYJk0fEe2f7oW1o7R5glTM7xqz4E++zrWlt139drPxik6YV09vvQMdNtJKu7jqWBFEx+ESBqtprmj393IMndyfpmB+R/paA4mZQ7AWBf6dKrGavhgdfTurXrCrcehyFKFjVyOfQooT6aOsuYqMLwuu2T9ohQFT3rF/FRJboKN0DMTaPA4NS19ZY5XvnuVGYIu0Cvsly2i+9E6RhxWvuUGi0NEmMt4nO2qgcghSRkQjrccl3Awlu0hiiqcLaxsdtuZAxUDLBUXL3a3/W6HH8qrWwWhvR091vvTKg2QKzqBJB5uVjnSP69GoUmCnxWwBtrSx5odk8h4kNZkMPZhPz0wjiw045oHGHJv+oAURand4Ndylx3JIju8ZWDSbHF8XXrI0sFlOU5OkZQEWbk6VvI/m7a9dywvOdBu/3oX3Lg==;c9XYG8jprJh95phCXyRozg=="
 ---

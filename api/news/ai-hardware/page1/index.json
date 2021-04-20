@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
+      "title": "Xilinx launches Kria chips to handle AI for edge applications",
+      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "publishedDateTime": "2021-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo.md",
       "title": "Nvidia GeForce RTX 3050 and 3050 Ti laptop GPU specifications revealed by Lenovo",
       "excerpt": "Despite not being officially announced by Nvidia yet, the long-rumored GeForce RTX 3050 Ti and RTX 3050 mobile graphics cards have had their respective specifications leaked by Chinese PC manufacturer Lenovo.",
@@ -552,11 +605,11 @@
       "title": "AI chip maker SambaNova raises $676 million, valued at over $5 billion",
       "excerpt": "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/semiconductors-sambanova-funding/ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion-idUSKBN2C01MU?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/semiconductors-sambanova-funding/ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion-idUSKBN2C01MU?edition-redirect=in",
+      "webUrl": "https://www.reuters.com/article/us-semiconductors-sambanova-funding-idUKKBN2C01MU",
+      "originalUrl": "https://www.reuters.com/article/us-semiconductors-sambanova-funding-idUKKBN2C01MU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -570,8 +623,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C01MU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C01MU",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2C01MU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2C01MU",
       "publishedDateTime": "2021-04-13T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -901,6 +954,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-inspur-information-introduces-three-ai-servers-among-first-to-support-nvidia-a30-and-nvidia-a10-gpus.md",
+      "title": "Inspur Information Introduces Three AI Servers, Among First to Support NVIDIA A30 and NVIDIA A10 GPUs",
+      "excerpt": "At NVIDIA GTC 2021, Inspur Information, a leading IT infrastructure solutions provider, introduced three new GPU servers (NF5468M6, NF5468A5 and NF5280M6), which fully support the latest NVIDIA ® A30,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-e9d76ddf3e064f7c88d7177bd34d7e05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1407,110 +1503,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-op-ed-using-ai-to-help-solve-todays-semiconductor-problems.md",
-      "title": "Op-ed: Using AI to help solve today's semiconductor problems",
-      "excerpt": "The chip technologies that exist today make it possible for cars ... more efficiently through the utilization of intelligent control that is possible with AI. This will allow for older machines to make chips in ways they were not originally designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106862811-16172891392021-04-01t014455z_1800782907_rc2pmm9drooi_rtrmadp_0_usa-semiconductors.jpeg?v=1617289180",
-          "width": 3500,
-          "height": 2505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/07/op-ed-ai-can-help-solve-todays-semiconductor-problems-.html",
-      "publishedDateTime": "2021-04-07T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch.md",
-      "title": "Intel and AMD chip war heats up once more with Ice Lake launch",
-      "excerpt": "Intel has unveiled its latest weapon in the fight against AMD in the data center wars with the release of its new Ice Lake chips. The new 3rd Gen Intel Xeon Scalable chips are the company's first 10nm data center processors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "originalUrl": "https://www.techradar.com/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ns7nbikpEgre9kGi25QHVU-480-80.jpg",
-          "width": 480,
-          "height": 269,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/intel-and-amd-chip-war-heats-up-once-more-with-ice-lake-launch",
-      "publishedDateTime": "2021-04-07T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

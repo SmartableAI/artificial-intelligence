@@ -71,22 +71,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
-    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
-    publishedDateTime: 2021-04-15T19:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
     excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
     publishedDateTime: 2021-04-16T04:36:00Z

@@ -2,6 +2,354 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-03-03-ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards.md",
+      "title": "IBM and the Recording Academy® Debut New Fan Experience powered by Watson and IBM Cloud, Ahead of the 63rd Annual GRAMMY Awards®",
+      "excerpt": "\"These are the same core technologies – hybrid cloud and AI – that we're using to drive digital transformation for clients around the world.\" In addition to GRAMMY Debates with Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1447324/GRAMMY_Debates_with_Watson_interface.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-ai-commission-immigrants-key-to-americas-tech-competitiveness.md",
+      "title": "AI Commission: Immigrants Key To America’s Tech Competitiveness",
+      "excerpt": "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
+      "originalUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603ef7879dd35452a831675b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3374%26cropY1%3D74%26cropY2%3D1972",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
+      "publishedDateTime": "2021-03-02T21:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-elon-musk-tesla-aims-to-release-new-version-of-full-self-driving-beta-next-month-with-wider-access.md",
+      "title": "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access",
+      "excerpt": "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
+      "originalUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
+      "publishedDateTime": "2021-03-02T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
+      "title": "Dooly raises $20 million to organize sales information with AI",
+      "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/og-image-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/",
+      "publishedDateTime": "2021-03-02T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-robotics-division-of-ubers-postmates-spins-out-into-new-company.md",
+      "title": "Robotics division of Uber's Postmates spins out into new company",
+      "excerpt": "The robotics unit of Postmates, a delivery startup that ride-hailing firm Uber Technologies acquired last year, has spun off into a new company called Serve Robotics, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "originalUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "publishedDateTime": "2021-03-02T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025",
+      "excerpt": "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger.md",
+      "title": "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger",
+      "excerpt": "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-from-perceptrons-to-deep-learning.md",
       "title": "From perceptrons to deep learning",
       "excerpt": "Have you ever wondered if it's possible to learn all there is to know about machine learning and deep learning from a book? Machine Learning--A Journey to Deep Learning, with Exercises and Answers ...",
@@ -863,353 +1211,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles.md",
-      "title": "Motional Selects Ambarella CVflow® AI Vision Processors for its Driverless Vehicles",
-      "excerpt": "Ambarella, Inc. (Nasdaq: AMBA), an AI vision silicon company, today announced that Motional, a global leader in driverless technology, has",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
-      "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
-      "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
-      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-cloud-application-programming-interface-market.md",
-      "title": "Cloud Application Programming Interface Market",
-      "excerpt": "Global Business News: TIBCO (June 02, 2021) - TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers - TIBCO Software Inc., a global leader in enterprise data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2251071/cloud-application-programming-interface-market-investment",
-      "originalUrl": "https://www.openpr.com/news/2251071/cloud-application-programming-interface-market-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U302609526_g.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2251071/cloud-application-programming-interface-market-investment",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251071/cloud-application-programming-interface-market-investment",
-      "publishedDateTime": "2021-03-02T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-cisco-webex-aims-to-help-you-break-through-the-language-barrier.md",
-      "title": "Cisco Webex aims to help you break through the language barrier",
-      "excerpt": "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "originalUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YxvvNThwqyZZZAbYACwvgB-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "publishedDateTime": "2021-03-02T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
-      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
-      "excerpt": "The overall goal of the new platform is to give customers an end-to-end system from hardware to AI. Microsoft unveiled Azure Percept and a dev kit at Ignite. Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "publishedDateTime": "2021-03-02T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-researchers-show-ai-chip-with-reduced-precision-training.md",
-      "title": "Researchers show AI chip with reduced precision training",
-      "excerpt": "At ISSCC, IBM Research presented a test chip which represents the hardware manifestation of its years of work on low-precision AI training and inference",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
-      "originalUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210312123321IBM-Brings-8-Bit-AI-Training-to-_4_w800_h814.jpg",
-          "width": 800,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

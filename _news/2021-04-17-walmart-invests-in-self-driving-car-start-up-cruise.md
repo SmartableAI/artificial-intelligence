@@ -71,22 +71,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
-    excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
-    publishedDateTime: 2021-04-15T19:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/economy/walmart-invests-in-a-self-driving-technology-company-as-it-pushes-for-improved-home-delivery/2021/04/15/93c0582e-9ddb-11eb-b7a8-014b14aeb9e4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 33
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Huawei to invest in electric cars and self-driving tech"
     excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
     publishedDateTime: 2021-04-16T11:00:00Z

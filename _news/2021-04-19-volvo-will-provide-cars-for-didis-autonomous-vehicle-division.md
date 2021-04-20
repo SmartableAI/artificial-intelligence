@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Volvo to build self-driving fleet with Chinese startup"
+    excerpt: "Volvo Cars will provide vehicles for Chinese autonomous driving startup DiDi’s self-driving platform to create a fleet of automated cars for the domestic market. Volvo will provide DiDi with XC90 cars equipped with backup systems for functions such as steering and braking that will be equipped with DiDi’s autonomous driving technology that will integrate software and hardware required for full self-driving capabilities."
+    publishedDateTime: 2021-04-20T12:46:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16614/volvo-to-build-self-driving-fleet-with-chinese-startup"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "4rGu6yGydwoCkVYmb6DqIgM6KwOmgubDZaQD0jA6g5ThGMQ2NdriqLpIASjLO6beKeAOjHfemIAi3R5t3Nmk1fLKvyS3UXp+6ACPDjdwUuA4wjT5mc3wHhGSszt3wxVgwu5mg11gC1kuLuP8SAufQwFimnPIPFPdi3xmVMg21ONzVY1DDLEavaWbsE4RLLIkqhdgwxcG8oaZhJdo+/M6PdSXTvKs8+pflm2D9QrihkLMgiUWHFN5FJt+vKvY5Q/o4XYazEJGxnpX7OQ5bVC34xg0LFSr86jHZRPgcnmnHrMcCuPJiOfLMT+u1lVKIYFivS4RupTNgND6rZZ6XugWIqrIROHvVIlp7D/nzxmDknCw/EJm0127fd+9lHPHNcyqDvPl7KKZHFC7U9tmO1CaEcOKVr/EbtuJ70inx/Sv0ogcpQ4nuQF8x/AQuDu/QhD4JoMiyvS2Azs5H1ADrNJQn2zckTYtdYNZGqGM1Rj6qxMnD839NIpLfqSGwKJ1Rf//iIBA6DBUNm3eHlSf9dJZvQ==;km3ZQr4MXUelwfrcVJ/vJg=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "U.S. banks deploy AI to monitor customers, workers amid tech backlash"
-excerpt: "Widespread deployment of such visual AI tools in the heavily regulated banking sector would be a significant step toward their becoming mainstream in corporate America."
-publishedDateTime: 2021-04-20T06:17:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
+title: "US banks deploy AI to monitor customers, workers amid tech backlash"
+excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
+publishedDateTime: 2021-04-19T18:56:00Z
+originalUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
+webUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
+ampWebUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.thehindu.com/sci-tech/technology/lr325v/article34364763.ece/ALTERNATES/LANDSCAPE_615/us-banks-aijpg"
-    width: 615
-    height: 384
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GDQsqS9JdxT/nDpJ4YpMzCjBZI34FuFKhWwykbm8yj0HlbX9sQF/0lQ4UDdeV5v/MlAx79A3Jhwn3IlsWQEp446Y7W45b4+bvopcrhWEzFPbjm4QdCdwaz9wDVDGrpYtstsOiwIBa7tK11v6SHjRboYJp+qPz8195U+UqYq+2BCVLOqFqCJlBQ9xz9qwJzBm7zlUmZ9VKv61QYMHP62JfYeDnWxA/OPU1oliWs2Bh+2sTxjpBRIPt0hsUFOhmbOZqMdIfSdFHkz9EwVIaLT38Ax1MiEJfbNZRZ8h9DEReKG0eCK2g95IbvYxGZQKpuYFU+Anl8OwkOHxixsolJgib1J7EqFdSNXAhZkdZP0QcANodpOaeNNQHScXThTJ/Bqa0pWYqBRJXqwgeUNupA3y+sbCfV49/srmMP6bNhP8g80lax4yl5kT4sZ8KRUeoY8qpOfAox2IXmKijZMirS9kjF20O5xmPVyWdfS6LII4nsMXnEjh/2XFaGTw6N2IetUGjGdS9stI869tOwuG32iqtQ==;j1tQ1J3pHiH4Fq9evYQl8A=="
+secured: "OMTVx/wZNN1UXWe0jhsjA8ryaVocRPsPAq9Sg2nfa9gJWSg91AF7fb/5tNO+b10eCfFjlXBI1EiGr++0QYpWd9ycoPQZgFm4OWnId3n7EThwyJeLrYZXI5bO8hRzmRj4tGO+l/9vqnyPTiVqM4Ad0Uyj068jgkbFgoj/G3dwTPaSRG6eorAGbH0dCaGMQrm3unyDZ8xAFSoRyRRqn3bYSe3Cn7Y82T9sTc8X3y6o1OMWeekK5lPrsKNjHtQ4pHQAV36HMCgpYtVxmRVz2ZqQcpDscerRR3l/CZGy/em/hZkupJzEZMNnI6tDFw7JMphuX9pZ9swt+ZJHhkK1frlWBhrC9bI9nnPpVJpwxw4xPTA=;PRpdCmgHYfFz6+1RCJEMsQ=="
 ---
 

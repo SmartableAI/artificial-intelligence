@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
+      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
       "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
       "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
@@ -1312,51 +1346,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI",
         "Computer Vision"
       ]

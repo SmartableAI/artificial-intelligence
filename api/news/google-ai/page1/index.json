@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
+      "title": "Xilinx launches Kria chips to handle AI for edge applications",
+      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "publishedDateTime": "2021-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-python-is-devouring-data-science.md",
       "title": "Python is devouring data science",
       "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
@@ -1437,49 +1490,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-of-industry-partnerships.md",
-      "title": "Broad Institute launches $300M Schmidt Center to merge AI, biology and a slew of industry partnerships",
-      "excerpt": "DeepMind, Google Research and Microsoft. “Learning the programs of life will require new and collaborative approaches to creating data platforms, analytical tools and biotechnologies,” Philippakis said. “By bringing them together, we can nucleate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1616769970/Broad08-017.png/Broad08-017.png?whguB914xejZxPvx93rU79qUiLEAa93q",
-          "width": 2210,
-          "height": 1244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

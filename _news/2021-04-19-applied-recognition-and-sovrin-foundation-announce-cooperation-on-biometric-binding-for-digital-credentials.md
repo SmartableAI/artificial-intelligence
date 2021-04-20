@@ -21,21 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "MEPs call for European AI rules to ban biometric surveillance in public"
-    excerpt: "A cross-party group of 40 MEPs in the European parliament has called on the Commission to strengthen an incoming legislative proposal on artificial intelligence to include an outright ban on the use of facial recognition and other forms of biometric surveillance in public places."
-    publishedDateTime: 2021-04-15T20:12:00Z
-    webUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/"
-    ampWebUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
+  - title: "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification"
+    excerpt: "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them."
+    publishedDateTime: 2021-04-16T08:00:00Z
+    webUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/"
+    ampWebUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "How Stash Is Tapping Machine Learning, Behavioral Biometrics For Robust, Digital-First Identity Verification"
+    excerpt: "In an interview, Caleb Callahan, VP of fraud at personal finance app Stash, discusses the use of machine learning for digital-first identity verification."
+    publishedDateTime: 2021-04-19T13:00:00Z
+    webUrl: "https://www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/"
+    ampWebUrl: "https://www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-machine-learning-behavioral-biometrics-identity-verification/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/stasfs0421-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
 
 secured: "E7fGzPHbpsKuHQDj6OqMz++p41PuPe7urFFeo1YzWaXyJ5gGUNiXbXLJBRZw9lptjpBQR82xsLl9/DXt/Usx12aAMGyvAcEYI+jLzcxtbynMk5ixGAMneKukJrpS4USv700fM09nOMl1IW3FqyF54pneBygA5xRMFIMz4guyL4VL511f09gJVqOQ/OUkkFiBaZSux8oOZrnmBj3JcOXOVvqUDTMDWi8lfmPyu3oo+rlMLq34LcwXRlLiWsgxEaWTseWd4PVc0lKKe/CuoK0lkXUFrR7dVj2XoU5nAbnpmNukEhlJPJHb5LeQof8jVIH2twS8uRe0auKvAJhlLMpWxoZPw+NJZ/jVOR2XzWsQrJg=;ie3H1Uuw7yJIzZkErBnapg=="

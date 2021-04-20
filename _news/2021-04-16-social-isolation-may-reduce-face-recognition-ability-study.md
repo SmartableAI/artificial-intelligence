@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-r
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
 type: article
 quality: 59
-heat: 109
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Mahopac’s Music Education Program Receives National Recognition"
     excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
     publishedDateTime: 2021-04-19T23:17:00Z
@@ -57,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "State surveillance body cautions over police facial recognition technology"
-    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
-    publishedDateTime: 2021-04-15T22:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
     excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
     publishedDateTime: 2021-04-20T02:00:00Z
@@ -84,20 +54,6 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
         width: 600
         height: 497
-        isCached: true
-  - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
-    excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
-    publishedDateTime: 2021-04-20T11:45:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 30
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg"
-        width: 2560
-        height: 1701
         isCached: true
 
 secured: "161Ig4jIFMvGQ6eQfYejRmXdX8JVgKP64spWwSUBp+7gsL78S8e08+nLuf/w5kkJjWt1yTKR7zp5apPeaNmMtjoaLNEsUo24vN1tDKuRiG9KZXHUdWzl5k8sOpbY6o7RC62jpngnVjvznpE62BEpkSTJaWgxDk/ycUWMyXhVZyTpNAU3ruOowlGXu2KYud/E4mbBaFDxHtUWp+mcuaX8QqA8FPTwphEZ/eLn0KdnP02DACJ/i2a3ZiJRp331UjRIgantqorkLPC+IhlO0IFu6eRVH7P/A67/SIUY0K498TuHH1CioAzpfaU1adRlml2NzNwfa1mp4t8LqOrn9siI1XWUN8iag3nC8ivkLmNHQAg=;SjKx2TS41he3qqRXQCV16Q=="

@@ -91,21 +91,21 @@ related:
         width: 859
         height: 545
         isCached: true
-  - title: "U.S. banks deploy AI to monitor customers, workers amid tech backlash"
-    excerpt: "Widespread deployment of such visual AI tools in the heavily regulated banking sector would be a significant step toward their becoming mainstream in corporate America."
-    publishedDateTime: 2021-04-20T06:17:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
+  - title: "US banks deploy AI to monitor customers, workers amid tech backlash"
+    excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
+    publishedDateTime: 2021-04-19T18:56:00Z
+    webUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
+    ampWebUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: New York Post
+      domain: nypost.com
     quality: 59
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/lr325v/article34364763.ece/ALTERNATES/LANDSCAPE_615/us-banks-aijpg"
-        width: 615
-        height: 384
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "US banks deploy AI to monitor customers, workers"
     excerpt: "Several US banks have started deploying camera software that can analyse customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"

@@ -48,6 +48,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Military bots could become teammates with real-time conversational AI"
+    excerpt: "Researchers from the US Army Research Laboratory and their collaborators have developed a flexible approach for autonomous systems to interpret and respond to ‘Soldier intent’, derived from spoken dialogue."
+    publishedDateTime: 2021-04-20T13:06:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/04/military-bots-could-become-teammates-with-real-time-conversational-ai/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/15599/army-robots.jpg?crop=0,0.0029184907233687726,0,0.50458619970815088&cropmode=percentage&width=1200&height=450&rnd=132633953840000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "kNm8x5xWrEh1wt5mwwspCMEKtoxalM9O899HVHPFs9A55yxcZE9uc/G8Y+K78QKcaVEMxgvAGWP8+i1FlWOPs1lBljH0rGxoV+tLV02caE77SwgkvvcNn+UN0a0XHlMavSvzv2nt2txjI1NBVUKv4iI4jYC8b1KyHvckH68rVpDcrlRF7SkmAW8jPbpdkjsV7GSadP8osofoSvX7HnfH/85/R+0nBN4qqsHYLtMuY3Ow9VYEngpRFjYuCV95mfW8rXVVHJQkaM9R/QpLMBF6MbS25YHuWDfCxgmS1Zo2CYObwLI7pHO1EqU8tn2iLyZJvZKL+dA7xm/WFwl1UKACsvUshxMrvGyTWWi6vBK6i2N1Scp/3k6HvcnO7ogPLfTfu75Y9xoPwD4u4eob9AKX40BI8x4Lf7+vko7Pf1rmQIH4urRp7XHRWpS7Skty9j7CwqTrRGGNhmg+fCPYAcC99/XJ567TVBcaX5u8v8yH5y6gziGnsG05j7E6GRufdT+MwyQ7XxBhPkGsafVBGvD21Q==;n6fgQKV33nkv8zKbhj0pBA=="
 ---

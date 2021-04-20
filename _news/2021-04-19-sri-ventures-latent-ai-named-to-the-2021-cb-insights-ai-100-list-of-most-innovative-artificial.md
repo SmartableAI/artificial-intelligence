@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-computi
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-computing-and-information-technology-artificial-intelligence-3ba9a8287097498d13b82698ba4f32ca"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Clari Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "Clari, the revenue operations leader, announced today that CB Insights has named the company to the fifth annual AI 100: The"
+    publishedDateTime: 2021-04-20T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/clari-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-301272494.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "Pe25pJPKX/KBtFjC1SJe1NfcZvY1KVb8+qKQ0+UCj6h7TaintI2YNHhrk7jdQZfc2mBrCk4hTzn/BoM9McMr/uCA3MRESMkQqwC8PJpKfEgZvWiftFPrUaXnKQw20ESTJVDL60i3aym2mnvvc54AoEfbNjMcAux7cAyFNe3a0AWszZdLsyt81mEEUMBQPHyQ3nl9OW4kkbBOiL7anAy+GG/MBqqcilKaRCNuZ3xdZXPH0bWCGgiZ5BD9quyZyureHvSDPNQwnY3SdbCzqixQNGVmo3J7VXA20U/80F1e4oB2cQeYDxxl6zcsPVK8DVn1Mmnrx7Mwpa8eaYMs8gOKEGG1jDsVk6vUHKha+Ji1Ri4=;tgygsAUGpfNbvn8hN76QWQ=="
 ---

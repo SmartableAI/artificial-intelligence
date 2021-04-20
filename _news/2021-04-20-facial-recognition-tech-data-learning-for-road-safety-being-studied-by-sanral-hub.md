@@ -2,24 +2,23 @@
 category: news
 title: "Facial recognition tech, data learning for road safety being studied by Sanral hub"
 excerpt: "\"The intention is not to observe individuals, but rather to identify trends and incidents to inform appropriate response and interventions,\" Sanral says."
-publishedDateTime: 2021-04-20T08:40:00Z
-originalUrl: "https://www.sowetanlive.co.za/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-webUrl: "https://www.sowetanlive.co.za/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-ampWebUrl: "https://www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-cdnAmpWebUrl: "https://www-sowetanlive-co-za.cdn.ampproject.org/c/s/www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+publishedDateTime: 2021-04-20T12:54:00Z
+originalUrl: "https://www.heraldlive.co.za/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+webUrl: "https://www.heraldlive.co.za/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+ampWebUrl: "https://www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+cdnAmpWebUrl: "https://www-heraldlive-co-za.cdn.ampproject.org/c/s/www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
 type: article
-quality: 55
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Sowetan LIVE
-  domain: sowetanlive.co.za
+  name: heraldlive.co.za
+  domain: heraldlive.co.za
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://lh3.googleusercontent.com/qRA-IUE4u7tQG5g9h2fURzTarh4UXMMNnlGnWML8mpIyhYds7DylaPOeVeSFCSpPvm8FIxRJ5bZ0zJSydU4y5W2H8g=s1000"
@@ -56,6 +55,6 @@ related:
       domain: businesstech.co.za
     quality: 43
 
-secured: "ng3NtDdJQkCLiHyWiA/09/QoSoLpzWBO38VcBxC+RFJxviFJElV2HpEHcXuKqxn05Aqv+gPWsWU0lSg0TRufpuaGnJcOvCouQrmAk6EFuqyZwZ3YkTHm6T2qc7ijKLiHbcLFnKgAjBigvltGXRzz4sp/AXK5wvofkEKdEt/28+A5qG7N5o/rSPnop4QQFyfnCCv665ireg6QBMPRYxlK929BH2HgI+YRephr1d7QbYOF8oklXCYiAvSY0alozIUzQVfYLtEPY/6ACtWpeNqcOG1rLYH3ofCupgbuNfMjRjQITCZI0LL9RijHUWdmp+xF/TdfQY0zsw8KvA1etZ3NPdjLINC/It0gG68DkJIa17E=;7n9mM1yvZRG5+clEjj/kZQ=="
+secured: "XQzbaATX+EJoFPIHuiiWApSPxo4kbfmOe96HMMIhzbphe+nvWJ0LdT2DhZA47oRgr7PC660Q66XyJw/tbEem6do0j+J/R8+0qBvVJBefFswyPJWYRyo8nai7SUNGKaQfTTlSdAZ5+rW5gJNfId0wSlIBm9Fvm+9mIXxBie+ZEbABlocjcK0YHJeIKdd3kjAJA9/WekxTijOAKHWSOia1dpTy+RuR5G4VAEAtPFmAtwtpYECYAq06RjwL9btYLvSxU4PTn7ew7ByHsNsX1fEfzlOZ7/n/SSpg0grHF97twoAVDeYJH3no00VwhKaA/XmVUmaSXn7Sk3hgea3gscuVs5pjELlsskY+n+VmLjaD/FU=;N5H5jAxnS7srcBLzyq7Dsg=="
 ---
 
