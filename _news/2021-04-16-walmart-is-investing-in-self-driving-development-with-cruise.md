@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-annou
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
 type: article
 quality: 74
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Walmart invests in GM’s self-driving car company, Cruise"
-    excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."
-    publishedDateTime: 2021-04-15T17:01:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/15/walmart-invests-in-gms-self-driving-car-company-cruise/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 24
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
     excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
     publishedDateTime: 2021-04-16T04:36:00Z
@@ -171,20 +157,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
         width: 920
         height: 600
-        isCached: true
-  - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
-    excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
-    publishedDateTime: 2021-04-15T15:57:00Z
-    webUrl: "https://retailanalysis.igd.com/news/news-article/t/walmart-shows-commitment-to-self-driving-vehicles-with-cruise-investment/i/27995"
-    type: article
-    provider:
-      name: IGD
-      domain: igd.com
-    quality: 23
-    images:
-      - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
-        width: 1500
-        height: 844
         isCached: true
   - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
     excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"

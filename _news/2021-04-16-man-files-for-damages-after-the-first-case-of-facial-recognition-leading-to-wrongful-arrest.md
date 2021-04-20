@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-th
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: IFLScience
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
-    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
-    publishedDateTime: 2021-04-15T15:33:00Z
-    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 30
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
     excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
     publishedDateTime: 2021-04-16T22:54:00Z

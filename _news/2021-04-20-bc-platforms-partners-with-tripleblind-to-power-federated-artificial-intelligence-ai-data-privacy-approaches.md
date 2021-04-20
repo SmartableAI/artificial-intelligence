@@ -1,29 +1,26 @@
 ---
 category: news
 title: "BC Platforms Partners with TripleBlind to Power Federated Artificial Intelligence (AI) Data Privacy Approaches"
-excerpt: "BC Platforms (BCP), a global leader in healthcare data management, analytics and access, announced a new strategic partnership with"
-publishedDateTime: 2021-04-20T06:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-301271661.html"
-webUrl: "https://www.prnewswire.com/news-releases/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-301271661.html"
+excerpt: "BC Platforms (BCP), a global leader in healthcare data management, analytics and access, announced a new strategic partnership with US-based company TripleBlind to help drive the development of privacy and intellectual property rights (IPR) preserving \"federated AI\" for its BCRQUEST."
+publishedDateTime: 2021-04-20T08:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-1030321153"
+webUrl: "https://markets.businessinsider.com/news/stocks/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-1030321153"
 type: article
-quality: 34
-heat: 34
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "TtJJW9f5rOMchrCSMC5jBDQjRsR1Ldn461cjq7rmEbSTKvV63v3ZRFjYMbX8hFamtWcqrFPMRQmyEV+JI+E65CUrR2w6zQY6mQVmc3606mDPwUnfaELkLWYpn2UZhvMaBs9wxKfKIs6GdTYQTFdweYwblmtw6gDGb7UpWeVzZ7DmfzEUzWV3HdOlmdglEL33ts8EevCfKjNeU51m+bUG/xxkAOMqN65YfTONr3r7xd7qu5AG5F73W5+9geSA5eeq81xUmv2nlRe/g4GFdnURNDm4XyyGMhYGcFVO8zxutTuwd2rWCoi1SIwavfosNVW20m7RNqVMO3tdsPtTKN9hhzB7t9s6KAE8/ausTN4ISQU=;4cuOdtz8AeR5K3Ebq1gLRA=="
+secured: "aWqKl41bCBApGwrx08eaMHdxaeCxzQB6q4WO8NTbKe9XUDSuBRr1Pl9B/fPc1UfQPB2Gbv+66H8C6yBGU3o+OpQ6+6eFvgaCUe24BzHRQwomOY/qesVP0o5FygySJ6cgeKYcM3xRP8c87FuNHei07i6DxP6VHmTCO/1CySWLQm0B+Wdb0vJXAda8GFmhB+3QY3ceDct/bwMmEPJYpcYwn18EXXJ4QuufO4Zq+8js3T+3NydOSG97sB8hp28mE219B1fnkWr/BYBCupk3yUfredTydsy0wzaD08/GbbYfrR4SEWmyyPOufg/pcBqd2KYQAZ9r1mKzO4zVrFCS0d4DCNBn0SCMoQafeA77HbI4ds0=;hBi9fd7iF4kxGNeD7S8Ykg=="
 ---
 

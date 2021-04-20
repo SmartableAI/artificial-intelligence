@@ -140,20 +140,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Walmart invests in GM’s self-driving car company, Cruise"
-    excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."
-    publishedDateTime: 2021-04-15T17:01:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/15/walmart-invests-in-gms-self-driving-car-company-cruise/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 24
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
     excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
     publishedDateTime: 2021-04-16T04:36:00Z
@@ -181,20 +167,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
         width: 920
         height: 600
-        isCached: true
-  - title: "Walmart shows commitment to self-driving vehicles with Cruise investment"
-    excerpt: "Walmart has participated in the latest funding round for Cruise, a self-driving, electric vehicle startup. Builds on existing relationship. Walmart initially partnered with Cruise"
-    publishedDateTime: 2021-04-15T15:57:00Z
-    webUrl: "https://retailanalysis.igd.com/news/news-article/t/walmart-shows-commitment-to-self-driving-vehicles-with-cruise-investment/i/27995"
-    type: article
-    provider:
-      name: IGD
-      domain: igd.com
-    quality: 23
-    images:
-      - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
-        width: 1500
-        height: 844
         isCached: true
 
 secured: "CedCzaNwmsR2XWHaAWXpooBsWs2QVwaFptEUYxiN4YGCAZjH+GWNkiUEQqaDvGJUYNuUVmfpYDlV4dSpMbyBcDhKZO8oH3jbUhez7VnsWLo43S99/OP6fnDvdPQjwobLZpOFO78trHtRs3NzogdNfjcmYrBUWiUCa57yCvbvzMP5DvZjlGSPTJUtNDu9PJ1tvpplfnen2rp7QfGNMIZ8vqCrGEMBFsyUqOETwGppEE3X/44rdtDUY6vX1cG17wChaeg5Pxdd4R9UnmhecBArpgfo6MUTh/iNzulcfarVisM1F9P/K6UfF1IDPeNipqygXxPXp1vgsn8U63M+5oetkRbz655tPiDBrp3d6X0Oq/M=;GqH0nNa0Z1wN1LnjTiwWIA=="

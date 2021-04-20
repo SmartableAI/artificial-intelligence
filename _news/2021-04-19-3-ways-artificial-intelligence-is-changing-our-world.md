@@ -39,20 +39,6 @@ related:
         width: 1620
         height: 1081
         isCached: true
-  - title: "Placer.ai Launches Marketplace to Bring Leading Data Tools Together"
-    excerpt: "The marketplace will enable data analytics providers to layer new datasets and perspectives on top of Placer.ai’s dashboard enabling immediate access to leaders in CRE, Retail, Hospitality, investments,"
-    publishedDateTime: 2021-04-15T15:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-data-management-a4f5f00f89c1e4f2daeffbd509d0582d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "jHCUsK/O5qC30sAaOaS/6ek3IA67H2qSzolvs3IN7mv6u2XTbADEis32A6b7RrUwmcmWRIdXeKZn7sMe0r3r+fD2uVij61a38pHybzz1Z3uuRVFHQBMbQDEndmpTu6eVZPGq+kV6HTsIWY4ESYyRbMlNK7InwvesIuDw6R6xTE2ILNmRMMdxVJtVykVCGff1MovNzYaodg20ZNmGebE6tCjGr7N3+UYDCWJFPTxCLlFN0Dv66nsuCWxZsbVa3Jidl+FUXhdW4g7wIq07AOVyFICJ9aEq1/iMz64htm0+L4MktIC8+FcbVIUycmaUl85RvZR+Wwe6KNLV7jiuiN2fvv2VusDaVh9T3W44amuemlY=;ONZoScoQU8zlNC7jInFUQw=="
 ---

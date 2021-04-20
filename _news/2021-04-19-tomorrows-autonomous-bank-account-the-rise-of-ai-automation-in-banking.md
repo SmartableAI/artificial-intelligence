@@ -9,7 +9,7 @@ ampWebUrl: "https://dynamicbusiness.com.au/topics/finance/banking-future-technol
 cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp"
 type: article
 quality: 72
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Autonomous vehicles driving AI chip innovation"
+    excerpt: "Why is autonomous driving so difficult from a tech perspective? Autonomous vehicles require processing massive data captured by the sensors (camera, LiDAR, Radar, and Ultrasound). And it has to provide real-time feedback,"
+    publishedDateTime: 2021-04-19T12:48:00Z
+    webUrl: "https://www.ept.ca/features/autonomous-vehicles-driving-ai-chip-innovation/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 56
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/04/Autonomous-Picture1.png"
+        width: 975
+        height: 510
         isCached: true
 
 secured: "7+92njrhGxaK6AhNCubS7v3CXwcjA7zUFfgBu+xzZ8txYlKepEbofdI7sG92jZgCYRBbSbKO7Yai1pzApeTJgb6a0CJMwTdXwtqCAhI5MGToF9WBzk3MUIfyk77mRQQM/nj+sduRDTOvjoOkmaC9S6no2nXnbkrr/Qrit7RCLAgEMfS6b3d4fvUEdReVw7mPTM6dVYqsdXCLeoBMROawzjE/oNfejEmjRkbYF+C23+xtPxjKA3pmylpd2ZEjwWG+DjtodttSJlSmJ//RH7Vygr6BH6EMp1NpfMtUreLuWWcneb026xedGZLVRohyQhHvQkh9YyQgqxmHdeWjHlvAOO1xSozs1Ypy9UiMnWvUA2nroHelm9sWwvAQdHAUwvlBLhar6YZjDYIqYvDzAQjfJDOFSzDleOhrtvXEF+kQH6UNvHUFE6FASWt65ooYCkkNGYSOkRxdETuIhU42K9odK94O/HYZaz8RIqN+KSdUA2VJcmFa5J8LOUjJGwI3NWRsxUmpT3T3ecK8GIu6cvkJIw==;fdKMLRcFV8ShfoErxmsGgg=="

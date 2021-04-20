@@ -59,32 +59,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Using Bountiful Blurring To Keep Self-Driving Cars From Telling All"
-    excerpt: "Self-driving cars will be capturing video of everything they encounter, raising privacy qualms, of which using blurring might be a helpful remedy."
-    publishedDateTime: 2021-04-15T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/15/using-bountiful-blurring-to-keep-self-driving-cars-from-telling-all/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6056c1beb5fdb34205f9a91e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D617%26cropY1%3D14%26cropY2%3D361"
-        width: 617
-        height: 347
-        isCached: true
   - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
     excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
     publishedDateTime: 2021-04-19T20:19:00Z
-    webUrl: "https://www.wcvb.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    ampWebUrl: "https://www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    webUrl: "https://www.wbaltv.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: WBALTV11
+      domain: wbaltv.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"

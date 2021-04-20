@@ -35,20 +35,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "A man in Detroit is suing the police after incorrect facial recognition led to his arrest"
-    excerpt: "It’s no secret that facial recognition has plenty of issues, so using it as a basis for an arrest should only be used to bolster other evidence. Well, that’s not what happened in Detroit, after a Black man was wrongfully arrested for a crime."
-    publishedDateTime: 2021-04-15T15:33:00Z
-    webUrl: "https://knowtechie.com/a-man-in-detroit-is-suing-the-police-after-incorrect-facial-recognition-led-to-his-arrest/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 30
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/06/facial-recognition-racial-bias-amazon-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "XVu/A2H4G21ZZNlcVK8j2W/WP+A1IpUXtGUrEhE5XnCK1mDjgM56Dv4+P/5p8F61Jew75YXd5WR/vkGYhf1z5lXM08zBZ4yVY6wGX4pwPPLjRNxOvPWJwNmq7RfWz+mlq/y/1iNe+xBXi9IfQ1IDhn+QWn0JZbcoRz4BPTUvEAbEDHeODnuW6hpRKnkf9rr8t4oX/AJ92piuSXDEnFtZm+moshsZQpEEFaDpGLRHBNJWmO8ziMbe48L24N/FqVL5NsxbrSxcPoe+SaI/pxYd0VSlvi8VOOK1Lgwb1FwIJOihqXrJBWEbWNHvOLIotbaYcbGF901MxSgSRCBJyC8HutXeGKEhEJCiedzAyz31oTMr1Ft6qR3ymgAXJkkTi0pWScGa+3W1IZHdDZvTJPQK5L5BwFkrbU1qGXozIrZ2nZHKnD7YoZefs4EtZQNsyrml2gQnwZ9B7ixKrcMCd8OJJ8gHntM+tniNvz0yVf3RD84wbT8SfvAhYEQZSPPHAbXZ2rhDDBB8kj586Wy46EtA+Q==;8aN6oyvYdy/Mze5moZl2OA=="
 ---
