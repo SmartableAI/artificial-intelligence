@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Police Pull Over A Drunk Driver, But It’s A Self-Driving Car"
+    excerpt: "To make self-driving cars work, these cars use a host of sensors and cameras that attempt to “see” the road, analyze it, scan for obstacles, and more."
+    publishedDateTime: 2021-04-20T07:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/police-pull-over-a-drunk-driver-but-its-a-self-driving-car-20-4-21/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/04/sdc.jpg"
+        width: 700
+        height: 409
+        isCached: true
   - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
     excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
     publishedDateTime: 2021-04-19T16:06:00Z

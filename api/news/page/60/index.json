@@ -2,6 +2,100 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-03-04-tesla-full-self-driving-subscriptions-launching-in-q2-musk-says.md",
+      "title": "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says",
+      "excerpt": "In a response to a tweet posted on Monday by a user named Whole Mars Catalog, reading \"elon people are dying for [Full Self-Driving] when is it launching,\" the company's ever-colorful CEO Elon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616352%2Ftesla-model-y.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/03/tesla-full-self-driving-subscriptions-launching-in/",
+      "publishedDateTime": "2021-03-03T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers.md",
+      "title": "Can Employers Use Artificial Intelligence And Data Analytics To Track Remote Workers?",
+      "excerpt": "Notwithstanding federal, state, and local privacy and cybersecurity laws that may apply, employers may generally use artificial intelligence, data analytics, and other software and technologies to tra",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
+      "originalUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
+      "publishedDateTime": "2021-03-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-artificial-intelligence-in-agriculture-market-may-see-a-big-move-major-giants-microsoft-ibm-sap.md",
       "title": "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP",
       "excerpt": "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors",
@@ -1074,92 +1168,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line.md",
-      "title": "Chinese telecoms firm ZTE preparing electric vehicle product line",
-      "excerpt": "Asian technology companies, including Baidu, have announced plans to make their own cars, while Shenzhen-based dronemaker DJI is building an engineering team to work on self-driving technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brecorder.com/news/40069764",
-      "originalUrl": "https://www.brecorder.com/news/40069764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.brecorder.com/large/2021/03/603f53244265f.jpg",
-          "width": 800,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brecorder.com/news/amp/40069764",
-      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40069764",
-      "publishedDateTime": "2021-03-03T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Recorder",
-        "domain": "brecorder.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-critics-have-much-to-say-about-the-fb-facial-recognition-technology.md",
-      "title": "Critics Have Much to Say About The 'FB' Facial Recognition Technology",
-      "excerpt": "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "originalUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c",
-          "width": 1000,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
-      "publishedDateTime": "2021-03-03T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

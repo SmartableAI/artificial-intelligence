@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/ambow-education-expands-partnership
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ4ODYxMDczNTQ5MjA3/2-harley-davidson.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "On Artificial Intelligence in Education"
+    excerpt: "Rarely a day goes by that does not bring some news about Artificial Intelligence (AI). While it can seem that this is an entirely new field for exploration as to how it might impact education, the research into those possibilities and limitations has been going on for decades."
+    publishedDateTime: 2021-04-15T23:08:00Z
+    webUrl: "https://www.miamioh.edu/digital-learning/blog/2021/04/on-artificial-intelligence-in-education.html"
+    type: article
+    provider:
+      name: Miami University
+      domain: miamioh.edu
+    quality: 54
+    images:
+      - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "8r3CsMCO8CZf7aLzqc7tY+kEIfnPM7WNI/7XPvqlnm1jRO0+DuUlPSOMiL8XJGpnHO1u+sL9o3XjBusXHEHgk7VaghtY+Tsu9GBAVm7f8lo0SBNk8EK+sE00CJ2ntOGqNXO2+x+cwtixtsUuIyePTeC/4HA7W09J6xCa0nqzDRJOU4hdj683iWdtVoJTqPUZ5nkJGyQSjU9NFzJdqd9DDZq5WO2e1N0uo8vsL/ERq20W6dhN+Lf8wGZmeqlXhomquTjcZ12//iHPd9b+m6YKhak1melzFMDrnMilgnRD9AOW+gMRA2XL5F6wDVwcoHZ4hZ5vnIrrvUtfhKKEjKZtxRtY3Uu2ci4z7jWxnMCAet2TdG8fsWOuAbBkyn63rv7c6OcFK0wVlr7e+37cx98mc7v4IsKxDGroMguZcwbOPQe0fZxKeRqv3KHlsrQFS6Iw/m6rpiLd6vcD2bh/XZy7GvOFfAQsEHRtiCx2FEfRo/RmMzDhes3sLKqpxDcdNwD3xuLyD2dXe9Qkz6O583ElJg==;ZTr3UgXFAYERsdkNEuBpnQ=="

@@ -63,7 +63,7 @@
       "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -194,6 +194,49 @@
         "AI",
         "Computer Vision",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-aws-launches-amazon-digital-suite-for-small-business-in-india.md",
+      "title": "AWS launches Amazon Digital Suite for small business in India",
+      "excerpt": "Amazon Digital Suite will provide a selection of software from AWS seven local partners—Razorpay, Freshworks, ClearTax, Zoho, etc.—to help small businesses to digitise their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/articleshow/82100667.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/articleshow/82100667.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-697397,msid-82100654/amazon-india.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms",
+      "publishedDateTime": "2021-04-16T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1447,49 +1490,6 @@
       "provider": {
         "name": "Taiwan News",
         "domain": "taiwannews.com.tw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance.md",
-      "title": "Dystopia Prime: Amazon subjects its drivers to biometric surveillance",
-      "excerpt": "Amazon, the company that brought you Ring doorbell cameras and Rekognition face surveillance, has a tenuous understanding of both privacy and consent.",
-      "sourceUrl": null,
-      "webUrl": "https://ifex.org/dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance/",
-      "originalUrl": "https://ifex.org/dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ifex.org/wp-content/uploads/2021/03/international-amazon-drivers-biometric-surveillance-protest-strike-getty.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFEX",
-        "domain": "ifex.org",
         "images": null,
         "publishers": null,
         "authors": null

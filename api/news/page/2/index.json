@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-19-kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail.md",
+      "title": "Kerb-to-kitchen robots and the next big step for online retail",
+      "excerpt": "Online groceries company Ocado is further expanding its investments in new technologies to automate as much of the delivery process as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
+      "originalUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2018/06/06/d3aec6af-0cb4-4947-857e-f01116bb1c02/ocado.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
+      "publishedDateTime": "2021-04-19T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
       "title": "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years",
       "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,",
@@ -330,7 +382,7 @@
       "originalUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -433,7 +485,7 @@
       "originalUrl": "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -902,7 +954,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1188,57 +1240,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-enhance-your-photos-with-this-easy-to-use-ai-powered-photoshop-alternative.md",
-      "title": "Enhance Your Photos With This Easy-to-Use, AI-Powered Photoshop Alternative",
-      "excerpt": "This extensive bundle includes the award-winning Luminar 4 photo editing software, as well as Skylum's introductory course to using the software and several add-ons and post-processing perks to make your photos truly shine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369431",
-      "originalUrl": "https://www.entrepreneur.com/article/369431",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618444831-Ent-Luminar4Bundle.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369431",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369431",
-      "publishedDateTime": "2021-04-16T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

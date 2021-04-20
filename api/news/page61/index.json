@@ -2,6 +2,92 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-03-03-chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line.md",
+      "title": "Chinese telecoms firm ZTE preparing electric vehicle product line",
+      "excerpt": "Asian technology companies, including Baidu, have announced plans to make their own cars, while Shenzhen-based dronemaker DJI is building an engineering team to work on self-driving technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40069764",
+      "originalUrl": "https://www.brecorder.com/news/40069764",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.brecorder.com/large/2021/03/603f53244265f.jpg",
+          "width": 800,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brecorder.com/news/amp/40069764",
+      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40069764",
+      "publishedDateTime": "2021-03-03T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-critics-have-much-to-say-about-the-fb-facial-recognition-technology.md",
+      "title": "Critics Have Much to Say About The 'FB' Facial Recognition Technology",
+      "excerpt": "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
+      "originalUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c",
+          "width": 1000,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
+      "publishedDateTime": "2021-03-03T00:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities.md",
       "title": "Apply AI to your most critical business needs with new Azure AI capabilities",
       "excerpt": "Tens of thousands of customers, such as Pepsi, Amway, Airbus, BBC, and Progressive Insurance are using Azure AI to deliver immersive customer experiences, identify new business opportunities, and drive impact.",
@@ -1132,83 +1218,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
-      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
-      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "publishedDateTime": "2021-03-02T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-microsoft-announces-dynamics-365-capabilities-at-ignite-event.md",
-      "title": "Microsoft Announces Dynamics 365 Capabilities at Ignite Event",
-      "excerpt": "This morning at its Microsoft Ignite virtual users conference, Microsoft introduced a number of capabilities for Microsoft Dynamics 365, its CRM platform. Among them is real-time customer journey orchestration capabilities in Dynamics 365 Marketing as part of the April release wave 1 updates.",
-      "sourceUrl": null,
-      "webUrl": "https://register.ignite.microsoft.com/auth/login",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

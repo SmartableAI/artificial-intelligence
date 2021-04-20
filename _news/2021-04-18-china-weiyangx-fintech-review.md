@@ -21,6 +21,54 @@ topics:
   - AI
 
 related:
+  - title: "How Fintech Is Changing the Face Of the Stock Market"
+    excerpt: "Several fintech businesses offer services to normal investors which could include a user-friendly, artificial intelligence-based platform"
+    publishedDateTime: 2021-04-20T06:25:00Z
+    webUrl: "https://www.entrepreneur.com/article/369803"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/369803"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Marble Financial Completes Acquisition of Canadian Fintech Inverite"
+    excerpt: "Marble Financial Inc. (CSE: MRBL; OTC: MRBLF; FSE:2V0), an AI-driven financial technology company that educates and helps Canadians better understand and manage their current cash flow and credit towards a better financial future,"
+    publishedDateTime: 2021-04-15T17:18:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/09/Canada-Money-600x453.jpg"
+        width: 600
+        height: 453
+        isCached: true
+  - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
+    excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
+    publishedDateTime: 2021-04-16T04:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174235-leading-uk-fintech-firms-now-working-with-pwc-to-streamline-digital-financial-services-with-ai-data-analytics/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Big-Ben-Behind-Bars-600x512.jpeg"
+        width: 600
+        height: 512
+        isCached: true
   - title: "Fintech’s big week highlights long-term opportunity"
     excerpt: "Financial market coverage by the UBS CIO House View. The past week has seen two key milestones for fintech disruptors in the world’s two largest markets, with Chinese payment leader Ant Group announcing a restucturing to comply with local regulations and US crypto exchange Coinbase making its Nasdaq debut."
     publishedDateTime: 2021-04-16T12:11:00Z
@@ -34,6 +82,20 @@ related:
       - url: "https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/house-view/daily/2021/latest-16042021/_jcr_content/pagehead/opengraphimage.75733263.img/cable-view-of-skyline-2.jpeg"
         width: 1280
         height: 672
+        isCached: true
+  - title: "Top Fintech Companies to Watch in 2021"
+    excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
+    publishedDateTime: 2021-04-19T12:49:00Z
+    webUrl: "https://techreport.com/software/3474080/fintech-companies-in-2021/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 24
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
+        width: 1920
+        height: 1440
         isCached: true
 
 secured: "NnCqAWH65NLz3K0+RrJBc4/Kx9dQKNYsr+Ou7rynSx1SazQwgdSFmrgrmfPNxowYOAdlLO3CV+ppK/UisvlTNSFKaerAV4P1n00PcBrJvDlSFyJYoSjmvY58OJqVrTnw4Yw/f2EXKnFmLwx+0AyLbRqEIrI3MYa6QOWRSxSF3N12AZtYT78rtC9RJkJAOFc9Z67vkopE99Lb1dCncwfH+oyR4dpypb0/vFXuq4GKttd2r+O6OBL47sCBOfCH5NS0O4lpZK8Wd1DKOwYbC23/5d8tICZWpfDA55OALSMB1D7ElCY6aU9eKcxxHhLI70mCpz0PJ3fqZ+ar7EpLFetfXKTuQ8fBE5qpaXSszkpKyBmWu5+1A4vs2msn5fu9GrByLCS1EEAFeYbmHelzW7YldRtSXdfFLyUtaIbMhUBmsi477paBsgthRxxYqVVySbuphWv6fA65b+IZ40Sz3ht31w60fIVaxJ7izCuz1fe7n3mmonwaEkcDOrsSZFJoTEE2VIneJb6J83Ve0qfccSr9Kw==;PDsk04cCmIuxM8/MfrlopA=="

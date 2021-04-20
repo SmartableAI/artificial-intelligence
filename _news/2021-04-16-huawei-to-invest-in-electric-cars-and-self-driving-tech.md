@@ -71,22 +71,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Cruise Control: Walmart Invests in Self-Driving Car Company"
-    excerpt: "Walmart has its sights on \"fast, low-cost and scalable\" last-mile delivery as it invests in Cruise, whose self-driving cars run on a GM-made"
-    publishedDateTime: 2021-04-15T14:56:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/technology/cruise-control-walmart-invests-self-driving-car-company"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/cruise-control-walmart-invests-self-driving-car-company"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 44
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-04/background/400x600/walmart%20cruise%20edited_1618498112.png?5ozX1A.PvpCc8tIsJE1Bb_Xm4y78mxMo"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
     excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
     publishedDateTime: 2021-04-15T18:57:00Z
@@ -141,20 +125,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Walmart invests in electric self-driving company Cruise"
-    excerpt: "Following on a pilot project with Cruise electric autonomous vehicles for last-mile delivery, Walmart announced Thursday morning that it is investing in the company as part of a new $2.75 billion funding round."
-    publishedDateTime: 2021-04-15T14:56:00Z
-    webUrl: "https://www.supermarketnews.com/technology/walmart-invests-electric-self-driving-company-cruise"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 24
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cdn.corporate.walmart_2.png"
-        width: 1840
-        height: 1200
         isCached: true
   - title: "Walmart invests in GM’s self-driving car company, Cruise"
     excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-r
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "State surveillance body cautions over police facial recognition technology"
     excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
     publishedDateTime: 2021-04-15T22:42:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
         width: 1420
         height: 798
+        isCached: true
+  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
+    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
+    publishedDateTime: 2021-04-20T02:00:00Z
+    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 37
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
+        width: 600
+        height: 497
         isCached: true
 
 secured: "161Ig4jIFMvGQ6eQfYejRmXdX8JVgKP64spWwSUBp+7gsL78S8e08+nLuf/w5kkJjWt1yTKR7zp5apPeaNmMtjoaLNEsUo24vN1tDKuRiG9KZXHUdWzl5k8sOpbY6o7RC62jpngnVjvznpE62BEpkSTJaWgxDk/ycUWMyXhVZyTpNAU3ruOowlGXu2KYud/E4mbBaFDxHtUWp+mcuaX8QqA8FPTwphEZ/eLn0KdnP02DACJ/i2a3ZiJRp331UjRIgantqorkLPC+IhlO0IFu6eRVH7P/A67/SIUY0K498TuHH1CioAzpfaU1adRlml2NzNwfa1mp4t8LqOrn9siI1XWUN8iag3nC8ivkLmNHQAg=;SjKx2TS41he3qqRXQCV16Q=="

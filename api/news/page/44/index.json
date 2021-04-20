@@ -2,6 +2,101 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-16-google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub.md",
+      "title": "Google uses machine learning to fix your bad sleeping habits with new Nest Hub",
+      "excerpt": "Udall said Google made this feature work through \"science and machine learning\". Google partnered with the American Academy of Sleep Medicine for the new tech and it was trained using more than 100,000 nights of sleep from over 15,000 people. Google said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "originalUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/62077372-1d79-4e40-818c-7af79731467a/google-nest-hub.jpg",
+          "width": 1100,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "publishedDateTime": "2021-03-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-researchers-enhance-quantum-machine-learning-algorithms.md",
+      "title": "Researchers enhance quantum machine learning algorithms",
+      "excerpt": "... infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. Their findings were published in Scientific Reports. The work could help build ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
+      "originalUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/11-researcherse.jpg",
+          "width": 711,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp",
+      "publishedDateTime": "2021-03-16T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
       "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
       "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
@@ -1093,109 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m.md",
-      "title": "On-demand logistics and fulfillment startup Flowspace raises $31M",
-      "excerpt": "On-demand warehousing fulfillment startup Flowspace today announced that it raised $31 million in a series B equity funding round. Los Angeles, California-based Flowspace says that the round, which was led by BuildGroup,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1191254826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "publishedDateTime": "2021-03-15T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-fusion-tests-self-driving-fiat-ducato-europes-favorite-camper-van.md",
-      "title": "Fusion tests self-driving Fiat Ducato, Europe's favorite camper van",
-      "excerpt": "Europe's ubiquitous camper van and motorhome base vehicle, the Fiat Ducato took a step toward camping future last year when it rolled out in all-electric guise. Now it takes another step, albeit a less official one,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "originalUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/44c0ec9/2147483647/strip/true/crop/4644x3096+430+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc4%2F90%2Fe576f6254e69a690715eb825efd2%2Ffusion-processing-autonomous-van-4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "publishedDateTime": "2021-03-15T17:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

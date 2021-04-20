@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise's head of artificial intelligence wants the autonomous-car startup to be defined by its AI innovation"
-    excerpt: "Hussein Mehanna thinks machine learning is going to set Cruise apart, and he told Insider how companies could become \"AI natives\" in the future."
-    publishedDateTime: 2021-04-15T13:57:00Z
-    webUrl: "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cruise-self-driving-cars-artificial-intelligence-automous-ai-machine-learning-2021-4?amp"
+  - title: "Autonomous trucking company Plus will use AI and billions of miles of data to train self-driving semis"
+    excerpt: "By this time next year, hundreds of automated trucks powered by PlusDrive will be on the road, hauling commercial cargo."
+    publishedDateTime: 2021-04-15T16:15:00Z
+    webUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/"
+    ampWebUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/6070b4644943790018bb1bc4?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Pluss-Autonomous-Truck-Powered-by-PlusDrive-4.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 625
         isCached: true
 
 secured: "UsoKATBprwkPow7HGSrbVLl7C+MsMna6JtFb/UNxGmBcJERkvHdMBZrYHwaYmCu+9xf1bk2E1Fow7CNnIBcvZ7fgBMR4QgAbfesL1AiR55vcKZAOpjGMVbG0u+dxO+z6jrHWGkzOhW45H7IblXj9LHayfGTNUgsyvs5huBcaz6niYjkQpkIIxLnnHFk3xIlAto8E5FvKRGe+mCwPyUQdLzyCw54iyMPqIbYMW9dWRUP/soNjcRS9S1e1EEc9T6/cm4k/+p+HS+1GoJo+1cT5ycl7xyIc60FsuJT4o9JEQgAurelO57PBtxianE0Sm4Esz+y/lzBk7lxZ9mJ1k/pZX1nlqViff8JNsThfy7ujk2OPuW97y6UB4phNvDu5GBXB5DkWwjkBUu9tgm+/K7xnWDclGZyQ2RGp9M+uWGKru+iZOOBWxeILPvCMOvkQQJJpWjh0ptBasC4gex5Zvdz0WDaZRBL0fyLF3EzkDlR+P1nH+6Ea6rzFgcJG1zsjj7VvoVunoJs/zz6dqCYxfj5RRg==;mmMHAdBwiX3FkPycFqd+aQ=="

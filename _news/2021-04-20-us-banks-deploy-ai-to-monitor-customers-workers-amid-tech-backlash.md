@@ -1,29 +1,29 @@
 ---
 category: news
-title: "US banks deploy AI to monitor customers, workers amid tech backlash"
-excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
-publishedDateTime: 2021-04-19T18:56:00Z
-originalUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
-webUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
-ampWebUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
+title: "U.S. banks deploy AI to monitor customers, workers amid tech backlash"
+excerpt: "Widespread deployment of such visual AI tools in the heavily regulated banking sector would be a significant step toward their becoming mainstream in corporate America."
+publishedDateTime: 2021-04-20T06:17:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece"
+ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/article34364673.ece/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://www.thehindu.com/sci-tech/technology/lr325v/article34364763.ece/ALTERNATES/LANDSCAPE_615/us-banks-aijpg"
+    width: 615
+    height: 384
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TqNycgZF2v3aqNk80+rCGAAvNRiF0qTBXPgrI6rhqIrxTecrQNi30l0UeICJP9ulLyh+UsR+2W/6sEFhDvf5M/hpQWEJB+CxMe3ohKMN/JDmuibswvcxH2xqxxImxRqORdS2/RxaGG/zOt3ws/qoWOtocRBZGG3N8QnlD7OlxExZsiUEjuSKDJPdCRblW336HuproteGsnHcdgcAvQZF3K2LmwD2kUAuoOCCQtte+/f/hmwqwSTxYu9qahxfRNt/YpqvKQpgv4zTeztRk1BSoFwzojrA+/tI2rjACB7YOtcOuahCmvSlIXw8LEPyeG8PUb5MVaITqKQA8iw20NFrCPyatyp+/6OkI5MJdFkR2CftNXxV8MqogqpA1exYgPgWmrvN7weumXUPMBtYIWJQSkoAuK5xJ6UvfzqSDOyQhN9HseFQbVWPivZ/PSLEnBSK2Nv4n/wvX41CzeKafGXRnuBC09a66QmL22ZBX9w4YPLsAQ9uFsCxcy/08/ajMVsTPypwigbJoHKkg3Pvu5yUdw==;7txX09XShFukD95pv/dQmg=="
+secured: "anDNQnpkabUA0OJONfn2qoecD6iUNUVHkisH8KOQRizvKkRfLDDD+QQFi2E+5yQse2AoTQPYMrtti8tU92Oxm7YtMrJnxI66TZw2ROSVgItDJS0HUAtBNEBYH1bpkCGl1VjqwTToUCo7/N+fTDPSdnlXMHGJcbR4GosLr5lyGtbfKA+o0xIuJKQlItKiiXD/bwj3wbzLNuhShYIb7y2TTqU0G+Ob6NrxRiJOyaXhRvWBc6HbygBkDCTsysIgbsKtcYRA092uqG2d2pTXsQH+5LIKDfg0cZ7W+ihnGfImLqiRCGl6oVpkw3oLHswSRf3HYg1GYjwXK6L9YB3yApAlzxK1Ar2tOvpoqsXOoRc+9sA=;YR7GleWQssaXHvdgQ4RW1A=="
 ---
 

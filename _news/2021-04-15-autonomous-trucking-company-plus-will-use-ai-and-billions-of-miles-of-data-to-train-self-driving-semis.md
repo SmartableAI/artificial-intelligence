@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/15/autonomous-trucking-company-plus-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/autonomous-trucking-company-plus-will-use-ai-and-billions-of-miles-of-data-to-train-self-driving-semis/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 625
     isCached: true
+
+related:
+  - title: "Autonomous vehicles driving AI chip innovation"
+    excerpt: "Why is autonomous driving so difficult from a tech perspective? Autonomous vehicles require processing massive data captured by the sensors (camera, LiDAR, Radar, and Ultrasound). And it has to provide real-time feedback,"
+    publishedDateTime: 2021-04-19T12:48:00Z
+    webUrl: "https://www.ept.ca/features/autonomous-vehicles-driving-ai-chip-innovation/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 56
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2021/04/Autonomous-Picture1.png"
+        width: 975
+        height: 510
+        isCached: true
 
 secured: "uOX0REY+3z/8hfw4Yu2ZtU99qHd13y0smeoXKlTpb9XTydOKqfuprZzCKVyVF+NANAJ8o/vCCanwyJliy9jkFQED19KgzuPyrGLX6XT20o13iWTKqZiyhcQKelaqnOYV6iXWuhEUkCiv1P1FZpSoQoP1KS05O0kkx8YGsIPcUN5TQGUKy5MSt7hgVvh9zkCl2ck5z0zVgHB6tA8LI4V9G/cv1ULElKGqbVoHiDhf6YquAZgvQCkaauq2UxwFw9kYQEF4DOZia3ur2CSWkd90NJa5973LfB15DjKkKTfycEfQKOS6ySr4hYJfHJGMWZdIRaQW76jIbnnVVLkZkb1VI4TM/9l1Zvs+UFFugrn/J38XFHedy3LnsOO8xGWctG20jsoABZOsrnxQiqFS7iK3rklRLygvOT1vMd+JbJ2Wyx7BeRWyXEYGOjpfJw7arhBHJtwn2/1/zlXMh1xdUwfB5XsvD/fHB1YQxSmxj65TGI0g6ZCmgTLxGP7xRZSeKZXDGXQ79F2NqbY7Dl762459EA==;Bwq1BDcEDZSJf05WJSiFDg=="
 ---

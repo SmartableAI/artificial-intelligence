@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-20-how-fintech-is-changing-the-face-of-the-stock-market.md",
+      "title": "How Fintech Is Changing the Face Of the Stock Market",
+      "excerpt": "Several fintech businesses offer services to normal investors which could include a user-friendly, artificial intelligence-based platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369803",
+      "originalUrl": "https://www.entrepreneur.com/article/369803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369803",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803",
+      "publishedDateTime": "2021-04-19T23:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
       "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
       "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -881,7 +933,7 @@
       "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1073,7 +1125,7 @@
       "originalUrl": "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1209,58 +1261,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail.md",
-      "title": "Kerb-to-kitchen robots and the next big step for online retail",
-      "excerpt": "Online groceries company Ocado is further expanding its investments in new technologies to automate as much of the delivery process as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "originalUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2018/06/06/d3aec6af-0cb4-4947-857e-f01116bb1c02/ocado.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "publishedDateTime": "2021-04-19T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

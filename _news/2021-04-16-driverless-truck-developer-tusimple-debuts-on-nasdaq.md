@@ -115,15 +115,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "TuSimple to Demo Self-Driving Trucks in Fourth Quarter: Source"
-    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
-    publishedDateTime: 2021-04-15T14:10:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-15/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
     publishedDateTime: 2021-04-15T18:55:00Z
@@ -148,6 +139,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sclJwSfzoKsaGb6u8tR/sUEojFALEKZAMbVZ7GHKdm6LYQ7Vnsy3gLWy7gozuUudKHEba9ff2wdNL+cA+mpFhxX0kfDTF6B/1INNThZXkVm/fLCe71jq47VpdQu7DJrHcjhZYvSxwgmi5ZFIsi7LgrZPSV7u0nCbB4r53p6bdIPUgUE+godipvRRaPRNbN3XNU8GRdy6FP0FMhwFxYkq0mHWCebWajJD39Z//2HB60QqCpWM7dYVAbJRTFr/qrcV9TJBgsDGAON+bCPbKuBhBBlZwH3hFFlQLqBlgnamM9kx/mmoe6yqPkzWfD5tnrxqn9vb7afSuxHwITUWsUJwJ3G1e3AZyUBPCkNOmMUVi84=;r23TheCu7lFhFoEcbi5hCg=="
+secured: "KJ+arDcR1NSV6SnAJoXoESUQkhwyiO4HimBWiewaOZSv0Tz8wdqUByYLGy3AKMtJ4zTJ+VJ0y7SqSbtpJ7BlkKmldNCmrU0NIOvb3wfCeG1UtWrQ3gzdSZmQEmBm7arhHIBpH4o752fWf6RIPDC9+SbX7WUht04s6kwHTKuIGRGLJxfkPWE7ijNHOKa1bFb5Co8LH2+j+zGrk6YBiohSCZTYn6F6PcCCptGcHZljJg//wZVZ6nePM4KdioJqbhp7+ipSStRrvJrskSCTs5BOZIiP341Pf67EZaz0mJ+7IH1S6XxAFEwTl/ev40WRVcM8nmWa1KR3d3PXSaGT2LacTTIGG0KxCCelNMX/4Tf3Ilw=;Wx52SkLKKgzgdDKAIAAVSg=="
 ---
 

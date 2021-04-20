@@ -1,10 +1,10 @@
 ---
 category: news
 title: "RadNet’s Artificial Intelligence Subsidiary, DeepHealth, Announces FDA Clearance for its AI ..."
-excerpt: "CAMBRIDGE, Mass. and LOS ANGELES, April 19, 2021 (GLOBE NEWSWIRE) -- RadNet, Inc., (NASDAQ: RDNT) today announced that its subsidiary DeepHealth, a leading developer of artificial intelligence (AI) for mammography interpretation, has received FDA clearance ..."
+excerpt: "RadNet, Inc., (NASDAQ: RDNT) today announced that its subsidiary DeepHealth, a leading developer of artificial intelligence (AI) for mammography interpretation, has received FDA clearance for its mammography triage software Saige-Q."
 publishedDateTime: 2021-04-19T10:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
 type: article
 quality: 42
 heat: 42
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 38
 
-secured: "1f6TVIZvD5dy3tg6IlZwtbL9H1xhncQw4FDL/CouxmDxDbHZHeglVER2RECCuXfR90OBgMD6ywWSrmnM2qeD9p2AupFbDciVf+oid0wAI35lPHjJ8WkQq9L+GeXIDu7IGLxCgduZvSNBa+An8dyG+63A0bYcYDrl8nhGtJHG4R7mruHB9PXgiuY9zcnqsIaqtJbnHsgm8c9iS96LSxqFh0bGDNeJaQ2UU5rttsHPMoohWFQ0CtxFPE4AJjRTygVZuc3n1pg6DUMW3f4NFu2kHyEDyInxgLRGLemJwtUZYGQM/a0k6/LxtIdku3SCSOzDFjnp8K8RYhQRSUuIVorTR1pZ7SLHPJYoMn8s26CKIqs=;CdH7UZ++XkCuP2/icH4KWQ=="
+secured: "gTQgJePqjW/qrelK3Pj26GolzPK9zgHqksQGUX2610FzjTh8HXHnZAroUBgghB//ujAch8iBPaze9fk3JAgkh/qt74oAXHrQ/OIacXShENXb7vTHMqLGMAHpqSHHxwkO58yn0HaJlMI3cdSRGoCY8Q/d+WkR9GFNQkCj6MQLd1muhc8rWBvIyrQI9hOfeaB/EiCMAhaIV8+TqaG53RBo49hKUdn3rU9PJEvfR9Cu4ib6b/2H7DxBGtReUJeRwnvYDNLenIabhOn/S1WySSPK1fQWH+rjUf4Gn60l9Z9e+wsTJrwxc++LyA2yKqgn4iAz9PqKr1v2wAX7Vrh+0/LVv73A7sohXtjTnnoLuAvzRqo=;0gWy+xyrIxmp4+EZkVJgBg=="
 ---
 

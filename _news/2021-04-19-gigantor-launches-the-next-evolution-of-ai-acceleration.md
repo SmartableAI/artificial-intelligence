@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Gigantor Launches the Next Evolution of AI Acceleration"
-excerpt: "Startup, Gigantor Technologies Inc., is revolutionizing artificial intelligence's high performance Gigantor Technologies Inc. is set to disrupt the market with its"
+excerpt: "Gigantor Technologies Inc. is set to disrupt the market with its multiple patent-pending revolutionary technology, GigaMACS. Co-founders Don Gaspar, CEO, and Mark Mathews, CTO, formed Gigantor after analyzing the market’s existing approach to acceleration using stock hardware solutions or imprecise model altering strategies."
 publishedDateTime: 2021-04-19T13:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/b20682373/gigantor-launches-the-next-evolution-of-ai-acceleration"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/b20682373/gigantor-launches-the-next-evolution-of-ai-acceleration"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20682373"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20682373"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-florida-melbourne-artificial-intelligence-3ba1d3e2897542bfb0fbc2e5cf9ac34e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-florida-melbourne-artificial-intelligence-3ba1d3e2897542bfb0fbc2e5cf9ac34e"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine"
@@ -35,21 +39,7 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "Voice Technology: From revolution to evolution"
-    excerpt: "Distribution centers no longer want voice for voice itself. Today it serves as one piece of an integrated solution for optimized operations."
-    publishedDateTime: 2021-04-16T19:42:00Z
-    webUrl: "https://www.logisticsmgmt.com/article/voice_technology_from_revolution_to_evolution"
-    type: article
-    provider:
-      name: Logistics Management
-      domain: logisticsmgmt.com
-    quality: 24
-    images:
-      - url: "https://www.mmh.com/images/2021_article/MMH2104_Voice_Voxware_800px.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
-secured: "Njs7y/sLDuTO5Gw0YlQXAFfKaeUpFw8eKU7QAR52lgnk/wNf+nyCLfN5EMAzPF1oxQBgFew5dpjjqystxC0LBNRIvW73AAo55eXcyqfj1byvGAPy1y6vpvWyKsZ/k7f/kEkts9USEyCo+YBwLwmNOhKc4n/jM589CIp4YvwnX4Fm0Wbd5mitDyXwsFDf4P5iPHnGT9j9bANnBIa21DWj9txDsFq/P7+ozVnvaObM1WlctjxKsxoLtbwlqNLnFO7FSYv3XzmgXs5Xr1apN8bR66L9NDCNKvovJSzTK0xEYmTmxazI0clqyEH0Q/l+yhWUZjRgqPflvN3nFuIILJNbgnKhln8uxtu4Q9WZQxvFSoA=;5sH3vR/tAk4p+r9Q1M1J4w=="
+secured: "iIcmMwiB0LwcfDVJlnFtYTRf7T0D5v0WcNYsOqQIptmLjLKUKGlJSr6zFjwvaZYb9p0jN7XhdTWdwVNFiegiNoexWn5z9QK7n+dkChUYMjqdtBZaDLhAdDkcWexBCss1BnXOPcZnCr2o7obbUf+WQAE0MwO3qaHtPmF5+1CgxOxQ6yJCkQlLSdvGgNCeUbjc/SG0krcCkuHu7V/cdgkuGlpIVdbhCGGmFPS7S8/v0nIRH8ZywUbiXH+B2CG6BjHp3NQhg2h9fIsmTrHv8HG8xWIgqEVN2k8os/5KCm80fa6giSZNU5xgFGO87LGK5JAZy9JrkV5TUSpqA+MsihuS+kMvxAbXAuwgrgogA8Wf+vw=;9axx96+DHTPi3skxA+ZPPQ=="
 ---
 

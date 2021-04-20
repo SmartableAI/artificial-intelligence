@@ -158,20 +158,6 @@ related:
         width: 768
         height: 576
         isCached: true
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
-    publishedDateTime: 2021-04-15T14:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
     publishedDateTime: 2021-04-17T00:29:00Z
@@ -182,6 +168,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "FpNcM+FyeK55e3d/keWe5snzwkYTbQiEf7UN1cveaZQUq6RssSAowULWejZJEcC1deeYOMCfKYgElTle3jrLZwSuGg8rrlxwxZiyhRyC/WuPsaxgWDhZBCrMkCJyecRA361d2zXFobk2kjQaxF8oKgjtfLFRA8xgy/4kxqe2rSrVrufvapnxdy9GmlXDA57kvxYA4dKnDQ6jWmMYWpCgYKtE5Dw94MAn5gkvEavUCsaDbgZW8J0M/LO5t0SiYQRk+7BboxNd3Ua5+bC81Q76qGLhMjxmcueyfSJ26UY3hUcfOD2Bv5AA9hvam6HfIUelna3c7PglSbyxhYDgim7EEytr3gH9NE3+q1PQ6ZbJ9Xc=;RiQ6Ol6RjtqUDl/z5alGcQ=="
+secured: "8NG/9E7SzkPcnNAvoZZ1a1APBHlAWsOGQzPNKsI0OKztZZlkkksW2HuKJrXYukEpfMxlOR4AM8zMkZ9lpcJGkqr0Vt/jS6oObZ0JT4dMW1HuOO1IjBKML1SuO0GPtJTllZLFuv3dJTK+ztEVhNGpLF52y2EMUzpmmhRs3iGP2O/mzD767xVNi6xBr2OUtKkYdy6MK/NNaJRz6WEEoepWOhlVV5K1wWsU3PISGUJdgc7q8lSqt+IGIx2RpTCMjSXUBxo/SGUz2C1qXZYpJx0w7+gozfX1Tu90sgdFGYP62lsfCmoLfY/j2BjhEDpNf9w792mYSibzMEppaTCWta92F6YfTSZGjgAzGh7nQzpIzl4QBRqN6VMP6cclTuzOemHwlVntvuDqekz4u2fN6RHJXcJeqfT13FkRfDOIHE32/rOUwMKrqYz51aLaJFwEzkfDupUZw7au0C1JnqumQPVk96OsFPBr8MSX1XyZdYFJddCoeWveQ8CRjYY7X7vef/mwwJmFTQYsP30A7GHjpMvsqw==;A5elbodq7bxQxddxD8IiTw=="
 ---
 

@@ -124,15 +124,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "TuSimple to Demo Self-Driving Trucks in Fourth Quarter: Source"
-    excerpt: "TuSimple Holdings Inc will demonstrate its self-driving truck technology using semi-trucks without human drivers in the fourth quarter of this year in Arizona as it continues to expand its U.S. test network,"
-    publishedDateTime: 2021-04-15T14:10:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-15/tusimple-to-demo-self-driving-trucks-in-fourth-quarter-source"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "TuSimple’s Mullen maps out trucking’s self-driving future"
     excerpt: "Truly driverless tests are scheduled in Arizona later this year as the San Diego-based company continues on its path to offer Level 4 trucks by 2024 via its production partnership with Navistar."
     publishedDateTime: 2021-04-19T15:09:00Z

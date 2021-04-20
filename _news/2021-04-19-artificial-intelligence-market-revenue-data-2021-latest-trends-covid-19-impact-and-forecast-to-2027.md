@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Retail Market Size 2021 by Sales Growth, Revenue, Market Share and Forecast 2025 Research Report by Absolute Reports"
-    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" In the retail sector, top competitors"
-    publishedDateTime: 2021-04-15T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-retail-market-size-2021-by-sales-growth-revenue-market-share-and-forecast-2025-research-report-by-absolute-reports-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2026"
     excerpt: "Global Machine Learning Market Growth (Status and Outlook) 2020-2026 is the latest addition by MarketandResearch.biz that is based on the market and extends over all particulars of the market factors."
     publishedDateTime: 2021-04-19T05:06:00Z

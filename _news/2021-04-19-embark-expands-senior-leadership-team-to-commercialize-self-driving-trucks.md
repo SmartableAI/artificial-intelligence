@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police Pull Over A Drunk Driver, But It’s A Self-Driving Car"
+    excerpt: "To make self-driving cars work, these cars use a host of sensors and cameras that attempt to “see” the road, analyze it, scan for obstacles, and more."
+    publishedDateTime: 2021-04-20T07:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/police-pull-over-a-drunk-driver-but-its-a-self-driving-car-20-4-21/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/04/sdc.jpg"
+        width: 700
+        height: 409
+        isCached: true
 
 secured: "jzZg0lE4l9Pcxi+tpOSrDahkiQuHxM4wn0PSB57thClZ2ihaoWGruQtnV+8AjoJN/VerEgMq4sh/CQs8J7Kk6Y2PX1hsApKmAKKRNA6pzIS2SbENJ85o09RBd1BDWnkRGvmK7IEUi7gaI2B7yBnf+yyVGl2IEBsl63bCbDg/4yzkCmx5/+zFXpPQ8JgwEK898eFYj5L3bcJ0G6yUklArQfX8NjYxyKs8eSgJNxIzFwIbCYwQFFoHhVyqHciXceLKOH3ro8pw2IVcPfMK85LklJKuOYSc1WT3bX1Yayi6LtJAwEw7W252usuYyAPWi3XOg7GjGElCMRVK93QKYQSwZTRa9I+1D+J8bNF3/NnK2Ec=;4MrQe9DvUnZOJlmsd1nhpw=="
 ---

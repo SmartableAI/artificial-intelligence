@@ -57,6 +57,34 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
+    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
+    publishedDateTime: 2021-04-20T02:00:00Z
+    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 37
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
+        width: 600
+        height: 497
+        isCached: true
 
 secured: "raZ58sBFT8nkUgNXwwq47nAvuA7vdMtVkSWtFLCc27YRFbS1kUS5Ca34dfU6yCaSSeEN29XqUwODYW1z7iAyKPxt0PmaG1BkuZJSl0m+tgEZzsq6loH7pW9PSDCQaAEC20KrBMpxjIPLwEeXdu1KAl5kyGIp2g4pZr23iMppMzDU6VOio1Tqlwz5eN1V3bUZXP7NkdkpBMIllIzNc4x9LtbqW2JqUsT54SwXEIUrYc1Ht2XTntC22xAo75OHS1oX3wAeouxAupTIqoDWmkU82NHVeKWopftF2tsPc2/VR7DNRJSSDyiu4QjnH1F/tx5GtjKKsHL9R/t5r5J58jZtQb5wqovM9CKH688auaNpEz0=;4MNg+ivE/r/nYn9YzvfwcA=="
 ---

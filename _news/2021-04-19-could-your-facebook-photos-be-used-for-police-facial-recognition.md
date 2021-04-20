@@ -43,6 +43,20 @@ related:
         width: 1240
         height: 816
         isCached: true
+  - title: "Mahopac’s Music Education Program Receives National Recognition"
+    excerpt: "MAHOPAC, N.Y. - Mahopac Central School District has again been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to"
+    publishedDateTime: 2021-04-19T23:17:00Z
+    webUrl: "https://www.tapinto.net/towns/mahopac/sections/arts-and-entertainment/articles/mahopac-s-music-education-program-receives-national-recognition"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 41
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "State surveillance body cautions over police facial recognition technology"
     excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
     publishedDateTime: 2021-04-15T22:42:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
         width: 1420
         height: 798
+        isCached: true
+  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
+    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
+    publishedDateTime: 2021-04-20T02:00:00Z
+    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 37
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
+        width: 600
+        height: 497
         isCached: true
 
 secured: "3jTxVb6dC3+BJ5jI5LfDEOBE8BaWUVWyW7xojIA1lM7HbWmOqjjZZ2CtPDodoDInLfbLMRpdqtQVF1Y00iz7q9i/kNBtIi9tVtU4e7ONYpWqDSnXUiFIzB/aP/JC4x1HkvqiZm3tbXrfRMtFLSQTKUrrC6lV11hTGPaVHhOrhSOxAqqm6W/RURWqEKQ2T+cbzSuTHkA5X+nwi4VIM7/fyOfYmmWYJ1hUw8N6JM9xNFkc/9+5DuZmYnPm0cU7ejBueG+U26b8CALC//WQizyhd/+AHo1mcpoONWBfuxBmCQQFQl5ujtIQPLi2lG44ZjhU/pGs7bK7nqldXtRB/0HCNMyMmgUjpDLZ05X+4fAAlNp/fZn6Ba4BHRkinv0jBnPFdLnq/t3zVNUF5rJWFFVLL1/SdlJLb3v6PBMTfB86oSYBdWVisWi/VTxZKClXBhwyoGiuESFOSVFBH5ogU8CKz5+81cqSA70Q02pBBETilAgMjSfsHX9tZQMY9zlMf7Q70QC8ZfNVsi8Vn4LwsLXM7w==;BUk9jahPb1VaWshrFyp8mQ=="

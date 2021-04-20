@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
         width: 768
         height: 576
-        isCached: true
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
-    publishedDateTime: 2021-04-15T14:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."

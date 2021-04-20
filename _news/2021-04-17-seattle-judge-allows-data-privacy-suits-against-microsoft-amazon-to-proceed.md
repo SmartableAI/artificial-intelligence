@@ -162,20 +162,6 @@ related:
         width: 768
         height: 576
         isCached: true
-  - title: "InnovoEdge Joins Microsoft for Startups Program"
-    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
-    publishedDateTime: 2021-04-15T14:48:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "PZACGDw3hjokIK15uDnptEmBJLrJUVSr6seRs/xUk5oKpQGpsQucpN/RSHyo4+W9LzrSt/c45tzVPoFogMJlcge+1KLdSbixWO5zoMCf2xJdeTxUS+MdV3wyqIV8YOlyUgBfF1aRzq0vQ74m8/LC+yCN7JYTGddq8zHuV4QIbmodJzxWG5jdaRAwVfdjtkZcIacsTUnvuCRZ8KaIRwrF3Dy1/Gx0Bu5XgJI7FpdTnjhlwoEUgWZa105CtvBz4+2/YdpduhcTLZr75yh3mKzhbhLp3UCsffkIC1XvcPamyZmKVSUJzWvTuMmr6PYtSm1G5+UeCVT7gn1e19k8r6F0DH3iw2teoOWHsT6TNe0UR1fOGFg83//7eZOWEw6bW0hSr01qwjnmPs9V4ZesB8nAk25yK0/UOw5KjEJPx/pQhNnyO+kf7J+/xj/P+EkRNl4oJFt7w2Be95Hsz6R1XaknogYt4mVPCKxfx/5q0GqwtHBI/L1hxcuVD5kiWR7iSpchOVrQEpKhnPZbGmC+S1LJNQ==;btBhIwOSlZDY+wfy426rlg=="
 ---

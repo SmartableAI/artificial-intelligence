@@ -23,9 +23,9 @@ topics:
 
 related:
   - title: "RadNet’s Artificial Intelligence Subsidiary, DeepHealth, Announces FDA Clearance for its AI ..."
-    excerpt: "CAMBRIDGE, Mass. and LOS ANGELES, April 19, 2021 (GLOBE NEWSWIRE) -- RadNet, Inc., (NASDAQ: RDNT) today announced that its subsidiary DeepHealth, a leading developer of artificial intelligence (AI) for mammography interpretation, has received FDA clearance ..."
+    excerpt: "RadNet, Inc., (NASDAQ: RDNT) today announced that its subsidiary DeepHealth, a leading developer of artificial intelligence (AI) for mammography interpretation, has received FDA clearance for its mammography triage software Saige-Q."
     publishedDateTime: 2021-04-19T10:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-health-care-industry-diagnostic-tests-diagnosis-and-treatment-c025a032446f5d2f8d5720c2167b4aea"
     type: article
     provider:
       name: Associated Press

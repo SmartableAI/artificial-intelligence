@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Your Company’s AI Initiative Needs To Be A Model Implementation"
-    excerpt: "The models need to be kept in sync with reality and with the changing conditions so that real-time operations and the model reflect a changing reality."
-    publishedDateTime: 2021-04-15T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/"
-    ampWebUrl: "https://www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynerash/2021/04/15/your-companys-ai-initiative-needs-to-be-a-model-implementation/amp/"
+  - title: "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers"
+    excerpt: "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement"
+    publishedDateTime: 2021-04-19T12:30:00Z
+    webUrl: "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers"
+    ampWebUrl: "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Asia One
+      domain: asiaone.com
+    quality: 78
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6077aa43839ff3e9a5834d1b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3138%26cropY1%3D113%26cropY2%3D1558"
-        width: 1200
-        height: 553
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Ambow Education Soars on AI Deal with Amazon"
+    excerpt: "Ambow Education expanded its Amazon partnership to help improve the company's engineering courses and address growing job-placement needs."
+    publishedDateTime: 2021-04-19T15:25:00Z
+    webUrl: "https://www.thestreet.com/investing/ambow-education-soars-on-ai-deal-with-amazon"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ4ODYxMDczNTQ5MjA3/2-harley-davidson.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "Z7MhwkqE9Gr1BhrCARwjHFM5q8upepfGnXWmreLC4F504mXcZ9vJs3MlaPi5oxP7GoYtiSHxk18hjGG0W37cwHuVbRTCg9jZMPDs55TVGp16BCaWTQD1t8Z+ruNdM/XlHfl+2U/8ecsQFHlQ1zeScb87wUQefD9msgQHjKjerQxiGQMzbOCExqhqOpNGW967s3+1asiX+Eyb2qpf2xidiLBGgen48aDnHw4uzKO9PpoS0hKUpio11Uog/eSZBiq3JzCHh6wtNBmuTY9A7PZBFCd4VEki6sdiXFUlcSd2DuN14LKM2ndj1PAU10DdrmCdm6b3OXpy+HMHrIgT26GoFOYAkHeT57GBqWpEgEIl0is=;4NC9DT8sPSGrz+unb7jAIA=="
