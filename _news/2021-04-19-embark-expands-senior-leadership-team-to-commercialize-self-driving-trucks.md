@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
-excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company's rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha \"Sid\" Venkatesan will join as Chief Legal Officer."
-publishedDateTime: 2021-04-19T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/embark-expands-senior-leadership-team-to-commercialize-self-driving-trucks-1030318818"
-webUrl: "https://markets.businessinsider.com/news/stocks/embark-expands-senior-leadership-team-to-commercialize-self-driving-trucks-1030318818"
+excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
+publishedDateTime: 2021-04-19T16:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-driverless-cars-executive-changes-ce8f2dc24decbb5455f371004c026a87"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-driverless-cars-executive-changes-ce8f2dc24decbb5455f371004c026a87"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1489905/Richard_Hawwa.jpg"
-    width: 286
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -60,6 +56,6 @@ related:
         height: 675
         isCached: true
 
-secured: "D8tDxJmAmlH+0fc42teVykziD9gfY2CFzmMqPAGp84z+iWD2sZvIN+PP6ua0k3DW6C9iFmG41E20IHRd7kqG85DzDUSD2HkgnQMyYBBavJCAG5FgvWjeWGiJeVuCAoE5KRQ273x/5dKqYkxw/sGrKEwz8sI150c1qbReuyM0aYRiHDZGTTasec7LMWBqfZ/CTQevKDkr9E+Wt5W7LSIdwuqcrw7pE87/KI0ilm9yM5o1CdQa4NbnjUra/+8FbnASk6nB3sp+3swdrur8DrUL46+TMq91ja/zM4UgfljZmDjurjfsTQj6tiqSNvAY+TCZ5938+A5U0ONvpo2klL67BjgNtBS3sHEp9dL/uyLVIrThTZkE/6O2p4oIOMCIzqoV5Uu5a0J0wsof2UMdqC6c8Bhyoq4Q/dAeSUfUspmpNKU7AS2+yDUIzUq9XEbnIGPZ7jSiuXFSCijZ9ZVFuAgqv0X7atqPHCoHtuS9pJGUQV+27kRVz327Jf/2NQTktgmzLKmdugISVr2/IXKd2xnEow==;rUa+n7miRNE7Edr38vh6Lg=="
+secured: "jzZg0lE4l9Pcxi+tpOSrDahkiQuHxM4wn0PSB57thClZ2ihaoWGruQtnV+8AjoJN/VerEgMq4sh/CQs8J7Kk6Y2PX1hsApKmAKKRNA6pzIS2SbENJ85o09RBd1BDWnkRGvmK7IEUi7gaI2B7yBnf+yyVGl2IEBsl63bCbDg/4yzkCmx5/+zFXpPQ8JgwEK898eFYj5L3bcJ0G6yUklArQfX8NjYxyKs8eSgJNxIzFwIbCYwQFFoHhVyqHciXceLKOH3ro8pw2IVcPfMK85LklJKuOYSc1WT3bX1Yayi6LtJAwEw7W252usuYyAPWi3XOg7GjGElCMRVK93QKYQSwZTRa9I+1D+J8bNF3/NnK2Ec=;4MrQe9DvUnZOJlmsd1nhpw=="
 ---
 

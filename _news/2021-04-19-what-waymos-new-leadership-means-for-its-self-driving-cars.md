@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
-    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company's rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha \"Sid\" Venkatesan will join as Chief Legal Officer."
-    publishedDateTime: 2021-04-19T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/embark-expands-senior-leadership-team-to-commercialize-self-driving-trucks-1030318818"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1489905/Richard_Hawwa.jpg"
-        width: 286
-        height: 400
-        isCached: true
   - title: "Self-Driving Cars Have a Long Way to Go to Earn Drivers' Trust"
     excerpt: "Self-driving cars are still being developed, but have a long way to go before drivers say they feel safe with them on the road. That’s what a AAA survey found."
     publishedDateTime: 2021-04-16T04:49:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://i1.wp.com/media.nbcsandiego.com/2019/09/GMAP_18330654522712.jpg?fit=1200%2C675&quality=85&resize=1200%2C675&strip=all&ssl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
+    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
+    publishedDateTime: 2021-04-19T16:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-driverless-cars-executive-changes-ce8f2dc24decbb5455f371004c026a87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "mWdFyyf+jYcTSfOECMk/VoR/aTuSVxl+CNPg556sUBrdf/bGB/USMZbtHOzZT6fwKcEJXshMsVj0W6PrFfcS4/RgvO1NOJcuLnAz9pV9aoSXz/AmX+ZLJftZrizqrpFbaCSIg6Q2rhK+r2hSzqJX/CzrccgZi/Dbj+DyTFJIZ/WrvC+Hhe3qiyP6DXnMaoQ5FN7hFK2+LjIR5ckv50sm14Jw7U9ref8a90m6tCatfBWZuQXpxw/clBejw2rCTrF8hmSN4//FZqQNmhLlVfEqd41BAnCWDHISK99fuLNzfPsRRrQgc1JRXgtXbWr9H1smraCswE9UDAtMbOyE4qxT6ow8WheBj8yDJ6Mhzo6cHeQ1A4WNjQ9fUtWzAXUNVNq4GjsKzpnlzPAmiqtD3i7y4cukzWM/brwIgcLwkcNDPwu9FgafkArQjuHn5021QUkM9J7dkY0T5q4HgYD40lay/Tu0WCYcUA4N4UMfDTOlSNndrq7JDzQ3Z2DRB7zFV8h3+2hnHiFtMyByj1qBwMXrlg==;0xAUqrGozAtK8C8+VXQ29g=="

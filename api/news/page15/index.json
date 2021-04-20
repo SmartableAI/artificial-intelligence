@@ -2,6 +2,144 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
+      "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
+      "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "originalUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/04/indian-air-force.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative/2228352/lite/",
+      "publishedDateTime": "2021-04-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email.md",
+      "title": "Google’s senior AI scientist resigns after colleagues' firing, reveals email",
+      "excerpt": "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
+      "publishedDateTime": "2021-04-06T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
+      "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
+      "excerpt": "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
+      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC",
+          "width": 811,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT",
+      "publishedDateTime": "2021-04-06T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
       "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
       "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
@@ -896,8 +1034,8 @@
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
       "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -930,8 +1068,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1026,153 +1165,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-how-can-government-attract-the-ai-talent-it-needs.md",
-      "title": "How Can Government Attract the AI Talent It Needs?",
-      "excerpt": "Yll Bajraktari is executive director of the National Security Commission on Artificial Intelligence, a group of industry executives and academics that has studied the government’s AI needs. Martial Hebert is dean of the Carnegie Mellon University School ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "originalUrl": "https://www.wsj.com/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-320749/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-can-government-attract-the-ai-talent-it-needs-11617724802",
-      "publishedDateTime": "2021-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "originalUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/2c4ffcb/2147483647/strip/true/crop/1000x563+0+87/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F60%2F0f%2Fa9632bb44d1498da8134917bc7bf%2F1000-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/robot-artist-sells-art-for-688-888-now-eyeing-music-career?_amp=true",
-      "publishedDateTime": "2021-04-06T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTXL ABC 27",
-        "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth.md",
-      "title": "Startup Adapts AI Used In Space To Advance Healthcare On Earth",
-      "excerpt": "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606349084789535232b6741c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
-      "publishedDateTime": "2021-04-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

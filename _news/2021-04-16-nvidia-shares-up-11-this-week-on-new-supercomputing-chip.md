@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Roundup Of AI & Supercomputing Products Unveiled At NVIDIA GTC 2021"
-    excerpt: "Softwares will be written by software running on AI computers” Jensen Huang, CEO, NVIDIA. Dubbed as the first kitchen keynote, last year NVIDIA CEO announced DLSS, which revo"
-    publishedDateTime: 2021-04-15T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/roundup-of-ai-supercomputing-products-unveiled-at-nvidia-gtc-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/image1-2.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "NhoKMr4KawSqlZdiiIfIPLrsy9ysQX98uB/rkZ8d1lX851TfTmi7Jd2OwG9ZB5GQSQZ+DiXZsmOmFOEvHfK0wbrXnZFN8X5cf79l0zfw4LzgVuNvAJEy7aP9PZ8r87COVUoAhqhN6VcOC+e6Arc56rPLd7RPKIAeIb0KGHQygsPlRlYzKS2rZTjrGs22CWSIUWQO1s+IGl2MXUsv3BzoTCns9FPP37KHWKFqIUUmX+cNXMM+7oEU26/BJhrI0B1jvscY89x/U+EjyaQxo1wz20l+faAAt1DJhEy5IAurqT6LnGMqmX0E49vKJoPdzB98OGVtwMVt52WdYy3D+/mkfY0aKgjuqp50qkW5KfCwEXo3l2x/crtUAAMGGPMT4RJJFzWMeaaykN5izaNZUjF5qf+hvRYP0TRyA5Y/LxX9NOfO93w8xUbMjCXCM4fTRqn1j7bj1gaZrlUe3Ab/zgVMwypAuioF5JplTKsZQJHktMnxbJDKEhJnYmiY5oqBDsEf3Y+vwUvjN4VZ+vzqx2GXxw==;4BPuF5P9iWkLggLhjZ1k8Q=="
 ---

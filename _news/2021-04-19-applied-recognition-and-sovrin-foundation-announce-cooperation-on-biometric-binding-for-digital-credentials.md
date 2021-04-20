@@ -37,20 +37,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Can the European Union prevent an artificial intelligence dystopia?"
-    excerpt: "Leaked draft legislation suggests the European Union is attempting to find a “third way” on artificial intelligence regulation, between the free market US and authoritarian China"
-    publishedDateTime: 2021-04-15T11:13:00Z
-    webUrl: "https://www.newscientist.com/article/2274720-can-the-european-union-prevent-an-artificial-intelligence-dystopia/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/15115331/15-april_eu-ai.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "E7fGzPHbpsKuHQDj6OqMz++p41PuPe7urFFeo1YzWaXyJ5gGUNiXbXLJBRZw9lptjpBQR82xsLl9/DXt/Usx12aAMGyvAcEYI+jLzcxtbynMk5ixGAMneKukJrpS4USv700fM09nOMl1IW3FqyF54pneBygA5xRMFIMz4guyL4VL511f09gJVqOQ/OUkkFiBaZSux8oOZrnmBj3JcOXOVvqUDTMDWi8lfmPyu3oo+rlMLq34LcwXRlLiWsgxEaWTseWd4PVc0lKKe/CuoK0lkXUFrR7dVj2XoU5nAbnpmNukEhlJPJHb5LeQof8jVIH2twS8uRe0auKvAJhlLMpWxoZPw+NJZ/jVOR2XzWsQrJg=;ie3H1Uuw7yJIzZkErBnapg=="
 ---

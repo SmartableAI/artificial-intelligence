@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Synopsys AI-Driven Design System Enables Renesas to Achieve Breakthrough in Productivity"
-excerpt: "Highlights: Synopsys collaborates with Renesas to introduce DSO.ai design system to advanced automotive chip design ; Innovati"
-publishedDateTime: 2021-04-15T13:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-1030308580"
-webUrl: "https://markets.businessinsider.com/news/stocks/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-1030308580"
+excerpt: "Synopsys collaborates with Renesas to introduce DSO.ai design system to advanced automotive chip design ; Innovative reinforcement learning technology massively scales the explora"
+publishedDateTime: 2021-04-15T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-2021-04-15-9183558"
+webUrl: "https://www.marketwatch.com/press-release/synopsys-ai-driven-design-system-enables-renesas-to-achieve-breakthrough-in-productivity-2021-04-15-9183558"
 type: article
-quality: 40
-heat: 40
+quality: 60
+heat: 60
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +22,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "EHvEjpjmmsvFipHHP5PuI0Niv26X1242QVO/jUViGeStm1Ece++Q8lzNjILz23eut49f75G1mrQYrtNSCoodxuv4axLBh3L7M4xVyk3JFDAw17D7+pYoJuKLHWMCoGS9FukePLN2FMjPcGrCDRMDhsn0OjFH/7jSWUpSkY7bEUTxq4N/jWdHaf/QHQp7b4m9ONtrVFUGQ/FCJ9c1/JW5YayMxxKYxJuwjYjDml8yPJJRzfMhDtUQfKM6QJhb65dDA4Wucv1H9D1UVhWunLnffbVQEIN/INAfbm1J5t7XilN7dlaFc1S/ngmy7ZDioQPDNunUKIwXz8j5fMHoFbU39E6qHcQQYayPCH5PIv8+Mao=;9KWHXE+Yo9AmkNDka8Da3A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "vtTZ3oMaNLfDDwdDVKNifp4LXN5hDHTMN2es9OJ7wGWtV7QCdJMBciasPy2NBJuQJN80rkIm1CPilHv15fmoUEL6toV4QUL+SX+V/c9Dbd7HaUGfslEHi4aiM/2TnbmEAjUfEk0c5BMJLQ2WMw/oesFFHcQeezV0DMS6J2pDsEbwkEE60NeusI29dgqT3060I3QGTJjp6I1xLiC99ptxNt0w0OGYyNF+cehg/soZpAmQ6XUsi3+ZC+HcTj7sasDaf+Lb66vl8pVZDggO0KTEfopO0QLrvDvtqAIi+Whx1esP3i0QILQjXxiSVlUP/4qXEDOTLmQiRXUrAOULdxEM5bRtDAET/cdpWiLWLzO3o5c=;RMvU7gt3XbaXKodqXOh0Nw=="
 ---
 

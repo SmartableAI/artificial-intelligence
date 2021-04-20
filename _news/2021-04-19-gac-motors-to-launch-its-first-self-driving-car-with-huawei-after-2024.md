@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-
 webUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "Huawei to invest in electric cars and self-driving tech"
-    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
-    publishedDateTime: 2021-04-16T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "153vbZiJpjQ7r6Q5PSKYYXUmlxGW7y5HEMpAOb7+NSBozsV4vjIgLHBCx4V7YzLHbmSQGZIWd+xmomZWaVPQJ4PIF1Wwdrnugc5y8T4juLyo8OXuPfZUfdUIHsAORcUlTfYQkXN8sAPIbrqAjPzpOtf9pt3U1XQ3/JvmWrgtHQ4PKRcZeIj9TmqcrI9TeNbiGD8XSCluGJPlFIUqfZCY4yZr12Lu7QPcxGZYmTAeStToCNZkpOtolK1wv7lHGgZDZk/AvbMNlY0sQmJyJtJZ6cwvx0zKo+gao1lQc843iTRVMORr7YLiPsXPCRYWlE+6eh8xoxErZ6EvDVzhCFp0powhJVNOMxwmBpUefyvHpNcjhnQYD4hZs7H1uNhauwR2hSqGmyFbmSyzpWT0pABflvqGnLXxBxAw1bIMja4us/DLWnu3sHJC2fu+4uoxpV5qtDL0w3J4Hs2T1iNG1w0dPLx8Sl75Wzhh4YcqbmpKkiKbZV2sEmALGzqynpd6lfBal++dz1XGwOBaWM8pf0dEig==;ZxJxTIaVPm6rHbxZrNAlgA=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp",
+      "publishedDateTime": "2021-04-18T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
       "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
       "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -287,7 +330,7 @@
       "originalUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -904,7 +947,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/369592",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1196,50 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest.md",
-      "title": "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest",
-      "excerpt": "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "originalUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
-      "publishedDateTime": "2021-04-16T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

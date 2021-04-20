@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Proposes Restrictive New AI Regulations"
+    excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
+    publishedDateTime: 2021-04-19T16:33:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/medical-ai-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "EU set to release artificial intelligence legislation"
     excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
     publishedDateTime: 2021-04-16T20:11:00Z

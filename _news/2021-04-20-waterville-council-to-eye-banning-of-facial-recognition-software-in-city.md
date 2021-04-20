@@ -33,20 +33,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
-    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "rygexwBXcjXV5Nk2NfWMEajsr6SO5+y51MkL64tSG3ehVhPYS1h/ED3tNHaH9knbPm69M08yBSh0PEL+DBiX+BBDCC5ij/0cWvI1r0fubwnNW+Wi7+9vMr1PZGF6ssJEOS+4eP02gjiRsAKngpNrFgyhpLP3MreUjw/9Iqv09nwdg8+zGZzt0XfLQo8OCfpL7LkfLiw9W1YE787mxrkrl0aVYrq0WH5Ak3Fncp/GpaWCz3skPQhzp7eskihSFejeVNi97cj5keUVEMeR8zI5FOT/6ceB3h78+CRp1eVRm6KOw7eaUfnrNGGy58fw9Sy2z0+LCfNc0g6eAuAUlczt9vsuX+MWSXGywo/uRS1vTOk=;KvdBrkgUH0RgviCyWTf/cQ=="
 ---

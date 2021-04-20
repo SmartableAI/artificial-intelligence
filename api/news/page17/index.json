@@ -2,6 +2,144 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-06-lg-will-shut-down-smartphone-business-in-july-to-focus-on-smart-home-robotics.md",
+      "title": "LG will shut down smartphone business in July to focus on smart home, robotics",
+      "excerpt": "Instead of smartphones, it will focus on smart home products -- an area where it's one of the biggest providers -- as well as electric vehicle components, robotics, artificial intelligence, business-to-business products and other connected devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "originalUrl": "https://www.cnet.com/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/JaMCCSTvVZzVovh0hCSRNWARiIM=/1200x630/2020/09/24/f6041c84-3000-42ca-810a-2d32e4ea5543/lg-wing-phone-7868.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-will-shut-down-smartphone-business-in-july-to-focus-smart-home-robotics/",
+      "publishedDateTime": "2021-04-05T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-baidu-gets-nod-for-driverless-vehicle-tests.md",
+      "title": "Baidu gets nod for driverless vehicle tests",
+      "excerpt": "The move came after Baidu fully opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing in October. Each of the driverless taxis has a back-up driver, who is ready to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
+      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
+      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
+          "width": 1400,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-ai-and-hr-tech-three-critical-questions-leaders-need-to-support-diverse-teams.md",
       "title": "AI And HR Tech: Three Critical Questions Leaders Need To Support Diverse Teams",
       "excerpt": "The enormous leaps in technology and HR have created many opportunities for companies to rethink how they address processes around human resources. Services range from software identifying a candidate's employability through facial recognition and body ...",
@@ -1056,162 +1194,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
-      "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
-      "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606777a29b21937828c0c223%2F0x0.jpg",
-          "width": 1200,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
-      "publishedDateTime": "2021-04-05T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-six-lessons-learned-from-running-an-ai-company-during-a-pandemic.md",
-      "title": "Six Lessons Learned From Running An AI Company During A Pandemic",
-      "excerpt": "With necessity being the mother of invention, we have adapted to this “new normal” and have emerged stronger than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6067752a3134066730d8fe4e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/six-lessons-learned-from-running-an-ai-company-during-a-pandemic/amp/",
-      "publishedDateTime": "2021-04-05T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028.md",
-      "title": "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028",
-      "excerpt": "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

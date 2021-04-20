@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/eu-proposes
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: pymnts.com
@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "EU proposes new laws to limit use of ‘harmful’ artificial intelligence"
-    excerpt: "The European Union plans to vastly limit the use of artificial intelligence (AI) for facial recognition and harmful algorithms that manipulate human behaviour, according to a leaked proposal. The proposed guidelines would highlight what the EU deems ‘high-risk’ AI,"
-    publishedDateTime: 2021-04-15T11:46:00Z
-    webUrl: "https://metro.co.uk/2021/04/15/eu-proposes-new-laws-to-limit-use-of-harmful-artificial-intelligence-14415020/?ico=related-posts"
-    ampWebUrl: "https://metro.co.uk/2021/04/15/eu-proposes-new-laws-to-limit-use-of-harmful-artificial-intelligence-14415020/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/04/15/eu-proposes-new-laws-to-limit-use-of-harmful-artificial-intelligence-14415020/amp/"
+  - title: "EU to unveil AI rules to fight Big Brother fears"
+    excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
+    publishedDateTime: 2021-04-18T22:22:00Z
+    webUrl: "https://www.brecorder.com/news/40085548"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 57
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/04/GettyImages-1178243888.jpg?quality=90&strip=all&zoom=1&resize=600%2C450"
-        width: 600
-        height: 450
+      - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "EU set to release artificial intelligence legislation"
+    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
+    publishedDateTime: 2021-04-16T20:11:00Z
+    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "p/6lAvc5AYn1f5cLuexDL1SWugURSNdpLAfBF6tByV6WJUxpGkdK+XfzNNWT26mRXd3jjjHMoj7rzDXMER0sSVsP/by/BbUIhRB5dNbUXxTLzMLBAP82Qug5LX7QNHDOUfgqgORfwIfFyCUA5Bt7nZWpbUuRfwamXsFF8MLY9j1Ha6a2JWQavpfi0WVIPGpBlLarYuwCzEc71CRSWsmmJKaGZnnZsBJbOKjqurAO3MTriilCZ6jZcwyf4NQr3LirqAszF98t0b5a8D7OmfMogazQVPxcuAMoSWFddR10By8MHUUgbSvcqb+tnVKvcrM4sUi5RaCdqBq2agzFTvgIQ7wxXywrd0d8SoN+1P6GYekjBDMlf9FDdsiZsfchd87wZVMmoCFPPKHA4jcwbz5I/cTL0Gi+3koJF23TLvPjiw9eJX45H/TXfMtG1PcsRDXBt8k3sKTh6a+81XZd7CY+qL6uVnQtShfhb6LGfeoKtFOOYlrZj5J5xLOUUPnOCuMd7lLK7xDwFeQi5A8sZ/0xhw==;NAfYQePQSe+yjyvro7tglA=="

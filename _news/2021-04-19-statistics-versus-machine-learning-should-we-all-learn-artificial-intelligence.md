@@ -7,7 +7,7 @@ originalUrl: "https://www.chemistryworld.com/webinars/statistics-versus-machine-
 webUrl: "https://www.chemistryworld.com/webinars/statistics-versus-machine-learning-should-we-all-learn-artificial-intelligence/4013518.article"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 536
     isCached: true
-
-related:
-  - title: "Galileo sunspot sketches versus modern 'deep learning' AI"
-    excerpt: "What would we see, if astronomers back in the time of Kepler and Galileo had modern technology monitoring the Sun across the electromagnetic spectrum, available to them? Thanks to modern artificial intelligence,"
-    publishedDateTime: 2021-04-15T12:29:00Z
-    webUrl: "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-galileo-sunspot-modern-deep-ai.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/galileosunsp.jpg"
-        width: 1200
-        height: 960
-        isCached: true
 
 secured: "OWzmqJr3FT+EdmBeR7s1nhvOOnPy+DZh3znGjlts6dhK7SJDKkXyYelmD6jBT6J3FTBk74mhBSmSQfBG1ez6DQiD9gaQcZlrU8Zk+vsxotnTUASLn6UWlBGC1RMI9Vd0pvFyfGX6V/QR/nxyxto5mkmjpE0tsuEN5+czNrTjKJppkZ6NDoToaHaNy2aqcF7W8myp5S8te38nnBnhK+E2veYMI+yxVMU2tsO9s6MCr28+Sb0+d3fcw/SP/r8lHbg9igSxlFWoL/JwsJqla+t2QoLd2OdDVnCKhGkKpXDBFUgf/Ui8t0sIXbJE3yFRVHQBMDPiCsRNZlvz14ytxa6SrquczkYaWDuG2wgZeNThlvkyDS8gNOZoxkSy5ZQV6fV5cIhNFcy318OTxGtMuN8Q7z9l24T5rJeRSbpHK4aRYAM9EKv1QaNweH854kVxwzY/hUI6l/qNwLjvV3l94riAupEhR27RIwnAkrSyPmQP0EjEM3TFVMacoA8ZcVs8/9B3VxhB6hNglcMmKxW9bOWYQw==;jL4npy4fS/qN+LmXtYVBGw=="
 ---

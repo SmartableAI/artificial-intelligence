@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-12-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
+      "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
+      "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "originalUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/lash-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "publishedDateTime": "2021-03-12T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-singapore-sends-robot-couriers-out-for-delivery.md",
       "title": "Singapore sends 'robot couriers' out for delivery",
       "excerpt": "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service.",
@@ -1362,49 +1414,6 @@
       "provider": {
         "name": "heraldscotland.com",
         "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
-      "title": "Prosthetic offers real-time mind control of robotic hand",
-      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
-      "originalUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
         "images": null,
         "publishers": null,
         "authors": null

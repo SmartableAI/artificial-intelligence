@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-annou
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 214
+published: true
 
 provider:
   name: CNET
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving startup Cruise raises $2.75 bln from Walmart, others"
-    excerpt: "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 167
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg"
-        width: 3500
-        height: 2333
-        isCached: true
-  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
-    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
-    publishedDateTime: 2021-04-15T18:54:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
     excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
     publishedDateTime: 2021-04-15T21:45:00Z
@@ -76,22 +46,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
         width: 1999
         height: 1125
-        isCached: true
-  - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
-    excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
-    publishedDateTime: 2021-04-15T20:36:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Walmart invests in self-driving startup Cruise"
     excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
@@ -153,20 +107,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
-    excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
-    publishedDateTime: 2021-04-16T03:10:00Z
-    webUrl: "https://siliconangle.com/2021/04/15/tusimple-shares-flat-after-self-driving-truck-startup-raises-1-35b-ipo/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/08/tusimple.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
     excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
     publishedDateTime: 2021-04-15T18:14:00Z
@@ -205,6 +145,20 @@ related:
       - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/cdn.corporate.walmart_2.png"
         width: 1840
         height: 1200
+        isCached: true
+  - title: "Huawei to invest in electric cars and self-driving tech"
+    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
+    publishedDateTime: 2021-04-16T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Walmart invests in GM’s self-driving car company, Cruise"
     excerpt: "Walmart is investing in GM’s self-driving vehicle company, Cruise, as it works to build out its delivery network. The size of the investment was not disclosed, but it is less than $750 million, as Cruise said its more than $2 billion funding round expanded to $2."
@@ -261,6 +215,20 @@ related:
       - url: "https://igdwebfiles.blob.core.windows.net/websiteassets/Portals/1/Article_and_news_images/Walmartcruise.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
+    excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
+    publishedDateTime: 2021-04-16T06:37:00Z
+    webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 17
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/wIWPKeBZreVu1lSLG6oPud2QaiqYJr0JRJjawyVW.jpeg?w=940&h=430&fit=crop-28-38&s=c23a40bda2d6ce89daab5f7d98e848bf"
+        width: 940
+        height: 430
         isCached: true
 
 secured: "5QxijoKvLLzQQ6vmTZ4HdMUh5ImvIQS6WzdjsjIVwjYGa8aIq/eAl9tQN45S9Hgj4YsorXsR2zyiMGG6IGrCk1qOvEH36kbms/uAZKw3LGSeicagQF0QoLMDU8uuGk2YjlSxKfal1toXgTEn3L8BFJwkXYiR5Uv5xeHUUdqdViwcgtYwt+aLD4YNSIktlH/si0Iq67Yw3EznVZUM73VxUBHyLRI9IbU/B1yisNPfPJP6GLYfPVrE9HTCnB7dCM3QOphtd503ednaKqK7zBQrAytQVW0F6MI+O1F9WtoNHg/LllyxM5OkcMvJBznlW7IO+M7XnIYNnlhBFC1E5QGlwNh4c1bjAp4SekOtqOrQu2w=;JRpHA3B+l+1AGcKQvi2QQA=="

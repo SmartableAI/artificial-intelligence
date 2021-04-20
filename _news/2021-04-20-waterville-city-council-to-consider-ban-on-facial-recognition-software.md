@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human Rights Organizations Call for Corporate Ban on Facial Recognition Tech"
-    excerpt: "Two dozen civil and human rights organizations Wednesday called on federal, state and local government officials and private sector leaders to ban the private and corporate use of facial recognition technology."
-    publishedDateTime: 2021-04-15T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/human-rights-organizations-call-corporate-ban-facial-recognition-tech/173363/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/14/NGbiometrics20210414/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Waterville council to eye banning of facial recognition software in city"
     excerpt: "The council is scheduled to meet virtually at 7 p.m. Tuesday and the public may view the proceedings via a link on the city's website,"
     publishedDateTime: 2021-04-19T20:31:00Z

@@ -2,6 +2,154 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
+      "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
+      "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
+      "publishedDateTime": "2021-04-12T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-how-iot-and-artificial-intelligence-are-the-perfect-partners-to-boost-business-productivity.md",
+      "title": "How IoT And Artificial Intelligence Are the Perfect Partners To Boost Business Productivity",
+      "excerpt": "Thanks to the Internet-of-Things (IoT) and Artificial intelligence (AI) which has transformed the business world by storm. Indeed, they have made businesses less dependent on humans and more dependent on machines. The result is ultimately auspicious!",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/369230",
+      "originalUrl": "https://www.entrepreneur.com/article/369230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618291364-alexandre-debieve-FO7JIlwjOtU-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369230",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369230",
+      "publishedDateTime": "2021-04-12T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
+      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
+      "excerpt": "The powerful robot vacuum DEEBOT N8 Family delivers a more powerful, worry-free and automated cleaning experience   JAKARTA, INDONESIA - Media OutReach  - 13 April 2021 -  ECOVACS ROBOTICS , the world's leading home",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/N8-PRO-mop-1.jpg?itok=lwWr1lI_",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
+      "publishedDateTime": "2021-04-12T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-isilon-founder-lifts-the-hood-on-farming-startup-carbon-robotics-and-its-weed-zapping-machine.md",
       "title": "Isilon founder lifts the hood on farming startup Carbon Robotics and its weed zapping machine",
       "excerpt": "Carbon Robotics’ Autonomous Weeder uses artificial intelligence to identify and zap weeds growing in fields of vegetables. (Carbon Robotics Photo) Carbon Robotics, a Seattle company led by Isilon Systems co-founder Paul Mikesell, is unveiling its self ...",
@@ -1113,152 +1261,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-launches-jarvis-conversational-ai-framework-in-general-availability.md",
-      "title": "Nvidia launches Jarvis conversational AI framework in general availability",
-      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. At its GTC 2021, Nvidia this morning announced the general availability of its Jarvis framework, which provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/8a5f192d-10ec-43eb-9c61-acb8418ac2c6.png?w=800&resize=800%2C390&strip=all",
-          "width": 800,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
-      "publishedDateTime": "2021-04-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
-      "title": "New Advancements in AI are Changing Healthcare as We Know It",
-      "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "publishedDateTime": "2021-04-12T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation.md",
-      "title": "HelloWoofy is an AI-driven social media manager that can save brands hours in content creation",
-      "excerpt": "Sponsored Deals HelloWoofy Social Media Management is poised with all the tools to take the reins of your most important social media platforms, helping you generate content that resonates with your audience,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "publishedDateTime": "2021-04-12T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

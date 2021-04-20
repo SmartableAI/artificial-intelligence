@@ -38,6 +38,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "AWS launches Amazon Digital Suite for small business in India"
+    excerpt: "Amazon Digital Suite will provide a selection of software from AWS seven local partners—Razorpay, Freshworks, ClearTax, Zoho, etc.—to help small businesses to digitise their operations."
+    publishedDateTime: 2021-04-16T09:44:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/articleshow/82100667.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/aws-launches-amazon-digital-suite-for-small-business-in-india/amp_articleshow/82100667.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-697397,msid-82100654/amazon-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AWS launches Amazon Digital Suite to accelerate digital adoption for SMBs in India"
     excerpt: "SMB spend on public cloud services is expected to contribute more than 29% of the $7.9 billion public cloud services market in India in 2024."
     publishedDateTime: 2021-04-16T09:54:00Z
@@ -53,20 +69,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-94899,msid-82100523/amazonap.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "India’s use of facial recognition and digital IDs raises fears of COVID-19 vaccine exclusion"
-    excerpt: "As COVID-19 cases surge in India, authorities are testing a facial-recognition system, which rights groups say puts millions at risk of missing out on vaccines"
-    publishedDateTime: 2021-04-15T12:46:00Z
-    webUrl: "https://www.theglobeandmail.com/world/article-indias-use-of-facial-recognition-and-digital-ids-raises-fears-of-covid/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 43
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/un9nTPPx3EjEe08HevcgTZOxs2k=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GMT2FOYIYZI4NBIKGNHT6PNFDE.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "Sanral investigating facial recognition and machine learning for traffic control in South Africa"
     excerpt: "The South African National Roads Agency Limited (Sanral) says it is investigating how technologies such as machine learning and facial recognition can be used to improve road safety and reduce congestion on the country’s roads."
@@ -106,6 +108,22 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/co/facebook_07063b3b0ed7479b0862_conduct.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "AWS announces Amazon Digital suite to enable digital transformation for Small and Medium Businesses in India"
+    excerpt: "Read Article Amazon Web Services (AWS) has launched the Amazon Digital Suite, a curated set of software solutions aimed at enabling India’s small and medium businesses (SMBs) to easily digitize their operations and bring their businesses online."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.crn.in/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    ampWebUrl: "https://www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/aws-announces-amazon-digital-suite-to-enable-digital-transformation-for-small-and-medium-businesses-in-india/"
+    type: article
+    provider:
+      name: CRN
+      domain: www.crn.in
+    quality: 40
+    images:
+      - url: "https://cdn.crn.in/wp-content/uploads/2020/06/29104048/Puneet.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "State panel studies use of facial recognition technology"
     excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."

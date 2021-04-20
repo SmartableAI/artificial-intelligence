@@ -42,18 +42,18 @@ related:
         height: 600
         isCached: true
   - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
-    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company's rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha \"Sid\" Venkatesan will join as Chief Legal Officer."
-    publishedDateTime: 2021-04-19T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/embark-expands-senior-leadership-team-to-commercialize-self-driving-trucks-1030318818"
+    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
+    publishedDateTime: 2021-04-19T16:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-driverless-cars-executive-changes-ce8f2dc24decbb5455f371004c026a87"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/1489905/Richard_Hawwa.jpg"
-        width: 286
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "bnOLUtaFbzS0Ha6UQVyIq+FOypMfRiRLnSyBrLRViXgHYhOz5XIZED+vpygAF7zLKr1KPTaBEHMPhRwihZYZ28Ix83H/vETdrfWB6Ne5fAcYoBo2oDcpIE9vjTFNal4df0nNnPz4gnZGCI9TECPlxXWXwetBupL5IOcJYiuUgSd+qA/Inqmpbb7FJu98PsmeuzGDaEdzCmJHRxlR603PjWOZHps+KJ7g5lrvzbiwMVE0IVcp91iNws4G7W9Y93dMfb/Mkoz4ssmlX4TOdmLrQcAKspTrakShCJUpxuW7VKb8yG0FoO9L68ewmODNhHkP0iXvXRcVWG6w5P27Zqg/eYo7ikyvnJn13q64ZOa/l6MyMbODaRMc7aY/DcQHBOXiiCHNGyhgv3Bj+oK0joSeMoKiXSOoFCutd8br7JUcvdyVGa4Wv9armeShvGJ8Vu32ppOiOVeXydT2aojdjdYMGrzTVM9HFN+sU+w/prFUCLvEzcfh8ELZXTWdY5HKD3HOOC81XgIL0Wp4bKtU+oYMEQ==;jKkVzNM1+rScWzYZ2/vobA=="

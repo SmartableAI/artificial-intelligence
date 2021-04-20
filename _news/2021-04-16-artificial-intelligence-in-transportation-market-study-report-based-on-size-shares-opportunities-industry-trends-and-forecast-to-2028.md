@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Machines Market Development by Gross Margin, Market Share, CAGR, and Influencing Factors and Forecast To 2026"
-    excerpt: "Apr 15, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Machines"
-    publishedDateTime: 2021-04-15T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-machines-market-development-by-gross-margin-market-share-cagr-and-influencing-factors-and-forecast-to-2026-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Size 2021-2025 on Going Trends By Development History, and Business Prospect, | Says Kenneth Research"
     excerpt: "The Artificial Intelligence in Agriculture Market is expected to grow with a significant CAGR during the forecast period, i.e. 2021-2025, on the back of growing internet penetration around the world along with the rising adoption of smartphone."
     publishedDateTime: 2021-04-16T05:59:00Z
@@ -236,17 +222,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Speech And Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The global speech and speech recognition market size was valued at 9 12 billion in 2017 It is expected to expand to a CAGR of 17 over the forecast period Advances in technology along with increasing adoption of advanced electronic"
-    publishedDateTime: 2021-04-15T11:29:00Z
-    webUrl: "https://www.openpr.com/news/2270826/speech-and-voice-recognition-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270826/speech-and-voice-recognition-market-global-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
 
 secured: "TrDFsilCRSHYr6pCIr8l9XFXuRRjSOTUppr655eY1lKi+vqoujL0Sh4A95oM90N39nETzWfRe1I8e2FpEQQaQfpO6OdOTwU3sHMEcVrDt72m/UprzoO0iSlSvsCjjq/6wYqlW0S4bjYr6tFrSOALrwJLccUF1JxKOSl7tms/PDvCsuWtxJI6OXXjtV5VT6MQ6nbN+IKzfYEnSGjwu0pj7h5/vVbCmF3bk93BQuJnsbwXS9Edaeq2e4eNvr/znKDyrrzicbyghDRJrBJIm5Iz5sMzHBGhrTmW6i5O4Mjc/n7WwYohcv7KWvTMS9ExpGB3Aak9dJH7VSASk+McnA7oseyjZItgZkzgdTizi9koIg4=;/f4psrev5R7T/GkY+aO8/Q=="
 ---

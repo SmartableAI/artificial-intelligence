@@ -2,6 +2,152 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-03-31-facebook-gets-a-c-startup-rates-the-ethics-of-social-media-platforms-targets-asset-managers.md",
+      "title": "Facebook gets a C – Startup rates the ‘ethics’ of social media platforms, targets asset managers",
+      "excerpt": "He says that when he left Fidelity he decided EthicsGrade would out to cover not just ESGs but also AI ethics for platforms that are driven by algorithms. He told me: “We’ve built a model to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
+      "originalUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/EthicsGrade-Industry-Summary-Scorecard-Social-Media-.jpg",
+          "width": 620,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/31/startup-rates-the-algorithmic-ethics-of-social-media-platforms-targets-asset-managers/amp/",
+      "publishedDateTime": "2021-03-31T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-xiaomi-invests-15-billion-in-fully-owned-ev-business.md",
+      "title": "Xiaomi invests $1.5 billion in fully owned EV business",
+      "excerpt": "The world's fourth-biggest phone maker Xiaomi now pledges to develop high-quality EVs with a 'best-in-class' connected device ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "originalUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2021/03/vbox12151_HSPH5091_212757.jpg?fit=1920%2C1080&ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
+      "publishedDateTime": "2021-03-31T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-uniphore-raises-140-million-to-expand-ai-to-video-call-analysis.md",
+      "title": "Uniphore Raises $140 Million to Expand AI to Video-Call Analysis",
+      "excerpt": "“Labor-intensive contact centers couldn’t handle the deluge so AI and automation products like ours stepped in to fill the gap.” Sales tripled in the fiscal year ending March 2021 and the company is set to reach $100 million in annual subscription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL.YJ53uTW1E/v0/1200x826.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-chinese-government-run-facial-recognition-system-hacked-by-tax-fraudsters-report.md",
       "title": "Chinese government-run facial recognition system hacked by tax fraudsters: report",
       "excerpt": "Concerns mount for data privacy in China, as a group duped a government-run facial recognition system to issue fake tax invoices valued at US$76.2 million.",
@@ -1053,161 +1199,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-forbes-backed-qai-announces-availability-of-qai-invest.md",
-      "title": "Forbes-Backed Q.ai Announces Availability Of Q.ai Invest",
-      "excerpt": "AI-Powered Investment Platform Offers Customized, Professional Strategies Typically Reserved For High Net-Worth Individuals; A \"Hedge Fund in Your Pocket™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
-      "originalUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60636b7bc151c754b8276463%2F0x0.jpg",
-          "width": 600,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
-      "publishedDateTime": "2021-03-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-intel-will-launch-its-ai-based-toxic-voice-chat-filtering-bleep-software-later-this-year.md",
-      "title": "Intel will launch its AI-based, toxic voice chat filtering 'Bleep' software later this year",
-      "excerpt": "AI to the rescue: Anyone who's played an online competitive game for longer than a few hours -- and with random users instead of friends -- has probably encountered a jerk or two. Trash-talking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89111-intel-launch-ai-based-toxic-voice-chat-filtering.html",
-      "originalUrl": "https://www.techspot.com/news/89111-intel-launch-ai-based-toxic-voice-chat-filtering.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-30-image-13.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89111-intel-launch-ai-based-toxic-voice-chat-filtering.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89111-intel-launch-ai-based-toxic-voice-chat-filtering.html",
-      "publishedDateTime": "2021-03-30T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
-      "title": "Rust detection using machine learning on AWS",
-      "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/06/8-Corrosion.jpg",
-          "width": 800,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T09:20:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
