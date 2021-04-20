@@ -51,20 +51,6 @@ related:
       name: Indus Tribune
       domain: industribune.net
     quality: 17
-  - title: "Novel application of automated machine learning with MALDI-TOF-MS for rapid high-throughput screening of COVID-19: a proof of concept"
-    excerpt: "The 2019 novel coronavirus infectious disease (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has created a significant demand for testing 1, 2. In the United States,"
-    publishedDateTime: 2021-04-15T10:40:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87463-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 8
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-87463-w/MediaObjects/41598_2021_87463_Fig2_HTML.png"
-        width: 685
-        height: 363
-        isCached: true
 
 secured: "ZVgaDWTUoJAU1BM9fFX5uR2unVZppF8hOtlcRTrjw0LidmBkPtiI0dF53DgTBkB8bV6IRSkUdob9xLJALEaGeJFwtS/NNFmeGa2jmr5P/GVQ70tfE7nD0y5udfvXmu3fr2+v4/pkjrMqFm9i95VWpd62DHmR8MAiUvljKgWO8KSlx3AdufVEKlEpHhtAHLJ90Xpckbl7cXBboJpSysR2w3j+HVDojbkSpPVVTeoL1haqOQrYfcCGK8Q6WtCxLBVSAIbp+1LXcjKjOvbgD78awH4IVls4DzhNuQsEW4AJQfahAaqJGF2VIEVMlNbDBh1rSBwdrAi58ahQrhYiU0cCmGZgclkTzXRwctvz7OdWF+c=;Offf/pskijsujIVU/D57Bg=="
 ---

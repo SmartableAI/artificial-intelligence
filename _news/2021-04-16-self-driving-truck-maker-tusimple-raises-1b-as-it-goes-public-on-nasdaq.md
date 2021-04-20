@@ -98,15 +98,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
-    excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
-    publishedDateTime: 2021-04-15T10:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210415563/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-85-billion"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "3IFCPnOu2yw1maA5BO3Zr57HVAzTYaa12+lHgMieev4+cunJ300mVvV7tqY5m4TLAWnBA3FlcpeeBu/IDh5M3IERlYvigWEPK+cJe6jSqeukDdsgLDM/9QpzbtEcMkb1RvoTFb/mY9595aezFo2PCnOFlMGv5F7laftREj8qoX/SliYGl28c1zUIEiDXg8XbUSPLNguhiOwC/VzVpJiajynIDQ+uAO7OGsJeJXm1JB7B5yuT4k1BgVSQTizQ5mc8xhITvg8DQBfIIjapU+j9lqvLLgBiAlClyrj8gIRIm5lFPrQtAz+Q3qoj0o4ErPP+DwJCg9dtmA6ppR2lPHYmxdqo9OQASqM3U9a9ulqjlbduKSMJQjgAR2kTQZWacR/izvk3UYVIoswTxKD4/KZ7h7Va6SFvuXMHL2fYnESZsqcbxnMxvPXjdcsFT8BGSfeKJYYgHr7+mq05bBjeTPyaP5ufBFMPXMRbyQN5D9AceOGOc4Wy5NrZB1h6PDUvekyHcjjLjFok0jdcgxn2AlqT3A==;ov0/WZHNS3nMxhoVs1t/1g=="
 ---

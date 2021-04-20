@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-04-05-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-05T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
       "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
@@ -1358,6 +1315,49 @@
       "provider": {
         "name": "Reason",
         "domain": "reason.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
+      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
+      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "publishedDateTime": "2021-03-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

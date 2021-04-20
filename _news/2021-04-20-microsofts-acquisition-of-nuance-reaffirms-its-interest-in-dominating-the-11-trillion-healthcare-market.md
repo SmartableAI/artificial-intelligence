@@ -1,0 +1,187 @@
+---
+category: news
+title: "Microsoft’s Acquisition Of Nuance Reaffirms Its Interest In Dominating The $11+ Trillion Healthcare Market"
+excerpt: "One of the largest global market sectors is healthcare, expected to be valued at more than $11 trillion by 2022. The growth in healthcare continues to be tremendous, especially as new innovation is increasingly being embraced by the field."
+publishedDateTime: 2021-04-20T03:13:00Z
+originalUrl: "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/"
+webUrl: "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/"
+ampWebUrl: "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/"
+type: article
+quality: 88
+heat: -1
+published: false
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Healthcare
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607e442c21370045d45f7edb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2392%26cropY1%3D3%26cropY2%3D1349"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
+    publishedDateTime: 2021-04-16T16:37:00Z
+    webUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html"
+    ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 108
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
+  - title: "Why Microsoft’s new AI acquisition is a big deal"
+    excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
+    publishedDateTime: 2021-04-17T17:25:00Z
+    webUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/"
+    ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facial recognition lawsuits against Amazon and Microsoft can proceed, judge rules"
+    excerpt: "Two Illinois residents have contended that Microsoft and Amazon illegally profited off their biometric information when the tech giants used the plaintiffs' images to help train facial recognition algorithms."
+    publishedDateTime: 2021-04-16T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 83
+  - title: "Microsoft’s latest acquisition shows speech recognition is big business"
+    excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
+    publishedDateTime: 2021-04-16T03:20:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/microsofts-latest-acquisition-nuance-shows-speech-recognition-is-big-business?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/04/GettyImages-927963448-edited.jpg?fit=740%2C420"
+        width: 740
+        height: 420
+        isCached: true
+  - title: "Microsoft Competes With Google, Amazon In Healthcare"
+    excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
+    publishedDateTime: 2021-04-16T19:02:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 76
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-nuance-healthcare-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
+    publishedDateTime: 2021-04-18T19:04:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-ai-900-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 67
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
+    excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
+    publishedDateTime: 2021-04-19T19:00:00Z
+    webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 54
+    images:
+      - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
+        width: 1140
+        height: 712
+        isCached: true
+  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
+    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
+    publishedDateTime: 2021-04-19T02:35:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
+  - title: "Microsoft’s share price pops after Nuance acquisition"
+    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
+    publishedDateTime: 2021-04-16T12:25:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 41
+    images:
+      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
+        width: 768
+        height: 576
+        isCached: true
+  - title: "InnovoEdge Joins Microsoft for Startups Program"
+    excerpt: "InnovoEdge, an AI-powered multi-cloud and edge application orchestration company, today announced it has joined the Microsoft for Startups program, which is designed to help business to business (B2B) startups scale with access to technology,"
+    publishedDateTime: 2021-04-15T14:48:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-df5007d4687cf8a9239ab6e8d22518c4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
+    excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
+    publishedDateTime: 2021-04-17T00:29:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/16/seattle-judge-privacy-suits-amzn-msft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
+
+secured: "FpNcM+FyeK55e3d/keWe5snzwkYTbQiEf7UN1cveaZQUq6RssSAowULWejZJEcC1deeYOMCfKYgElTle3jrLZwSuGg8rrlxwxZiyhRyC/WuPsaxgWDhZBCrMkCJyecRA361d2zXFobk2kjQaxF8oKgjtfLFRA8xgy/4kxqe2rSrVrufvapnxdy9GmlXDA57kvxYA4dKnDQ6jWmMYWpCgYKtE5Dw94MAn5gkvEavUCsaDbgZW8J0M/LO5t0SiYQRk+7BboxNd3Ua5+bC81Q76qGLhMjxmcueyfSJ26UY3hUcfOD2Bv5AA9hvam6HfIUelna3c7PglSbyxhYDgim7EEytr3gH9NE3+q1PQ6ZbJ9Xc=;RiQ6Ol6RjtqUDl/z5alGcQ=="
+---
+

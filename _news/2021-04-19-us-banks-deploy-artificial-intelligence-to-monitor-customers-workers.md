@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US banks deploy AI to monitor customers, workers"
+    excerpt: "Several US banks have started deploying camera software that can analyse customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
+    publishedDateTime: 2021-04-20T00:44:00Z
+    webUrl: "https://www.itnews.com.au/news/us-banks-deploy-ai-to-monitor-customers-workers-563559"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/atm_31918054.jpg"
+        width: 500
+        height: 334
+        isCached: true
   - title: "AI enables banks to spot bias claims in customers' complaints"
     excerpt: "You all will not let me breathe” is just one example in the CFPB’s complaint database where a consumer likened alleged mistreatment by a financial institution to social injustice. An artificial intelligence firm uses technology to help companies flag such language."
     publishedDateTime: 2021-04-20T01:00:00Z

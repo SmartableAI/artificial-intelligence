@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C217V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C217V"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
         width: 1088
         height: 604
+        isCached: true
+  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
+    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
+    publishedDateTime: 2021-04-20T02:00:00Z
+    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 37
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
+        width: 600
+        height: 497
         isCached: true
 
 secured: "zkg3jZj5kxEOBRPgPvHqbBg/1PUiIQR52vH7pMdidH4eRHjigDJaPFrnnCu6uhhSdXQHQzPDboateJk5HHtXF3Ec72qwjv1N8AqXrmlhYCImuXPjKqCEhWgVohFywPN1FOA+qMQjmX78uM9XVGxkkQn4UvphLG5x2rLC7SNQ3H7baKFFU32FguakdnVhExS4e2cOpkRvFUpx9rlIut+NN0k88tHG3/kvSi0WxGO4Wvz29uAwnDp8EYpWO0DeJv2xD9URPOWLz25PB9hDndRDpo2vJ13dwRiURLiDW4MVuAlsqLtx3B1OCDtbXZxg8OUUl6WVfk+Duz80Uh93PnPuy+WT8/oOaPEZvVroTvHmu3c=;E/s/4r4/2MBQd1jaT8g7Yw=="

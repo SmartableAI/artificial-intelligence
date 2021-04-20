@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-17-incorporating-artificial-intelligence-in-indian-healthcare.md",
+      "title": "Incorporating artificial intelligence in Indian healthcare",
+      "excerpt": "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "originalUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "publishedDateTime": "2021-02-16T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-how-ai-can-remedy-racial-disparities-in-healthcare.md",
       "title": "How AI Can Remedy Racial Disparities In Healthcare",
       "excerpt": "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine.",
@@ -1335,58 +1378,6 @@
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026.md",
-      "title": "Healthcare Artificial Intelligence Market Analysis, Industry Outlook, Current Trends and Forecast by 2026",
-      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-industry-outlook-current-trends-and-forecast-by-2026-2021-02-05?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "The Artificial Intelligence (AI) in BFSI market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-04-15T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
     publishedDateTime: 2021-04-19T09:43:00Z

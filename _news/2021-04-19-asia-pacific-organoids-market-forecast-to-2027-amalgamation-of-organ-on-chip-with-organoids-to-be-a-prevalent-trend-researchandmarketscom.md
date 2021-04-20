@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "The Artificial Intelligence (AI) in BFSI market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-04-15T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Industry Analysis, Market Size, Trends, Share and Forecast 2027"
     excerpt: "The Global Artificial Intelligence (Ai) in Medical Diagnostics Market is estimated to value over USD 5.2 million"
     publishedDateTime: 2021-04-16T13:37:00Z

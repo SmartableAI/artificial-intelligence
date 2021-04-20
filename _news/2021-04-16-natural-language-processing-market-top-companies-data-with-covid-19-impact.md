@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Novel application of automated machine learning with MALDI-TOF-MS for rapid high-throughput screening of COVID-19: a proof of concept"
-    excerpt: "The 2019 novel coronavirus infectious disease (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has created a significant demand for testing 1, 2. In the United States,"
-    publishedDateTime: 2021-04-15T10:40:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87463-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 8
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-87463-w/MediaObjects/41598_2021_87463_Fig2_HTML.png"
-        width: 685
-        height: 363
-        isCached: true
 
 secured: "Q3atpz5Hyd8TqU37IiMsfdx/S2DEbuShXt3v+GjRgSVVzx5FRHCVeIlXXKkRCE2lhOrNhH5/DoPl4SgIEaAdjDr1O2qxofGu0vNtVWEB0VXGveBACO6joS4i1DHlcWNZnEZ8ntzdzBwn7SkBTXOKW94l/kDLbrSjqKyu6yvs+NYln+DKA4jEAs+C2pnXAp7mMw0sClFG0Bc14x5gyqskUMLUlFDIS+I5bYWBSZwN4sDdUJNcVD7K/PKcrJLy3Qlm85mEAHlXNAAcJ9O0mSbN8alYUf6s05XoApWIiFrohfuxrJLVLZmjsRvISWtXUlBpl9GddF7t1NF7w/Mr+vKMthb+U1jnM3QToAaqOXbci5w=;OJ06h7NjRrARg1aMgWpZhg=="
 ---

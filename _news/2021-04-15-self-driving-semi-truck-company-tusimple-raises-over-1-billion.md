@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/04/self-driving-semi-truck-compan
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/04/self-driving-semi-truck-company-tusimple-raises-over-1-billion.html"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla self-driving truck rival TuSimple raises more than $1 billion in IPO valuing it at $8.5 billion"
-    excerpt: "TuSimple shares are set to begin trading on Nasdaq on Thursday in an IPO valuing the company at $8.49 billion TuSimple has raised $1.08 billion in an IPO after the autonomous trucking rival to Tesla and Google priced shares above its range ahead of the group's market debut on the Nasdaq on Thursday."
-    publishedDateTime: 2021-04-15T10:18:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210415563/tesla-self-driving-truck-rival-tusimple-raises-more-than-1-billion-in-ipo-valuing-it-at-85-billion"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "Uiau8YJWLnBBFL3UYLwd1B/bk/nM3IE9TnOq1DThvY/LUaDq62wRFkKokF2i9ZXW2oJyObJCw2aNB8v2609/bxqq0/IdINuq/i81GWexuSXFnK/Bm/53Q54UnnUCE+05Rukar/hl2XFSVptVu5ZFcCO6TeICe3SRxOKBjjW94CxZBDerIvXzFR2pXxrFWQ+sKgk3u+gTZes96SSBFOabfe8sq4sYYn+9sa3KV1VeJAwlYPO9i5AV6DKamv5dSsOMCB/uVmj5/CZg5vV09s6znHpHmGV/Tf7Lu1v/Fp38XECZamlWo2q7508h6fOGsUL567+QwIik1LE/qvs3UYp58xf3Wh+BfHQSD5Su3laIWy8k2cUJPg16B8ROOvcTHNcaSs35H5/PTowOlI0I7w7KZi2Olpav+H9ZjuesEpQIdLCyIWwU0V5zS63JbD6lB+nlNnF4EMTXH1tgZhajpM01DLCOkEvrhbzL/FkIcG0N2E7v/17tW7ol5YS+BVQITTc7GQZ+Q0fKDi6/5/czA6MzxA==;bOl/a7CjkjKd57rNisslYA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-re
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
-    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
-    publishedDateTime: 2021-04-15T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
     excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
     publishedDateTime: 2021-04-18T14:39:00Z

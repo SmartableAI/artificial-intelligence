@@ -55,17 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft doubles down on healthcare and conversational AI with purchase of Nuance"
-    excerpt: "Nuance has been the largest independent speech recognition vendor servicing healthcare and enterprise customer service markets. With this acquisition, Microsoft gets serious healthcare chops, an arsenal of conversational AI assets (including voice biometrics),"
-    publishedDateTime: 2021-04-15T09:42:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-doubles-down-on-healthcare-and-conversational-ai-with-19-7b-purchase-of-nuance/"
+  - title: "Microsoft’s Acquisition Of Nuance Reaffirms Its Interest In Dominating The $11+ Trillion Healthcare Market"
+    excerpt: "One of the largest global market sectors is healthcare, expected to be valued at more than $11 trillion by 2022. The growth in healthcare continues to be tremendous, especially as new innovation is increasingly being embraced by the field."
+    publishedDateTime: 2021-04-20T03:13:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607e442c21370045d45f7edb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2392%26cropY1%3D3%26cropY2%3D1349"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft’s latest acquisition shows speech recognition is big business"
     excerpt: "Microsoft this week announced it will acquire Nuance, a Boston-based speech recognition and artificial intelligence company, for around $16 billion. It’s the company’s largest acquisition after LinkedIn and a big bet on speech recognition technology."
     publishedDateTime: 2021-04-16T03:20:00Z
@@ -162,20 +167,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Why Did Microsoft Acquire Nuance?"
-    excerpt: "Nuance provides the AI layer at the healthcare point of delivery and is a pioneer in the real-world application of enterprise AI."
-    publishedDateTime: 2021-04-15T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-did-microsoft-acquire-nuance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-13.jpg"
-        width: 2240
-        height: 1261
         isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."

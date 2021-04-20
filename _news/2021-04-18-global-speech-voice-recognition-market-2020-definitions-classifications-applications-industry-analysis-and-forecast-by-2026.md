@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Analysis Report – Global Industry Outlook, Size, Growth Prospects and Overview Forecasts to 2025 | Million Insights"
-    excerpt: "Global Artificial Intelligence (AI) Market is anticipated to reach USD 35,870.0 million by 2025. Artificial Intelligence (AI) is the intelligence presented by machines. It is also known as “Machine Intelligence”."
-    publishedDateTime: 2021-04-15T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-report-global-industry-outlook-size-growth-prospects-and-overview-forecasts-to-2025-million-insights-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
     excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-04-19T06:44:00Z

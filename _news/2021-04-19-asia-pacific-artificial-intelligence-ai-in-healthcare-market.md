@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intellige
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in BFSI Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "The Artificial Intelligence (AI) in BFSI market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-04-15T09:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

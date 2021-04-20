@@ -168,6 +168,20 @@ related:
         width: 301
         height: 226
         isCached: true
+  - title: "2 killed in self-driving Tesla crash in Texas"
+    excerpt: "The crash killed two people in Spring, Texas."
+    publishedDateTime: 2021-04-20T00:17:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 39
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/pqXVHjqx-F5QoGERDzHccUIvl0s=/1200x0/d1acid63ghtydj.cloudfront.net/04-19-2021/t_dab63cb149b64bd984d4a764a2513fb4_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
     excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
     publishedDateTime: 2021-04-19T21:57:00Z

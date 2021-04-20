@@ -120,7 +120,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US banks deploy AI to monitor customers, workers"
+    excerpt: "Several US banks have started deploying camera software that can analyse customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
+    publishedDateTime: 2021-04-20T00:44:00Z
+    webUrl: "https://www.itnews.com.au/news/us-banks-deploy-ai-to-monitor-customers-workers-563559"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/atm_31918054.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
-secured: "e0lvKkD2ubxF3lmTe68qsg2mbvYK7INsVPGN2lpG1Yn6yVkwDfmGhbfyIPkU5/srtf33yWuOtmkVqT2lrft4082VVUolF8iXaQJ343Z4U/EvDhg2fQHv/6g4Hy9faIf70dqibKXr7SQC4oduUkaJ3APYJxC32jv73xARnfWW8F6iL5gPReSRoI66u+kwYctqiDhjKOGGzeDL21DwBnl08NOrD27Oa+YPD888S2IacgXIpuCrhnOvDFdL847vyGW2satyldOKhcNXS2gQ7RgBXZie4Gecdy5geb6w7NmfABuBL3+7hcGg0Dja2ulVOx3AQFkLnZbf4bkUB4wvpgMpukBHS0Fk5/f9P7/UFLuHZtU=;JR6Lpiml748wj3dx1x0/XA=="
+secured: "WL+YYPk4IlMvqnUT/AldJER8+WIIOohtEwKWSulRS9l1zwozaQjrpMa3jNutO9Kyakl7bbJlBXdfV7Ad/YPvFHQdw+pxs+2asV9c94K7wvr9r0CBqTgt2QnQJri1T3SvNf4m3BEruYs0GFILOX6nJmpWBGKkNPBf8AQSih0TK0hAw6NbKuSvjSczphvaDFsKkBn3PN4uB3ZzaptxN3wrsLG7G2OjSnscy9LwbIyBxbpK/mfjYa2NYZj0Xt6810oD86RA2QUvl/wMsMuqzaiBX3pb+LSuhPKXhNTT6cZwU0JEErMCcGBFUR5Vf8jpkhe0pUNKudzVn4Fzho7OjRxLPQ+2aHFmxGKoJf59ThOdUJvvbA/iiQEQLOoB4+TFlkpyY1nSl5vmp2VbGAyUWCYDgqSY8nkwtf1HOMqez7tJo/TrN27ad+/ahSluYgVMS36aY1WoFQC98c22lhfP9X5Aj3PdQOlWTsa3LUtpjZ+RuAQEF1GGZFmjLU898HQTy+12iHAQxR5PpWbplgRGIwvBmQ==;p84/p+TK4+BZeBIsedjp7w=="
 ---
 

@@ -121,6 +121,20 @@ related:
         width: 1088
         height: 604
         isCached: true
+  - title: "Livingston Music Education Program Receives National Recognition For Fifth Year"
+    excerpt: "For the fifth consecutive year, Livingston Public Schools (LPS) has been honored with the Best Communities for Music Education designation from The National Association of"
+    publishedDateTime: 2021-04-20T02:00:00Z
+    webUrl: "https://www.tapinto.net/towns/livingston/sections/arts-and-entertainment/articles/livingston-music-education-program-receives-national-recognition-for-fifth-year"
+    type: article
+    provider:
+      name: TAPinto
+      domain: tapinto.net
+    quality: 37
+    images:
+      - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
+        width: 600
+        height: 497
+        isCached: true
 
 secured: "sLWSzXxFeCsPRzA2xQpB72kaCCn1Fv9U9Rf2KQ7jz/r2GIC7NH8d4+u0/JRSQsrZfBQykr8c/Ca5N+iexk00bv7Wy95inXeyXyP+BE0aOorYEwmEdHwee9wKh7YgvnB5AWhUN40rdOv5KbH/mtA2Efho+Li0TYBtQNNXBZEzvdessOLtDbAntQFcgB1wWldqOi5iSBGzlFN4z+ur6Edtm2P5bfLPz5E9yCfd/V2iRvCLDvOqbJAv4glqW9trsR6akgv5gNAfMxsmj8d89nBotr6UUx/yJSrw4KC1Jq0mJxxAGx687a89+lDWOicCXXr5keZx0ZX50z2vkcUaUbjGS+UoW/YHUQYret0sJrmMc7A7/W03qdKTni045rPcbnZaUDb8P5INmpLwkls2o/nN1OCKfTkV4zdXsC978X3JjWevf0uUoUipvlXZ4O78WLmmTiI1Rgu/N/zQwh+G7pQAZqJAHSRbv8oi8tmD6TtqqfQVc3og+KwgiCGKueiQ7Y4OJkTQ+B+Nli1RAdRv/BjgvA==;xs7Rfhw0HYcZr579II6QmA=="
 ---
