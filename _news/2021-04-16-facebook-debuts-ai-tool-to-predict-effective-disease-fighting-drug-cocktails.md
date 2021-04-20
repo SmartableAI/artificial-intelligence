@@ -85,20 +85,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
-    excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
-    publishedDateTime: 2021-04-15T18:33:00Z
-    webUrl: "https://www.biometricupdate.com/202104/facebook-wants-to-build-trust-in-ai-with-its-casual-conversations-dataset"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facebook unveils AI model to mix up cancer-curing cocktails with existing drugs"
     excerpt: "No longer content to simply provide a platform for keeping up with long-lost cousins and spreading conspiracy theories, Facebook has branched out into developing artificial intelligence to help treat complex diseases."
     publishedDateTime: 2021-04-19T15:45:00Z

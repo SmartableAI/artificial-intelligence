@@ -86,6 +86,20 @@ related:
         width: 600
         height: 497
         isCached: true
+  - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
+    excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
+    publishedDateTime: 2021-04-20T11:45:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 30
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg"
+        width: 2560
+        height: 1701
+        isCached: true
 
 secured: "vnfkhjPIA51qDStQmDqT5sjPVYnfbv934Ua5LBSY6sG+CajyBSQT8I0L6Zb6QmPslOT3ySiJVrdRM11aCDkgTL1AJI6tM2XwaM5UgHkj2eXdbnGL4bB5AMjhGdpmcYBc5PUPveS/samLfEa4spFssj3wSXYzKpirmsGLg+HxYbY6ShnV/EZlKsQsFskKF5wK0EGCqlzvZUQMBVZxFQEcHMZhax7VU7jg+mFlCIaEk2dt8QbAjQg6IcipfXctTLA8/jvVCMgkVmWSD5Z7PA36CPGcarKClyM0tC5g7B1tNV4PCo3QOGqOiUUYg4m+AIsQ9JYEPz4JuKvWfETYd9PWQvRRiZCZkNjTFBraxUwjlOpiGUSrNysleBK3gNw3eqHQ+/kqjx5iiQdiaPUckyRVvGpl37UfpvNQUwlewfamTXPQqeBfrp0ib/m4Xql/2VvcrWtw2AY6DX3tSqQvYTSXZ76Jdqnjf+WvmYVKuDWY2WaCtnYnGCAwEOwTdzPtAoHYNts4Ax57L5Rh4yxgBt82mg==;0tiF5igsrBTQVM4U5awTyQ=="
 ---

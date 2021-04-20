@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ -research"
-excerpt: "Translation tools from Alphabet Inc’s Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as “enjoin,” according to research due to be presented at an academic workshop on Monday."
-publishedDateTime: 2021-04-19T10:14:00Z
-originalUrl: "https://www.metro.us/google-translation-ai-botches/"
-webUrl: "https://www.metro.us/google-translation-ai-botches/"
-ampWebUrl: "https://www.metro.us/google-translation-ai-botches/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/google-translation-ai-botches/amp/"
+title: "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ – research"
+excerpt: "Translation tools from Alphabet Inc's Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\""
+publishedDateTime: 2021-04-19T13:52:00Z
+originalUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research"
+webUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research"
+ampWebUrl: "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
+cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp"
 type: article
-quality: 59
-heat: 69
+quality: 58
+heat: 68
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Philippine Daily Inquirer
+  domain: inquirer.net
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I0MA-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2019/05/crime-scene-300x200-300x225.jpg"
+    width: 300
+    height: 225
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 323
         isCached: true
 
-secured: "Y6LK9pG/g+sogvx6hHjvrHguBJwtB2opvA+wVyxIihvkY7BBDM98dil0qIePWEjz/cqEHI9n0uR5uJkARz4foLXPO2F3UsMkvbQWgFtCAhMTTQmSboXG1URU/tbV7lIFx843UlJhzhOMjSfZlEZweETVNfGn7W+acaBXcDNR/ra6giALtkuIBqmPjwFII8m/e1C9XVnzV//ZD6Lnz66wPrTXuewo5W4+lU9Ex3W8b14nIi2wU4VRIeCb0AswwY8mPJT2ncx/hq2Ng4Y397A7RZCn2CUg6FDS/gvPySU5uwShA2I7bKpMDYwzQ5ZVzAlfBA/Go0gpgnyTsKlBMyAEa8fAAp2KsqILkUqjW/MmfZOKN9xsCF7BQxPIrCHUQKYdv4RiYZGVtG1i4xIIy5l4uyMoeueaqnCgxEbitxWadYqf2ithzeX1lWxSNVUwVhJimEEQQNytukF9Zvqnbvq0Annmj4JmJhZdWPiNHinY5ri7dmguIkf8AEqnpDfvK2S+zUuuLpakOAz8+3fWZ/uTqg==;U+HLiR6gF300c6wYCrxofg=="
+secured: "f0MtnIwLVr/TsyR4/VAXzfvYQE5xSrm9LyPsBNdoUxYuhcs/dsZwNKWjra/um+kuACfwuGLoZersZLsIJmOh2CYfJ8n/AYR1I9tynNgVQyDM4Vl031hIrZV3mtIimZJxPnMjqSw7cpN6N9DicTBf8EAiMQo4Yof4VrKNUln+1RSDTXrUMoWZ4EAZeUo/sQhOmzMIE97fAe4hYM21hFqTxdTADEDk14D8oinAlZS9yPCLnPkO+KwN7ca/56NVCCCpz3212IclcwNy/hJns62ck8aWEKyP9s9Py/7SX01jyRkvp6Gfb29QdPf5wT+ngKNvdmjM7FljblkK5SfduNeBCieUxDLzEtqoRm6TWb6mgMg=;yfl2ELMcTvon3bxyF/chZQ=="
 ---
 

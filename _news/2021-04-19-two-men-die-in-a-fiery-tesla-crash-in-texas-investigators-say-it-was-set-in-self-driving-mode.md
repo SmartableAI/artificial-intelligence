@@ -72,13 +72,13 @@ related:
   - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
     excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
     publishedDateTime: 2021-04-19T20:19:00Z
-    webUrl: "https://www.wbaltv.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    webUrl: "https://www.wesh.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    ampWebUrl: "https://www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: WESH
+      domain: wesh.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"

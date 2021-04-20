@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-central-taiwan-city-becomes-cloud-talent-incubator-with-help-from-amazon.md",
+      "title": "Central Taiwan city becomes cloud talent incubator with help from Amazon",
+      "excerpt": "Educators will incorporate curricula that meet the needs of the job market. The program's organizers will hold workshops and competitions such as the AWS GameDay and AWS DeepRacer where students can put their newly acquired techniques to test. The demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taiwannews.com.tw/en/news/4164984",
+      "originalUrl": "https://www.taiwannews.com.tw/en/news/4164984",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tnimage.s3.hicloud.net.tw/photos/2021/03/31/1617164238-6063f7ce50fb0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Taiwan News",
+        "domain": "taiwannews.com.tw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-dystopia-prime-amazon-subjects-its-drivers-to-biometric-surveillance.md",
       "title": "Dystopia Prime: Amazon subjects its drivers to biometric surveillance",
       "excerpt": "Amazon, the company that brought you Ring doorbell cameras and Rekognition face surveillance, has a tenuous understanding of both privacy and consent.",
@@ -1334,49 +1377,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-niti-aayog-aws-partner-to-train-students-on-cloud-computing.md",
-      "title": "Niti Aayog, AWS partner to train students on cloud computing",
-      "excerpt": "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),",
-      "sourceUrl": null,
-      "webUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "originalUrl": "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sakshi Education",
-        "domain": "sakshieducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

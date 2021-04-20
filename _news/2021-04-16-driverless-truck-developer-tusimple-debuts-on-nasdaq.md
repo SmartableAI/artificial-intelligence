@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robot Truck Startup TuSimple Raises $1 Billion In First Self-Driving Startup IPO"
-    excerpt: "The San Diego-based developer of robotic truck technology is the first self-driving tech company to go public in the U.S.–and did so via a conventional IPO."
-    publishedDateTime: 2021-04-15T18:54:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/15/robot-truck-startup-tusimple-raises-1-billion-in-first-self-driving-startup-ipo/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607865b5d90af15ae52022c7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO"
     excerpt: "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO)."
     publishedDateTime: 2021-04-15T20:36:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Self-driving truck maker TuSimple raises $1B as it goes public on Nasdaq"
-    excerpt: "San Diego-based TuSimple began trading on the Nasdaq Global Select Market on Thursday under the ticker symbol \"TSP.\""
-    publishedDateTime: 2021-04-15T17:32:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-maker-tusimple-raises-1b-as-it-goes-public-on-nasdaq/article_071aadf8-9e0c-11eb-ac30-db9298b27de7.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 58
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/2f/e2f11a80-9e0f-11eb-b8b5-33b9626c8636/607877f4af74f.image.jpg?crop=1763%2C991%2C0%2C29&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
         isCached: true
   - title: "TuSimple shares flat after self-driving truck startup raises $1.35B in IPO"
     excerpt: "Shares in self-driving truck company TuSimple Holdings Inc. were flat in their stock market debut today after the company raised $1.35 billion in its initial public offering on a valuation of $8.5 billion."
@@ -99,15 +67,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "TSP Stock: 7 Things to Know as Self-Driving Truck Startup TuSimple Starts Trading"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Today, shares of self-driving truck startup TuSimple (NASDAQ:TSP)"
-    publishedDateTime: 2021-04-15T18:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tsp-stock-7-things-to-know-as-self-driving-truck-startup-tusimple-starts-trading-1030310316"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "TuSimple’s Mullen maps out trucking’s self-driving future"
     excerpt: "Truly driverless tests are scheduled in Arizona later this year as the San Diego-based company continues on its path to offer Level 4 trucks by 2024 via its production partnership with Navistar."
     publishedDateTime: 2021-04-19T15:09:00Z
@@ -123,6 +82,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JP4IJVCxgzHbG4hi9mUq6e7lQy06Wukzxd89dzuX+7B6f5Xn/mZzD1uP0LN3XBxKR8pIVzjt9zpUbHvMs2pf2G+v1EThYvbTGRzWuNT7HMaVFgYJ9aRqGqzwwpMfmF0XLNpOhJ6XEbsEBFs3kNxG4ombzIuhLerVpWfBCypyb38KZqkApPCkti81Mx1gGFQx9nEGG/rDjV3V2D6Ue3Xvrgcylh1oagwx5cLjQ9lWLNf39Xi0MmLSF2JIVbdI2obUCjdUoOseTy4+mmi9NzF3rm6paAbGS3ywIVU/emiE1+d0ycnnzq0BVMRn1G1F00pOyoGPRr+Rlz35RDm8nkbIDV2lPmPniKIlr0F/Qt9r+Lg=;1iAWGA5KhWJ7yAnL+59Hnw=="
+secured: "Tht6io0cyYFoWcoqpjv5+IwB+MFF+u3gK5+98QsfH1CiNe3MfP3S2RTjRhAFnwng0SxXbTCMVaeOfMpmZzfJs23wgEdTH9YXnFdP2eECjM0QwpZHzVJ3qfrJlEiXsyS+Bhpts6QDIISyNQ3AXTioJoDwd2W86n1lJ0ZnHDP0KQvZY9pKXlyk8YVC0G91+GHHU0jyf26Btsjij8e8+Zd1KAJwua7vavoWMaZ7IeqFaDKe7zrYTDfkgBIopUUBFWYbXERmXmi4B90oVfecKf1rWwAnI1AbT7Rtl09JexNx/c+Lzrl23T1szY4aCUSufGGeKxQuhXx/qn7ZxevKRZ/TSCE/RiFz3iEkaCDGKX6WLUY=;qvVQkS5BZBcAMXW66ezEkQ=="
 ---
 

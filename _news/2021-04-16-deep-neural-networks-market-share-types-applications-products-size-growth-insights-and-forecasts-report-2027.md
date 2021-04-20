@@ -71,19 +71,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Machine Learning Software in 2021"
-    excerpt: "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today."
-    publishedDateTime: 2021-04-15T18:20:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/best-machine-learning-software-in-2021/"
+  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2021-04-20T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg"
-        width: 1500
-        height: 840
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
     excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"

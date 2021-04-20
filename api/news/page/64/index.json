@@ -2,6 +2,342 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-03-02-beam-raises-80-million-for-ai-driven-dental-coverage-that-rewards-good-hygiene.md",
+      "title": "Beam raises $80 million for AI-driven dental coverage that rewards good hygiene",
+      "excerpt": "Beam Dental, a Columbus, Ohio-based dental benefits provider, today announced it has raised $80 million in an oversubscribed series E round led by Mercato Partners. Beam says the funds will be put toward expanding its offering to new markets,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai-driven-approach-to-dental-insurance/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai-driven-approach-to-dental-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/phone_brush-f4567cc2f7220b148322b907b5416bd1.png?w=1200&strip=all",
+          "width": 1155,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai-driven-approach-to-dental-insurance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai-driven-approach-to-dental-insurance/amp/",
+      "publishedDateTime": "2021-03-02T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-self-driving-startup-aeva-hires-waymo-apple-veteran-to-oversee-supply-chain.md",
+      "title": "Self-driving startup Aeva hires Waymo, Apple veteran to oversee supply chain",
+      "excerpt": "Self-driving sensor startup Aeva Inc, founded by two Apple Inc alumni, has hired another former Apple executive to oversee manufacturing and supply chain operations ahead of an expected deal to become a public company later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/aeva-tech/self-driving-startup-aeva-hires-waymo-apple-veteran-to-oversee-supply-chain-idUSL2N2L000D",
+      "originalUrl": "https://www.reuters.com/article/aeva-tech/self-driving-startup-aeva-hires-waymo-apple-veteran-to-oversee-supply-chain-idUSL2N2L000D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210302&t=2&i=1553447188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH210QA",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2L000D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2L000D",
+      "publishedDateTime": "2021-03-02T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai.md",
+      "title": "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI",
+      "excerpt": "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/708904/EY_Logo.jpg",
+          "width": 341,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu.md",
+      "title": "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu",
+      "excerpt": "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ibm-names-research-veteran-as-cio.md",
+      "title": "IBM names research veteran as CIO",
+      "excerpt": "Helping companies glean value from AI can be a tall order, depending on the industry. The Wall Street Journal reported last month that IBM is exploring the sale of its Watson Health unit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/02/600x338/2021-01-22T172205Z_2_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1614675133801_1614675155889.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
+      "publishedDateTime": "2021-03-02T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players-research-forecasts-to-2027.md",
+      "title": "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027",
+      "excerpt": "Mar 02, 2021 (The Expresswire) -- Global “AI in Fintech Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
+      "title": "India using facial recognition in schools is an ‘overreach’",
+      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "publishedDateTime": "2021-03-02T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure.md",
       "title": "Compute and storage updates are available for mission-critical applications on Azure",
       "excerpt": "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking.",
@@ -847,324 +1183,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
-      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
-      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-overlooked-c3ai-stock-looks-attractive-on-the-pullback.md",
-      "title": "Overlooked C3.ai Stock Looks Attractive on the Pullback",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As I write this, C3.ai (NYSE:AI) stock has lost a third of its value in 12",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
-      "publishedDateTime": "2021-03-01T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-codecademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
-      "title": "Codecademy partners with Black and Brilliant for 10-week AI course",
-      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "publishedDateTime": "2021-03-01T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-delving-deep-into-potential-of-artificial-intelligence.md",
-      "title": "Delving deep into potential of Artificial Intelligence",
-      "excerpt": "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "originalUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
-      "publishedDateTime": "2021-03-01T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
-      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
-          "width": 440,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california.md",
-      "title": "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/632539/image-20210301005808-1.jpeg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
-      "publishedDateTime": "2021-03-01T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-deep-learning-algorithm-can-de-noise-images.md",
-      "title": "Deep-Learning Algorithm Can de-Noise Images",
-      "excerpt": "Currently, a type of software based on a machine-learning algorithm called deep learning has been shown to be effective at removing the blurriness or noise in images. These algorithms can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "originalUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://goodmenproject.com/wp-content/uploads/2021/02/iStock-12101056561.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "cdnAmpWebUrl": "https://goodmenproject-com.cdn.ampproject.org/c/s/goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
-      "publishedDateTime": "2021-03-01T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Good Men Project",
-        "domain": "goodmenproject.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

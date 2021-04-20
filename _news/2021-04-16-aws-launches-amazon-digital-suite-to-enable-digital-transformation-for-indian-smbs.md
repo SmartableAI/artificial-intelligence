@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "MediaTek Dimensity 1200 5G chip launched in India"
+    excerpt: "MediaTek on Tuesday announced the launch of the Dimensity 1200 chip in India. The latest chip brings flagship-level specifications as well as 5G support. Realme will be the first smartphone brand in India to offer a Dimensity 1200-powered smartphone."
+    publishedDateTime: 2021-04-20T11:30:00Z
+    webUrl: "https://tech.hindustantimes.com/mobile/news/mediatek-dimensity-1200-5g-chip-launched-in-india-71618918098005.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/mobile/news/mediatek-dimensity-1200-5g-chip-launched-in-india-71618918098005.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/mobile/news/mediatek-dimensity-1200-5g-chip-launched-in-india-71618918098005.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/04/20/1600x900/Dimensity_1200_1611144840680_1611144850131_1618918129013.png"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "AWS launches Amazon Digital Suite to accelerate digital adoption for SMBs in India"
     excerpt: "SMB spend on public cloud services is expected to contribute more than 29% of the $7.9 billion public cloud services market in India in 2024."
     publishedDateTime: 2021-04-16T09:54:00Z

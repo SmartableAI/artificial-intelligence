@@ -57,45 +57,6 @@ related:
         width: 1999
         height: 1125
         isCached: true
-  - title: "Walmart invests in self-driving startup Cruise"
-    excerpt: "Walmart is investing in self-driving startup Cruise as part of a massive $2.75 billion investment round in the company—an expansion of the $2 billion round announced in January. That original announcement featured three other big names: GM,"
-    publishedDateTime: 2021-04-15T18:19:00Z
-    webUrl: "https://arstechnica.com/cars/2021/04/walmart-invests-in-self-driving-startup-cruise/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/cdn.corporate.walmart-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Walmart Invests in GM’s Electric Self-Driving Vehicle Company"
-    excerpt: "Walmart is betting on self-driving delivery with an investment in GM’s electric autonomous car company Cruise. The retail giant announced today it has joined the startup’s latest funding round of $2.75 billion,"
-    publishedDateTime: 2021-04-15T18:57:00Z
-    webUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/"
-    ampWebUrl: "https://www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/commerce/walmart-invests-in-gms-electric-self-driving-vehicle-company/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 44
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2021/04/Canon_Brandshare_041521_HPv2-652x367.jpg"
-        width: 652
-        height: 367
-        isCached: true
-  - title: "Walmart Invests In GM's Self-Driving Car Co. Cruise"
-    excerpt: "Walmart Inc. (WMT) plans to invest in self-driving vehicle company, Cruise, in which General Motors (GM) has a majority stake. This investment is part of the company's latest $2.75 billion funding round."
-    publishedDateTime: 2021-04-15T18:14:00Z
-    webUrl: "https://www.nasdaq.com/articles/walmart-invests-in-gms-self-driving-car-co.-cruise-2021-04-15"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Walmart invests in a self-driving technology company as it pushes for improved home delivery"
     excerpt: "Walmart is getting into the self-driving-vehicle business. The world’s largest retailer is taking an undisclosed stake in Cruise, the autonomous-vehicle technology company that is majority-owned by General Motors."
     publishedDateTime: 2021-04-15T19:38:00Z

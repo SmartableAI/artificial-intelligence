@@ -48,9 +48,9 @@ related:
         height: 420
         isCached: true
   - title: "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer"
-    excerpt: "With the new ZF ProAI, ZF presents the automotive industry’s most flexible, scalable, and powerful supercomputer. It is AI-capable and suitable for all applications from automated driving Level 2 to 5."
+    excerpt: "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains."
     publishedDateTime: 2021-04-19T11:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9"
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311"
     type: article
     provider:
       name: Associated Press

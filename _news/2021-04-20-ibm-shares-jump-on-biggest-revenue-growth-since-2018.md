@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 533
         isCached: true
+  - title: "IBM Reports Revenue Growth For The First Time Since 2018"
+    excerpt: "International Business Machines Corp. (NYSE:IBM) has posted its first quarterly revenue growth since 2018 due to strong demand for its cloud computing services. IBM’s first revenue increase in 11 consecutive quarters came as sales increased 1%"
+    publishedDateTime: 2021-04-20T11:10:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 24
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/ibm.jpg"
+        width: 2000
+        height: 1340
+        isCached: true
   - title: "IBM Reports Higher 1Q Revenue"
     excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
     publishedDateTime: 2021-04-19T15:31:00Z

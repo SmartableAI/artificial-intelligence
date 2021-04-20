@@ -1,0 +1,77 @@
+---
+category: news
+title: "IBM Reports Revenue Growth For The First Time Since 2018"
+excerpt: "International Business Machines Corp. (NYSE:IBM) has posted its first quarterly revenue growth since 2018 due to strong demand for its cloud computing services. IBM’s first revenue increase in 11 consecutive quarters came as sales increased 1%"
+publishedDateTime: 2021-04-20T11:10:00Z
+originalUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
+webUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: BayStreet
+  domain: baystreet.ca
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/ibm.jpg"
+    width: 2000
+    height: 1340
+    isCached: true
+
+related:
+  - title: "IBM Reports First Quarterly Revenue Growth Since 2018 on Cloud"
+    excerpt: "International Business Machines Corp. posted its first revenue gain in eleven quarters, driven by demand for cloud services, suggesting Arvind Krishna’s turnaround plan is starting to bear fruit."
+    publishedDateTime: 2021-04-19T20:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg"
+        width: 1200
+        height: 533
+        isCached: true
+  - title: "IBM Shares Jump on Biggest Revenue Growth Since 2018"
+    excerpt: "The shares jumped in extended trading. IBM reported first-quarter revenue growth in three of its five business segments, including Cloud and Cognitive Software, the company’s biggest unit, which saw 3."
+    publishedDateTime: 2021-04-19T20:24:00Z
+    webUrl: "https://www.bloombergquint.com/business/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IBM Reports Higher 1Q Revenue"
+    excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
+    publishedDateTime: 2021-04-19T15:31:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912368/ibm-reports-higher-1q-revenue"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
+  - title: "IBM's Revenue Growth in Latest Period Beats Wall Street Expectations"
+    excerpt: "Wall Street on average expected sales of $17.32 billion and net income of $1.28 billion, according to FactSet. IBM still expects revenue to grow this year and anticipates $11 billion to $12 billion in adjusted free cash flow for the year."
+    publishedDateTime: 2021-04-19T16:04:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912824/ibms-revenue-growth-in-latest-period-beats-wall-street-expectations"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 4
+
+secured: "asdtoLV0V1CrzBxriyZd9oNtLrOKJ44A/yGm4OGZ6w525k4Mu+CdKPX64YeYlh5nnYqvy4RAkOEGv8kh1MTgzLbjWP5s2HsJZSeqpzwxOBGpoqxf8jiVSiFcQmjqbbUccQEW8ej9bsSUeA+DRuAWSsmcwwClmntwbkzK7LpwiZjelzHZQxJI4tcDVPxpyQLPJWIiLKKXpT+yUdANKQHMR801MuVrwUdSKipR/YJ9TXhxfgqPcsPcsZ6lJKp4Re5dJE9RI36XfCGkOMknaB+JHq4p/36GQepi8XibMO88dKHfSj9XMWd0YPHjk48GvIGtX9Brx2V5E5FcEoxcRblF21/r/11uIcvVjrTrINpZe7k=;hLXBObs5308bkoZ9YVxgdg=="
+---
+

@@ -35,6 +35,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Two die after self-driving car crash in US"
+    excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
+    publishedDateTime: 2021-04-20T11:48:00Z
+    webUrl: "https://en.ammonnews.net/article/48791"
+    type: article
+    provider:
+      name: ammonnews.net
+      domain: ammonnews.net
+    quality: 24
+    images:
+      - url: "https://en.ammonnews.net/image.php?token=89a8bc4722cb8e3a28af636bc5479d8e&c=7386378&size="
+        width: 768
+        height: 432
+        isCached: true
 
 secured: "cZbLGuv2V28oKcUPJ41F2m8J1PSqV+6Eq/Oe0LjYvJ3opq2uTIX9q/BkssyLpyQHWJIq4BjOx9X/NPd+NoVXphnMV+T37dy5G/pV64lGRQWrq4OnK41KOEfQ3KkyNSRmKkh7MXRZfvftU7+RG+PjYq60Y1K4R0I2t5Ee0/68aN+CEq0ft4C/nat5oPmTqskHHRHVHZUgEhgh3MCqK5uP2cXG7qLDDHfHOVYFRugNkN+Vg375yRo/BFkbRUrv077MxbEtE+/EH8XZEYbaKNY9svqrR06tLIOtTKOgWsUiVZIPSMedJXztegmEU/Expmm6Np/czvT19La/rD0wNvLGCiAIq/r2el0UOdvgnAZI1Uk=;kg/p3Bdv8pJIW2aAu51MAw=="
 ---

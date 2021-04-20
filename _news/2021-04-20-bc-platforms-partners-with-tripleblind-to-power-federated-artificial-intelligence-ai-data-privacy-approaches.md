@@ -1,26 +1,29 @@
 ---
 category: news
 title: "BC Platforms Partners with TripleBlind to Power Federated Artificial Intelligence (AI) Data Privacy Approaches"
-excerpt: "BC Platforms (BCP), a global leader in healthcare data management, analytics and access, announced a new strategic partnership with US-based company TripleBlind to help drive the development of privacy and intellectual property rights (IPR) preserving \"federated AI\" for its BCRQUEST."
-publishedDateTime: 2021-04-20T08:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-1030321153"
-webUrl: "https://markets.businessinsider.com/news/stocks/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches-1030321153"
+excerpt: "BC Platforms Partners with TripleBlind to Power Federated Artificial Intelligence (AI) Data Privacy ApproachesSupporting BCP’s contribution to €6.5 million Finnish-led PRIVASA project20 April 2021 – Zurich,"
+publishedDateTime: 2021-04-20T10:38:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2021-04-20/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches"
+webUrl: "https://www.pharmiweb.com/press-release/2021-04-20/bc-platforms-partners-with-tripleblind-to-power-federated-artificial-intelligence-ai-data-privacy-approaches"
 type: article
-quality: 42
-heat: 42
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "aWqKl41bCBApGwrx08eaMHdxaeCxzQB6q4WO8NTbKe9XUDSuBRr1Pl9B/fPc1UfQPB2Gbv+66H8C6yBGU3o+OpQ6+6eFvgaCUe24BzHRQwomOY/qesVP0o5FygySJ6cgeKYcM3xRP8c87FuNHei07i6DxP6VHmTCO/1CySWLQm0B+Wdb0vJXAda8GFmhB+3QY3ceDct/bwMmEPJYpcYwn18EXXJ4QuufO4Zq+8js3T+3NydOSG97sB8hp28mE219B1fnkWr/BYBCupk3yUfredTydsy0wzaD08/GbbYfrR4SEWmyyPOufg/pcBqd2KYQAZ9r1mKzO4zVrFCS0d4DCNBn0SCMoQafeA77HbI4ds0=;hBi9fd7iF4kxGNeD7S8Ykg=="
+images:
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
+    isCached: true
+
+secured: "0DQcCYryQfjQUovAY6d9RdixBnkDjpBqRR0Sm306Jz8uMdew7gQhSPnyJFinHdIpuJZshspuq3nQa40FsHsCfENoBcJbNZszawOOqkBoEaOGJF15zVrMPDUh159k6KRIfIiPoLfs/iMrh77pp+Tx19sOdcEU/dDQwOlM9UkGXfNr/JAESLGOJ9T8GDNl+fTIthvVxgoSwH5qfcn/eYaAVcu+AKAHQOmQvMALGhmPL2lglFO3Dtdts4PDn+h+cYFha/SrM6OQ0v2HPdi8hZrX6ECiXpJVLQQ2osjcC4y6OPjIwI90DG7nYqEsh0Rm43DmpK/cUDdXwwkcnHn9pCofih0j71vhZ5J8Yr/Zlqq2saM=;fGT0Itr+N6I/b+/qOY76DQ=="
 ---
 

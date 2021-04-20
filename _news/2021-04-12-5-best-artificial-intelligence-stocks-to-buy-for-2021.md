@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks to Buy for 2021"
-excerpt: "In this article we discuss the 5 best artificial intelligence stocks for 2021. If you want to read our detailed analysis of the AI industry, go"
+excerpt: "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ..."
 publishedDateTime: 2021-04-12T15:41:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "6TPn+A1YCTkJTSYxczUix6ljZN4EXmO8NnDCoZMyhKxZHyvdZf4qcNIRsBC71i1MdnrX2Xggv0ejG0E2NrK79RH5v1LD1t5CKN8Oh5Edw6VdvUl+cV55ZQ6Xh6tI8misIsHaIZaiPgUdQqi4zGKsYZonDF358/WqS78fh1mkJnRYqMHgBTTtpT4HsJV5tiaVr5ZzYHT4/EMJYyYgl5oLAtvesr24A1/9RRh6FfDrN+Srok5ulKiYANaDD9+J9wwHe0ZdUqYgfyU1H4bfImV+0dWaJsoywXHbTRLS6NwgyBfopjHd/BuoVbHHbpXI5xeQPMt5vZvyRCQC0kloT5dmFIGAlm2/RQUcnik/zV1rhyU=;zU5giscCIR9knb2vTaz3ug=="
+secured: "YVrHqiGH3uxe8if6K3IRdncUBRL6Ntc5zyJYEzcrGbc7TadbCeefogb7yPljYzWRD3vMzHe4ha6nL3AA2ZxawTKWVR9sZRzTkDbep8vAtYK2aEqfq1TVT09wGFyHeHStnfpLHkB2cBbJMM+yym1eMLNBGSmbQsL5JDaJJ6VPuqJKudrHBwylML7w+Rv4yMBT8j8MvCksTfjNjd0C81YurudZx02rseuAlkNEUsnK+j1kWblC/8wHlflX3Mq1le/77n/uLvQfappLM9JySVpiekrpbE42/hLdiuaI6XKQWPLbUQbe3c+s/SixRF4ui7Rw6dTflxUc9tVVm9v57QfI20oHEJbNKloT0YikaQwD0+A=;qofN7fPgWN2zbLAD/r98Xg=="
 ---
 

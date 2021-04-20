@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Facebook wants to build trust in AI with its Casual Conversations dataset"
-    excerpt: "The dataset is intended to be a reality check for developers who want to root out age, race and gender bias from their computer vision and/or audio products."
-    publishedDateTime: 2021-04-15T18:33:00Z
-    webUrl: "https://www.biometricupdate.com/202104/facebook-wants-to-build-trust-in-ai-with-its-casual-conversations-dataset"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
     excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."

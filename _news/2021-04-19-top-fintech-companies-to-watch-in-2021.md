@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Marble Financial Completes Acquisition of Canadian Fintech Inverite"
-    excerpt: "Marble Financial Inc. (CSE: MRBL; OTC: MRBLF; FSE:2V0), an AI-driven financial technology company that educates and helps Canadians better understand and manage their current cash flow and credit towards a better financial future,"
-    publishedDateTime: 2021-04-15T17:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174257-marble-financial-completes-acquisition-of-canadian-fintech-inverite/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/09/Canada-Money-600x453.jpg"
-        width: 600
-        height: 453
-        isCached: true
   - title: "Leading UK Fintech Firms Now Working with PwC to Streamline Digital Financial Services with AI, Data Analytics"
     excerpt: "Leading UK Fintech firms now working with PwC to streamline digital financial services with AI, data analytics."
     publishedDateTime: 2021-04-16T04:37:00Z

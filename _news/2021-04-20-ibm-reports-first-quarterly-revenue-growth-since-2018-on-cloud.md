@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-fir
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Reports Revenue Growth For The First Time Since 2018"
+    excerpt: "International Business Machines Corp. (NYSE:IBM) has posted its first quarterly revenue growth since 2018 due to strong demand for its cloud computing services. IBM’s first revenue increase in 11 consecutive quarters came as sales increased 1%"
+    publishedDateTime: 2021-04-20T11:10:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/2833/IBM-Reports-Revenue-Growth-For-The-First-Time-Since-2018"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 24
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/ibm.jpg"
+        width: 2000
+        height: 1340
+        isCached: true
   - title: "IBM Shares Jump on Biggest Revenue Growth Since 2018"
     excerpt: "The shares jumped in extended trading. IBM reported first-quarter revenue growth in three of its five business segments, including Cloud and Cognitive Software, the company’s biggest unit, which saw 3."
     publishedDateTime: 2021-04-19T20:24:00Z

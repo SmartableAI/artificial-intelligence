@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
+      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
+      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-global-artificial-intelligence-ai-chips-market-2020-study-report-with-prospects-and-strategies-to-boost-growth-covid-19-impact-and-recovery.md",
       "title": "Global Artificial intelligence (AI) Chips Market 2020: Study Report with Prospects and Strategies to Boost Growth- COVID-19 Impact and Recovery",
       "excerpt": "This report aims to estimate the Global “Artificial intelligence (AI) Chips Market” for 2020 and to project the",
@@ -1471,40 +1505,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-mediatek-unveils-new-ai-based-4k-smart-tv-chip.md",
-      "title": "MediaTek unveils new AI-based 4K smart TV chip",
-      "excerpt": "Taiwan, March 3 (IANS) Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/mediatek-unveils-new-ai-based-4k-smart-tv-chip-news-education-vddiPDcajdaaa.html",
-      "originalUrl": "https://www.sify.com/news/mediatek-unveils-new-ai-based-4k-smart-tv-chip-news-education-vddiPDcajdaaa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/mediatek-unveils-new-ai-based-4k-smart-tv-chip-news-education-vddiPDcajdaaa.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/mediatek-unveils-new-ai-based-4k-smart-tv-chip-news-education-vddiPDcajdaaa.html",
-      "publishedDateTime": "2021-03-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

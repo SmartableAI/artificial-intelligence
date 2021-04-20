@@ -3,18 +3,18 @@ category: news
 title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
 excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
 publishedDateTime: 2021-04-19T20:19:00Z
-originalUrl: "https://www.wbaltv.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-webUrl: "https://www.wbaltv.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-ampWebUrl: "https://www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+originalUrl: "https://www.wesh.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+webUrl: "https://www.wesh.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+ampWebUrl: "https://www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - AI in Autos
@@ -182,6 +182,6 @@ related:
         height: 720
         isCached: true
 
-secured: "3KSNEEtE3+yZMImMskD3ipNOm6omELNc661Lb3FtfRAFbwsXoYlhYuXsH0fdkJzpP9y3wkxjTB22CT6hZr6V3i1dXqQYzqrnZH20befW/wIFkjHUqscxrx/JfiZ6By3cOctZgoBZTJiCx/8/LUNbZ3SwuX9ax5HpTr7DpYcXLZDof7d9inUX2qaa5RAqPj4AfpgqaaGGlSQ8u6H793zxdM0uMU9h7FRLAfB6Nrl8n62r71G7MFt+ui2sltTPXw5dbyZXbZCfdeTDRZCTY3+iRy1CRNDt7vbIdZJCii8lJ8LFbHWQiVWSDlnglZQvtbA/fK+pxFJ+37oqizaQGSVWEPSkVuukqei+OdOQW4t5LNE=;z1sYFLWzS8Farvz8ndzFrw=="
+secured: "c1GQEYnbpqxAXqvebP2ZPHRoHs1ae0NF+CD7aMgjAUkMXR3RUMcxr46aV6OFN5qY55w2lF9LgdC1r9ZhjufH3tpp4WtlPoMuKJZOR8YuSvb9DoPQoh7pZF5GAd/pofsG6dWMqUbwezMKh/hXQjTOJDK6mVMlO/PqkKOmdmhlMkdsQ9Aw/lH35ggtma5k1ZbvVci1691eozHT18/3oViESU/bh+8w9TAYp1RRmwiJEwiM4JVniMvAq+/ZQOok1Y/kVQF7VoE0oPERAlrZwaqDqQs/ybd8AOEZaQCEa4IlfCzZX8IMBZ/QAP3uHHkByXaRAp4dzjFaCFy68u1z4QsK2IFajAJCmU+YAJMpbBxw2+E=;XMEgpkm1Ov4wD2r8qLCUzg=="
 ---
 

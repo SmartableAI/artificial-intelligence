@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-r
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "http://tapinto-production.s3.amazonaws.com/uploads/articles/20/facebook_fbc198bd7dbc7f0213b7_2021_Best_Communities_for_Music.jpg"
         width: 600
         height: 497
+        isCached: true
+  - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
+    excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
+    publishedDateTime: 2021-04-20T11:45:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 30
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg"
+        width: 2560
+        height: 1701
         isCached: true
 
 secured: "161Ig4jIFMvGQ6eQfYejRmXdX8JVgKP64spWwSUBp+7gsL78S8e08+nLuf/w5kkJjWt1yTKR7zp5apPeaNmMtjoaLNEsUo24vN1tDKuRiG9KZXHUdWzl5k8sOpbY6o7RC62jpngnVjvznpE62BEpkSTJaWgxDk/ycUWMyXhVZyTpNAU3ruOowlGXu2KYud/E4mbBaFDxHtUWp+mcuaX8QqA8FPTwphEZ/eLn0KdnP02DACJ/i2a3ZiJRp331UjRIgantqorkLPC+IhlO0IFu6eRVH7P/A67/SIUY0K498TuHH1CioAzpfaU1adRlml2NzNwfa1mp4t8LqOrn9siI1XWUN8iag3nC8ivkLmNHQAg=;SjKx2TS41he3qqRXQCV16Q=="

@@ -29,15 +29,15 @@ images:
 related:
   - title: "Facial recognition tech, data learning for road safety being studied by Sanral hub"
     excerpt: "\"The intention is not to observe individuals, but rather to identify trends and incidents to inform appropriate response and interventions,\" Sanral says."
-    publishedDateTime: 2021-04-20T08:18:00Z
-    webUrl: "https://www.timeslive.co.za/news/sci-tech/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/news/sci-tech/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/sci-tech/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    publishedDateTime: 2021-04-20T08:40:00Z
+    webUrl: "https://www.sowetanlive.co.za/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    ampWebUrl: "https://www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
+    cdnAmpWebUrl: "https://www-sowetanlive-co-za.cdn.ampproject.org/c/s/www.sowetanlive.co.za/amp/news/south-africa/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 53
+      name: Sowetan LIVE
+      domain: sowetanlive.co.za
+    quality: 55
     images:
       - url: "https://lh3.googleusercontent.com/qRA-IUE4u7tQG5g9h2fURzTarh4UXMMNnlGnWML8mpIyhYds7DylaPOeVeSFCSpPvm8FIxRJ5bZ0zJSydU4y5W2H8g=s1000"
         width: 1000
@@ -55,6 +55,6 @@ related:
       domain: businesstech.co.za
     quality: 43
 
-secured: "OLGhNqVoSAxhoP3dCL+xH6/kVCQGYU5kaqLeGuYAtFGRVzI8P0ew/766hFfHsHMGLTQyv2gAnc5KVEKnZvRXYOF/aTmAJE9GlRYuDztgC38KFJfYgzOhFDoCCtQuRXlChlpC+tpU0mjDC/YAt0vkzWkfNIMuIOky7OGyqr9sag7s80lSyveb/0+/oi7x4aiby3WZYbFLsRCWjRk1PbgF/fLZ3rRrW4A7irTV4ZmujVzje0kNLYrVINLP3ErSqc2E/yiVU9T3c70BlHQHwGq1dmHvt0FhfVlApfliXwwzsQ+BVXqz+Vu7Icnygm7HkYY3Mw/aUyXx/b34W/cCA6j6zifp8kevdX2SJ07shjSRpG8=;MZqkqnsYqx83QHQ1a3BOuw=="
+secured: "VjSXDoMO1JCcscY4ubfCODkIM+5geuFFcavIq3MdWKPmpnqljjVzKFAmgsnxbPnirMptO7c9cMtbYQPw4W2tTSz5FsJttmW781qXO8452uYOUt3LO3/6rHDLqrDdg6AWAbUT/B9LTDXubfnNE05Of4h5SBpGdKisqIIS29LwdxNZ6rJAA8UOo7xmY+mVFNGrjo8mbWvq4DDJ1yLM/c9RTCLlHGj/4tKw8NrGX9KVo+uk5v/K5MkqYuJA+I4a/GdBIFt+8NMsS4jbykYnKBcsFe94XO5FbZKFlHR5QSS6d1HRXnAq8+F/k4pOLBCvKqXrTh0Nc0ZBJ28ijIzPYbe0hDn0L4g4dldKM9bR6/J8x2vhhEoJu85M/11y5S5W+Zv+mueicnjL+nwj9O9Ag+4k571UFdxC2uXmWouc9zzCAMI2BFexYa6+GsNOvo9vL6nx+BJD6Lu6rD8+HazclPTwz61v4qtTo3fTda3sPvIwLYLHMkfn/8eJMvQK9hf61+ZCxRVlSQvpS/6FylxUTIIyow==;wRO0TucXBuCbALTl+ja06g=="
 ---
 
