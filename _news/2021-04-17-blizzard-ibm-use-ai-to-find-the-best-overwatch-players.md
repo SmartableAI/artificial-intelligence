@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -42,20 +42,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/54849/content/overwatch.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Overwatch League partners with IBM AI for Power Rankings"
-    excerpt: "Overwatch League, the game’s main world league, is about to return to its 2021 season, and this year’s edition has some good news thanks to a partnership"
-    publishedDateTime: 2021-04-15T08:13:00Z
-    webUrl: "https://www.somagnews.com/overwatch-league-partners-with-ibm-ai-for-power-rankings/"
-    type: article
-    provider:
-      name: Somag News
-      domain: somagnews.com
-    quality: 39
-    images:
-      - url: "https://www.somagnews.com/wp-content/uploads/2021/04/Overwatch-League.jpg"
-        width: 704
-        height: 264
         isCached: true
 
 secured: "hzvzRC5W9Ou399c+pvnxKxkmDLwZK9XYiXhKskmQloCUBvu+vN6plqyzLmUR9S+hZ+1oQ7QUEZBRNjBQQNeMtnGPk+OTt2qh1NAg4COeplJTjquFZPdbBqT3LbKBTo/GyEmYYoImeBPoXP1TOCxCmfXAIx4oyLcAkqE98N/Ke5nfQ1egloxhohkHVvW9sFMn1HSOWGPf3GZvvPfnVaBGUHYwH35jyR2C+txPMFI+wRdBFxles89EeGyzeLdLPbyIyics5fh8jytEAsbvVoFWZL4apWgEVje5/v/Oy7OJhvh4SMZBErOCultSPyyM8gxO7ShZWlgqkpUJsnfjnqqZz7sAdkNqMPkZpRzVqrQ0bCOWSobTI5EHdvc1XaKhEe4CrdNuouKCTcKOsIjGzktriS1xSjSlbxJRQbmpv5AraahnpxAxQMz9YT6P/WBU9ThHNFaTfmAwIrl+a9U9xneT5SVlwHIrt4Dr9WwwpYMRJMLE6e7p93vI+5PnAMowOYRmrkGSH2zTfm6jpUrllrj1cw==;5MUw1aPcLuxZpqLg/NPeYw=="

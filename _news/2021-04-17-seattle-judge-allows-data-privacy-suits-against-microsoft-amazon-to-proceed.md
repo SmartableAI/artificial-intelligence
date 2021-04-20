@@ -121,20 +121,6 @@ related:
         height: 285
         isCached: true
   - title: "Microsoft’s $20 billion AI deal will shake up how we work"
-    excerpt: "At first glance, it may seem like a strange candidate for what would become Microsoft’s second-largest acquisition after its $26 billion deal for LinkedIn Corp."
-    publishedDateTime: 2021-04-15T07:15:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2021/04/15/commentary/world-commentary/microsoft-ai-nuance-communications-dax/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/04/np_file_81319-1-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
-  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
     excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
     publishedDateTime: 2021-04-19T19:00:00Z
     webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
@@ -147,22 +133,6 @@ related:
       - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
         width: 1140
         height: 712
-        isCached: true
-  - title: "Ooredoo business partners with Microsoft to drive cloud adoption in Kuwait and accelerate digital transformation"
-    excerpt: "Through its newly launched Cloud Connect offering, digital services leader is now established as an Azure ExpressRoute connectivity provider in the country, giving Kuwaiti enterprises access to a rang"
-    publishedDateTime: 2021-04-15T07:15:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Ooredoo_business_partners_with_Microsoft_to_drive_cloud_adoption_in_Kuwait_and_accelerate_digital_transformation-ZAWYA20210415030254/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210415030254/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/Alaeddinsoft_2021_04_15.jpg"
-        width: 450
-        height: 334
         isCached: true
   - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
     excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."

@@ -221,6 +221,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
+  - title: "Global Language Processing Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2027"
+    excerpt: "Apr 19, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Language Processing Market”"
+    publishedDateTime: 2021-04-19T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-language-processing-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
     excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2021-04-18T02:46:00Z

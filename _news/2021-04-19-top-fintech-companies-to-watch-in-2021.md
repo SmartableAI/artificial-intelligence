@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Marble Financial announces closing of major fintech acquisition"
-    excerpt: "Marble Financial has announced the closing of its acquisition of Canadian fintech Inverite Verification. Marble’s personal finance platform MyMarble will be incorporating the features of the AI-powered Inverite,"
-    publishedDateTime: 2021-04-15T08:30:00Z
-    webUrl: "https://www.mortgagebrokernews.ca/news/technology/marble-financial-announces-closing-of-major-fintech-acquisition-354976.aspx"
-    type: article
-    provider:
-      name: Mortgage Broker News
-      domain: mortgagebrokernews.ca
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637540724577231009.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "Et4+YO7uc3AnKA1FcYdukGQuzGGUqwI54jbrDcxtzrKPSmwWPLxJmAssEZXKIzTQK9rhPBwKD5Fh0sXMDcnSs/n9pjVmiPBmFEXbocSxke8jO4F9RolvsWflICANDMP+ChvnJ9H60vbGe6gZoZHyStyYA+c8YB2Lm9jetYh42ZHHb8e8rFiBcUQk4auGy27K7lSxqu/Bl9OQbGiFJJenzZQbFWcJG/6NAEGb9HX2K/49nq2PcSXKzt/m/EDXw1kaXxtG4YTFJ2gRvQQbKXB9ekJQk5hW+6/bsyxunI9VrlJ3QjN2O+xWDALkXO+CyCC6V0i7C7J5PzxUskCuPLAl1tprS8rQbs65Ryr8TVQUjWRrhxHD+oL3RwDwcHxwTZ9pGMlCsmgCmyN96QB3n9QHjT723/HkSZRDAiZWumUviODPt3tKbm6W35NFbdHwlEzvQtJI0mkx1TLkf6DWg0yDkaVo2bkNr3GOvYpoyK/ODjf11uVgaP5BZaYnPf1tkGcCvojwAfNd2mviN4nBqOwgbA==;xl44HoSxn5ZEa1L3jqyDRw=="
 ---

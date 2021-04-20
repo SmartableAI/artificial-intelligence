@@ -489,49 +489,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
-      "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
-      "excerpt": "In this article we discuss the 5 best artificial intelligence stocks for 2021. If you want to read our detailed analysis of the AI industry, go",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-12-varian-and-google-to-co-develop-ai-based-cancer-diagnostic-platform.md",
       "title": "Varian and Google to co-develop AI-based cancer diagnostic platform",
       "excerpt": "Varian has announced it’s collaborating with Google Cloud to develop an advanced artificial intelligence (AI)-based diagnostic ... must be targeted or protected during a course of radiation therapy. Additionally, Varian will leverage Google’s NAS ...",
@@ -1409,6 +1366,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-researchers-develop-explainable-artificial-intelligence-algorithm.md",
+      "title": "Researchers develop 'explainable' artificial intelligence algorithm",
+      "excerpt": "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg",
+          "width": 750,
+          "height": 304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp",
+      "publishedDateTime": "2021-04-01T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

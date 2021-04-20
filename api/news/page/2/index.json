@@ -642,49 +642,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-17-blizzard-ibm-use-ai-to-find-the-best-overwatch-players.md",
-      "title": "Blizzard, IBM use AI to find the best Overwatch players",
-      "excerpt": "Blizzard and IBM have entered a multi-year deal to analyse data and rank the best Overwatch players in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html",
-      "originalUrl": "https://tech.hindustantimes.com/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2021/04/17/1600x900/sombra-screenshot-002-fb6b4eea3c8822bf196065adc23a2e5f18d2b67a6ae3a91230e3e86e328f0956bc0c753996cd60e14011acde89eb0a981c8cda3884d084132b40a76d42320d0a_1618658492480_1618658501335.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html",
-      "publishedDateTime": "2021-04-17T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-17-ai-artificial-intelligence-build-it-or-buy-it.md",
       "title": "AI (Artificial Intelligence): Build It Or Buy It?",
       "excerpt": "And to accomplish this, the company evaluated a myriad of AI solutions. But they all fell short. “In the end, we leveraged a combination of best of breed open source technology and tools to build our own AI platform that is very powerful,",
@@ -902,7 +859,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -1239,6 +1196,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest.md",
+      "title": "Man Files For Damages After The First Case Of Facial Recognition Leading To Wrongful Arrest",
+      "excerpt": "As artificial intelligence and machine learning have entered into our daily lives, nothing has been more hotly debated than facial recognition. Governments",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
+      "originalUrl": "https://www.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/4077f37f-8035-5092-a818-8de424b1dc8b/default-1618491839-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/",
+      "publishedDateTime": "2021-04-16T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

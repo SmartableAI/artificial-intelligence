@@ -3,23 +3,23 @@ category: news
 title: "2 killed in self-driving Tesla crash in Texas"
 excerpt: "The crash killed two people in Spring, Texas."
 publishedDateTime: 2021-04-19T16:17:00Z
-originalUrl: "https://www.wcax.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
-webUrl: "https://www.wcax.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
+originalUrl: "https://www.wdbj7.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
+webUrl: "https://www.wdbj7.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WCAX3
-  domain: wcax.com
+  name: WDBJ
+  domain: wdbj7.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
+  - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
     width: 980
     height: 551
     isCached: true
@@ -90,21 +90,32 @@ related:
         height: 720
         isCached: true
   - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
-    excerpt: "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla. You're warned when you pick up your Tesla that this is just a ..."
-    publishedDateTime: 2021-04-19T21:55:00Z
-    webUrl: "https://www.kcra.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    ampWebUrl: "https://www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
+    publishedDateTime: 2021-04-19T20:19:00Z
+    webUrl: "https://www.wcvb.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    ampWebUrl: "https://www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
+    excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
+    publishedDateTime: 2021-04-20T01:53:00Z
+    webUrl: "https://www.law360.com/articles/1376577/self-driving-car-tech-in-crosshairs-as-feds-probe-tesla-crash"
+    ampWebUrl: "https://www.law360.com/amp/articles/1376577"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1376577"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
   - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
     excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
     publishedDateTime: 2021-04-18T21:17:00Z
@@ -173,6 +184,6 @@ related:
         height: 720
         isCached: true
 
-secured: "cjaztHXvWi1MO+hyeVNMwlXkXLNivHvwOuP/1Nl+nDZku3zJcnmUADJiLj4GEcm7irABSQSEDTFGbuQiCeSU72GWugcc/lA/rPyccwqCjhSG9JfHPoYPn0MX+qTUHii74ZUi4+klfPIcrSUQEvo6Zr9LUeAJKoUYTY7M8+gFeLLnAyyAiFL2HRNrbwUPOb1pqA2zD0KwXdTeVNZVOt5Jro84oX8ZV6aiGuqQqKOx6wLtQQhw/vN6PhqF/F58J1JPQpyfwEJz/z7X9Zt9zjMQj45NLO3a+rfi/PbHgGTejGYVhVs8f7x+weXkok8BfJcAc89d4lIMM0mzaqbhIQOapkHHqnTkMPCxaCJUb5GBtRLFEhtC7RnDRd08vMKGKftOYDxfbI2dMbioXwdMBz57y6CkxXY4za8CGSwt6/KwZwk4+tjr/f/Y97ju95+Ut32YAujl070jcPnifsoxsdjtk3Eilqt2spS/9cwV4ywq5lBEP+7L4da8803c9WAZKR6B5xcNGpGL5pdiPyPZaT99Qw==;+l0EneeCBP5nBOAYmhwn5w=="
+secured: "7+CEtUnVd+l471KuHB9Wmmn5ajPULVlY5vJLfVr/b5QNuORc1tJ8aYPBI0Oni1Izn5oz6RNTrqKCHDSFJuQ5vPQkOtULUixMD9qBMXv/xm9fsQqNnrlWACNL2hrnJO/sq7taP1Sm0cQMH4tJexFNwGWLfo0x8gYQVgYAAdSfeOvWQJOWAWMM0ADY72APOnb2vqqFILeDivBTKleWtpN0d4pOU7Izi+GCIdzVCW8XgR/rt+rBGcz2lzvgSkym35AGTl9bAcKtLQZ8WyalYVWK3Ko83D331PnCEysfnrR67kb6D8Hq4kTwOqk8MZ6qLZHxMsbP+fZlc0OY58lyar50HyrCsATYgJuT6vWJSsO6x68=;CpXwhGaRqBuB4EHibyEdhQ=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-12-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
+      "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
+      "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "originalUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/lash-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "publishedDateTime": "2021-03-12T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-singapore-sends-robot-couriers-out-for-delivery.md",
+      "title": "Singapore sends 'robot couriers' out for delivery",
+      "excerpt": "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "publishedDateTime": "2021-03-11T17:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
       "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
       "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
@@ -1320,101 +1415,6 @@
         "name": "heraldscotland.com",
         "domain": "heraldscotland.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
-      "title": "Prosthetic offers real-time mind control of robotic hand",
-      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
-      "originalUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-researchers-build-a-swimming-robot-that-works-in-the-mariana-trench.md",
-      "title": "Researchers build a swimming robot that works in the Mariana Trench",
-      "excerpt": "In it, a team of Chinese researchers describe adapting hardware so that it could operate a soft-bodied robot in the deep ocean. The researchers then gave the robot a ride 10 kilometers down in the Mariana Trench and showed that it worked.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/researchers-build-a-swimming-robot-that-works-in-the-mariana-trench/",
-      "originalUrl": "https://arstechnica.com/science/2021/03/researchers-build-a-swimming-robot-that-works-in-the-mariana-trench/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-6.14.10-PM-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

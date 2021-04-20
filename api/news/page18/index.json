@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-04-05-7-ways-the-cloud-is-changing.md",
+      "title": "7 ways the cloud is changing",
+      "excerpt": "Computing without servers? Programming without code? Let’s ponder these and other innovations in the constantly evolving cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
+      "publishedDateTime": "2021-04-05T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025.md",
       "title": "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025",
       "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ...",
@@ -1147,59 +1199,6 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
-      "title": "An artificial intelligence tool that can help detect melanoma",
-      "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://stm.sciencemag.org/content/13/581/eabb3652.abstract",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg",
-          "width": 1400,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Healthcare"
       ]
     }

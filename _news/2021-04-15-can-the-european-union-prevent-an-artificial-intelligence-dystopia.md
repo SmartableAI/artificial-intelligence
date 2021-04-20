@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
-    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
-    publishedDateTime: 2021-04-15T08:00:00Z
-    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
-    type: article
-    provider:
-      name: Moneylife
-      domain: moneylife.in
-    quality: 46
-    images:
-      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
-        width: 810
-        height: 350
-        isCached: true
   - title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
     excerpt: "To advance privacy and security of digital identity credentials for consumers, Sovrin is working with Applied Recognition Corp. to deliver biometric binding for"
     publishedDateTime: 2021-04-19T13:00:00Z

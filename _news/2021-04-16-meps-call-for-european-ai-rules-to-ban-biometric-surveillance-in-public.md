@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU plans ban on artificial intelligence-AI for mass surveillance, social credit scores"
-    excerpt: "As artificial intelligence (Ai) technology gets all-pervasive, the European Union is considering a ban on the use of AI for mass surveillance and social credit scores, among other applications."
-    publishedDateTime: 2021-04-15T08:00:00Z
-    webUrl: "https://www.moneylife.in/article/eu-plans-ban-on-artificial-intelligence-ai-for-mass-surveillance-social-credit-scores/63530.html"
-    type: article
-    provider:
-      name: Moneylife
-      domain: moneylife.in
-    quality: 46
-    images:
-      - url: "https://www.moneylife.in/media/uploads/article/responsive/brain471.jpg"
-        width: 810
-        height: 350
-        isCached: true
   - title: "Can the European Union prevent an artificial intelligence dystopia?"
     excerpt: "Leaked draft legislation suggests the European Union is attempting to find a “third way” on artificial intelligence regulation, between the free market US and authoritarian China"
     publishedDateTime: 2021-04-15T11:13:00Z

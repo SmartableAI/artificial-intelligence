@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI enables banks to spot bias claims in customers' complaints"
+    excerpt: "You all will not let me breathe” is just one example in the CFPB’s complaint database where a consumer likened alleged mistreatment by a financial institution to social injustice. An artificial intelligence firm uses technology to help companies flag such language."
+    publishedDateTime: 2021-04-20T01:00:00Z
+    webUrl: "https://www.americanbanker.com/news/ai-enables-banks-to-spot-bias-claims-in-customers-complaints"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uE3/Q7x9vG+kt8WvXDDIetGDMfdbj12B3Mrm+HNlmk41cYaLT+y9Wi/SFRLTK8JRBCDAlqmIHkXXbpx+iTGS/sZdsSQmjlu9vIsCh8lkVCwhG5TM9cWYX8nYNy5P7TjpGN2IztKqhKu9Yncw79hjOBIu0UfV3M2a+IHCX2JizXENXW+32EEYQR1OkZp6wrMgpOAm/j+Yq3oc70nQyGHEUonCeeS/ew42q8s8q3GocFDxYn0a6TzrpZkGYHmXxo2F5FtiEKPRF1jPb8CTz+cLQoJ7cAxRm4vuDaST++FvxlKOp0KiXLbSz0E2fzu0FmrwGlhS0KDEpNenAJvORgRy52H5gdzfAZF7bAcrS7FfFMJrJT6/hR1nYh91wIVkhUoDgOdXL+WpUY28QFHUnzA9xaBgiu5H/pATJ5N5rue/CFm33aNlYWddHl46qK4jYpPDAIIqFSY0UhL5XrNXHUmloH9UBSRdXdUbbWsRmCZzxBxIaDEEGs6EgeymxWNhZF8fSmRwhn81hN4GA9rcKaLv9w==;4HigTN4qerFZ6zd4f5QxLg=="
 ---

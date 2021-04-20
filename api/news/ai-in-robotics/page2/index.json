@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-bmws-virtual-factory-uses-ai-to-hone-the-assembly-line.md",
+      "title": "BMW’s Virtual Factory Uses AI to Hone the Assembly Line",
+      "excerpt": "German carmaker BMW plans to start making drivetrains for electric vehicles at a vast factory in Regensburg, Bavaria, later in 2021. Well before any new parts roll off the production line, the entire manufacturing process will run in stunningly realistic detail inside a virtual version of the factory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
+      "originalUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60709bed3b14ce9d953f9773/master/pass/business_bmw-ai.jpg",
+          "width": 1802,
+          "height": 1201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
+      "publishedDateTime": "2021-04-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-nuros-self-driving-robot-will-deliver-dominos-pizza-orders-to-customers-in-houston.md",
       "title": "Nuro’s self-driving robot will deliver Domino’s pizza orders to customers in Houston",
       "excerpt": "Domino’s Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the ...",
@@ -95,6 +147,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-5-best-artificial-intelligence-stocks-to-buy-for-2021.md",
+      "title": "5 Best Artificial Intelligence Stocks to Buy for 2021",
+      "excerpt": "The company has a separate artificial intelligence unit called Microsoft AI that helps users, organizations, and governments across the world with machine learning, data analytics, robotics, and internet of things products. The firm has also integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-for-2021-931880/3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1328,103 +1423,6 @@
         "AI Ethics",
         "AI in Robotics",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-robot-artist-sells-art-for-688888-now-eyeing-music-career.md",
-      "title": "Robot artist sells art for $688,888, now eyeing music career",
-      "excerpt": "The robot then processed that ... “But my art is created in collaboration with my humans in a kind of collective intelligence like a human-artificial intelligence hive mind.” Sophia’s artwork selling as an NFT is part of a growing trend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0__KzBcPsiKrGIqEylu2nj66LAE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2RNETHNIINFTLGALKXEQPQFQY4.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-sophia-robot-nft-art-music-career-20210405-hbo4j54lkfgnhlf7tamo4tu5gm-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-05T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership.md",
-      "title": "The Station: Argo AI plots its fundraising course and Waymo changes leadership",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "originalUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/05/the-station-argo-ai-plots-its-fundraising-course-and-waymo-changes-leadership/amp/",
-      "publishedDateTime": "2021-04-05T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

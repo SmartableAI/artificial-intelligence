@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
+      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
+      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
+      "publishedDateTime": "2021-03-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
+      "title": "How Yandex plans to expand its autonomous robot delivery service",
+      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "publishedDateTime": "2021-03-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-ok-computer-review-artificial-intelligence-meets-human-bumbling.md",
       "title": "‘OK Computer’ review: Artificial intelligence meets human bumbling",
       "excerpt": "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,",
@@ -1257,111 +1352,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-how-many-robot-helpers-are-too-many.md",
-      "title": "How many robot helpers are too many?",
-      "excerpt": "About a year ago, at a robotics conference TechCrunch held at UC Berkeley, AI startup founders explored solutions for common problems encountered when trying to automate construction projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
-      "originalUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Piaggio-Fast-Forward-x-Trimble3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/20/how-many-robot-helpers-are-too-many/amp/",
-      "publishedDateTime": "2021-03-19T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
-      "title": "AI Weekly: With RPA on the rise, security challenges remain",
-      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rpa.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
-      "publishedDateTime": "2021-03-19T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Robotics"
       ]
     }
   ],

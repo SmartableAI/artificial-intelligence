@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
-excerpt: "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla. You're warned when you pick up your Tesla that this is just a ..."
-publishedDateTime: 2021-04-19T21:55:00Z
-originalUrl: "https://www.kcra.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-webUrl: "https://www.kcra.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-ampWebUrl: "https://www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
+publishedDateTime: 2021-04-19T20:19:00Z
+originalUrl: "https://www.wcvb.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+webUrl: "https://www.wcvb.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+ampWebUrl: "https://www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - AI in Autos
@@ -91,6 +91,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
+    excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
+    publishedDateTime: 2021-04-20T01:53:00Z
+    webUrl: "https://www.law360.com/articles/1376577/self-driving-car-tech-in-crosshairs-as-feds-probe-tesla-crash"
+    ampWebUrl: "https://www.law360.com/amp/articles/1376577"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1376577"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
   - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
     excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
     publishedDateTime: 2021-04-18T21:17:00Z
@@ -108,14 +119,14 @@ related:
   - title: "2 killed in self-driving Tesla crash in Texas"
     excerpt: "The crash killed two people in Spring, Texas."
     publishedDateTime: 2021-04-19T16:17:00Z
-    webUrl: "https://www.wcax.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
+    webUrl: "https://www.wdbj7.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
     type: article
     provider:
-      name: WCAX3
-      domain: wcax.com
+      name: WDBJ
+      domain: wdbj7.com
     quality: 39
     images:
-      - url: "https://gray-wcax-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
         width: 980
         height: 551
         isCached: true
@@ -173,6 +184,6 @@ related:
         height: 720
         isCached: true
 
-secured: "IT+ldQtuQ4PAm62Uz07JC8y5ha+1Ec6hLnSoZhC2pDnME1noFh2zcut+Dm7ukv+1sf/4X9prCkmN0W9YAwEJf4kR5WIWZc21fVp41N9Z/pnJJ0CTtnHhR5LZwATfFKJ8+esDY2kUhPCTIgmHVn2PyQRZovqQzLF8lsQwTRnkAkoKCKOT3ey9riDpjrLe+HkHrhG8bZXwaQiAhvB14MkMrNyLE8+ncBpE6Xwjlgo2co8fRIMqti435kggOUqKwATXeRHmPqeBL71n47nFkjzfkSgPb5KKbTOKIkvr9H7yzirXVj82DMpesyq3xXM1+45p5LDei9zTkblNF70z1qeZZzTLPrTK4PuKAU5jOoxE3XW8eC5dXTvZ1rrZE5yOgdrxNzvAXF67yPMUZFOzGzNH1xLcyvd6yczoqlp0pkehtLLAEAlMlKP0g4HpeenRBbCprdk7yw+yM9F2i6Mqgt5BcwDYLbM9Q2S26DjaoOV2JglGmGSBO6n4o3KdFMayAa+yUn1WOz8Ei0l2tfpCmHEQ8w==;LAhF8AqcvRbrFFWMfEaQLg=="
+secured: "IHe7JLu39WH7nKBIsJvDYdxW9sZl8WwqfuAqqdhzBOie7Y603iLEmv3z5+85l7b4SMHwDOlB0Ejw9fHBqO0QbkKRhUcy/CrLRpePt61/N9XP9g8MzHIPnzuxo+H9bB5DJRdhI7YmB0BseC63f8BmBWd9F0IJVq5bmuY8UNYz1nwX8j0GBpkFfDApdgHkT4pMX3zaFQ1z398uwmy8dEcPgOB1NJ02f/gvAxNsIIAejSMMk2HQ18U6D8F83o6mxy3nNBhZU/vlOan8wEkq82MTTTmLxJ95A9KtaogNkE9vnx35IjMm6rWv+YEVVPGZQsHABLC1oc0EWjdREQB7J1vtXBGyphpNAMduKM3vO5NG6Qc=;+o7d3LmRZfWjdpmuDykMiA=="
 ---
 

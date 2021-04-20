@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-02-23-robot-making-a-mechanical-mind.md",
+      "title": "Robot: Making A Mechanical Mind",
+      "excerpt": "Robot came from an old Czech word for drudgery and servitude. Though in his play – like so very many robo-dystopias to come – the writer showed that a mind we create to serve us isn’t necessarily a mind we can control. Read a transcript of this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
+      "originalUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2021/02/ScienceDiction_Horiz_robot-min.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-hey-siriwhy-dont-you-understand-more-people-like-me.md",
       "title": "Hey Siri—Why Don’t You Understand More People Like Me?",
       "excerpt": "Lawrence’s own experiences being misinterpreted because of her Trinidadian accent inspired her to study how voice recognition systems embed “accent bias.” Linguistic studies have found that ...",
@@ -1122,49 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibm-may-sell-its-1b-watson-health-business-report.md",
-      "title": "IBM may sell its $1B Watson Health business: Report",
-      "excerpt": "\"Watson was one of IBM's highest-profile initiatives in ... in part because physicians were hesitant to adopt artificial intelligence,\" the report said on Friday. \"IBM is studying alternatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "originalUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/rksghucichfic.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "publishedDateTime": "2021-02-22T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

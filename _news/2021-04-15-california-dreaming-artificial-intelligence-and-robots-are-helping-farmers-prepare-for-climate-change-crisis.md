@@ -2,19 +2,16 @@
 category: news
 title: "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis"
 excerpt: "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors."
-publishedDateTime: 2021-04-15T02:14:00Z
-originalUrl: "https://abc7.com/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
-webUrl: "https://abc7.com/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
-ampWebUrl: "https://abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
-cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+publishedDateTime: 2021-04-15T01:45:00Z
+originalUrl: "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
+webUrl: "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/"
+ampWebUrl: "https://abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
+cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/"
 type: article
-quality: 55
-heat: 65
-published: false
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: ABC30 Action News
+  domain: abc30.com
 
 topics:
   - AI in Robotics
@@ -26,24 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "California Assembly bill aims to minimize discriminatory decisions by AI systems used by state"
-    excerpt: "That can lead to algorithms that make bad decisions or even perpetuate racial and gender bias. These algorithms feed into an artificial intelligence framework where machine learning makes decisions and predictions from data about people."
-    publishedDateTime: 2021-04-17T17:00:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/article/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/amp/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/amp/California-Assembly-Bill-13-aims-to-minimize-16105215.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 47
-    images:
-      - url: "https://s.hdnux.com/photos/74/30/16/15827881/11/rawImage.jpg"
-        width: 2048
-        height: 1634
-        isCached: true
-
-secured: "neenjOM+nyoERB8UDEafMm/vyktSgRNyLRJdll1yT9KtDJ0CGqPpvZHv5VJ7GOz66J5SsjKCtFZ6rXDgP4bdcPb4XcsC27l5HsfwQyhKx08v1IVVlTTUmEcZcH0eVfUs3f9Qe/ncR6ALrhJO++PsuFWFNI+tLMCR3giRf3P5CIWBUt/2xl3UzEhDBILT2brQw94Ifwx2Jkd8AcX0UmDHSkJ22Yggee5FRbiBZqFuOZuO83lNP0WQDfj6/FsuqIQMNwjEVuJPk9jbB+y87S9bCvc8XeovVFHgwLdI/2SjRsTCO6Oo2wyvzd3wdp/7i5+OEQ6ei04icXlz9WN3lsndZ3sIXD1lCw6e4oR/EndFxOwzspP0lRIXntAhaAkxVMthGuWZDB6Z2wy9TfQ0ysAGKd2ZCP4Nhgecw1Bmcq2HO9SmENbAKJa8aJ7tjc1QNfRcG0dfCC+b6N+eqTPyj/Qv3hLv4yRnO58Zf41nC3sDrsCDPVaF5k9EwDLJ9AonIJ0w6xuWRAhhEx5RaJER/tnRmA==;EWBddZNO3Xnthu/iMnXWxg=="
+secured: "BGjDfHRnO8T8j3jYQkyxI+j2Xhw7UZL9kDAL6qgaOqIGRKbZE4DKzQItjFeNK1oye7Nhorjes14VTDUvJFD4gVCC2hd4spYqkMGDMsyjgvvc/bbewfVUtG3PtAqLVclI5tZ9IxSQivcyKn8VoErJFbE1RGw2JhGKIq7SSL35gZSVDVrblwfOLD7Fs/ok98JgupKKAgALdvaPXpIWMHrKbnOFuquMqzbcFRB1nst4cHbsn10erGJ8UtpMvDnbm1hyNSh62od62SEaPtYKoy4FEcRePSdFtfZXR7Hry03mZICdhswe7Rg5sYfrvzEr6PiKAiRGrM5By5O3OLlfPRl724JbdLrMxmVht1NPQLhTuaE=;VqxcTKO+IZndhi8NYxXPhg=="
 ---
 

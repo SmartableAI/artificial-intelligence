@@ -167,7 +167,7 @@
       "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -821,50 +821,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
-      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
-          "width": 609,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
       "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
       "excerpt": "Machine learning’s (ML) importance in this coronavirus pandemic-induced automation era cannot be overstated. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
@@ -1401,6 +1357,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-azure-percept-is-microsofts-long-awaited-answer-to-advancing-robotics-and-edge-ai.md",
+      "title": "Azure Percept Is Microsoft’s Long-Awaited Answer to Advancing Robotics and Edge AI",
+      "excerpt": "Microsoft announced Azure Percept, an end-to-end edge Artificial Intelligence (AI) platform that includes hardware accelerators integrated with Azure AI and Internet of Things (IoT) services. Azure Percept is able to run deep learning-based machine vision workloads at the edge without connection to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/",
+      "originalUrl": "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABI Research",
+        "domain": "abiresearch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

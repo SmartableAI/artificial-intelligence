@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI enables banks to spot bias claims in customers' complaints"
+    excerpt: "You all will not let me breathe” is just one example in the CFPB’s complaint database where a consumer likened alleged mistreatment by a financial institution to social injustice. An artificial intelligence firm uses technology to help companies flag such language."
+    publishedDateTime: 2021-04-20T01:00:00Z
+    webUrl: "https://www.americanbanker.com/news/ai-enables-banks-to-spot-bias-claims-in-customers-complaints"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NbC/n7x28bBulU14uQ6n692UrK/Ho/zUta+xMUWuAV8bBquqw28KicrqXNFqT8zEuEJ0Vk6N72mQKlWm1llTyXdWtpJBwyqDN6qyt/38n7MEMkCwauQwsOXfAvxOFn9/F5JAA+ueZ8PEB9HDjah4CzN3AZg3FX8hU+OAxO5s4mZujB3Yanha23EBKrGk+1NvUGr+7jM0d1AFsFjpVrO73oXcGkvHcyC6bJ3UqRAZWix/CTsNRi2qYGhp/YEF1uR1cTDUPxpNmhT7Ynh0MPQR1lMNuoYE1O+CYvoC7jBRntPyt+PUUWdsD+MzhD3X7oT9pnpqa+3WHqA28DuhOpVS2uQjiNrl9S6NGaY65/ED4zHaOcDKCmw8vOsOdyU5l7f3kWdJhyuB8UQftAv7X9hVETbqTl60FsX3NOjWC6wob6WbWzZDoRhHfM9Ux1ONpk3H1hgnxPP9WEFHEZog/ig+ay6A0i2eRXIOVqMfQo/y8vlzI3WgRTn8PY87aI23Su2Xc6ktDT9Ace12N4z1HWfgBw==;Obh2t5+mWiENJ7dKli1Vxw=="
