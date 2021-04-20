@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/man-files-for-damages-after-th
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/man-files-for-damages-after-the-first-case-of-facial-recognition-leading-to-wrongful-arrest/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
-    excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
-    publishedDateTime: 2021-04-16T22:54:00Z
-    webUrl: "https://www.consumerreports.org/law-enforcement/facial-recognition-in-shoplifting-cases/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 19
 
 secured: "x+HI4QDExubJDwiD7ktFYEsk+QqaqYg58dP5xIoTPjb+qNzGupg/6JVfXAE71XYTEq9i8NgETE9z9l4IN2jv/nwK5oLdY9PLjEOTssyRiK87N92Giyoie2aV/FUYQm66Z5u5sCnG4yMtUwZNeugcJb6hBd/NVkafR/1pD7fHoZdBYDIYhkv7TJY3/Ysoim7ZKRcT3b32i99UBZv/q9ml5ZxcecqFH8loOuFl1aUh+LvNdEImRqa8PwAgXMAdCjsg7H1FCq/YTrzLcxYxFp+W40yPLTPfYW8uj19pcAAwfLRqs+NuqJx7slSxa8hfn+rceIMBNrAMaFYEpHnfNrYL8Orh2GvmF0PtVr118mzl+0/bEUKWdiYEfX7jz6Y2kFpnTUcotHwXyx6NVBEE+WF/o3HSXXrGuSqOEJpSUY5ESPvIYDGgDUieFvfS/heJoyavwclhFV0kEY2w4/lM7Weq5GAdN/rI4ktnd56t6ampqY8ThWR9fbo+Ik7RqlGzv2MvZabIa7MegSbfl7w+7cqC+w==;7qZx5n8KPf3l4xWvKTuRGg=="
 ---

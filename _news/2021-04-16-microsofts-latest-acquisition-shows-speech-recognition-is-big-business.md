@@ -140,20 +140,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 51
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
+    publishedDateTime: 2021-04-20T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
@@ -177,6 +174,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
 secured: "qCxGLRncyS+7GI75CW29kQtilbc3K+Bifvk/ad/q5wF564OiennTaXfGUrX0h3zVZN3+el/oP5blvxS1hV1NDCU5qjgWQvMhM7BWi9deiAQuoY2CU1IYZmYhQMHpz3mW/H0OpwaJp2aBtRyJrkP24JkZ81XPOcmin5MWIiXh3ynuNUzgwNjUyFuTwe4rveu1UNDZyCVGVYei2nOBGOY5BgMU4VBEypjEohd4z0q5eaeohGos32xaC0Z1q4oJudGD/DM1mZ7HgCxpUCzpQnIyAZU1di1V2eSUzBOYwj+8v0Ao7tK410XwgIk37AheOuaPdtQTc+4h1i1hzWuAYW88kckDupThvrl/lIBlEymwPXiSiEkFvKWQ5QYkCa/vqh2du9VQh5WFYE/o4YvTJuZGXht3P8q/uwU955cMGePHpOADquMJvNdEAHWRrUUSTZpKrdkSP1K2rx9LUsAKn762+8ejrRjwRr0I3cTHVZMQh/BkcZTQVTYV/47D7OdKUeZ6uUMre8JEJr9XRu7EurC3JA==;bOkmMkBgC1TmwfICMZ+E+g=="
 ---

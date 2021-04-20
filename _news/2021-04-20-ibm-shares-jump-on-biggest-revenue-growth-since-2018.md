@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM Shares Jump on Biggest Revenue Growth Since 2018"
-excerpt: "The shares jumped in extended trading. IBM reported first-quarter revenue growth in three of its five business segments, including Cloud and Cognitive Software, the company’s biggest unit, which saw 3."
-publishedDateTime: 2021-04-19T20:24:00Z
-originalUrl: "https://www.bloombergquint.com/business/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
-webUrl: "https://www.bloombergquint.com/business/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
+excerpt: "International Business Machines Corp. shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting Chief Executive Officer Arvind Krishna’s turnaround plan is starting to bear fruit."
+publishedDateTime: 2021-04-19T20:09:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
+webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg"
     width: 1200
-    height: 630
+    height: 533
     isCached: true
 
 related:
@@ -72,6 +76,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "JJd0MmcxECslymY0WzPLiatFjVlX3OHgqUAisCplpV5W5oVt2XD0UoiTN5s0BHSsGx0/KUY63LLcyPt/pkaF7jJv3MMDZMyURAi1DFt1JcGUsFW8ZmBcmNl26r4h5UaToiUK0TBVltpwJaK3dxSYuXcyXyibUO/MFcIaZsW7VNtuwzvTtN8+LGXdPl2ldXbrhwe8WGntBD71LVwOvfLu9ZmM3/F2byqk9yhpNuxKggC8FqiFJ6F6pKNBYk/XA9uPQPcTZ6NNT2U6z2a45mEm4V6BB3OAjq03ns523Y2gFAFMj4WPf7yi/0WD0DtAJIjg24btHCa4sufBkFOegw9KXujotELa2JktFB7Yu1+GvEk=;FbHwPikCYisuEEXl4Fwb2w=="
+secured: "mdLwDx+N/6CGHuncikeawZhtzTO6A/xM6f8iGM6bExyEZvhdU5r3PoFP9ZrEDVsGSryLednYFjNwIJMZS5obnIvVAGGR2ViamUXG4ElwPIFD18VtZOcONKTeKQ5ZtY5B/jQHz11/28Jh49DeglImrfqlQprW/9EVKVZhbWSpmYyp/KplNWlGW1P4PBCSEZNv5q2Oz4UwZ8n518+afihFNYsFhFKXz8tdGpGU2m3uep9VCKdndHn83MZk3bJYbHTL7UDHheOMKPX7uWJYHlE4A5eW0j/CnsJHLkfqvIJH124Qy6EWwfshP3B5amgbZS/XYaFlOo+faG0Hlj7J6Vu1hruSgeVdAzY3vZ0Xn/NG+A8=;/uVlwuBblIfM0XXHhyOwlA=="
 ---
 

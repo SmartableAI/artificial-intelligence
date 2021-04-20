@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
 type: article
 quality: 88
-heat: 168
+heat: 148
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Why a U.S. Hospital and Oil Company Turned to Facial Recognition"
     excerpt: "Cedars-Sinai’s main hospital uses AnyVision facial recognition to give staff a heads-up about individuals known for violence, drug fraud or using different names at the emergency room, three sources said. Cedars said it “does not publicly discuss our ..."
     publishedDateTime: 2021-04-20T10:43:00Z
@@ -102,20 +86,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "State surveillance body cautions over police facial recognition technology"
-    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
-    publishedDateTime: 2021-04-15T22:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
     excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
     publishedDateTime: 2021-04-20T11:45:00Z
@@ -142,6 +112,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "PXKgqTNEiEFW0WMh+V+BlVyiYMTc12GUtC7/a4Wk7yVmLLhJ3vH0E+jfKustQBNL4ArS/6UeX66rHDw/WMlf/HxOy6xDW42D2HQAYdvhHktMkGx4f7IR6DTM8Gn493ZLSEcYXqq1NAKpN9DbGhmYqIPF6qthwANa8c0LggPjvJ/Rt7E/nArO0A4ZdDNfkJDyMUCNyTKvC7g4QNykYsFZ0kdk5e593DV+ZvI4N/W/sdThVP21WVEA/tj2xixuTot0+e588FnI9kiDNrBsjw+VLP0o8gIuBJrz9OI7apRN1bMCJ+jCrNmZYl3jLJ9riwQTg5iO5yhWX6JQqfR8BpyJprrKrykJ7ewVsReDueKJWv8=;ZK4gT+86IXB+a0UL2FL3AQ=="
+secured: "2QozGO25wE0Vpv2EiCI8eKEKaIDypWc97P7aosoI06JB1dDwG63Hv9W6l+xc8/5AAvWUmv2jPW5AuNuEppjavAKsHbS2oZGaYe4axxssyiMZE0sBVzsJuNmHWWOJON3cSh931FxVyLcfUssrFJZMqI2TPNsVxtOe2K5Lacg0NYohV3fv0zlMYDpvspW+qXbXbj04EL7s6V8cJabEtiGnj+r8wBtC4E267o6OD+vmbtRyij1nmznhBiVk5ROpIB5AQJcuofMjMzCahEbYmtfYc4T5wfwcAPa8ZFCyjHdzeh7gnjpOYQlxgj+7tpytpBrA/tDqxHkgWGK+LU4XCHOIBpJGo2BbnmcFgA4D/m5YyzKnqN0jt7EGV0i4zB9pzRotItEud9x01UQIjvBleIpseUOXKhWr9GQG+XCnZqX8MIm1+udCFDjHvx2LejocQ5urk3Dx6/VkhynuuwEURLh2AzfeBTqG1i62QVRt0trnikkRZLrQk7lM422ys6LeDpYLJ0jLruI7uHhH3ZIkvI3Dog==;TqPK5Yg6aoYtVv/gJfBNxA=="
 ---
 

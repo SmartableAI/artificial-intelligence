@@ -25,94 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart is investing in self-driving development with Cruise"
-    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
-    publishedDateTime: 2021-04-15T22:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
+  - title: "Ocado to invest £10m in driverless vehicle start-up Oxbotica"
+    excerpt: "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries."
+    publishedDateTime: 2021-04-16T09:38:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 61
     images:
-      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg"
+        width: 636
+        height: 382
         isCached: true
-  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
-    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
-    publishedDateTime: 2021-04-15T21:45:00Z
-    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
+  - title: "Ocado invests £10 million in self-driving firm Oxbotica"
+    excerpt: "Ocado has announced it is investing £10 million into the autonomous vehicle company, Oxbotica. The two will work more closely together to build early prototypes within the next two years."
+    publishedDateTime: 2021-04-16T10:36:00Z
+    webUrl: "https://www.neowin.net/news/ocado-invests-10-million-in-self-driving-firm-oxbotica/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
+      name: Neowin
+      domain: neowin.net
+    quality: 54
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
-        width: 1999
-        height: 1125
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/04/1618582719_ocado_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Self-driving car firm Cruise raises $2.75 billion mainly from Walmart"
-    excerpt: "Self-driving car firm Cruise raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, raising its valuation to over $30 billion. As part of the deal, Cruise will provide"
-    publishedDateTime: 2021-04-16T09:12:00Z
-    webUrl: "https://www.econotimes.com/Self-driving-startup-Cruise-raises-275-bln-from-Walmart-others-1606558"
+  - title: "Ocado to pump £10mln into self-driving vehicle specialist Oxbotica"
+    excerpt: "The companies plan to develop a wide range of autonomous solutions that have the potential to transform the warehouse and service delivery"
+    publishedDateTime: 2021-04-16T07:08:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/946785/ocado-to-pump-10mln-into-self-driving-vehicle-specialist-oxbotica-946785.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/946785"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/946785"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/2021041670cccd932927a8b32_th_1024x0.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Huawei to invest in electric cars and self-driving tech"
-    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
-    publishedDateTime: 2021-04-16T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
     quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
-    excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
-    publishedDateTime: 2021-04-16T04:36:00Z
-    webUrl: "https://www.ibtimes.com/walmart-joins-multibillion-dollar-investment-self-driving-cars-3181996"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/28/self-driving-concept-cars_0.JPG"
-        width: 1200
-        height: 491
-        isCached: true
-  - title: "Walmart invests in self-driving car start-up, Cruise"
-    excerpt: "Walmart has recently invested in autonomous, self-driving car start-up, Cruise in its latest USD 2.75 billion funding round."
-    publishedDateTime: 2021-04-17T05:28:00Z
-    webUrl: "https://techstory.in/walmart-invests-in-self-driving-car-start-up-cruise/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
-        width: 920
-        height: 600
-        isCached: true
 
 secured: "CedCzaNwmsR2XWHaAWXpooBsWs2QVwaFptEUYxiN4YGCAZjH+GWNkiUEQqaDvGJUYNuUVmfpYDlV4dSpMbyBcDhKZO8oH3jbUhez7VnsWLo43S99/OP6fnDvdPQjwobLZpOFO78trHtRs3NzogdNfjcmYrBUWiUCa57yCvbvzMP5DvZjlGSPTJUtNDu9PJ1tvpplfnen2rp7QfGNMIZ8vqCrGEMBFsyUqOETwGppEE3X/44rdtDUY6vX1cG17wChaeg5Pxdd4R9UnmhecBArpgfo6MUTh/iNzulcfarVisM1F9P/K6UfF1IDPeNipqygXxPXp1vgsn8U63M+5oetkRbz655tPiDBrp3d6X0Oq/M=;GqH0nNa0Z1wN1LnjTiwWIA=="
 ---

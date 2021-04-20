@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-19T10:14:00Z
 originalUrl: "https://www.metro.us/google-translation-ai-botches/"
 webUrl: "https://www.youtube.com/watch?v=eKRpiMBlu40"
 type: article
-quality: 137
-heat: 147
+quality: 139
+heat: 149
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.ytimg.com/vi/eKRpiMBlu40/maxresdefault.jpg"
@@ -39,6 +40,6 @@ related:
         height: 323
         isCached: true
 
-secured: "MaPq2R00US3Fte9hnCS73FgMGR4Eeui3vA3jElWvyqqa+OTSuGiVLh/AW66HBMif7drODobqUMEV8GJfc1yMR2EraU00wijsdd9DFQhMANeA9Yi/5pDqelLK1nBCONoAAOMVkx/8sTcLLUru3p1lZE4Ai2UE72qLfnQEnL5ti978dt3f6s076ey7lQj2vrSHM14OkNlT2EyfhhE9xnt63t2ixArBGUebNnbXV9QGK1Rnk4PrefSFpXbqeDjUK2G1IVn0Y1p+5Yu4S4wMaVO9ynS5X+e5IqkICddOVxHlPgAc5lCRN07RHIV0D6XVyvSFPzZp86fDusVWrFo2XaQthsapk/OtoWg+6v4uFK8w6fU=;O/wnPFAk1CCxfsj2gQA2IA=="
+secured: "SSt3geKQ/z7nee+LDsJGFDHznNofQn+ngBg1d+5j6WXtqChP39Eq9D19VStqVKTtAnIkukQuYxD75k22a3Mn4CAQsYacLGrXnoGeQKghjxsIeUxVqFcj/EyGcEkuYkyIJ08kJQlFO7e7Saui6p8F+BeczmiNJTB9huv8lP9PA3G6MLPQm51HLayrstgshuyxbhNBBdxuoFbjRIs4Aw4Q7uWwNRm4lLQTddS2VQxPkWlL4tvt0eQqtZoUnlS9BzCocjSGI7ZmO+Wv1uCmp6P9yocBMq0QTVk51CO+i1TWXtYxweggKMmpG5UwOxp5EN0ITNUQOTROh3Z8zlZdaBzyiCr5fjlGFdkLI5zBM40Mk8CbcgoUCnttmNxJs0BMzzf6IWeyLJ4qGQvlx5HeUXREvmeD/vZ7a3htQEq6n6bboL7RD69GK9K+k+oQAR+6iZC8sTNikwZC7Wvkeb2lCqyC2mCuFqibrRPzxLpiYdU6lJf4WWObWLTVJOAE3SIEf+97RyzOWh+tzO0teZvkH10yDo4kIM6Dm53DyFEDEgf+Ngk=;7Rx3ZzrAu1Pm6dQP7UDDmw=="
 ---
 

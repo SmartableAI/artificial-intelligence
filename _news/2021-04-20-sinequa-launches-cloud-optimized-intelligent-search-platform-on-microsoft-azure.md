@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
 publishedDateTime: 2021-04-20T12:57:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
-webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
@@ -153,6 +147,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 51
+  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
+    publishedDateTime: 2021-04-20T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
@@ -177,6 +182,6 @@ related:
       domain: bizjournals.com
     quality: 33
 
-secured: "h2td3pufLjqXVADiP2HrBWkJ9OE0ZbpPAfR7XQ7ZBUPEM/WInuTseH8iJtyR43J0b2WnvcrQGtzpr/7r2pBKZng93lonMWIdJUlMzjsBIKbW56YKI6CrbOQw3qt8FMDpIXqKpx0waoBKS31uTWLb4nfv2uQOfEopNaQG9NDm7+9zaQ481kWly3eOFx2BIGzlzOdqZft8+EtXYblYPdoZW9KUUfxzbJZtZwFWDDcK/U8DVuUf3NzIbL4x0Kd2yQ/5t73CYeLnzi5TLjLyAk8MUiMbjkPuCLYuWx+0jKs2NHy0JKNDvf+paBC0NlM/fCOy+RNE7tm5MUD+sExbQTtgxbtiF8I1pUiGHty9WZKhhBw=;AV3ow5rrQEYOpF4vcmR+qg=="
+secured: "oPSX2oInRl+nyOkIVk/LAvJRURDNnUKAZbk1k6+OI9Dcfm3eUQ1gw8klD3QBN70p5KNvrHgE/FXnIxERIyDmPciA5vHMR21Xq1npdz6LWQkx6ZoQuFfY/l7XJK2vk2FjFLxCyffKzlh8jL1Gki2liFFTljyk/f2NFmk+bu4JQUt0XcGKtuerVnjcJriKoMg84tMwRlfWucNIZFxgqy1lLQox9foZTwQdTJo+F+qb/jrbKk+vajfohRh47dX3b/uuR/Z4SK6jXjPPLY6uL2uIkDtv/sMpTvBj//rCRWh+sE2kxvB2YuZbUI6Wi/hyhP6kPdVqIiQcoq02I6SL6uSy/5rAPgBdK0mOKOZ+fmriUsU=;Ip+41S8FGy3UCIFwsPUY3Q=="
 ---
 

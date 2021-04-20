@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/main-barrier-ai-enterprise-now-skills-not-cultur
 ampWebUrl: "https://diginomica.com/main-barrier-ai-enterprise-now-skills-not-culture?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/main-barrier-ai-enterprise-now-skills-not-culture?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "http://diginomica.com/sites/default/files/images/2021-04/6C81D544-82E2-4FB3-8B5A-C1EED1140B2F.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 426
     isCached: true
 
-secured: "Z0FpPrjGH/I/NltYvaXkDH+DQpkQeLLEfad0FGTwukijokpHWaPemzmPuswEbMxQnPPs98eTwDgLO0q+b6WaDEUuzTnQwUAYwy7gTeqnjfrPQBmGjsO40MggcRk89WoKEi1y3WUrzWw5SmwJxQZOA8KVu70VPtlvYpP7AnJo5Wx5Bbg/o/7QEHrJ2396iLQMMZG5VhdHAQcMtez2ny+/APuQgVA31yx3wG1Y9RbFhoKDTnISGov6MlI6+Wtp4qiH0P/ZE0NDRgTJhSzvs2GrZtiTgxOVH16R+2TnoYI3UD/qVOrjnmCOZsuFcGAdR3oZ2MG4UuKkgmB+UB8ODLhDLGhqDEGHW+kr8jE3/8JOuMg=;XclgbZN8elHLRoiUUWtKaQ=="
+secured: "f9V8TwjdP/mpZiqHl/ci+zFRJsrANIuVGMZ6CVRosEM8dZjt/cC0Eg6Xd+i8kxUzimcb+6WawkhErAQ10prZKJn9aAOtqrk1o/GLPDYKwJP3bGlJ8yCrg9pNMN7xOJsTwGTwfdq8eMT137/8iZYza5zfe+GhPJtMrWfmB6LKFGnTYPLvmhENyxtf2PQ0CyzGlD40NSHKM27euJZeWENlThkvoP0HHS+pcHvdjI+/ByVVZUWSG/mc5cOKFOqFmra1E3110yEod4WnlIwwi9bkGzu5Xj1VXITMrY2FSFrZnhhFLEfaQ8iyBGeNu3v43rNPr30tHm0BqtJXwpnObNCXejwFjcpbgp29YTVTJdBTvPP+Blr5MPp7icv7z4q8A8vlMio0BOep5CIBMMmIf0kBCcc9QQIQ6v63MzIepZ5x+xP3dN1jobd2zwKx9hK3hCFz8B9oQlCzSi91ofCHD4Tr964VjbPxdvvq2LmMFHb/rkXgupjLdThu29Unr8o+LcmUdSPGcSumCUYM37ray+YXPw==;ONudhn7E5i80tv2YSjgcnQ=="
 ---
 

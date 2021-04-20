@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
 type: article
 quality: 108
-heat: 218
+heat: 228
 published: true
 
 provider:
@@ -141,20 +141,17 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 51
-  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-    publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+  - title: "Inside a Microsoft Azure datacentre: Cloud giant invites users on server farm virtual tour"
+    excerpt: "Software giant wants give end-users a ‘tangible view’ of the inner workings of its public cloud through its newly launched virtual tour experience."
+    publishedDateTime: 2021-04-20T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour"
+    ampWebUrl: "https://www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252499582/Inside-a-Microsoft-Azure-datacentre-Cloud-giant-invites-users-on-server-farm-virtual-tour?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
   - title: "Microsoft’s share price pops after Nuance acquisition"
     excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
     publishedDateTime: 2021-04-16T12:25:00Z
@@ -178,6 +175,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
 secured: "mA6wgXITfu2tlY4ORQicZuXeVsNjMUOU5+VLICfDGt4T2VlgIPho2gS/klnEJyDp4PIIT+FZoW5D6rw5nbamuoppwT9vndXp8LjiSUR/8sXAgDqrAaBuKGzcBHiS27PD6Hiu00+QGRWUkDbr7tFvVS1kykqrA6nkS8jbZsJq3POd6zTwMEAt1AddoHrK7J7NmIQq3zw5vza1jBKd+YdQ28kzl6lJPYcvIwFPvFvGdNh/qNj7Kqpz4QDsBrXkUhMNtKSNZa8DKkyQP56nlOPKKJE64a3e2BLo+NikXeJGjdVDENdaKB29b9M06zOarbcgllH/TEBCx94iCWP9k0UYzSByeJNjptWPiR9+qwbqAUpOCMJasMVndAMwCPqGB1IW9T2Zg2CpI4jPD4/ZpTm/sK1hjIthHTPIAilhmX6+dX4pKVMJFyX4ntOObf+1Iu16GwnZIJh99Fl2vaVh6bg9Agc7m9BBJycZHTnYL8eP6hNbwqKtIyUBu+pNeLda3a81ydJHgFGehOYnXZJPaQalwg==;dr1K8bXrQux/bcC37cz9DQ=="
 ---

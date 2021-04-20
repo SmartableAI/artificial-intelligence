@@ -50,6 +50,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Huawei to invest in electric cars and self-driving tech"
+    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
+    publishedDateTime: 2021-04-16T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "45l0Gd1b6fLZAk3v10D8FaHmPzrLbZzoB7c2jm5BGEdk6e6O59VVXPBaLFiHPPtgprcQHN+cuTMk7eVmrgZSaWdGM0hqvZDGKVoM3yVVAh16Cg9f+KsfvlUh1oUXbsDVvoGsq3WJdQd3QeiN+19oM0uwq46WXUiFzIijH2xysNwhNmf15Hly83M8zGqkOUlhZFIZwsPKQOt0+BaBFEkBn2n8bABlKjIsmv/jo8uXer0ofmMauaENqciYn+2ZELLuRh2VlE3ujT2TIbZB73Xuglko4uoE58apyeQek+PBsGCnkftvxhFlJhOdLrkdFK+7gIhTIdT94fgvX0lM6Vk4B/Ahq52iiayUMKk+lwc65qc=;M4x0dDkZnKTnkHvWNGcwpw=="
 ---

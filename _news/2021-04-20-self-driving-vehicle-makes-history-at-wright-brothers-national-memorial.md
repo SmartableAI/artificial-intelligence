@@ -26,6 +26,24 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "State Transportation, National Park Service Officials Mark a Milestone in Launch of Self-Driving Shuttle"
+    excerpt: "N.C. Department of Transportation and the National Park Service today announced the launch of the first self-driving vehicle to be tested at a recreational public lands"
+    publishedDateTime: 2021-04-20T15:14:00Z
+    webUrl: "https://www.wnct.com/news/north-carolina/state-transportation-national-park-service-officials-mark-a-milestone-in-launch-of-self-driving-shuttle/"
+    ampWebUrl: "https://www.wnct.com/news/north-carolina/state-transportation-national-park-service-officials-mark-a-milestone-in-launch-of-self-driving-shuttle/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/news/north-carolina/state-transportation-national-park-service-officials-mark-a-milestone-in-launch-of-self-driving-shuttle/amp/"
+    type: article
+    provider:
+      name: WNCT
+      domain: wnct.com
+    quality: 27
+    images:
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2021/04/The-shuttle-will-be-tested-for-three-months-at-Wright-Brothers-National-Memorial.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+
 secured: "Gp+nAv3g77Zu+2WXkR4s8doYd9tmqPuOBEw43YZRAR6ZS9ZUT8vXibBrGpgBgy7KlPlLe8HjJqFyEO869o33PMxDS6mPlplZY3BSrQ0/EX24Ssi9AqiEDAlgBXhW0o8Hatqwl+fY5pqfnb1OkOF2+5aCpDz993h5aIVivJ8b6/2p7gsPW6kLJ23HZUZhF96jgS2zCBWwpr7GI3Yn161Jx8A7Qn5LEFt04t/DbzTNGcH5JQWiHs3pgGVMOIArm2CoBTOe4WOsfopnG+kJOTZvoY7HJ7Nl8L/WeEMN63J7TUyv83YwXb/wG8lRjqWJ/1YGkbZIAPO5nzJ+LkzLYzyUtw8N21Yqswc3HIMS3723Co+e1c+eCELhlhAfOszUu9Sb1VL9tNIF4i6urrsYuPWeXytwgMNT3oB7rY1EV2Cg4WLjhxXSqxkQT3cP3edgolSaoA0V4he/xhm9ZGUMBTz0eqYNl46Az7OgRnCjI6o6NEk60hnQKVVRCbtifHshG7JT3kFOInllGeYh7wuMSQuAHw==;c1LEb40Hnp21QvIDkGu55w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Self-driving-startup-Cruise-raises-275-
 webUrl: "https://www.econotimes.com/Self-driving-startup-Cruise-raises-275-bln-from-Walmart-others-1606558"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart is investing in self-driving development with Cruise"
-    excerpt: "GM-backed autonomous vehicle developer Cruise is having quite a week. Not only did it sign an agreement to be the sole self-driving vehicle partner with Dubai, it's now got Walmart as an investor, as confirmed on Thursday in an announcement by Walmart US CEO John Furner."
-    publishedDateTime: 2021-04-15T22:48:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/walmart-cruise-investment-announcement/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-cruise-investment-announcement/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Walmart invests in self-driving car start-up Cruise to expand last-mile delivery ecosystem"
-    excerpt: "We don't know exactly how much Walmart chipped in, but its contributions (combined with cash from other \"institutional investors\") have raised Cruise's latest funding total to"
-    publishedDateTime: 2021-04-15T21:45:00Z
-    webUrl: "https://www.techspot.com/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89331-walmart-invests-self-driving-car-start-up-cruise.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/04/2021-04-15-image-24.jpg"
-        width: 1999
-        height: 1125
-        isCached: true
-  - title: "Huawei to invest in electric cars and self-driving tech"
-    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
-    publishedDateTime: 2021-04-16T11:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Walmart Joins A Multibillion-Dollar Investment In Self-Driving Cars"
     excerpt: "Declaring \"it's no longer a question of if...but when\" autonomous vehicles are used in retail, President and CEO of Walmart (NYSE:WMT) U.S. John Furner announced the retail titan's intention to invest in General Motors' (NYSE:GM) Cruise self-driving car company in a press release today."
     publishedDateTime: 2021-04-16T04:36:00Z
@@ -98,20 +52,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/download-4.png"
         width: 920
         height: 600
-        isCached: true
-  - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
-    excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
-    publishedDateTime: 2021-04-16T06:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 17
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/wIWPKeBZreVu1lSLG6oPud2QaiqYJr0JRJjawyVW.jpeg?w=940&h=430&fit=crop-28-38&s=c23a40bda2d6ce89daab5f7d98e848bf"
-        width: 940
-        height: 430
         isCached: true
 
 secured: "+sXGHbeDssWoLEKdFt3FJOJf2UBHMcXhI1/lnHIXsdpvChZwANCtevR00/1zn55y2aNP9G44pVvUeMVRGh2SG4NwU9fwUxIkomuPBB0oUT2Lb/1OTPGKCjSXdGBfFLdcVb4oSj+ZXgdVxILto2oAFu/qhnhpWTL33jshNtlk9pdWF5xqfTYQxi480F1LdhH47oUndzo9AqWw6RrdOFcJx4WJtm75/xgAxap6yr3dez8btG79vJGq6RyRy9LNk8oWxu1cvOKLXbmx6WcpGp1whNG7t0ng9AhEhffnj2UiI7h+0TyIYKL4y+JrU0h/I3rFaXc/3e8XuUkOrJjGU5ayo58DVlKm0LJfnko6ooZJOf6Eptd07V2317CUcbFbIStgZeY3qqxMFulPzAPULjef6QkFFkti0K2dJ0XabGX7hDsaReRop4GtmwdEVF+E8dAdgLsivhRqol7pfLfOrgpj7KCDfRiupLeMiCtgXBVnUI6pnnbar9LqH8OFyCfcD/Jcc4bnzLygbyAawa3rdKbUuw==;3hHZzoIyoGAycsxVFwuxvw=="

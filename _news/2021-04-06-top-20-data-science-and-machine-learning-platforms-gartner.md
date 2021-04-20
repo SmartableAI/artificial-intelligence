@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
+excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "8P/jLQaOnghwyop4jl5YpNkDYDwo0bv2WW6TIHOATxjWHKRSJ1InwNNMCfnvVGaMr9VPuaN2M+c1ApGbviuk/FTNd7iVrzUYPrDOksuld2vPxsGyyr0ahbUVRPqO1XaCuKacxvmTmxaC2ioMbL3B82TdzMs7ENuap7C9FZmLBX9qQExYsmQFKwmn7EiH8XPGyqk3ws/8gjTLrskC804cDNj45SZvW97y2hGAscfuyQNQNGJeBRvwdkBSdsItYXrdcwv3igSoIZjoZSEBJohSTI+Dy4fnQOtvVj0t2uWzFX+qC3EjP4FxHRGnUT5UEbKlIKf/vwosd7zYYlHdk/8pMRvHm2TXAdG1QBGQATDYmp0=;JfVW6UpeB3NTv7msPmT6WQ=="
+secured: "VpUCasFuymnr1qABe6Ko5H2G+ce6o98gmuUe7b5VZneKrvXgn55EeJ7l0eFwhJHg5IHMTXcnEgVxy+CGJUCPeoJrUcUjiLuGRuwjtnXwVXhhZxPFvdltWBIpCIz6SpxV6pvd6S6JxYAdgLUl/LqPMxOXo58Oi10DB30VGk3EzwiEqfoSinNmX31T+8czmfpC3BDbXQnMi/KIKG7vozkyF8i5Pc/eT8I7zGha7Krff1un0jogvKxe8GB78jYpsmjYRkx2FK51PH4RpkMfAAwK8qS8ZSg7kgJBNOm4jinDARC1F8KRRFcheg3dy0x+YetfwrFEreDsGfw9Fybi3uBXI9HaDeO0voSr+izkfdnb3NE=;Q9FMV4wMdKV0tkOWAY1Mjg=="
 ---
 

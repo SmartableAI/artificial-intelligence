@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-a
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
@@ -91,6 +92,6 @@ related:
         height: 984
         isCached: true
 
-secured: "dzGNlmU036WFwEafICJ2m6jNn0bkr4rwiVgfnaC4DtEljYZft9KfEalXrY/+nwr+11WL3AMNYdWI4y9JiSMEYAm8s4H6Atv5cjmXr/vy/xkevP782JQwkkweze8WB3k6E/jR7haFckdB5E/gKIiqmZAJWUEWcDdYmMHzl4gTxBsDgOXQHy0nuwikWG/KaOAL0rbensvsQUfvDrq1+Ygksz/Pap9ee6tgrqOQznmkSVVaelV0TiHvhMSd9PwnpGQCLNht4wIZOh2mk795Kxhe+u4SKU4XlYhB4XZyu4U1mMjaEvHlI+8v4toAWN5gquajWaieRv+WxF49fVXK/EDoeGkHCJEmbW0Mj3u4FFRbUlM=;+yCMNHItGoTAQiSNmhtHsA=="
+secured: "qTfdIBiL1mLLUo1Os/tpPDjBXKg8nRzNeMjMqxW4dWc0Ld3sqagvLqpelqUUkwu+BNRzBpllI4EgXVH+emJCi5ToPGEz5vNIFI2iGKSCpp94cNZYMpsosSgVCYFsN9pbOGOkBGNmCNLNWkEYNQs8oAaiaImgrGWGtostENsgepNg6TucfP0vBz1t4jldAIpqBe9bbq7wFtqGzGMRSQghVs34J6mC1dSN4vd4e9YxQrEuxEdw4nwaraWEJajtaPXARDww6ZeunMnuIq4iti6mKbENSnMGa5jMRv92CxtrogfGpaIccAjRrCyg+6F8agJ3Y+izDI4SD/dI3fJmZXE94iO29vGhLKCsnMSjFSeE84asy7wArXhbNJzReuCdbt87BXReaZ6KlgXrFCvRnPceL/QrBwfAyImkc1aws6jS32cEBcAIdJAcDo2JhDBsMZSNwMxqDNgwoifWLNfe1xKN1rhU3bVTpOHWuRC0RpzBMRVT1DFX+y+6g4yjXgODcd5m9wUIjf8rT3MLZOObEX8OSw==;8HrwkVvRermqKW/AE2Rmug=="
 ---
 

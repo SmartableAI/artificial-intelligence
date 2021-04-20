@@ -27,119 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Amid ethical concerns, facial recognition has gained some traction in the US"
-    excerpt: "Identifying shoplifters and fraudsters may make sense for retail, but what about for marketing? And what about face masks?"
-    publishedDateTime: 2021-04-20T12:38:00Z
-    webUrl: "https://www.businesslive.co.za/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
+  - title: "How Face Recognition Can Destroy Anonymity"
+    excerpt: "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong."
+    publishedDateTime: 2021-04-20T12:00:00Z
+    webUrl: "https://www.wired.com/story/how-face-recognition-destroy-anonymity/"
+    ampWebUrl: "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 88
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
-        width: 1000
-        height: 608
+      - url: "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg"
+        width: 2000
+        height: 1080
         isCached: true
-  - title: "Why a U.S. Hospital and Oil Company Turned to Facial Recognition"
-    excerpt: "Cedars-Sinai’s main hospital uses AnyVision facial recognition to give staff a heads-up about individuals known for violence, drug fraud or using different names at the emergency room, three sources said. Cedars said it “does not publicly discuss our ..."
-    publishedDateTime: 2021-04-20T10:43:00Z
-    webUrl: "https://www.fxempire.com/news/article/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition-721416"
-    ampWebUrl: "https://amp.fxempire.com/en/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition/721416"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/why-a-u-s-hospital-and-oil-company-turned-to-facial-recognition/721416"
+  - title: "Social isolation may reduce face recognition ability: Study"
+    excerpt: "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic."
+    publishedDateTime: 2021-04-16T04:30:00Z
+    webUrl: "https://www.freepressjournal.in/science/social-isolation-may-reduce-face-recognition-ability-study"
+    ampWebUrl: "https://m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/science/social-isolation-may-reduce-face-recognition-ability-study/9df39bf7-d9d7-4b7a-bd25-fd4f0ecb6494"
     type: article
     provider:
-      name: FXEmpire.com
-      domain: fxempire.com
+      name: The Free Press Journal
+      domain: freepressjournal.in
     quality: 59
     images:
-      - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEH3J0K7-VIEWIMAGE.jpg"
-        width: 615
-        height: 410
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-04/4281970b-34da-409f-ad92-7ecd1e513e7a/info_3rd_lead_april_15.jpg"
+        width: 1240
+        height: 816
         isCached: true
-  - title: "State panel studies use of facial recognition technology"
-    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+  - title: "Why Facial Recognition in Shoplifting Cases Can Cause Mistakes"
+    excerpt: "A Michigan lawsuit highlights the problems with facial recognition in shoplifting cases. Stores' security camera images plus imprecise facial recognition systems can lead to wrongful arrests, particularly for Black people."
+    publishedDateTime: 2021-04-16T22:54:00Z
+    webUrl: "https://www.consumerreports.org/law-enforcement/facial-recognition-in-shoplifting-cases/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
-        width: 1088
-        height: 604
-        isCached: true
-  - title: "State panel studies use of facial recognition"
-    excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
-    publishedDateTime: 2021-04-19T09:55:00Z
-    webUrl: "https://www.gloucestertimes.com/news/local_news/state-panel-studies-use-of-facial-recognition/article_e6a50073-4284-5d51-830a-e183e51b0e68.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition solution to boost contactless site entry"
-    excerpt: "Biosite Systems Ltd has developed a facial recognition solution to respond to increased demand for contactless site entry"
-    publishedDateTime: 2021-04-20T11:00:00Z
-    webUrl: "https://www.pbctoday.co.uk/news/construction-technology-news/facial-recognition-construction/92223/"
-    type: article
-    provider:
-      name: pbctoday.co.uk
-      domain: pbctoday.co.uk
-    quality: 39
-    images:
-      - url: "https://www.pbctoday.co.uk/news/wp-content/uploads/2021/04/Biosite-Facial-Recognition-2-lr.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "State surveillance body cautions over police facial recognition technology"
-    excerpt: "It's so wrong' * Police using technology riddled with controversy overseas * Police facial recognition: new study call"
-    publishedDateTime: 2021-04-15T22:42:00Z
-    webUrl: "https://www.stuff.co.nz/national/crime/300278626/state-surveillance-body-cautions-over-police-facial-recognition-technology"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 37
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/h/a/image.related.StuffLandscapeSixteenByNine.1420x800.4ys0gy.png/1618526526112.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
-    excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
-    publishedDateTime: 2021-04-20T11:45:00Z
-    webUrl: "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 30
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg"
-        width: 2560
-        height: 1701
-        isCached: true
-  - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
-    excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."
-    publishedDateTime: 2021-04-20T08:21:00Z
-    webUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 22
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 19
 
 secured: "3jTxVb6dC3+BJ5jI5LfDEOBE8BaWUVWyW7xojIA1lM7HbWmOqjjZZ2CtPDodoDInLfbLMRpdqtQVF1Y00iz7q9i/kNBtIi9tVtU4e7ONYpWqDSnXUiFIzB/aP/JC4x1HkvqiZm3tbXrfRMtFLSQTKUrrC6lV11hTGPaVHhOrhSOxAqqm6W/RURWqEKQ2T+cbzSuTHkA5X+nwi4VIM7/fyOfYmmWYJ1hUw8N6JM9xNFkc/9+5DuZmYnPm0cU7ejBueG+U26b8CALC//WQizyhd/+AHo1mcpoONWBfuxBmCQQFQl5ujtIQPLi2lG44ZjhU/pGs7bK7nqldXtRB/0HCNMyMmgUjpDLZ05X+4fAAlNp/fZn6Ba4BHRkinv0jBnPFdLnq/t3zVNUF5rJWFFVLL1/SdlJLb3v6PBMTfB86oSYBdWVisWi/VTxZKClXBhwyoGiuESFOSVFBH5ogU8CKz5+81cqSA70Q02pBBETilAgMjSfsHX9tZQMY9zlMf7Q70QC8ZfNVsi8Vn4LwsLXM7w==;BUk9jahPb1VaWshrFyp8mQ=="
 ---

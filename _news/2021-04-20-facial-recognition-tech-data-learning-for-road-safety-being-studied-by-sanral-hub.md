@@ -54,6 +54,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 43
+  - title: "Sanral innovation hub exploring machine learning to improve road safety"
+    excerpt: "Technical Innovation Hub (TIH) is exploring the use of machine learning to improve road safety, reduce congestion and inform infrastructure development. Information provided by machine learning can be used to activate the appropriate response through the Road Incident Management System (RIMS),"
+    publishedDateTime: 2021-04-20T14:53:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/sanral-innovation-hub-exploring-machine-learning-to-improve-road-safety-2021-04-20"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 39
+    images:
+      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
+        width: 1022
+        height: 575
+        isCached: true
 
 secured: "XQzbaATX+EJoFPIHuiiWApSPxo4kbfmOe96HMMIhzbphe+nvWJ0LdT2DhZA47oRgr7PC660Q66XyJw/tbEem6do0j+J/R8+0qBvVJBefFswyPJWYRyo8nai7SUNGKaQfTTlSdAZ5+rW5gJNfId0wSlIBm9Fvm+9mIXxBie+ZEbABlocjcK0YHJeIKdd3kjAJA9/WekxTijOAKHWSOia1dpTy+RuR5G4VAEAtPFmAtwtpYECYAq06RjwL9btYLvSxU4PTn7ew7ByHsNsX1fEfzlOZ7/n/SSpg0grHF97twoAVDeYJH3no00VwhKaA/XmVUmaSXn7Sk3hgea3gscuVs5pjELlsskY+n+VmLjaD/FU=;N5H5jAxnS7srcBLzyq7Dsg=="
 ---

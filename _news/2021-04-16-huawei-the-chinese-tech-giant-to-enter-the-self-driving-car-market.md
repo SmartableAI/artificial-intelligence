@@ -35,6 +35,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Huawei to invest in electric cars and self-driving tech"
+    excerpt: "Huawei is the latest Chinese tech giant to announce its intentions to compete in the automotive sector at the same level as the established automakers. In a presentation to analysts on Monday, Huawei Co-Chairman Eric Xu said the company planned to invest in electric vehicles and self-driving technology,"
+    publishedDateTime: 2021-04-16T11:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1131951_huawei-to-invest-in-electric-cars-and-self-driving-tech"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/huawei-logo_100788906_h.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Two die after self-driving car crash in US"
     excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
     publishedDateTime: 2021-04-20T11:48:00Z

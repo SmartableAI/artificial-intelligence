@@ -40,18 +40,18 @@ related:
         height: 533
         isCached: true
   - title: "IBM Shares Jump on Biggest Revenue Growth Since 2018"
-    excerpt: "The shares jumped in extended trading. IBM reported first-quarter revenue growth in three of its five business segments, including Cloud and Cognitive Software, the company’s biggest unit, which saw 3."
-    publishedDateTime: 2021-04-19T20:24:00Z
-    webUrl: "https://www.bloombergquint.com/business/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
+    excerpt: "International Business Machines Corp. shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting Chief Executive Officer Arvind Krishna’s turnaround plan is starting to bear fruit."
+    publishedDateTime: 2021-04-19T20:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg"
         width: 1200
-        height: 630
+        height: 533
         isCached: true
   - title: "IBM Reports Higher 1Q Revenue"
     excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
