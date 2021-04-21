@@ -2,6 +2,102 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-03-02-facebook-open-sources-ai-model-to-predict-covid-19-patient-outcomes.md",
+      "title": "Facebook Open-Sources AI Model to Predict COVID-19 Patient Outcomes",
+      "excerpt": "A team from Facebook AI Research (FAIR) and New York University (NYU) School of Medicine has developed deep-learning models that use chest X-rays to predict COVID-19 patient prognosis. In a comparison study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
+      "originalUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/03/facebook-covid-prognosis/en/headerimage/facebook-covid-prognosis-header-1613916554467.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
+      "title": "AWS reorganizes DeepRacer League to encourage more newbies",
+      "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
+      "originalUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
+      "publishedDateTime": "2021-03-01T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
       "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
       "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
@@ -1093,109 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-marketers-make-artificial-intelligence-reflect-your-values-not-undermine-them.md",
-      "title": "Marketers: Make Artificial Intelligence Reflect Your Values — Not Undermine Them",
-      "excerpt": "A few measures can help reduce the risks and raise the odds that AI can help you strengthen and better communicate your values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db4cb496d3e0006c97ad8%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/amp/",
-      "publishedDateTime": "2021-03-01T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-healthcare-revolution-in-the-platform-economy.md",
-      "title": "Healthcare Revolution In The Platform Economy",
-      "excerpt": "If there is any industry worthy of platform innovation and disruption, it’s the healthcare industry. Advancements in inpatient care, unit productivity and service accessibility can be the difference between life and death.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037cdd68396ed5f43faa400%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
-      "publishedDateTime": "2021-03-01T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

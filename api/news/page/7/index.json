@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-14-global-ai-in-computer-vision-market-regional-trends-growth-projections-2026.md",
+      "title": "Global AI In Computer Vision Market Regional Trends & Growth Projections 2026",
+      "excerpt": "Apr 14, 2021 (Market Insight Reports) -- New York, NY The report on global AI In Computer Vision Market offers in-depth analysis of major market players, revenue, market share, market segments & its sub segments, and geographic regions. It also offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-regional-trends-growth-projections-2026-2021-04-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-hyperdrive-daily-self-drivings-trough-of-disillusionment-continues.md",
+      "title": "Hyperdrive Daily: Self-Driving’s Trough of Disillusionment Continues",
+      "excerpt": "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond. The year 2020 was supposed to herald the arrival of self-driving cars. Instead, we got a global pandemic and growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-04-14/hyperdrive-daily-self-driving-s-trough-of-disillusionment-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy8Bz9FU8rJs/v0/1200x801.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-ahana-cloud-for-presto-review-fast-sql-queries-against-data-lakes.md",
       "title": "Ahana Cloud for Presto review: Fast SQL queries against data lakes",
       "excerpt": "Ahana Cloud for Presto turns a data lake on Amazon S3 into what is effectively a data warehouse, without moving any data. SQL queries run quickly even when joining multiple heterogeneous data sources.",
@@ -1148,112 +1253,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life.md",
-      "title": "Deeplite Raises $6-million Series Seed to Enable AI for Everyday Life",
-      "excerpt": "Montreal-based AI startup Deeplite Inc. today announced the closing of a $6-million seed financing round led by the Boston-based venture capital firm PJC with participation from leading AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
-      "originalUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/mms.businesswire.com/media/20210413005850/en/870815/4/Deeplite_team_-_main.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/deeplite-raises-6-million-series-seed-to-enable-ai-for-everyday-life/amp/",
-      "publishedDateTime": "2021-04-13T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-machine-learning-on-raspberry-pi-just-took-a-big-step-forward.md",
-      "title": "Machine learning on Raspberry Pi just took a big step forward",
-      "excerpt": "\"Increasingly we're seeing deep learning eating software as part of a general trend towards increasing abstraction, sometimes termed lithification, in software. Which sounds intimidating, but means that we can all do more, with less effort. Which isn't a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "originalUrl": "https://www.techrepublic.com/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/200a744f-429b-4a0f-b243-5ccc37d7498c/resize/1200x/a486d534d301e3691d29b889a98e246a/raspberry-pi-board-tinyml-edit.jpg",
-          "width": 1200,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-on-raspberry-pi-just-took-a-big-step-forward/",
-      "publishedDateTime": "2021-04-13T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "We see artificial intelligence as augmented intelligence: Sanjay Srivastava, CDO, Genpact"
-    excerpt: "Sanjay Srivastava, CDO, Genpact talks about how core IP, cloud RPA, acquisitions and digital ethics officers are going to etch a new direction"
-    publishedDateTime: 2021-04-16T07:22:00Z
-    webUrl: "https://www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/"
-    ampWebUrl: "https://www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 52
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Sanjay-Srivastava-Genpact.jpg"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "NlS4aJNcg0ZPHAsOjmznMki11dVJ26kOLuONXeHl364PH6InevOepK6zcmUv5bgR+gl/0oi+aU9mhlI7AeiMNy40Utnbs//voljflwUDZH/tEbuyjr6J4CFoeJxYqV0YwIUhKmUEi+6KBOg0EZY+glG/FO9kcyvv2nUdut18y4sUHjs4ge5pC7EE9lTeudvDke0G6szavzDeOSNQyuZxGO4b9IqOS9cog7qRh1Bmonl1BmikFG8S4NDoQURiHGxU4kujD1l/jFB9Ei99fo4heDi732YKZZQ5rbCvk85wP3NURm8oh1No2VFHxjEFmGb5erGAO4CSxiNKzaUK2ac9vsJ/zXFYIAIAbQ7UGKbDKt4=;bxZkV0udJCrpfDEkLimLzA=="
 ---

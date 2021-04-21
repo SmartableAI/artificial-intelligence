@@ -2,6 +2,92 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-visa-and-capital-one-alum-cetin-duransoy-joins-fintech-leader-fundbox-as-chief-operating-officer.md",
+      "title": "VISA AND CAPITAL ONE ALUM CETIN DURANSOY JOINS FINTECH LEADER FUNDBOX AS CHIEF OPERATING OFFICER",
+      "excerpt": "Fundbox, the financial services platform for small businesses, has named Cetin Duransoy as Chief Operating Officer. He will be responsible for scaling and overseeing the growth of the company’s credit business.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins-cienais-board-of-advisors.md",
       "title": "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors.",
       "excerpt": "Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut. \"We are excited to add Jim to Cien.ai's Advisory Board,\" said Rob Käll, CEO & Co-founder of Cien.ai. \"Jim's Cloud & Data ...",
@@ -1092,84 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-domo-expands-aws-relationship.md",
-      "title": "Domo Expands AWS Relationship",
-      "excerpt": "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers, a 400-location fast casual restaurant chain, is using data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210324005755/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-waymo-demonstrates-autonomous-truck-tech.md",
-      "title": "Waymo demonstrates autonomous truck tech",
-      "excerpt": "It looks like a beautiful day for a drive on the outskirts of Phoenix, Arizona – even if the Waymo Via truck driver is lifting his hands off the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trucknews.com/equipment/waymo-demonstrates-5th-gen-autonomous-truck-tech/1003149927/",
-      "originalUrl": "https://www.trucknews.com/equipment/waymo-demonstrates-5th-gen-autonomous-truck-tech/1003149927/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.trucknews.com/wp-content/uploads/2021/03/Screenshot-459-1024x683.png",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truck News",
-        "domain": "trucknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

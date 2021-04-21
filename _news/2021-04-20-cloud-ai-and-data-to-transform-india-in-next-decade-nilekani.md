@@ -105,20 +105,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "12 Latest Data Scientist Jobs At Top Firms In India"
-    excerpt: "Data scientists deal with swathes of structured and unstructured data to extract valuable insights to drive business processes. Below, we have listed the latest (posted last week) data scientist jobs at top Indian firms."
-    publishedDateTime: 2021-04-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top-firms-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-11-1.jpg"
-        width: 2240
-        height: 1261
-        isCached: true
 
 secured: "hOJ63wNtNnBxHf6777m3ux4pGIiQ3pZ2pcq08Igp2ZZbVkwq+3YwEjfNZ49py/jB1V6/rs6FF+znJC/S5u1I3hzZ3H/Zi+BPxSXG/wbrJcjuUX6BNSvtOvJ9Z7hztmAz8MYQJx0hLt6psBYIXpWbNPkdRwnhsy2Yzc7vGPmZlUres6f5UIO7B6zjfFgw0LGHrWZ7wL20vj8LPiarPUQqGO1PTp+RijZLQFvrShkIdYryGvPszkWveYjWuKqQ2iUxCFpvMOGA4lOk743df03jOWAPCL64gzAlyYxpzWA6hYWkDV6xHqF6YYxU2WYeCgfKfRhheFD67KDIUjilMCWXt8/5Gm8XViVDpwfMxBPQajQ=;VHc36WivcUb1cG2I7o7ePA=="
 ---

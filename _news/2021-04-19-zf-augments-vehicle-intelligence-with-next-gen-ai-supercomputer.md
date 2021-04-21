@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/359258/zf-augme
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/359258/zf-augments-vehicle-intelligence-with-next-gen-ai-supercomputer?amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "We see artificial intelligence as augmented intelligence: Sanjay Srivastava, CDO, Genpact"
-    excerpt: "Sanjay Srivastava, CDO, Genpact talks about how core IP, cloud RPA, acquisitions and digital ethics officers are going to etch a new direction"
-    publishedDateTime: 2021-04-16T07:22:00Z
-    webUrl: "https://www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/"
-    ampWebUrl: "https://www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/see-artificial-intelligence-augmented-intelligence-sanjay-srivastava-cdo-genpact/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 52
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Sanjay-Srivastava-Genpact.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer"
     excerpt: "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains."
     publishedDateTime: 2021-04-19T11:07:00Z

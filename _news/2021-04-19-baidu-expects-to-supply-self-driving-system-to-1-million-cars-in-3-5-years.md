@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Baidu Expects to Supply Self-Driving System to 1 Million Cars in 3-5 Years"
-excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu, senior corporate vice president at Baidu,"
-publishedDateTime: 2021-04-19T04:06:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-19/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years?context=amp"
+title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+excerpt: "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ..."
+publishedDateTime: 2021-04-19T10:03:00Z
+originalUrl: "https://www.reuters.com/article/us-autoshow-shanghai-baidu-idUKKBN2C60AN"
+webUrl: "https://www.reuters.com/article/us-autoshow-shanghai-baidu-idUKKBN2C60AN"
 type: article
-quality: 67
-heat: 107
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -50,6 +48,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
+  - title: "Baidu's Apollo smart bus gets green light"
+    excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
+    publishedDateTime: 2021-04-17T02:22:00Z
+    webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/16/AT_997a8602-8image_story.png"
+        width: 2041
+        height: 1356
+        isCached: true
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z
@@ -79,6 +91,6 @@ related:
         height: 533
         isCached: true
 
-secured: "wHi4Wa32SIcPDyKkOw6W30kyDacg5Wor1DoOg9SUzB1ev50GGvwA/HuN2crLSOHQGaB/O9nI7Y3o2i+dGcZdJ/EVVNBLL9FJqpv2HGnRw5pJ41NJLjgNEac2B/XUWfyDNmRVhlfu0w4edaUlVZsxOf+j+sLPRa0/RUenfkGzVLcbrcgTKlMeOdewms3hzantf4Q5P60+Yb/IyygkXYTjP2U0xji6B1Zx0BxauXUKxsRtAb+N3M+kVtUnC6zCvJ7Evu9mvqYUB5pLlTJ1ki1P8l3lYb0w57JcmftrOpwLgEKDmpI9ML6qm+JhElC/WWdGLf3f24/+g9QOpe6t3FXZKkMcQNFPlNujsAg4kx1wO3N+vHOnV3Fmu+OCIFxMaUmKirjaVI1KSsy/GjkNKg+oa+kbEGpasegMcI3sBmdqFsZGNKBkomg58K8bHo+z8o1SsfB1XXp8zsk7C6dsDrC6fGfc+AMtAVxg4wDghDlJHr8pVtowHmMj2EaGfCZ3voeoW35EG+Q7xi8nG4uaUPm2yA==;GX/xsqDAKOPp4iN42K9qqw=="
+secured: "0FK/5m8oONIiGd6rky721CU/fDxfjVZ9FSCDHuygmZ4ZzU8lz+zs3RtTvwMes9MZC9aNrZ5TOJ5k9N0UIqHWmKahO40A3cvr0CtI2dLv1vJ+NHZec4/hJyJ7AEg0NeQlYhauhzrqe5WwR0vf7zvviiAjO4h7e07D8qDFvYqx0YcioIIR9lx7qi5Oz/thAh8WbnzglfpQG/M2Mve1gASaYV03OMHA9Z3j1Y1knj6a3mpRv4x46Ar5/zwttMDFGkglj3mZZRFh9SjhA6bEYPSVzGZzqyJ9/LOvPpXuLf2kgY7ws2lcbhs2Y+u73oKEwoXvGtRmGu0iiY3qLcsgiVN/DVpWb/JY2e5zfuKSb5zlFF8=;rwjDu/UodxZLlj0l7aXTRQ=="
 ---
 

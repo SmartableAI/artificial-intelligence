@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocad
 cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,17 +42,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Ocado to pump £10mln into self-driving vehicle specialist Oxbotica"
-    excerpt: "The companies plan to develop a wide range of autonomous solutions that have the potential to transform the warehouse and service delivery"
-    publishedDateTime: 2021-04-16T07:08:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/946785/ocado-to-pump-10mln-into-self-driving-vehicle-specialist-oxbotica-946785.html"
-    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/946785"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/946785"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 24
 
 secured: "vrpfDNFBbnrTnirNEbJLmHXnSIcznt2adQ88yfEYJnsi2SjY5I1bYHiFNqX0xQWQnUoJRNbvLpvRDyAhX3V86QWth3BDh3XZFPmyUq2X6STW7TWLPRruLKXBufnnLWKJ+V2ux86j4kwH1YJmYTmplDoqW0BfGSsus0efT8tTJwkN69Ji3UkbOBHPI++JG6N+8a7IZMfnBrGoV/h8N9WqlgjQoiEF0HnoIr4YCx+RT+X9iGwzBTW1dlg0scrJ1cA/zv43cNdfHhecLtPVTU+jVZu1W9qv26CQ8n0spwaBQydiMQSophD5zjtpBi5k+3BURE0Qub9nM2Xc7NvUDhzzKTSHZ8YI73GmibtY6VYraSs=;J23gV/y8n9h6rr46WlvRaA=="
 ---

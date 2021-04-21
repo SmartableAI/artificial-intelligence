@@ -85,24 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62049/natural-language-processing-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 17
-  - title: "Speech and Voice Recognition Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62046/speech-and-voice-recognition-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 2
 
 secured: "TrDFsilCRSHYr6pCIr8l9XFXuRRjSOTUppr655eY1lKi+vqoujL0Sh4A95oM90N39nETzWfRe1I8e2FpEQQaQfpO6OdOTwU3sHMEcVrDt72m/UprzoO0iSlSvsCjjq/6wYqlW0S4bjYr6tFrSOALrwJLccUF1JxKOSl7tms/PDvCsuWtxJI6OXXjtV5VT6MQ6nbN+IKzfYEnSGjwu0pj7h5/vVbCmF3bk93BQuJnsbwXS9Edaeq2e4eNvr/znKDyrrzicbyghDRJrBJIm5Iz5sMzHBGhrTmW6i5O4Mjc/n7WwYohcv7KWvTMS9ExpGB3Aak9dJH7VSASk+McnA7oseyjZItgZkzgdTizi9koIg4=;/f4psrev5R7T/GkY+aO8/Q=="
 ---

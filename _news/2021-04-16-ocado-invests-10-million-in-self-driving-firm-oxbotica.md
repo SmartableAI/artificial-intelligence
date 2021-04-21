@@ -45,17 +45,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Ocado to pump £10mln into self-driving vehicle specialist Oxbotica"
-    excerpt: "The companies plan to develop a wide range of autonomous solutions that have the potential to transform the warehouse and service delivery"
-    publishedDateTime: 2021-04-16T07:08:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/946785/ocado-to-pump-10mln-into-self-driving-vehicle-specialist-oxbotica-946785.html"
-    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/946785"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/946785"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 24
 
 secured: "5tNv1zc7aNoTGNW59birykjZjtVMMQStwaI8z9D2yncUSfkZoVyHnhBnLZYlU6iz7IZRSifAaS0EIZEAjfbt/kFi1g+NiiV0FwfE7Wqft/2BsN8j9W5O9krEvtKXentrrNgJmoSu1/m1tbKKdtHy66hAK30kKwev6LtISwHpeZ5Q0d1tZd5QJ8D5nfXKVtF46wBRp6VFcWTX6QoiFZOrIRLm8NmGumILImc8Rkfa7s0QsVJCa78w0LyAfQK6DOrT3QoehlzmOIe1y9EqQg8E7Lnkqa36umFxXz6uGXdeBVKZgemPfZSQniuh1L5YXy+Q201mmL5POB4yT0Ukr7EvodhoR+yOpvqDT5cZdOwSgrCJH/nNOBE5wsc982FhSXlMuGceMOgCIiTD9eewAw9I/K9vIgXMyBDvTRXlHcUYIjQMcK9k7kO2fOsEXmzTtsGb+V1oB9ouWnZ3l7rG5CLBX8rWl3ltQ6qIpnv5CvUSZu8X0oPUo/luBlGSckexcNwvp36vtDFaUozVRAQW8qadRA==;wdjKAh5hrau/VvTj4nG87g=="
 ---

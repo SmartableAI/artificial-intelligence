@@ -29,7 +29,7 @@ related:
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
     publishedDateTime: 2021-04-20T18:28:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/"
+    webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/?comments=1"
     type: article
     provider:
       name: Ars Technica

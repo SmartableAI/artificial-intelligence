@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
 type: article
 quality: 52
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -84,24 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62049/natural-language-processing-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 17
-  - title: "Speech and Voice Recognition Market Top Companies Data with COVID-19 Impact"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-16T07:48:00Z
-    webUrl: "https://industribune.net/uncategorised/62046/speech-and-voice-recognition-market-top-companies-data-with-covid-19-impact/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 2
 
 secured: "X6g5fj7pAjijWzJW5CJ6vgNN2Wog0MPgyPNaH9HlROjaYQZCLruG/h3uBzV+ldoQxl+da7plhuwRcRrOIsoGy6sC4RHMGtNv4edXrg57FrkU5l/Ul9qE1XhU449kzwEfHfgN93W18UT4RRnE4jhgEV6Y7nqHW8IE/9bGzEqi+osQVJdSiTWpd3b5KamKC1YwV4Pxx8l1pUaUrsf/iiPLFP1MdFHhx6gpFfclHVq6nAFmXxCCwnClEvAPAComYM6SWzBX2ceR/OXGJO7jreT0GiEYke7LYZQzuKKWr9KbnHdmQX1VnO0EYM6/ndU/YRdUnNlre0iPomio67zS5B5lGFVp9i+wlDzFFrvcVWr03e8=;DEB8mX/lvbdhDNzySH9gPg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-inc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-82163008/82163008.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "12 Latest Data Scientist Jobs At Top Firms In India"
-    excerpt: "Data scientists deal with swathes of structured and unstructured data to extract valuable insights to drive business processes. Below, we have listed the latest (posted last week) data scientist jobs at top Indian firms."
-    publishedDateTime: 2021-04-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/12-latest-data-scientist-jobs-at-top-firms-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/AIM-Illustrations-11-1.jpg"
-        width: 2240
-        height: 1261
         isCached: true
 
 secured: "r+EHt+ecRwuJKe4c/0a+8Ku8O7oA1DPUbqLsdnIJ4LyWYiX0cReKWBEXu3HZFJ5Ck/fhta/5KOufj3cSlq3KGEa0mKlg60q5JRE++nfKU4llqfCi6rFx1rF8W853MIeCxVaTDLyajAqdIee8XY0C8xYWJYIjS6vWP5573NBiG3UtlMv83VMQOkoS9CL3OI9rZNitj5e8NEwD6tdenQapdJykoyy+XanacrdRZgZTkAAvW1pdMfmKVr8RxlFoKebCoTe2dRhOkApJJb2jRxeYwjvc+BknCoGAFnOyu/IrhT7ln1vr4JeOsGhKuJAmy5WlcpqaDUjQJFFMplvcMhRctpH9e9cDNpNWhK0axi49wHk=;KZ3RCe5sXncAXip4tH0iOQ=="

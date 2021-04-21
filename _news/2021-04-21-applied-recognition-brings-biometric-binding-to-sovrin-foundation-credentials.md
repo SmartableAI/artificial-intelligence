@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification"
-    excerpt: "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them."
-    publishedDateTime: 2021-04-16T08:00:00Z
-    webUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/"
-    ampWebUrl: "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 69
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "How Stash Is Tapping Machine Learning, Behavioral Biometrics For Robust, Digital-First Identity Verification"
     excerpt: "In an interview, Caleb Callahan, VP of fraud at personal finance app Stash, discusses the use of machine learning for digital-first identity verification."
     publishedDateTime: 2021-04-19T13:00:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/stasfs0421-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Tascent multi-stage, multi-modal self biometrics enrollment patent could broaden iris recognition use"
+    excerpt: "The multi-modal system could be used for securing payments with biometrics, access control, live event access, border control, and law enforcement applications."
+    publishedDateTime: 2021-04-20T18:41:00Z
+    webUrl: "https://www.biometricupdate.com/202104/tascent-multi-stage-multi-modal-self-biometrics-enrollment-patent-could-broaden-iris-recognition-use"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 9
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/03130907/selfie-biometric-authentication-small.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Applied Recognition and Sovrin Foundation Announce Cooperation on Biometric Binding for Digital Credentials"
     excerpt: "To advance privacy and security of digital identity credentials for consumers, Sovrin is working with Applied Recognition Corp. to deliver biometric binding for"

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
+      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
+      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "publishedDateTime": "2021-03-03T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
       "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
       "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
@@ -1382,58 +1434,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-how-ai-can-remedy-racial-disparities-in-healthcare.md",
-      "title": "How AI Can Remedy Racial Disparities In Healthcare",
-      "excerpt": "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/",
-      "publishedDateTime": "2021-02-16T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

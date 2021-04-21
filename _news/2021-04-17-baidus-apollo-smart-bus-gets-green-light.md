@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-l
 webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,70 @@ images:
     width: 2041
     height: 1356
     isCached: true
+
+related:
+  - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
+    excerpt: "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years."
+    publishedDateTime: 2021-04-19T10:32:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+    excerpt: "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ..."
+    publishedDateTime: 2021-04-19T10:03:00Z
+    webUrl: "https://www.reuters.com/article/us-autoshow-shanghai-baidu-idUKKBN2C60AN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years"
+    excerpt: "Chinese technology giant Baidu Inc 9888.HK expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years,"
+    publishedDateTime: 2021-04-19T04:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years-2021-04-19"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+  - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
+    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
+    publishedDateTime: 2021-04-19T04:24:00Z
+    webUrl: "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 31
+    images:
+      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
+    excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
+    publishedDateTime: 2021-04-19T22:15:00Z
+    webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 11
+    images:
+      - url: "https://img.futurecar.com/202104/19/l_607e01de12460.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "l1hci5t88H26p5t6U9tTzv3C0/OHXXuOfESnlhjTU+Nr6s0EiJ45trdkNq3hXcZ1I/jYcrtZTJK2TbBLAZI0sLISbqKPHVpipluHUk3+1RAk2KUQywOM/PYL6nIb0M7Wvqb3zX/fd4LSwSrzEdJUaSufeqLRTVtXn3r+B2xUMk6icaWRqd6ewkAFNNkE2A2ZjvSi8E060BTvPzVXYAOiPNgsARuIDPaH10MQ/6hJzcAMdXQzACFsj6dF1vphxsWvKu2RkRpyYKVCcWmJOblXV407pATM5w5CwAbaduOLqIhSqKfkIxO+9wl5ydmaKQGd4P+fX7RDfPsr1I2RAVMPzsTtQqz327HPCdxgRImtSbD2KKXrLGpchTGjNYfhS5Eu/JhpLJDHOspA9C13m06n9LQnEirbg56R1gHinW410viicLbnMXLRFrRVx7fTD03an/1R3gJqi4DTJRcyh9dgc5Rs5sMmEdDYy2jOvE4m9EMLHUGq3gWzUj2BsGt0b2lCTKph5ymhHqjOWGNdJFTV8g==;h5z80QCkjlkXRrpePq1gMg=="
 ---

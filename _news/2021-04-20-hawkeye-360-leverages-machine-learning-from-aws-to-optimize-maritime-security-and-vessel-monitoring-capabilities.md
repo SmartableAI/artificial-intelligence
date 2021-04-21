@@ -1,32 +1,31 @@
 ---
 category: news
 title: "HawkEye 360 Leverages Machine Learning from AWS to Optimize Maritime Security and Vessel Monitoring Capabilities"
-excerpt: "HawkEye 360, the first commercial company to use formation-flying satellites to create a new class of radio frequency (RF) data and analytics, today announced the development of new maritime security and vessel monitoring capabilities that"
-publishedDateTime: 2021-04-20T13:01:00Z
-originalUrl: "https://www.lelezard.com/en/news-19757587.html"
-webUrl: "https://www.lelezard.com/en/news-19757587.html"
+excerpt: "HawkEye 360, the first commercial company to use formation-flying satellites to create a new class of radio frequency (RF) data and"
+publishedDateTime: 2021-04-20T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/hawkeye-360-leverages-machine-learning-from-aws-to-optimize-maritime-security-and-vessel-monitoring-capabilities-301272342.html"
+webUrl: "https://www.prnewswire.com/news-releases/hawkeye-360-leverages-machine-learning-from-aws-to-optimize-maritime-security-and-vessel-monitoring-capabilities-301272342.html"
 type: article
-quality: 54
-heat: 54
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
   - AI in Security
-  - AWS AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1425428/HawkEye_360_Logo.jpg?p=facebook"
+    width: 651
+    height: 341
     isCached: true
 
-secured: "hfa+c7uqi/ejjW8/8KPPPuyJPT3zd7pp2l1Myec7RZqyLA6Gn0BzCUDjZ4IUqCquuQVMIXEvY6Hp+WslrACfpcj1LULzCP0QuEMQTz8lFXnLBNR38GiGS4wA74OfRtp0FR50o/24KyC+L14dZ5+QUkurvbZRStCohQqnJnHbrkwee/qEZH+I/O9mRQ1yZk8RBrOXTKqXR9DQo/9gAI3AJJcXpZpYCH8aD7QW7mXvu1LtJszmkNHQ/LNBeTs50r1C/a7tHbI0IIhtbvprWYHyRvXz6Ss5sj5rf9cP9FejmvhiSw1e4e6Qy0Kv3fXfsMKD5wGrTBRulGIdO2IdhgSrKvwCz9/LJk9PfVz5BddgN5Q=;0vmYEufvYOZ5KDxB/bxb+Q=="
+secured: "dlcvRoaI5sbWJwLdF3bAO7o+b/RXLa6jsVSJTlPb557rGPBBiVInEWIYjn0SCIVGX1s62ZwzdoYGmA06IBj2CjCGKZSi5IxeJVpj7sBD+7/TfQbV/tD0sLEaOGp55q5V9uHJw6pmmHsioevReDXCkalNiazCmc2j7IYs8RRY7kqGElzTeCwaKsJ6xleTS8hHcKtOQIoEGX1fUU9rKU6UuBljulsHzo6SchdaWntV9uCRT1/f1MZz56G79ehgR3f8cv42fLStrvB9N6ER22CczAmoAhkygbQZ6xvWSRbnraQRPTAW/GWcySSWi27dzhH+QD6+JBmyZFjDNuL+5CzIidV4vbV4saa9eBIrKYLBU3A=;o89zPvzIozdaQHht0i3nLA=="
 ---
 

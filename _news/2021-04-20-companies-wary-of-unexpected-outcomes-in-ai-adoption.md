@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/ai-fairness-ethics-bias-risks/598660/
 webUrl: "https://www.ciodive.com/news/ai-fairness-ethics-bias-risks/598660/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 770
     height: 364
     isCached: true
+
+related:
+  - title: "Only 6% of companies have adopted AI, study finds"
+    excerpt: "A new survey by Juniper Networks finds that while executives understand the value of AI, adoption remains a struggle."
+    publishedDateTime: 2021-04-20T23:45:00Z
+    webUrl: "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/"
+    ampWebUrl: "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "69ClPgugST9uOTLKeDSR18+yMlCw+KFrYJK7+RP7CWz90HnnTnUp1+Guupph2XWRdMTI0RjrC47NHnPx85L06RJNJIdeY3UZQUqX/fEusHCBQykCy1Y7uBdF/tXJKsZVzpk6OTiKdan/E7+J6KxL+FYydIUcICvBXyd5u5HZ+g/vBeUOHIQ/i1dwTxYM0gR7V6Ruc8OX+mldzRuUTsh4YPqyFNKRoMrl7uw3jwNgFVQK2AhL41lfC/NIJlbLIFsjzVOV06flPCDB19oQ/0Ev+ayf8FzKzQrgn3uI9S2HFvNSusms/hVcavhpVGLarZ84gyVBUmku5J3DQvbsN0bTEwHQTm41KQDVq/BKwSgOneE=;19RDPvd2cWFaG8vmNy7kBQ=="
 ---

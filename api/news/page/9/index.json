@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-13-big-techs-guide-to-talking-about-ai-ethics.md",
+      "title": "Big Tech’s guide to talking about AI ethics",
+      "excerpt": "If they challenge the status quo, fire them. efficiency (n) - The use of less data, memory, staff, or energy to build an AI system. ethics board (ph) - A group of advisors without real power, convened to create the appearance that your company is actively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/MIT_Words_Final.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/13/1022568/big-tech-ai-ethics-guide/amp/",
+      "publishedDateTime": "2021-04-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-monkey-plays-video-game-with-its-brain.md",
+      "title": "Monkey plays video game - with its brain",
+      "excerpt": "\"As you can see, Pager is amazingly good at MindPong.\" Neuralink devices were ... A video posted on YouTube by the entrepreneur's Neuralink start-up showed a macaque monkey named \"Pager\" playing Pong by essentially using thought to move paddles that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=rsCul1sp4hQ",
+      "originalUrl": "https://www.bignewsnetwork.com/news/268622024/monkey-plays-video-game---with-its-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rsCul1sp4hQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-narita-airport-starts-facial-recognition-trial-run-for-faster-travel.md",
       "title": "Narita airport starts facial recognition trial run for faster travel",
       "excerpt": "The trial of \"Face Express,\" which is meant to speed up the boarding process and provide a touchless experience for passengers, only involved airport staff and not actual travelers, Narita International Airport said.",
@@ -1130,110 +1216,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-bmws-virtual-factory-uses-ai-to-hone-the-assembly-line.md",
-      "title": "BMW’s Virtual Factory Uses AI to Hone the Assembly Line",
-      "excerpt": "German carmaker BMW plans to start making drivetrains for electric vehicles at a vast factory in Regensburg, Bavaria, later in 2021. Well before any new parts roll off the production line, the entire manufacturing process will run in stunningly realistic detail inside a virtual version of the factory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
-      "originalUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60709bed3b14ce9d953f9773/master/pass/business_bmw-ai.jpg",
-          "width": 1802,
-          "height": 1201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bmw-virtual-factory-ai-hone-assembly-line/amp",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
-      "title": "Mozilla winds down DeepSpeech development, announces grant program",
-      "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/mozilla_foundation.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

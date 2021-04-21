@@ -2,6 +2,92 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-03-31-arm-announces-new-chip-architecture-with-focus-on-security-and-ai.md",
+      "title": "Arm announces new chip architecture with focus on security and AI",
+      "excerpt": "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "originalUrl": "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem.md",
+      "title": "Deepfake “Amazon workers” are sowing confusion on Twitter. That’s not the problem.",
+      "excerpt": "Ahead of a landmark vote that could form the first-ever labor union at a US-based Amazon warehouse, new Twitter accounts purporting to be Amazon employees started appearing, sowing confusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
+      "originalUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/AP_21089718039308.jpg?w=1990",
+          "width": 1990,
+          "height": 1343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/31/1021487/deepfake-amazon-workers-are-sowing-confusion-on-twitter-thats-not-the-problem/amp/",
+      "publishedDateTime": "2021-03-31T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
       "title": "Self-driving truck startup Plus raises extra $220 million",
       "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
@@ -1068,100 +1154,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ibm-watson-and-guerbet-want-to-tackle-prostate-cancer-diagnosis-with-ai.md",
-      "title": "IBM Watson and Guerbet Want to Tackle Prostate Cancer Diagnosis with AI",
-      "excerpt": "Guerbet has landed a second co-development agreement with IBM Watson Health. This time around, the two companies will develop an artificial intelligence tool to help clinicians detect, segment, characterize, and monitor prostate cancer. “The main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "originalUrl": "https://www.mddionline.com/business/ibm-watson-and-guerbet-want-tackle-prostate-cancer-diagnosis-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/DSC03582.JPG",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
-      "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
-      "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063b82a81208ca49f790c50%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
-      "publishedDateTime": "2021-03-30T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "EU lawmakers propose strict curbs on use of facial recognition"
 excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
 publishedDateTime: 2021-04-20T18:28:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/"
-webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/?comments=1"
+webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/?comments=1"
 type: article
 quality: 69
 heat: 89
@@ -60,6 +60,6 @@ related:
         height: 533
         isCached: true
 
-secured: "eTkIURWK5uWesWDIU1d3keZPsflIpHpO5AuldU5fNeZy48EOuDf0uMuYDn3dRKeBeC0efsZTtLyE6Tc0ff7d68A8ThzspYTuojvh4AgKrTS6LwtODKEaT0FVzFxXP4ZcfMLbOoMLBrEeZYz8hISxHib7eq/NMzcF9QVmPVUnSfXFXke64tT9F5lAVlRv+mXSUksMi41D08kbQAak2KEpON2byRlaZ7tQVsWfYiWxwAKVpZQLfB1Zs8rcK7ksTd1uZlwbP9V4BxvJKdtxT8gG9K0Qc9qEmurra2bCeYrSztq7GHdUdxR7Bm9TMtnHTcLOCaUURxZd1MwGeFvWekiW2ggIEW6hQ18MxIuggc6dLwmYN7D0RvU7+6EEpGuzZGheH4XQtTG66OWlyqf7CqKSrQb6GSwzhhMP1cyVvxJNeyhPZsHJXCAZXIg9G10NYTv6DNZmK1vUvsGAQOX4NkzAg+aWYE4vCO2bkvYiVox3iWm2teqkvc1T7IZAAQGHMr1AUK0nB2o/UihYeSdjP4WGWQ==;+1les8Trr52xG7rXm1N8kw=="
+secured: "G55Swo/UXCRovze/8lIq8STPJP0jWAhFuyJxwjsGtiVRcXQO9XIh4L5nDCh5qglApL6xysA5SppKl0MlhdR11RhTVlfWh4SYpCwASSRPNMVLncasW27EsS5e3G0Zkry50Kd4FWohi5J+Vo2SyQGswCO9QSCsW13PBpJ14tz2KIYU4qh/jSbZ8oIKxoMmDHjuNaEPv4pk08aZJ5soi4HB2609qj7mTTFirP6iWWErRJH1MoK3e6TSqvhG3xa6wOQoSInUPIEzWssoIv+GqEXI9AxZ6LK9Uc9N59VXYsFbq3G9yOgxEV6sLf3YjlI5h1skituN1l7uDDtgxIv/lnietZdYd9CkBVtJbze7dvd5qEo=;9OPhD5pygvhl5BprRXIPHQ=="
 ---
 

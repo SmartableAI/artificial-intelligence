@@ -9,7 +9,7 @@ ampWebUrl: "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientis
 cdnAmpWebUrl: "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 850
     height: 510
     isCached: true
+
+related:
+  - title: "IBM New Zealand looks to the channel to seize hybrid cloud opportunities"
+    excerpt: "IBM New Zealand is claiming momentum in its channel-led push to win a chunk of the opportunities presented by hybrid cloud."
+    publishedDateTime: 2021-04-21T01:46:00Z
+    webUrl: "https://www.reseller.co.nz/article/687755/ibm-new-zealand-looks-channel-seize-hybrid-cloud-opportunities/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/david_hook-203.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "VSrjhTjgeadPjKevHSUrzvw+9mh6+OuhZrq5fWlNuxoKB4s+WOAd5JPmCytal2KQBhh1LaBgxz2HARAUNqhdELPxrpdimf0z3KPYFfivNhF8ThysDhh+SDX7iQZZ0u7xElq0px2fmYA7swDCWC5QCjaF+c8Ve1zLvPMJoTWyVzu4jzivqTjDEAkybgFkrRi8ea9k0T4yT5yf8bjD1R/ma3pYI2JOoqvQY6aNY3dRq5xptlMutbZHqsh8zz0nH4I9SpDJAMHt8PV0bSsHg9hS/s0xIdReltvQ7FQxDvwtIz2vpj5zZMTBHBvVfS1fvVkxDK2Z2Y3+qZoHpjD3gosGui6y8NeTyuRmb/WrHQPdxP6aSPbzwiQgNg5Y2gTPEo2hxmB7uUL6H66JhXU4rmIXlf5/xQXwQHX9jhttJiSAlyuatDxMe/RDN5viH52bsDEdKvyN17rTIIncYYN9rOvZCpHBFo5SxKYXn9QaO6h4eyNBfSUTMIElXP8Cc0RJPjGOHlLNJLpfvFSzN66AQCnPCg==;20d7Dtiv8QHL2nJGWdgj2w=="
 ---

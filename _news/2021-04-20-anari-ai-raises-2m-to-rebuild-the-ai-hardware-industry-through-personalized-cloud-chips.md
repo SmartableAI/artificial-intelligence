@@ -3,25 +3,25 @@ category: news
 title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
 excerpt: "Anari’s platform makes it possible to design personalized AI chips in the cloud with just one click. With this approach, companies are able to build and deploy AI solutions in weeks instead of 12-18 months,"
 publishedDateTime: 2021-04-20T11:59:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/31/3317a830-689e-51ac-8a13-4c97010af6f9/607ec2804511b.image.jpg?resize=1195%2C630"
-    width: 1195
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wagyc2zcV+AKtOMu3OPPgEkYKfauWepWrv31J9QdbR8FCCi0yUvgNU6Qg8xOM1BfjDzqX4fcUiURSGMjrwTsRwTyUk2orwuABwMgo2Lf0hozhKxLT1dpFSV1n837LQlhTLcJ4mQTmqJT2glA1etj+oNjv8/cVjrtyNzveYuk4SqXFW8zvV5tIVqvWbnDzxz3xNOjyjn2XfYlXkqo+rMMMMs0SGEkTuQoTD3+tjE8KxWa3IvjD61t+KmyKTf1Y0QL5B37vooPObLJSDHJecY41A35IGAgAbfcAg8cSVvbGGMBIjyommTEADFk3uK0AWzqkMt5dvP6PbjKmWOyAvL15AdSo2S4pgxTbIAkIcyOYQg=;F09CDrx2i39YEfoRSsjtsQ=="
+secured: "Ml1hyr7PxqB4kidr/vfvzrRpG3Y/5mkQDBiFjcZNd242nPv2L5oh2rSOSBiFCDrKAlW2R2dosil8LkmzeAfsUflqnlWPR85UmIO7KS5IH5ROnIWG0i9toF7m01IpJmFd2fYORK6orSTW9ggBVP+513HEl+vgXLFT/XdNK7Jec5u9/x7SKxjT4iEcgK4FvuiUWRJT2E6TWcR2nXa/sOvQ7zM5P68koVw5+plmXbYrKYmEGIs7B7q59jKuKr65bsCQnfube6S8uQcRWvaI6oZFsQ4xvNlqJDF3fluKPvmo1xw1eZkZSNn5rtta9SJGI/QI3mxSWXhCMwyD80DSmi1MafXQ+Nwq6s81x/n/bnvijO0=;uqRHzpDzbVKyF5nJ5wsDuw=="
 ---
 

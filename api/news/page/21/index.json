@@ -2,6 +2,108 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-02-italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it.md",
+      "title": "Italy messed up its startup ecosystem this week — here’s how we can fix it",
+      "excerpt": "Startup legislation struggles are slowing down ... automotive-of-the-future enthusiasts, and AI wizards, and that perhaps, in the haste of the moment, tried to provide a platform that had more ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
+      "originalUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/milan-italy-gq-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/04/02/italy-messed-up-its-startup-ecosystem-this-week-heres-how-we-can-fix-it/amp/",
+      "publishedDateTime": "2021-04-02T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-ai-in-b2b-e-commerce-the-challenges-and-alternatives.md",
+      "title": "AI In B2B E-Commerce: The Challenges And Alternatives",
+      "excerpt": "However, AI is not the magic bullet that slays every business challenge. AI in B2B e-commerce has its challenges, and more cost-effective alternatives often exist. Challenges To A",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/02/ai-in-b2b-e-commerce-the-challenges-and-alternatives/amp/",
+      "publishedDateTime": "2021-04-02T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-ai-powered-social-media-analytics-startup-circus-social-raises-1-million.md",
       "title": "AI-powered social media analytics startup Circus Social raises $1 million",
       "excerpt": "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,",
@@ -1098,91 +1200,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-device-monitoring-and-management-startup-memfault-nabs-85m.md",
-      "title": "Device monitoring and management startup Memfault nabs $8.5M",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Memfault, a startup developing software for consumer device firmware delivery, monitoring, and diagnostics ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/",
-      "publishedDateTime": "2021-04-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
-      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

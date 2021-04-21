@@ -9,7 +9,7 @@ ampWebUrl: "https://www.analyticsinsight.net/why-is-twitter-analysing-its-artifi
 cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/why-is-twitter-analysing-its-artificial-intelligence-algorithms-suddenly/?amp"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Twitter analysing harmful impacts of its AI/ML algorithms"
-    excerpt: "Read Article In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,"
-    publishedDateTime: 2021-04-16T08:50:00Z
-    webUrl: "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
-    ampWebUrl: "https://www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
-    cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 76
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2019/05/13163815/Artificial-Intelligence.jpg"
-        width: 696
-        height: 465
-        isCached: true
 
 secured: "c4dx0HwyvsK7oJX1C4ZaSHNgt2JAPNK4K/dRyoViWyJAvjWZFDN53mYoiRpgOMrHI+iWMM9JFkXy7Ryxdo+lrJNTlnGcZxuvZ6TWdXPcNXB9lNItCIOy16HsHe49Qfp+Xg8we494KlN+SCt8iYjzQLhTzxGnyTvQ4zB83KCbBczSpv40ZgSUKI5R+WZhuX3x55ywBWRaX06bnwnt8t0eImbXfaXkWRgp/kvBnqBzbvN9UFUVKPUN+KQztYEk7YJxMTaDNs+QEeXP1IQCu2qsx9QGbDbq+ssckCt2dh9mzVLZtNUE9NtOYXNfvfeNmdvkIMZ3MgeGlFhvDvgLoEPxbdsUNY8I/Dt/Cf2Ep1537iPJru2VL7MzR691gXBm/9KmYlRik0rDD1rmirBan0A16XS9n3XLeusGW7BLAYuq3hStOA1l6ACNnG1f0QFzaX2icNM5Q/NBOLopcOvkDYhuh69ulNnkGHdTBAnMr9z4Qp2diOeEDSHFrmXPVAaWGm//FRmzJ0fe6M/H+jLNCL2NTg==;iFTtsc67C9TJEyG2cFnF+Q=="
 ---

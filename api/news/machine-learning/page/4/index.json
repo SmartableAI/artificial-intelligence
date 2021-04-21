@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
+      "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
+      "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/28/magazine/28Mag-StudiesShow-1/28Mag-StudiesShow-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
+      "publishedDateTime": "2021-03-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-how-blockchain-and-machine-learning-can-deliver-the-promise-of-omnichannel-marketing.md",
       "title": "How blockchain and machine learning can deliver the promise of omnichannel marketing",
       "excerpt": "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research.",
@@ -1364,50 +1416,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event.md",
-      "title": "ValleyML is launching AI Expo 2021. The Premier AI and ML Industry Event!",
-      "excerpt": "Valley Machine Learning and Artificial Intelligence (ValleyML.ai) is organizing \"AI Expo 2021\" as a three-day virtual event with nine program tracks on",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event/article_2bdf09a9-b1d3-5783-b929-3e82107a9642.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event/article_2bdf09a9-b1d3-5783-b929-3e82107a9642.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Machine Learning"
       ]

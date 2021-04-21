@@ -28,16 +28,16 @@ related:
   - title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
     excerpt: "Anari’s platform makes it possible to design personalized AI chips in the cloud with just one click. With this approach, companies are able to build and deploy AI solutions in weeks instead of 12-18 months,"
     publishedDateTime: 2021-04-20T11:59:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 45
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/31/3317a830-689e-51ac-8a13-4c97010af6f9/607ec2804511b.image.jpg?resize=1195%2C630"
-        width: 1195
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "AZOQ79cO+lp6/JvHCUpcfMhnnVxA2W6poyf/TXzhjCfIdrt3Hn8K0ibll7PBXj16+xXxh0ejl+FmD79Y+y5oLkvWs3gDgnweXwteqk26ydLBDBMVYzEo2oIkqpfox4es1oWMY5C4pFBPX6vcO1MOwae4jskYgx1JCCmKMxhOLPbpvueV9CjjJ1NS2gjYKlJnwbHp1ArVsu7qTgfTReqT7RKqbMm/eZm8MLGhISGKy8MJZ4UAWomf1PAuaI32yG0hkzXQhORwMYUtp0WTl1E9BHKb41dDiLpG37LeM0OfMQ8/sB1doEgwiiO1ldCudDpibZbCf+65ASvMWKq0RdzqXQgbojbCoqmKRMAzaiWqAYUZRurDXg0JZhnG2ujXi+BS5RgwzJM06kffS5wfFHGH9Lm8KrS87RZwW1mDqQnzbknQ7c7xOqAmQypQJFjwD2nOZFQwvm3Cgy8+wZ4YczmiNhWKAB+Og3WPXoAd8NtEVl1QLl5LtJGeE0Q54+5FSTW44s4W80utPH7tA4OcoB/yVA==;hORq5pmAw9jP5lm1zXtetQ=="
