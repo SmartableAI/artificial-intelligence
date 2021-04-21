@@ -80,6 +80,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Victory Square Technologies To Present At The H.C. Wainwright Cryptocurrency, Blockchain & FinTech Conference"
+    excerpt: "Victory Square Technologies Inc. (“Victory Square'' or the “Company”) (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health,"
+    publishedDateTime: 2021-04-21T13:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/victory-square-technologies-to-present-at-the-h-c-wainwright-cryptocurrency-blockchain-fintech-conference-1030328908"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z
@@ -104,6 +113,20 @@ related:
       - url: "https://businessnewswales.com/wp-content/uploads/Mayo-Twala.jpg"
         width: 600
         height: 360
+        isCached: true
+  - title: "Media, Video and Audio Sharing Fintech Platform, Issuer Pixel Launches $2.5 Million Crowd ..."
+    excerpt: "Issuer Pixel, a global, searchable, enterprise video and audio sharing platform connecting companies to the world, has launched a $2.5M A round offering campaign on Netcapital.com to support final development,"
+    publishedDateTime: 2021-04-21T13:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-media-business-08ba31ff7935197c701573a0d6e7960e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Et4+YO7uc3AnKA1FcYdukGQuzGGUqwI54jbrDcxtzrKPSmwWPLxJmAssEZXKIzTQK9rhPBwKD5Fh0sXMDcnSs/n9pjVmiPBmFEXbocSxke8jO4F9RolvsWflICANDMP+ChvnJ9H60vbGe6gZoZHyStyYA+c8YB2Lm9jetYh42ZHHb8e8rFiBcUQk4auGy27K7lSxqu/Bl9OQbGiFJJenzZQbFWcJG/6NAEGb9HX2K/49nq2PcSXKzt/m/EDXw1kaXxtG4YTFJ2gRvQQbKXB9ekJQk5hW+6/bsyxunI9VrlJ3QjN2O+xWDALkXO+CyCC6V0i7C7J5PzxUskCuPLAl1tprS8rQbs65Ryr8TVQUjWRrhxHD+oL3RwDwcHxwTZ9pGMlCsmgCmyN96QB3n9QHjT723/HkSZRDAiZWumUviODPt3tKbm6W35NFbdHwlEzvQtJI0mkx1TLkf6DWg0yDkaVo2bkNr3GOvYpoyK/ODjf11uVgaP5BZaYnPf1tkGcCvojwAfNd2mviN4nBqOwgbA==;xl44HoSxn5ZEa1L3jqyDRw=="

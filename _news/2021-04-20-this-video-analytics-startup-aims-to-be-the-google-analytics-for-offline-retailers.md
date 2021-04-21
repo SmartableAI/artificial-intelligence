@@ -54,20 +54,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
-    excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
-    publishedDateTime: 2021-04-16T19:21:00Z
-    webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
-        isCached: true
   - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
     excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
     publishedDateTime: 2021-04-20T16:42:00Z
@@ -81,6 +67,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
+    excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."
+    publishedDateTime: 2021-04-21T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-business-635c211f85b846c447cbbe5f31a1f9ac"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "hoPIYOSwE/VC/teWb1yOf2citzeaA0DKD/1Yx8Gg9eot0j7a/gCqX5InWLPECHTYXPosvhg+6SN32WJOQ4te3TxqWM8jNMIABh2dkAN8jWJHlchYsnizASPljcdRIpgd6rTPjjU9UTcXd/TAlDp2PuiUZiM38T9R5MAP4DZRWIXEtzABnz8hQwY0bV4udEslZlsPG63HTZwJSma1AS/c5oQJPKg/a220L2UzDY/nb+3P1D+oFttLn6fgyYVqxQL80+pX07KBK47tHra1oKA35KIrXKBKEGCfO8sC2+Y6TxuqC1p2v0f5DzMiJd0v+sP5Y6IMwMr90wyH6kSlkKoFcOeUCBU0Ug2fQj1OX5+M14E=;4gbKQjn3zn9lUaOxTevgPQ=="

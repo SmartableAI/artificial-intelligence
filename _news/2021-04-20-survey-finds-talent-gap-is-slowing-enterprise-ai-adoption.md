@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slow
 webUrl: "https://get.oreilly.com/ind_ai-adoption-in-the-enterprise-2021_Request.html"
 type: article
 quality: 167
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
         width: 1600
         height: 984
         isCached: true
+  - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
+    excerpt: "Qumu Corporation (Nasdaq: QUMU), a leading provider of cloud-based enterprise video technology, today announced the development and release of"
+    publishedDateTime: 2021-04-21T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-1030328833"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "qdbM2Sr516nWQXiI3xRr7kiqG0p0+54pMSBRJApy9YLUoRL+bYe0PuvSLX70JU3XgF1OfRA/IXMXAy8rInbNWdu15Pmc0q3m63z26G6tvdRkaInhtqvTn0/I6GvXEAuIRYXpIQaGv8hUv+8EvEbK2QMMRYoEmi1PsJX5WvTXyziM0/b24z4Nqs+s3xf9QXf8DIIWjZdSmA4XqsoT9l4mOSFIjUAgzRS5hvyLGLx3+g7eIV9ZY3B7lIRNBxR6i9pAKPScK/RAjZCnshjrpJrq3vdb7efLMtqS08ofLApOm2SiCqR4LVJAgPvjUIBuSwE4pDjDiJSCFwmHkM5AOjZodpb7yLgQInybtFwtnHelXi7bKuegmIdH2iuvf8+6OCSr9uerVjfBz7MxeNbk07iurYrmBlY/BmaPEJNlnLXl2DyuOOEDzRW96kJum90NpSBe5mhgjSVGpiA1J5ivevOx4Yh+KZ5HQ6qHCaGzw5MObZWW7iZuivGXDbJDoi879S5QYkN9TPxDmAhZoi+nyx+8o7bovjESDe82FDGxZuiEAoQ=;+b30FXNXeIOtZCh9Yo+afA=="
 ---

@@ -27,29 +27,13 @@ images:
 related:
   - title: "Lightspeed, Sequoia join $50m round in Chinese AI startup Laiye"
     excerpt: "The funding will be used for Laiye’s global expansion and product development to help businesses achieve end-to-end intelligent automation."
-    publishedDateTime: 2021-04-21T06:02:00Z
-    webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye#!"
+    publishedDateTime: 2021-04-21T06:45:00Z
+    webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce"
-    publishedDateTime: 2021-04-21T08:48:00Z
-    webUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding"
-    ampWebUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 47
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_1152.jpg?itok=WnkFcETF"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "ACQXZJKyrM89eaxq9nk9X3rqweZIO/OEZJmo021zvoUgDDEDtDgydnBOMkoT3g8bhlwHVGZBeGrH/o3EZ7xjaMBgAvADeMqhcy8whI6ApXXQ4wx+RzagIkHdIW/rhEk/juCCMJHlkcfdlk7wnZmfW5mn+KY7ruiwPw/BPqLo78OJPHIf+/Gk4SMoOfMs5hamEXTzRHMsKuvrAlwcvon0g+KwBako+1xqAUCGpDql8hlyKHzZaMLFpXgpI5K7P1ZZkCAOs/7oO3GJ98GgW1q+B59SQyZkAI3x13YeQXD6VNgRlJ+DURJ+fPpuHWAS6Y4nKnGyq1/jplMPyGZ+eXY2GdcqNddzood97n4e9bFe7BE=;xlhfGDVOXTpT/+0BrodLdw=="
 ---

@@ -87,6 +87,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
+    excerpt: "Qumu Corporation (Nasdaq: QUMU), a leading provider of cloud-based enterprise video technology, today announced the development and release of"
+    publishedDateTime: 2021-04-21T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-1030328833"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "T/emLTvjtZcNpkPN/YLjJC39eXxK8Ofbj0XO/9+TZ3YEOZKAxm2buH4/c6b/XA/iumHxXrqnCeBtypyN0ryK5fQ/tMJzml9gB5x+dsMaKl03V8srd4TJl0fr996nYHXnX1IKQK1nuZcRt0xFV8O9FcYiA0BZ/XpIDPmCddAhYu3+YSR9pIQTkRigd8rCgkL/IgZZeXDCu7mweP9aK6xj6ISgBf3YAIwV4SXpMBRQmnCVU4CXFzVfO4VrP4FZ5r/ehAs2LaVBCbKmhubu+InXIAlhi1ye0nN/Q3bT/XuVDnkxhd94fs54kY3IW8EyrJRuB4Oz6YOFhV1c9lJ2M1n+7tbCAh+BXLci1C7Pj4cSitBGyYwUEE7pOYxi4h4T7taCspMUp2mJkKouJgLl7WPbLMNvf03mDa0Yn8GYWFkCrWL5D1cYg8cgx3P6vxSMx3Ym/40J8PhWEsQKcKFiFZSvdogCQtDZconjaLl6RaAmB7rl7IJlvCUFjzPL4jQZwvC8gcHyjL4Bvc9FqRGdfA0vgg==;/lAS0n08jkGsMbkh7aR05Q=="
 ---

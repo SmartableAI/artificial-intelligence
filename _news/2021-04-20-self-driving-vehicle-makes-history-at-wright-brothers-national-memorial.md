@@ -30,7 +30,7 @@ related:
   - title: "Self-driving shuttles debut at Wright Brothers National Memorial"
     excerpt: "\"Another Wright Brothers moment. A very exciting day in terms of the first pilot project of an autonomous shuttle in a national park,\" Superintendent for National Parks in Eastern"
     publishedDateTime: 2021-04-21T11:04:00Z
-    webUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+    webUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
     ampWebUrl: "https://abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
     cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
     type: article
@@ -103,6 +103,15 @@ related:
         width: 778
         height: 524
         isCached: true
+  - title: "Self-driving shuttle launched in N.C."
+    excerpt: "The N.C. Department of Transportation (NCDOT) and the National Park Service announced on Tuesday (Apr. 20) the launch of the first self-driving vehicle to be"
+    publishedDateTime: 2021-04-21T12:33:00Z
+    webUrl: "https://www.rrdailyherald.com/self-driving-shuttle-launched-in-n-c/article_9abbc0c9-4341-5f22-bbf2-6ca57365cb38.html"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: rrdailyherald.com
+    quality: 4
 
 secured: "Gp+nAv3g77Zu+2WXkR4s8doYd9tmqPuOBEw43YZRAR6ZS9ZUT8vXibBrGpgBgy7KlPlLe8HjJqFyEO869o33PMxDS6mPlplZY3BSrQ0/EX24Ssi9AqiEDAlgBXhW0o8Hatqwl+fY5pqfnb1OkOF2+5aCpDz993h5aIVivJ8b6/2p7gsPW6kLJ23HZUZhF96jgS2zCBWwpr7GI3Yn161Jx8A7Qn5LEFt04t/DbzTNGcH5JQWiHs3pgGVMOIArm2CoBTOe4WOsfopnG+kJOTZvoY7HJ7Nl8L/WeEMN63J7TUyv83YwXb/wG8lRjqWJ/1YGkbZIAPO5nzJ+LkzLYzyUtw8N21Yqswc3HIMS3723Co+e1c+eCELhlhAfOszUu9Sb1VL9tNIF4i6urrsYuPWeXytwgMNT3oB7rY1EV2Cg4WLjhxXSqxkQT3cP3edgolSaoA0V4he/xhm9ZGUMBTz0eqYNl46Az7OgRnCjI6o6NEk60hnQKVVRCbtifHshG7JT3kFOInllGeYh7wuMSQuAHw==;c1LEb40Hnp21QvIDkGu55w=="
 ---

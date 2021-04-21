@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'"
-excerpt: "\"Any defects connected with these protein droplets can lead to diseases such as cancer. This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct ..."
-publishedDateTime: 2021-04-08T15:22:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php"
+excerpt: "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found."
+publishedDateTime: 2021-04-08T16:09:00Z
+originalUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html"
+webUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/261461_web.jpg"
-    width: 720
-    height: 1058
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg"
+    width: 1440
+    height: 861
     isCached: true
 
-secured: "pPwOp3yxY1D0n+DoX9RGH/INZq/FlJ+mjm9R6jHrCTSZ7advFLGKW8gTErjlreV8BE0vxchmPbhT3Z7sVrcUSY4RjPKvcLy9j3CWpb1UvmetEY1FhigauqPCr4mUoGTXZjsKaFru/B3ronYyjpDGxQkcfDIyTjrjFN/BibDFwhPJ80ifCa5eZnNbiXTQICVWs9s1GpmacpTa5BXu2ORrGDVGCPbMy7qT/XlaHsLV079o18W/yNR88oHcuyAouo9YPa9oH/JmIfDdtTy9aN1nriC2+SqJ5U+XaRi2neU+ySsoAxv6m490l82sm/9DWHJsqPW4J8tj+EDaiz9U0OAL75hc8rOQLE2vvF5WDy4pUe0oBRvRJZrgCtLfO7hccG7KvLJuGUoIi1JGCb04Oi/Cv99odhL61FnPxtaSX+rFrbsTDNAQvrFYPm2BjP5xwoOcwwKnhLvPWTH0raWhSEs/FOm6tfLpKgljh87215qiL1Ugh/P5+csYL3ZLeCpdAEEZQXIoigm0jcBVsOdNOGFcBA==;8pdOlbZJ7azl2QpzFskWkA=="
+secured: "qF6jHsoSjTrrQBM86Zb/xb3p1udz6tJN4IqGcFAxVAHltnrQ9wigXYl/hmHj/HKnZOSL6EWiXKLIT43pFGMNkoGpoTC5UOi8eOrDdFN8xmHPDRnPCWP+6ZIvz5v5FPhg+IVXGYESRkoKIl0Z0ZAtUH3lrm0mZUwEkuHBAhH40ZB7SDvFYd+tGT7DSp4a2j535fiZsMY6IbqGJ3NEDWtKrkUW51kMD3io0xKB+TswIlqtAD++uM2QPlChebdIjm3lkq3Ot+DRSXQxl6fG9uS1KoOOo3B0fenoBH+OYWf+m2KWlUfSjX6vzu3ndM8tpJmLUpQFJOX7b8QRLQYU4Xyia8+/3X4F03l8H24y261BPjA=;X6cbrF9r1f11XTZ4mCqjng=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgM2Kx49qVrGd"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgM2Kx49qVrGd"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition tech, data learning for road safety being studied by Sanral hub"
-    excerpt: "\"The intention is not to observe individuals, but rather to identify trends and incidents to inform appropriate response and interventions,\" Sanral says."
-    publishedDateTime: 2021-04-20T12:54:00Z
-    webUrl: "https://www.heraldlive.co.za/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    ampWebUrl: "https://www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    cdnAmpWebUrl: "https://www-heraldlive-co-za.cdn.ampproject.org/c/s/www.heraldlive.co.za/amp/news/2021-04-20-facial-recognition-tech-data-learning-for-road-safety-being-studied-by-sanral-hub/"
-    type: article
-    provider:
-      name: heraldlive.co.za
-      domain: heraldlive.co.za
-    quality: 53
-    images:
-      - url: "https://lh3.googleusercontent.com/qRA-IUE4u7tQG5g9h2fURzTarh4UXMMNnlGnWML8mpIyhYds7DylaPOeVeSFCSpPvm8FIxRJ5bZ0zJSydU4y5W2H8g=s1000"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Sanral investigating facial recognition and machine learning for traffic control in South Africa"
-    excerpt: "The South African National Roads Agency Limited (Sanral) says it is investigating how technologies such as machine learning and facial recognition can be used to improve road safety and reduce congestion on the country’s roads."
-    publishedDateTime: 2021-04-19T15:17:00Z
-    webUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 43
   - title: "Sanral innovation hub exploring machine learning to improve road safety"
     excerpt: "Technical Innovation Hub (TIH) is exploring the use of machine learning to improve road safety, reduce congestion and inform infrastructure development. Information provided by machine learning can be used to activate the appropriate response through the Road Incident Management System (RIMS),"
     publishedDateTime: 2021-04-20T14:53:00Z

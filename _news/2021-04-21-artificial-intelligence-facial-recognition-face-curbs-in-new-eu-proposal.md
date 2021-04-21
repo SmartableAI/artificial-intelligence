@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-facial-reco
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
 type: article
 quality: 103
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -109,20 +109,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "State panel studies use of facial recognition technology"
-    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
-        width: 1088
-        height: 604
-        isCached: true
   - title: "State panel studies use of facial recognition"
     excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
     publishedDateTime: 2021-04-19T09:55:00Z
@@ -177,6 +163,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "e47Am7lIj34W0fOmbluiLeVncPMW0rkgPyy+Ix+nhCXqCfcdhtOwqfVkPs8ux53O7Pc7BbMJ5Ze1KUnSetofPpH/U/rc6ADOvxUNGH66m3+HGrgjxE9NOv46p8euosxH3grXBUrexWWY8xpE7Kv/cXChgiPmCt140BAUF9VmEXe5Yg01fCWJujPDWajOmYn9ydeCg3WqB6lSbXwkCHhDJs3rKW8wpzt7gLKr7c3gJZvqB53AE0jklWpAUrTF0nh3YsUjMvPh++q6JAMkLd3VRFjLLFbVr7iEBbu7T1V4/qFV4QyfX55/QOQS36yjvgMEvoq/IpTO/0yi91p+eFwJHD9zdbAjXV3gkN9+gFhHRM8=;6dNQuIkjOhsqK0lgE+9ETQ=="
+secured: "FXP2XOjfn5FXAih8Kh26w3GETeERrJjPFNV/+sBxvL2I2WgZUFSgebiomNbkcyEwjxTWO6b5x9ApsCL5BUUfiNr6f3g4NKTLMFY232lOCZ4Uz3aNxt6XSzYgiaL/toEISrS9JWe5d7H7RBzeirAtrH6clKPoJF3LikDqK5gtpm1rtSx1uWfkgyYqC37NQTbkBg3J7+69si2joV3WJXeZ1kZy43R2YSMtCqxo97+clMjhn9NFFEhoSWgv9kgqSYVGHokxRk0NiG/CIhgNcdZpSzNTF9hgk0oiIJNGjjXTSGJw/gdfXpi/NNo2Y1Id2mcFOfGXrZ+OqlXpqT6sz/4tdKaSjQwUv+/Wv++PJw0UwSlCApWjAlQ7UUgXSm5mV4iGZWyI1GgvynrxE0APJOW1/Gpqc/gVk0oBsMF/gsR7qmvKbZ8tWG5AVEAA2fKDxpfhmPSb8j2ve04cUaHc2Lq0n6D5wJdY7+CEWxsHLblRZHntGYZY/k4rjrYMkmBM1T5igQ0Z9NLc5tq1B3OkCQYFyg==;BIM2w7/eYQg4DT5J5c0SXg=="
 ---
 

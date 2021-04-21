@@ -9,8 +9,8 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Recorder
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU set to release artificial intelligence legislation"
-    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
-    publishedDateTime: 2021-04-16T20:11:00Z
-    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
-        isCached: true
   - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
     excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."
     publishedDateTime: 2021-04-21T04:39:00Z

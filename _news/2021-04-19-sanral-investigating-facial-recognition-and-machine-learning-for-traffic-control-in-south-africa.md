@@ -22,21 +22,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Sanral mulls use of machine learning to improve road safety"
-    excerpt: "The agency’s Technical Innovation Hub investigates how machine learning can be used to identify trends and incidents to inform appropriate responses and interventions."
-    publishedDateTime: 2021-04-20T09:32:00Z
-    webUrl: "https://www.itweb.co.za/content/WnpNgM2Kx49qVrGd"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/WnpNgM2Kx49qVrGd"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnpNgM2Kx49qVrGd"
+  - title: "US firms said using Israeli tech for controversial facial recognition"
+    excerpt: "AnyVision system touted as improving security and preventing crime, but social rights activists say practice infringes on privacy, could hurt marginalized groups"
+    publishedDateTime: 2021-04-21T13:29:00Z
+    webUrl: "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/"
+    ampWebUrl: "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/amp/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 74
     images:
-      - url: "https://lh3.googleusercontent.com/kdSZ595y6dKqegVeg0RWh8IVio24EIW_RgJGS8ix3nXwzPIZaBa2NOpELl04bV4bf18GpF2CM0gyThu1qXGlBaoux2vlASGjBYze=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
   - title: "Facial recognition tech, data learning for road safety being studied by Sanral hub"
     excerpt: "\"The intention is not to observe individuals, but rather to identify trends and incidents to inform appropriate response and interventions,\" Sanral says."
@@ -53,20 +53,6 @@ related:
       - url: "https://lh3.googleusercontent.com/qRA-IUE4u7tQG5g9h2fURzTarh4UXMMNnlGnWML8mpIyhYds7DylaPOeVeSFCSpPvm8FIxRJ5bZ0zJSydU4y5W2H8g=s1000"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Sanral innovation hub exploring machine learning to improve road safety"
-    excerpt: "Technical Innovation Hub (TIH) is exploring the use of machine learning to improve road safety, reduce congestion and inform infrastructure development. Information provided by machine learning can be used to activate the appropriate response through the Road Incident Management System (RIMS),"
-    publishedDateTime: 2021-04-20T14:53:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/sanral-innovation-hub-exploring-machine-learning-to-improve-road-safety-2021-04-20"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 39
-    images:
-      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
-        width: 1022
-        height: 575
         isCached: true
 
 secured: "yvyjt5KE7PTFdMM7tcbXCxtIUxCkrBoDDANfcLQmnDRh90iqJsL2DhBYTCQM3vgJakjeFisEOotugC1CFFsRkTsn4SQvwY6dW878DMsR8XmhWl5A1e+V0C7Y9zNi8mR2dC1aydwjOahVYAdgXIPi/5Gcit/0SXTXY+gtQbW9q2eQdPhBKKoVDPntKvCPaYe90sS8tSVLvM5zBklyooBvpSyE2VFK3/3W70D7hVfAFDjJTEsWbmdnJxY7OSVuNsZ5jbO1dgxUm43c74QBD8MH7lVMNGrOc5mWmqaaUqXncq8puSCVI+2Pjz1XxQvJBX1Prt+KwS+LwlXMyoG+QbeBZXanggS51ogB4hxzDRpe76fsFMGJLeh62wg80j6h6nQ2JF8uhCfItEUPKa7dXuSKxHylDtIDl8uQXSb6NDGoM0eBShpZtAeUoT5jFMzjqqPiAE9fRqhngntbgKKTOT5xZfUQwJBZelJtRAqh16u/Ru/INppKxXw6Twf5AD5gSkcQHJiDEvF8gNDkGzjyEC3Ilw==;NCY8u9m/TANQQ4Sjfyy+VA=="

@@ -1,55 +1,73 @@
 ---
 category: news
 title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce"
-publishedDateTime: 2021-04-21T08:48:00Z
-originalUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding"
-webUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding"
-ampWebUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
+excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \" Ping An \" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
+publishedDateTime: 2021-04-21T08:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_1152.jpg?itok=WnkFcETF"
-    width: 763
-    height: 509
-    isCached: true
-
 related:
-  - title: "Lightspeed, Sequoia join $50m round in Chinese AI startup Laiye"
-    excerpt: "The funding will be used for Laiye’s global expansion and product development to help businesses achieve end-to-end intelligent automation."
-    publishedDateTime: 2021-04-21T06:02:00Z
-    webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye#!"
+  - title: "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding"
+    excerpt: "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15."
+    publishedDateTime: 2021-04-21T09:00:00Z
+    webUrl: "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/"
+    ampWebUrl: "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
-  - title: "Chinese Bot Startup Laiye Wraps Up USD50 Million Series C+ Round"
-    excerpt: "Laiye Network Technology has raised USD50 million in its Series C+ round of funding to fuel the Chinese bot software developer's global expansion and product development. The latest round was jointly led by Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund,"
-    publishedDateTime: 2021-04-21T07:01:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-bot-startup-laiye-wraps-up-usd50-million-series-c-round"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-bot-startup-laiye-wraps-up-usd50-million-series-c-round/12871352806277120.jpg"
-        width: 720
-        height: 480
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Start-up Orca AI raises $13M in Series A funding"
+    excerpt: "Autonomous marine navigation start-up Orca AI has raised $13 million in Series A funding, taking its total raised to over $15.5 million to support"
+    publishedDateTime: 2021-04-21T12:13:00Z
+    webUrl: "https://www.thedigitalship.com/news/electronics-navigation/item/7257-start-up-orca-ai-raises-13m-in-series-a-funding"
+    type: article
+    provider:
+      name: Digital Ship
+      domain: thedigitalship.com
+    quality: 37
+    images:
+      - url: "https://thedigitalship.com/media/k2/items/cache/e99ccbfcd6755ddf21cb5bc4bc8a7921_L.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Scale AI Gets A $325M Series E Funding Infusion to Grow Its Data Annotation Mission"
+    excerpt: "Data annotation and labeling startup Scale AI is taking in another $325 million in new investment, this time through a Series E round. The San"
+    publishedDateTime: 2021-04-19T16:09:00Z
+    webUrl: "https://www.datanami.com/2021/04/19/scale-ai-gets-a-325m-series-e-funding-infusion-to-grow-its-data-annotation-mission/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 31
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/scale_ai_logo.png"
+        width: 370
+        height: 290
         isCached: true
 
-secured: "XB6YZ9YKEJWHIGYhzvzrH2JCXbC7iQT019h+KKGzrQzLNGYhxcw4SjXH2ymuUc2N3fj87YWBKcmWGHypzhUQcePqEYrvF+p4gp7hql4V0Xbtjk9fOwdjtS3kubd4YOvr65fSzkSdLD5uENjaez57eDaFrcD4EBWiTZlL68qAAHdZ6+P8vR6tt5PLDBghJJRE8/waaQWsVjXv20ET65efp5zPq8iMGm/sS4O/e/q7xYmdV1T7iB0D7R1l8VjpsAVOSsnlhRm651TtdzP0pYYlVnWRBe37TTgDGUxHw94/Fj743ZS2V8T58nCK58Yj9Eq1/SlaC6Ps2ArnbqZQZCA9WXxHer8Hb//4Z+Ra17jHM0s=;/7r7yOJUyJxlaTweOjNF7w=="
+secured: "XqUOJLkG4wh/IxQZTwOaga8CY2L3qh4vfVSW9Yc2qMu4XF1eBvpoiYCyrci49X2PHg+SXqBIu+WIPkbT88MKlwijWX8usfKxrGHunig3pThnOGiMPuKCFUbPb00RCk4XolVi9j45SVK5gVDAh9vEc4By/CMcdKZZoIQiwlsZIm6Q/faAJJAqFMw5lp2G+JaFAJ8YAD3+Pfir6mtc6PaKhIB7b01H/yKgexR5FLnbkpXQE0qUhH1KNKHujxUVRcwi7RYAG1ORHKebp2GGLNfvFYgjihThEJ4kNuOVJSocZTq7392xxOF/2RsgWnvLyfR/43xXlp+s00xKZe7T1hASpM4Irz9+DjpYuY+jZWSMpTo=;L/YxFPSVb3rQOATrD/K4CA=="
 ---
 

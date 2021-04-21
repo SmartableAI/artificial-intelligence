@@ -119,20 +119,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "State panel studies use of facial recognition technology"
-    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
-    publishedDateTime: 2021-04-16T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
-        width: 1088
-        height: 604
-        isCached: true
   - title: "Why EU needs to be wary that AI will increase racial profiling"
     excerpt: "This week the EU announces new regulations on artificial intelligence. It needs to set clear limits on the most harmful uses of AI, including predictive policing, biometric mass surveillance, and applications that exacerbate historic patterns of racist"
     publishedDateTime: 2021-04-19T06:51:00Z

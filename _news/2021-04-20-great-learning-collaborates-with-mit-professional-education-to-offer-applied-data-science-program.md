@@ -40,6 +40,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Great Learning collaborates with MIT Professional Education to offer Applied Data Science Program"
+    excerpt: "The 12-week long virtual program is designed to help learners understand how to become successful, data-driven decision-makers"
+    publishedDateTime: 2021-04-21T11:54:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/great-learning-collaborates-with-mit-professional-education-to-offer-applied-data-science-program/article_ec03b966-6648-5eb9-8012-68b1ccb34628.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/31/e31d49b3-ef6c-5320-9f66-1ed6bd44763a/607da3427ea7b.image.jpg?resize=842%2C375"
+        width: 842
+        height: 375
+        isCached: true
 
 secured: "76JV6KTE0b7nQzVcUyAuu5i3+aBdNdRmWsZg0hi9dK8IqKw7EN/6bAFm0Z6PMD+vy3LmzEEiCodM5n72C9uO52MRFCZJUh0/3tzFpXRhPXty8J/S+mophTuQoCXdNH66c9SY69tSjcsdelWuCYzANnlAyiq42PxItToEwxDuyKDR0CpmmgXtL365XFkn77urbvZ16643PAYBrR8E21p1fScDQYqitUfU53aMmPO41gqtQD7n2SoMRTXOVrSuXfqBv4Bn7p2b9oqwuo+HamxEaOUzIH06cYon459Csmwik8CLVeUkI1hWHwrD2jQnr0pjoBS8AbWKNUDRQR+fTSfLrpIjKKWSql88jyUkYmgBJAI=;xt1qXo6j7tKa/kBkW4SfEA=="
 ---

@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven audio cloning startup gives voice to Einstein chatbot"
-    excerpt: "You’ll need to prick up your ears up for this slice of deepfakery emerging from the wacky world of synthesized media: A digital version of Albert Einstein — with a synthesized voice that’s been (re)created using AI voice cloning technology drawing on audio recordings of the"
-    publishedDateTime: 2021-04-16T19:24:00Z
-    webUrl: "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/16/ai-driven-audio-cloning-startup-gives-voice-to-einstein-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/6076b79e65c03b4b318d885a_Digital-Einstein-image-9.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "My Legal Einstein Partners with the American Bar Association to Enable Attorneys with Advanced AI for Legal Contract Review"
-    excerpt: "My Legal Einstein, the AI-powered Legal Contract Review software provider, today announced it has partnered with the American Bar Association's (ABA) Blueprint program to help establish modern law practices by enabling attorneys with market-leading and advanced AI technology for legal contract review."
-    publishedDateTime: 2021-04-20T16:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/my-legal-einstein-partners-with-the-american-bar-association-to-enable-attorneys-with-advanced-ai-for-legal-contract-review-1030324319"
+  - title: "An AI-powered version of Albert Einstein has joined UneeQ's growing lineup of 'digital humans'"
+    excerpt: "UneeQ, a New Zealand and Austin-based company, has timed the launch of its digital Einstein to mark the 100th anniversary of his Nobel Prize in Physics."
+    publishedDateTime: 2021-04-18T13:27:00Z
+    webUrl: "https://www.businessinsider.com/ai-powered-albert-einstein-joins-uneeq-lineup-digital-humans-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/ai-powered-albert-einstein-joins-uneeq-lineup-digital-humans-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-albert-einstein-joins-uneeq-lineup-digital-humans-2021-4?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 21
+    quality: 75
+    images:
+      - url: "https://i.insider.com/60782e3274da0300181e1cfc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "wX69Gb6qEHGqCV3I2Yb4Is0+T0ceMlvPs4Cmykv38G6ggiTFAUvYKKbNt92DwgkJsW2u56UYnKvNB1OZy7pDII7Z2AtNkuYdMJqZVcWgKuHn0SwuMoQRYSV8ZVtq1wi8QfFpB0ibfJOvRQ6m3yeAA4fIzZne89dksje8O4mXxkKx9EA5ze1TVkTu0Z2N9HQvLv161o2mKgw3zROs5f8WAFqbdpEvfJLqPdRbCcJNbw0WuHswbbQRdcm2fQO96J+qgZhfwty6pEgAToBkYMtSNkHer7bY4IfpU2XHnoEKAeHJcOpcMM29Na39/u3Qpi92dqnhBeFqYncvm2REkiI2aMMbNSNygrtIX1odnqMdu0Ciqin8jU2G3jPII4SFdmULCz5X9ZjXgGoGK2gjOyZnWk0I04tzLW0qY6KvtICIvNf5rhgp5LjEBDklcAlXhyOWSFeYw9YrncBP53yxoRG/8MSqMffyYkVnNtROx5CGSmWGaWPGCCkhubkIG13P5TxaSu8aosUpdoi70Sutqol3mA==;84IoWo8enxfsS0cE9/Txtw=="
 ---

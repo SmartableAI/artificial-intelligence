@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 933
     isCached: true
 
-secured: "UWCi5fxcPuLtiyTgmeL8CxcDJYvdG4d0MYduP/YJ95Y26p+HpwAAaw8qkczzrvbfqkE9lYNsG3sIu3/bvfCJTglwg45t0G41c+oI7U41S/vAMlhCeg64wBWxsFqRf6y+dI9csoGMDK5InrNkvEEfqMy3iw4VGhw3GdntEggVySX/WUjkG/nOlhLQHBi74UEmp683c+4nnH2kN6E9Xl+F9b+I75B+1S3vNSrjvQOPP1fDOG6+D/cswiZ8NbVELy78/fm/0QgbkugVL5Qfckt9e9c/4EFbPNItUxwgoJrOhEU5XZt8vFf6ZI/KEk+heulFORwj0sgkxFU3EbkuTRIZSQIdSWu2AlmZp+/yLTZeBdM=;fJigVKEPkCepLSMwJx6Uig=="
+related:
+  - title: "Capitol riot suspect tracked by cops who used facial recognition software on Instagram"
+    excerpt: "Stephen Chase Randolph, of Harrodsburg, Kentucky was charged with assaulting an officer, obstruction of law enforcement, and obstruction of justice and Congress, the FBI said.."
+    publishedDateTime: 2021-04-21T13:45:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9495503/Capitol-riot-suspect-tracked-cops-used-facial-recognition-software-Instagram.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9495503/amp/Capitol-riot-suspect-tracked-cops-used-facial-recognition-software-Instagram.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9495503/amp/Capitol-riot-suspect-tracked-cops-used-facial-recognition-software-Instagram.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/04/21/14/42037480-0-image-a-2_1619010282016.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "qmmqGGTv8Q354P1NO9tro7et3qJ2nqvw0114sLpBzFIoCPchl5OYFuKU6xOLlZZu/tI/WUUKee1e9QQpE8hbQ+i5FfnSn0sQo3KfIGFgrxVHi821M/LPtzAVp0fPfxumcwFI8xZFHTAdlw1l91ExAxZi42mQXhF1ieXCeL11V7iXwR9p8lJNlBtYSlh0NUo2HpVkvROXQ3umcq+pGm1Te/iju3qQyVn1wIyRTnVMmcMUq3cztpwbtJyofMSpyJH4Yhi9SAupdAj+U5yitzpv9XxJKTT8yTwG0r5qrpOhipiLtzG0aSVLbIVw1+7EkbliMRB4wwEC36VHhEGlx+7iRsC1cCKvhuRyQj7ZLzt3slQec/eKwo+W3XyZspct7CGfdwotCiyhcNItrwZ4CAUd/CPXKAsmIBt46L9shlvB5oLdBlzpAsAKX6kAK76EcqOWYRsfEQzhZ4FintjTJ8xlM3x39KjFySERMW31Z/+kjHLGp0g58RBSyU/Hb6ZtRw2vR6dKiPzL2gh//bTridkhCw==;ghDiUARqJcSMCZbkN86LRQ=="
 ---
 

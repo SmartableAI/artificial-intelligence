@@ -24,22 +24,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "ACLU suit seeks the release of Clearview AI face biometrics data by ICE and CBP"
-    excerpt: "The deal with Clearview AI allowed ICE and CBP to conduct thousands of facial recognition searches in what the ACLU calls a disturbing use of this technology."
-    publishedDateTime: 2021-04-16T20:54:00Z
-    webUrl: "https://www.biometricupdate.com/202104/aclu-suit-seeks-the-release-of-clearview-ai-face-biometrics-data-by-ice-and-cbp"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-
 secured: "FWCT9rQnDKb8EmLshPYorodqcWarnH/kBlq5tUb709B7sQTpGIFOW7smDLIgjWraMX4aMZlaYFe1mEE9C25hgzsIRugtVsMKP5TtAfcanwyY2xLIxwXtEBvHSPm252GZ1QjZzZNBx21XsRxsjl5M5oaE19B903D+oZ9CxJRPdwu1iODLGS4rWaLxhxWdccUF89pdJAoqZosP955xaVYYXn8mMa38lUgnSWJyjwMq5+LHhrA3igu0vQGWkizNLF3n1gXywp8A1gWkK254E/tyK6uw6CPRrBLLvESSXwBmOcho+J/xVtV5RLEnHzhZRSd8nQm/+Gg5/Cv3hCSXdlXwoatMxLv8ZneOpS7bB7c9IPy1O1e4H7dPYPHzz7C7P7O+4k4+mEyVsXUUVke4Cdm2ZzLXumK3n6+0cd/t8D4TITEzCtTa7EZ4bXy0NqBhi9Og0QSLefekskH1Q563uoCOLQhd6K+Ul3Q5Rk5B99Jo2vow0CB34BUOSu1WKAMVFgdankz7UptTulpgUL0uWlPxCA==;vvAPtohUJT9pR5AYk5qePA=="
 ---
 

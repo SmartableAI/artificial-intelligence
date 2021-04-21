@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-reg
 ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
@@ -47,7 +48,23 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Europe lays out plan for risk-based AI rules to boost trust and uptake"
+    excerpt: "European Union lawmakers have presented their risk-based proposal for regulating high risk applications of artificial intelligence within the bloc’s single market. The plan includes prohibitions on a small number of use-cases that are considered too dangerous to people’s safety or EU"
+    publishedDateTime: 2021-04-21T12:23:00Z
+    webUrl: "https://techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/"
+    ampWebUrl: "https://techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
+        width: 1024
+        height: 563
+        isCached: true
 
-secured: "gnfewL+iexuqErmS//ESzoW5XZuSrz9iu2NTmuWoP0VXudPMPkVW+L3lrtF4qAUiTcKnJI9dFu5aGRWZFQ/QM5Ii4zetCRNjFuzedgtIXu3h58GL/X8o2g5dLx1gzWjByfTCkhEMce5pVERyzOSEIrm5Y7s1Vm8MlBXuPXRvKMFKMgDDpBbcPHZr5oZlDa5Ipgxl8Iyc4VDwo1qN1HUViX/J4SFtSfa91OraoUEpkkHwn3fNUPIH2QnYXdPgyWlZv5DdD8VdD5JzdfAL96yBeZogcRMdbD9gIH3zidAWDOgvbTM72Y4r6i3L5vOHijcjqFLSeDTvL1oPxPXLzs6JJ++wrvXVVEQGf3NiwxvGWi8=;+j5gSXVWg6yTJoSMv4sXcQ=="
+secured: "THAgfrjRptGPsmQWIVZMkTuwzzW1fbEoAT2UGT39PUTfigrRmIlw80peCDxz5ZsLUpocbTjbOcKEiCUGCwwgurV9VFCz9mZCIW6ckzM41fb0ZNZs953RS3nRYqfWtwPMQq7cGe6jAZqwZl2QW68fL09qCellEd65P3pnxE8BSBUbHKVbkA2sPaELA7bYDICDnx0cJVSginFxQQvD5wMqg+BrXsNxG9XZUPpIskWxJMNocmSPGvrb+tCaESMWZne0+rPZESkwn2IJv7f9UvvAO8Pp4iBEJE6Zxs1ej0cn9rxodWIbI+tQeFniLoilN6TsWof8ZUITHCgW2NFyyPMTHPMPnRLmS6Qw2xv2L9FVPXg7YN9w6qEDBI4iLtnyRhzAYGrOh9FgOaeC7EKFfMXa9zxb9kzrHZDp27WKoiZrlvst0LxKCtgEobomj6SbzL5gm3ij9d2T49hKy1RBzAgk+mEatUQVIHYbnjG87tCW0iAjvl3r54E+m7xjdaz6YvLXL6Wq5dcu85mulDOJ8ni0+Q==;csOZtwmIBC8fQhmnFVWWWw=="
 ---
 

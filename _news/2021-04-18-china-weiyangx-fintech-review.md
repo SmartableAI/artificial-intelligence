@@ -76,6 +76,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Victory Square Technologies To Present At The H.C. Wainwright Cryptocurrency, Blockchain & FinTech Conference"
+    excerpt: "Victory Square Technologies Inc. (“Victory Square'' or the “Company”) (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health,"
+    publishedDateTime: 2021-04-21T13:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/victory-square-technologies-to-present-at-the-h-c-wainwright-cryptocurrency-blockchain-fintech-conference-1030328908"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Top Fintech Companies to Watch in 2021"
     excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
     publishedDateTime: 2021-04-19T12:49:00Z
@@ -103,6 +112,20 @@ related:
       - url: "https://businessnewswales.com/wp-content/uploads/Mayo-Twala.jpg"
         width: 600
         height: 360
+        isCached: true
+  - title: "Media, Video and Audio Sharing Fintech Platform, Issuer Pixel Launches $2.5 Million Crowd ..."
+    excerpt: "Issuer Pixel, a global, searchable, enterprise video and audio sharing platform connecting companies to the world, has launched a $2.5M A round offering campaign on Netcapital.com to support final development,"
+    publishedDateTime: 2021-04-21T13:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-media-business-08ba31ff7935197c701573a0d6e7960e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "NnCqAWH65NLz3K0+RrJBc4/Kx9dQKNYsr+Ou7rynSx1SazQwgdSFmrgrmfPNxowYOAdlLO3CV+ppK/UisvlTNSFKaerAV4P1n00PcBrJvDlSFyJYoSjmvY58OJqVrTnw4Yw/f2EXKnFmLwx+0AyLbRqEIrI3MYa6QOWRSxSF3N12AZtYT78rtC9RJkJAOFc9Z67vkopE99Lb1dCncwfH+oyR4dpypb0/vFXuq4GKttd2r+O6OBL47sCBOfCH5NS0O4lpZK8Wd1DKOwYbC23/5d8tICZWpfDA55OALSMB1D7ElCY6aU9eKcxxHhLI70mCpz0PJ3fqZ+ar7EpLFetfXKTuQ8fBE5qpaXSszkpKyBmWu5+1A4vs2msn5fu9GrByLCS1EEAFeYbmHelzW7YldRtSXdfFLyUtaIbMhUBmsi477paBsgthRxxYqVVySbuphWv6fA65b+IZ40Sz3ht31w60fIVaxJ7izCuz1fe7n3mmonwaEkcDOrsSZFJoTEE2VIneJb6J83Ve0qfccSr9Kw==;PDsk04cCmIuxM8/MfrlopA=="

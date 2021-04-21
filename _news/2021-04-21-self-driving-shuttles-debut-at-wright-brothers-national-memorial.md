@@ -3,8 +3,8 @@ category: news
 title: "Self-driving shuttles debut at Wright Brothers National Memorial"
 excerpt: "\"Another Wright Brothers moment. A very exciting day in terms of the first pilot project of an autonomous shuttle in a national park,\" Superintendent for National Parks in Eastern"
 publishedDateTime: 2021-04-21T11:04:00Z
-originalUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
-webUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+originalUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
+webUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
 ampWebUrl: "https://abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
 cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
 type: article
@@ -103,7 +103,16 @@ related:
         width: 778
         height: 524
         isCached: true
+  - title: "Self-driving shuttle launched in N.C."
+    excerpt: "The N.C. Department of Transportation (NCDOT) and the National Park Service announced on Tuesday (Apr. 20) the launch of the first self-driving vehicle to be"
+    publishedDateTime: 2021-04-21T12:33:00Z
+    webUrl: "https://www.rrdailyherald.com/self-driving-shuttle-launched-in-n-c/article_9abbc0c9-4341-5f22-bbf2-6ca57365cb38.html"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: rrdailyherald.com
+    quality: 4
 
-secured: "YA62IAFp8oZQfDUbcyauJ7THiw6G9XJXk4IWkRxvtVZA2p8rhjrFP/7zaNa+jyVE7vlviRvesGWtriL5oD0uKa022rqHdGftfIecN5ddXylYbejXJPFUVDJ5I+9NcynVaBG/UrcPVfjQ3mJejWbmnLcmUtfddDvJRcQ+gT23Z5PZOOlNjbK/eD0CgXGgW8HXVwz12gi9X7EEd5e7jzw2ecPZEh5CDTaEyWDPOG/9DOzPwJnqi+sOETapJtoV35cG8HAvcOGdteeRpoEbVrrPvrfekD3QRhp5FYE7jhVjZUn0ZpmIL1TlTm5B8DqxdzvnRyjK4gR9R9H+PzkNKUBr/CXR1lDA7SshWLa+vv7icZY=;z/SorpVVIG8FUMcbiQiezA=="
+secured: "VKETv3irQgaNrYSO2dJOf8Tu0yDSyCjA8qogOz3EAF3Q57b1PYyZs6cEFdBnkxUdNjXBmfzLDreCWD5L54lgsrEo1CvG/iHIdKdzW3fLBwceU6K3rTkH9wFMtDOr8lnAQqByQvwGHl2Cc0BrmmdXDXWaQL4m6lIWrcaJ85a6a8/E6UbVcLSXCgXqRb+hrGyO5XlfMS6Ezy2SHHHIsfYz5BeDxI27xc+nCfxK6VCAtsJh2/sBznBnndRhAqZi1pUULRsAX74nOQvrxLg+RaHyToITafAi7vRn9h+ZFb9wlJdqYYX/rWT5qTCoGM9mMCirrmDmyTQI+/WHN+rgIwT5PKw2rT3wx+QIlQT99CkNG6U=;IK86eBgVY1R3rMa6L3anLg=="
 ---
 

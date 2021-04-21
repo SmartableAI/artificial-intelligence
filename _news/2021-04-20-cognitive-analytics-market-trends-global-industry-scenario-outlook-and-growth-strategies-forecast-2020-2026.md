@@ -73,19 +73,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Alluxio Boosts Data Connectivity For Business Analytics, AI Tasks"
-    excerpt: "Big data integration platform developer Alluxio debuts new release of the Alluxio Data Orchestration Platform to support POSIX, S3, the Amazon Cloud and Azure."
-    publishedDateTime: 2021-04-16T19:21:00Z
-    webUrl: "https://www.crn.com/news/applications-os/alluxio-boosts-data-connectivity-for-business-analytics-ai-tasks"
+  - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
+    excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."
+    publishedDateTime: 2021-04-21T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-business-635c211f85b846c447cbbe5f31a1f9ac"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "9c41MeK+wOvAqtFmFzfnKO2STl51sEPWsiM6on57mDbAclbKfTqjXGKLi7wRbcbaPA4Akk8kITfBk4ytvdCdZrJYedzKtS23NJsf/3Nh8qyp6wE9+HoZFYWg5udDPHvnaP18CzuoRSWBhzLuxPy7vTgSmZeqVmAQ9ZxprSr7+7EltN0FF/z9zMG3zmR6nPHBpWSyfpCGGbYeFb5lh0iHQdClU5j1vp+I6vq+HZWjHowaS8Lc1C/T+dRm/BpGNZhLhDgwtzPFiTWAmksF6eQxO/MCUtKSigxrU472Nekp0i6pc3uuHO0N5SoR/G1mCtjwMrhsajtXHrL10/yeo6diZrZSQwq29T7T1vN9lpBdgcM=;VOoJ496FEZeduOhNqFh0pQ=="

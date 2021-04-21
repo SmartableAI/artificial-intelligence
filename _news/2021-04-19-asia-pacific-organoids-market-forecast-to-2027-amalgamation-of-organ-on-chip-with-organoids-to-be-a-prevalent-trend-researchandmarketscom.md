@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
+    excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
+    publishedDateTime: 2021-04-21T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
 
 secured: "zmLRc3aInxNwalrR8fDLwhgROfjoOvFg+LV1fWXsRFZeYOhvxHNEI/aSGwyI4C5PBPhtwNX9WHnUmctY/DNMod+IEaHM/Q2BCm+WaAydUs2S2CqeGIuP5gv183zFH856/jqM3txktRdewr7AUi2/d+Q2Y7njWVUs0I9kj/aQeqDubfMcNDGJzafFL6x3oAq01svqCz19ZsMZFcSbiOj0RYYgmR/pdRzQq6XH/cfxRjq1K4S4JlIu3ucmR/TZB104YVGSUNf23rEg1m8xOiwwC+KNkhY8szardjjQoEUn70GEHtHbYHNn11Z27OroXv0boN1zgYDk0DYLljN6pVDDOLFYoRx45YbJDQmdn2yMcgg=;Qvrcb1Hu4Txf3QNb5DKDrg=="
 ---
