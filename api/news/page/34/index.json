@@ -2,6 +2,101 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
+      "title": "Intel will build x86 chips for other companies",
+      "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "originalUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/03/bunny_with_wafer-100881923-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "publishedDateTime": "2021-03-24T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
+      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "publishedDateTime": "2021-03-24T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people.md",
       "title": "Cutting Edge Intel AI-Powered Backpack Could Replace A Guide Dog For Blind People",
       "excerpt": "An innovative AI-powered wearable camera system holds promise in revolutionizing independent mobility for visually impaired people. Deploying state-of-the-art Intel processors and hardware to provide real-time spatial recognition.",
@@ -1069,95 +1164,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-24T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantagecom-amazon-web-services-inc-samsung.md",
-      "title": "AI in Fintech Market Growth by Global Key Players: IBM Corporation, Intel Corporation, ComplyAdvantage.com, Amazon Web Services, Inc., Samsung Group",
-      "excerpt": "The computational arms race for past years has revolutionized the Fintech companies. AI and machine learning have benefited the banks and fintechs as they can process huge amounts of information about customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "originalUrl": "https://ksusentinel.com/2021/03/24/ai-in-fintech-market-growth-by-global-key-players-ibm-corporation-intel-corporation-complyadvantage-com-amazon-web-services-inc-samsung-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.worldfinanceinforms.com/wp-content/uploads/2020/01/Digital_banking-1.jpg",
-          "width": 700,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI",
-        "IBM AI"
       ]
     }
   ],

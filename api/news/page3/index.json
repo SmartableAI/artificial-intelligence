@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-19-gac-motors-to-launch-its-first-self-driving-car-with-huawei-after-2024.md",
+      "title": "GAC Motors to launch its first self driving car with Huawei after 2024",
+      "excerpt": "China’s GAC Motors is apparently planning on launching its first car model that supports self driving technology after 2024. The company is partnering with Huawei Technologies for its autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/",
+      "originalUrl": "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/MZ7XYVRYLRMF3PDC436LFXYEPM.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
       "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
       "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
@@ -201,7 +253,7 @@
       "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -832,7 +884,7 @@
       "originalUrl": "https://www.businessinsider.com/analytics-ai-tips-to-grow-business-kellogg-marketing-2021-4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -989,7 +1041,7 @@
       "originalUrl": "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1170,58 +1222,6 @@
         "AI",
         "Computer Vision",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-nvidia-shares-up-11-this-week-on-new-supercomputing-chip.md",
-      "title": "Nvidia Shares Up 11% This Week On New Supercomputing Chip",
-      "excerpt": "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369592",
-      "originalUrl": "https://www.entrepreneur.com/article/369592",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369592",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592",
-      "publishedDateTime": "2021-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

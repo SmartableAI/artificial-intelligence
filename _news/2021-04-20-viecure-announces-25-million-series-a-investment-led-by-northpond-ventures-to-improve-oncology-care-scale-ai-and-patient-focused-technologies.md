@@ -39,15 +39,6 @@ related:
         width: 900
         height: 675
         isCached: true
-  - title: "PAXAFE Raises New Round of Funding to Mitigate Risks Involved in B2B Shipping with AI-Enabled Contextualization Platform"
-    excerpt: "PAXAFE , an AI and machine learning start-up transforming the way supply chain risk is calculated and underwritten, today announced a $2.25 million seed round of funding led by Ubiquity Ventures, bringing funds raised to date to over $3."
-    publishedDateTime: 2021-04-16T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paxafe-raises-new-round-of-funding-to-mitigate-risks-involved-in-b2b-shipping-with-ai-enabled-contextualization-platform-1030312624"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
 
 secured: "y9dyG/IjrU8nv4REokb4lc1329bKpnSYcCN0fwb4QohXCpElU8fvzFuDCciBvAyAN5A2OBlGJIbOHPDcy90Ov+7INRrjfb7UWGycOYGnF8ekYrukKqHPZ+K8tJfRoc1MLqBo8xp0JdJbVahTkuu/CwPbyZ+S8OpJCaLe0IA0LTc0GKMsur58VLdN3uJojsWN773Je55tSyPrrRvAifhp+2ANuUCNJxZBFUsyxmHGA8fG2UcriOFFvwQSm3qEc5DgLS4sIvheq4AkOLu1wGfkDzNylbVBTM25rh3v8dwTSNz+weEflQNS/Y14lUrGJgsk+Txkc6zplpK9hyIeTu+fiwdXKCkE1dtvqUABxpMmDGI=;ZC0jQFKQ317x4KEeWyg8Sg=="
 ---

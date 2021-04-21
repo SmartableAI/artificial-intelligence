@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-04-21T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Research Report by Trends, by Type, by Application – Global Forecast to 2025 – Cumulative Impact of COVID-19"
     excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
     publishedDateTime: 2021-04-19T10:57:00Z
@@ -53,20 +67,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Study Report Based on Size, Shares, Opportunities, Industry Trends and Forecast to 2028"
-    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-04-16T13:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-study-report-based-on-size-shares-opportunities-industry-trends-and-forecast-to-2028-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

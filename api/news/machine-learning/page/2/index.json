@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-what-humans-can-learn-from-human-in-the-loop-learning.md",
       "title": "What Humans Can Learn From 'Human In The Loop' Learning",
       "excerpt": "Human in the Loop’ Learning describes a setup whereby a learning machine or computer system can incorporate selected human inputs or labels into its inferences or learning process, and thereby create a virtuous cycle or ‘loop’ in which the machine constantly learns to improve its capabilities.",
@@ -660,10 +713,10 @@
     {
       "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
       "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ...",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -696,7 +749,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
@@ -1385,59 +1438,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-build-a-cicd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services.md",
-      "title": "Build a CI/CD pipeline for deploying custom machine learning models using AWS services",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning (ML) models quickly. SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality ML artifacts.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-ci-cd-pipeline-for-deploying-custom-machine-learning-models-using-aws-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/30/1-1200-Architecture.jpg",
-          "width": 800,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:06:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
+      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
+      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "publishedDateTime": "2021-04-13T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRISTV.com",
+        "domain": "kristv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-10-authors-sharing-the-secrets-behind-startup-success-and-failure.md",
       "title": "10 Authors Sharing The Secrets Behind Startup Success And Failure",
       "excerpt": "Making your startup successful means aiming for success while dodging classic startup killers — the best way to know how is by learning from those who have been there before. Here are 10 authors who have seen the highs and lows of the startup journey and have invaluable knowledge for you to draw from:  In the first days of your startup,",
@@ -1168,58 +1212,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-intels-mobileye-will-power-udelvs-self-driving-delivery-vehicles-starting-in-2023.md",
-      "title": "Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023",
-      "excerpt": "Mobileye, the Intel (NASDAQ:INTC) subsidiary that produces software and vision-processing chips for autonomous vehicles, said that it will supply the self-driving system for electric delivery-van start-up Udelv's upcoming autonomous delivery vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621229%2Fudelv-driven-by-mobileye-night-75789135.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/12/intels-mobileye-will-power-udelvs-self-driving-del/",
-      "publishedDateTime": "2021-04-12T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

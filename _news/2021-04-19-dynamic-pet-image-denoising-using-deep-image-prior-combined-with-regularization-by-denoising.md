@@ -39,6 +39,20 @@ related:
         width: 685
         height: 298
         isCached: true
+  - title: "Research Fellow in Machine Learning for Automated Decision Making"
+    excerpt: "The Research Fellow in Machine Learning for Automated Decision Making will contribute to Australian Research Council Centre of Excellence"
+    publishedDateTime: 2021-04-21T06:57:00Z
+    webUrl: "https://www.timeshighereducation.com/unijobs/listing/252140/research-fellow-in-machine-learning-for-automated-decision-making/"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 39
+    images:
+      - url: "https://www.timeshighereducation.com/unijobs/getasset/16f5560b-818c-4a26-b167-fb25bea7ab3b/;w=600;h=315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "l5QEFz+esNEI78q9bbFowVp8lJ9MIO17RHU2zOLtaAMPqH5R9jXHInzheMrrMWCXy4LmZiC3nyHHVuJ9GYDdWPX2WUoELvQaXDuWhJSVU75SZec89RDDtTKqOJQ213fL/Hf432H1RWCcrXzKDDOkR1Uj8Qe1ZyxHek0WHUrqhHsJCa4B5VFLL6IzjRQ7hxyYFlL2avzeSwt+bmMAY44rxs2IbMkKGPA8MQFwb+TOwY4kPUmYySswPGdFBHbzNvHiczI37MmXbuo1nS/32n3pl8j57YMHwNUH6yQe58Y/LX+EJfeCIldXZ4NBeUpBG6r3dVq3xPwHHz+a7tyCVag1n0Ta8y4Vtm6ATpnIDrmyc+c=;L262u+jM7Z59NtSriGzQMg=="
 ---

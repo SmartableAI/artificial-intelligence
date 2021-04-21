@@ -46,20 +46,6 @@ related:
         width: 563
         height: 423
         isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Industry Analysis, Market Size, Trends, Share and Forecast 2027"
-    excerpt: "The Global Artificial Intelligence (Ai) in Medical Diagnostics Market is estimated to value over USD 5.2 million"
-    publishedDateTime: 2021-04-16T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-industry-analysis-market-size-trends-share-and-forecast-2027-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
     publishedDateTime: 2021-04-19T09:43:00Z

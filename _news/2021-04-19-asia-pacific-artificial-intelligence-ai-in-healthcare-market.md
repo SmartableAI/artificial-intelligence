@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intellige
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market Industry Analysis, Market Size, Trends, Share and Forecast 2027"
-    excerpt: "The Global Artificial Intelligence (Ai) in Medical Diagnostics Market is estimated to value over USD 5.2 million"
-    publishedDateTime: 2021-04-16T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-industry-analysis-market-size-trends-share-and-forecast-2027-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

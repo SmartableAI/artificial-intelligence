@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-twitter-to-analyze-the-harmful-impact-of-its-ai-ml-algorithms.md",
+      "title": "Twitter to analyze the harmful impact of its AI, ML algorithms",
+      "excerpt": "Twitter’s new initiative, Responsible Machine Learning, is in a bid to assess gender and racial bias in its AI and ML algorithm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/",
+      "originalUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/twitter-dice.jpg",
+          "width": 385,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/amp/",
+      "publishedDateTime": "2021-04-21T00:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd.md",
       "title": "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd.",
       "excerpt": "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication",
@@ -408,7 +452,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -1378,59 +1423,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
-      "title": "Accenture AI expert on how first principles prevent problems",
-      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
-      "publishedDateTime": "2021-04-09T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

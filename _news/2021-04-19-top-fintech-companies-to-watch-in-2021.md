@@ -52,6 +52,20 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 24
+  - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
+    excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
+    publishedDateTime: 2021-04-21T04:39:00Z
+    webUrl: "https://businessnewswales.com/a-welsh-fintech-empowering-disadvantaged-people-worldwide/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Mayo-Twala.jpg"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "Et4+YO7uc3AnKA1FcYdukGQuzGGUqwI54jbrDcxtzrKPSmwWPLxJmAssEZXKIzTQK9rhPBwKD5Fh0sXMDcnSs/n9pjVmiPBmFEXbocSxke8jO4F9RolvsWflICANDMP+ChvnJ9H60vbGe6gZoZHyStyYA+c8YB2Lm9jetYh42ZHHb8e8rFiBcUQk4auGy27K7lSxqu/Bl9OQbGiFJJenzZQbFWcJG/6NAEGb9HX2K/49nq2PcSXKzt/m/EDXw1kaXxtG4YTFJ2gRvQQbKXB9ekJQk5hW+6/bsyxunI9VrlJ3QjN2O+xWDALkXO+CyCC6V0i7C7J5PzxUskCuPLAl1tprS8rQbs65Ryr8TVQUjWRrhxHD+oL3RwDwcHxwTZ9pGMlCsmgCmyN96QB3n9QHjT723/HkSZRDAiZWumUviODPt3tKbm6W35NFbdHwlEzvQtJI0mkx1TLkf6DWg0yDkaVo2bkNr3GOvYpoyK/ODjf11uVgaP5BZaYnPf1tkGcCvojwAfNd2mviN4nBqOwgbA==;xl44HoSxn5ZEa1L3jqyDRw=="
 ---

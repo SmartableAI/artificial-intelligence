@@ -1131,6 +1131,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-03-ceo-of-googles-self-driving-car-spinoff-steps-down-from-job.md",
+      "title": "CEO of Google's self-driving car spinoff steps down from job",
+      "excerpt": "IT WILL BE A COMFORTABLE EVENING AT 75. COOLING OFF EVEN MORE OV The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "originalUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/35042856-new-google-logo-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
+      "publishedDateTime": "2021-04-02T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCRA",
+        "domain": "kcra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-waymo-ceo-john-krafcik-steps-down-replaced-by-two-co-ceos.md",
       "title": "Waymo CEO John Krafcik steps down, replaced by two co-CEOs",
       "excerpt": "Waymo CEO John Krafcik has announced that he’ll be stepping down from his role as CEO. Tekedra Mawakana, Waymo’s chief operating officer, and Dmitri Dolgov, the company’s chief technology officer, will work jointly as co-CEOs going forward.",
@@ -1370,59 +1413,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "Artificial intelligence can add a much-needed shot ... moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "publishedDateTime": "2021-03-31T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

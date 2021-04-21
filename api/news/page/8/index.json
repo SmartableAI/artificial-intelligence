@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-14-gridai-launches-platform-for-training-ai-models-on-the-cloud-at-scale.md",
+      "title": "Grid.ai launches platform for training AI models on the cloud at scale",
+      "excerpt": "Grid.ai's platform, Grid, offers a way for data scientists to train AI models at scale on cloud infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/",
+      "originalUrl": "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/13/grid-ai-launches-platform-for-training-ai-models-on-the-cloud-at-scale/amp/",
+      "publishedDateTime": "2021-04-13T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-protecting-people-from-hazardous-areas-through-virtual-boundaries-with-computer-vision.md",
       "title": "Protecting people from hazardous areas through virtual boundaries with Computer Vision",
       "excerpt": "As companies welcome more autonomous robots and other heavy equipment into the workplace, we need to ensure equipment can operate safely around human teammates. In this post, we will show you how to build a virtual boundary with computer vision and AWS DeepLens, the AWS deep learning-enabled video camera",
@@ -1202,50 +1253,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
-      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
-      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "publishedDateTime": "2021-04-13T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRISTV.com",
-        "domain": "kristv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
+      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
+      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "publishedDateTime": "2021-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-self-driving-car-from-lawyer-frederick-penneys-perspective.md",
       "title": "Self-driving Car From Lawyer Frederick Penney's Perspective",
       "excerpt": "SACRAMENTO, Calif., March 25, 2021 /PRNewswire/ -- On March 18, 2018, the first known automobile accident death by a self-driving car occurred in Tempe, Arizona where a Volvo XC90 SUV struck ...",
@@ -1335,49 +1387,6 @@
       "provider": {
         "name": "The Motley Fool Canada",
         "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-new-peugeot-308-hyundais-space-van-and-self-driving-tesla-crashes-police-car-your-thursday-brief.md",
-      "title": "New Peugeot 308, Hyundai’s Space-Van And Self-Driving Tesla Crashes Police Car: Your Thursday Brief",
-      "excerpt": "Plus: The sad demise of Sabine Schmitz, the GR Supra vs. the Litchfield Yaris, And More Chinese Telco Companies Banned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "originalUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/03/BRIEF10-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "publishedDateTime": "2021-03-18T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

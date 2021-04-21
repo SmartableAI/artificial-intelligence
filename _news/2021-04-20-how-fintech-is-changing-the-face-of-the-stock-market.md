@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369803"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
         width: 1920
         height: 1440
+        isCached: true
+  - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
+    excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
+    publishedDateTime: 2021-04-21T04:39:00Z
+    webUrl: "https://businessnewswales.com/a-welsh-fintech-empowering-disadvantaged-people-worldwide/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Mayo-Twala.jpg"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "+Z5freMEEyveZyNUk0xht2GrDhHXE4m2iccCziXxHWfYXWNvUh/3ocPJIwBtLxsi/nUVVQ48fu6f8KJDfQHl8k6fcKRRvi18VkidU3L1PeDNqZNzHbR94mTx0LUYknKAimeKCGQjMrTzQwEZhWZ9wIKNJ5UU5a+e4E94zG4cpOS4nuIK/OkR4XuC0oxaKD95t6PSaIOahyb4iS0tbXYgDyzr2Qigjb0yZJn0O14lAt81Y2vO2O5dI4Bkyjpt01RI1AXUAKJix/E3wCK2aHpVVRigLh93b7IM9R+azn1gqCc8kaQkx2sWp0cLbUnzF6H4B8W4OTM3f5hQNGQ0SoabYQI7lffs7oB/DhaUj8oA5xUrcq6DVtmmBSNnuO5tsguApFqH/uJZIjOFo+5T7pGNZDdwOcst1GgB3XeHO55mw7kuiVprvgl3wEBZvIydhjNlLsIMB4U217lZIAQF0E5XzKJnFLz6PEM8o6FbVNjA8YoLuxezgsXP8Hw5C8iK6jkFAhfT1o5iVMGJu4o87vWvlQ==;KaSJWw4YbroHzR+sGpuJWw=="

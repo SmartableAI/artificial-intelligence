@@ -51,6 +51,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
+    excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
+    publishedDateTime: 2021-04-21T04:39:00Z
+    webUrl: "https://businessnewswales.com/a-welsh-fintech-empowering-disadvantaged-people-worldwide/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 24
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/Mayo-Twala.jpg"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "NnCqAWH65NLz3K0+RrJBc4/Kx9dQKNYsr+Ou7rynSx1SazQwgdSFmrgrmfPNxowYOAdlLO3CV+ppK/UisvlTNSFKaerAV4P1n00PcBrJvDlSFyJYoSjmvY58OJqVrTnw4Yw/f2EXKnFmLwx+0AyLbRqEIrI3MYa6QOWRSxSF3N12AZtYT78rtC9RJkJAOFc9Z67vkopE99Lb1dCncwfH+oyR4dpypb0/vFXuq4GKttd2r+O6OBL47sCBOfCH5NS0O4lpZK8Wd1DKOwYbC23/5d8tICZWpfDA55OALSMB1D7ElCY6aU9eKcxxHhLI70mCpz0PJ3fqZ+ar7EpLFetfXKTuQ8fBE5qpaXSszkpKyBmWu5+1A4vs2msn5fu9GrByLCS1EEAFeYbmHelzW7YldRtSXdfFLyUtaIbMhUBmsi477paBsgthRxxYqVVySbuphWv6fA65b+IZ40Sz3ht31w60fIVaxJ7izCuz1fe7n3mmonwaEkcDOrsSZFJoTEE2VIneJb6J83Ve0qfccSr9Kw==;PDsk04cCmIuxM8/MfrlopA=="
 ---

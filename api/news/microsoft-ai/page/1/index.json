@@ -296,7 +296,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -1066,6 +1067,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
       "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
       "excerpt": "Machine learning’s (ML) importance in this coronavirus pandemic-induced automation era cannot be overstated. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
@@ -1334,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dimension-data-introduces-sql-on-azure-secure-and-intelligent.md",
-      "title": "Dimension Data introduces SQL on Azure: Secure and intelligent",
-      "excerpt": "Microsoft Azure, now in more than 90 regions worldwide, has the most compliance standards for any hyperscaler and four times more native functionality, while Cisco is a global leader in the use of artificial intelligence and machine learning for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/xnklOqzLkxV74Ymz",
-      "originalUrl": "https://www.itweb.co.za/content/xnklOqzLkxV74Ymz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/7dYaOubFrxxJO0scTVqHKiqTWV86DC1p6t-2pdyu8LR06R30x-UQRJmQqUHGmeSqsqMJP3E6evChLUuAowSmj3Vhi7u1xvM4a0I=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/xnklOqzLkxV74Ymz",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/xnklOqzLkxV74Ymz",
-      "publishedDateTime": "2021-03-31T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

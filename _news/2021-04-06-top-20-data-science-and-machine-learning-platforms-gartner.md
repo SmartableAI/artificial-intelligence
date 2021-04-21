@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were considered in Gartner’s evaluation, including SageMaker ..."
+excerpt: "Gartner’s Magic Quadrant for data science and machine learning platform 2021 includes AWS, Google, Microsoft, IBM, SAS MathWorks, Databricks, Alteryx and H2O.ai."
 publishedDateTime: 2021-04-06T15:06:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/14"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
   - Machine Learning
 
@@ -22,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "7XyYtkk2Cilu9WNZOiOveNcyCxbTf961lkg1pSGCLVpjv/phKX6dpWPVYQ3RDzZqLGyTRm4UTvWiX4SmkIn/IvIrK/boyM02l8t6SJj+k6NqWeZqsJu0RbFrNxK9Hu4vDPlhyOIK0bgzVhKwbR0vEm6pcw4O9XjbvT7shcVa5b7nPYWU3fubdBDRO6oD6x7XoPNpEniLDOeQkrtfUwfQcvzs6JBRZZI3BTAqoDtjxWihKY4ZGFsC9LGdolTHKY99K7O4/LO2AOfBLaaBgH6m+TlBMxdbnWMGpXawoCjExpgbwqanoQWMBt+2Ex7dNu+gHIw4ynAoex7A1ESw0hGlUh1xbCJxVMKO77KOc1IPcY4=;z2HPgGBW1yg40UCaqvXnpA=="
+secured: "bYFoENWfIIvrGT5ULrx8RilTRfXfR3aDTFOEDWWNIGbtb8j27zCWPlvYFH6CRufpZ5lniwGqKhvlpejl7XPqnNFBTTiJYnZ/NS+XvUmSrygbrF1T5+O22L91sVoO9DWP9hkdxqtcf9wFLXAkyrkOGo1chTtI+xhlQfc40WlQ+4koXnS6ZTskeHtLGkbV+j/kl/wCHJXQmXsCfDF62C8rNP15Zb1vtikIMBpB787CyGtT6JkLn1JKHWKIGIdKBabjfhtVqKnoxvEwx0vt95FbanwT/5DPI22kq1QY/EmDVz4IsQm1nOs6SaZtdMjeKl064OIG5DU6y+W6MwLOkGHwW6JMl1I/yLAfEIR2bAKmP6M=;hRmZqI2NzSFurSIBY9ydJQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/"
 type: article
 quality: 79
-heat: 90
+heat: 89
 published: true
 
 provider:

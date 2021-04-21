@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "PAXAFE Raises New Round of Funding to Mitigate Risks Involved in B2B Shipping with AI-Enabled Contextualization Platform"
-    excerpt: "PAXAFE , an AI and machine learning start-up transforming the way supply chain risk is calculated and underwritten, today announced a $2.25 million seed round of funding led by Ubiquity Ventures, bringing funds raised to date to over $3."
-    publishedDateTime: 2021-04-16T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/paxafe-raises-new-round-of-funding-to-mitigate-risks-involved-in-b2b-shipping-with-ai-enabled-contextualization-platform-1030312624"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "VieCure Announces $25 Million Series A Investment Led by Northpond Ventures to Improve Oncology Care, Scale A.I. and Patient-focused Technologies"
     excerpt: "Series A growth equity investment, led by Northpond Ventures. An undisclosed investor is also contributing to the round. VieCure, an oncology clinical informatics company with an artificial intelligence (AI) enabled clinical decision support platform,"
     publishedDateTime: 2021-04-20T12:05:00Z
@@ -49,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "l7P9r8aMjv1hQ4VBouHbB9xme8ubkE5yZBYL54Eh4QIDdWLxH+o/hDfMFfSnPsNigTMuJp7yVLI5TV9M1/uNTbq5aI1cdTThffoa+aHdYc+78Q+1TTxShT9vVBwO9MNWXh5J+5Avb8TJbfYJxzoUryZddxgYB0W2cYBQPtNeyfdvo4rA6uZkYh5OSzS5SydIl/tZeDALtuwQXrMW68rJZgmqpmM/i8VUpDERPfYKQnGh8k7Gx8wX/siIiEArPgxDskW8mcQIxa8K6JbrT13fdrjM8hutfLt35yMg3vtUHe2zQ+nTxh4kWYUHlp3tTidyXm15qmIXJiLRE0gHiNNYsyLA2fgRFSwElAfV63HWPXE=;trJ4JNqcGTUW0Tsixr1vSA=="
+secured: "E9s3MMudHKrqOMjF65hQEcNcrIaLik+PWMDpXD4BNd9LoCduQg2OWVGSMpo43Kwhx1zYr7cLc1clC8vvIybcvAWsJV6ow07zHp1CIl511JKjbBnzuPLC0cS1dewjzlCl79cnE03GSStCMuPB+ydAlhOebdx5CTsTCWWH59ydW+AWXL9jMxFFgzAufS7O+C+5DhR89lHMNcGbnSliEOGG2LZYTDyWyXW68nik/jpucMmoTRo8K7vi+U4xasRZSBhj8rl9CXQFVds+wX7p/Ih3zi1cw/kpOncs0sRh6dlP9zpER66n/zd+u/5FcjNVJLMLoTEPPpnBMAvymhuWlxG4W8lQzxrCjWjG3s/268G2rw4P33J1ylf9mrcD8umS0lvVIZyt0C/N0QshKqd3TKnvvqNKvt3LHAIa4YOffjrAg//wVoyMec97/mns6oYgCOdqsR89ddptZhKRtjqqADdABh3FjlALihd+MH8en2+LM1MWocRs7CB0Vw9saFM8YFhvK3CSy0CMeP7Lgx6Ifs8LTA==;vHkgvobfjyKiyZU5ij9HKQ=="
 ---
 

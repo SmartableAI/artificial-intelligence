@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-16-global-deep-learning-market-industry-analysis-and-forecast-2021-2027-by-type-application-and-region.md",
+      "title": "Global Deep Learning Market : Industry Analysis and Forecast (2021-2027) – by Type, Application, and Region",
+      "excerpt": "“A SWOT Analysis of Deep Learning, Professional Survey Report Including Top Most Global Players Analysis with CAGR and Stock Market Up and Down.” The global \"Deep Learning market\" research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "originalUrl": "https://www.openpr.com/news/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U216465843_g.jpg",
+          "width": 638,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242874/global-deep-learning-market-industry-analysis-and-forecast",
+      "publishedDateTime": "2021-02-15T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-how-saas-startup-credgenics-is-helping-banks-nbfcs-and-fintechs-recover-their-bad-debts-through-aiml.md",
       "title": "How SaaS startup Credgenics is helping banks, NBFCs, and fintechs recover their bad debts through AI/ML",
       "excerpt": "Credgenics is an end-to-end, SaaS-based, collection management tool, which delivers customised strategies and recommends optimal legal routes to facilitate faster resolution of stressed assets.",
@@ -1383,50 +1426,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
-      "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
-      "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "publishedDateTime": "2021-02-08T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

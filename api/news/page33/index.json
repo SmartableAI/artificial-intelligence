@@ -2,6 +2,109 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-03-25-vc-firms-have-long-backed-ai-now-they-are-using-it.md",
+      "title": "VC Firms Have Long Backed AI. Now, They Are Using It.",
+      "excerpt": "Venture capitalists who have long funded artificial intelligence startups are beginning to use the technology to search for a competitive edge in their own investment decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "originalUrl": "https://www.wsj.com/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-316104/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "publishedDateTime": "2021-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-how-artificial-intelligence-is-impacting-multifamily-real-estate.md",
+      "title": "How Artificial Intelligence Is Impacting Multifamily Real Estate",
+      "excerpt": "Having smart units for the multifamily industry adds a unique selling point for any real estate professional or owner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b6c4a8bb8792c4d59b1f3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/amp/",
+      "publishedDateTime": "2021-03-25T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-ensuring-that-citizen-developers-build-ai-responsibly.md",
       "title": "Ensuring that citizen developers build AI responsibly",
       "excerpt": "The AI industry is playing a dangerous game right now in its embrace of a new generation of citizen developers. On the one hand, AI solution providers, consultants, and others are talking a good talk around “responsible AI.",
@@ -1012,101 +1115,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
-      "title": "Intel will build x86 chips for other companies",
-      "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
-      "originalUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/bunny_with_wafer-100881923-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
-      "publishedDateTime": "2021-03-24T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
-      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
-      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "publishedDateTime": "2021-03-24T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

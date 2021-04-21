@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-07-customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics.md",
+      "title": "Customer Engagement During The Pandemic: Lessons Learned In AI And Analytics",
+      "excerpt": "When it comes to understanding customer sentiment and needs, AI and analytics can be indispensable. They’re akin to the navigation system of an automobile. They can guide you to the best and shortest route to your desired destination — and that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/07/customer-engagement-during-the-pandemic-lessons-learned-in-ai-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c7e4bfdbcdb9a01d2e4c6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-co-mayo-based-machine-learning-start-up-peroptyx-raises-17m.md",
       "title": "Co Mayo-based machine learning start-up Peroptyx raises €1.7m",
       "excerpt": "Peroptyx, a Castlebar-based machine learning company, has raised €1.7 million in a seed funding round. The start-up is chaired by physicist Dr Dennis Jennings, who is well-known for his role in the early design and development of the internet.",
@@ -1132,49 +1183,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
-      "title": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut",
-      "excerpt": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut (Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
-      "publishedDateTime": "2021-04-06T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Research Fellow in Machine Learning for Automated Decision Making"
+    excerpt: "The Research Fellow in Machine Learning for Automated Decision Making will contribute to Australian Research Council Centre of Excellence"
+    publishedDateTime: 2021-04-21T06:57:00Z
+    webUrl: "https://www.timeshighereducation.com/unijobs/listing/252140/research-fellow-in-machine-learning-for-automated-decision-making/"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 39
+    images:
+      - url: "https://www.timeshighereducation.com/unijobs/getasset/16f5560b-818c-4a26-b167-fb25bea7ab3b/;w=600;h=315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Dynamic PET Image Denoising Using Deep Image Prior Combined With Regularization by Denoising"
     excerpt: "The quantitative accuracy of positron emission tomography (PET) is affected by several factors, including the intrinsic resolution of the imaging system and inherently noisy data, which result in a low signal-to-noise ratio (SNR) of PET image."
     publishedDateTime: 2021-04-19T13:32:00Z
