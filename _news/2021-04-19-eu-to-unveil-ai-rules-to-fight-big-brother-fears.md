@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
+    excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."
+    publishedDateTime: 2021-04-21T04:39:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/eu-unveils-artificial-intelligence-rules-to-temper-big-brother-fears"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/nz_ch-euflag_210471.jpg?itok=rARPp5hY"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "lNzCwssqFa5C4QyDoPbAeEXWxGeNYvMpd+Hn20GXl04xBCNyZdpHeCtfHRsAu6E6x9xb/VTpR9/Kh3SSha8aT7dYoRmaDgB0qxXccGCN71TefnJK9ma55hh3GiCBoMvaf7z2TAyx5K6f6/GdRkyjhMbsAB1RgAZEkHTh7l7JXPtGPPNkBYrv4sWCzLdl5IIy5vQqzGspmtaQcg/riQzcimOfXxIB7r+WklBpDnrne2GzSq13yF1tGwQjqxugKYL7k1kbPjFOf7H4xCuycg5T2pyrboVa2XMd0lSSkEfvrV2e6wi1Jc+OKAqenF+SSumwDzrNw+UirPoZ/nSGYp7sfSUHJK6Bd4Kw6ehJcRn9oyg=;U7R3NAW9Bn9CYJ0rnbqw5A=="
 ---

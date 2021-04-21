@@ -3,26 +3,20 @@ category: news
 title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
 excerpt: "Anari’s platform makes it possible to design personalized AI chips in the cloud with just one click. With this approach, companies are able to build and deploy AI solutions in weeks instead of 12-18 months,"
 publishedDateTime: 2021-04-20T11:59:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-small-business-europe-venture-capital-1a84892f276d468da7ab1602214d12a8"
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Anari AI wirbt 2 Millionen Dollar ein, um die KI-Hardware-Industrie durch personalisierte Cloud-Chips zu revolutionieren"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ml1hyr7PxqB4kidr/vfvzrRpG3Y/5mkQDBiFjcZNd242nPv2L5oh2rSOSBiFCDrKAlW2R2dosil8LkmzeAfsUflqnlWPR85UmIO7KS5IH5ROnIWG0i9toF7m01IpJmFd2fYORK6orSTW9ggBVP+513HEl+vgXLFT/XdNK7Jec5u9/x7SKxjT4iEcgK4FvuiUWRJT2E6TWcR2nXa/sOvQ7zM5P68koVw5+plmXbYrKYmEGIs7B7q59jKuKr65bsCQnfube6S8uQcRWvaI6oZFsQ4xvNlqJDF3fluKPvmo1xw1eZkZSNn5rtta9SJGI/QI3mxSWXhCMwyD80DSmi1MafXQ+Nwq6s81x/n/bnvijO0=;uqRHzpDzbVKyF5nJ5wsDuw=="
+secured: "lZ/FaUiL97tMEdhDwCyqdyVcOCnNJ/MeZTsqAAJf7p8NMKKgpaCybLJ0xELQB1UXZLjlLODeMxWC/9VIRKLRE4EwqtyMYtIY+mr8/b5C2B97jKGo1biwoz7DYVAocAw3ToH6Ukb9VnRDp5wPsgnM5oRB6eG8JZcHwco8wIOTgOb/7n49sEJoDjsdvzNgZlfrYYCokyNCModM756aYiLq8xvN/7AVCS58mDI8ja64YOO1hNxZZTDlF83lW+wQrcUUwXIHmSD7PkmGKBQnLShiKBBVYDipwSSL0IJj/SJr7e/8pM7PsRXhr1Esmtzbp/LP+Tv7P8xzWV5820fRvuHBlmNp43ulnCNlNBNvbXZ0BXK0DtKh0y76JG86zt4AZceWTSiEffA3hZ4Cj+7CgEc97lRtHmq2Yze9sjVFPtBJbp0VXRhPSIUVBkEJZhRAFjP53xme3CtkEhdjikKxZQB5/vsJgLiH23xw3mUiFwcCJFSJS3DorQsP6r0tly+7FBGjdn03HeXtP6zX9Gd45YaImw==;e2Dn36v50UclVawIRG6vcQ=="
 ---
 

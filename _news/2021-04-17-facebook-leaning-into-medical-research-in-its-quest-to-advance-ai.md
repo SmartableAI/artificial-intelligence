@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook claims AI can predict drug combinations to treat complex diseases"
-    excerpt: "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease."
-    publishedDateTime: 2021-04-16T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/"
-    ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook Employs AI Tech To Combat Complex Illnesses"
     excerpt: "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses."
     publishedDateTime: 2021-04-16T22:33:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/04/16120342/16-april_facebook-ai.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
-    excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."
-    publishedDateTime: 2021-04-16T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/16/facebook-debuts-ai-tool-predict-effective-disease-fighting-drug-cocktails/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/pills-4099841_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Facebook unveils AI model to mix up cancer-curing cocktails with existing drugs"
     excerpt: "No longer content to simply provide a platform for keeping up with long-lost cousins and spreading conspiracy theories, Facebook has branched out into developing artificial intelligence to help treat complex diseases."

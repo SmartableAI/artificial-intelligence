@@ -24,22 +24,6 @@ images:
     height: 1800
     isCached: true
 
-related:
-  - title: "Detecting protein and DNA/RNA structures in cryo-EM maps of intermediate resolution using deep learning"
-    excerpt: "It is challenging to extract structural information from EM density maps at intermediate or low resolutions. Here, the authors present Emap2sec+, a program for detecting nucleotides and protein secondary structures in EM density maps at 5 to 10 Å resolution."
-    publishedDateTime: 2021-04-16T12:59:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-22577-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22577-3/MediaObjects/41467_2021_22577_Fig1_HTML.png"
-        width: 587
-        height: 685
-        isCached: true
-
 secured: "SGDiwH7CzIXbkkkvNtFevqFGPWNB/2zk6QNVUfJirvqk46SarKeexCjsmsXY0H2qoRUifhRoWA4LU3vk0QCBN7vgXuLeNpR4mrP2x7Vr9OIN7JJd7soiN7Hs20QV1THiW0mC0vrCvXwMOFW6Y73x8kliyTUdq/KRx0GiSsBYvUlem/1DNDdXpBf5MXz2DGonzVsrhIAYzx+PJORBQPf3309Hmj1Aga3GYnYXbs4PWZZt7rI5XM/HzKgWknJzZvB8/JvJp3hq87AS8vUAUf+kmzcb0WDIl8lu8z17fGJkZSgm1hhiizjDBDlCp6L5jWJUUt24RLM5w6WS94mc/sNFO9ccLObrSNB6esp5GnDLL+sdEwTAvODB8nyFg/NLVRojBhmopSJDAWHfSUzWPmhXIn7dh65zA3I02/WX9SdmRTutiCx0+tI+Kkb5TRSyrYGgLuhFCLOJW8T+DWiEXL7OrInPZexJxGnQdh+fcNHP9c0C9mjeZRhjwuq3oGgr/Qtng7fqrS76+aj9714vPfS5UQ==;yz6MFZwl4t0r385WmuVZDw=="
 ---
 

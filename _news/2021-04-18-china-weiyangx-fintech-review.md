@@ -37,20 +37,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Fintech’s big week highlights long-term opportunity"
-    excerpt: "Financial market coverage by the UBS CIO House View. The past week has seen two key milestones for fintech disruptors in the world’s two largest markets, with Chinese payment leader Ant Group announcing a restucturing to comply with local regulations and US crypto exchange Coinbase making its Nasdaq debut."
-    publishedDateTime: 2021-04-16T12:11:00Z
-    webUrl: "https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/house-view/daily/2021/latest-16042021.html"
-    type: article
-    provider:
-      name: UBS
-      domain: ubs.com
-    quality: 24
-    images:
-      - url: "https://www.ubs.com/global/en/wealth-management/chief-investment-office/market-insights/house-view/daily/2021/latest-16042021/_jcr_content/pagehead/opengraphimage.75733263.img/cable-view-of-skyline-2.jpeg"
-        width: 1280
-        height: 672
-        isCached: true
   - title: "Top Fintech Companies to Watch in 2021"
     excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
     publishedDateTime: 2021-04-19T12:49:00Z

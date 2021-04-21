@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Pinnacle Imaging Systems™ Announces Denali™ 3.0 Soft ISP & HDR Sensor Module for New Xilinx Kria SOM Platform and Vision AI Starter Kit"
+    excerpt: "Today, Pinnacle Imaging Systems™, a developer of Image Signal Processors (ISP) and High Dynamic Range (HDR) video solutions, announced it will offer its"
+    publishedDateTime: 2021-04-20T10:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pinnacle-imaging-systems-announces-denali-3-0-soft-isp-hdr-sensor-module-for-new-xilinx/article_c4ca3905-c518-5b80-9c7f-3db9432a98e9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VCYSkMJWCRermgg2HyiRRtzq+0l4aeBHL9SGzF7nJM7Zk0BpQAu29gpesF6B6AxDeXZhWe0EUlmOE7nUmi2j30I0QXWj/T71ugf5MVV2z4Cex102ISD9x9wydQs15JdFlKAkqUnNoE1zg/LGLpI1VGslt7LToe6Rbrd1ecKVB03KYwvTtKxPwUbbtYdY60ILF/tCw60CvQ1kvNS40SUYIk7XMm2iwG4sT/x/3hEAuz/OJUANE64+OidswGFEVUlKnpb5+vn7Ucv9vgbyjyB4vNpDV23622vbMB6JecNi0/R3xmlDktc+FXA/3j+Bs1mTDgctdmLDpOl70kiBGV6aauWeGyFDTmYVOu4yK+vfxLw=;hwCxoRkARDjHQXZzLTRvZw=="
 ---

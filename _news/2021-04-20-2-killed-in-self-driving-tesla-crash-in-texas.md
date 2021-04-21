@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
+    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
+    publishedDateTime: 2021-04-21T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
+        width: 1196
+        height: 748
+        isCached: true
   - title: "59 and 69-year-old men dead after self-driving Tesla crash, authorities said"
     excerpt: "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside."
     publishedDateTime: 2021-04-19T03:17:00Z
@@ -213,6 +229,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T22:25:00Z
+    webUrl: "https://www.indystar.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 6
 
 secured: "osociiZjXeWwoTE62BCBA23NGm3RJ8lJWdQ2m2w9biFULmHZdeAPNxo3YWi4KD6hC5UJgU/3kKuBwhJwVJj4EdMF6GpvKuayyWueTPcg/Px9VuPiRRCKQ6qKpsY/wkxaXXxFUeKaflgiUGjl61n/oyUQPinuH2+NPHAwqZzhGgIWDPH9EsBYVKFq4LoSOYfudCpwEAMT/A3oRsSQPXTxGa8j1oypX3PONu9M8/W4xSfRVYlCeACgCz6x2n+fOWQgzj3guuL/Dp0Qn9T76qYojCns8TaLmYBa7z9Wkqgrj3mnz290hOKeVM3y/Fgt+A7Ic5Wnd48YFtvqiXoJPVhbJWHbc2i0S8FfgBDPhv3FOpChiSTJalESmCM0PNW7fo20mhxdDdo9jr+//YhwbAJWY2ZZ/PeEa/bNSJdT5vafySXuYoEyOYHpr1KV7AAKXsFWX5wvXQ1LSgtDGLewZ2hcG0B05wa7c7mcW5wgHxus8YmxMWl6KqCdAK3dmpIyRHzVQ/J0gSBaYH1FDJ68eYdBOg==;VxFzymPazS76WDAn/nKfHg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-fir
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
 type: article
 quality: 54
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
     provider:
       name: Morningstar, Inc.
       domain: morningstar.com
+    quality: 4
+  - title: "IBM shares jump on biggest revenue growth since 2018"
+    excerpt: "International Business Machines Corp shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting chief executive officer Arvind Krishna’s turnaround plan is starting to bear fruit."
+    publishedDateTime: 2021-04-21T03:32:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/04/21/ibm-shares-jump-on-biggest-revenue-growth-since-2018"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 4
 
 secured: "TPWyhktkP2xYE20b/5nr8ISE/lmgc8XlyBKBmU+io2seHX+Z+yivNAsMhjZJnEiFyqd9wUQuGEx3HvZH/5DwQ9SYgf28QunE0wyxOJKWpGPQCLfG02WFcgUZkmu85UbZyPkIvHSJLyOvl377hASXvcbNJtossth9NrcSSFyFcakOywGHIkuZAfTBJlxco8CfRlGQr4Q7P/VmGx6opDm/d2MZz7YXylQ3ruTmZrvplVa5TyE3WAGk+tfOUe8DiJGAXFZciU5vXOAHquNInUEs9ZAMgtA+dAz5rSWnRNMczkB3gC3LyRT+K8fkIY2W1W7NaESCbGO1mIwTIyuQ8YUxBAHfRfvbJ07uLzw6lkpSHhU=;lacOFJq4mDUPnbjCkGeMrg=="

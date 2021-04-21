@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook claims AI can predict drug combinations to treat complex diseases"
-    excerpt: "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease."
-    publishedDateTime: 2021-04-16T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/"
-    ampWebUrl: "https://venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/16/facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facebook Employs AI Tech To Combat Complex Illnesses"
     excerpt: "Facebook said it is rolling out artificial intelligence (AI) tools aimed at predicting the best combination of pharmaceuticals to combat complex illnesses."
     publishedDateTime: 2021-04-16T22:33:00Z
@@ -84,20 +68,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
         width: 2048
         height: 1152
-        isCached: true
-  - title: "Facebook debuts AI tool to predict effective disease-fighting drug cocktails"
-    excerpt: "Facebook AI and Helmholtz Zentrum München, the German Research Center for Environmental Health, announced today the introduction of a new machine learning tool aimed at helping accelerate the discovery of effective new drug combinations for fighting disease and cancers."
-    publishedDateTime: 2021-04-16T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/04/16/facebook-debuts-ai-tool-predict-effective-disease-fighting-drug-cocktails/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/pills-4099841_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "d5YLU/myNrt3B+o8YL0fD3U8YMN8N5wqLMyy7yvZ3o7lyYltLsyhiKLttOIMRci2vK9SgUDDbjGPu3i+vh/MREAFGA5Bo+Socmq/mFpWs/V4FWZvdl/BBXGrKvq6ScX4O8HytrjQ8Vq4MUxa8Quuy4pTkvTpHMlUxNeCLMqtT1KM2G3lDXtovZ/j5gS3heWD3+5NwrMmiP6Wf3ZODVtkNoE17vEaYQfPwwGDQY19vvChHQ0UR/pEJ2Qebkp65Vxy0ufOsuvDyCAp6f6+VyQ0jE9Chxx6yoboZhUSMw8MNN2nr9YpFkYwjyj5xtBkS/jsxRWDpSQ8dmSJ5leARnhoLJfvy7bXZM9PoyqoJWAE0ts=;3W1jJJLinq2mt5evmbAAmg=="

@@ -87,6 +87,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 4
+  - title: "IBM shares jump on biggest revenue growth since 2018"
+    excerpt: "International Business Machines Corp shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting chief executive officer Arvind Krishna’s turnaround plan is starting to bear fruit."
+    publishedDateTime: 2021-04-21T03:32:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2021/04/21/ibm-shares-jump-on-biggest-revenue-growth-since-2018"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 4
 
 secured: "dS25Wqhx/SJaO1cgPkbN90wBQGV1oPm4Zp0Fd6GL9vNH6WttiBxYS6oOffvooZjAb+4xLZSX5GdgLnLoOVOqwVyOk2ThABv3HZuRRi0UmLV2+q7Fh2PPQPKFDevzpGLMdUN6KJy2c8nGmKXCnH/vYbDDKKcJJUVuLJzRHqH7LTRY0fgw/IQK3atakBHHlLKsIK+KBzPuekacOXhbn/bkTaU/c+1dldS2VB5TRXHfcvoDrdZsPsAmg6gah5h5kfoyaPJuUWcBWxuOgXtdZpXpbMuuhmJDsclOlviL0lR1JNxLUDs0Pix1fOKGKMPTwakAyIqoPds5hTN7pFidBr1xUw3iR99OgDAmo2UDu62H8hSGmVo/udLPJlS4cMuNAK2XlnvuhTBy9quVgpRNuVRms/OJjiTJRNdaFvv4ZEKGZIk4TNs39/5YYQe8nZlQ1LvTIHgv3s07v7JHp99RLUpXveanixwbh3/E8bEroL7jhF0o561aKFYDklvcHzBc/eQ0Y/BsqhFRGzefJv28ruJfYA==;g1TXNW3reOq89bu3tmI/Pg=="
 ---

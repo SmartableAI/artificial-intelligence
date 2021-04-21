@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Lilt Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "and employees irrespective of language. The company has built the world's most advanced translation technology that uses AI and automation to make every step of the localization process faster ..."
-publishedDateTime: 2021-04-08T13:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
-webUrl: "https://markets.businessinsider.com/news/stocks/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-1030285745"
+excerpt: "Lilt, the modern language service and technology provider, today announced that it was named to the fifth annual CB Insights AI 100 ranking,"
+publishedDateTime: 2021-04-08T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lilt-named-to-the-2021-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence/article_9105cc5c-5f80-5ce5-bb87-7f52813357ff.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "bq6bQ1OxdTP0LsKSwDD2yzIHgnchLaqCTsprFgN5Y+h1xLdpSJxdLSp7U+OkM7rKhMBn0AZbgazb1ChN/oWBfYxbcm/filPS5E/Ypfwjn16T6W5AeQQdd9J2hWDMRL8CN7irO9bDbM+1BKJf8i/gfuNJFiWUm4QSofJsA5JZ7KdNhuEqTEERZOT6QGYepS2hlWsIJAXtrtLxwZ6/nkp+aW2fLEZDZVqkSoGMuq603jLwJai6OCrx763kYMEHWiRVDUwKHDKFwyUTjG4zo8zVABoX5FVKsaHZhbwAP/yTuLhy5xXpRweA7bTZvFyOZlWQXPBzN6UIVG1KxvgQi1/6Zt5SJZ1l9o/Pa4wpvrl2hOg=;Kxxbx3C03/bdqTKkJTzX/w=="
+secured: "YEgMh4DTM9U+EtEj9Ep7ufb/JsKzOMTQBapK0Y6yDngDvR5NWSbvAoREHEgbIOFqUlVVVQcCvViSNKwdJJeVduOQMwMqEvgKJEgxjz+jcliFHJpXBPwLn+ADSnRdG4IVWSZmvxY+vWWImazwAHcLw3tOgPhItwIcL8yy7yLMbe5YbJN3tz2CEr5qXtE1qfFq6TRHD830j0Il3qhbagRbACy5HwBJrvytPGWTQslNvP9r/r4b4ldwk7skfYLIyb5ZE1raUrHUaqd/271oTPd75jWyKBjRbx+PgptSmMaNEE9REbNfpEtHdlvQF554ata+fyEmMAo54jlT9D4ZrM+mN/zB1h01hTer//4q+mdf97zWRDe7w974tjEsloVa/40rarJy/Fmez9w2GzvWjOXv0qFJQ7pTXmEB0RQBde6G5I6nT+Tp0MgaRZA/B2rVaE4qMiKn9/jw5saNEqZhcCGMIN/EWPh3qoxeBTUBeSuGTFp6HwKo7w+M4b8GXT4MHf4rhj2VXWZaGsAr1czSSkguSA==;f88SRFhj6vb3SECMHgljvA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-han
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
+  - title: "Pinnacle Imaging Systems™ Announces Denali™ 3.0 Soft ISP & HDR Sensor Module for New Xilinx Kria SOM Platform and Vision AI Starter Kit"
+    excerpt: "Today, Pinnacle Imaging Systems™, a developer of Image Signal Processors (ISP) and High Dynamic Range (HDR) video solutions, announced it will offer its"
+    publishedDateTime: 2021-04-20T10:10:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/pinnacle-imaging-systems-announces-denali-3-0-soft-isp-hdr-sensor-module-for-new-xilinx/article_c4ca3905-c518-5b80-9c7f-3db9432a98e9.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Ow/E7gLUr1jIpo8jsuw1FGZGrBcWGHL9JwXbrYRiuz4bCMJOOmd3pu9m04UNCr0phn+WmRKLRRrVOm0B6fx3IklbQnpCO+ZbkwsBZCFAuVzGNM3uZc1vHUVI//7BHjjsTVCSojmykBhbd4n1f0fwg9lme9VW1T3pDr+W9+R3UiRqCA3+rSNll2I6cxDttsj6T2iYp6wLPNrdXNPL9JvYtzLC2il1c7NPw5atHlACoM8KkKKhIBDoMVHiUKMeZKIhieHZTrbIUcLsK502mXfUukM57UW6zn7Ut3U2rF7+gUiTS0xRBT2el4yM24YsVnwEKSCvjdIa5rkfk0xsCKROM+42tbjbQLRMIlSDREmV4fkQFAVqhqGByaXqE2unPY7CTI9AKZWqhxyaxu4rsxFZfjbhEqbxcBGLMhiknkgR/IynEXvbg0ZLm/50GltMjXuIwnYtluuxCHt5SEte+8vCzJgwZe0sENgkE0FBvPm4bBjI4Y6vbt7EjXoU4y9T41f2P1G3jz5uxUFQ+ceKekPbpw==;Oo6mnU9Ybgh07r18UomETg=="
 ---

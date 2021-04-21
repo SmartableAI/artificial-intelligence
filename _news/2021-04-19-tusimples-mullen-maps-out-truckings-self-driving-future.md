@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/
 webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21161589/qa-tusimples-mullen-maps-out-truckings-selfdriving-future"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Driverless truck developer TuSimple debuts on Nasdaq"
-    excerpt: "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ..."
-    publishedDateTime: 2021-04-16T09:04:00Z
-    webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
 
 secured: "8lsIpHZS5gnFNTKoimyibc4cXg4tddyM72xJI3SY1Ew4FJ8s9xG0eP3Ck4TvOoCDiO4HCknBoNS9ZQxj7f6uu0cUjDUtxUxt4e4/z1fgZbhCIh1fqWNJyjfXj0jRDIA78d4clkVHPT+PsDWqF19edcjpNSpRsm+MEcUkqpSCN7XbfLCNKtWV4llhf9s/tsZn54KPwHi/9cS88G5zB9G4xWc1lec29a/Hop/UqkjA65ekrhYo6loW6Dj4Pfn1ZyTNDA7vBWKitxZO0DeDLUsxGliUSjVGq89Nxd+ZcEJQs9mcAlSwWLusgOqYpkBiVAhybiDnUyQov2eE4gMqGi1RWWfGnlNKCzNwiRJSiXUzR4o=;wmw3AwzV7nV88YacRlm+JA=="
 ---

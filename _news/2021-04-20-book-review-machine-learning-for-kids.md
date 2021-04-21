@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2021/04/20/book-review-machine-learning-
 webUrl: "https://insidebigdata.com/2021/04/20/book-review-machine-learning-for-kids/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,22 +26,15 @@ images:
 
 related:
   - title: "IBM Earnings Preview: What Growth Investors Can Learn From Big Blue"
-    excerpt: "IBM reports Q1 earnings tonight. Don't expect much sizzle for IBM stock, but some of what it says tonight still matters for growth investors."
+    excerpt: "Source: Laborant / Shutterstock.com Investors who pay attention will be rewarded with some scoop on Palantir (NYSE: PLTR) and Microsoft (NASDAQ: MSFT ), two tech growth stocks clearly on the move. Here’s a cheat sheet on what to expect,"
     publishedDateTime: 2021-04-19T14:55:00Z
-    webUrl: "https://investorplace.com/2021/04/ibm-stock-earnings-preview-what-growth-investors-can-learn-from-big-blue/"
-    ampWebUrl: "https://investorplace.com/2021/04/ibm-stock-earnings-preview-what-growth-investors-can-learn-from-big-blue/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/ibm-stock-earnings-preview-what-growth-investors-can-learn-from-big-blue/amp/"
+    webUrl: "https://www.nasdaq.com/articles/ibm-earnings-preview%3A-what-growth-investors-can-learn-from-big-blue-2021-04-19"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/ibm-stock.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
-secured: "3BzJ6URKKgJj6MQ99Ni5I+iHpyHoEXAThmc+88ALIO2CxVlWkvpmnWMkWzLZrTD0bR2vKg4kr49fD4q3sXAqFioFS2Sha0nsXCm2iordLeJ/PfAwRHOY1UzqIXkfOYiwgElpyi4+0OmG4oK30i3G1HB//aw22bmOQQC1aAohgXXs8dxG5sLsVVPERImHevwkrB9koqKt3VlmusR+Sokduzobxvtet/Xw9IKB+zlHszJ+NgpsabRnnlX29dQ+B+7m0xrcKoUcSblE7BVL45AdRfGtdBe2IM+8Gum1pAXnKHsVzHracasOH/h/LBgx4NxXxlhugz1/5UfzeIjJqV7gaD9ISfzsJApyJjaUO9SGSPA=;Km4aUhf3/Ard3QuZ/beFOQ=="
+secured: "mDd6EsQfS/smJQjENdtQDJs7meT4sSnAqUlUbylsdY4LkSzxjBOJuauh/8poBpKEktAnQtQWEYAWSzjk3ihPo2bzvn5b1Clt0NKYGaa6kI+kDgTLuneLPeaUlmnunC3qgfhcnhnFn81RfOJ/Bexly86tp1qMn7dolEsoMZs0sVxSHaL57IQmcaRlb4U0F/Ka9R0Ja/f+sLz2EkY6MzY8G9L06SdSCzpS0MnycbPo8bLa5kkrcAoUjK5oz970jnYCZjIeFATKo6MNk5PrbzGKV4h4ImRkfaZVc4DxaejdQ6JDtl3u34SUNJpE2HFwCJ9MmbU4pOvKKNA+g+TeMTNHYHIJKFdIKQAkXsbBDCRrnIljhLwIoMm1L/COVE8V5vSOfjjOscRm/peuoh1aE4UmgXy+vaHotajUFlMBYkz6O21dTVrfRD9XHDyywYj09kQjviDCPm3dYMEkSzDu9H41unql0X8PH8iEd7H3EKhVAT+5759GvpXBQD83Vd7Vzj5G/IM7CbZYUzZcelnCtr4iqw==;1JmGjRdmh0+iV0LzVvxGcA=="
 ---
 

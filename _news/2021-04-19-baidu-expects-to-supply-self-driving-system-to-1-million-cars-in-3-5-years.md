@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ..."
-publishedDateTime: 2021-04-19T10:03:00Z
-originalUrl: "https://www.reuters.com/article/us-autoshow-shanghai-baidu-idUKKBN2C60AN"
-webUrl: "https://www.reuters.com/article/us-autoshow-shanghai-baidu-idUKKBN2C60AN"
+excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ..."
+publishedDateTime: 2021-04-19T04:36:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
+webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
+    isCached: true
 
 related:
   - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
@@ -91,6 +95,6 @@ related:
         height: 533
         isCached: true
 
-secured: "0FK/5m8oONIiGd6rky721CU/fDxfjVZ9FSCDHuygmZ4ZzU8lz+zs3RtTvwMes9MZC9aNrZ5TOJ5k9N0UIqHWmKahO40A3cvr0CtI2dLv1vJ+NHZec4/hJyJ7AEg0NeQlYhauhzrqe5WwR0vf7zvviiAjO4h7e07D8qDFvYqx0YcioIIR9lx7qi5Oz/thAh8WbnzglfpQG/M2Mve1gASaYV03OMHA9Z3j1Y1knj6a3mpRv4x46Ar5/zwttMDFGkglj3mZZRFh9SjhA6bEYPSVzGZzqyJ9/LOvPpXuLf2kgY7ws2lcbhs2Y+u73oKEwoXvGtRmGu0iiY3qLcsgiVN/DVpWb/JY2e5zfuKSb5zlFF8=;rwjDu/UodxZLlj0l7aXTRQ=="
+secured: "qtrkG0vSkDMRdU5vS1MwBCPAajSRj2NsJvCz3L4NpxxThkalFb+BwEeJPaHJArm/Rpt8yKdk1MlgLQedpPJ6IJbRh8t18aIx70I/4Y1M47dYLFkFdnzPfb22H1Y/PvBQIh4PHGaDoDjybA1t1/LRmeF826z+QC1Rc0+RJYN++s2rEPGygYxur+7PnBlfg3sZZjDqpULS3HWjvWNH5CaWRttyGDMyvsEWq6omBkQ7jGU3PxdSbih7ZHkhF6vutwjpxnkqeF2GPevUblJfY0Ho0p5+CkdgT//pmvjTKu2u5CD3N3xXn9HKRRA/HmWDH2u0hgL9Cx0qsTLfJLzQAcyEYxgu4fyjb5xg2mXRhPXfKno=;7RiZrG9ezVUwbDCm7b9zqQ=="
 ---
 

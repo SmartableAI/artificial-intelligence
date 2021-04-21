@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "China and Artificial Intelligence"
+    excerpt: "The U.S. National Security Commission on Artificial Intelligence released its final report recently, listing China as a strategic competitor to the United States in this field. The report describes China as a U."
+    publishedDateTime: 2021-04-19T22:50:00Z
+    webUrl: "https://thediplomat.com/2021/04/china-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 37
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2019/03/sizes/td-story-s-2/thediplomat-china-flag-cyber1.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "NbC/n7x28bBulU14uQ6n692UrK/Ho/zUta+xMUWuAV8bBquqw28KicrqXNFqT8zEuEJ0Vk6N72mQKlWm1llTyXdWtpJBwyqDN6qyt/38n7MEMkCwauQwsOXfAvxOFn9/F5JAA+ueZ8PEB9HDjah4CzN3AZg3FX8hU+OAxO5s4mZujB3Yanha23EBKrGk+1NvUGr+7jM0d1AFsFjpVrO73oXcGkvHcyC6bJ3UqRAZWix/CTsNRi2qYGhp/YEF1uR1cTDUPxpNmhT7Ynh0MPQR1lMNuoYE1O+CYvoC7jBRntPyt+PUUWdsD+MzhD3X7oT9pnpqa+3WHqA28DuhOpVS2uQjiNrl9S6NGaY65/ED4zHaOcDKCmw8vOsOdyU5l7f3kWdJhyuB8UQftAv7X9hVETbqTl60FsX3NOjWC6wob6WbWzZDoRhHfM9Ux1ONpk3H1hgnxPP9WEFHEZog/ig+ay6A0i2eRXIOVqMfQo/y8vlzI3WgRTn8PY87aI23Su2Xc6ktDT9Ace12N4z1HWfgBw==;Obh2t5+mWiENJ7dKli1Vxw=="

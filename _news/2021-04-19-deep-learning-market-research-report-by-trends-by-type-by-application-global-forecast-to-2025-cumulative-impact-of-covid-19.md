@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Software Market Research Report Includes Size, Capacity, Production, Revenue, Gross Margin, Forecast to 2027"
-    excerpt: "Apr 16, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Automotive Artificial"
-    publishedDateTime: 2021-04-16T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-research-report-includes-size-capacity-production-revenue-gross-margin-forecast-to-2027-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "JG6YB7AbQcHVyaRygKHLCAPySR2Hzfk81DFube7n+sP/kKe6Lutm9Q8F+sngXZB3VgP2pwZmb/ulShW7zsmF0rINk3/yevr8fYSwFi70qDNn/VywkEOM32fbQJwYrJ0KFttYBXLlc4riSNEgoWFRN8BctZYhTIZbN0T1fjEDBNbAGfm7hkEaXELBuNz2dpzJ/SA4vCsf77yfc9bPJLso/MIq4IvJd7587Uf43XmwLLPXVhP3y5WaFUYzqxyjghUFIx868U+fQoZYabyFbZ7Hh3snen1+HZ00q1O/GTtx7dAfVT0bNAHVVKZIkEUm61J1Rz6GU2SfinK/W7Sxv1PMmd7bwmUPv39Q8ezYiUVkwh8=;Nru3waKtrWXa31xUfoXWLQ=="
 ---

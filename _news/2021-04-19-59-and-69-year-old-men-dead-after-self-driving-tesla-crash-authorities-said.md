@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
+    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
+    publishedDateTime: 2021-04-21T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
+        width: 1196
+        height: 748
+        isCached: true
   - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
     publishedDateTime: 2021-04-20T04:01:00Z
@@ -213,6 +229,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T22:25:00Z
+    webUrl: "https://www.indystar.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 6
 
 secured: "+F9QGJgHWpNozfLBuQ+B5DdI4cxl/7/FJRfaNSgWdKCtS8HZpchQvZQtk4PkISUik0LoEYY73Vsd7P7nLT48bzgnod/cHyqOme8oyxsHjN9Yu1FsZN3fgsPCddYMh4AzgCnzCWGmEP/YMOT59jZXTlMjQnIfTOMAXMds/CrHRwuLif//ELzUi4WvbAw0TDSBQ7vgARzVXCBtNZJpWe45Fwh8a/e4MHwb++cnoaAxIRFawdcDt0XZppI57Yl4hagnDqXA51gzZx9hYQ6SKfWikc3OgnXl+GlA0rWTgw6bvqOkslebbdcR2rxWv22Cb99KFxxm0iEdQX42JZK9OFmrwUDzLWW9bjkBDcfolafgjmJh9DLopiuNcwmppFbuvSIH/9BzpEkc2aV0hT7Y5dT7h9XFZUMhqecSRzDbEkzTSQnbMwVUQRT2nHELnFO21SvxB9W/OttG0HJnNqhSk0AJhawpfwj5ant1qyjXJguvpszgUTwfJ5P9sgUz1niiacRgBcyfmLQZIcLsm+vdgapFZA==;sZ9BwMPDL5vY6fA0Rep9hw=="
 ---

@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Great Wall Motors introduces new WEY Mocha SUV featuring Ambarella-based AI vision system"
-excerpt: "(NASDAQ: AMBA), an AI vision silicon company, today announced that automotive innovator Great Wall Motors (GWM) has launched a camera based in-cabin sensing system based on the Ambarella CV25AQ CVflow® AI vision processor."
+excerpt: "Ambarella today announced that Great Wall Motors launched their new WEY Mocha flagship SUV featuring an Ambarella-based AI vision system."
 publishedDateTime: 2021-04-21T00:17:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-2fd2e127b9184ea8aebfc28f66f68437"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-2fd2e127b9184ea8aebfc28f66f68437"
+originalUrl: "https://www.businesswire.com/news/home/20210420006239/en/Great-Wall-Motors-introduces-new-WEY-Mocha-SUV-featuring-Ambarella-based-AI-vision-system"
+webUrl: "https://www.businesswire.com/news/home/20210420006239/en/Great-Wall-Motors-introduces-new-WEY-Mocha-SUV-featuring-Ambarella-based-AI-vision-system"
 type: article
-quality: 30
-heat: 30
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "/iyX3I64OGZFkfK/Qgi1HdpqFcsSVJ8RuMPR2eTvRFrg2ZC4m/hAm3fwcYyIq5eXsFxHcvQ7mfLWGPaokaIpolrzYtiBsySy6slbq+QQAKqMSwy8XgD11Chw2mVAWacvT4j/AaoTY8oMrx+IEjjpPzBIvU197cNKIX2hvDb+RM5bLCp7Wu9qS3DtWNAdedqpeCRO522BqzY8r47fIiU/AXWYjzL269m59+R19sxVpg8eCTGOE44TlKOZJjgqpGqqMVy+uzr5ufV6YdpakfyXpKQofcZ2I3zTqxyBpo902LJm62PjVTXt6hiAAFApU5R6I+rYvlwmSm679SCu5pFS1HJZKzFAi72YkPo53K9w0y4=;kSId/nFH+bgji1DEm4XFyQ=="
+secured: "yerk8VPBpuoy/UJD5ATkbatHfHNo/yxK5y/qE/9QQWSoulFgY+GTs0l0wrva1TxDSxPrflFONx7ExG+0qoet7j2aXc6mWt090kEhNa02EpJ/xPIaWE/9s74dGlB8vf2Gd+a7YiiHf6JBDTgOiTjFNWT2rCLN29oLWa1j1S9IOGYGbYwQ4eLGFg7u35ThFe5SogeJoZyPyF9J0icBlsE2kNNBUYY/fyyjrpLIO92DCGvcZzN4mxFXhe6GJkA3/uWbuJaAVXcjo/mgsQTpezTlDBqlTMxpiRJtPTCA+J8rQ+D7nDJk/WHZgGGBfpVV33Cpfg+8yCJsoUrupLl8Wk3pE6kTKxYTfLmoeT/EucscWBjN+Zl9oHI3gIxwGoNFIz2tlDkEwmacOkrKysJwv4mrGORHS0+VUfwzlXOAeHQGY+ZokErkf6Y3rZU8x5CEP+Icqmk4Y0qAPWDD9l9gyab4MIcs2rll2s0lFpwjpRQefvR6PvRwcD4d3X7prpO2OGSDfCxwo7+fo2r8g7FlAePLEg==;nTOtAseZUG8GQ3qdbezlSw=="
 ---
 

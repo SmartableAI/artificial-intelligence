@@ -37,6 +37,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "California based Fintech Wealthfront Launches “Final Set of Features” for First Version of “Self-Driving Money”"
+    excerpt: "California based Fintech Wealthfront launches \"final set of features\" for first version of \"Self-Driving Money.\""
+    publishedDateTime: 2021-04-21T02:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174405-california-based-fintech-wealthfront-launches-final-set-of-features-for-first-version-of-self-driving-money/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "LsfDHFC/Po8v9nZgcgwlRk1akcQbmqlCW/DZ9MFdg0V7UH5gtx02EK/nI4IHSBOn1+JriWjkGDW7wUk6/hSQH4GfphoIc/MPCgEh7XlChsUrePY53pm+Ua0SSg1jFhmkO9SUTYit3DBhdAuzB3asVVfEav0iprRdy8gruz093gk7+YKZjUT7yjn+T3NL4w+U/ZjBX2ThYzWYBMP0vi4AEUQ4HJMa82TM+MUmOMKDPPmx8ckh2GR35pBgfFu+FQBamHwcmBe8gD4rYE3tNm+YecFTPYULYU31mqQBMcRlBAZc7AQj7HOmEzgKaBSsUm6511sfZRmvNgegY+7Ua70ksSX+rvoqDIo2CMhJiOT0EZivt2Io46qbucqNZ2mQyabj9kYnEvAu/fuPqcBse/QUSyXS8CWjb1KPwvP7j9iXpn3zTcuY1Fn7gwzlpkuFVfIVOWNZRnMV7z+R3zMiY4TULZaEiZYiPG1ipJNORFq+UFjLBSHGkvX+1jfxPOdlPGMpgsD0xH7FwvzwZ8yHmb/VlQ==;3oHWnr0q9aig45gPZhedDQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/teslawreck.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
+    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
+    publishedDateTime: 2021-04-21T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
+        width: 1196
+        height: 748
         isCached: true
   - title: "59 and 69-year-old men dead after self-driving Tesla crash, authorities said"
     excerpt: "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside."
@@ -217,6 +233,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T22:25:00Z
+    webUrl: "https://www.indystar.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 6
 
 secured: "5CpJNcxJ6nEYkagUC/pzpTltXPbDV9eRdbfq1Li8Os4JH3cyAgj42n4VCY9uXg2VFx6oa4hLN/6K/9rBBXN6E6CBqF/KGq7BGd3ofPSvgTM/Mlv5rHpZnhkaCGcHOEKegskKlxuh2dSbk16kCHCM3fc/sV8JgU8E7WptXdbpsN1PaDToL8xb6HhFqO3/dWDUtGndYtcmhU8mvvGj9Fw0nQn6bqyZ5FCjSp5xuh/t5j6AvMdYZhFU3SffdQSWNxnvmqvgC53Mc9PvHvHxFgOQHi+E+2tQ4A36bExAgFDKMncZSKDSawgolRQ6ZZaxYbrhfcfrVpfUtK3bNcUfPb6h2Uhv9pj9WVQ3ebkGUirjdRiqr+pDrqGE1yC1Sl4k3NJiNbMg0zhJm9TTsZtY/hCbyrcNxqxLtP8NmjGBBo4l180Lgc9n97JrZj+ipaMAVT7vfQwoUHY/Ig3wRFlglPkjhBRtTQ3wD7kEagqCy7v8S6OwoBDh1dLChUepVa2VY69d7LqVrEytqcruwussDhf7eA==;NdtvjxThPV/s+wYWv5m4mQ=="
 ---

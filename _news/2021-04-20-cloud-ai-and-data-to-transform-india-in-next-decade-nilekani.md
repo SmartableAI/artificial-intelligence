@@ -43,20 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Latest Trends in Robotics and AI"
-    excerpt: "Latest Trends in Robotics and AI By CIOReview - Robotics and artificial intelligence are offering innovations that were considered impossible. FREMONT, CA: No"
-    publishedDateTime: 2021-04-16T10:08:00Z
-    webUrl: "https://www.cioreview.com/news/latest-trends-in-robotics-and-ai--nid-33369-cid-75.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 69
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_24enQ3t0.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Cloud, AI and data to transform India in next decade: Nilekani"
     excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these"
     publishedDateTime: 2021-04-20T23:26:00Z

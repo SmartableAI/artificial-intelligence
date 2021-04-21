@@ -22,38 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "Danish AI startup Abzu raises 5.8 million euros seed round"
-    excerpt: "Denmark-based AI startup Abzu has announced a 5.8 million euro seed round led by Danish Seed Capital, Inventure, and PreSeed Ventures after Abzu has seen increased traction with several of the world’s largest pharmaceutical companies."
-    publishedDateTime: 2021-04-16T11:39:00Z
-    webUrl: "https://arcticstartup.com/danish-ai-startup-abzu-raises-5-8-million-euros-seed-round/"
+  - title: "Hive Raises $85 Million For Contextual And Branded Content AI"
+    excerpt: "Hive, which supplies AI-based contextual and measurement technology to media and ad tech companies, said Wednesday it raised $85 million in funding, valuing the company at over $2 billion."
+    publishedDateTime: 2021-04-21T04:04:00Z
+    webUrl: "https://www.adexchanger.com/platforms/hive-raises-85-million-for-contextual-and-branded-content-ai/"
     type: article
     provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 37
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 39
     images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2021/04/abzu.jpg"
-        width: 1234
-        height: 792
+      - url: "https://www.adexchanger.com/wp-content/uploads/2021/04/Hive-AI-funding.jpg"
+        width: 900
+        height: 675
         isCached: true
-  - title: "AI Chip Startup Led by Ex-Google Engineer Raises $300 Million"
-    excerpt: "Groq, a startup developing artificial intelligence chips for data centers, autonomous cars, and other areas, announced the closing of a $300 million funding round, bringing its total haul to more than $365 million since it was founded in 2016."
-    publishedDateTime: 2021-04-19T06:48:00Z
-    webUrl: "https://www.evaluationengineering.com/industries/semiconductors/article/21218836/ai-chip-startup-led-by-exgoogle-engineer-raises-300-million"
+  - title: "VieCure Announces $25 Million Series A Investment Led by Northpond Ventures to Improve Oncology Care, Scale A.I. and Patient-focused Technologies"
+    excerpt: "Series A growth equity investment, led by Northpond Ventures. An undisclosed investor is also contributing to the round. VieCure, an oncology clinical informatics company with an artificial intelligence (AI) enabled clinical decision support platform,"
+    publishedDateTime: 2021-04-20T12:05:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/viecure-announces-25-million-series-a-investment-led-by-northpond-ventures-to-improve-oncology-care/article_f5124872-352d-57f5-9e0b-24964edab42b.html"
     type: article
     provider:
-      name: evaluationengineering
-      domain: evaluationengineering.com
-    quality: 34
-  - title: "Supply chain startup PAXAFE pulls in $2.25 million in seed funding"
-    excerpt: "PAXAFE, a Milwaukee-based startup that applies AI and machine learning to manage risk in the supply chain, announced the company has raised $2.25 million in seed funding. The round was led by Ubiquity Ventures,"
-    publishedDateTime: 2021-04-20T20:42:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/04/20/paxafe-raises-in-225-million.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Zuelr0SfHk2UbGBJAPwEp+Drkrjh5XEv7GNlUrZsR4TvJpJvfHP2HI5OCV2FpyoN15z+KNDUZ9cE2GzyX3zOsk8RTjSj8YUFgHfV35Myj1n/cJAvrEAr31erhWABDi7ki3iZ9aot0VdYP8Kl8iixtKsFC9Mo0Yfl8ADN9fHB7f+NQTDzDHFyHSUsGPvSx7dTzMCFvrmvGTUufZ1IOyOfP2699r8kblibcMC4rSC5mBSjPuCBTSxgnETOtzdcG82qtaHXajZwNXS1w+FLRN+/NGPte2ZFKBSGGrSsqqU8bwl83U0gLj18oZtcZWcNQr2t5TA2Z1Ju9T0GIEs0bmUOFdE9tqa6IPTsG1uDvc583Ic=;1xZ/UbuwD1FApcetkcHkFQ=="
 ---

@@ -128,20 +128,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 44
-  - title: "Microsoft’s share price pops after Nuance acquisition"
-    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
-    publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 41
-    images:
-      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
   - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
     excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
     publishedDateTime: 2021-04-20T21:05:00Z

@@ -139,20 +139,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 44
-  - title: "Microsoft’s share price pops after Nuance acquisition"
-    excerpt: "Microsoft’s share price advanced this week after the tech giant announced it was acquiring AI and voice recognition company Nuance."
-    publishedDateTime: 2021-04-16T12:25:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/opto/microsofts-share-price-pops-after-nuance-acquisition"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 41
-    images:
-      - url: "https://assets.cmcmarkets.com/images/Microsoft1604_medium.jpg"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
     publishedDateTime: 2021-04-17T00:29:00Z

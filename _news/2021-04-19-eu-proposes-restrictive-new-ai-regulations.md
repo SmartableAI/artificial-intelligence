@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/eu-proposes
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
+    excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."
+    publishedDateTime: 2021-04-21T04:39:00Z
+    webUrl: "https://www.straitstimes.com/world/europe/eu-unveils-artificial-intelligence-rules-to-temper-big-brother-fears"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/nz_ch-euflag_210471.jpg?itok=rARPp5hY"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "p/6lAvc5AYn1f5cLuexDL1SWugURSNdpLAfBF6tByV6WJUxpGkdK+XfzNNWT26mRXd3jjjHMoj7rzDXMER0sSVsP/by/BbUIhRB5dNbUXxTLzMLBAP82Qug5LX7QNHDOUfgqgORfwIfFyCUA5Bt7nZWpbUuRfwamXsFF8MLY9j1Ha6a2JWQavpfi0WVIPGpBlLarYuwCzEc71CRSWsmmJKaGZnnZsBJbOKjqurAO3MTriilCZ6jZcwyf4NQr3LirqAszF98t0b5a8D7OmfMogazQVPxcuAMoSWFddR10By8MHUUgbSvcqb+tnVKvcrM4sUi5RaCdqBq2agzFTvgIQ7wxXywrd0d8SoN+1P6GYekjBDMlf9FDdsiZsfchd87wZVMmoCFPPKHA4jcwbz5I/cTL0Gi+3koJF23TLvPjiw9eJX45H/TXfMtG1PcsRDXBt8k3sKTh6a+81XZd7CY+qL6uVnQtShfhb6LGfeoKtFOOYlrZj5J5xLOUUPnOCuMd7lLK7xDwFeQi5A8sZ/0xhw==;NAfYQePQSe+yjyvro7tglA=="
