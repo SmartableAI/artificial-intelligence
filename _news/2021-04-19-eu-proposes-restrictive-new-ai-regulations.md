@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/eu-proposes
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/eu-proposes-restrictive-new-ai-regulations/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -26,50 +26,151 @@ images:
     isCached: true
 
 related:
-  - title: "EU to unveil AI rules to fight Big Brother fears"
-    excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
-    publishedDateTime: 2021-04-18T22:22:00Z
-    webUrl: "https://www.brecorder.com/news/40085548"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
+  - title: "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal"
+    excerpt: "The European Union’s executive arm proposed a bill that would limit police use of facial-recognition software in public and ban the marketing or use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence."
+    publishedDateTime: 2021-04-21T09:22:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
+    ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 57
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 103
     images:
-      - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.wsj.net/im-327981/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "EU set to release artificial intelligence legislation"
-    excerpt: "Next week, the European Commission is expected to unveil its long-awaited proposal on artificial intelligence regulations. The World's Lydia Emmanouilidou obtained a draft of the regulations and has this report."
-    publishedDateTime: 2021-04-16T20:11:00Z
-    webUrl: "https://www.pri.org/file/2021-04-16/eu-set-release-artificial-intelligence-legislation"
+  - title: "Amid ethical concerns, facial recognition has gained some traction in the US"
+    excerpt: "Identifying shoplifters and fraudsters may make sense for retail, but what about for marketing? And what about face masks?"
+    publishedDateTime: 2021-04-20T12:38:00Z
+    webUrl: "https://www.businesslive.co.za/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/americas/2021-04-20-amid-ethical-concerns-facial-recognition-has-gained-some-traction-in-the-us/"
     type: article
     provider:
-      name: PRI
-      domain: pri.org
-    quality: 37
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 88
     images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+      - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
+        width: 1000
+        height: 608
+        isCached: true
+  - title: "EU lawmakers propose strict curbs on use of facial recognition"
+    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
+    publishedDateTime: 2021-04-20T18:28:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/07/GettyImages-607358443-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Could your Facebook photos be used for police facial recognition?"
+    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
+    publishedDateTime: 2021-04-19T06:30:00Z
+    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 59
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "EU lawmakers propose strict curbs on use of facial recognition"
+    excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
+    publishedDateTime: 2021-04-20T16:59:00Z
+    webUrl: "https://www.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
+    ampWebUrl: "https://amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/67908f96-4eca-4c90-8114-b56e6d99266c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "State panel studies use of facial recognition technology"
+    excerpt: "Facial recognition systems can track criminals, thwart security threats and prevent fraud, but use of the controversial technology stirs debate over privacy, due process and racial bias."
+    publishedDateTime: 2021-04-16T21:00:00Z
+    webUrl: "https://www.eagletribune.com/news/state-panel-studies-use-of-facial-recognition-technology/article_d7052a17-9c14-5602-a840-1958c99b163c.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg"
+        width: 1088
+        height: 604
+        isCached: true
+  - title: "State panel studies use of facial recognition"
+    excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
+    publishedDateTime: 2021-04-19T09:55:00Z
+    webUrl: "https://www.gloucestertimes.com/news/local_news/state-panel-studies-use-of-facial-recognition/article_e6a50073-4284-5d51-830a-e183e51b0e68.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg"
         width: 1200
-        height: 707
+        height: 630
         isCached: true
-  - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
-    excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."
-    publishedDateTime: 2021-04-21T04:39:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/eu-unveils-artificial-intelligence-rules-to-temper-big-brother-fears"
+  - title: "Why EU needs to be wary that AI will increase racial profiling"
+    excerpt: "This week the EU announces new regulations on artificial intelligence. It needs to set clear limits on the most harmful uses of AI, including predictive policing, biometric mass surveillance, and applications that exacerbate historic patterns of racist"
+    publishedDateTime: 2021-04-19T06:51:00Z
+    webUrl: "https://euobserver.com/opinion/151556"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
+      name: EUobserver
+      domain: euobserver.com
+    quality: 39
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/nz_ch-euflag_210471.jpg?itok=rARPp5hY"
-        width: 763
-        height: 509
+      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
+        width: 480
+        height: 322
         isCached: true
+  - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
+    excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
+    publishedDateTime: 2021-04-20T11:45:00Z
+    webUrl: "https://www.medianama.com/2021/04/223-face-authentication-nandan-nilekani/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 30
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/04/tobias-tullius-4dKy7d3lkKM-unsplash-scaled.jpg"
+        width: 2560
+        height: 1701
+        isCached: true
+  - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
+    excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."
+    publishedDateTime: 2021-04-20T08:21:00Z
+    webUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/covid-vaccination-drive-face-authentication-and-not-facial-recognition-to-be-used-says-nandan-nilekani-8996061.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 22
 
 secured: "p/6lAvc5AYn1f5cLuexDL1SWugURSNdpLAfBF6tByV6WJUxpGkdK+XfzNNWT26mRXd3jjjHMoj7rzDXMER0sSVsP/by/BbUIhRB5dNbUXxTLzMLBAP82Qug5LX7QNHDOUfgqgORfwIfFyCUA5Bt7nZWpbUuRfwamXsFF8MLY9j1Ha6a2JWQavpfi0WVIPGpBlLarYuwCzEc71CRSWsmmJKaGZnnZsBJbOKjqurAO3MTriilCZ6jZcwyf4NQr3LirqAszF98t0b5a8D7OmfMogazQVPxcuAMoSWFddR10By8MHUUgbSvcqb+tnVKvcrM4sUi5RaCdqBq2agzFTvgIQ7wxXywrd0d8SoN+1P6GYekjBDMlf9FDdsiZsfchd87wZVMmoCFPPKHA4jcwbz5I/cTL0Gi+3koJF23TLvPjiw9eJX45H/TXfMtG1PcsRDXBt8k3sKTh6a+81XZd7CY+qL6uVnQtShfhb6LGfeoKtFOOYlrZj5J5xLOUUPnOCuMd7lLK7xDwFeQi5A8sZ/0xhw==;NAfYQePQSe+yjyvro7tglA=="
 ---

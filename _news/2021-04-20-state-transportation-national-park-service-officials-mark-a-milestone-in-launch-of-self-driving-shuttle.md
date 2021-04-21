@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving shuttles debut at Wright Brothers National Memorial"
+    excerpt: "\"Another Wright Brothers moment. A very exciting day in terms of the first pilot project of an autonomous shuttle in a national park,\" Superintendent for National Parks in Eastern"
+    publishedDateTime: 2021-04-21T11:04:00Z
+    webUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+    ampWebUrl: "https://abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10533465_selfdrivingshuttle.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NCDOT, National Park Service launch self-driving shuttle at Wright Brothers National Memorial"
     excerpt: "There’s a new ride in town and it’s driverless. The Connected Autonomous Shuttle Supporting Innovation, or CASSI for short, just debuted at the Wright"
     publishedDateTime: 2021-04-20T16:58:00Z

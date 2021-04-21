@@ -71,22 +71,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Competes With Google, Amazon In Healthcare"
-    excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
-    publishedDateTime: 2021-04-16T19:02:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 76
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-nuance-healthcare-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
     excerpt: "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,"
     publishedDateTime: 2021-04-16T23:14:00Z

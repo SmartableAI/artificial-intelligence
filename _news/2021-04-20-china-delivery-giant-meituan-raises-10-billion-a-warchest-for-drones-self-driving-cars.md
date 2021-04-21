@@ -23,29 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Wealthfront Delivers on Self-Driving Money™ Vision, Changing the Way We Manage Money Forever"
-    excerpt: "Today Wealthfront launched the final set of features that make up the first version of Self-Driving Money™. The company's relentless focus on automation has led to a financial ecosystem that is not only lightyears ahead of anything else on the market,"
-    publishedDateTime: 2021-04-20T15:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wealthfront-delivers-on-self-driving-money-vision-changing-the-way-we-manage-money-forever-1030324222"
+  - title: "Meituan raises $10 bln for self-driving cars, drone delivery"
+    excerpt: "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies."
+    publishedDateTime: 2021-04-21T11:46:00Z
+    webUrl: "https://www.ksat.com/business/2021/04/21/meituan-raises-10-bln-for-self-driving-cars-drone-delivery/"
+    ampWebUrl: "https://www.ksat.com/business/2021/04/21/meituan-raises-10-bln-for-self-driving-cars-drone-delivery/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/04/21/meituan-raises-10-bln-for-self-driving-cars-drone-delivery/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: KSAT
+      domain: ksat.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1491878/Wealthfront_graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/EJYXMG7HABAO3FQLCPLHCKFV24.jpg"
+        width: 4500
+        height: 3000
         isCached: true
-  - title: "California based Fintech Wealthfront Launches “Final Set of Features” for First Version of “Self-Driving Money”"
-    excerpt: "California based Fintech Wealthfront launches \"final set of features\" for first version of \"Self-Driving Money.\""
-    publishedDateTime: 2021-04-21T02:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174405-california-based-fintech-wealthfront-launches-final-set-of-features-for-first-version-of-self-driving-money/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "LsfDHFC/Po8v9nZgcgwlRk1akcQbmqlCW/DZ9MFdg0V7UH5gtx02EK/nI4IHSBOn1+JriWjkGDW7wUk6/hSQH4GfphoIc/MPCgEh7XlChsUrePY53pm+Ua0SSg1jFhmkO9SUTYit3DBhdAuzB3asVVfEav0iprRdy8gruz093gk7+YKZjUT7yjn+T3NL4w+U/ZjBX2ThYzWYBMP0vi4AEUQ4HJMa82TM+MUmOMKDPPmx8ckh2GR35pBgfFu+FQBamHwcmBe8gD4rYE3tNm+YecFTPYULYU31mqQBMcRlBAZc7AQj7HOmEzgKaBSsUm6511sfZRmvNgegY+7Ua70ksSX+rvoqDIo2CMhJiOT0EZivt2Io46qbucqNZ2mQyabj9kYnEvAu/fuPqcBse/QUSyXS8CWjb1KPwvP7j9iXpn3zTcuY1Fn7gwzlpkuFVfIVOWNZRnMV7z+R3zMiY4TULZaEiZYiPG1ipJNORFq+UFjLBSHGkvX+1jfxPOdlPGMpgsD0xH7FwvzwZ8yHmb/VlQ==;3oHWnr0q9aig45gPZhedDQ=="
 ---

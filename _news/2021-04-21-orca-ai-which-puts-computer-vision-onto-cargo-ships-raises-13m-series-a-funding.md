@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \" Ping An \" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
-    publishedDateTime: 2021-04-21T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Scale AI Gets A $325M Series E Funding Infusion to Grow Its Data Annotation Mission"
     excerpt: "Data annotation and labeling startup Scale AI is taking in another $325 million in new investment, this time through a Series E round. The San"
     publishedDateTime: 2021-04-19T16:09:00Z
@@ -55,6 +46,6 @@ related:
         height: 290
         isCached: true
 
-secured: "G8O97jmoXkJTMbw7Zft7CjBhELalYl5hjWeYiEzmtoHdiS2K4mgljD7vYXlxivhjJWbq2nMC/beTBIq9iazG2tXJdW3/8mFRW1Fntv5ruZZj1T36kY1LFkR5pCaMhBc248Dw+04CJuwOtXq18cgbsocgJ/nbf3C7LNpI5tbgpkZIhg1A3StYpKPM7dURo8JydXPag/AnJtpQ6hcD3JrJ2jHXqTf+YTGBcJDE1cExHnd1Ijbu+IMGzV8OvpK6E01UB+RIrgCsYsOD1IUcgcAtGLfOtVHAsOSXeLwxEDWdmxKFG7wiR3CLqqMKtEpgfCp1a5sMROX2YJVZ1GmmEIIoiOhYrcJzdyrXC5DZxO4JVr4=;G6LjbAegydiD5hcp5zGE1g=="
+secured: "sPOMFokT/z3t1e0zvZJ+Qkyyy76hAtRlbxA8fVKAM8dtdzaa2WlGR/h5caPZthzQBIzgpR1O7xWjaNBKmyysuFYmFwhCNZvTzn+kMT4oWpS9ssJI2UsVeMdZaMmAD0MO5xumR6kEaZtP0zH49L/+aIfkV8030axypE3RtvRNnJjlG5SLJ6KGgDx+1wL7oxujt77CL2s/bBO3dmdOyf1N9GZxky0sm+FYb9dHvpIx3wubwp1oNgyZlEuYfjJFuOj/QIA9C0x1LKdTdATLDGIKYmAS6YoWSHgy9nTpAsWqL5+kHpQfhC/qJi6MYZAqWeA/CI8H7kyErS/MsLxccSCYrGEyA6IjO5Dq9IUrv3MdTYgEhVZSJXkqKAM8i/X0Vd3Eo9J04Yo9+s7un8XKpPu8gDZcPFJPwtH2Utwn9ZiM62uMxAQDh1wdM9euLAcqGXOC5q6Ytem0TrqcMaq97Idtr01qqXksCdS0dmSmfiP+DiKrh9u06yQwtSxPaIRMJQtdiuRXJsLctg62nloJ+Uz6Ww==;dJL5w86N9u2dSYb16tlEMQ=="
 ---
 

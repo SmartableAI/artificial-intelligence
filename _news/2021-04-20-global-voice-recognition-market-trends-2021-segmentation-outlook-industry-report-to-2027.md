@@ -125,6 +125,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market Size, Demand, CAGR of 41.9%, By Type, Application and Manufacturers Industry Revenue Analysis and Forecasts By 2027"
+    excerpt: "CAGR of 41.9%, Market Trends - Extensive adoption of smartphone The global Machine Learning Market is forecast to reach USD 35.67 Billion by 2026, according to a new report by Reports and Data. The increasing trend towards cloud computing,"
+    publishedDateTime: 2021-04-21T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-demand-cagr-of-419-by-type-application-and-manufacturers-industry-revenue-analysis-and-forecasts-by-2027-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial Intelligence in Retail Market size is expected to grow at an annual average of 37 during 2021 2027 Artificial intelligence AI refers to the simulation of human intelligence in mechanisms programmed to imagine and mimic behavior like humans"
+    publishedDateTime: 2021-04-21T11:32:00Z
+    webUrl: "https://www.openpr.com/news/2273226/artificial-intelligence-in-retail-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2273226/artificial-intelligence-in-retail-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273226/artificial-intelligence-in-retail-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
     publishedDateTime: 2021-04-20T12:59:00Z

@@ -76,22 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Competes With Google, Amazon In Healthcare"
-    excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
-    publishedDateTime: 2021-04-16T19:02:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/microsoft-competes-with-google-amazon-in-healthcare/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 76
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/microsoft-nuance-healthcare-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
     excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
     publishedDateTime: 2021-04-21T04:11:00Z

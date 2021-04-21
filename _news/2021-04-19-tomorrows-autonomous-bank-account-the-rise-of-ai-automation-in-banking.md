@@ -9,7 +9,7 @@ ampWebUrl: "https://dynamicbusiness.com.au/topics/finance/banking-future-technol
 cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rise of Artificial intelligence Tools for the Automated Journalism"
-    excerpt: "The rise of artificial intelligence has reshaped the ramifications of technology across the journalism fields. In this area, the growth of the robot reporter and automated journalism has developed rapidly."
-    publishedDateTime: 2021-04-16T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/"
-    ampWebUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 59
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Autonomous vehicles driving AI chip innovation"
     excerpt: "Why is autonomous driving so difficult from a tech perspective? Autonomous vehicles require processing massive data captured by the sensors (camera, LiDAR, Radar, and Ultrasound). And it has to provide real-time feedback,"
     publishedDateTime: 2021-04-19T12:48:00Z

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ..."
-publishedDateTime: 2021-04-19T04:36:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
+excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
+publishedDateTime: 2021-04-19T04:41:00Z
+originalUrl: "https://www.metro.us/baidu-expects-to-supply/"
+webUrl: "https://www.metro.us/baidu-expects-to-supply/"
+ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
-    isCached: true
 
 related:
   - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
@@ -95,6 +89,6 @@ related:
         height: 533
         isCached: true
 
-secured: "UT5IKcFetVf4Elu1Zav73nhYr90ERv8TzSHm4uOf24hZspkBy8tnk7rs9ebAVGI9AcRBer8NIZRbe6UFdd7zt0VPrhZZ7Jjf7Qxsx8KiyXR9aHWPSMEmXn6JW5wR7Gwo8ImkcR4XCLArjho7zFrgvATkwMdD9/SvM0oYvXeh5ejKOHudEGh7LZT4zSEFmhH2diKSdqSIsshTo2H19pmAqAjwuYs5LfF6AV923XrEkZ4egD/wHJCp3LRgcKefoxk//BWVbDdMqbrL1raNu0Db0avkXlDOK3HUUMToKr51YvxsQcyXwDvWG9WQv3mDJtypwti45JPgRJJ7VyO9iQgYmP5HK35GkUylzJiuC7lhqNU=;rZtC51EOvSptmxOkEGa7Qg=="
+secured: "9UHaj7oXBTk9QLdOZBfX5RElHum3H2DTlE6CKMqJMcajPxI5TUpI7y1mIjCVcuu9+HkqR/LdF/2YZD/gPkqgoXbwSTlSQqF37wImmIGwget0f69gTDBhbVKqp90sJoEkOJVuxbta+uPEL4m56jJKlhwPH5T7VK2Xt3CKo9dQyT5YqIhSl8KTwE1hZx6FhbWiuIRziO1oUYKxArfOtlsrizxcdBKog3nDebZTf1XE/OcxXHTeiCFQ19Cp8OJHnNU/e/tUrcrVcAAepnrKnt039Gt7e0LhismGjrNUB8oL0w0z2NKxAlQ1ao8B01ORT5LaHxEnbI+LZUHeX7SpRPFLxmXRoGmPfoejmNQgjc4YG2g=;KEDZM3qZ6jPRcKVh645a2A=="
 ---
 

@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
+    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce"
+    publishedDateTime: 2021-04-21T08:48:00Z
+    webUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding"
+    ampWebUrl: "https://www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-series-c-funding?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 47
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_1152.jpg?itok=WnkFcETF"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Chinese Bot Startup Laiye Wraps Up USD50 Million Series C+ Round"
     excerpt: "Laiye Network Technology has raised USD50 million in its Series C+ round of funding to fuel the Chinese bot software developer's global expansion and product development. The latest round was jointly led by Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund,"
     publishedDateTime: 2021-04-21T07:01:00Z

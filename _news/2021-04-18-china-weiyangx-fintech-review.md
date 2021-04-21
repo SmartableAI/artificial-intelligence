@@ -37,6 +37,29 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI fintech firm TurnKey Lender secures new funding in DEG-led round"
+    excerpt: "TurnKey Lender claims it tripled its annual recurring revenue year over year in 2020. According to VentureCap Insights data, its revenue for the previous year (FYE 2019) stood at US$2.57 million. It plans to use the new funds to scale the global adoption ..."
+    publishedDateTime: 2021-04-21T11:22:00Z
+    webUrl: "https://www.techinasia.com/vertexbacked-ai-fintech-firm-turnkey-lender-secures-new-round-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Ramsden reflects on changing relationship between the Bank of England and fintech"
+    excerpt: "Dave Ramsden talks about how we support the safe development of fintech services in the UK. Thank you for this invitation to speak at UK Fintech Week. Every year this event performs an important role in highlighting the strength and potential of the fintech sector in the UK."
+    publishedDateTime: 2021-04-21T10:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87221/ramsden-reflects-on-changing-relationship-between-the-bank-of-england-and-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "5 key trends that the wealth management industry will witness with the growth of fintech startups."
     excerpt: "Fintech companies have revolutionised the wealth management industry in a very short time, creating wealth for investors in a cost- and time-efficient manner."
     publishedDateTime: 2021-04-21T09:09:00Z

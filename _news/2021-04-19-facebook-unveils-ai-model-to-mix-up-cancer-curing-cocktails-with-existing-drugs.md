@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facebook leaning into medical research in its quest to advance AI"
-    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
-    publishedDateTime: 2021-04-16T17:27:00Z
-    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "d5YLU/myNrt3B+o8YL0fD3U8YMN8N5wqLMyy7yvZ3o7lyYltLsyhiKLttOIMRci2vK9SgUDDbjGPu3i+vh/MREAFGA5Bo+Socmq/mFpWs/V4FWZvdl/BBXGrKvq6ScX4O8HytrjQ8Vq4MUxa8Quuy4pTkvTpHMlUxNeCLMqtT1KM2G3lDXtovZ/j5gS3heWD3+5NwrMmiP6Wf3ZODVtkNoE17vEaYQfPwwGDQY19vvChHQ0UR/pEJ2Qebkp65Vxy0ufOsuvDyCAp6f6+VyQ0jE9Chxx6yoboZhUSMw8MNN2nr9YpFkYwjyj5xtBkS/jsxRWDpSQ8dmSJ5leARnhoLJfvy7bXZM9PoyqoJWAE0ts=;3W1jJJLinq2mt5evmbAAmg=="
 ---

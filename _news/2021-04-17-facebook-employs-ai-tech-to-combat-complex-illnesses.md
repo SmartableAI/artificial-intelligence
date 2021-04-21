@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-c
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/facebook-employs-ai-tech-to-combat-complex-illnesses/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook leaning into medical research in its quest to advance AI"
-    excerpt: "In its quest to advance and improve artificial intelligence, Facebook steps into the domain of medical research."
-    publishedDateTime: 2021-04-16T17:27:00Z
-    webUrl: "https://techstory.in/facebook-leaning-into-medical-research-in-its-quest-to-advance-ai/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/115977714_hi064701525.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Facebook unveils AI model to mix up cancer-curing cocktails with existing drugs"
     excerpt: "No longer content to simply provide a platform for keeping up with long-lost cousins and spreading conspiracy theories, Facebook has branched out into developing artificial intelligence to help treat complex diseases."
     publishedDateTime: 2021-04-19T15:45:00Z

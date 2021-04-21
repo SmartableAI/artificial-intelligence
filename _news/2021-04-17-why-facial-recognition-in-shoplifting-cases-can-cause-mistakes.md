@@ -35,22 +35,6 @@ related:
         width: 2000
         height: 1080
         isCached: true
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "XVu/A2H4G21ZZNlcVK8j2W/WP+A1IpUXtGUrEhE5XnCK1mDjgM56Dv4+P/5p8F61Jew75YXd5WR/vkGYhf1z5lXM08zBZ4yVY6wGX4pwPPLjRNxOvPWJwNmq7RfWz+mlq/y/1iNe+xBXi9IfQ1IDhn+QWn0JZbcoRz4BPTUvEAbEDHeODnuW6hpRKnkf9rr8t4oX/AJ92piuSXDEnFtZm+moshsZQpEEFaDpGLRHBNJWmO8ziMbe48L24N/FqVL5NsxbrSxcPoe+SaI/pxYd0VSlvi8VOOK1Lgwb1FwIJOihqXrJBWEbWNHvOLIotbaYcbGF901MxSgSRCBJyC8HutXeGKEhEJCiedzAyz31oTMr1Ft6qR3ymgAXJkkTi0pWScGa+3W1IZHdDZvTJPQK5L5BwFkrbU1qGXozIrZ2nZHKnD7YoZefs4EtZQNsyrml2gQnwZ9B7ixKrcMCd8OJJ8gHntM+tniNvz0yVf3RD84wbT8SfvAhYEQZSPPHAbXZ2rhDDBB8kj586Wy46EtA+Q==;8aN6oyvYdy/Mze5moZl2OA=="
 ---

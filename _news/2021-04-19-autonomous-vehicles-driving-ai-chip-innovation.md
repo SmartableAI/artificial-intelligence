@@ -42,22 +42,6 @@ related:
         width: 696
         height: 400
         isCached: true
-  - title: "Rise of Artificial intelligence Tools for the Automated Journalism"
-    excerpt: "The rise of artificial intelligence has reshaped the ramifications of technology across the journalism fields. In this area, the growth of the robot reporter and automated journalism has developed rapidly."
-    publishedDateTime: 2021-04-16T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/"
-    ampWebUrl: "https://www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/rise-of-artificial-intelligence-tools-for-the-automated-journalism/?amp"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 59
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Artificial-Intelligence-10.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "UsoKATBprwkPow7HGSrbVLl7C+MsMna6JtFb/UNxGmBcJERkvHdMBZrYHwaYmCu+9xf1bk2E1Fow7CNnIBcvZ7fgBMR4QgAbfesL1AiR55vcKZAOpjGMVbG0u+dxO+z6jrHWGkzOhW45H7IblXj9LHayfGTNUgsyvs5huBcaz6niYjkQpkIIxLnnHFk3xIlAto8E5FvKRGe+mCwPyUQdLzyCw54iyMPqIbYMW9dWRUP/soNjcRS9S1e1EEc9T6/cm4k/+p+HS+1GoJo+1cT5ycl7xyIc60FsuJT4o9JEQgAurelO57PBtxianE0Sm4Esz+y/lzBk7lxZ9mJ1k/pZX1nlqViff8JNsThfy7ujk2OPuW97y6UB4phNvDu5GBXB5DkWwjkBUu9tgm+/K7xnWDclGZyQ2RGp9M+uWGKru+iZOOBWxeILPvCMOvkQQJJpWjh0ptBasC4gex5Zvdz0WDaZRBL0fyLF3EzkDlR+P1nH+6Ea6rzFgcJG1zsjj7VvoVunoJs/zz6dqCYxfj5RRg==;mmMHAdBwiX3FkPycFqd+aQ=="
 ---

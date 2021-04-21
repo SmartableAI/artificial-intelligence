@@ -43,6 +43,29 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI fintech firm TurnKey Lender secures new funding in DEG-led round"
+    excerpt: "TurnKey Lender claims it tripled its annual recurring revenue year over year in 2020. According to VentureCap Insights data, its revenue for the previous year (FYE 2019) stood at US$2.57 million. It plans to use the new funds to scale the global adoption ..."
+    publishedDateTime: 2021-04-21T11:22:00Z
+    webUrl: "https://www.techinasia.com/vertexbacked-ai-fintech-firm-turnkey-lender-secures-new-round-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Ramsden reflects on changing relationship between the Bank of England and fintech"
+    excerpt: "Dave Ramsden talks about how we support the safe development of fintech services in the UK. Thank you for this invitation to speak at UK Fintech Week. Every year this event performs an important role in highlighting the strength and potential of the fintech sector in the UK."
+    publishedDateTime: 2021-04-21T10:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87221/ramsden-reflects-on-changing-relationship-between-the-bank-of-england-and-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z
@@ -83,6 +106,6 @@ related:
         height: 360
         isCached: true
 
-secured: "I0eQOT2UqJDEuNz6+dbxPa3G7S/XGIvpGA0Fv6m4Fm49PDt1m/0AdBRLifT70B+27PwPi+45iFEYSiKg/vNj2dtGUMq/xhVV4y/ko8WVYfNeL3379wrQF6Z7+vTZ3FWEoiMXa5MyFz+XVk9doUK7KeGTQOeJgrae9Gm2CrVrwLbVCxcJxeetr2+N6gYne6dwfVF+Y1BRPHZNBavlJ6LmO4/k3XoVYYBQKuOKaPMGbjGGwnnkY8NkmLuyxlA7PVoZ4ba1WHx4l70FgwEto+JtskOI/lWAo1RsnlczWrOGZXxi/p+YfdaUL8hgfBP8llmzc1horqDpOP8LDrfxOwvHD65S8UlTFB8FgbO3uIHPafw=;yHQ1uhS9X3uTH7XN2XU3AA=="
+secured: "cXJmMh7eHuQbx34AORGO64yoJF4FVtnOvgzKw8rqO/CbPSXde83tXwfoK+XNv616w8bUcqLd+xvz5hWhfYJDsD5zSkOFp0yf0bj9UNqMhz4ahfhsS4Pm6yuriJfVhxxGP5LbjRiUL4Aqle953vwgcmrRXz4wFvvOAeJFPhw3d57Fg9C6mvROFSSL89A9sXELHj8VEokoSWflsjsyk7g+rguQd/f5NQqRfWjgn6n0qH5oV2ry43a98VdzRnxGcjyuw4MP5vpITXhaDg2ug+xtHAAu72hYSJFFJYvsgpiEJmRX12loIs2TVQ8zQyhW9CYZwpTK1y4Cafl2JRJMdVQVicXSfM4+I5iCTWypqrg4yJzLRro0lLNROhpBArmGiM1BdF+MLBv+3axFC0L8QkMWNMXvvxZUQuX3Aax9ndUZKruiJYdf/mLtl+olkqFBYLWnmK2dY2kl43bASTAu3UrCm+UfeON+mIBgzJdLO0k5P2wOpzsJYhdy95wmvB2PuBMqWWJGklEz19mygoy1ps4hOA==;0Rgr0+NrRxnBLq73Hlv5xg=="
 ---
 
