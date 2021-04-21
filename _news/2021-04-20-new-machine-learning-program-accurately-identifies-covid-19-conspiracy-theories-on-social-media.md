@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210420/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210420/New-machine-learning-program-accurately-identifies-COVID-19-conspiracy-theories-on-social-media.aspx"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "New AI tool tracks evolution of COVID-19 conspiracy theories on social media"
-    excerpt: "A new machine-learning program accurately identifies COVID-19-related conspiracy theories on social media and models how they evolved over time--a tool that could someday help public health officials combat misinformation online."
-    publishedDateTime: 2021-04-19T19:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/danl-na041921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/262477_web.jpg"
-        width: 720
-        height: 766
-        isCached: true
 
 secured: "Je+qnRK4Dq3nmdj1R085+9W4AsHY6FnLE2mcM7kADflzsxb9jxMffA0p6p5Z3BUyWwkhpRD3cGmIarUktiSoucRGzABNGytWChG6knEtEO1wo9kKxqbRUwwgNLd53u/1Aj2ANlN/BgGakf03TAOHnk0IQ6Mj8rD13xhs4qxfQ3MoODWDgwNrp2pZZP/mkeHOz6YIXtOU1zK7qUtcAdGM9kgM1gYbB5sRhqZA3uWD6ThWz2SvwN9xTYZVMzfjs7941xWioATfsNApJX41kPkhFj61qr+wL9WhKHsEmVUHttx8k3qO5JrYvrjTDSR8sGxS610XJRP1p7nO1URePrHmbWPGPgCMc/xPGl4UoZ7I4Ng=;HDDLJlaPPvKQ4PA6FeVMJg=="
 ---

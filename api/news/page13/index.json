@@ -2,6 +2,197 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-10-finding-1s-and-0s-with-a-microscope-and-computer-vision.md",
+      "title": "Finding 1s And 0s With A Microscope And Computer Vision",
+      "excerpt": "he figured out a way to let a computer do it with some clever programming and computer vision. [Adam] has used OpenCV before, but the macro image of the masked ROM had a lot of extraneous ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/02/04/finding-1s-and-0s-with-a-microscope-and-computer-vision/",
+      "originalUrl": "https://hackaday.com/2013/02/04/finding-1s-and-0s-with-a-microscope-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-facebooks-new-open-source-dataset-could-help-make-ai-less-biased.md",
+      "title": "Facebook's new open-source dataset could help make AI less biased",
+      "excerpt": "The social media platform says that the new dataset could help researchers address discriminatory flaws in their AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/",
+      "originalUrl": "https://www.zdnet.com/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/04/09/dec2c367-e2d0-4c3a-a3de-b3a16a40aec0/facebook-casual-conversations.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebooks-new-open-source-dataset-could-help-make-ai-less-biased/",
+      "publishedDateTime": "2021-04-09T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai.md",
+      "title": "AI Weekly: Continual learning offers a path toward more humanlike AI",
+      "excerpt": "And we do this completely for free, for anyone.” Even highly sophisticated deep learning algorithms can experience catastrophic learning or catastrophic interference, a phenomenon where deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/brain-ai-e1561657878421.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/ai-weekly-continual-learning-offers-a-path-toward-more-humanlike-ai/amp/",
+      "publishedDateTime": "2021-04-09T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-advanced-satellites-illuminated-by-computer-vision-are-changing-how-we-see-the-world.md",
+      "title": "Advanced satellites illuminated by computer vision are changing how we see the world",
+      "excerpt": "Satellite imagery, computer vision and deep learning technology are driving applications that protect wildlife, keep people safe and enable more efficient growth.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/04/09/satellites-computer-vision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Federal-programs/weathersatellite.png",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-one-stop-machine-learning-platform-turns-health-care-data-into-insights.md",
       "title": "One-stop machine learning platform turns health care data into insights",
       "excerpt": "By shepherding hospital data through an ever-increasing set of machine learning models, the system could assist hospitals in planning for events as large as global pandemics and as small as no-show appointments. With Cardea, hospitals may eventually be ...",
@@ -1026,205 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-at-last-the-designs-of-indigenous-peoples-will-be-protected-against-plagiarism.md",
-      "title": "At last the designs of indigenous peoples will be protected against plagiarism!",
-      "excerpt": "recognizing as object of protection works “created by peoples and indigenous communities ”. Recognition in the reform includes that these creations \"have been transmitted for generations\", so they reflect the meanings and values of each original culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369025",
-      "originalUrl": "https://www.entrepreneur.com/article/369025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/images/misc/1617907610_diseno_industrial1.jpeg",
-          "width": 577,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369025",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369025",
-      "publishedDateTime": "2021-04-08T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-victoria-invests-au34m-in-distracted-driver-ai-mobile-phone-detection-tech.md",
-      "title": "Victoria invests AU$34m in 'distracted driver' AI mobile phone detection tech",
-      "excerpt": "Distracted driver' technology will begin detecting drivers using a mobile phone across Victorian roads from 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/victoria-invests-au34m-in-distracted-driver-ai-mobile-phone-detection-tech/",
-      "originalUrl": "https://www.zdnet.com/article/victoria-invests-au34m-in-distracted-driver-ai-mobile-phone-detection-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2019/06/07/8bb91bce-af68-470c-92f3-57be15687dec/carmapsistock-852475556.jpg",
-          "width": 1255,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-invests-au34m-in-distracted-driver-ai-mobile-phone-detection-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-invests-au34m-in-distracted-driver-ai-mobile-phone-detection-tech/",
-      "publishedDateTime": "2021-04-08T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console.md",
-      "title": "Win a digital car and personalize your racer profile on the AWS DeepRacer console",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning, giving developers the chance to learn ML hands-on with a 1/18th scale autonomous car, 3D virtual racing simulator, and the world’s largest global autonomous car racing league. With the 2021 AWS DeepRacer League Virtual Circuit now",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/win-a-digital-car-and-personalize-your-racer-profile-on-the-aws-deepracer-console/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/08/5-Video.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T16:53:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-workshop-on-robotics-for-kids-teens-from-monday.md",
-      "title": "Workshop on robotics for kids & teens from Monday",
-      "excerpt": "“Technology is constantly changing the way we do things today. Artificial intelligence, machine learning and robotics are crucial. Most schools worldwide have already included robotics in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/articleshow/81976732.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/pune/workshop-on-robotics-for-kids-teens-from-monday/amp_articleshow/81976732.cms",
-      "publishedDateTime": "2021-04-08T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

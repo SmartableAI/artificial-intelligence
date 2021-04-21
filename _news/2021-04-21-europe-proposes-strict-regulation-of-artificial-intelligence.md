@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -64,7 +64,37 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "European Commission Reveals Rules & Actions for AI in the European Union"
+    excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
+    publishedDateTime: 2021-04-21T15:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/EU-flags-at-the-European-Commission-Berlaymont-building-guillaume-perigois-unsplash-300x230.jpg"
+        width: 300
+        height: 230
+        isCached: true
+  - title: "EU outlines ambitious AI regulations focused on risky uses"
+    excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
+    publishedDateTime: 2021-04-21T15:31:00Z
+    webUrl: "https://apnews.com/article/technology-business-government-and-politics-artificial-intelligence-data-privacy-5226382bb316f8aad4cbc5637f03a44c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
+        width: 3000
+        height: 1941
+        isCached: true
 
-secured: "THAgfrjRptGPsmQWIVZMkTuwzzW1fbEoAT2UGT39PUTfigrRmIlw80peCDxz5ZsLUpocbTjbOcKEiCUGCwwgurV9VFCz9mZCIW6ckzM41fb0ZNZs953RS3nRYqfWtwPMQq7cGe6jAZqwZl2QW68fL09qCellEd65P3pnxE8BSBUbHKVbkA2sPaELA7bYDICDnx0cJVSginFxQQvD5wMqg+BrXsNxG9XZUPpIskWxJMNocmSPGvrb+tCaESMWZne0+rPZESkwn2IJv7f9UvvAO8Pp4iBEJE6Zxs1ej0cn9rxodWIbI+tQeFniLoilN6TsWof8ZUITHCgW2NFyyPMTHPMPnRLmS6Qw2xv2L9FVPXg7YN9w6qEDBI4iLtnyRhzAYGrOh9FgOaeC7EKFfMXa9zxb9kzrHZDp27WKoiZrlvst0LxKCtgEobomj6SbzL5gm3ij9d2T49hKy1RBzAgk+mEatUQVIHYbnjG87tCW0iAjvl3r54E+m7xjdaz6YvLXL6Wq5dcu85mulDOJ8ni0+Q==;csOZtwmIBC8fQhmnFVWWWw=="
+secured: "g1GRS97KqmJPxHM2/+oWK80kbhWkuDaTeyg/7xaJpS6L7Fo1v1L4hycY7XxU/8izWCZqRwgXuT8zkxqAMn/kPaZvLgAXIjFhhWeXPqQTv+9E+pPl3aQvUWGOZDED97ZpOV+XGPcEbmF2xSk7z68qsMGtJEux9e0soOzAc4bUBEAmEGBNzXLk7+lfSNg/BEV0IU2VuD2FsrxcEow3UvqWvUJqbJ407ZBYqgtWMWX+evI4KK5ypZnmynNPxipiioozLQaJUqeFF4i1viTL3TqU7bX/n/5JRq/rPayMylnO4/ZeNe/qyO9Eg6yZ40kWwNXXZ/E5ED8igeWn17Kl/RQm9+rDMRMPF0+eXOZz1NsVi6C0pMVaa7xC3IyxZlJP6GMTzZxVqpGys3LGaR9KaGMXldHvDsFeRAzHbzjx1d5VR3sO3DARXQyhSGfuuDIkCDh0QUJatt9EkGwngc2DoILyLC64HlAZwNxuZpII+PqfY85DRos0Uwap9ptVSW19JDI3dzfSgkzT2ZcoTNo60ioqLA==;5YFX3w7YlaPbHIFfQVI77w=="
 ---
 

@@ -20,52 +20,66 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Size Report, Trend, COVID19 Impact, Industry Outlook, Derive Growth, Share, Revenue Forecast to 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-04-21T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
+  - title: "Global Artificial Intelligence in Retail Market Outlook, Industry Analysis and Prospect 2021-2026"
+    excerpt: "The Artificial Intelligence in Retail market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2021-04-21T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-04-19T13:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
+  - title: "Deep Learning Market 2021 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2027"
+    excerpt: "New York, US, The business report released by Zion Market Research on Global Deep Learning Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast,"
+    publishedDateTime: 2021-04-21T12:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-global-leading-companies-analysis-revenue-trends-and-forecasts-2027-2021-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2021-04-20T09:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
+  - title: "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026"
+    excerpt: "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex"
+    publishedDateTime: 2021-04-19T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
-    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
-    publishedDateTime: 2021-04-19T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-overview-by-size-share-trends-growth-factors-analysis-opportunities-and-forecast-by-2027-2021-04-19"
+  - title: "Global Commerce Artificial Intelligence Industr Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
+    publishedDateTime: 2021-04-17T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-industr-market-size-share-value-and-competitive-landscape-2024-2021-04-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Oil and Gas Industry Market Size, Share, Value, and Competitive Landscape 2024"
+    excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
+    publishedDateTime: 2021-04-17T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-oil-and-gas-industry-market-size-share-value-and-competitive-landscape-2024-2021-04-17"
     type: article
     provider:
       name: MarketWatch
@@ -76,61 +90,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report by Trends, by Type, by Application – Global Forecast to 2025 – Cumulative Impact of COVID-19"
-    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
-    publishedDateTime: 2021-04-19T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-by-trends-by-type-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-19"
+  - title: "Artificial Intelligence In Food and Beverages Market Analysis | Recent Market Developments | Industry Forecast, 2027"
+    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
+    publishedDateTime: 2021-04-21T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-analysis-recent-market-developments-industry-forecast-2027-2021-04-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Industry Report by Share, Growth, Key Regions, Segments, Trends, Technology and Forecast till 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2021-04-19T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-report-by-share-growth-key-regions-segments-trends-technology-and-forecast-till-2028-2021-04-19"
+  - title: "Global Artificial Intelligence in Genomics market is expected to grow at a CAGR of 53% during 2021-2026"
+    excerpt: "According to the MarkNtel Advisors research report Global Artificial Intelligence in Genomics Market Analysis 2021 the market is expected to grow at a CAGR of 53 during 2021 26 AI enables the efficient interpretation of large complex datasets and decreases"
+    publishedDateTime: 2021-04-20T18:20:00Z
+    webUrl: "https://www.openpr.com/news/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Research Report by Type, by Distribution Channel – Global Forecast to 2025 – Cumulative Impact of COVID-19"
-    excerpt: "The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by 2024 at a CAGR of 42% in"
-    publishedDateTime: 2021-04-20T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-research-report-by-type-by-distribution-channel-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market Size, Demand, CAGR of 41.9%, By Type, Application and Manufacturers Industry Revenue Analysis and Forecasts By 2027"
-    excerpt: "CAGR of 41.9%, Market Trends - Extensive adoption of smartphone The global Machine Learning Market is forecast to reach USD 35.67 Billion by 2026, according to a new report by Reports and Data. The increasing trend towards cloud computing,"
-    publishedDateTime: 2021-04-21T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-demand-cagr-of-419-by-type-application-and-manufacturers-industry-revenue-analysis-and-forecasts-by-2027-2021-04-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/4/U420137063_g.jpg"
+        width: 800
+        height: 273
         isCached: true
   - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
     excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
@@ -148,6 +136,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
+    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
+    publishedDateTime: 2021-04-19T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Retail Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial Intelligence in Retail Market size is expected to grow at an annual average of 37 during 2021 2027 Artificial intelligence AI refers to the simulation of human intelligence in mechanisms programmed to imagine and mimic behavior like humans"
     publishedDateTime: 2021-04-21T11:32:00Z
@@ -159,24 +161,56 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-19T06:44:00Z
-    webUrl: "https://industribune.net/uncategorised/63516/speech-and-voice-recognition-market-2021-covid-19-impact-on-industry-share-revenue-and-key-players-2/"
+  - title: "Global Speech & Voice Recognition Market 2020 Definitions, Classifications, Applications, Industry Analysis and Forecast by 2026"
+    excerpt: "The most recent report namely Global Speech & Voice Recognition Market Growth (Status and Outlook) 2020-2026 by MarketandResearch.biz contains all the stats, data, facts, and figures collected from trustworthy sources such as websites,"
+    publishedDateTime: 2021-04-18T14:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-voice-recognition-market-2020-definitions-classifications-applications-industry-analysis-and-forecast-by-2026-2021-04-18"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
-  - title: "Speech and Voice Recognition Market 2021 Insights on Industry Share, Revenue and Key Players"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-21T09:49:00Z
-    webUrl: "https://industribune.net/uncategorised/65337/speech-and-voice-recognition-market-2021-insights-on-industry-share-revenue-and-key-players/"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Services Market 2021: Trends, Growth and Profit Analysis, Forecast by 2030"
+    excerpt: "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global artificial intelligence services market is expected grow"
+    publishedDateTime: 2021-04-19T06:10:00Z
+    webUrl: "https://www.openpr.com/news/2271826/artificial-intelligence-services-market-2021-trends-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271826/artificial-intelligence-services-market-2021-trends-growth"
     type: article
     provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 25
+  - title: "Global Language Processing Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2027"
+    excerpt: "Apr 19, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Language Processing Market”"
+    publishedDateTime: 2021-04-19T07:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-language-processing-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New Study: Global AI (Artificial Intelligence) in Environmental Protection Market 2020 Size, Growth Analysis Report, Forecast to 2026"
+    excerpt: "Growing environmental concerns such as carbon emission air pollution and global warming have surged the need for shifting from conventional sources of energy to renewable sources of energy Human growing demand for resources is leading to land use changes depletion"
+    publishedDateTime: 2021-04-19T10:17:00Z
+    webUrl: "https://www.openpr.com/news/2272014/new-study-global-ai-artificial-intelligence"
+    ampWebUrl: "https://www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "EhegXam5HU3NAEfRH3dX0eXIj19wx5oWCBBQMe8lyPYznsfoGD40TiiTCH3CXqBXA4gzUYqCqmodff1ok/G4hd9iCTXtIVCm5OSCbkP7u7/acWi5NabDqn96Gf1LrgJyz6wuGaNH96RzRbj5hhj+oGTZmJtSuTxbo/iWaCfWHZyhh8uM4WPnd2FZJ05mHdtGP2CoHauh7iBAlQ3TJ0CriecReMYUHC4GuPjQCVDYmkOY+DcRRy5pHbYXAcEZB3ajhNV6bQ9K/d2iU0aATdedJFXb1A5q9HJ8ptF+MyaruWvGg0tIIb7wvvMnAVaHGjuENWM0SeDvsOZi57YKaRH3RLb9gS5OQTqzrYMfZJC5PLo=;xf06M/1XsqLEsYZY253PkQ=="
 ---

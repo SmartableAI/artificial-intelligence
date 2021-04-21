@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 480
     height: 270
     isCached: true
+
+related:
+  - title: "HW News - RTX 3080 Ti Arriving, GPU Warranty Shadiness, Intel Fires at NVIDIA"
+    excerpt: "This week, we have several news items anchored by fairly substantial announcements from both AMD and Nvidia. Nvidia kicked off its GTC 2021, and with it, had several key announcements, including its first data center CPU."
+    publishedDateTime: 2021-04-21T15:00:00Z
+    webUrl: "https://www.gamersnexus.net/news-pc/3650-hw-news-rtx-3080-ti-gpu-warranty-shadiness-intel-vs-nvidia"
+    type: article
+    provider:
+      name: Gamers Nexus
+      domain: gamersnexus.net
+    quality: 36
+    images:
+      - url: "https://www.gamersnexus.net/media/k2/items/cache/100c9dca03642d3643dbd8ed1039a858_M.jpg"
+        width: 450
+        height: 225
+        isCached: true
 
 secured: "iU+RSzxwZg2e/MwvW/xnYWWeigSrc5D4uLTUPWS0abFhfGci3jMAI1yooB4ZpK1QSvh+856s4sZ2IUfWW4c9Y7XAXgteuGIM4ixSoV6PpXTM6x+8V+HPPVQGk09Dyqg3g4tEJkG9StY/7pJcPp7IiAb5Fata41Ou9I+Y+2nC0ZESbiPzlD9hJ40mFyHYZlQCcTaSBfl4zIAW9KRhBET4PH8y4K5MAR1h4e6+wzuM41x3tjmJ+014SdzBG55HvuAsWbdJqJEqXofwczjPUNfBUEm7P7x2Z6fEJUXkdjA1V0tuzxwiYbWduIud9FC3Ycl5o1IkFPyKWi22s/oNLCLMU6qWgqP9gF5YwSsVNA2O/Fr/sR/5qqxPyTP1Ffp0LeL/a4jj8cZYxpn0w5vhXem4JvO2I1Ahr64Ne0kC/D9ezxeYEn95tUz7jzldk6XZVsh8+ftITm/o5ZuBFGm7f3iSHbVV5FwQkE7yAyAqVZph41Fga6HGs46g0ccrrRt2JQumwRtJYdLRcUJY9vW/a77fWg==;79zOkWzvsZxMJ+dumH0zXg=="
 ---

@@ -46,7 +46,7 @@ related:
   - title: "Self-driving shuttles debut at Wright Brothers National Memorial"
     excerpt: "\"Another Wright Brothers moment. A very exciting day in terms of the first pilot project of an autonomous shuttle in a national park,\" Superintendent for National Parks in Eastern"
     publishedDateTime: 2021-04-21T11:04:00Z
-    webUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
+    webUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
     ampWebUrl: "https://abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
     cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
     type: article

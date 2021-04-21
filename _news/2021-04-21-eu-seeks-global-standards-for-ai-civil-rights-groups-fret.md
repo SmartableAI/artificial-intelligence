@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C81E0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81E0"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 545
     isCached: true
 
-secured: "wl5ULm64+UEv9h3jn+lT4W3priaktqSGY1svbvw9Fvxyx4NiNxo8lXJUfSs9x+KsfqqVAXqfgUyEh2vXNDq8gA48YtxXZRoMbyPzhiJ+oJyuk7hZsUAvla/lI0/9Tusfen/dnQIOk/22DfIt1/pBzsNaMHuthbMDW7k8gJzYpO1hBFhNIsm97ZgT6VtJkbTkS9s8bQXbdj9Gsy02LGMMH9Sc3MmoCx2VpilgM/rgHxXpyMlC2zZermsoHGrO2kj2ilLfbYhs8oofSiSBjoTdf8QhenEp9QJSafXlRnadiRCkhm883sIj97mRrzga1cO0GlR5ZvGjf9f07zPzIRWF9uh3P+rksH47eFBj17Q+hU8=;qlXMnCfvK/+GHRRHKpTySg=="
+related:
+  - title: "EU's drafted AI policies aim to keep Big Tech in check"
+    excerpt: "On Wednesday, the European Union announced new proposed artificial intelligence regulations, limiting how governments and corporations can use AI's more ethically dubious aspects."
+    publishedDateTime: 2021-04-21T14:23:00Z
+    webUrl: "https://appleinsider.com/articles/21/04/21/eus-drafted-ai-policies-aim-to-keep-big-tech-in-check"
+    ampWebUrl: "https://appleinsider.com/articles/21/04/21/eus-drafted-ai-policies-aim-to-keep-big-tech-in-check/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/04/21/eus-drafted-ai-policies-aim-to-keep-big-tech-in-check/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/41533-80544-EU-1-xl.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+
+secured: "m9vIx1QVBsybahXIMlyxSmWAO+J3xcVtzTqfvVTOKSphLWRbxFca76CfFUEBmDCWyO0WSjLMnuGhDKNAe7xnw3S/NUplMIN6TA8005ZKp1jpUvHL+JwXNkuvIsHNEU/Tj/J03VGOtfqoEzub1ALDLce/g+FVEuuXu9W8nO6Fpsdo0KVi+7ngqdfaikO31BUk3WaZXkV7Qpyr95p5VqmGalKftQyKjSWlo+e4jKUqvRlUN1oV1nfZx8vxr1MgdF5m+g1r9iUX/uNsecPoS1YrRBBunik27rdn+O5C98t/jLbadmPhf77HgXB3sSqIQ8hWTR/5LCqtAZYWcqG7v6TV347T/p+bSh6BlabbxspB9/UbPdP6TnwKwTXBn3qaTWqXcjiYN6CTKV+2qkwHP3iVoYs74Kr48XUCqj0GU3lI0t45AdMt9G/Cn02xbF07v8W4y6hICYJEoxv7in/ruzEXNcHRupMai9JacJ1BLWppwG7DtyepjGyebrWDdxHhdrx4hKjEOyVJ4CMb433d4+Vm2w==;BuZQSqdL484oSbFgWggm3w=="
 ---
 

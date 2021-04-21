@@ -33,6 +33,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Israel and UAE Defense Companies Partner on Artificial Intelligence"
+    excerpt: "This partnership will help both countries not just in terms of their militaries, but also in building better banking and healthcare industries."
+    publishedDateTime: 2021-04-21T14:12:00Z
+    webUrl: "https://nationalinterest.org/blog/buzz/israel-and-uae-defense-companies-partner-artificial-intelligence-183274"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 39
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/D25%20%282%29.jpg"
+        width: 1600
+        height: 1238
+        isCached: true
 
 secured: "Qis1aA6BX+MqURTqWXTRCuEXCdIUh4++3QssV2sd+1+kZoxt0+a+UwFeaHx9cPb6XQAobFV0xe1OKi/x/IdIYlakmNYur2XRfgbFsCfd/Plm0jWZbWAcLgHbuZjAvWOqfft9eoH2TD8YkS1TyoSknS6cy5iGj2fYz6AupyZfcGHX2H9NHti0Gb94FUYia6JxvKeaB9sETRwsk0/mwzwdqO4ou3rZlh2biPxIiUnE1nSA/+AhisvWmeFvzX46wP5hTSpJKQVUZX+aDHj9r58xVoZjp5bi32AHetPRmlNdAF8nPGvpsxOVvGdVeJVjJbbE689Ccl/U1du3tQMsIdFWSe2T2Ty2XX5jrfEeX/kjOso=;s6o1nm/9pXo61JblMpSCkQ=="
 ---

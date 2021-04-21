@@ -131,44 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
-    excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
-    publishedDateTime: 2021-04-20T16:28:00Z
-    webUrl: "https://www.openpr.com/news/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    ampWebUrl: "https://www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/4/U420595093_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Artificial Intelligence in Retail Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence in Retail Market size is expected to grow at an annual average of 37 during 2021 2027 Artificial intelligence AI refers to the simulation of human intelligence in mechanisms programmed to imagine and mimic behavior like humans"
-    publishedDateTime: 2021-04-21T11:32:00Z
-    webUrl: "https://www.openpr.com/news/2273226/artificial-intelligence-in-retail-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2273226/artificial-intelligence-in-retail-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273226/artificial-intelligence-in-retail-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
-  - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
-    publishedDateTime: 2021-04-20T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2272686/artificial-intelligence-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
   - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
     excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-04-19T06:44:00Z

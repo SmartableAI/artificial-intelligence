@@ -2,6 +2,206 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2021-02-25-cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes.md",
+      "title": "Cloudera aims to fast track enterprise machine learning use cases with Applied ML Prototypes",
+      "excerpt": "Cloudera's AMPs don't replace what data scientists do but give them a starting-off point so they can focus on the code, nuances, and iterating for the business use case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "originalUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/94ba4cfc-3950-4830-a2e6-368e11058911/cloudera-ml-4.png",
+          "width": 706,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "publishedDateTime": "2021-02-25T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations.md",
+      "title": "Google and MongoDB double down on cloud alliance with deeper Atlas integrations",
+      "excerpt": "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/consortium-2x1-1.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
+      "publishedDateTime": "2021-02-25T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk.md",
+      "title": "CyberLink Partners With Vypin to Integrate Facial Recognition Into Security and Health Kiosk",
+      "excerpt": "Vypin launched the Vypin eScreener™ kiosk with the latest in automated screening technology to promote health and safety without sacrificing the employee or customer experience. CyberLink’s FaceMe® SDK powers the eScreener™ kiosk’s ability to detect whether a face mask is present or not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/d/6d/d6d14fc6-56e3-5d3b-81a1-92f51b1689aa/6037b55fdb736.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
+      "title": "Otter.ai raises $50 million for AI transcription",
+      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "publishedDateTime": "2021-02-25T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-leveling-the-business-playing-field.md",
       "title": "Artificial Intelligence: Leveling The Business Playing Field",
       "excerpt": "Covid-19 has catalyzed the accelerated adoption of AI-based business analytics, workflow and process automation.",
@@ -1004,187 +1204,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-the-6-myths-of-machine-learning-ai.md",
-      "title": "The 6 Myths of Machine Learning & AI",
-      "excerpt": "I recently came across a pretty interesting report, “The 5 Big Myths of AI and Machine Learning Debunked.” The report ends with the statement “AI is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/6-myths-machine-learning-ai-steven-pogrebivsky",
-      "originalUrl": "https://www.linkedin.com/pulse/6-myths-machine-learning-ai-steven-pogrebivsky",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEblFArk4uOKg/article-cover_image-shrink_720_1280/0/1614272850315?e=1620259200&v=beta&t=06MH2zYSAeBG2aFJiiLK5tdA3BmAGmP_-Ff-Kc2Vans",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-waterbridge-invests-in-nymble-labs-building-a-robot-that-can-cook-food.md",
-      "title": "WaterBridge Invests In Nymble Labs Building A Robot That Can Cook Food",
-      "excerpt": "It uses artificial intelligence (AI) and machine ... is another consumer kitchen startup Rotimatic, which is a roti cooking bot, which looks like a box but it is a robot. Rotimatic is available ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "originalUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
-      "title": "Amazon launches computer vision service to detect defects in manufactured products",
-      "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "publishedDateTime": "2021-02-24T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.md",
-      "title": "Using machine learning to identify blood biomarkers for early diagnosis of autism",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
-      "publishedDateTime": "2021-02-24T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-21T12:30:00Z
 originalUrl: "https://www.fiercebiotech.com/medtech/ai-key-to-unlocking-mysteries-alzheimer-s-neuroimaging-startup-imeka-betting-it"
 webUrl: "https://www.fiercebiotech.com/medtech/ai-key-to-unlocking-mysteries-alzheimer-s-neuroimaging-startup-imeka-betting-it"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://qtxasset.com/fiercebiotech/1618951822/GettyImages-1196084872.jpg/GettyImages-1196084872.jpg?NeF.dNEoWG0HKmnYrjrL99u4.x9e30oV"
@@ -23,6 +24,6 @@ images:
     height: 3997
     isCached: true
 
-secured: "Vye96a320pIfUJo9ClkGBQ2WfYKxVpA0mMOC93Nbo+ad7PgQQsFiSw1r1SxeUtO7m9XVpfDp24MH8oulrdYbRuzjXLwFT7P6OQ0lAh7fsSKZhl8tTOvIg6d2lDU3tNV4q1avxtw+GmfzmlYWMRCWNQr7coi7EM1EeCcIGQXd+17zPKOmdJP7ytvN94rifwD9rW3/+W9i9vFsJwf/Q3bmKpI48+VuTWCwcyaFGYbpYHJhhE8yb7jMXlcdG+pqNNQIOE8aX/60els2TqopMf8D0/jI9FxmivPjUoug4qNJ94gMtwTqPWiTHa0kZnhDvfrXc8FiDeZRAwObHE+hW4F+Fxmpny1lMfMmzzyfPoUG9XY=;qwyyrfCxhKcLz2HyKuHrlQ=="
+secured: "D/MmALX3I0Q7GxhoBvazgPHncdt0i1AuAbbnYrXADOSN48OsRM7k4BThxo2BOK/27ZJ+p8hKMbLZqlCqMu6sKZyIeI0//dUf1MxIq1bpgRDv5ByZeLoSDqNxRoLCPhMcvdrSynX7aRY6Bo/BKrJ7RL+AVmF0HBQJ/G8tVsolRcn5dnyNPZqxVHtgTgRWeJPKxJakpLLIOKH4BucB9hSUZ0cG7tNtOS5IVP08UWAvyNCYxA49/z44gpQ893YSztCWm5MZ4uM+8gtnBTncYxeERci+1e2rJpPeaWrT4r0VScgEI7ZaUbdtzOMlSILn8Ng2YTwBtSchK0eBlf81KDAXQdsUR5I8E31n3ZnZ9xzVk7E2BfIblELca2ihRWnLWQLQZ4q9fP9dA1yIwlw/qq1TjIlbJZ5+GdhgtUxbzX76Jg2NesYFEh7GKIfRhn6+kNO9+IrCPw/eNaTXcQaEN3p+tkTNbiD9xRX5XxEZhhVlDelwJ6KDAC9w9AhqTCJB8ixzY9Erl8VCf+akrDPlrR8ylQ==;EcWEUl6N+dgST1bGu9RX9g=="
 ---
 

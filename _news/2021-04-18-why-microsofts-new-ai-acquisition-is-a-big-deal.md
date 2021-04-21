@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -167,6 +167,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "UK government agrees new three-year deal with Microsoft"
+    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
+    publishedDateTime: 2021-04-21T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
     excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
     publishedDateTime: 2021-04-17T00:29:00Z
@@ -185,6 +199,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 30
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
+    publishedDateTime: 2021-04-21T14:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-science-technology-business-77896c9ed77048668233ecd552c5913e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qqnCCaNB8U0wvTe2ZUQNXexiYtR0IdHrcRciqV9QVUrbBr63RySkPi++ZhjQnffERnqPhgqHNXhTtHpqUzMperGxK2MjDv/4cMhV6Vo0MdNSWlWcXkcXaKc38q2Ktc5TJFPJSuWc1kOCdUK5Bd5Fze28+HHO4paDOrJUuNQ09iRTY1pjlX/gyjMF9ov15TPzX7adOt9oPDc4nXYM8eX+J9DTAY1wKZ49sOqrtSPCurD/Pbj4BY6hz8TupcSxjvVo/sDhFX0MKYSJunvuMr/wn0DAunvkbZHW+c4p9CU5IR2azwTbz1WyvHJGCxas+06413I+jNpnixohFHMBPRKyRvzlW2cBcaBWszzRdMix88/EX6Yz/7OJo0HXA3sHebf8SmS+y5kEcVUVDnE/G1bXndu3bUm/Ls0WE/L+oherXIhp81tsTolc4iA1SOrIsev479sxQoAv6roM6QESlVA73TRDTqduqZ2oTCa5RWCBMJBzPoNvTKSricoIoCl9PDMKD/Ut+vm9H3y9kHD4IHo0lw==;XbHZYJ+zMY7NIr9kWpf2fQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
+    excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
+    publishedDateTime: 2021-04-21T15:11:00Z
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=mw_latestnews"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://images.mktw.net/im-328104/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amid ethical concerns, facial recognition has gained some traction in the US"
     excerpt: "Identifying shoplifters and fraudsters may make sense for retail, but what about for marketing? And what about face masks?"
     publishedDateTime: 2021-04-20T12:38:00Z
@@ -146,6 +160,20 @@ related:
       - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
         width: 480
         height: 322
+        isCached: true
+  - title: "EU proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
+    publishedDateTime: 2021-04-21T12:24:00Z
+    webUrl: "https://apnews.com/5226382bb316f8aad4cbc5637f03a44c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
+        width: 3000
+        height: 1941
         isCached: true
   - title: "COVID vaccination drive: Face authentication and not facial recognition to be used, says Nandan Nilekani"
     excerpt: "The former Unique Identification Authority of India chairman Nandan Nilekani clarified that face-authentication based on Aadhaar will be used for the vaccination drive, not facial recognition as has been reported in certain sections of media."

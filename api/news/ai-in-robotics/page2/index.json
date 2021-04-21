@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-robot-police-dog-patrolling-nyc-in-video-sparks-black-mirror-robocop-comparisons.md",
+      "title": "Robot Police Dog Patrolling NYC in Video Sparks 'Black Mirror,' 'Robocop' Comparisons",
+      "excerpt": "Robotic dogs called Spot and built by Boston Dynamics are demonstrated during the Amazon Re:MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada on June 4, 2019. New Yorkers compared the city to Robocop after ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "originalUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1776950/robotic-dog-built-boston-dynamics.jpg",
+          "width": 2500,
+          "height": 1851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-police-dog-patrolling-new-york-video-black-mirror-robocop-1583202?amp=1",
+      "publishedDateTime": "2021-04-13T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
       "title": "Self driving robot car will start delivering Domino's pizza in Houston",
       "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
@@ -960,19 +1012,19 @@
     {
       "path": "_news/2021-04-08-appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to.md",
       "title": "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ...",
-      "excerpt": "Acquisition of Root AI and its signature robot, Virgo, bolsters company’s intelligent tools to produce foods sustainablyRoot AI CEO Joins AppHarvest as Chief Technology Officer",
+      "excerpt": "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ...",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
-      "originalUrl": "https://omaha.com/business/consumer/appharvest-acquires-agricultural-robotics-and-artificial-intelligence-company-root-ai-to/article_42e75dad-32fd-5f83-92cc-55e5bd1b90f7.html",
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -982,11 +1034,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T03:00:00-07:00",
+      "publishedDateTime": "2021-04-08T03:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1361,58 +1413,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-has-invested-28-billion-in-norwegian-robotics-firm-autostore.md",
-      "title": "SoftBank has invested $2.8 billion in Norwegian robotics firm AutoStore",
-      "excerpt": "For example, SoftBank backed U.S. warehouse robotics group Berkshire Grey in 2019 ... Nathan Benaich, a venture capital investor with a focus on artificial intelligence, told CNBC that the pandemic has clearly been a \"boon\" for warehouse logistics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105170051-GettyImages-915309154.jpg?v=1588214950",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/softbank-invests-2point8-billion-in-norwegian-robotics-firm-autostore.html",
-      "publishedDateTime": "2021-04-06T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

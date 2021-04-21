@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-gpu-for-deep-learning-market-2021-global-insights-and-business-scenario-forecast-to-2027.md",
+      "title": "GPU for Deep Learning Market 2021 Global Insights and Business Scenario forecast to 2027",
+      "excerpt": "The analysis of the global GPU for Deep Learning Market includes the most recent market developments as well as the factors and parameters that influence it in both the short and long term The study provides a comprehensive analysis highlighting",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "originalUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U421446298_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "publishedDateTime": "2021-04-21T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-chinas-ai-chip-investments-for-2021-total-usd-31-billion-so-far.md",
       "title": "China’s AI Chip Investments for 2021 Total USD 3.1 Billion So Far",
       "excerpt": "According to Chinese media report on April 19, there have been at least 21 AI chips investments involving 17 companies since the beginning of 2021, totaling approx. RMB 20 billion (USD 3.1 billion). Among them,",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -151,7 +195,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -256,7 +300,7 @@
       "originalUrl": "https://www.techradar.com/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -297,6 +341,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-intel-hiring-hundreds-for-ai-chip-development-in-israel.md",
+      "title": "Intel hiring hundreds for AI chip development in Israel",
+      "excerpt": "Intel unit Habana Labs is expanding into new offices in Tel Aviv and Caesarea as the tech giants do battle to provide AI chips for data centers. The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips.",
+      "sourceUrl": null,
+      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "globes.co.il",
+        "domain": "globes.co.il",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1382,110 +1469,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-google-whitechapel-in-house-chip-for-pixel-phones-things-to-know.md",
-      "title": "Google Whitechapel in-house chip for Pixel phones: Things to know",
-      "excerpt": "This advanced chip will have a three-cluster setup with TPU (Tensor Processing Unit) to assist machine learning for a better AI experience within modern apps. GS101 has to be an 8-core chip, which will be powered by two A76 cores making up the bigger half ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/",
-      "originalUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/Google-Whitechapel-chipset-for-pixel-phones.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/amp/",
-      "publishedDateTime": "2021-04-11T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
-      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
-      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
-      "originalUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
-      "publishedDateTime": "2021-04-08T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

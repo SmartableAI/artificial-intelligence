@@ -62,7 +62,37 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "European Commission Reveals Rules & Actions for AI in the European Union"
+    excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
+    publishedDateTime: 2021-04-21T15:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/EU-flags-at-the-European-Commission-Berlaymont-building-guillaume-perigois-unsplash-300x230.jpg"
+        width: 300
+        height: 230
+        isCached: true
+  - title: "EU outlines ambitious AI regulations focused on risky uses"
+    excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
+    publishedDateTime: 2021-04-21T15:31:00Z
+    webUrl: "https://apnews.com/article/technology-business-government-and-politics-artificial-intelligence-data-privacy-5226382bb316f8aad4cbc5637f03a44c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
+        width: 3000
+        height: 1941
+        isCached: true
 
-secured: "UabfgrTnPDMZGqV2BamH8YBNw9kY7HRJJQ0TDzGK3XX5c6Z07V/eGqp68H7tgk37U2phhHrN+Ax3MyACK2xy6iK7r/R7NTLuyRod9C0KkVKmzL0/0fOW+erKVRsIjjEp55hirwPlOHr4yiKKsnSJp86w11vS7O5VIQPWcF79EEntvBamHo5SBHHhckr+G2YqjChPayp0f92PrJmMdj9xEX5kvWtK+tK3F+Rrzra4Zv+Cl5DByyR4WcZecBlmi9Xbd+EneVCq3StFrMD+fpVfjdF3wlsYzBIkNNKh5WOvruKAejmiR4WyfadYJtCOPVPKaCLEUYIYHDtme/PEY1q2RRStbewoxHMt7aitS0UhEB0=;VlwEJSTCfc62AK2gJZLVWA=="
+secured: "zAZ637QT+2cCA9y2pyeEY1pDAL2wXxgLcXC7ymAaCVu2NNb7kuov3eIzuigAItKQmR5kI4CbvSvOXPx8Ebrbbnjk2kAMm7reNlwZj5X/3fVvVcSaj9CvLPrTiBbxxlvnIzoAK2YyCbQygmKcRvKNbZbUyMeihWUhjkqEaEhvux67ANdMihafu9a2WbzdNBshVWmKtUt06NfDvr6BUkcPZ2xd3bFElz3J0Xk/H0b5IP1dSS2p87g8j1pVXehc3LYZSJuD3NoFMvw6etGBrqmzdKjkHQEv18ZNG8Kc7gC5iGqo7JY6dGSiB7mCaKKelBGIPHeC9Q/foVQcc/xDko1zO4LDg86W6HRxB9563mdXBzdgVUKUvhXk5WY9UNSx6EP2Q6CprLyD4zAPsNr8F1I+HhT/xmBU+is6bPeN+Y3YHA4Hlg/f6EWrIDwJ2W2K3ZwbCz236dQuACrf5yhgh7rQO0/e4Xc8ZgaGzVDL7Fj8UHp5G2aMQmfxLHEM61xDLhtAGpk5wsZlLBSVLZ+pC4ldqw==;v5FZk+wJY8qY2bYSpDRw4A=="
 ---
 

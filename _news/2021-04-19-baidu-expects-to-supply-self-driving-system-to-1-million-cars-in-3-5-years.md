@@ -8,7 +8,7 @@ webUrl: "https://www.metro.us/baidu-expects-to-supply/"
 ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
 cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
+    width: 800
+    height: 533
+    isCached: true
 
 related:
   - title: "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years"
@@ -89,6 +95,6 @@ related:
         height: 533
         isCached: true
 
-secured: "XbIQ5DfUQYCa/5f1Uvt51UutamUOjKyfoLkf6qY3dQFVgsakyjlh8uCFFmw4MvpCO7fEpilT+/KnpbY83ZuKayeM8XrKeRO2OcE9ztoPhuqlV6SiKzKgnPqgyQGboprYytSCfvJqqDzH4/NziQdaCcFTNjr5Pdp3Epx5Ed0kzITCM3X/khw4ypQYmua8N9rUQjiCyTeAg0ptIx5tkyQJYWQZ5pjOyfqmqeb2MgcPzzQkTlpbgMEIZZuOrvRS6P/YdOc6OKhZ6a6xfcePYJ1nJEnPlTvOAAFZViT5Z7zxNKRSp5i82ZvSxE+A70jtk/h1PnOKCDPcJkjk7QoC8ZvxVLTRYMLoujUIDcFFQsi2ljU=;UEnExWvWuV0e2SDD7n11Kw=="
+secured: "rXKlKXX4EuSuy/xjJR9AN4t+ViuzqEw0rOIQXZgOp/YTxSMAc2lUCn4EYUKDRJcx9hvEw4ejHNDEY/Z6s5mqobTgvP8RhE2xU2/Rzmr6JjR/zJgkTXlIsXKMIXsglFtyUplX9o1geSeM7ea9FnZN7rJVVvQi161O7lgdSNUAU1ULE3KIfhpilrjQwCq8w3RuT3zWO7G7jT05dxkywyCLRVHB/IhDcqAaOCGzep/hNo5hkG/35oZ8SwAd95iuwYMgZY50Ro8mda4h9zQ3odUNu79zzeHr5auok8W4ve/A44rFtUpy8da+iHd1t6kbTCSB1vuCpHsB+qIv7caGzPAvRR8jgYvjWqJpCxaIdSxRzJY=;/8zPB7CG36K4eyC/vBTUGA=="
 ---
 

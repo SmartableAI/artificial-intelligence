@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/danl-na041921.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-04/danl-na041921.php"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "New machine-learning program accurately identifies COVID-19 conspiracy theories on social media"
-    excerpt: "A new machine-learning program accurately identifies COVID-19-related conspiracy theories on social media and models how they evolved over time--a tool that could someday help public health officials combat misinformation online."
-    publishedDateTime: 2021-04-20T04:59:00Z
-    webUrl: "https://www.news-medical.net/news/20210420/New-machine-learning-program-accurately-identifies-COVID-19-conspiracy-theories-on-social-media.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210420/New-machine-learning-program-accurately-identifies-COVID-19-conspiracy-theories-on-social-media.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210420/New-machine-learning-program-accurately-identifies-COVID-19-conspiracy-theories-on-social-media.aspx"
+  - title: "COVID-19 May Have Rewired People’s Relationships With Artificial Intelligence Forever"
+    excerpt: "Now we rely on technology to be able to do things. So this appreciation for technology might be changing the way we think about machines and make decisions with machines,” de Melo suggests. “This"
+    publishedDateTime: 2021-04-21T14:41:00Z
+    webUrl: "https://observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/"
+    ampWebUrl: "https://observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 32
+      name: Observer
+      domain: observer.com
+    quality: 50
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://observer.com/wp-content/uploads/sites/2/2019/09/gettyimages-537566459.jpg?quality=80&strip"
+        width: 3383
+        height: 2701
         isCached: true
 
 secured: "Q1Y9bwgPbzNNbfL2jZhkpTw/7CvbqzVU+AQA07iRV+OzjNPBYnOJFwkPSB693aPVKEJ0hkhx/mgL965+9H23z8YonWvpngNhrAfGwoK5Z8m6b4H57E1hU1TSXjg+r7BB24+3VW32HOXGFQLOx55TaB21c4g8r7dmlyLzw3zjGBxETyz+VOrvj4mEhR6fJOHVYIH438oArPGjFW3qzEJGeYbLdlNthl43YIGQDyTgjpYp0EmGRp7ojyM7Jwzjz1P1/GU2exIo7M88z7106lXQ2Pn8DSpc2ZrJ3xMU3oe9td/T15FGSGqwWUvq1DWHHar4Vv8DBYtBEjlZ7004E8OVj/u6wu6iuOzeW2mPHcwkZxA=;HriXpUc8XW9sQ0C9VAXNOg=="

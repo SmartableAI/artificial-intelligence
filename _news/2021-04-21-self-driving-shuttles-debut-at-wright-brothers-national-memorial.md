@@ -3,8 +3,8 @@ category: news
 title: "Self-driving shuttles debut at Wright Brothers National Memorial"
 excerpt: "\"Another Wright Brothers moment. A very exciting day in terms of the first pilot project of an autonomous shuttle in a national park,\" Superintendent for National Parks in Eastern"
 publishedDateTime: 2021-04-21T11:04:00Z
-originalUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
-webUrl: "https://abc11.com/technology/self-driving-shuttles-debut-at-wright-brothers-memorial/10533639/"
+originalUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
+webUrl: "https://abc11.com/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
 ampWebUrl: "https://abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
 cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/self-driving-wright-brothers-shuttle-national-memorial/10533639/"
 type: article
@@ -113,6 +113,6 @@ related:
       domain: rrdailyherald.com
     quality: 4
 
-secured: "VKETv3irQgaNrYSO2dJOf8Tu0yDSyCjA8qogOz3EAF3Q57b1PYyZs6cEFdBnkxUdNjXBmfzLDreCWD5L54lgsrEo1CvG/iHIdKdzW3fLBwceU6K3rTkH9wFMtDOr8lnAQqByQvwGHl2Cc0BrmmdXDXWaQL4m6lIWrcaJ85a6a8/E6UbVcLSXCgXqRb+hrGyO5XlfMS6Ezy2SHHHIsfYz5BeDxI27xc+nCfxK6VCAtsJh2/sBznBnndRhAqZi1pUULRsAX74nOQvrxLg+RaHyToITafAi7vRn9h+ZFb9wlJdqYYX/rWT5qTCoGM9mMCirrmDmyTQI+/WHN+rgIwT5PKw2rT3wx+QIlQT99CkNG6U=;IK86eBgVY1R3rMa6L3anLg=="
+secured: "OILmCIfcnm/FXkvKnkAOVHUzFBC4tAwpIjwMPS8fc8MkLayMNfpwEdBM5WpEpnQI9IaSXMJPUUv+UuBb8O1H9Z0S6dvM2j4QuNK88hKydUKapT/Zy4PgA9perC/4/KHQZ4ybpkEJEkDIvA4hj7mYa5aDt7TJ0mQqAdZ10qR3uxezlhDZ6gHD+b8xJzkytB4UbNGxCEA1Ke68nfqe6SKB0qDmvuqxaSsqkbnmP35VCCOJnEuSlpRQby2c+FSPjxt9FBBkzKTlEj7GC0brMqpErZnfvO1zIgXXnWvE5wm2kr5fvlKeiC3/Cpm7rq3cBUnPspx0VzPjk6z8Ypc+RFvVQTTEiOQ92UQqPQK4vbVs7Lw=;K9wOdAX0UcW4AlNDiac0Lg=="
 ---
 

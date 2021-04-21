@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-04-05-rethinking-the-case-for-governance.md",
-      "title": "Rethinking the Case for Governance",
-      "excerpt": "Yet, positive energy aside, our traditional approach to endorsing governance of data, analytics, or AI remains ... a universal translator and navigational beacon—one which ensures that everyone, regardless of role, is speaking the same language and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
-      "originalUrl": "https://www.dbta.com/BigDataQuarterly/Articles/Rethinking-the-Case-for-Governance-146105.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-02-adapts-mission-to-empower-tech-users-with-an-ethical-approach-to-ai.md",
       "title": "Adapt’s mission to empower tech users with an ethical approach to AI",
       "excerpt": "The Adapt research centre for AI-driven digital content technology ... Researchers here seek to capture, communicate and translate language in a way that feels genuine for its users.",
@@ -1350,6 +1307,40 @@
       "provider": {
         "name": "TWCN Tech News",
         "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-global-natural-language-processing-market-to-grow-at-a-cagr-of-184-from-2020-to-2028.md",
+      "title": "Global Natural Language Processing Market to Grow at a CAGR of 18.4% from 2020 to 2028",
+      "excerpt": "Pune, India, March 22, 2021 (GLOBE NEWSWIRE) -- The global Natural Language Processing Market was valued at USD 9.2 billion in 2019 and is anticipated to grow at a CAGR of 18.4% during the forecast period. Natural language processing is a part of computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/03/22/global-natural-language-processing-market-to-grow-at-a-cagr-of-18-4-from-2020",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/03/22/global-natural-language-processing-market-to-grow-at-a-cagr-of-18-4-from-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

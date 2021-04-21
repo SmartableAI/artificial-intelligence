@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+    excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
+    publishedDateTime: 2021-04-19T04:41:00Z
+    webUrl: "https://www.metro.us/baidu-expects-to-supply/"
+    ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 57
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Baidu's Apollo smart bus gets green light"
     excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
     publishedDateTime: 2021-04-17T02:22:00Z
@@ -49,17 +65,6 @@ related:
         width: 2041
         height: 1356
         isCached: true
-  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-    excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
-    publishedDateTime: 2021-04-19T04:41:00Z
-    webUrl: "https://www.metro.us/baidu-expects-to-supply/"
-    ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 37
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z

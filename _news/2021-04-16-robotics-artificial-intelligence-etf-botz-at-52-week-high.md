@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Robotics & Artificial Intelligence ETF (BOTZ) at 52-Week High"
-excerpt: "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this"
-publishedDateTime: 2021-04-16T00:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863"
-webUrl: "https://markets.businessinsider.com/news/stocks/robotics-&amp;-artificial-intelligence-etf-botz-at-52-week-high-10023863"
+excerpt: "For investors looking for momentum, Global X Robotics & Artificial Intelligence ETF BOTZ is probably a suitable pick. The fund just hit a 52-week high and is up 99.4% from its 52-week low price of $18."
+publishedDateTime: 2021-04-15T22:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
+webUrl: "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-at-52-week-high-2021-04-15"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "WCNM6grKJfi9SGm8FplaqbEOTE6f/zkkYswLsFCGZBiz35xNBE13Wz8akEhiN8S5/szOxzfWZSMiZU70l20KA7KCbK9crYVaZiaWlKcmko2Gh/NcRDD61lT3YxFPCABkZozoprHg4SwDcACFOhGni5mHbBSLbOOV/ZIh9c12wT9ioIAEZnI0AKwhvqHqZyiDeMJ+LgNSYTuTAaMFOzhCsosVQEJsyMTvUPszwyZpY8aFhoIDuz0KJGqrGYcYNwbLsZvHQQZ3yUI9ZjZrAhZiKlhajR56kpLcQlh7eeedTjYCEUxbCmAee3/oaQXnGtuuLZR3LfCgGBq5qVEXlyHO3RpesWbXu6L3H/F+kVybge8=;7a153AKM2yPz2S2RrDcn8Q=="
+secured: "D8U8LJfOfyttDqS8GzM9gFI8VZvIWWSFo+lUaGHwrDMIP9CqMAjceLQtn9YzgXcnx2BX+SwXo/edbEv0VkmB1c3tFoxNvrY2pEZ1CvmeDdgHBFzvCZ9kCTTkactB+Z7mXPwWzFxKguHICuoZhlkzLPeUDqMIxw3VZ+xcQH/3mDjAWtoU8Kfc2ShG/d7yp3hfHc6k0MlvjJ1JEPfIUoN+I/6aTnYAxtQpxoSnvUi30QI8ChsciOw32rB9vaa7MH2QDn7sPWrk7lAQsC+zMs/WxVDHSwHVl0qtmL+omSL/b4uHvNk7T+I0srZRqBF4M1yUMPykciZg4aSr1Pw8MN4a02Yrs/L2h/69FWwEPK+q80I=;tvQw36f8nC+1DEY1IbRLUA=="
 ---
 

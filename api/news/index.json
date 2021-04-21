@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
+      "title": "How IBM Watson is helping clients build trust in data, models and processes",
+      "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/1153_AI_Innovation_RC_Blog_Leadspace_990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T07:30:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-gpu-for-deep-learning-market-2021-global-insights-and-business-scenario-forecast-to-2027.md",
+      "title": "GPU for Deep Learning Market 2021 Global Insights and Business Scenario forecast to 2027",
+      "excerpt": "The analysis of the global GPU for Deep Learning Market includes the most recent market developments as well as the factors and parameters that influence it in both the short and long term The study provides a comprehensive analysis highlighting",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "originalUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U421446298_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
+      "publishedDateTime": "2021-04-21T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-us-firms-said-using-israeli-tech-for-controversial-facial-recognition.md",
       "title": "US firms said using Israeli tech for controversial facial recognition",
       "excerpt": "AnyVision system touted as improving security and preventing crime, but social rights activists say practice infringes on privacy, could hurt marginalized groups",
@@ -145,6 +240,109 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026.md",
+      "title": "Global Artificial Intelligence in Retail Market Outlook, Industry Analysis and Prospect 2021-2026",
+      "excerpt": "The Artificial Intelligence in Retail market report provides a detailed analysis of global market size, regional",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-breakingviews-capital-calls-robots-and-fund-managers-can-get-along.md",
+      "title": "Breakingviews - Capital Calls: Robots and fund managers can get along",
+      "excerpt": "LONDON (Reuters Breakingviews) - BENIGN OVERLORDS. Fears of robots replacing humans in the asset management industry may be overstated. That’s one lesson from a relatively richly valued deal announced on Tuesday to bring artificial intelligence specialist Insig AI onto the London market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2C81VI",
+      "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2C81VI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559376422&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K0ZO",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C81VI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81VI",
+      "publishedDateTime": "2021-04-21T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -354,7 +552,7 @@
       "originalUrl": "https://www.reuters.com/article/us-eu-tech-artificialintelligence/eu-aims-to-set-global-standards-for-ai-fines-for-violations-idUSKBN2C81E0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -509,7 +707,7 @@
       "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -596,7 +794,7 @@
       "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -787,7 +985,7 @@
       "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -840,7 +1038,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1020,205 +1218,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-companies-continue-to-prioritize-ai-and-cloud-for-innovation-investment-according-to-the-latest-transforming-business-poll.md",
-      "title": "Companies continue to prioritize AI and cloud for innovation investment, according to the latest Transforming Business poll",
-      "excerpt": "Business decision-makers polled in the most recent Transforming Business survey said that AI and cloud are the top areas for innovation investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
-      "originalUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60751a6c3e3fe7001882a41e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp",
-      "publishedDateTime": "2021-04-20T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-nvidia-joins-with-ai-pathways-program-to-expand-access-to-ai-and-robotics-education.md",
-      "title": "NVIDIA Joins with AI Pathways Program to Expand Access to AI and Robotics Education",
-      "excerpt": "NVIDIA has entered into a three-year partnership with Boys & Girls Clubs of Western Pennsylvania (BGCWPA) to support the AI Pathways Institute, a program that exposes students to artificial intelligence and robotics education.",
-      "sourceUrl": null,
-      "webUrl": "https://thejournal.com/articles/2021/04/20/nvidia-joins-with-ai-pathways-program-to-expand-access-to-ai-and-robotics-education.aspx",
-      "originalUrl": "https://thejournal.com/articles/2021/04/20/nvidia-joins-with-ai-pathways-program-to-expand-access-to-ai-and-robotics-education.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thejournal.com/~/media/EDU/THEJournal/THElogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal",
-        "domain": "thejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive.md",
-      "title": "Why a Cedars-Sinai hospital and BP use facial recognition (exclusive)",
-      "excerpt": "Facial recogntion is widely used in entertainment, finance, and retail in various ways tp boost building security and stop criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/why-a-cedars-sinai-hospital-and-bp-use-facial-recognition-exclusive/amp/",
-      "publishedDateTime": "2021-04-20T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data.md",
-      "title": "Cape Privacy raises $20M to enable data science operations on encrypted data",
-      "excerpt": "Cape Privacy, a startup developing a platform that enables data science operations on encrypted data, has raised $20 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/0-e1592942906450.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cape-privacy-raises-20m-to-enable-data-science-operations-on-encrypted-data/amp/",
-      "publishedDateTime": "2021-04-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

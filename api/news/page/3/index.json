@@ -2,6 +2,212 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
+      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
+      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T16:44:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-move-over-artificial-intelligence-there-is-a-new-ai-in-town.md",
+      "title": "Move Over Artificial Intelligence, There Is A New AI In Town",
+      "excerpt": "What is Augmented Intelligence and why should you care about it? Why does Augmented Intelligence need AI Literacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de55517e34e233f65920b%2F0x0.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
+      "publishedDateTime": "2021-04-19T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai.md",
+      "title": "The Forbes 30 Under 30 Asia Startups Unshackling Businesses Using AI",
+      "excerpt": "The four cofounders of South Korean startup Selectstar are among the entrepreneurs in the Enterprise Technology category of this year's Forbes 30 Under 30 Asia list that are using AI technologies to improve everything from drafting legal documents to the way AI itself is trained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073b74ced6af72207d03133%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
+      "publishedDateTime": "2021-04-19T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ai-powered-shopping-app-the-yes-expands-plus-size-offering.md",
+      "title": "AI-Powered Shopping App, The Yes, Expands Plus-Size Offering",
+      "excerpt": "The Yes, an AI-powered fashion shopping app, is expanding its plus-size offering to nearly 40 size-inclusive fashion brands, including 11 Honoré, Misha Nonoo, Universal Standard, Levi’s, Madewell, Aritzia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
+      "originalUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de306e2e94a50b1c51836%2F0x0.jpg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
+      "publishedDateTime": "2021-04-19T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
       "title": "The AI arms race has us on the road to Armageddon",
       "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
@@ -208,6 +414,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-20-intel-hiring-hundreds-for-ai-chip-development-in-israel.md",
+      "title": "Intel hiring hundreds for AI chip development in Israel",
+      "excerpt": "Intel unit Habana Labs is expanding into new offices in Tel Aviv and Caesarea as the tech giants do battle to provide AI chips for data centers. The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips.",
+      "sourceUrl": null,
+      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "globes.co.il",
+        "domain": "globes.co.il",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-12-expert-tips-to-help-small-businesses-affordably-leverage-aiml.md",
       "title": "12 Expert Tips To Help Small Businesses Affordably Leverage AI/ML",
       "excerpt": "However, with careful planning and targeted implementation, even small businesses can tap into the power of AI and ML. To help, 12 experts from Forbes Technology Council share tips to help small businesses incorporate AI and ML without breaking the bank.",
@@ -268,7 +517,7 @@
       "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -424,7 +673,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -992,248 +1241,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-what-waymos-new-leadership-means-for-its-self-driving-cars.md",
-      "title": "What Waymo’s new leadership means for its self-driving cars",
-      "excerpt": "The change in leadership hints at the broader state of the self-driving car industry, which has failed to live up to its hype in the past few years.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJohn-Krafcik-Waymo-CEO.jpeg&signature=8fe964b9ae04b0de1a5150feae3e71ba",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026.md",
-      "title": "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026",
-      "excerpt": "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
-      "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
-      "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "originalUrl": "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U419236836_g.jpg",
-          "width": 563,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market",
-      "publishedDateTime": "2021-04-19T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail.md",
-      "title": "Kerb-to-kitchen robots and the next big step for online retail",
-      "excerpt": "Online groceries company Ocado is further expanding its investments in new technologies to automate as much of the delivery process as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "originalUrl": "https://www.zdnet.com/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2018/06/06/d3aec6af-0cb4-4947-857e-f01116bb1c02/ocado.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kerb-to-kitchen-robots-and-the-next-big-step-for-online-retail/",
-      "publishedDateTime": "2021-04-19T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
-      "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
-      "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2021/04/phone-technology-device-finance-business-tech-696x400.jpg",
-          "width": 696,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "publishedDateTime": "2021-04-18T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

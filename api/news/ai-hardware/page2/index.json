@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-11-google-whitechapel-in-house-chip-for-pixel-phones-things-to-know.md",
+      "title": "Google Whitechapel in-house chip for Pixel phones: Things to know",
+      "excerpt": "This advanced chip will have a three-cluster setup with TPU (Tensor Processing Unit) to assist machine learning for a better AI experience within modern apps. GS101 has to be an 8-core chip, which will be powered by two A76 cores making up the bigger half ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/",
+      "originalUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/Google-Whitechapel-chipset-for-pixel-phones.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-whitechapel-in-house-chip-for-pixel-phones-things-to-know-11667831/amp/",
+      "publishedDateTime": "2021-04-11T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat.md",
+      "title": "Intel’s new AI helps you get just the right amount of hate speech in your game chat",
+      "excerpt": "It’s bushwhacked a trail of technology and innovation in the decades since to become one of the leading manufacturers of computer chips worldwide ... of Intel that uses AI to power “White ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
+      "originalUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/bleepfeat-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/04/08/intels-new-ai-helps-you-get-just-the-right-amount-of-hate-speech-in-your-game-chat/amp/",
+      "publishedDateTime": "2021-04-08T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-habana-labs-chosen-to-ai-train-the-voyager-supercomputer.md",
       "title": "Habana Labs chosen to AI train the Voyager supercomputer",
       "excerpt": "Artificial intelligence (AI) chip maker Habana Labs has announced San Diego Supercomputer Center (SDSC) selected it to provide high-performance inference accelerators and AI training for its Voyager supercomputer. SDSC’s Voyager, scheduled for release ...",
@@ -1371,101 +1475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
-      "title": "Fridges, microwaves fall prey to global chip shortage",
-      "excerpt": "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai told Reuters in Shanghai. “It’s a perfect storm,” he said on the sidelines of the Appliance and World ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
-      "originalUrl": "https://www.reuters.com/article/us-chips-shortage-appliances-idUSKBN2BL0ZY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4",
-          "width": 796,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL0ZY",
-      "publishedDateTime": "2021-03-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess.md",
-      "title": "US chip giant Nvidia to recruit 600 engineers in Israel to boost AI prowess",
-      "excerpt": "The US firm, which completed acquisition of Israel's Mellanox Technologies in 2020, already employs over 2,400 workers in seven R&D centers including in Yokneam, Tel Aviv, Raanana",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
-      "originalUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/-ומייסד-אנבידיה-גנסן-הואנג-קרדיט-צילום-באדיבות-אנבידיה-e1617007247895-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-chip-giant-nvidia-to-recruit-600-engineers-in-israel-to-boost-ai-prowess/amp/",
-      "publishedDateTime": "2021-03-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

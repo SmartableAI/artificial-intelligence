@@ -172,6 +172,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "UK government agrees new three-year deal with Microsoft"
+    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
+    publishedDateTime: 2021-04-21T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
+    images:
+      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T12:57:00Z
@@ -181,6 +195,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 30
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
+    publishedDateTime: 2021-04-21T14:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/health-science-technology-business-77896c9ed77048668233ecd552c5913e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "PZACGDw3hjokIK15uDnptEmBJLrJUVSr6seRs/xUk5oKpQGpsQucpN/RSHyo4+W9LzrSt/c45tzVPoFogMJlcge+1KLdSbixWO5zoMCf2xJdeTxUS+MdV3wyqIV8YOlyUgBfF1aRzq0vQ74m8/LC+yCN7JYTGddq8zHuV4QIbmodJzxWG5jdaRAwVfdjtkZcIacsTUnvuCRZ8KaIRwrF3Dy1/Gx0Bu5XgJI7FpdTnjhlwoEUgWZa105CtvBz4+2/YdpduhcTLZr75yh3mKzhbhLp3UCsffkIC1XvcPamyZmKVSUJzWvTuMmr6PYtSm1G5+UeCVT7gn1e19k8r6F0DH3iw2teoOWHsT6TNe0UR1fOGFg83//7eZOWEw6bW0hSr01qwjnmPs9V4ZesB8nAk25yK0/UOw5KjEJPx/pQhNnyO+kf7J+/xj/P+EkRNl4oJFt7w2Be95Hsz6R1XaknogYt4mVPCKxfx/5q0GqwtHBI/L1hxcuVD5kiWR7iSpchOVrQEpKhnPZbGmC+S1LJNQ==;btBhIwOSlZDY+wfy426rlg=="
 ---

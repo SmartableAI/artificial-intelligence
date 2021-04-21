@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Streaming Solutions Expand to Assist Healthcare Providers"
-excerpt: "The pandemic has had several major side effects on the healthcare industry, helping to accelerate the digitization of healthcare"
+excerpt: "The pandemic has had several major side effects on the healthcare industry, helping to accelerate the digitization of healthcare services across the board."
 publishedDateTime: 2021-04-21T13:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20724501/streaming-solutions-expand-to-assist-healthcare-providers"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20724501/streaming-solutions-expand-to-assist-healthcare-providers"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20724501"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20724501"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/streaming-solutions-expand-to-assist-healthcare-providers/article_a0192e13-2ac3-5d24-87ab-37b386937ca4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/streaming-solutions-expand-to-assist-healthcare-providers/article_a0192e13-2ac3-5d24-87ab-37b386937ca4.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "t72w2inV5kHJVYecNKFFwjTnqOhmy/O39nFzW6YgToBUEwn56YaRG9RAFMjwa3OmLAp8/SUlAF2tZjrga/zIC8HDRuU4AmpjlJZoR2FTDMTdkTMEBn2f5V8MUOt1O73QaT5MO8JloYJBJs9dfRUjg+5AklIdTuFygqnRN+PiSVTU5ixgArsUuHN9IvEHGbRkOoJBRN4k8H/5s+JGmywFfpWVTfqOAUXAnl98IFqWejEp0ZmqfFXeM2U11hOOJM7nWG73mRpd8YrttWxoP8CfECsqb/AXB/YnEZf2L4znQFSuNQ0J11yuvWzLuib7/LLsiQ3iXVbE2vA56v4m/M1D194Uw5K2Pc9FGu16q7vdZX0=;MqlBO2P8EMffFZ5bSIM2Cg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "8Joc3dpw6ZFoBjHs4OJh0/U6Qq8vag+pYgWvQmI45COj8E8hWPPBjaUlRlUSLlaQup44jOZKStB7fPSt3vVZOH7jU7WWP85vPgliwJSN9WnGuo2O7OIedze2RaAMw6EiAUmLp7+FrJ0PtuQCdAJxoSDMeLso/dubsjdRg+QZLtLE4XeZtQA+DSdDeD64AoDPtr4qoelU116hvFS6KVWSk1EQfycGpTO+L8jco8hLHv/adPwHi9NlLe1+AA77GuCaajA3QUuFDjvfmSl7gtYeElCfmnJHTxp/WVvA20Z4m2rT3QHzFtFWE9NhjpcD+HiwPS/7EKvQ9yRKqtVo0RD1qGJgnVjXQ57+asbRfp9xH5s=;0F/Jgr6D3kokRGEzSmHtqg=="
 ---
 

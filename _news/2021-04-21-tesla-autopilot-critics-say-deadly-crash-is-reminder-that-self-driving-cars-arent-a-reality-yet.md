@@ -126,6 +126,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
+  - title: "Self-Driving Car Sensor Startup Luminar Hires Tesla, Intel Veterans"
+    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions. Palo Alto, California-based Luminar makes a lidar sensor that uses laser light to give self-driving vehicles a three-dimensional view of the road."
+    publishedDateTime: 2021-04-21T15:37:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
     publishedDateTime: 2021-04-20T15:00:00Z

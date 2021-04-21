@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
+    excerpt: "The AI in Fintech Market is forecast to reach 11 2 billion by 2026 growing at a CAGR of 29 75 from 2021 to 2026 Artificial Intelligence AI has taken the tech world by storm allowing companies to automate their"
+    publishedDateTime: 2021-04-21T15:14:00Z
+    webUrl: "https://www.openpr.com/news/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/4/U421427791_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI fintech firm TurnKey Lender secures new funding in DEG-led round"
     excerpt: "TurnKey Lender claims it tripled its annual recurring revenue year over year in 2020. According to VentureCap Insights data, its revenue for the previous year (FYE 2019) stood at US$2.57 million. It plans to use the new funds to scale the global adoption ..."
     publishedDateTime: 2021-04-21T11:22:00Z
