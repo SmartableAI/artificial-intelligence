@@ -71,20 +71,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
-    excerpt: "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-04-16T23:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
     excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
     publishedDateTime: 2021-04-21T04:11:00Z
@@ -177,15 +163,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Seattle judge allows data privacy suits against Microsoft, Amazon to proceed"
-    excerpt: "An “arms race” between tech companies to develop the most accurate facial recognition software has landed Microsoft and Amazon in court."
-    publishedDateTime: 2021-04-17T00:29:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/16/seattle-judge-privacy-suits-amzn-msft.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T12:57:00Z
@@ -210,6 +187,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fF5gWm+YaPU+YgZRWAtOQZJSA3drayA/rKwZp52/8QvujW+OSerfKObbZVC3q8t4+LycwefxBJdSkXoB0353BgnMyV9mddouLKLKJijpiEkcZvm2U2TeylI81fyRkzQpRRdUpqxmdd3KwBwGTOEQjCXLz4/Xgo8HQlsX2v/M3HCc/QQf/5apkISspviBZHsOcy8IV5rRg8dnqsMfwJ/Wo/+HhzK1sU6gGGZyXVlhSXmQCJHg3n916OKTK/dGcreo0lIvGo7rOQg38snJT27psBduiGY2JEWPy3OYkUgJ1fX7bCGrFRZBISFAeHWPqA8NlqTkVvhrCABho7IYWP0rqUi1bn1WZJf9juQ2cPs6KBU=;ActjgF8JhyCEyTZpUanspg=="
+secured: "YBcoSWU98obx+0SjPKa5OVyk1PmYHaDOoonxcc4z/33NEOXAhkI13WaYc/APhZF7Xi5Asgon9B1xAYqtWKJQVNvhzOsbSOHLrem38cLIImyFswo5nexQdHwqKqIwxIh9v5TtM6oAgylEPOaOmRxt3C/3LT0FLx36BN1QwoljBX/Y9LvgNYHLr+bHYqzFoxM+GeEz25wst94Ca4QBF4bmq+N5GDdI0alATExEc+JT1asudrNhIH91jOVm9CpNNtth2yitu5JFKUmXsq8zZ0DPUz2tqWAmj2xtavTax/8sJzeNH6SOLHFXieAoAacq1jY5Kxb3xNIZgq//WE87FzSwTAE5/OZa3gysqcb9/Xkg25MgGq+lwSTpf9cxsG2TgT/f5C0z4+CT2+ePxZsEHOaWbM+ZhJwhZeGIhzrD9yS73Ky8vwYZrNDKDJJn6rxjIdAFLoUzg0R75SbR1qUqmMh5B3p1N3ZUQF5yvoAAhZwt9z5zHF0KeB+19+pp2UjUINJzQ9AWUnOiFIW55Ugbmly0wA==;IMy27k8BcKqUTrbS5PNtww=="
 ---
 

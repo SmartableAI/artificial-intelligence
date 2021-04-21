@@ -3,13 +3,13 @@ category: news
 title: "EU seeks global standards for AI, civil rights groups fret"
 excerpt: "The European Commission on Wednesday announced tough draft rules on the use of artificial intelligence, including a ban on most surveillance, in an attempt to set global standards for a key technology dominated by China and the United States."
 publishedDateTime: 2021-04-21T11:48:00Z
-originalUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence/eu-aims-to-set-global-standards-for-ai-fines-for-violations-idUSKBN2C81E0"
-webUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence/eu-aims-to-set-global-standards-for-ai-fines-for-violations-idUSKBN2C81E0"
+originalUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0"
+webUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C81E0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81E0"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -24,8 +24,8 @@ topics:
   - AI
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559354477&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K0RB"
-    width: 822
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559403133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1BP"
+    width: 968
     height: 545
     isCached: true
 
@@ -46,7 +46,21 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "DMU researchers contribute to EU's proposed standards for regulating artificial intelligence"
+    excerpt: "A report that outlines proposed rules for governing artificial intelligence (AI) has today been published by the European Commission, after consultation with researchers from across Europe, including De Montfort University Leicester (DMU)."
+    publishedDateTime: 2021-04-21T16:11:00Z
+    webUrl: "https://www.dmu.ac.uk/about-dmu/news/2021/april/dmu-researchers-contribute-to-eu's-proposed-standards-for-regulating-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: dmu.ac.uk
+      domain: dmu.ac.uk
+    quality: 28
+    images:
+      - url: "https://www.dmu.ac.uk/webimages/About-DMU-images/News-images/2021/APRIL/Robot-photo-by-Possessed-Photography-on-Unsplash-Cropped-600x472.jpg"
+        width: 600
+        height: 472
+        isCached: true
 
-secured: "m9vIx1QVBsybahXIMlyxSmWAO+J3xcVtzTqfvVTOKSphLWRbxFca76CfFUEBmDCWyO0WSjLMnuGhDKNAe7xnw3S/NUplMIN6TA8005ZKp1jpUvHL+JwXNkuvIsHNEU/Tj/J03VGOtfqoEzub1ALDLce/g+FVEuuXu9W8nO6Fpsdo0KVi+7ngqdfaikO31BUk3WaZXkV7Qpyr95p5VqmGalKftQyKjSWlo+e4jKUqvRlUN1oV1nfZx8vxr1MgdF5m+g1r9iUX/uNsecPoS1YrRBBunik27rdn+O5C98t/jLbadmPhf77HgXB3sSqIQ8hWTR/5LCqtAZYWcqG7v6TV347T/p+bSh6BlabbxspB9/UbPdP6TnwKwTXBn3qaTWqXcjiYN6CTKV+2qkwHP3iVoYs74Kr48XUCqj0GU3lI0t45AdMt9G/Cn02xbF07v8W4y6hICYJEoxv7in/ruzEXNcHRupMai9JacJ1BLWppwG7DtyepjGyebrWDdxHhdrx4hKjEOyVJ4CMb433d4+Vm2w==;BuZQSqdL484oSbFgWggm3w=="
+secured: "w6LHo9JD80QxmvWaaQsstbsMy7dzTg6aAPETl6bWGh45no+BRXTTrZWNrBaYfryydDG/eVQrkoNbyyzVLIZL6igVpLbvOut88pVGrui1dtv+8ZovtczqDpDLd72BBliCrlULtOonEdSBOUSbfTVlXtXzAn0EgNEgAGHLaPxfPpuzSFu8CuRfyeNpHj/lXVJiRosaYt3h01BZ18m46oHpYS3p3tUmnyfLVE54PlxyhaAV6E+v4ogRGnUsXSPIAg+UEnE5qpSuLwT+Ch2XphQuWFVhePK1ZN1hMCkXo8X8EJlLESbeuA/TjViUgGTm/rW7BA9Wmva9c4j8/brB2/ihn0Toz1NhO0JzYDTZ0lOKCIs=;YVgTvBBZ4NYbGqFeCRcwCA=="
 ---
 

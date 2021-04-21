@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/analytics-ai-tips-to-grow-business
 webUrl: "https://www.businessinsider.com/analytics-ai-tips-to-grow-business-kellogg-marketing-2021-4"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Data analytics keeps attracting investment through the pandemic"
-    excerpt: "The pandemic is accelerating the adoption of data analytics enabled by AI and machine learning, often in the cloud."
-    publishedDateTime: 2021-04-16T23:20:00Z
-    webUrl: "https://venturebeat.com/2021/04/16/ai-weekly-data-analytics-keeps-attracting-investment-through-the-pandemic/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&#038;strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "This video analytics startup aims to be the Google Analytics for offline retailers"
     excerpt: "Gurugram-based Veda Labs is a video analytics platform that uses existing CCTV infrastructure to provide businesses with insights like total footfall, demographic overview, customer journey, and more."
     publishedDateTime: 2021-04-19T23:50:00Z

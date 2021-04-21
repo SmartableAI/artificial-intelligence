@@ -2,6 +2,134 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-02-23-robot-making-a-mechanical-mind.md",
+      "title": "Robot: Making A Mechanical Mind",
+      "excerpt": "Robot came from an old Czech word for drudgery and servitude. Though in his play – like so very many robo-dystopias to come – the writer showed that a mind we create to serve us isn’t necessarily a mind we can control. Read a transcript of this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
+      "originalUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2021/02/ScienceDiction_Horiz_robot-min.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-hey-siriwhy-dont-you-understand-more-people-like-me.md",
+      "title": "Hey Siri—Why Don’t You Understand More People Like Me?",
+      "excerpt": "Lawrence’s own experiences being misinterpreted because of her Trinidadian accent inspired her to study how voice recognition systems embed “accent bias.” Linguistic studies have found that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
+      "originalUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motherjones.com/wp-content/uploads/2021/01/462_Accents_2000.jpg?w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mother Jones",
+        "domain": "motherjones.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
+      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
+      "excerpt": "With this acquisition, VerSe brings on board Cognirel Founder Ram Prakash to head its newly instituted AI Lab. Local language tech platform VerSe Innovation, the parent company of news aggregator ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies",
+      "originalUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock414162808-1587643214924.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp",
+      "publishedDateTime": "2021-02-23T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni-bets-on-future-of-autonomous-vehicles.md",
       "title": "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles",
       "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
@@ -1038,152 +1166,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibm-may-sell-its-1b-watson-health-business-report.md",
-      "title": "IBM may sell its $1B Watson Health business: Report",
-      "excerpt": "\"Watson was one of IBM's highest-profile initiatives in ... in part because physicians were hesitant to adopt artificial intelligence,\" the report said on Friday. \"IBM is studying alternatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "originalUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/rksghucichfic.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "publishedDateTime": "2021-02-22T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-nanit-raises-another-25m-for-its-ai-powered-baby-monitor.md",
-      "title": "Nanit raises another $25M for its AI-powered baby monitor",
-      "excerpt": "Nanit’s nursery camera pairs computer vision with specially-patterned clothing to help answer the question that most new parents ask themselves roughly every 90 seconds: “Is my baby still breathing?” This morning the company is announcing that it has raised an additional $25",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
-      "originalUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/nanit.jpg?w=1024",
-          "width": 1024,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
-      "publishedDateTime": "2021-02-22T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
-      "title": "Disrupting tech hiring: How AI connects companies to talent",
-      "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/hiring.GettyImages-508480019.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "publishedDateTime": "2021-02-22T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -1,0 +1,146 @@
+---
+category: news
+title: "Europe wants to set the rules for AI. Not everyone thinks it's going to work"
+excerpt: "Navigating between business needs and citizen concerns is difficult. The European Commission's new rules on AI give it a go, and it will inevitably raise skepticism."
+publishedDateTime: 2021-04-21T09:36:00Z
+originalUrl: "https://www.zdnet.com/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+webUrl: "https://www.zdnet.com/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+type: article
+quality: 84
+heat: -1
+published: false
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.zdnet.com/a/hub/i/2021/03/30/a04dec51-1311-4a7b-8769-c965f8dc656d/istock-973159608.jpg"
+    width: 2119
+    height: 1414
+    isCached: true
+
+related:
+  - title: "Europe proposes strict regulation of artificial intelligence."
+    excerpt: "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology."
+    publishedDateTime: 2021-04-21T06:44:00Z
+    webUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 91
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Europe Proposes Strict Rules for Artificial Intelligence: Live Updates"
+    excerpt: "Europe proposes strict regulation of artificial intelligence. The technology that helped restaurants survive the pandemic. Retirees are taking on more debt. Here’s how to dig out. Catch Up: Netflix’s subscriber growth is slowing as its rivals gain."
+    publishedDateTime: 2021-04-21T07:40:00Z
+    webUrl: "https://www.nytimes.com/live/2021/04/21/business/stock-market-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/04/21/business/stock-market-today.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Europe lays out plan for risk-based AI rules to boost trust and uptake"
+    excerpt: "European Union lawmakers have presented their risk-based proposal for regulating high risk applications of artificial intelligence within the bloc’s single market. The plan includes prohibitions on a small number of use-cases that are considered too dangerous to people’s safety or EU"
+    publishedDateTime: 2021-04-21T12:23:00Z
+    webUrl: "https://techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/"
+    ampWebUrl: "https://techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/europe-lays-out-plan-for-risk-based-ai-rules-to-boost-trust-and-uptake/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
+        width: 1024
+        height: 563
+        isCached: true
+  - title: "EU proposes strict AI rules, with fines up to 6% for violations"
+    excerpt: "Violating the European Commission's draft rules on using AI, which ban most surveillance, can cost companies up to 6% of their total revenue."
+    publishedDateTime: 2021-04-21T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/"
+    ampWebUrl: "https://venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "European Union Moves to Regulate Artificial Intelligence"
+    excerpt: "The European Union’s executive branch on Wednesday announced proposals designed to regulate the use of artificial intelligence (AI), banning its use in practices such as surveillance and facial scanning that threaten personal rights."
+    publishedDateTime: 2021-04-21T17:23:00Z
+    webUrl: "https://www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence"
+    ampWebUrl: "https://www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 57
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-04/2021-04-21T114853Z_1093366680_RC2B0N9IYPRY_RTRMADP_3_EU-TECH-AI.JPG"
+        width: 4886
+        height: 3130
+        isCached: true
+  - title: "European Commission Reveals Rules & Actions for AI in the European Union"
+    excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
+    publishedDateTime: 2021-04-21T15:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/04/174467-european-commission-reveals-rules-actions-for-ai-in-the-european-union/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/EU-flags-at-the-European-Commission-Berlaymont-building-guillaume-perigois-unsplash-300x230.jpg"
+        width: 300
+        height: 230
+        isCached: true
+  - title: "EU outlines ambitious AI regulations focused on risky uses"
+    excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
+    publishedDateTime: 2021-04-21T15:31:00Z
+    webUrl: "https://apnews.com/article/technology-business-government-and-politics-artificial-intelligence-data-privacy-5226382bb316f8aad4cbc5637f03a44c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
+        width: 3000
+        height: 1941
+        isCached: true
+
+secured: "Edk1kJ4LnOjWEwTTtMZX1FuKPq9pTGHPLPpdeYT8KmoOkwnwAuMgsjWLZfqgkw/fM+qllqoV9iExjHAHgEWk3d0JIKVRw387K3XXateecw1FPB3HRpKJSJzbmFh3sHPKoBRJyHRlGbgu3kwijn9j25SS4fyJ+NeF1794PqUu8E80QFhNkMKUXVc6Ul2xKCp9jXnETCjwoFn/nyTWPgBDo+Laipn+tigVkIgV2TJaRB/BJhoxgKXr9IwIF4XjmlXXCMTlND+wBirb0no5rEB1PRJ7j9V8HicJX7ao5JW2Z+dhaOKW5plhiZZm3ucXdQR6DnlJA6dFzG7ZcIWLm26Vq1FfWLinleEK+CFY7coZUxw=;MEHC9or/YPw55080Ej1f1Q=="
+---
+

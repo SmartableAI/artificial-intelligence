@@ -29,7 +29,7 @@ related:
   - title: "EU seeks global standards for AI, civil rights groups fret"
     excerpt: "The European Commission on Wednesday announced tough draft rules on the use of artificial intelligence, including a ban on most surveillance, in an attempt to set global standards for a key technology dominated by China and the United States."
     publishedDateTime: 2021-04-21T11:48:00Z
-    webUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence/eu-aims-to-set-global-standards-for-ai-fines-for-violations-idUSKBN2C81E0"
+    webUrl: "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C81E0"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81E0"
     type: article
@@ -38,11 +38,25 @@ related:
       domain: reuters.com
     quality: 87
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559354477&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K0RB"
-        width: 822
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559403133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1BP"
+        width: 968
         height: 545
         isCached: true
+  - title: "DMU researchers contribute to EU's proposed standards for regulating artificial intelligence"
+    excerpt: "A report that outlines proposed rules for governing artificial intelligence (AI) has today been published by the European Commission, after consultation with researchers from across Europe, including De Montfort University Leicester (DMU)."
+    publishedDateTime: 2021-04-21T16:11:00Z
+    webUrl: "https://www.dmu.ac.uk/about-dmu/news/2021/april/dmu-researchers-contribute-to-eu's-proposed-standards-for-regulating-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: dmu.ac.uk
+      domain: dmu.ac.uk
+    quality: 28
+    images:
+      - url: "https://www.dmu.ac.uk/webimages/About-DMU-images/News-images/2021/APRIL/Robot-photo-by-Possessed-Photography-on-Unsplash-Cropped-600x472.jpg"
+        width: 600
+        height: 472
+        isCached: true
 
-secured: "btEsfq+P2X7ojKA+YsWwEx7/q5SL8d5mOfhVAmm1zp7UGBQX6Agsj1c2UrwYyRiSdH/3/3EanJg4cZ57Uo7sO+9JXjyzQQ+K6MW1lN7oXsapGAZASfw4xDfcpb21EZIq6qzqE/v5egQxW8Sok4RvpnUhq6ihxvn5I1d4W/Hhsdq5x8jBTxcG23KKDKT5+yLkeMQit2c8YEKHfz03zms7RT7wif3G6Vh5wNb/x2p50PCdTF0LaY4P/fhGBkXStFU5LkGxHFSWac/4LNBR7yphu98vdJc+Chhhi2YT0gBNLqI05Ilmc5d+/ifH6wWrR7SSwYSRhwMWF+ezGsE6azhTGmjF5qptb+3giW12egd/2mw=;2HpV810vFZs44MWGsBk4Tw=="
+secured: "kGwog0f0iPzxdYBQ5zWxlKAbxYXE4I8aBr4rQFz229YHXiHDZoUJ6R1ZuXHnWnSJBLVs3Ye6hdnoXpokzw2hve1H54QQRKMvw8gtKVJG31ZqCnMCqO2EuUJFum2L04kolEH1NmRUpXJu5TpOfG7aRDUECRg+tyUnVqH2LKDrkWr2+H1wH/yd59YCnakEZZWSkdt3GgSQnQwXIa9kjF8clWmIWau3ToVKbX7w0wJvO+jS1GM29usK9ZkBrX/elnMlxUYpP1LadVTfQywgeR95FO8ZGQMBd+A/KY8m0CglJjy8VIE1hQkuKzQ9yBcfO+W6g70M9VPyggQ0iXHj1bwoJZlf/uG8uD9RZWfEvNNmIieI4lC0+3McRKcL3ri4bVcNAQkg2RtOW65/ZchE4RtvgBIO57Vvj/LNZvo7GhWW3ZFF1x90qtNDoHfj0pLOiuKwFlBAzNMTx5ID1jy+GLNVJ86QWjoyrN7L6ZncFcjQLLbaWIfbMX1rc5+Jgj3bHtwO01myUETBsfp5P11ahiEyjQ==;UuCbxgql2R9b+827jArpwA=="
 ---
 

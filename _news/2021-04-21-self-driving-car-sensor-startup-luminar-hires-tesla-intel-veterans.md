@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Self-Driving Car Sensor Startup Luminar Hires Tesla, Intel Veterans"
-excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions. Palo Alto, California-based Luminar makes a lidar sensor that uses laser light to give self-driving vehicles a three-dimensional view of the road."
+title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
+excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
 publishedDateTime: 2021-04-21T15:37:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
+originalUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
+webUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
+ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -118,6 +120,20 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk Is Critic Of Laser Lidar For Autonomous Cars, But Top Tesla Lawyer Joins Luminar"
+    excerpt: "Luminar, a newly public maker of laser lidar sensors that help self-driving cars see their surroundings, has hired Tesla’s acting general counsel Alan Prescott as chief legal officer."
+    publishedDateTime: 2021-04-21T16:33:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-critic-of-laser-lidar-for-autonomous-cars-but-top-tesla-lawyer-joins-luminar/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60805126a743ac4ab6e76763%2F0x0.jpg%3FcropX1%3D116%26cropX2%3D1357%26cropY1%3D0%26cropY2%3D751"
+        width: 1200
+        height: 726
         isCached: true
   - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
     excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
@@ -251,6 +267,6 @@ related:
       domain: indystar.com
     quality: 6
 
-secured: "KFwtlYhCV3/vt8bqDh8USfUwsX8ggiFoQiyKUzggiizwesVc6lPfAOHMuARq1Bdq4qkPEFKcOHWXVv35xR4jQ1zV+sySPkRyBhjTLt8gU3o6239WCas0v6Fy6/NtWEM4lMHQRzFULSlEfWxXuMj5hCVLYx6O4W5Khb/RlKBgkCLyG9RPMrh8SMux+wlSRMJDBP/GUAYBL46099kjGH0azGa8Nr9x/YJ6IWloEgexu0TUpYYM5vgcl1Zfpy0dCota2dCGiqkozMC0l9frGMh8kBFg+zeTLbZfYdMYqvqO6FgAtyLZjal+dO7hayQUfKWqFpOK4BeOB2eddR64N/POsl/zLRfywRS+QJnR+o4bFWU=;lPE5OY1ew6Eseiasl4kf2g=="
+secured: "5POh03i7ARyV02zSkOS++uYZQhCFRTjcTdgyHekYHs9Z7DnsUO/TvSVVcv9CzwuUqCUZmEPU+viD9qD+ZeciALMMbGHYiwBtOujO8j/SJwHyfaUzgQoxPlVNOGA4x8ZK2FZIbIAtkhFm8F5cvQ3cL6lL1x+5kfndHfKqW6v/OWdlaPh5gtwMrHxkmC2nafp/kAn7usf1kPQZi+LldlU8a+OJu5cBRRF9vgzr4gPZ7J08Y9gO8y80shFU1JhaThhFrOolSAsNMOnTX/kUtFuFIUG553rIPavN3CL+FOT0DTtPTIV9U373OvWtT5JhPi21go3WzzVVp6KjkjrU1JjJVpqxCqE43x6VVQ13g39VLAw=;TmSM/mjqBUYGcKYeisbb8w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "This has just become a big week for AI regulation"
+    excerpt: "It’s a bumper week for government pushback on the misuse of artificial intelligence. Today the EU released its long-awaited set of AI regulations, an early draft of which leaked"
+    publishedDateTime: 2021-04-21T16:15:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/ian-hutchinson-ruQxygBJMOM-unsplash.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
     excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."
     publishedDateTime: 2021-04-21T04:39:00Z

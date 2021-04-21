@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "This has just become a big week for AI regulation"
+    excerpt: "It’s a bumper week for government pushback on the misuse of artificial intelligence. Today the EU released its long-awaited set of AI regulations, an early draft of which leaked"
+    publishedDateTime: 2021-04-21T16:15:00Z
+    webUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/"
+    ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/ian-hutchinson-ruQxygBJMOM-unsplash.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "EU to unveil AI rules to fight Big Brother fears"
     excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
     publishedDateTime: 2021-04-18T22:22:00Z

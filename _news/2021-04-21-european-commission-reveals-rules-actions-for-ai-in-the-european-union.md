@@ -74,6 +74,54 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "EU proposes strict AI rules, with fines up to 6% for violations"
+    excerpt: "Violating the European Commission's draft rules on using AI, which ban most surveillance, can cost companies up to 6% of their total revenue."
+    publishedDateTime: 2021-04-21T17:40:00Z
+    webUrl: "https://venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/"
+    ampWebUrl: "https://venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/eu-proposes-strict-ai-rules-with-fines-up-to-6-for-violations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Europe wants to set the rules for AI. Not everyone thinks it's going to work"
+    excerpt: "Navigating between business needs and citizen concerns is difficult. The European Commission's new rules on AI give it a go, and it will inevitably raise skepticism."
+    publishedDateTime: 2021-04-21T09:36:00Z
+    webUrl: "https://www.zdnet.com/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-wants-to-set-the-rules-for-ai-not-everyone-thinks-its-going-to-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/30/a04dec51-1311-4a7b-8769-c965f8dc656d/istock-973159608.jpg"
+        width: 2119
+        height: 1414
+        isCached: true
+  - title: "European Union Moves to Regulate Artificial Intelligence"
+    excerpt: "The European Union’s executive branch on Wednesday announced proposals designed to regulate the use of artificial intelligence (AI), banning its use in practices such as surveillance and facial scanning that threaten personal rights."
+    publishedDateTime: 2021-04-21T17:23:00Z
+    webUrl: "https://www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence"
+    ampWebUrl: "https://www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/europe/european-union-moves-regulate-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 57
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-04/2021-04-21T114853Z_1093366680_RC2B0N9IYPRY_RTRMADP_3_EU-TECH-AI.JPG"
+        width: 4886
+        height: 3130
+        isCached: true
   - title: "EU outlines ambitious AI regulations focused on risky uses"
     excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
     publishedDateTime: 2021-04-21T15:31:00Z
@@ -89,6 +137,6 @@ related:
         height: 1941
         isCached: true
 
-secured: "shjPauEij7efI+5HrrJRiONTYKVl9k8eVZPFy8osJKGG405Hq946xaxtkqMw/zJblxEt6EQEr9E0I9f25T70g1nfsy7U/SEPGpMpAsA/10Z3FR6+ym2KFSUhHf6hQbXOXEHaX64GxX+Je2pIVpJRCHjlFjgIc3YelrsspXG+BASUKPCNrfCZ/Tu/ikSGaJGKxE3Q+JhuU5GzvbqASHkgKT+iGALPlPWVP6nlwXzPg55UGsNfExSdVUaT8X2zK+SnJWd0d53HgAtN6jaIDMAQmC16mqpK1+Ynnm2uhAjTxiAZ15lPsGWqhpeRUMiTfIu592V3S4dd7hM6zvjISYHoiMaROa2BFnPDxFMABunfb3w=;aY40YeqvpsFOeAGeL5vkig=="
+secured: "CqXBP7uVnacGHUd1CmdvPB+NZh9uZMfSOhnDnry40d8/vwq1mPnJjPSp81v0DSQruGKeUGD6zCIbKU1rlKe4lguUbEr8UgW2tfdyjaU/G7Rznm4lzMYqhAlKj+vyMhQnZKrYJs1MDIRU+i4Uk7OZUKtIpOW1melHLbvRqKT7cKJZU1rIac6OxuqZcP47fxGNs/4LPYsidSlGoO1uvPE5Cw9r3UlStX1kNL0nzeo4w7U+2koP7u/5w3n+tYJ0KUp1k/Ltgvh9N7uMAUYE4+7rO8oa6BRFyRtJykrOPM3K1Ff0UCxSSfFp60gWwo5dsojpo9NzaWfvscrCiiAAB8iqx1rAUikTeH2IiTmp/lSGCe2W7fPgAffZ8d9I4xusQcd6yjuKLPop0qXZbM2hb3qk2ZStdg14JjEvPjjX4fsukTYHTBzUpPvLq45Scwa6OyMJU+XtT1fbaftsQFY3X7J3syKBsppfEpAj93p4M6dEmz8DMXTIrVPKePFxY7edmeAs7/Tt2SBGiuBLaWhgxQO60Q==;VFQY9E9rfvGCuA2qVFQ0xA=="
 ---
 

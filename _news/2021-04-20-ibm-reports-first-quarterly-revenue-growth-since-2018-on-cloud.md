@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-fir
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
 type: article
 quality: 54
-heat: 115
+heat: 114
 published: true
 
 provider:

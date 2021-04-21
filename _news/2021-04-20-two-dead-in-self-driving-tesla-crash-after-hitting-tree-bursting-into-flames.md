@@ -75,6 +75,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
+    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
+    publishedDateTime: 2021-04-21T15:37:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
     publishedDateTime: 2021-04-20T04:01:00Z
@@ -107,6 +118,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk Is Critic Of Laser Lidar For Autonomous Cars, But Top Tesla Lawyer Joins Luminar"
+    excerpt: "Luminar, a newly public maker of laser lidar sensors that help self-driving cars see their surroundings, has hired Tesla’s acting general counsel Alan Prescott as chief legal officer."
+    publishedDateTime: 2021-04-21T16:33:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-critic-of-laser-lidar-for-autonomous-cars-but-top-tesla-lawyer-joins-luminar/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60805126a743ac4ab6e76763%2F0x0.jpg%3FcropX1%3D116%26cropX2%3D1357%26cropY1%3D0%26cropY2%3D751"
+        width: 1200
+        height: 726
+        isCached: true
   - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
     excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
     publishedDateTime: 2021-04-20T01:53:00Z
@@ -118,15 +143,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
-  - title: "Self-Driving Car Sensor Startup Luminar Hires Tesla, Intel Veterans"
-    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions. Palo Alto, California-based Luminar makes a lidar sensor that uses laser light to give self-driving vehicles a three-dimensional view of the road."
-    publishedDateTime: 2021-04-21T15:37:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-21/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
     publishedDateTime: 2021-04-20T15:00:00Z
