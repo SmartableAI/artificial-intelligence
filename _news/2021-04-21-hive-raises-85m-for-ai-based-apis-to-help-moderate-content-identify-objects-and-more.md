@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/amp/"
 type: article
 quality: 79
-heat: 100
+heat: 99
 published: true
 
 provider:

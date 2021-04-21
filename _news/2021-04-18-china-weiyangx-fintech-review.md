@@ -129,6 +129,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "FinTech For All: How This Startup is Making Online Financial Services More Accessible"
+    excerpt: "FinTech and financial inclusion are two of the hottest buzzwords in global socioeconomics. Financial technology is viewed as the solution to accelerate financial inclusion, especially in"
+    publishedDateTime: 2021-04-21T02:17:00Z
+    webUrl: "https://www.econotimes.com/FinTech-For-All-How-This-Startup-is-Making-Online-Financial-Services-More-Accessible-1606877"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 17
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210421a5d2624f89afd992f_th_1024x0.png"
+        width: 932
+        height: 698
+        isCached: true
   - title: "Media, Video and Audio Sharing Fintech Platform, Issuer Pixel Launches $2.5 Million Crowd ..."
     excerpt: "Issuer Pixel, a global, searchable, enterprise video and audio sharing platform connecting companies to the world, has launched a $2.5M A round offering campaign on Netcapital.com to support final development,"
     publishedDateTime: 2021-04-21T13:07:00Z

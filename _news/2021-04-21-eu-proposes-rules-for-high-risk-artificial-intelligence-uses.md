@@ -1,26 +1,29 @@
 ---
 category: news
 title: "EU proposes rules for high-risk artificial intelligence uses"
-excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
-publishedDateTime: 2021-04-21T12:24:00Z
-originalUrl: "https://apnews.com/5226382bb316f8aad4cbc5637f03a44c"
-webUrl: "https://apnews.com/5226382bb316f8aad4cbc5637f03a44c"
+excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
+publishedDateTime: 2021-04-21T11:41:00Z
+originalUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WBAL
+  domain: wbal.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
-    width: 3000
-    height: 1941
+  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
+    width: 512
+    height: 331
     isCached: true
 
 related:
@@ -42,8 +45,8 @@ related:
         isCached: true
   - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
     excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
-    publishedDateTime: 2021-04-21T15:11:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
+    publishedDateTime: 2021-04-21T15:12:00Z
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
     type: article
     provider:
       name: MarketWatch
@@ -69,6 +72,38 @@ related:
       - url: "https://lh3.googleusercontent.com/E_cMAw_6ix2GUy8rs4JkcSUpDJh0gZGa5szwD2LFasq0JWXeNQu2l-anSmN08fa9r2p2toDx_TQ8ILDUTA25DenYhRhxctfa=s1000"
         width: 1000
         height: 608
+        isCached: true
+  - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
+    excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
+    publishedDateTime: 2021-04-21T18:29:00Z
+    webUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/"
+    ampWebUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/60806e8937aa1cabc1105297/master/pass/business_facial-recognition_75287401.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Facial recognition, other 'risky' AI set for constraints in European Union"
+    excerpt: "Facial recognition and other high-risk artificial intelligence applications will face strict constraints under new rules unveiled by the European Union that threaten hefty fines for companies that don’t comply."
+    publishedDateTime: 2021-04-21T19:21:00Z
+    webUrl: "https://www.business-standard.com/article/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/13/full/1607877421-3501.jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
@@ -186,6 +221,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "MLiLJvCdDvRoV6yimkIC8/D87mHsm4hvC5AzNo3jTznv75QOtA0xy4IBHjz+AaqN1eJl97G0nZco41bBjnT1jvGCic+bqAakjIDrRz1lQpO5sMOMXWAjguSUWjX1f8J7TmeExPH7Bw19D6iIHmJGhugKrlZMbROOG+dWMYkhvBH+djdmcOPbZpiIxfThlLefyiRA2OfBiXCVEvNvSsxR0sGBGym71Ftcvvix0oLyK3I71uNOrNEqAFOwcTUGcc5PGXiH6dAnMex1/AbrDQjisTb+fXFx6cp0u22TfXHZfXdbBtMpNXS2TnN7lfqI3KbGehwDdReDAt6s/EOfoL4GgEdkdgXWrqVBX9FksMWY7xQ=;ca070puXi4VFRrdcyQ1XTQ=="
+secured: "HtvMcL0E8tV1qOi6SNnLMKQPhAwXcMmhElg1Om/QVCovxuOLUDMuefMF+sfQjQ31Afd7O/xQmzNbT7QSuNurm6kic/bm+9vZF5Q6Opt/STDKkC1hpWOD5SNrC+Ck0gdcfJATzkps2TEGjqYeRCUrwltEawFjNWWgzXXU1gTR46slfv2eebUlebkxuP4pc6wOB74c+v4bJlnxbVKJrB9hSID4WUD/MxEx5LMGB9wb1jXXIt+mk1ZzTghUh6FW3gxE5hyV2L0JtP6n1V3TpvbkD3jfEa4ZCGADrVGck3y9cqynnO+a8M2eT6JaCb26j1yxJEcedQjmTKmoGG6rfZCnG6mPt+3PpKU0KeJHkSt+1Bg=;IicTdG/GhvbZJr2ye/p4Fw=="
 ---
 

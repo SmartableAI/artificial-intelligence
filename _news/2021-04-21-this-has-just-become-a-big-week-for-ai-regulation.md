@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regula
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:
@@ -58,6 +58,6 @@ related:
         height: 509
         isCached: true
 
-secured: "3j9PKc+T4WaybahuWQZem5pOR3SuthLI2lYnMTVyfI9LlaXpBasZnHiEMwp7S7A+yjoctw8qANuFkLGZUYjRG1U6MXOpvALXiNj3SbXJ4EbXnme7T41hQSxTRZDz4DDLLvMTUKBw0N1M921mSmYL3IgER7fTfoIGWrEhwqx8x8Rwk8lRU/iGGtxko1D4WexgAPKVn2T6P7IoYHUKAJ/cqxAe00KjSFc1PV5QH7NrJcod4Tp3sR0pCyR4ku4JiuVUUBDtABD4K2lzjP+x1EkNAC/vcXYcif7KQTLnKdUR4OzeziJLdV1pivkdYIOTkXjJazb537IoVz/0qVpv3AV12gKrCF/QLkScP2HMMkf5fGA=;5rPADnNPtDf5p7v60DSYLQ=="
+secured: "RMOkImCF+AEv4udOuiC5rb0rAdDGw/rcZ1phseCFbyVVD10rirUStLyWv3fYQtQ1ti01q7GGLvM8KislDSf8RfNPb1MnMnZB5cb+JmPropAR2+YArO8/1OWJzOpM0W6ev7DyZ3SM2aEcuA48raGZoX8df/rk5L+dh3dOmpDAhCXHNIYsltqmpuPacdwDd2d0x3WoafDOFlRta2ZfCb0QH4h8kzgU4uTE7JgOeTlthrsYRL/utRyudKRZQ4/wEJwrcD+kMLRTimSkjapPq/d9c5MAvb1ESxACZ7Q38F3+R2+iBkGKbO/HV3OF3Rck9FhWB1Or6JK09EolrhBQGqlhpauGF4/CwmZsIZYWLZ4pq2a8ErLDuKtToqd6Dcj84RIL6W6DsPlo3U3tVKmaHm7NlNJLtDSOhsEbH0J22tk/TeJoj7c1U/AtlT2/gTvH3ipPyge527OhvQ7z4J1wxsoFX0DQGbecUV2DAcQ0QJrnRuJPF37CK8ea0CIbaz6pDl6HS8HHM/YtzHKEykCVIHyfUg==;X1Lbp2DDYCd/ItgPSMpZ0Q=="
 ---
 

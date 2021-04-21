@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-04-combining-superconductors-boost-ai-cap
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Combining Light & Superconductors Could Boost Artificial Intelligence Capabilities"
+    excerpt: "Optoelectronic integration at low temperatures using superconductors may be easier than at room temperatures using semiconductors. As artificial intelligence has attracted broad interest, researchers"
+    publishedDateTime: 2021-04-21T19:26:00Z
+    webUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/"
+    ampWebUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/AI-Spatial-Hierarchy-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
   - title: "Combining light, superconductors could boost AI capabilities"
     excerpt: "As artificial intelligence has attracted interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct systems with general intelligence comparable to humans' intelligence."
     publishedDateTime: 2021-04-20T20:54:00Z

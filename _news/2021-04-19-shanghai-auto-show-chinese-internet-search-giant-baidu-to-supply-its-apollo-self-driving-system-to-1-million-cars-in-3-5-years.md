@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-sho
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Baidu's Apollo smart bus gets green light"
-    excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
-    publishedDateTime: 2021-04-17T02:22:00Z
-    webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-04/16/AT_997a8602-8image_story.png"
-        width: 2041
-        height: 1356
-        isCached: true
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z

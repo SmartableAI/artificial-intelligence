@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-31-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
+      "title": "Scientists turn to deep learning to improve air quality forecasts",
+      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "originalUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/scientiststu.jpg",
+          "width": 730,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp",
+      "publishedDateTime": "2021-03-31T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
+      "title": "The Future of Lab Robotics",
+      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "publishedDateTime": "2021-03-31T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-octomize-your-ml-code.md",
       "title": "‘Octomize’ Your ML Code",
       "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
@@ -1064,100 +1150,6 @@
         "name": "Dataquest",
         "domain": "dqindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-xiaomi-invests-15-billion-in-fully-owned-ev-business.md",
-      "title": "Xiaomi invests $1.5 billion in fully owned EV business",
-      "excerpt": "The world's fourth-biggest phone maker Xiaomi now pledges to develop high-quality EVs with a 'best-in-class' connected device ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "originalUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2021/03/vbox12151_HSPH5091_212757.jpg?fit=1920%2C1080&ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/31/xiaomi-invests-1-5-billion-in-fully-owned-ev-business/",
-      "publishedDateTime": "2021-03-31T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-uniphore-raises-140-million-to-expand-ai-to-video-call-analysis.md",
-      "title": "Uniphore Raises $140 Million to Expand AI to Video-Call Analysis",
-      "excerpt": "“Labor-intensive contact centers couldn’t handle the deluge so AI and automation products like ours stepped in to fill the gap.” Sales tripled in the fiscal year ending March 2021 and the company is set to reach $100 million in annual subscription ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-31/uniphore-raises-140-million-to-expand-ai-to-video-call-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL.YJ53uTW1E/v0/1200x826.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

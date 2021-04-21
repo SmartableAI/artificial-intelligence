@@ -66,20 +66,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Baidu's Apollo smart bus gets green light"
-    excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
-    publishedDateTime: 2021-04-17T02:22:00Z
-    webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-04/16/AT_997a8602-8image_story.png"
-        width: 2041
-        height: 1356
-        isCached: true
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z

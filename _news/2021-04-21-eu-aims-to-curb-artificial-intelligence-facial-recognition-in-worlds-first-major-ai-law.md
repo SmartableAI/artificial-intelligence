@@ -2,9 +2,9 @@
 category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
-publishedDateTime: 2021-04-21T15:11:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
+publishedDateTime: 2021-04-21T15:12:00Z
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
 type: article
 quality: 90
 heat: -1
@@ -61,6 +61,38 @@ related:
         width: 1000
         height: 608
         isCached: true
+  - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
+    excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
+    publishedDateTime: 2021-04-21T18:29:00Z
+    webUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/"
+    ampWebUrl: "https://www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europes-proposed-limits-ai-global-consequences/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/60806e8937aa1cabc1105297/master/pass/business_facial-recognition_75287401.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Facial recognition, other 'risky' AI set for constraints in European Union"
+    excerpt: "Facial recognition and other high-risk artificial intelligence applications will face strict constraints under new rules unveiled by the European Union that threaten hefty fines for companies that don’t comply."
+    publishedDateTime: 2021-04-21T19:21:00Z
+    webUrl: "https://www.business-standard.com/article/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/facial-recognition-other-risky-ai-set-for-constraints-in-european-union-121042200044_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/13/full/1607877421-3501.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, according to new draft legislation seen by the Financial Times."
     publishedDateTime: 2021-04-20T18:28:00Z
@@ -107,6 +139,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "EU proposes rules for high-risk artificial intelligence uses"
+    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
+    publishedDateTime: 2021-04-21T11:41:00Z
+    webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+    ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 59
+    images:
+      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
+        width: 512
+        height: 331
+        isCached: true
   - title: "EU Proposes Restrictive New AI Regulations"
     excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
     publishedDateTime: 2021-04-19T16:33:00Z
@@ -151,20 +199,6 @@ related:
         width: 480
         height: 322
         isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
-    publishedDateTime: 2021-04-21T12:24:00Z
-    webUrl: "https://apnews.com/5226382bb316f8aad4cbc5637f03a44c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/055ded3e467747cfbef830c861e76f6a/3000.jpeg"
-        width: 3000
-        height: 1941
-        isCached: true
   - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
     excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
     publishedDateTime: 2021-04-20T11:45:00Z
@@ -191,6 +225,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "afkdAsQjomlBuIA140MJCeOOuuIxEtFEyIiaUKKMKjKegUxTL80+0jCl1wNrB4gLq+fj12JG2hGFPLJMdSQb57nCpKTBScZIvSFstt85zYYZRAA6B33biNzgKmkWdYaRO8aewbJWdeSD9QttWdQM4MiQKzBBq9AKbZcYLh9GcoK/90M6oJ9U2l+mBEG1inGSmbOUVLOjOA/MgNbygiO/w+nH061oyLJWcQmneDEzyQL+2GM2wzhwHpAtMaZBLIE5sdCyqTCRtJP8mN0zaBBCsHeF5tV+x4o9+zOxQw/tBTQIDwKxRo/JVO9x6mzqLazPrL1/2D22RopsNBFQjaf9PHyISb0+IqeyzKqeBXc1IfQ=;gX5BQ9scpVIabVDGBQuUtg=="
+secured: "6XduuzBqwnspmEC1esnp54EHpeMCly4EQR9yJVALc36KPenKxO7vOcVAHHSs+YG45Oh/UcXYrBSoeWLOYa8CwI3tg93nv+wI0d8BmF+HxC7I6IgopVAmPt15yINcbefhrLqjZIBlpqvfbm9hEQCZzVviVR1Cd2+gSrXg+Ac6jAkFMQL4234S+Ur9mwL4AfjUPTb8jaSPUlOkAAHkso0XD939EEBkFeqHaQj5rRLsu4zjf1g51UUf7foGDZwNe2rVM+YYeeQuwHn16HNbPTgOOL5i322hfJJ5qmFbYYZW1sAqBt1Fs+geiKlN+ZDXbbjftrCtXAn72KqsVw1tJlaOhs/IJZ/7isfILRV/kFYqnZM=;vMvxrxbOzBVmlps0OKLnTQ=="
 ---
 

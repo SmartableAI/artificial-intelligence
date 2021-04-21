@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-12-the-future-of-smart-cities-utilities-powering-progress-with-ai.md",
+      "title": "The Future Of Smart Cities’ Utilities: Powering Progress With AI",
+      "excerpt": "Optimizing a municipality’s strategy behind the entirety of its utility operations is one of the major keys to creating a “smarter city” and a more sustainable environment overall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc7bff27f61977148c37a4b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/12/the-future-of-smart-cities-utilities-powering-progress-with-ai/amp/",
+      "publishedDateTime": "2021-04-12T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion.md",
+      "title": "Microsoft Buys Speech Recognition-Firm That Helped Build Apple’s Siri For $19.7 Billion",
+      "excerpt": "Microsoft plans to use Nuance’s speech recognition and transcribing tools to expand on its health care tech ambitions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60741ca1c89a945e7b608580%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2092%26cropY1%3D110%26cropY2%3D1286",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2021/04/12/microsoft-buys-speech-recognition-firm-that-helped-build-apples-siri-for-197-billion/amp/",
+      "publishedDateTime": "2021-04-12T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai.md",
       "title": "SafeGuard nabs $45M to combat cybersecurity risks using AI",
       "excerpt": "To accommodate the coming influx, organizations are beginning to transform operations models through the adoption of AI to optimize, enhance, and automate threat and risk visibility, detection ...",
@@ -1120,110 +1224,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-facebooks-feckless-fairness-flow-wont-fix-its-broken-ai.md",
-      "title": "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI",
-      "excerpt": "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai",
-      "originalUrl": "https://thenextweb.com/news/facebooks-feckless-fairness-flow-wont-fix-its-broken-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Ffarinessflow.jpg&signature=c76856d8d026d8610cb1d9574bc71736",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-global-deep-learning-market-growth-status-and-outlook-research-report-2026.md",
-      "title": "Global Deep Learning Market Growth, Status and Outlook Research Report 2026",
-      "excerpt": "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

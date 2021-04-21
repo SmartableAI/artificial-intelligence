@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-20-nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo.md",
+      "title": "Nvidia GeForce RTX 3050 and 3050 Ti laptop GPU specifications revealed by Lenovo",
+      "excerpt": "Despite not being officially announced by Nvidia yet, the long-rumored GeForce RTX 3050 Ti and RTX 3050 mobile graphics cards have had their respective specifications leaked by Chinese PC manufacturer Lenovo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
+      "originalUrl": "https://www.techradar.com/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3ZNaGC9uMFGq9iMiKk5FAk-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
+      "publishedDateTime": "2021-04-20T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-python-is-devouring-data-science.md",
+      "title": "Python is devouring data science",
+      "excerpt": "Someone once said that Python’s data science training wheels would increasingly lead to the R language. Boy, was he wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/dna-research-science-medical-advancement-101334656-100264916-large.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615695/it-s-pythons-all-the-way-down.amp.html",
+      "publishedDateTime": "2021-04-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-boris-krumrey-uipath-on-rpa-for-digital-transformation-and-the-fully-automated-enterprise.md",
       "title": "Boris Krumrey, UiPath: On RPA for digital transformation and the fully-automated enterprise",
       "excerpt": "CloudTech spoke with Boris Krumrey, global VP of automation innovations at UiPath, on the wider role of RPA within digital transformation.",
@@ -95,7 +199,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/369803",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -405,7 +509,7 @@
       "originalUrl": "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -456,7 +560,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -602,7 +706,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -654,7 +758,7 @@
       "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -810,7 +914,7 @@
       "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1165,7 @@
       "originalUrl": "https://www.reuters.com/article/us-uipath-ipo-idUSKBN2C6192",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1143,110 +1247,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
-      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "publishedDateTime": "2021-04-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-gac-motors-to-launch-its-first-self-driving-car-with-huawei-after-2024.md",
-      "title": "GAC Motors to launch its first self driving car with Huawei after 2024",
-      "excerpt": "China’s GAC Motors is apparently planning on launching its first car model that supports self driving technology after 2024. The company is partnering with Huawei Technologies for its autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/",
-      "originalUrl": "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/04/MZ7XYVRYLRMF3PDC436LFXYEPM.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

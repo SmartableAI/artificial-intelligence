@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/17/why-microsofts-new-ai-acquisition-is-a-big-deal/amp/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fjohny-vino-R54V69BN0MI-unsplash.jpg&signature=de913f0a1ee80bdb56f6a999dee9653f"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
+    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
+    publishedDateTime: 2021-04-21T07:34:00Z
+    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
     excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"

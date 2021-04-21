@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Baidu's Apollo smart bus gets green light"
-    excerpt: "Baidu's autonomous-driving arm — aptly named Apollo — said this week it was granted rights to roll out a commercial self-driving bus program in the west of China, Barron's magazine reported."
-    publishedDateTime: 2021-04-17T02:22:00Z
-    webUrl: "https://menafn.com/1101930490/Baidus-Apollo-smart-bus-gets-green-light"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-04/16/AT_997a8602-8image_story.png"
-        width: 2041
-        height: 1356
-        isCached: true
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z
@@ -95,6 +81,6 @@ related:
         height: 533
         isCached: true
 
-secured: "6mI0C/9zrW5AQJOKrg8kbgbYK1ZlZWqQvm9rZyV/qR78q5qmAiDxZ3jDGbtezATQwBjD2TL6QcCze1J4b+96sKCBzod7KXvCLC2yROuqGpuIrU3Cr/mxkNSE3oQqTZrVKXnrftZOIf3jI9YcONBakvEhgQLRStmY3IhWhXwYJIPfQxgZBRWNXFzn9XVqmBSrVxOZg3WAmcbGhDCztkh73mznArFhuYk6lgRj+VL9Xodpg2PUrvLj0JrXzIzP5nGI/TXGkBz8kwTCG79DhxA/lm01oeXx3fbJzTf2ncrWFb6V6eVdjs+5Wg7KKtVV6zwJmBlphOz6x0tJsS/X6y/tUgFpuIXGVaoNHm/MthsTiwE=;XqmqQatO2N9sn/HZq2Rrrw=="
+secured: "6vDOmcQX3+Al+tjd+SpO2P3eOfmgoGTFFXMc7JNs1Otf2j+KQgl3njzYJDi6I6h1JbHIFwHkJYOd1FRSfS0aQ+UQClCYulZM2fTMS++c5IwYkC0AuskvlPAWMm2pD0C4S3ApHzM5lIqSMWb+0OXqkrVSET6j7wAi/D+OUcbfCOR018tclLREji1aCXi5fsaX6/CJw37zeybnkfwWO+yVJS25psz6jdxP9SEJWe5SKP4TY9JvRjRO7mNR9EswRXMdXzAy1By56TTOCrGGCNP5XDMW/7bfpj4Plm0uQ+3kBh9LE5/sYq88rSjgcM9uvaWeCruULuaQqrFwBpzI0alVL+es84MAH7/jOfak1lDXsYM=;8FrneCql8AHQ6vuT6RhMJA=="
 ---
 

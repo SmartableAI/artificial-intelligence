@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-c
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 43
+  - title: "Bucks County commissioners pull facial-recognition contract off agenda"
+    excerpt: "The Bucks County commissioners dropped a contract for facial-recognition services from their agenda Wednesday after residents objected to a potential high-tech threat to privacy. The agenda available Tuesday listed an agreement with Clearview AI \"to provide assistive technology for law enforcement\" for $25,"
+    publishedDateTime: 2021-04-21T17:54:00Z
+    webUrl: "https://www.wfmz.com/news/area/southeastern-pa/bucks-county-commissioners-pull-facial-recognition-contract-off-agenda/article_9a8aaa8a-a2ca-11eb-bb9d-e322f59d90f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/b4/6b495390-e0aa-11e9-aae3-b30e89b9bb11/5d8d37d28467b.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "rLdHzxqaRzTGghrJuXf7BTVsmDK2S2Tezx3jXItal8i9CdPgEkoqaO5hOn8o95Gi2h+cpzEOK8aFkfv/2vKjMPbTS2x39uvCjg9rMIvhSbshqX9i8Ml8BBW5Vihw6pykSmLP5rfDAB0dyXbkEFWtyi73viJ7IdPZ2BCQR8o6RyY2wMaaPu5QTWBvk3N1JYgNUiMjhn4xSv+OR+fQAg45AeFwRJY0656Augj8TONAJieiwyftowmCCt8fwwcS87UBCbLFeBCivIL1k297y4gIghZGWv6yVx8knL2996JiBtTsLSfShgapJehLNlQ504oC4ZyWjoMeNhPySNPdMJQKRKB1Q5j8TTu/qdf41GRFICRqlc/4mrGWOfuf+0Nhrph0GEeDLGx+Bao0kid5COrU138s6GGFpC+3GtDG5gcQVCCY7ACiQCOHotv4vK/4+7q2xbI3oCT5inV+/FbbMZmpwrDqYu6WP5APkTuKJZY9YyoT6RnEJEkxIdcz/rkn88uxiz77glmRmyVj6hloz5OYig==;Hq980ds5CenEsQxsEsiz5g=="
 ---

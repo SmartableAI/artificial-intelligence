@@ -2,6 +2,83 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-23-rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community.md",
+      "title": "Rates of Cognitive and Functional Impairments in Older Adults Residing in a Continuing Care Senior Housing Community",
+      "excerpt": "Department of Psychiatry, University of California San Diego, 9500 Gilman Dr, La Jolla, CA 92093, USA Sam and Rose Stein Institute for Research on Aging, University of California San Diego, La Jolla, CA 92093, USA Research Service, VA San Diego Healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community/28F7A0DF2FA15A2EC74D9CE38D5D3142",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/rates-of-cognitive-and-functional-impairments-in-older-adults-residing-in-a-continuing-care-senior-housing-community/28F7A0DF2FA15A2EC74D9CE38D5D3142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
+      "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
+      "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
+          "width": 968,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "publishedDateTime": "2021-03-22T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-a-look-into-the-future-of-robotics.md",
       "title": "A look into the future of robotics",
       "excerpt": "The robotics industry of the past 30 years will be much different ... hardware that respects the fulfillment center density requirements together with AI (artificial intelligence) software that can predict what items need to be occupying that very valuable ...",
@@ -1099,101 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-intelligence-are-we-doing-it-all-wrong.md",
-      "title": "Artificial intelligence: Are we doing it all wrong?",
-      "excerpt": "The artificial intelligence or \"AI\" label is slapped on almost anything electronic these days, from \"smart\" toothbrushes to cancer-curing supercomputers. If you're like me you've become jaded by the AI rubric, realizing we're still a long way from true ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "originalUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/ozUtaO5NGKws9zlp-cVIDROmRRQ=/940x0/2021/03/19/8d30f0ed-7fb6-499f-ba1b-cb0c0b67e87b/jeff-hawkins.png",
-          "width": 940,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "publishedDateTime": "2021-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-face-recognition-with-smiles-winks-could-increase-phone-security-heres-how.md",
-      "title": "Face Recognition with smiles, winks could increase phone security: Here's how",
-      "excerpt": "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "publishedDateTime": "2021-03-22T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

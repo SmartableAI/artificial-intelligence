@@ -37,6 +37,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 167
+  - title: "AI startup UiPath jumps 26% during its public debut, pushing valuation to $37 billion"
+    excerpt: "The rally in UiPath indicates the growing demand for such services as more businesses automate their operations, especially during the pandemic."
+    publishedDateTime: 2021-04-21T19:48:00Z
+    webUrl: "https://www.businessinsider.com/uipath-stock-price-ipo-public-debut-pushing-valuation-37-billion-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://images2.markets.businessinsider.com/60806cd84becb800190f6534?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
 
 secured: "Z7xVpihfeHqcVpsSnhoKgeaCJPbP6W2kpxDNoW1gQucj9Bh1ycG+ikfUUIeEywDg1SxtMGXsxYmuVupkKZIBvdWOaBoFVMoZrW5KUvr3Cu8W3ALbmirRiTmvMFB36tsjZOlyUakPY92KoEQwm1N740oKsyvWp/4bEPrHmjFNkX2hLZoqR803BOQ2XN9YFTtru5S0vZ5ApV+O3qfDxjRLZOcw2PYqs+4+WyQNLZD/6ImhV/FT7Me9kpVE0AcS80MhWCpWHGKtkV3xQ8y+WSoDnDCColKte2hDHVTvyLtilw535xROELn4Q8w60W58Z7gAfKYd4ADcyUFBgWif3tbzTqzjlPCAKTUy16JGO8Mzgjc=;XapKr6mSdTDuVn/yzw3nww=="
 ---

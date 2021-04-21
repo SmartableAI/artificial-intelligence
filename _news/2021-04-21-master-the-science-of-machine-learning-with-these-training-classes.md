@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/editors-blog/master-the-science-of-machin
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

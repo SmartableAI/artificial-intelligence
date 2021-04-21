@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2016/12/23032054/31-robot-763525_1280.jpg"

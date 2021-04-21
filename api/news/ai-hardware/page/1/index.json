@@ -239,6 +239,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-20-combining-light-superconductors-could-boost-ai-capabilities.md",
+      "title": "Combining light, superconductors could boost AI capabilities",
+      "excerpt": "As artificial intelligence has attracted broad interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct artificial systems with general intelligence comparable to humans' intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
+      "originalUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/combininglig.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
+      "publishedDateTime": "2021-04-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
       "title": "Xilinx launches Kria chips to handle AI for edge applications",
       "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
@@ -1425,50 +1468,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-are-tech-schools-in-india-preparing-students-for-the-aiml-age.md",
-      "title": "Are tech schools in India preparing students for the AI/ML age?",
-      "excerpt": "AI/ML, in Dave’s view, will permeate every field in the years ... That’s actually how I got into machine learning because with the improvement in chips in the early 2000s, we started not being able to keep up with the data we were getting on our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age-11618134198731.html",
-      "originalUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age-11618134198731.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/04/11/600x338/AI-kkGH--621x414@LiveMint_1618138433912.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age/amp-11618134198731.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age/amp-11618134198731.html",
-      "publishedDateTime": "2021-04-11T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

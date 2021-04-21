@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2MC2QW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2MC2QW"
 type: article
 quality: 167
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "AI startup UiPath jumps 26% during its public debut, pushing valuation to $37 billion"
+    excerpt: "The rally in UiPath indicates the growing demand for such services as more businesses automate their operations, especially during the pandemic."
+    publishedDateTime: 2021-04-21T19:48:00Z
+    webUrl: "https://www.businessinsider.com/uipath-stock-price-ipo-public-debut-pushing-valuation-37-billion-2021-4"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://images2.markets.businessinsider.com/60806cd84becb800190f6534?format=jpeg"
+        width: 790
+        height: 395
+        isCached: true
   - title: "French Super App Startup Alan Nets $220 Million On $1.67 Billion Valuation"
     excerpt: "Alan, a French startup working on healthcare solutions, has raised $220 million in a funding round. The company is now valued at $1.67 billion."
     publishedDateTime: 2021-04-20T01:45:00Z

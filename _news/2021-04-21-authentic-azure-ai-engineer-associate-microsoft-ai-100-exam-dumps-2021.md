@@ -71,6 +71,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
+    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
+    publishedDateTime: 2021-04-21T07:34:00Z
+    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
     publishedDateTime: 2021-04-18T19:04:00Z

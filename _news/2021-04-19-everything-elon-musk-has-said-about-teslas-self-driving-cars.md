@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 274
+heat: 275
 published: true
 
 provider:

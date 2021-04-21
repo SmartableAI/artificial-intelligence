@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-16-heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability.md",
+      "title": "Here’s why AI will be crucial for future US electrical grid reliability",
+      "excerpt": "But what if the biggest predictor of the success of the infrastructure plan is not in the materials but in artificial intelligence (AI) and machine learning (ML)? Electrek spoke with Monte Zweben ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "originalUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/03/Electricity-pylons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "publishedDateTime": "2021-04-16T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits.md",
+      "title": "Amazon and Microsoft team up to defend against facial recognition lawsuits",
+      "excerpt": "Cloud-computing and crosstown rivals Amazon and Microsoft have teamed up to defend themselves against twin lawsuits challenging how the companies built their facial recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.columbian.com/news/2021/apr/16/amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits/",
+      "originalUrl": "https://www.columbian.com/news/2021/apr/16/amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Columbian",
+        "domain": "columbian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-facebook-claims-ai-can-predict-drug-combinations-to-treat-complex-diseases.md",
       "title": "Facebook claims AI can predict drug combinations to treat complex diseases",
       "excerpt": "Facebook in collaboration with Helmholtz Zentrum München is developing an AI system that can predict drug combinations to combat disease.",
@@ -1077,94 +1173,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively.md",
-      "title": "AI chip companies SambaNova and Groq raise $676m and $300m respectively",
-      "excerpt": "Two US AI chip startups have raised hundreds of millions in new funding rounds. SambaNova brought in $676 million in its Series D round, primarily led by the SoftBank Vision Fund 2, in a deal that values the company at $5bn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/ai-chip-companies-sambanova-and-groq-raise-676m-and-300m-respectively/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/SambaNova_Systems.2e16d0ba.fill-1200x630.jpg",
-          "width": 877,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-best-machine-learning-software-in-2021.md",
-      "title": "Best Machine Learning Software in 2021",
-      "excerpt": "Machine learning software evolves and learns from analyzing data. Compare the best machine learning tools today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
-      "originalUrl": "https://www.itbusinessedge.com/business-intelligence/machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/04/Top-Machine-Learning-Software-e1618509296268.jpeg",
-          "width": 1500,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T11:20:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

@@ -144,6 +144,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "FinTech For All: How This Startup is Making Online Financial Services More Accessible"
+    excerpt: "FinTech and financial inclusion are two of the hottest buzzwords in global socioeconomics. Financial technology is viewed as the solution to accelerate financial inclusion, especially in"
+    publishedDateTime: 2021-04-21T02:17:00Z
+    webUrl: "https://www.econotimes.com/FinTech-For-All-How-This-Startup-is-Making-Online-Financial-Services-More-Accessible-1606877"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 17
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210421a5d2624f89afd992f_th_1024x0.png"
+        width: 932
+        height: 698
+        isCached: true
 
 secured: "8Zj0mQ+B5e6tng0uO6ZpTpS+mRQyVldWhd5IK/wdB22Gm7AC8bjnC+vKfePoSJHmjd+jUa/rJu9o8KQROQEX26tWioxHJK3tXgb5e4T5rmK3VMYZZrKhjg9jQNOWDI9L2L+lk/ut6U6OB9gaNx0OJHtE6r2IhiW2TP3xd665CXaRyhuRsuLHpmGouQ23FT4YfpsZqPmNgdgr+Hl0tc3UUvh0uQOiWVhyoJB8L+lS0dCAJgwcOZX1KkUZY2BmeCbh1OQtf/LnrX3MnYHE7NxfLzJaKr6cN1eAUd5gnL26/MLcPW+u/p2DtF1nOLG0zuLF9JBI/+uI88Wh4TspFWHoEtUEmJzDccTBvj4NLnvPhdE=;Zg6B3hV0u+C6pkwO9oNzRw=="
 ---

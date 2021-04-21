@@ -39,6 +39,22 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Combining Light & Superconductors Could Boost Artificial Intelligence Capabilities"
+    excerpt: "Optoelectronic integration at low temperatures using superconductors may be easier than at room temperatures using semiconductors. As artificial intelligence has attracted broad interest, researchers"
+    publishedDateTime: 2021-04-21T19:26:00Z
+    webUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/"
+    ampWebUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/AI-Spatial-Hierarchy-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
 
 secured: "ZMUe1B/nOPuLkkiQ3GxFeFBnAKFHPqNy4YU2QoF2AfWrNEEFp2pNrIzbW7hLm2TxKGEmAABhU97w3aizVgtZL6b1O3Wc60xhpMH0RCntwX1dbliskebuRbgmKJn/JzGmD02DutpJFUUgroqoHPGy4lR064yr6tnjXOxqUsEPX2cG4XZLti4vfcls9yB+rEmvk1eV7StyzId5Dxe9S02k6DlqkXy9tHhzpAlpXqkeOPCz7+STKdh9ILIwRbDgXfMnVxL2c0Vo7h2yJlSTf7b0k83rbHZKBGQTfmi+EBLWykzeBec/Gree7WtdrI4xDUjpfrV2FthT+NZfX1sy6RVY+l6oNNRyKQ7ZKII7jiq2Npg=;BoWLiYXuwxHNsbACGNGhsA=="
 ---
