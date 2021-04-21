@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/369803"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369803"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top countries for launching a Fintech startup"
+    excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
+    publishedDateTime: 2021-04-21T20:20:00Z
+    webUrl: "https://www.finextra.com/blogposting/20186/top-countries-for-launching-a-fintech-startup"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "+Z5freMEEyveZyNUk0xht2GrDhHXE4m2iccCziXxHWfYXWNvUh/3ocPJIwBtLxsi/nUVVQ48fu6f8KJDfQHl8k6fcKRRvi18VkidU3L1PeDNqZNzHbR94mTx0LUYknKAimeKCGQjMrTzQwEZhWZ9wIKNJ5UU5a+e4E94zG4cpOS4nuIK/OkR4XuC0oxaKD95t6PSaIOahyb4iS0tbXYgDyzr2Qigjb0yZJn0O14lAt81Y2vO2O5dI4Bkyjpt01RI1AXUAKJix/E3wCK2aHpVVRigLh93b7IM9R+azn1gqCc8kaQkx2sWp0cLbUnzF6H4B8W4OTM3f5hQNGQ0SoabYQI7lffs7oB/DhaUj8oA5xUrcq6DVtmmBSNnuO5tsguApFqH/uJZIjOFo+5T7pGNZDdwOcst1GgB3XeHO55mw7kuiVprvgl3wEBZvIydhjNlLsIMB4U217lZIAQF0E5XzKJnFLz6PEM8o6FbVNjA8YoLuxezgsXP8Hw5C8iK6jkFAhfT1o5iVMGJu4o87vWvlQ==;KaSJWw4YbroHzR+sGpuJWw=="
 ---

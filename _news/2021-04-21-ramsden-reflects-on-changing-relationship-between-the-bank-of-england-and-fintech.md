@@ -158,6 +158,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top countries for launching a Fintech startup"
+    excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
+    publishedDateTime: 2021-04-21T20:20:00Z
+    webUrl: "https://www.finextra.com/blogposting/20186/top-countries-for-launching-a-fintech-startup"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "lemj+lds2/+961K7yGnaWAHsY0L1haOokxHolEUybPBCTyEqK2wxXRExKtYRdODRr27Uf/bKikrhRktEumFzzTRMUsLGTeD2BCjrAfF7/tZ8UWpf8EEGtpgQbCFYHkrbtMJAa6XTd+7I97wthcU9RuN8XLmUHtHg7//G+69QgehY4VLuxGttf5LQLRAJSzMx9fadicAuQTuZl6z9paqFI/QpUgigPAVkxDeqE4SPstyA52EFEJ8UgNsFjAsy7OkBnGB52uLeUGeNXNQ1KrOq2zRRdY9/NfHAr7G4JVNDVbolxZRTw+HrYsWM9BA4vfiD6RJWnCq/IF7oKrPrVT71EG1aDFl2FRPxelwbELuIIFw=;0wx1RZxoERkctVzVgF94Iw=="
 ---

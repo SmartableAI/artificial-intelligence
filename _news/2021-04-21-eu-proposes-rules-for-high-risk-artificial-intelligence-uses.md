@@ -89,6 +89,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The European Union Is Proposing Regulations For Artificial Intelligence"
+    excerpt: "Artificial intelligence will be regulated, and business should be both involved in the creation of and preparing for compliance to those regulations."
+    publishedDateTime: 2021-04-21T21:50:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2021/04/21/the-european-union-is-proposing-regulations-for-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/04/21/the-european-union-is-proposing-regulations-for-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/21/the-european-union-is-proposing-regulations-for-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516"
+        width: 876
+        height: 493
+        isCached: true
   - title: "Facial recognition, other 'risky' AI set for constraints in European Union"
     excerpt: "Facial recognition and other high-risk artificial intelligence applications will face strict constraints under new rules unveiled by the European Union that threaten hefty fines for companies that don’t comply."
     publishedDateTime: 2021-04-21T19:21:00Z
@@ -221,6 +237,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "HtvMcL0E8tV1qOi6SNnLMKQPhAwXcMmhElg1Om/QVCovxuOLUDMuefMF+sfQjQ31Afd7O/xQmzNbT7QSuNurm6kic/bm+9vZF5Q6Opt/STDKkC1hpWOD5SNrC+Ck0gdcfJATzkps2TEGjqYeRCUrwltEawFjNWWgzXXU1gTR46slfv2eebUlebkxuP4pc6wOB74c+v4bJlnxbVKJrB9hSID4WUD/MxEx5LMGB9wb1jXXIt+mk1ZzTghUh6FW3gxE5hyV2L0JtP6n1V3TpvbkD3jfEa4ZCGADrVGck3y9cqynnO+a8M2eT6JaCb26j1yxJEcedQjmTKmoGG6rfZCnG6mPt+3PpKU0KeJHkSt+1Bg=;IicTdG/GhvbZJr2ye/p4Fw=="
+secured: "65V4W+F/mxdMQB//lab9e9ux9ridtwMAhL7paZG9ZgsbWabt/mMnDywmwkMibwbS8fqUmgZu+bbgaOv9zzzHP0/zJBJTR/54wcJlNl4azdXE1Zb0l9C7UFXjAlGEbrqkTICoXfJqpeY2u3uzWroGe2SubCec/25zRMsbXjMPOgvx0xZTa0YYm8idMq6QJUx0CUOz2yEvIuM4o/GfoSMuLE6pkGewbIRUsIbDg8WJV9TDZ7pppcPjb4urV3GRdC/Hu4R6TxP0YVgTKpy96G7/CUtXWyeDIMdGRZXZTNQCHnYFuCDLTXIl7M6jdAekOxSi2QtRFvPNjpldRAOgrCOPzwFzUR4+wBO9diQ8OHU3G8ZIpzQRwkLFIFPuC03TkZHt06DU1Gx+uD/oDHBwLrG7iiGNlBvdVfYBkl8RJ1aPxI2iaEVBJUBiipFtixa14e0JVfx375JIPiFVrPfqs8MITHCRnFwSY3a64RKzLkwNUU8wyh1iN+thhNL/CZiO2aLN06wIBT8I599i1UG0a/XBXg==;5h8ZisgX6KrSBXm+6Har5Q=="
 ---
 

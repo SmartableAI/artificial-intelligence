@@ -36,13 +36,13 @@ related:
     provider:
       name: BloombergQuint
       domain: bloombergquint.com
-    quality: 39
+    quality: 43
     images:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true
 
-secured: "z840gq26Ackdp+MyBiAHLL1NDN1+8pg2Cnq7/4YpEi6aleNWjjdCN75uDjcyRkRBRX9EXCoGQXBSfnGCsyHi9Ok6UGESy2RJGx05yhffvQJDqSbYOjYAIF3bEGQ+mpScC3r2wbEkZ+QxTMpbY0cymOO3QZnHGsCkzRZg/huThRgGuY3qWUKCB9Nud/yByitrxcarftchUYR8cdM5oh51hgV1xsrvdZipxbHEerusbMhKjvwqGRFT6PK7T0ibaNgyh9aKL8NYTrOB6lcX+VJwLPE8jdD57od6P+fquddx16KJY5axrxYlW8T/0EcEfzClvRfLdgkyTDBCyqgJxNFDTE+io1CNZ46dZLy+s9NEmRE=;pSb/g3LCUOdi7VUE0BvjTQ=="
+secured: "pAfcvQRL92SaMVPEtpPtPGMTUMqiX4l6jAxWutL2+lt5GrYag2xPR0bSWSa/kuahF2VLMQfWsZtGz0wOBJ2RVfmtBj0UwLwqvlKVWOdnfyWsMywsJRp5Ps3PXVKT9NHGCSqN/cUkKRg5Td7pOdNaOBZDaI9h3/qbMSugvtaMXt0fX9ksvdIw1t7RVOr8lRTeFMH+/L7+j51CfLjE9U1TsIXRFAwjRgRc50co/bjk6XFv93QRJjWJ1LmMiflkOmBt+XUCuHrcbKMoEMSps03qzQlZJ9y5PH8sfIu69nJfMYZX9IPkTYznv3zRFhS+gaz0KFT4XCm3eSU3VNc4uMFHNWNmY0Zfaz4zGIWsl0vzanxIaUIjiHtJAgclO1INLIGytHnb/vVVoemnOuT+LWrvzL2RnkoTByMOsq4x2qIcyczbG2kLL+HJ6Kb1R/X9r7OfEwuZY2V50R8rLELSx6QzvAiMJ94Nn4E4BvCrEOb1i39OOft2hvnVWjTtfe+KWudvvKjUj/3DR+7P9ehKhE789g==;aP16MqIwvYpNjGawt8sKTw=="
 ---
 
