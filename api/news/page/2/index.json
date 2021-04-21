@@ -2,6 +2,307 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-20-korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals.md",
+      "title": "Korean AI-based Diagnostic Software Dr. Answer Helps Countries With a Shortage of Medical Professionals",
+      "excerpt": "Press Release Dr. Answer, an innovative artificial intelligence (AI) based diagnostics application, is expected to significantly help countries with insufficient healthcare professionals make more efficient diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20210420005568/en/872661/4/1.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/amp/",
+      "publishedDateTime": "2021-04-20T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector.md",
+      "title": "UK Industry to Get Lowdown on Latest Tech from Robotics and Automation Sector",
+      "excerpt": "Industry Showcase returns virtually on 25 – 27 May 2021 to once again give UK industry the chance to understand the latest in industrial robotics and AI innovation. The three-day online event, organised by KTN,",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2021/04/uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector/",
+      "originalUrl": "https://www.suasnews.com/2021/04/uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2021/04/RAI-Industry-Showcase-2021.png?fit=1122%2C610&ssl=1",
+          "width": 1122,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2021/04/uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector/?amp",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2021/04/uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector/?amp",
+      "publishedDateTime": "2021-04-20T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-face-recognition-can-destroy-anonymity.md",
+      "title": "How Face Recognition Can Destroy Anonymity",
+      "excerpt": "Cameras are everywhere, and increasingly powerful software can pick an individual out of a crowd. Except sometimes algorithms get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "originalUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607e24ad084a1594b46b28c1/master/pass/face_recognition_jpeg0.jpg",
+          "width": 2000,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-face-recognition-destroy-anonymity/amp",
+      "publishedDateTime": "2021-04-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-nfts-and-ai-are-unsettling-the-very-concept-of-history.md",
+      "title": "NFTs and AI Are Unsettling the Very Concept of History",
+      "excerpt": "Non-fungible tokens and artificial intelligence make tracing the origins of a digital object more fragile. What are the world’s archivists to do?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/",
+      "originalUrl": "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/607e3142184723fc1784dbf2/master/pass/NFTs-and-Archivists.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/amp",
+      "publishedDateTime": "2021-04-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-how-communicators-can-help-address-ethical-ai-risks.md",
+      "title": "How Communicators Can Help Address Ethical AI Risks",
+      "excerpt": "Fortunately, as communications specialists, we can work cross-functionally to evaluate AI-powered products or services, determine if they have ethical risks and champion actions to manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3ff457ad853db35f0dbc5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/04/20/how-communicators-can-help-address-ethical-ai-risks/amp/",
+      "publishedDateTime": "2021-04-20T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-uk-drone-startup-seesai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights.md",
+      "title": "UK drone startup sees.ai gets go ahead to trial beyond-visual-line-of-sight (BVLOS) flights",
+      "excerpt": "The UK’s Civil Aviation Authority (CAA) has given the go ahead to local startup sees.ai, which is developing a beyond-visual-line-of-sight (BVLOS) command & control solution to aid data capture for industrial use-cases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "originalUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Screenshot-2021-04-20-at-12.07.18.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/uk-drone-startup-sees-ai-gets-go-ahead-to-trial-beyond-visual-line-of-sight-bvlos-flights/amp/",
+      "publishedDateTime": "2021-04-20T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo.md",
       "title": "Nvidia GeForce RTX 3050 and 3050 Ti laptop GPU specifications revealed by Lenovo",
       "excerpt": "Despite not being officially announced by Nvidia yet, the long-rumored GeForce RTX 3050 Ti and RTX 3050 mobile graphics cards have had their respective specifications leaked by Chinese PC manufacturer Lenovo.",
@@ -200,7 +501,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/369803",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -906,57 +1207,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027",
-      "excerpt": "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-saudi-aramco-accelerates-employee-expertise-with-conversational-ai-and-enterprise-search.md",
       "title": "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search",
       "excerpt": "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and",
@@ -1005,257 +1255,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-protecting-rainforests-with-big-data-and-ai-four-key-lessons-for-the-enterprise.md",
-      "title": "Protecting Rainforests With Big Data And AI: Four Key Lessons For The Enterprise",
-      "excerpt": "Our algorithms give rangers five days’ advance notice of a likely logging event, with 96% accuracy. With the help of deep learning and analytics, Rainforest Connection went from merely detecting illegal logging to predicting and preventing deforestation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/protecting-rainforests-with-big-data-and-ai-four-key-lessons-for-the-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/protecting-rainforests-with-big-data-and-ai-four-key-lessons-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6079a9180528d5971b3fa946%2F0x0.jpg",
-          "width": 1165,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/protecting-rainforests-with-big-data-and-ai-four-key-lessons-for-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/19/protecting-rainforests-with-big-data-and-ai-four-key-lessons-for-the-enterprise/amp/",
-      "publishedDateTime": "2021-04-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-volvo-will-provide-cars-for-didis-autonomous-vehicle-division.md",
-      "title": "Volvo will provide cars for Didi’s autonomous vehicle division",
-      "excerpt": "Volvo will provide vehicles for Didi Chuxing’s self-driving taxi fleet, according to a new deal between the two companies. The Swedish automaker, which is owned by China’s largest private automaker Geely,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv",
-      "originalUrl": "https://www.theverge.com/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Oud0pM50v4pRO0W90Vjl7h0Er9M=/0x0:4000x2667/1400x933/filters:focal(1680x1014:2320x1654):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69148795/Volvo_XC90_DiDi_2.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv",
-      "publishedDateTime": "2021-04-19T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ambow-education-expands-partnership-with-amazon-in-artificial-intelligence-training-for-teachers.md",
-      "title": "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers",
-      "excerpt": "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "originalUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp",
-      "publishedDateTime": "2021-04-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-hds-from-the-borders-and-webvan-founder-raises-3m-as-it-gears-up-to-launch-its-robot-run-grocery-and-general-merchandise-play.md",
-      "title": "HDS, from the Borders and Webvan founder, raises $3M as it gears up to launch its robot-run grocery and general merchandise play",
-      "excerpt": "The online grocery market is poised to get a little more crowded in the next several months, with the launch of a startup led by a veteran founder who has taken big hits from Amazon in the past, but now hopes to come back swinging with the help of an army of robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/19/hds-from-the-borders-and-webvan-founder-raises-3m-as-it-gears-up-to-launch-its-robot-run-grocery-and-general-merchandise-play/",
-      "originalUrl": "https://techcrunch.com/2021/04/19/hds-from-the-borders-and-webvan-founder-raises-3m-as-it-gears-up-to-launch-its-robot-run-grocery-and-general-merchandise-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/HDSVan2.jpg?w=820",
-          "width": 820,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/19/hds-from-the-borders-and-webvan-founder-raises-3m-as-it-gears-up-to-launch-its-robot-run-grocery-and-general-merchandise-play/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/19/hds-from-the-borders-and-webvan-founder-raises-3m-as-it-gears-up-to-launch-its-robot-run-grocery-and-general-merchandise-play/amp/",
-      "publishedDateTime": "2021-04-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
-      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "publishedDateTime": "2021-04-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

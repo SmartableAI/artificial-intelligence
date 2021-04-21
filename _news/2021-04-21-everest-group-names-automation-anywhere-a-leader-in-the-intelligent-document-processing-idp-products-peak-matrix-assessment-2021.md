@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
-excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and"
+excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
 publishedDateTime: 2021-04-20T18:21:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021-301273025.html"
-webUrl: "https://www.prnewswire.com/news-releases/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021-301273025.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/604f577386493.image.jpg?resize=1200%2C442"
+    width: 1200
+    height: 442
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 1094
         isCached: true
 
-secured: "dkEAI/uqIcRVi2IEx0FNhXPucgQgHyVplNSXv21uhcVt7BotTNwqFIaedk+ldDN5/8h2xGwVS7Hu2N0wWplgd++KX4azqPrwiTnvr8suBznjigRZcRouXis7XdEt/wc3PozPmvpZemJ1MEfz4XQ/sNJgi8U+CsvRGxKVEWe/t15BaYNCmwhSv+zKKK+TztzMJXHPfIni33sduQOYmpeQxwptSF14MpaZJSyaiiLB8vRYXxVBBko2oBogMqdZB2dbZ356ZIURpuYeHdzumZcfaqQi2JPckoIoFxGsxi57aiPmARrA4uMykMKj+NXwXvLyzTCeLeu/cjZQ7LHT8APMaJO+J+5NU+tfyTcM/dbdP68yfuF+EnYxm/Ti4GSf20p539p+Nsd3YN0mJvPa7phJ1lfcW61vxaMefrWdPNT5QruYBSXb3JfNerkHUK7+QCDe03hIrAcq+Pj84DbQOEYQdd34FTs7C44Cs48iRlWv8RnFSFmTPyrvSiTKotPyJjdInqrmoMrAng+LODh0dlWr/w==;cJWMBxGFMAJ7fbumTK2HyA=="
+secured: "dLuL3ljeupHYFItlXX8g29Q7vWDEec9vjLNKM6pFYHqG3Hs+Ac8EnqS8/hMzkO4JFzrWx6bRII7MwlDtZhHKKfj0dH9GRKgi9RFCebFWkDXjvgK/SwzfeD4oe8MrhWUG0kVDMtgpGPgDDZcVR3YDDMvDImRNWmqkhh45Jre17wGTigQSaqeaSXMYBMxbSXwAr+DP3S93yUu06A4BuU08Z8WCzSscYNY5upDbayEthNFOxf3EsnWvRO1V+mrFZF3zb6LNgRKoxzdARKX5hc1vj5N/DjjRzpbaWvQfz9935oib1u8WjobSjIqMF2jfVw5lFuvnR7e5CCE+Zt050JnBMX3A2sktnYa3+9UlgaNv4cQ=;ZZPMzSq8DfYj7stUK5CweA=="
 ---
 

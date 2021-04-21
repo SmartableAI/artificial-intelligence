@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-s
 webUrl: "https://arstechnica.com/tech-policy/2021/04/eu-lawmakers-propose-strict-curbs-on-use-of-facial-recognition/?comments=1"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366293b3-0031-4df7-ac2c-5b5c0908239b.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "Use of Facial Recognition in Digital Payments to Double by 2025: Report"
-    excerpt: "A new study suggests that the use of facial recognition software to authorize digital payments will double in the next few years"
-    publishedDateTime: 2021-04-16T15:45:00Z
-    webUrl: "https://mobileidworld.com/use-facial-recognition-digital-payments-double-2025-report-74202101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 41
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-819770834.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "8/AnZ0gr61404zT+wu8e3DEfKFTBbh7K4JnPoh4dsy3eJT1e8qvlth64Du2uhZdJIETc1T2WnmeJ4Ijce8H7dsS4KJ52yJD8s1wt4tvADI8QMVkLmGvmavpusjWmUcvZFY1pPpkwNf2ucjTwwzF2db6KAfhaSPh2v2YHdC0dlc8WmRbjkTEiCftXCW4+7p+jNif8P4nKP5h+zizwk2sJltR6Gkt8OPlQKPcd3suyWn16B2EDGTBhqlS+3QS8A8ZM/XBH5RGdxut46gLEhSbr9dP3MWL/K+hhf0gQTIUN3eNAweL08yh32gnaTyEINzNrz9A2NbsWfBu3T5yggxvAM8gS3/yXYa47d5VJo+6VpsU=;biuCf0ahDqFmhBvNRQF+kg=="

@@ -54,6 +54,15 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Degradation Alignment in Remaining Useful Life Prediction Using Deep Cycle-Consistent Learning"
+    excerpt: "Due to the benefits of reduced maintenance cost and increased operational safety, effective prognostic methods have always been highly demanded in real industries. In the recent years, intelligent data-driven remaining useful life (RUL) prediction approaches have been successfully developed and achieved promising performance."
+    publishedDateTime: 2021-04-21T08:55:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9404310"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 7
 
 secured: "fpIDUsPXcSee44G7aMcM6031bmgA/QJnSI7SoOGZwXJz3xrzJiKGg1bOhXps7melPhVdG/hLg0g12TK4bs8N2Bng/nbfCXfCYJ9Oos12u+3Y1ehT1W4rPs87ts8DFFIA96AFyfgBohZrFCDNvuJ25Tx11z1fS23LRhMZAlgM3YPNfGIoBIVM5Ddpot1OoTiy1QVapNJqeEk9ZtvAfBGFPev2qyq3F88vqvSyhcpY7ouqOC70q0I4tdi54lfPFUVZkmui574fhAXtCaogUi5avm0J6YQkGdFgXBZndWqSlkQ3zwQnlyacVDNDs/ZUf/O2v+jXHl9iwFB3x9Ukk3yCrwo6hepVmWUFBvvSq4xLQ/m3gq6SmQid1K9AdZN8yfRU1cxZfnVvris+V/XcJQIi8xXA6GDaKx1M7aTq9MKvqiOUBrDM7LCyG+9OvbZBIScU3mJFKhlr6OERHY48dCW0w4c97JBAq1j76U6XWF8xlT+lNOWlhK6JQCMSxIDOaUKtSf32AmoK2dv7YGTmZya+Ig==;2Q8gN+dQ9EKkvsxGVzJQ0A=="
 ---

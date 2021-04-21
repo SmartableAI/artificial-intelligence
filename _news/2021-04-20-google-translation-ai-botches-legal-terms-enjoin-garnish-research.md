@@ -55,6 +55,20 @@ related:
         width: 500
         height: 323
         isCached: true
+  - title: "Google translation tools are creating a legal mess"
+    excerpt: "We did warn youTranslation tools from Google and other companies could be contributing to significant misunderstanding of legal terms according to research due to be presented at an academic workshop."
+    publishedDateTime: 2021-04-21T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52728-google-translation-tools-are-creating-a-legal-mess"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/049b43c874c2d8ebb4b7ef984cb63358_L.jpg"
+        width: 620
+        height: 417
+        isCached: true
 
 secured: "ab/uIFRLHG/6MDpVx9xNpNMPSEt/v+vDToCMh3XNOXw0owfHPSFBXiyOidSqUTqB9ay8AP+TxNvMvvv8d2ByxXKnmYOLpWR2TostijgDajzAqnG1sZJWbgZJ+6oYuEWfHuM7SjLPyLpx0ILEAijmFpw1OF7Pt8Qr/TDWhGUzAh8Sh4jYGTjUSICn9s5FhasBeJc8MsIQ2Y6jn7MTdy95DafFvtckOGJnYLm1Z4MTJflrXyaTRVY8MGTrVJCxBygcX0QHEDWYO3yNlkG02JIRAbe6DQ7R9oq2IiAV34F6QAw3mubXUt5ccIVES695xYYmqQTARPBprYQ63d1AqBwMU5vfa+65r+L6pmRHFlpROjUerzYRIuGJhDMaOHqak7vqu07vsllktPEmJ14/5iDoKFREBGZNWWk8iRnATkb+05Sy2U1ieiRn0HAyzgCK90fLz9mZ+YOSpx1z0Q+Ofon9pA8BuHUrEfcpKLU5tz6vuP3rQZNkKmN7NZ08iHzwDCBO6YHpD2UrC7RNP59eN3vC2Q==;JrQ6ehOd5e+r1vYzwTXldw=="
 ---

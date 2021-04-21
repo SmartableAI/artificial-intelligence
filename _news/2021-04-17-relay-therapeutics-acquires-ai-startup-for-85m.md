@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Relay buys AI startup to aid unorthodox drug discovery quest"
-    excerpt: "The $85 million acquisition is an unusual and early step for a company like Relay, which went public last July and only just began clinical testing of its lead drugs last year."
-    publishedDateTime: 2021-04-16T16:29:00Z
-    webUrl: "https://www.biopharmadive.com/news/relay-acquire-zebiai-ai-drug-discovery/598550/"
-    type: article
-    provider:
-      name: BioPharma Dive
-      domain: biopharmadive.com
-    quality: 37
-    images:
-      - url: "https://www.biopharmadive.com/user_media/cache/c5/72/c572d5a296c20a66f212559314e53244.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Relay Therapeutics pays $85M for startup with a new AI tech for drug discovery"
     excerpt: "Relay Therapeutics has its own technology that applies artificial intelligence and machine learning techniques to drug discovery. Its $85 million acquisition of ZebiAI gives it another technology that applies ML to DNA-encoded libraries and predicts the small molecules with the potential to drug proteins."
     publishedDateTime: 2021-04-16T19:03:00Z

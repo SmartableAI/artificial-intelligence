@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
-    excerpt: "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software."
-    publishedDateTime: 2021-04-16T16:37:00Z
-    webUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html"
-    ampWebUrl: "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 108
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
   - title: "Why Microsoft’s new AI acquisition is a big deal"
     excerpt: "Microsoft's acquisition of Nuance signals the tech giant's AI strategy in Azure, self-driving cars, and other products beyond health care AI."
     publishedDateTime: 2021-04-17T17:25:00Z
@@ -63,6 +47,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft buys Siri’s AI partner firm Nuance for $19.7B"
+    excerpt: "Microsoft is in advanced talks for buying speech AI startup Nuance for $16 billion. The firm has helped Apple improve Siri over the years."
+    publishedDateTime: 2021-04-18T15:30:00Z
+    webUrl: "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fjohny-vino-R54V69BN0MI-unsplash.jpg&signature=de913f0a1ee80bdb56f6a999dee9653f"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Competes With Google, Amazon In Healthcare"
     excerpt: "The tech giant has made several strides in the healthcare space, including acquisitions, partnerships, and the rollout of telehealth services."
@@ -80,6 +78,34 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
+    excerpt: "Global Artificial Intelligence (AI) in BFSI Sector Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 Worldwide Spread) is latest research study released by HTF MI evaluating the market,"
+    publishedDateTime: 2021-04-16T23:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-sector-market-may-see-a-big-move-oracle-jp-morgan-microsoft-ip-soft-intel-google-2021-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Authentic Azure AI Engineer Associate Microsoft AI-100 Exam Dumps [2021]"
+    excerpt: "Prepare your AI-100 exam questions with Dumps2GO Microsoft AI-100 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AI-100 test because of your Azure AI Engineer Associate AI-100 certification exam fear?"
+    publishedDateTime: 2021-04-21T04:11:00Z
+    webUrl: "https://www.madinamerica.com/author/download-ai-100-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 68
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
   - title: "Official Microsoft AI-900 Exam Dumps (2021) Azure AI Fundamentals Questions"
     excerpt: "The ultimate gateway to pass the Microsoft AI-900 exam with ITExamQuestions AI-900 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-900 Microsoft Azure AI Fundamentals Exam?"
     publishedDateTime: 2021-04-18T19:04:00Z
@@ -89,6 +115,20 @@ related:
       name: Mad in America
       domain: madinamerica.com
     quality: 67
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
+  - title: "Updated Microsoft AI-100 Exam Dumps [2021] Azure AI Engineer Associate Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AI-100 exam with ITExamQuestions AI-100 dumps pdf. Do you want to bring your IT career to a new level by taking the AI-100 Microsoft Designing and Implementing an Azure AI Solution exam?"
+    publishedDateTime: 2021-04-18T21:55:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-ai-100-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 64
     images:
       - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
         width: 300

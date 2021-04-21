@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Anari AI wirbt 2 Millionen Dollar ein, um die KI-Hardware-Industrie durch personalisierte Cloud-Chips zu revolutionieren"
-    excerpt: "Chipfabrik, gab heute bekannt, dass das Unternehmen eine Startfinanzierung in Höhe von 2 Millionen US-Dollar eingeworben hat. Geleitet wurde die Finanzierungsrunde von Earlybird unter Beteiligung von Acequia Capital,"
-    publishedDateTime: 2021-04-20T17:45:00Z
-    webUrl: "https://www.citizentribune.com/news/business/anari-ai-wirbt-2-millionen-dollar-ein-um-die-ki-hardware-industrie-durch-personalisierte-cloud/article_96224a5b-7b64-5400-ab57-ed69fa02156e.html"
+  - title: "Anari AI Raises $2M in Seed Funding"
+    excerpt: "Anari AI, a Novi Sad, Serbia-based AI chip factory in the cloud, raised $2m in seed funding. The round was led by Earlybird, with participation from Acequia Capital, Serbian Entrepreneurs, and Eric Ries,"
+    publishedDateTime: 2021-04-21T08:39:00Z
+    webUrl: "https://www.finsmes.com/2021/04/anari-ai-raises-2m-in-seed-funding.html"
     type: article
     provider:
-      name: Citizen Tribune
-      domain: citizentribune.com
-    quality: 29
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/c/c4/cc47e834-ffbb-5548-a831-594b3ef531e4/607f1380ab19a.image.jpg?resize=1195%2C630"
-        width: 1195
-        height: 630
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/anari-team.jpg"
+        width: 1600
+        height: 1072
         isCached: true
+  - title: "AI cough monitoring app Hyfe raises £729,000 in seed funding"
+    excerpt: "Hyfe, an AI-powered cough-monitoring tool that provides health insights has today announced it has raised £729,000 in seed funding."
+    publishedDateTime: 2021-04-20T13:48:00Z
+    webUrl: "https://www.techdigest.tv/2021/04/ai-cough-monitoring-app-hyfe-raises-729000-in-seed-funding.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.techdigest.tv/wp-content/uploads/2021/04/Hyfe.png?fit=1524%2C1242&#038;ssl=1"
+        width: 1524
+        height: 1242
+        isCached: true
+  - title: "Supply chain startup PAXAFE pulls in $2.25 million in seed funding"
+    excerpt: "PAXAFE, a Milwaukee-based startup that applies AI and machine learning to manage risk in the supply chain, announced the company has raised $2.25 million in seed funding. The round was led by Ubiquity Ventures,"
+    publishedDateTime: 2021-04-20T20:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/04/20/paxafe-raises-in-225-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "lZ/FaUiL97tMEdhDwCyqdyVcOCnNJ/MeZTsqAAJf7p8NMKKgpaCybLJ0xELQB1UXZLjlLODeMxWC/9VIRKLRE4EwqtyMYtIY+mr8/b5C2B97jKGo1biwoz7DYVAocAw3ToH6Ukb9VnRDp5wPsgnM5oRB6eG8JZcHwco8wIOTgOb/7n49sEJoDjsdvzNgZlfrYYCokyNCModM756aYiLq8xvN/7AVCS58mDI8ja64YOO1hNxZZTDlF83lW+wQrcUUwXIHmSD7PkmGKBQnLShiKBBVYDipwSSL0IJj/SJr7e/8pM7PsRXhr1Esmtzbp/LP+Tv7P8xzWV5820fRvuHBlmNp43ulnCNlNBNvbXZ0BXK0DtKh0y76JG86zt4AZceWTSiEffA3hZ4Cj+7CgEc97lRtHmq2Yze9sjVFPtBJbp0VXRhPSIUVBkEJZhRAFjP53xme3CtkEhdjikKxZQB5/vsJgLiH23xw3mUiFwcCJFSJS3DorQsP6r0tly+7FBGjdn03HeXtP6zX9Gd45YaImw==;e2Dn36v50UclVawIRG6vcQ=="
 ---

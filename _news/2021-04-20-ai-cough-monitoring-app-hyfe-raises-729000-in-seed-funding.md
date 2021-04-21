@@ -7,7 +7,7 @@ originalUrl: "https://www.techdigest.tv/2021/04/ai-cough-monitoring-app-hyfe-rai
 webUrl: "https://www.techdigest.tv/2021/04/ai-cough-monitoring-app-hyfe-raises-729000-in-seed-funding.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 1524
     height: 1242
     isCached: true
+
+related:
+  - title: "Anari AI Raises $2M in Seed Funding"
+    excerpt: "Anari AI, a Novi Sad, Serbia-based AI chip factory in the cloud, raised $2m in seed funding. The round was led by Earlybird, with participation from Acequia Capital, Serbian Entrepreneurs, and Eric Ries,"
+    publishedDateTime: 2021-04-21T08:39:00Z
+    webUrl: "https://www.finsmes.com/2021/04/anari-ai-raises-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/04/anari-team.jpg"
+        width: 1600
+        height: 1072
+        isCached: true
+  - title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
+    excerpt: "Anari’s platform makes it possible to design personalized AI chips in the cloud with just one click. With this approach, companies are able to build and deploy AI solutions in weeks instead of 12-18 months,"
+    publishedDateTime: 2021-04-20T11:59:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/anari-ai-raises-2m-to-rebuild-the-ai-hardware-industry-through-personalized-cloud-chips/article_e7693601-f14f-554e-8ff4-8da40a1f0ae7.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 25
+  - title: "Supply chain startup PAXAFE pulls in $2.25 million in seed funding"
+    excerpt: "PAXAFE, a Milwaukee-based startup that applies AI and machine learning to manage risk in the supply chain, announced the company has raised $2.25 million in seed funding. The round was led by Ubiquity Ventures,"
+    publishedDateTime: 2021-04-20T20:42:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/fundings/2021/04/20/paxafe-raises-in-225-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "JP9Rsrce2NnXidYGR7gyC0Xm9v7EJU6S3XQLFRvkbsnfn+S8CumyM/osLYPlwwIA0YpT2gpizA3628d/TssFH8updm9rYLgQpygMZ2GvFYx674agPCa+ixh8+FxqYDu7BDJ49+HQ0YEuy4J1So+2aguzPpYdeXvwJECkSXMgH8dOS1JoGPw3SEBaOjDx1FwH4FWvTZWx8fgHZWayt33DRXbvJmdpocr+SSkSOqfq2Ay6QaObizMMQWcl3Xn/emk5HrsPev84AlFzTr2CY21GiDGZZ8eJW3V197kSfSSex2jGA//m5G0AQWVT/FPd8k4EaETVbI63i3pGcrzQhk3OYVsr2NSkasMcqkLDCQ9Gdwo=;00Rln4UgviCoqzD6daSW3w=="
 ---

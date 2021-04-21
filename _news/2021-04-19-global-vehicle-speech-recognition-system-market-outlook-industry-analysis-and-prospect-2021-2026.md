@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-re
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
 type: article
 quality: 56
-heat: 126
+heat: 96
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
-    excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
-    publishedDateTime: 2021-04-20T16:28:00Z
-    webUrl: "https://www.openpr.com/news/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    ampWebUrl: "https://www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/U/4/U420595093_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
     excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
     publishedDateTime: 2021-04-19T08:47:00Z
@@ -98,26 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
-    publishedDateTime: 2021-04-20T12:59:00Z
-    webUrl: "https://www.openpr.com/news/2272686/artificial-intelligence-platform-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-  - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-19T06:44:00Z
-    webUrl: "https://industribune.net/uncategorised/63516/speech-and-voice-recognition-market-2021-covid-19-impact-on-industry-share-revenue-and-key-players-2/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
 
 secured: "nF2DzKKatnFxiwr06EbEOP+GVcC4eUzgYHqaBsdOZct/kJ4E2UF/3kiCbjWYY2jzXAEzGVQTxO3Hw+lbbrDCtPsqZbjGQcyiTZNBdS7zBEOK3GIyiJhncd2Gtdd/t2M5FV0Ny25shBKYUMCAN4pCO2/oZI6jaKH8SAhnl6wop5Ng7tEBirq7BN12OLf9IWoy6CFMkwQIAAIa9i/neODuib/ME987c0Nb8csymksPFcAWYmild6+TeHdb8GrHq8QlFi9S1qdIxPTHYcfXtqE5vEfc0kYDHX1m0Gj971C7AVjXoF/JNqhG5ZQz2vxquOL7EqUQAeIHn9KnsZskEXHZHmwUAfIvUDZYj+Sh4KXPn0s=;tLdAiEvEyeGK3r1Y+rGI4A=="
 ---

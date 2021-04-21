@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-31-dimension-data-introduces-sql-on-azure-secure-and-intelligent.md",
-      "title": "Dimension Data introduces SQL on Azure: Secure and intelligent",
-      "excerpt": "Microsoft Azure, now in more than 90 regions worldwide, has the most compliance standards for any hyperscaler and four times more native functionality, while Cisco is a global leader in the use of artificial intelligence and machine learning for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/xnklOqzLkxV74Ymz",
-      "originalUrl": "https://www.itweb.co.za/content/xnklOqzLkxV74Ymz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/7dYaOubFrxxJO0scTVqHKiqTWV86DC1p6t-2pdyu8LR06R30x-UQRJmQqUHGmeSqsqMJP3E6evChLUuAowSmj3Vhi7u1xvM4a0I=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/xnklOqzLkxV74Ymz",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/xnklOqzLkxV74Ymz",
-      "publishedDateTime": "2021-03-31T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-30-schlumberger-microsoft-expand-partnership-to-accelerate-digital-future-of-energy.md",
       "title": "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy",
       "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure.",
@@ -1315,6 +1272,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world.md",
+      "title": "3 factors that are driving us towards a data-driven decision-making world",
+      "excerpt": "and predictive and cognitive analytics. In the past year, AWS and Microsoft’s Azure have rolled out more than 1,000 new cloud products and services with over 20 per cent focused on data analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world/443898",
+      "originalUrl": "https://www.itworldcanada.com/blog/3-factors-that-are-driving-us-towards-a-data-driven-decision-making-world/443898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/04/predictive-analytics-crystal-ball-2.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

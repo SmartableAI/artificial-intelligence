@@ -2,9 +2,9 @@
 category: news
 title: "Lightspeed, Sequoia join $50m round in Chinese AI startup Laiye"
 excerpt: "The funding will be used for Laiye’s global expansion and product development to help businesses achieve end-to-end intelligent automation."
-publishedDateTime: 2021-04-21T06:45:00Z
-originalUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye"
-webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye"
+publishedDateTime: 2021-04-21T06:02:00Z
+originalUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye#!"
+webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye#!"
 type: article
 quality: 49
 heat: 49
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 related:
   - title: "Chinese Bot Startup Laiye Wraps Up USD50 Million Series C+ Round"
@@ -38,6 +38,6 @@ related:
         height: 480
         isCached: true
 
-secured: "FJYom2Pcq5e4gZ/6YoVF7aFvHfcPhhxQ+kBg/bMBt5GtiTbgflW5HH+X6HzedTxX65VPxrFN9lfv5S2kGPRfX7+A0TUK13nwyYYov/3tYmLSq6XLqmwdXNFBtMQIVFw19En5QjT6L3cxoz59cpl/szNzcKLQf1kZPYmoku4q/QskJjD5GgmUc5hiZ/+LsPnJnvIsSTnNahSM+MZR7JlKnJMBNNK3tmiaaG1KsKXqbAeSScLsA7RGDH7i8iKZcbQyDLyNWTujXz9NQhKGF9MLjzqPrn5vk6/71iPoXTOmahlK8EpSBZ6Ib+JDxjLLhWtpTsdYxZfA46/Dy5zJnhXxJhc96E30M5IaRqnKbcflGzEzP3jBp9MAiK7hRPDCDuBxcgvhNxUTtYpakXUe4TpsxRdAPfTYbBd9qy/t29FAG+PuPmtRx8Ef8l7RI+h5uGg/70mHlgPgf628uaj9EbuC0+ANGDQBtbo5Gl/wkByGtkSBK6suqE7A5Dj2tgpQpYmxBEYO7FCdq+L3vv1grYB7Jg==;8MWlgBAygM5cdugGExS/QQ=="
+secured: "OsHOejfW4yI5rOlQINVIhS6qfdmzoSLWcTYVronZJykLXtEPITkjaGvKdHRBrST+WkhiAxxBEcmRNwCA4h2syJL5oaksCl5FQ6ovgZj6PrWiwd2SK6Rh5eARSeaJBO50tFtbOScRh0CJpXcFpTYQFETseSyuSdRjU7IvC3kxM9tHJAHq0EcHsgELE1u9F86lG1xQKu7X4+FmU8mI4X7owkAei2Y9YvG4cLy2FbHQRFXbG/m2StueskBAE9NTr1eg3EmFhNN1ycsBiGvO6cGIUqhjuTaU7TUjIwO2CooJLAiqXurJWDruEaK4lHmhWtAZTf8pUTW2TSPx5dymifJpAIsApJh6UJ6Jdhq97RzdII8qZWSdRQRyYow/RcK1z6YYs7Thc2YRO3tdNcnV3/6siB+WLQxbaXS8kUzdKZE3br9FryCwTcQx802ii+TX6IdeYJTPwBQSdL8iMlMVz432ty34Ns1qwOmGvc2h9H3RFB+4ZKcUZVsjchFZkGezovWKAQd9os3ANHVr+9ipkK7F8g==;fcapr64ZVV7KNI20g/Np+w=="
 ---
 

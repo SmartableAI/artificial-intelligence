@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "5 key trends that the wealth management industry will witness with the growth of fintech startups."
+    excerpt: "Fintech companies have revolutionised the wealth management industry in a very short time, creating wealth for investors in a cost- and time-efficient manner."
+    publishedDateTime: 2021-04-21T09:09:00Z
+    webUrl: "https://yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups"
+    ampWebUrl: "https://yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/wealth-management-1613060792506-1617905744067.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z
@@ -67,6 +83,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "3+TmjKF7XW5o9uahv9/144kGErLnWxgwy7+BbhyNo29eygEH+BVJk6hg3FRPZQi0Smhaw0qrjxsv5cgPlPj42lRXOx0Cb1gLhCNLR8/oR2vdB0OZApX2LHsWQ1d2XIE+ntn5V9rSAp7SNqNTVNih1rhp2GhzUeYk9YG+q/HuA62XFw0XXUoaZNzbvYA+NhEn6FrdGXXy6nQ9Vn3dXTyAI55sRByr2c/l1ywqXVsFs8brx2XbEMnYN9RT2RCTbv3AIUPkHvchGCcmhL7Ec1UKxHAcHIdD8xqWP32bffA3BayWPZOfMZ/FwguTP/CSfwjlBkYtEkGvyOnyh7AQrNgfGJk1PgxH6v/2Dpg6VNdzTmM=;MVZQUH6xaqKR87PMnNP6Dw=="
+secured: "J9sLWoF8cq95K1nJ1uT1jj8GGb1Rzc3eWpqttx+1UbTmfWe7pB7kVj4/Slb4DJN7L4VnhiVymPwv5tB9NX6py1EQhVT+mzjNJpsAA34onuyyd/+amNfP6/+oFt9PjoMqALF1prc6rp3t0MWYzkD36bmWzFzwRz9stS4mamodaObVluVR1/ROxHzZxGtci442qGE4KPUcGxecG1U9RJcjf/9Mec/ks8/2mlHWSHgKy4dCZlO/mL7FtTKpE17tsODl6JF9u6PTFEO6+yIcu84bBOtx2uTJ4Qse24nfbzlUra5pIG0Vsu2Orc/cXsaehZzz6rqWRLA06BMabGAi+INmLujIqrvodHRBUYmS7yz9YRf2y42lWlgVzOtULFdfmi2ejdzRK2skdD7u35Q/FxNCO1eWu0uLcur3D1+UbNv6mbqUwx0ZkvJ6QZ3BjRZnFkIKsnS5gbN0ka6TWoItOy7xpXW+lJmbnW6d4/prEdfRI2KWo65SyfLZ1jj/GIfubbb/5JGfRVFNzr8VYqlFjCXXZg==;ppgLMm71y1AfHD+7QgdV7Q=="
 ---
 

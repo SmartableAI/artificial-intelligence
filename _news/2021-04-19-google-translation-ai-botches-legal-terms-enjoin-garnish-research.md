@@ -7,7 +7,7 @@ originalUrl: "https://www.metro.us/google-translation-ai-botches/"
 webUrl: "https://www.youtube.com/watch?v=eKRpiMBlu40"
 type: article
 quality: 139
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/sign-confusing-2.jpg"
         width: 500
         height: 323
+        isCached: true
+  - title: "Google translation tools are creating a legal mess"
+    excerpt: "We did warn youTranslation tools from Google and other companies could be contributing to significant misunderstanding of legal terms according to research due to be presented at an academic workshop."
+    publishedDateTime: 2021-04-21T09:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52728-google-translation-tools-are-creating-a-legal-mess"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/049b43c874c2d8ebb4b7ef984cb63358_L.jpg"
+        width: 620
+        height: 417
         isCached: true
 
 secured: "SSt3geKQ/z7nee+LDsJGFDHznNofQn+ngBg1d+5j6WXtqChP39Eq9D19VStqVKTtAnIkukQuYxD75k22a3Mn4CAQsYacLGrXnoGeQKghjxsIeUxVqFcj/EyGcEkuYkyIJ08kJQlFO7e7Saui6p8F+BeczmiNJTB9huv8lP9PA3G6MLPQm51HLayrstgshuyxbhNBBdxuoFbjRIs4Aw4Q7uWwNRm4lLQTddS2VQxPkWlL4tvt0eQqtZoUnlS9BzCocjSGI7ZmO+Wv1uCmp6P9yocBMq0QTVk51CO+i1TWXtYxweggKMmpG5UwOxp5EN0ITNUQOTROh3Z8zlZdaBzyiCr5fjlGFdkLI5zBM40Mk8CbcgoUCnttmNxJs0BMzzf6IWeyLJ4qGQvlx5HeUXREvmeD/vZ7a3htQEq6n6bboL7RD69GK9K+k+oQAR+6iZC8sTNikwZC7Wvkeb2lCqyC2mCuFqibrRPzxLpiYdU6lJf4WWObWLTVJOAE3SIEf+97RyzOWh+tzO0teZvkH10yDo4kIM6Dm53DyFEDEgf+Ngk=;7Rx3ZzrAu1Pm6dQP7UDDmw=="

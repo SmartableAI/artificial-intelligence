@@ -6,9 +6,6 @@ publishedDateTime: 2021-04-15T15:37:00Z
 originalUrl: "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html"
 webUrl: "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Odessa American
@@ -18,17 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2021-04-16T11:11:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210415005086/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
-
-secured: "lersSups5hJK20y0Ud0Azx+qa6weMr1Je3203XZP6pNS0tObtk+Kxq4NZ+jeN2RABjDxYOoopPVlRsKoHe6ChYyvOL6WBcgQznGEBjiX95TNiQWOUcGoUh50VjmENCMiLWyLZ9GfQcTucZvjEablhhS68Gb+UsKXp1kKaAAImhs5SV+596Lll+N5tVZ4jxkfJAurQhou2PlQxO26cz2Qxsf7XWA1eUW75KC4JVu6u8G5yMV3UhROTimYrzuq1XrIBv4Iie+aN95+4ItVRbDXbMIAZwmfXn5I0lJq53S5NIsJuIBwVR2/9ecyKlDfjX7VmjHPXUK/vvTvc/e7fYjbrIBMbdzM0T4Kty8tv7tin0U=;Y+W9Ke2YzyTdLFI1Igu67A=="
+secured: "mqcMiYkMoOdISQb8wcF2fcnhHzRtDI8P5I/T7iZdLwSbpV5wkoEMoODf+h6lb2M7RMKwRNo7X+MR4NhCMIJwrima7a8g7EITcgaEesmncUyy5bSG5k8QkSchtrMS4X+LA/onoNcl4aCbY86a2Gq/mzWkpNfD1qFQi35LXK9/Am3jMpuwGm/j3f2T+fuRtc0fg3RssCV8YwHWduZHN0rZi40LNhovumIzPac3gMgadGeXiNxwyEFXMwIk1LBuYy6JglUDuHTPSPZciNPuZ3Fe1HaMiat2ftbZ1Ae1OHigZeovTvr1zi7dU7qKu2tXTLywHG3MxNz73lfm/AaZCAXFPFS/BbpHNF/oCoWM93SLqWs=;g5EXjhbpM3hcXsT/vPMvjg=="
 ---
 

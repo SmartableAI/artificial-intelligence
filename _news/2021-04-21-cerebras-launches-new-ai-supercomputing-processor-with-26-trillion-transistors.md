@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: VentureBeat
@@ -31,21 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Shares Up 11% This Week On New Supercomputing Chip"
-    excerpt: "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers."
-    publishedDateTime: 2021-04-16T16:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/369592"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/369592"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592"
+  - title: "Keeping up with the machines, new supercomputer will be NZ's most powerful for AI"
+    excerpt: "New Zealand is scrambling to stay ahead of the artificial intelligence curve as it loses its early advantage and others ramp up their investments. Academics argue we can’t ever hope to be at the front of a pack led by China and the United States,"
+    publishedDateTime: 2021-04-17T17:00:00Z
+    webUrl: "https://www.stuff.co.nz/business/124856689/keeping-up-with-the-machines-new-supercomputer-will-be-nzs-most-powerful-for-ai"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 34
     images:
-      - url: "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/k/image.related.StuffLandscapeSixteenByNine.1420x800.22c41d.png/1618602198904.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Cerebras Unveils Wafer Scale Engine Two (WSE2): 2.6 Trillion Transistors, 100% Yield"
+    excerpt: "As with the original processor, known as the Wafer Scale Engine (WSE-1), the new WSE-2 features hundreds of thousands of AI cores across a massive 46225 mm 2 of silicon. In that space, Cerebras has enabled 2."
+    publishedDateTime: 2021-04-20T18:00:00Z
+    webUrl: "https://www.anandtech.com/show/16626/cerebras-unveils-wafer-scale-engine-two-wse2-26-trillion-transistors-100-yield"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 17
+    images:
+      - url: "https://images.anandtech.com/doci/16626/carou_678x452.jpg"
+        width: 678
+        height: 381
         isCached: true
 
 secured: "KX7nCljQGvRUavqGhKSnTzPvxHZGN82MMCarroCqZ3hlXqtEZi9gKXceGMalxLQIdMMZyIGDLkKyuuTzCGzR/Pf9+xs+QTspCmMFU8zzK4Dsn/XD5IYoFwTfqdnMajTm9kexYHuPO6EFV+mXBn9dGXHH9E+dgmKlI74SadsE6VPV0M5wffOhhZ5Nko6JpZHL2KMnwSGDBU+ngZ8rUravwJJoL9htnmecPNCTKhKDVh/yFxZ1DNWd1W6PRLxCxEQMjBsD0hJ8Sohf+WDUuumIrLPrrc0sqYpXTywlNw6nZoe/PVOSlwfStVSy2t2tBSJ3pdhVoveZQGlqrBQ8WVRbDQNL0netEE7NlHB8yy3tlVCB/W/XALbvt4q1S2yx5tvCxMikWbb+Z6edLM3t2mOeJqIbL6uNWobByzwSA+FaXd2QOdA+8BPnSQCQMapos9ho38nC8yp17v+cYYgXmTC/S8LSYb0fqcRE2qs2tbBDqKTTyFQnLW6nkqGNxvR6qHsqx35yH4BVvr20Fob0f5W44w==;2r5L25t25+y9x30B6E7inQ=="

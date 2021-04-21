@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
-    excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and"
+    excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
     publishedDateTime: 2021-04-20T18:21:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak-matrix-assessment-2021-301273025.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/604f577386493.image.jpg?resize=1200%2C442"
+        width: 1200
+        height: 442
         isCached: true
 
 secured: "safBuDsxSh0u/ggUZUpRGI/VKqlgpKjgS8pK8AG4szOR2FfFMvGa/oehBfh47MwM5HNJfXB+0pUZFuSDgCbqGU1F/SgAhAR9UmSwcMZ148PjSzVGgpCstTeupJriDfWOknbLDOIQ3f0R5zK3mOwlr3Wb2TXmFNjSPe2nPDdR0W0Jsa5f7TGR9zOtP64aoYDY+2Fxib5bSDT0+w+8VtL4S31BVMZzm32tdCqfGxJdgqUp+Nm6Dlu42sQK9BP3bBEPMgI5Cdtw0v9VtxfqV7/B1/3bJ7htV5Y56ChXrJ4WXSKB2Egt1Hir+PwawmkCgS6i/VELLaW8mXUBllG6pVekXzA5PdaqF6/gGn6bQPL9dF1B2xn/X0mTq0ckXh1IZ+AD+mXc30TiSNYH/oytWiZbJeCQLkHiylBackSe6dYtg3JdHMsoLaU17rLJ/FWh70EwsIK67nnfg2BG31cXZ4PCzgJ/d/Na2t1MAr2MAT8NXOThxzguWEY808wYMldPZhS5CrE7EzcqwRb885M8ILWHyQ==;Wy3Z7nx+M2Tvvvizhtofsg=="

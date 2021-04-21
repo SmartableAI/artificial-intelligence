@@ -27,8 +27,8 @@ images:
 related:
   - title: "Lightspeed, Sequoia join $50m round in Chinese AI startup Laiye"
     excerpt: "The funding will be used for Laiye’s global expansion and product development to help businesses achieve end-to-end intelligent automation."
-    publishedDateTime: 2021-04-21T06:45:00Z
-    webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye"
+    publishedDateTime: 2021-04-21T06:02:00Z
+    webUrl: "https://www.techinasia.com/lightspeed-sequoia-join-50m-round-chinese-ai-startup-laiye#!"
     type: article
     provider:
       name: Techinasia

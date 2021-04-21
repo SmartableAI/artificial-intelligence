@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "5 key trends that the wealth management industry will witness with the growth of fintech startups."
+    excerpt: "Fintech companies have revolutionised the wealth management industry in a very short time, creating wealth for investors in a cost- and time-efficient manner."
+    publishedDateTime: 2021-04-21T09:09:00Z
+    webUrl: "https://yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups"
+    ampWebUrl: "https://yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/trends-wealth-management-industry-growth-fintech-startups/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
+    images:
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/wealth-management-1613060792506-1617905744067.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The People's Bank of China and Six Other Departments Launch Fintech Projects for Rural Vitalization In order to better implement the strategy of rural vitalization, the People’s Bank of China and six other department (namely Ministry of Agriculture and Rural Affairs,"
     publishedDateTime: 2021-04-18T16:58:00Z

@@ -6,9 +6,9 @@ publishedDateTime: 2021-04-21T04:49:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 68
+heat: 168
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,9 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI Hardware
+  - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -43,6 +46,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market (2020 to 2025) – Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2021-04-20T09:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-to-2025-industry-trends-share-size-growth-opportunity-and-forecast-2021-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
+    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
+    publishedDateTime: 2021-04-19T11:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-overview-by-size-share-trends-growth-factors-analysis-opportunities-and-forecast-by-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Research Report by Trends, by Type, by Application – Global Forecast to 2025 – Cumulative Impact of COVID-19"
     excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
     publishedDateTime: 2021-04-19T10:57:00Z
@@ -52,6 +83,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Industry Report by Share, Growth, Key Regions, Segments, Trends, Technology and Forecast till 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2021-04-19T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-report-by-share-growth-key-regions-segments-trends-technology-and-forecast-till-2028-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +116,51 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition Market Trends 2021 | Segmentation, Outlook, Industry Report to 2027"
+    excerpt: "Voice recognition is a technology used in various devices such as smartphones, cars, and computers, and the system can recognize the sound of speech and convert it into a machine-readable form. Language units are used for speech and audio signals."
+    publishedDateTime: 2021-04-20T16:28:00Z
+    webUrl: "https://www.openpr.com/news/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    ampWebUrl: "https://www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272805/global-voice-recognition-market-trends-2021-segmentation"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/U/4/U420595093_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
+    publishedDateTime: 2021-04-20T12:59:00Z
+    webUrl: "https://www.openpr.com/news/2272686/artificial-intelligence-platform-market-share-2021-global"
+    ampWebUrl: "https://www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272686/artificial-intelligence-platform-market-share-2021-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
+  - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-19T06:44:00Z
+    webUrl: "https://industribune.net/uncategorised/63516/speech-and-voice-recognition-market-2021-covid-19-impact-on-industry-share-revenue-and-key-players-2/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 0
+  - title: "Speech and Voice Recognition Market 2021 Insights on Industry Share, Revenue and Key Players"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-21T09:49:00Z
+    webUrl: "https://industribune.net/uncategorised/65337/speech-and-voice-recognition-market-2021-insights-on-industry-share-revenue-and-key-players/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 0
 
 secured: "SZyCfzvWHLRL/rGIcyPYB5tKmpG4ETae/4eyPoWAaRl4+2ReZBRAa7B/hX+Okyldc+5xzkfkCwwK4/P8Czoj2taZk+U6gLgR6JayiPMkEhbDFuXdATJFZfcGV8IERUSBpwAaMbDNym9EysxlAcfaEd1Cnawc0m12+o6Y4pXd2HhxFKC//y6e9oru6LAwWxbj8jpjO9X50H1DQpCliN/OvcwFY6gsGqkr3Asjp+avoD6mxlBwMUJSbnl9GpsoVRe04deXMzYIjVjWHuCg2z3b7zJcaRXPEVHzcescti+Rr8V37TAphyRs8OUp2our0iIZl9XlyfunKsEIZOugv7xr4UPooLVC+/a2N19xhZNLBOQ=;CN/SFAYLfiNO2VSjgngsgA=="
 ---

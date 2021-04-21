@@ -26,6 +26,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Construction Market Size Is Likely To Be Valued At USD $3.3 Billion By 2025 | Grand View Research, Inc."
+    excerpt: "According to a recent report published by Grand View Research Inc., the ongoing COVID-19 pandemic has disrupted the construction industry throughout the globe. In the event of countries easing up restrictions,"
+    publishedDateTime: 2021-04-21T07:59:00Z
+    webUrl: "https://menafn.com/1101951093/Artificial-Intelligence-in-Construction-Market-Size-Is-Likely-To-Be-Valued-At-USD-33-Billion-By-2025-Grand-View-Research-Inc"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/20/G_175c7550-3image_story.png"
+        width: 620
+        height: 264
+        isCached: true
+
 secured: "SCCMb1irYM4n4gQW8rN5HRsYFfuKOSxjVxzKqUiMLTKGbwiqrMTCa0+hL0y9+zRHsiTX6rMv9kRkJv2zkQPXymhsO0muubVWDaKtt5wXzVRejJ39Jg1ZBnrATxFTgFb8wAr+dCghmKWdTZEmRGtj+qEuuZzivsVwwVIp9PHentcSQ9IB21LyHTQhjsVm3RiKpfvxt6343cOCg0bNeqUv/HZPI2M7CNjf/3+f5/ThF4+9r3+9yUU2HrQFhXnBZqV8+6dvovjqEGVOL60IM3rilEUG7DeTQaQMHn4+fqbVROIy8+YXexgSpqNX+cjzNePODezg/IE5OZw7f4+mXLOx396PYmBDUrgQtkhD9eYN+8I=;nNN/YQJC5ah4ejmCFeIwtg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2021/04/relay-therapeutics-pays-85m-for-st
 webUrl: "https://medcitynews.com/2021/04/relay-therapeutics-pays-85m-for-startup-with-a-new-ai-tech-for-drug-discovery/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Relay buys AI startup to aid unorthodox drug discovery quest"
-    excerpt: "The $85 million acquisition is an unusual and early step for a company like Relay, which went public last July and only just began clinical testing of its lead drugs last year."
-    publishedDateTime: 2021-04-16T16:29:00Z
-    webUrl: "https://www.biopharmadive.com/news/relay-acquire-zebiai-ai-drug-discovery/598550/"
-    type: article
-    provider:
-      name: BioPharma Dive
-      domain: biopharmadive.com
-    quality: 37
-    images:
-      - url: "https://www.biopharmadive.com/user_media/cache/c5/72/c572d5a296c20a66f212559314e53244.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "Relay Therapeutics acquires AI startup for $85M"
     excerpt: "Relay Therapeutics, the Cambridge precision medicine company that raced onto the stock market last summer with one of the largest IPOs in the biotech industry, is looking to build out its data science capabilities."
     publishedDateTime: 2021-04-16T18:42:00Z
