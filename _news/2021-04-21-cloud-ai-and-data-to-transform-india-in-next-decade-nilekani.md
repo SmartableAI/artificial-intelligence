@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Cloud, AI and data to transform India in next decade: Nilekani"
-excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
-publishedDateTime: 2021-04-20T18:49:00Z
-originalUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these"
+publishedDateTime: 2021-04-20T23:26:00Z
+originalUrl: "https://www.thehansindia.com/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
+webUrl: "https://www.thehansindia.com/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
+ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
 type: article
 quality: 59
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
+  - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071454-infosys.jpg"
     width: 1000
     height: 600
     isCached: true
@@ -120,6 +120,6 @@ related:
         height: 1261
         isCached: true
 
-secured: "XeJsL20jDCwxJsggkTrROZFpSXzPAO7jWJ0q7beeOh3xhogAmhgE7zrceDH52YT2fLWbpIqF5oxE7BKPYCuQgjq7q1L/FEgZ3qpPVQKdHkYwP89snWmkLcau8BRJ2I3J0ULIza7RZt67UqoVr9K9MhhTCe/LUV4FbJJ6LZvMAPMIONF8lb3LPHHMA3cwi0IGobM+m4OAD0mbGMMEyT1ruXHYlRPpQ/RpoSztXNjqi5DwfaSKr2SubyIaKjfMAcMycAdssL13fNngY2ZwywkVXjDC51nBRMRs9dyknWI8eiDcLsLlG0LzXjxJu5C25uD6JU4Oj3xGZsSAkhcmA7HAANteB49WLZi8EJmYJbIOsaDiNORrrlAtG1njRn4EwBsNHJkUE/sLF6NNa+In5uweQsRYTcSxUVsVfa9xKOw5VspsqlW2CtGdi9ZI8uOJZEBKNl+eICwvkYtFpV4rhbUyZK+FvUAvGUwuP5jSU7dHIsshBnBIjt4YFOI8BVXiOtOJPRbi6Em2qumHwuNpJKfBnQ==;pek7hH4Gd7MH5H/aziHqFw=="
+secured: "zlhpvTd0VQk6EdHQpZt63Bm3jVMDAMACMReMqrpIcXTcGcxgKy+DPSm6iEIxQMiu1z+qx4Op1wj89FsnOAiDWI9JGpRIS1AVni4H7+0SvQijMHDaEv9lNSmz0Q6Fxb4rGtFuJZ37omS+uLaF82dxuwDleHJoPHLDeaEjJy85qX1rEzZfXvbhL0PqXo9TMcY4VvszsWkJ2cNEutv6ZkFbgKLVG2D6zPYphFCDU3ZdWLakTfHrEUZqCJHylWfg0vcH3YvdAP4sAaQDazJ29Qt8KKhMaWY1Y+iBLWQ7O7Hxn3/qzw3fuvcNAzmMJ8RBohZ+VQCdRYlCc7nEPJ5GQTNBE9rLIqWplrrCPbD2uHBMq8U=;o64tYfjDDY70L+sr6kcy9g=="
 ---
 

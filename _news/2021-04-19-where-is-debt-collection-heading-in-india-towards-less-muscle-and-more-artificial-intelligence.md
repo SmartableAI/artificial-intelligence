@@ -73,18 +73,18 @@ related:
         height: 450
         isCached: true
   - title: "Cloud, AI and data to transform India in next decade: Nilekani"
-    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud"
-    publishedDateTime: 2021-04-20T18:49:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682705"
+    excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these"
+    publishedDateTime: 2021-04-20T23:26:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/bengaluru/cloud-ai-and-data-to-transform-india-in-next-decade-nilekani-682728"
     type: article
     provider:
       name: The Hans India
       domain: thehansindia.com
     quality: 59
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071435-nandan-nilekani.jpg"
+      - url: "https://assets.thehansindia.com/h-upload/2021/04/20/1071454-infosys.jpg"
         width: 1000
         height: 600
         isCached: true

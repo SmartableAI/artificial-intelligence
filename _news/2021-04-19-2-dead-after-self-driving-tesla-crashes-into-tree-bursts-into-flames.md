@@ -116,6 +116,22 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
+  - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
+    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
+    publishedDateTime: 2021-04-20T15:00:00Z
+    webUrl: "https://www.jsonline.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/7283027002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/7283027002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "2 killed in self-driving Tesla crash in Texas"
     excerpt: "The crash killed two people in Spring, Texas."
     publishedDateTime: 2021-04-19T16:17:00Z

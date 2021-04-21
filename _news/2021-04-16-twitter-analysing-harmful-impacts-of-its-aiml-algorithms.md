@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its
 cdnAmpWebUrl: "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter's 'Responsible Machine Learning' Initiative to Analyse Harms Caused by AI"
-    excerpt: "In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,"
-    publishedDateTime: 2021-04-16T05:31:00Z
-    webUrl: "https://www.news18.com/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html"
-    ampWebUrl: "https://www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/twitters-responsible-machine-learning-initiative-to-analyse-harms-caused-by-ai-3645524.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 71
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/02/1613010110_twitter.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Is Twitter Analysing Its Artificial Intelligence Algorithms Suddenly?"
     excerpt: "Twitter is analyzing its artificial intelligence and machine learning algorithms and checking for AI, racial, ethical and cultural bias."
     publishedDateTime: 2021-04-16T09:41:00Z

@@ -56,20 +56,6 @@ related:
       name: Proactive Investors
       domain: proactiveinvestors.co.uk
     quality: 24
-  - title: "Ocado invests £10m in development of self-driving vehicles to \"transform\" operations"
-    excerpt: "An online supermarket has announced plans to invest £10m in the development of autonomous vehicles to integrate into its business. Ocado Group reported today (16 April) that it has commercially partnered with artificial intelligence firm Oxbotica to create a series of autonomous vehicles,"
-    publishedDateTime: 2021-04-16T06:37:00Z
-    webUrl: "https://bdaily.co.uk/articles/2021/04/16/ocado-invests-10m-in-development-of-self-driving-vehicles-to-transform-operations"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 17
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/wIWPKeBZreVu1lSLG6oPud2QaiqYJr0JRJjawyVW.jpeg?w=940&h=430&fit=crop-28-38&s=c23a40bda2d6ce89daab5f7d98e848bf"
-        width: 940
-        height: 430
-        isCached: true
 
 secured: "5tNv1zc7aNoTGNW59birykjZjtVMMQStwaI8z9D2yncUSfkZoVyHnhBnLZYlU6iz7IZRSifAaS0EIZEAjfbt/kFi1g+NiiV0FwfE7Wqft/2BsN8j9W5O9krEvtKXentrrNgJmoSu1/m1tbKKdtHy66hAK30kKwev6LtISwHpeZ5Q0d1tZd5QJ8D5nfXKVtF46wBRp6VFcWTX6QoiFZOrIRLm8NmGumILImc8Rkfa7s0QsVJCa78w0LyAfQK6DOrT3QoehlzmOIe1y9EqQg8E7Lnkqa36umFxXz6uGXdeBVKZgemPfZSQniuh1L5YXy+Q201mmL5POB4yT0Ukr7EvodhoR+yOpvqDT5cZdOwSgrCJH/nNOBE5wsc982FhSXlMuGceMOgCIiTD9eewAw9I/K9vIgXMyBDvTRXlHcUYIjQMcK9k7kO2fOsEXmzTtsGb+V1oB9ouWnZ3l7rG5CLBX8rWl3ltQ6qIpnv5CvUSZu8X0oPUo/luBlGSckexcNwvp36vtDFaUozVRAQW8qadRA==;wdjKAh5hrau/VvTj4nG87g=="
 ---

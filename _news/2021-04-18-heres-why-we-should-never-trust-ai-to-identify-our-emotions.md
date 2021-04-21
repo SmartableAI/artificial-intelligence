@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-
 webUrl: "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication"
 type: article
 quality: 69
-heat: 71
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web

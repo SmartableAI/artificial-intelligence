@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siri
 webUrl: "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

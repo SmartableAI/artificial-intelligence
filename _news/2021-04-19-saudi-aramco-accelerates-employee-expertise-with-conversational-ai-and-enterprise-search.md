@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-exp
 webUrl: "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/"
 type: article
 quality: 110
-heat: 140
+heat: 141
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://dynamicbusiness.com.au/topics/finance/banking-future-technol
 cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp"
 type: article
 quality: 72
-heat: 93
+heat: 92
 published: true
 
 provider:
