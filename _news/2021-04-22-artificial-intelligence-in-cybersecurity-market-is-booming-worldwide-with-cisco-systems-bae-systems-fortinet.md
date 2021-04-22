@@ -120,6 +120,15 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "Cybersecurity company Deep Instinct raises $100 million in Series D funding"
+    excerpt: "The funding brings the total amount of money raised by the New York City cybersecurity company to $200 million."
+    publishedDateTime: 2021-04-22T16:39:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/04/22/cybersecurity-company-deep-instinct-raises-100-mi.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "e72AhqBTU9FGiDJw8WzUtviQRMYyrighqG5Ytyygb8NiLN6K4zVPMea3ONZzk+1MMGe5SqS/ipTW0aL7ETVHRM7dcEhzRK6jkO0oOKCsa8oFKztSJ39Fb46Mra/8uuPeW+/Nw3gVVBMM5l6Wdqxtfk+idmkz2NX3onqe3PsB+gxruxM87+lXlhp1Fg6C1Zxny6w3HsaK2zR/a2HEV6ajAOFPNSXiHrxhnmV+W4D4jgu1RgOYPTYrAkhcXg+fmgB3GEjzF9KAG1l+qjttfXcfMYzcaQaAmQUaUXyLcMYK37IMw4DaQvRHQbjBGf3eUCRaxX7I4oFZ32zPbkpKhDKCkN2ihVXlc28phpJz54jkY9c=;twY+0o7ouLt62t4xuHUB6Q=="
 ---

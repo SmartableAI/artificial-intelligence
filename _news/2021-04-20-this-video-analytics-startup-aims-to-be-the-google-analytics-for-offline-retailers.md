@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-goog
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
 type: article
 quality: 51
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -80,14 +80,25 @@ related:
       domain: benzinga.com
     quality: 15
   - title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
-    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Silicon Valley Innovation Program (SVIP) to apply its technology to Transportation Security Administration (TSA) checkpoints."
-    publishedDateTime: 2021-04-22T15:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
+    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by"
+    publishedDateTime: 2021-04-22T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20749868/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transporta"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20749868"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20749868"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
+    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in providing trusted information and insights to accelerate the pace of innovation, today"
+    publishedDateTime: 2021-04-22T17:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape-802085717.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "hoPIYOSwE/VC/teWb1yOf2citzeaA0DKD/1Yx8Gg9eot0j7a/gCqX5InWLPECHTYXPosvhg+6SN32WJOQ4te3TxqWM8jNMIABh2dkAN8jWJHlchYsnizASPljcdRIpgd6rTPjjU9UTcXd/TAlDp2PuiUZiM38T9R5MAP4DZRWIXEtzABnz8hQwY0bV4udEslZlsPG63HTZwJSma1AS/c5oQJPKg/a220L2UzDY/nb+3P1D+oFttLn6fgyYVqxQL80+pX07KBK47tHra1oKA35KIrXKBKEGCfO8sC2+Y6TxuqC1p2v0f5DzMiJd0v+sP5Y6IMwMr90wyH6kSlkKoFcOeUCBU0Ug2fQj1OX5+M14E=;4gbKQjn3zn9lUaOxTevgPQ=="
 ---

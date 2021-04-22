@@ -81,14 +81,25 @@ related:
       domain: benzinga.com
     quality: 15
   - title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
-    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Silicon Valley Innovation Program (SVIP) to apply its technology to Transportation Security Administration (TSA) checkpoints."
-    publishedDateTime: 2021-04-22T15:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
+    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by"
+    publishedDateTime: 2021-04-22T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20749868/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transporta"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20749868"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20749868"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
+    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in providing trusted information and insights to accelerate the pace of innovation, today"
+    publishedDateTime: 2021-04-22T17:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape-802085717.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "Ia+FkBs7jxe/IlQucyR9+avzrorQzTh5Ar7TyhkU2l5t0oEK5jX4DC32ijVxrpSjbNpYo7ZGdHMoNC0qIr+i+bwTRFXR7I8Y8kHM0GqdOBSId+6Tw8Yc3GI2U4dwY3Qx8zzpt1g3qSe7I1RrFVwTfcybMMm8NN9PdyOPT93HCBZkk3Bls6+VR15LZnZyPo/l4v4XtQNuBX0sDMiKYWM7o10LW/+83tZ0Ks3HTAUqj70pyGIiPQBD5S9FWWLZcinglCcGS6DyUwkFNf0kB9jnxtxcMZTDm6XfEkDoDKe3mdVYL5AjTUwGJI3xTIEoHJ7zTMb3MKgOzXFS7hI3byR21eegLCAymqBBfc6sqvwuNA4=;mhSXRtF0/YOSm6COoRdQ+Q=="
 ---

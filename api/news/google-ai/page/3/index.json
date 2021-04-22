@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles.md",
+      "title": "Motional Selects Ambarella CVflow® AI Vision Processors for its Driverless Vehicles",
+      "excerpt": "Ambarella, Inc. (Nasdaq: AMBA), an AI vision silicon company, today announced that Motional, a global leader in driverless technology, has",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ai-ethics-research-conference-suspends-google-sponsorship.md",
       "title": "AI ethics research conference suspends Google sponsorship",
       "excerpt": "The ACM Conference for Fairness, Accountability, and Transparency (FAccT) decided to pause its sponsorship relationship with Google.",
@@ -1379,59 +1432,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-swift-for-tensorflow-project-shuts-down.md",
-      "title": "Swift for TensorFlow project shuts down",
-      "excerpt": "“Swift for TensorFlow was an experiment in the next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
-      "originalUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/10/grave_tombstone_rip_cemetery_1920_cc0_via_pixabay_by_rob_van_der_meijden-100740483-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
-      "publishedDateTime": "2021-02-18T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

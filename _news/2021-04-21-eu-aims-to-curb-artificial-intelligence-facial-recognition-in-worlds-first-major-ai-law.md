@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "3u5Py2Y8pgakVBO1bZMEUroxqWWwYmzCMMAGgdB0XXHFPqCb49y6o8SL41qsL8EF+Az7qL/NLSMz1p5xz7uQUJFjYWsh0mkPSMXqqvnXTJ64P3eMlWfG/mf6GMFMxNj71hw9l08NVIyY03m1HWssRHLwKPihfJwbQFAw50qbke1DmRiQhsyj72Ke2STTpKiF6f/59p1s+FNTBhQT5vuup2JbOv6L7ItbNzfyzL2TCZwPn6xwNXRVCJ4eKSY6hgUPzwOCdmU/KFvewo4c9+YMkEGc/PgppjrVqsXg+lGKQB1Xr+r55iquchXuRcg3EMjm87vQH9VxUAXz/TTIUjZRXXJs7gKqNQq3LVMYjXpxJV4=;1e2LlUwQRMtIY/QCoWnOtg=="
+secured: "hxdQYDqj7SfvU4sYdvUorgqb5f2Cu9cv4+nayxdoyek+Ze9ZhJMrbkr5wkdFVSeIK+lUAYRC09kOBDx5xgyCtB7QxnoQGJZMnP8+oMowXbZ/E9V/g24rG4QmfiaLXS6FLeW6DkXD4rsi8RNrAAEQ0wMpy4hBGTFY+qn+bfmFU8nzLgLdBNVF8a90u5fOD31PNksBiU/aJjVbGXBZ9jJtvhCY2tdfXL3Tg/0nPCd9qklf3SQcqxo/mr3bfXcv2zcEgmHW/So4YkSFttbn5bHoAPcx9Nlevuzur2S7yZ5T/9qwDt8HpGjJRus5cE6p4iXTx2rfLIVuNr9XMvR4bbpZYmJH53qk7Y/47ADRB7/RdyU=;UfVLo3zkoDM5lG9lMHkHZw=="
 ---
 

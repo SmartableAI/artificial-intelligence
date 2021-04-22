@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 399
         height: 399
         isCached: true
+  - title: "Cybersecurity company Deep Instinct raises $100 million in Series D funding"
+    excerpt: "The funding brings the total amount of money raised by the New York City cybersecurity company to $200 million."
+    publishedDateTime: 2021-04-22T16:39:00Z
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/04/22/cybersecurity-company-deep-instinct-raises-100-mi.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "S/JkFKJm7uKrOXf+OCmciT01P+kR9cCWYY2Q3EINonQjT+X6BOcxwexgnV7PzZDDdM+YBdqx2ao6z83rVyKf69C1DPywcuHr8WOTD8VbSpO7QCzLkbWPDJWkSX2Q75WjuUN4gW49TNcNSfrHGXNeSypD3RhWz4g8oyQLFzNksK9XrsEzsBjNyRO17t+C2l+6aJ4FO4jDNdJ6/PwbVKEauyJyYXGZDMgzfS3tFbNq6kqVwTRRHt/hmLs5/iZ3VvG+vx9GbCWsqG3v9SINaQHz4qtk483RkyPMeHSHi0it/oHIkYRt1pqwSY2ntw/g7Zf9UX1asQl73nCN1mkF87ThZvHkKMOcvH7oc0mfUqBYqUwxqRZyLlE3BLWSx2MkAXw6OEbVJIHyPV0Yunh+3IXH1v8UF8ipw4mKiNAR1MK9G6gDB+8eunJinkls2KO0j1m+c/gfU3ut6XsxHbrhJTs47oOhw9rOp0dC78uHF7T7O2H8s7BcQE6UBb7DpSKnYjW83y9ax5SRMJezyBtVP8cusw==;09MOC+hGtat9R4KwySKKfw=="
 ---

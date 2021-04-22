@@ -124,6 +124,22 @@ related:
         width: 4886
         height: 3130
         isCached: true
+  - title: "Europe’s push on AI rules aims to recast global tech"
+    excerpt: "That is essentially what the European Commission is proposing to do in groundbreaking rules on artificial intelligence outlined this week. This first attempt to create a legal framework covering the development and use of AI delves into murky areas previously beyond the scope of external oversight."
+    publishedDateTime: 2021-04-22T16:40:00Z
+    webUrl: "https://www.ft.com/content/977159b7-ec55-4f33-9ca8-491ace81591e"
+    ampWebUrl: "https://amp.ft.com/content/977159b7-ec55-4f33-9ca8-491ace81591e"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/977159b7-ec55-4f33-9ca8-491ace81591e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0e6d318-ead4-47e5-8f78-be6105be2c3d.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "European Commission Reveals Rules & Actions for AI in the European Union"
     excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
     publishedDateTime: 2021-04-21T15:36:00Z

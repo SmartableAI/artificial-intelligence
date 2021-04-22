@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
+      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
       "title": "Watch: The role of artificial intelligence in auto finance",
       "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
@@ -1282,49 +1334,6 @@
       "provider": {
         "name": "BitMAT",
         "domain": "bitmat.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fintech-e-banche-mai-cosi-integrate.md",
-      "title": "Fintech e banche mai così integrate",
-      "excerpt": "La sua attività negli Stati Uniti aggiunge un milione di nuovi clienti al mese ai 90 milioni che già contano in tutto il mondo. Ci sono anche banche tradizionali che hanno sposato l’innovazione: secondo lo sguardo delle fintech, in primis c’è Bbva ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "originalUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2021/03/202103101818141568/fintech5-714836.jpeg",
-          "width": 1920,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "cdnAmpWebUrl": "https://www-milanofinanza-it.cdn.ampproject.org/c/s/www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "publishedDateTime": "2021-03-10T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MilanoFinanza",
-        "domain": "milanofinanza.it",
         "images": null,
         "publishers": null,
         "authors": null

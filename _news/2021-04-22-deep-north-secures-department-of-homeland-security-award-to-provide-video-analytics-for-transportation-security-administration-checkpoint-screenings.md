@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
-excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Silicon Valley Innovation Program (SVIP) to apply its technology to Transportation Security Administration (TSA) checkpoints."
-publishedDateTime: 2021-04-22T15:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
+excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by"
+publishedDateTime: 2021-04-22T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20749868/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transporta"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20749868/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transporta"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20749868"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20749868"
 type: article
-quality: 12
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -93,7 +91,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
+  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
+    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in providing trusted information and insights to accelerate the pace of innovation, today"
+    publishedDateTime: 2021-04-22T17:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape-802085717.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
-secured: "qJzSnhZ3ItAZbGkY/+gqmng613q9I2gnD6ZIwkwaIStDbs1rBLLnn5UexeCcmj36UaWF5qFlp5XSst1XyzfcHvxk3ge018sg5q6D5uhNmw/R1PD0PEOW68Fl2BKO5cLyiqs4zjM+9BEDkIMrE+4V9lZWpGTQqF92rhgDnjMaJ3dH+J1isOZ/yZMp1lSklBMJhoKUOT957DvQMBKgaBScdADhh+pzGhO/aSq65jZMrvsPYpZ9xhgfHYqsCTRumZ/Le+yvjoMUpPDVgF3teUAzS/FwPLx6Z8iJtjmJzp0GhJWqyftQuA3ShflI0+dX9Ku6ujK2Hxvuzgi+buCizKaqiE8TJTo6ctRwZRXprtG4gw8=;QNbeIpggHSpWon67wCsfNw=="
+secured: "GeXT+wQcVw7nPaOS4axCLq3j7E0flrzUCH5p83Mu6Z0mA8hi90cFMx1ijv/VVlW0buMKn32Ws0372g3MlaEIeL8QSCNCGTuAVPHhWdNMm0slNlz6IxyrIsQJ2KZ7EAXGHGfwZdQ+TVKweKcc8W/ozFd9H+qu/LF+z95PAzIlRnJKy643euZhhdY5H4O5cPer+zqv2+DZ23Mbobng38rL23LJ0NEriaM66nZd27rMfIJ0Cmr8xwd8uicbY4PsMWvSyFj1JQZUTXFEQsdmRAsQA+z8jwy6LrvChjkpu0F0p1Trn9ARdtb5lA6kDM8PaTp9Y2YQhWWGId+SNmQToXbD3jT/C5dKvE/vinYeAYguQ8c=;YyyP7QNQcpdu3P7pPhS24A=="
 ---
 

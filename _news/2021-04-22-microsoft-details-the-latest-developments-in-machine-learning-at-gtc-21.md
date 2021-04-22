@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-develop
 ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
 type: article
-quality: 121
-heat: 171
+quality: 125
+heat: 175
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
@@ -102,6 +104,6 @@ related:
       domain: businesswire.com
     quality: 30
 
-secured: "BxJ5tg/Btw8CAKN7oNh9etoA2Czc8whuyjK/r+YmvknRU8ExbOJ5JaNOy/JHjIgWzvdNpYmMq/SJF445KRUcKKywFh8Rqqn9ep57CuuYAu6aWCWF8WdeIYIrXewtAUfBfSBM9kfsZolKj743pccDQcW5GWnTPvM5tQ2S45VaxehTdiR38crXp0+MDhbwFUDaKGvq0G9A4SuUOTM0sKZ1UsKiOZo7C98f7qvIFluQs4LqD+pK1MNaCT3QQPNZBVTlMdUXdl2M/WZXEAb7VMacjjfgpKFtpxVRB5E6w34IVJWfVRePrDvUucPSWolecdUTzBaWiC9g3qRonbUb85o7V0KrQouU8/MguathZv73We8=;OqYI6WWY7iP3BLDyABs8VQ=="
+secured: "vdSSb+MHxLN9nH/wXCEjtUBnATEPEWbGESOrnlFwkItdFQdfIcZbzq/uZ4wa0Wz5uKmWurnHla+z5SLc9Ri9IFIpWnsNoGP864sClHGFj7wVcl4yXS3CokGyX6YSyaZiktrX6zcYnk0yVu8uwput7grppvB/rYUUpvw3e+P5NUob2dfm3CQtVEloFlOR9FvA0EgiyINp/c/9i1oaOB50BEDe5bXDdtFRpiA17B2IeMdG9f4Y1PEbE52RC/5a+rxbtchc6KuZDGIA9v982BN49jIC35Kgj2znILVox+Ht2pMyDLqwMDrBhWRLqC6ZEPya7x72Jxde03hhjiBm4iUI3MP0YcuNyQ2c51ewKoNkkyQRIyBy0Bb2c6Wg4f1u16qzSmRj5f1oJ9vypbeVo05pIERfb/yBJm5Rp5nuLLWIxaGaNmZNQenkTwjXD26EEi988yV37q8Mx8N9qlEK+5VqULeYnMo5pxb2JMaDrYOEZQeF+qKhva/sMMWTe1MQROg04cT2+obcb7iJQGPwKJeFmA==;hVGI/NhytmQmNkX3J0dpGA=="
 ---
 
