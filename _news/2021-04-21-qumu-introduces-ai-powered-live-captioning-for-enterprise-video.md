@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
-excerpt: "Qumu Corporation (Nasdaq: QUMU), a leading provider of cloud-based enterprise video technology, today announced the development and release of"
-publishedDateTime: 2021-04-21T13:27:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-1030328833"
-webUrl: "https://markets.businessinsider.com/news/stocks/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-1030328833"
+excerpt: "Qumu Corporation, a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. Developed by Qumu’ s cloud engineering team,"
+publishedDateTime: 2021-04-21T13:15:00Z
+originalUrl: "https://www.nasdaq.com/press-release/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-2021-04-21"
+webUrl: "https://www.nasdaq.com/press-release/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-2021-04-21"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Natural Language Processing
@@ -83,23 +79,21 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Strategies Driving Adoption of Artificial Intelligence"
-    excerpt: "AI (Artificial Intelligence) has been around for a while now. More than half of the survey participants also indicated that there is a direct correlation between AI adoption and superior business outcomes."
-    publishedDateTime: 2021-04-17T07:04:00Z
-    webUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/"
-    ampWebUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
+  - title: "Enterprise AI solutions startup Hive raises $85M on $2B valuation"
+    excerpt: "Cloud-based enterprise artificial intelligence solutions startup Hive has raised $85 million in new funding to accelerate the growth of the company’s portfolio of cloud-based deep learning models through continued investments in products and increased investment in sales and marketing."
+    publishedDateTime: 2021-04-22T00:51:00Z
+    webUrl: "https://siliconangle.com/2021/04/21/enterprise-ai-solutions-startup-hive-raises-85m-2b-valuation/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg"
-        width: 1600
-        height: 984
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/hiveai.jpg"
+        width: 556
+        height: 380
         isCached: true
 
-secured: "E6t1D/eer7Oz1Xck/8HB2VwE4lE138V26ZGt375vjnYsUz/sE+mXAZe+aJU30MlvN6Rzc1WxBVzIyYYNb65+It2z4x9ZWISqtkHN2XtgqkXvYZi5I2aa8JuZqC9oCeztsXEMZI2LTmXxlbhH10GsxLuJqJ7HDbGF0Sysl+s/t9zHtRu5mUmx7KLYYC4NAaGxhbHfU0G0UYkp7nwfXhOzoPazjix6af/3Zl4iq2+nqHBkSYbqpDpd63JvOgIhdc9+DKyD9rLC2+MiAcpmJip4hvCXH2ROiDlUTagkgvelpw41tCRH4fEK45se7+OEt0RaQv81GyHHkOOL34Qwf6QkSGwpwDOCEde18bfuvtleHV4=;8eUw49ZHb3etA7LnEFqn0w=="
+secured: "pbMI2G0Jr8IXwUqjNzJ+uyoMfJKTzko+MzyeeI2G331IFDl/zZ/vxKJp2VsDH+lLQIXvbDHnv2VrVu4CzEc0Eg43k7l+qTeEu3XhwAjGLUTBNecVeY27LJ2BDe+ZuXvuNLqwS/4oKoIujqtIC4/TYy0rak4XnRRYRnSHNLesirAr3PsJNI/MlfoiomBNrwkKjWUWP+PZefdel8ztB7Fbh/qms0Mmjh262l9kxisU5PUIr4775WJV6y43DFcrIPyfy3hrUTIFJhzCNP0zESR1Flb+bfuyAOOxpZVEicFqcVRMWkdYD2ngr4Ikv1lj8/jqzbGY97FrwlU27R/T+du/u7jpNv6J3Ak4lgXPHNFRr1E=;5sBKSHnwRFty2UE2Byhm2Q=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by"
+    publishedDateTime: 2021-04-21T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026"
     excerpt: "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex"
     publishedDateTime: 2021-04-19T09:07:00Z
@@ -203,6 +217,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
+  - title: "Natural Language Processing Market 2021 Insights on Industry Share, Revenue and Key Players"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-21T09:50:00Z
+    webUrl: "https://industribune.net/uncategorised/65340/natural-language-processing-market-2021-insights-on-industry-share-revenue-and-key-players/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 9
 
 secured: "Yhq3qqW4NU2jxWWHPEMASALpqAn8mYd/l3lWGAv08q/uRXj/8qiiMhSgDB2fL3eAR78qRiEK7f9vG4LKcc9Aihx28KdatJ/3Gy0RmGQ1Ij1D+Sm/due1dbVrQfM9aBJY1e8kEDHsx40Bw+KSf0qnR4sZ+yjmMsZY4zyVMm3bNszUxwYWPqA1BotT5OhgnDpLHvoZFx6mC7p57wxDiT4oqa9HFGfScot4NFOfmUo8BvXqePpwwsB1YCN9DArHc05jcMPv3OZO28c+8uMbsewGhsXH0lkpuaLtdaQNOF0lF679SZprkE+UjBNAuZSMRpmOslgUM/aIn2uMQm9XZUt5eBMITcfLo036E4zqdd0rls8=;JSB1ksrTpBmuQKn+J87SOQ=="
 ---

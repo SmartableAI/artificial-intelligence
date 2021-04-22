@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Science_News/2021/04/21/netherlands-great-se
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/04/21/netherlands-great-sea-scrolls-handwriting-machine-learning/7151619034776/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: UPI.com
@@ -43,7 +43,21 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI analysis shows two scribes wrote one of the Dead Sea Scrolls"
+    excerpt: "The handwriting style is consistent throughout the Great Isaiah Scroll, a 2200-year-old document found near the Dead Sea – but AI analysis of the text confirms it was actually written by two scribes"
+    publishedDateTime: 2021-04-21T18:22:00Z
+    webUrl: "https://www.newscientist.com/article/2275298-ai-analysis-shows-two-scribes-wrote-one-of-the-dead-sea-scrolls/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/21153119/hm0cdt_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "0yLdhxKNxuiUhXoUKwLveYCK4pg/soadyQeDU78y+mosx+CvpAvOMOZDKRl/+cBD1GdKplgoFCZ4HpVMnZRknFMPtb7xYLu+aeOHyolihYjCPn1NmYRkziI0RiH5gLdt092OHoYLqJxCBwDIuX7JTDH2n3WxJgropJrE2S/G7ZEIsQa68JJckoZejFX+WFCeDo2ZKNDzyqZp1yY3gDiWh4MYe1qHh4cDAnwkDKP6YDJ++XGu59rv99pZy8AcWEFBqGrPa4tsK2xOcBRNkTfl1tHc/1WPqcmNvVj1EXH0RrLAoexWQiosNRQZ9u8gsEgfDhT4K79vHkA0gThNecdimdxn48loal0c/D2264imuCI=;DJ8b1carTtMg6IXlUHJVbg=="
+secured: "koT0qVyH0/lUK1K59hwIjwA7d6H7NuvHKToPwgkj+J7HbIn4VHSYa3+TFzTmaF1smUGxHh2Dy2G7J2vpd9VIXeJ/wtXwYWxQWgiiWzyw/QaJmMMGKWpkl73To4JZhCxmMktceI4u5XzzY+oWB4Hd75hJKKbQYNnSUt6M9Bc4olV574BYkFqBVff+IGp7lj0a95U5Kjd+MbEVdCcfh55hCDXfpcNvWMIYqLtBpFkVlpKa6TheOxyObOJqUCtftgpNyRQLYACjBKEzPA6hOeBMaLJJijnVY+s2v84iZjsvLunA/zIpHfZCLS8jkpG+YK+foiXRFVrv92FrQuB6M1DJWsmQR01KI3gl90gT0lpqfKar5U8OlIg0cersDOWX+KP0DtA1F8w1fZ2OAlnj12tZiWWeGzv/xQs0C7NblncJOEdcnRq4Opm45q2OWy9U14v+3wogGIZYhsIkIY6i5kkrbIQreNrY20UpSIPZVbo3rJoj3sHHZC6Ij90RWFfl38iDXeFILD8YakjTwa51UtJrsg==;yFkl7GdvLTNwgKfhHtyFrQ=="
 ---
 

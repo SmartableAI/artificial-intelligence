@@ -21,6 +21,15 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories"
+    excerpt: "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ..."
+    publishedDateTime: 2021-04-20T15:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops ..."
     excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) and Machine Learning Operations (ML Ops) categories."
     publishedDateTime: 2021-04-20T14:37:00Z

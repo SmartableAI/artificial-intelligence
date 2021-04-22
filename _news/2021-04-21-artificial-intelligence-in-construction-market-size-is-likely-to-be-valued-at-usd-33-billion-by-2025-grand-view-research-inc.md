@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Federated Learning Solutions Market worth $201 million by 2028 | MarketsandMarkets™"
-    excerpt: "According to a new market research report Federated Learning Solutions Market by Application Drug Discovery Industrial IoT Vertical Healthcare and Life Sciences BFSI Manufacturing Retail and eCommerce Energy and Utilities and Region Global Forecast to 2028 published by As"
-    publishedDateTime: 2021-04-20T10:00:00Z
-    webUrl: "https://www.openpr.com/news/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
-    ampWebUrl: "https://www.openpr.com/amp/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
+  - title: "Artificial Intelligence In Healthcare Market To Exhibit Rapid Growth With A CAGR Of 41.5% By 2025 | Grand View Research, Inc."
+    excerpt: "Market Research And Consulting” According to a recent report published by Grand View Research Inc., the Covid-19 pandemic"
+    publishedDateTime: 2021-04-22T00:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/ab20738475/artificial-intelligence-in-healthcare-market-to-exhibit-rapid-growth-with-a-cagr-of-41-5-by-2025-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20738475"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20738475"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/4/U420684215_g.jpg"
-        width: 410
-        height: 300
+      - url: "https://www.abnewswire.com/uploads/1618923766.png"
+        width: 620
+        height: 264
         isCached: true
 
 secured: "C3t0ZWHXKNxPPMrf9Bltf5pwZSeVx7iKF6P053VL5/h8vvCCWEMkRBkLJr6FZwTOO9t/iAQ31bIUUrRNWnBVBpUKVyOALJs+8xEkHd3U7G1mLG2/poO1fh4dl2rN5ioi0PuqRA797Dwb94/0F0oD602XrgDBVh28zbTLi0j36t/6/eEbAH8EqYzlZeRg5H6dre35cqGG3cIv268aMurlx7oI2izU3u7W4Rbz3661i2xQgfVSuPuS+bGAybxkf35Y/b6Zz8uCRcs3Q5LSvcmGmdPOddQ/Wg9NdCkJzHjnefJHtidcLFA/t6+G3NfZBbWdfD5XNr5vI8cL+VvSUyjF+1OpF9QA6qOgZ2OYNKR2KA8=;qWNoTq3dc3ohMsYFqCPouw=="

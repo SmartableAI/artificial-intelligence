@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by"
+    publishedDateTime: 2021-04-21T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market 2021 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2027"
     excerpt: "New York, US, The business report released by Zion Market Research on Global Deep Learning Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast,"
     publishedDateTime: 2021-04-21T12:46:00Z
@@ -199,6 +213,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 16
+  - title: "Natural Language Processing Market 2021 Insights on Industry Share, Revenue and Key Players"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-04-21T09:50:00Z
+    webUrl: "https://industribune.net/uncategorised/65340/natural-language-processing-market-2021-insights-on-industry-share-revenue-and-key-players/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 9
 
 secured: "u7NW1zwwv2RQMqTbdHCU6xHWbe618Oo0dOfUKFhroIyLax0JUChcTM0lEB9ea23ajdBzR3o67t/ZC+NtqfUGtFnw3XpyPE0Yh/xZmZ+6o95zmK2La+nQaaiNFu8RTomd/VNwT4jOvmROiMIrcBB9Nu3bQxGe/6KxRkDY19NMGWAdwuTynUj4vwbmXaM+mJZcnzT3Sb3tcz7f6BQufxCowTtZzvjyCEqUbe+HU+hNFFl/okHWBvaX+vreaaJFMfgC8AHps+jEXz2CpV/RvpmZsEZhi0gjB2lzUtB2rJWZldwNoQNUK0L8y199CT14KEhJhRHRRDorvLaqxBBjEwzApf8km2LwnLGuOCe2f+vTtVprKsdz/5O6XxjiHWs5tTCs+islAHVHTzZqfMeq0kTQfDb/jagC2Ko5WAgKnvrr5Dgm9BnHW55bvwZDfRR/QLI8W8Njw7xVNW/ScZIdy56ScJc21rLANWNQEf1mUqWGJX2GFU05rD9DZ19IiesebjrAiio86RAHVkGvBVs+wzZqeg==;wsJbD/XOwm2v1PXalshLww=="
 ---

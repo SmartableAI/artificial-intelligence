@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were ..."
-publishedDateTime: 2021-04-07T03:55:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+excerpt: "The platform has an expanded suite of components that includes Cloud Data Fusion, Cloud AutoML, BigQuery ML, AI Platform Notebooks and TensorFlow. Google is set to launch its new unified AI ..."
+publishedDateTime: 2021-04-07T06:38:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
 type: article
 
 provider:
@@ -12,9 +12,8 @@ provider:
   domain: crn.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -22,6 +21,6 @@ images:
     height: 457
     isCached: true
 
-secured: "ngGWYt/Kr4da5Gl+9W0VqS7h3EmUm9Tt/eocHbeAJLTcy+BXLfHANj34s9LTmUlXGZI0CEQgXobIdp4kQ97d8xqjO68lq2+dVRqsGpeQLINxFrrxi44y4Bpj3APiZL0mOmZE5ktCmbSUMjl7i38eikokQpGp/9+DASgAqhIgyqSlNRMKLkI0FAF83N4SCtB/UItZmYXq1RcFrQSQkNinWiRMu29qdTISbnuGRm7XA+jPYN6DsljO4LfM5cmyKUjoMK9DmS99jgk82xez/nI7nPU10INKxznYMrQJPBpCoqYxfu0MzPGaiGdl32YJLvzYcuuGN2sW874RCDiNNok0tdpdKG+dvzTeVfJDi3mvhzI=;uxfYA21cNwH664glc0HxNQ=="
+secured: "mcF60UxTypgNVo+fO5z98zd5YbpD9a3AKfDTmr8q152HT90HoEQWy0kWdLViqGYOoUE5rl+IJFV+MO4BB7QIlm83+X+JNU3ka2dplUbsDWP/WIjhF1RbEQc+6b1mh0U1n7jQ2eNsV7X9J4K7QHoa4JklJntNJPHoEj6+nWPI3V2F/2+DjzBOIboh9UYOReVaIzKffnGs2AYiEiXXJVnm1TwdfjR62Pxa8OvIpl0eQTZkUNHdHXaj76BpPW0iuw0KR3ZEHqjmq7VGXpYM//dextUXXO+7dA0eAoH7506SdztdZYjv/Cwwbvr5dg+CG+dLCLAKmm81CX5JFNs3U+L481P6pq6LMZeIzQeXe+DsOCw=;uLsgUbNz0k0kj+yVat8VWg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/artificial-intelligence-facial-reco
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520"
 type: article
 quality: 103
-heat: 263
+heat: 273
 published: true
 
 provider:
@@ -270,6 +270,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 22
+  - title: "Pattern Recognition, Functionals, and Entropy"
+    excerpt: "Pattern recognition (including sound recognition) is described mathematically as the problem to compute for any element of a given class its image in a classification set. The difficulty lies in the fact that the map may be implicitly defined by a property or must be extrapolated from prototypes."
+    publishedDateTime: 2021-04-22T01:33:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/4502565"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 4
 
 secured: "FXP2XOjfn5FXAih8Kh26w3GETeERrJjPFNV/+sBxvL2I2WgZUFSgebiomNbkcyEwjxTWO6b5x9ApsCL5BUUfiNr6f3g4NKTLMFY232lOCZ4Uz3aNxt6XSzYgiaL/toEISrS9JWe5d7H7RBzeirAtrH6clKPoJF3LikDqK5gtpm1rtSx1uWfkgyYqC37NQTbkBg3J7+69si2joV3WJXeZ1kZy43R2YSMtCqxo97+clMjhn9NFFEhoSWgv9kgqSYVGHokxRk0NiG/CIhgNcdZpSzNTF9hgk0oiIJNGjjXTSGJw/gdfXpi/NNo2Y1Id2mcFOfGXrZ+OqlXpqT6sz/4tdKaSjQwUv+/Wv++PJw0UwSlCApWjAlQ7UUgXSm5mV4iGZWyI1GgvynrxE0APJOW1/Gpqc/gVk0oBsMF/gsR7qmvKbZ8tWG5AVEAA2fKDxpfhmPSb8j2ve04cUaHc2Lq0n6D5wJdY7+CEWxsHLblRZHntGYZY/k4rjrYMkmBM1T5igQ0Z9NLc5tq1B3OkCQYFyg==;BIM2w7/eYQg4DT5J5c0SXg=="
 ---

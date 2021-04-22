@@ -42,6 +42,20 @@ related:
         width: 675
         height: 449
         isCached: true
+  - title: "AI analysis shows two scribes wrote one of the Dead Sea Scrolls"
+    excerpt: "The handwriting style is consistent throughout the Great Isaiah Scroll, a 2200-year-old document found near the Dead Sea – but AI analysis of the text confirms it was actually written by two scribes"
+    publishedDateTime: 2021-04-21T18:22:00Z
+    webUrl: "https://www.newscientist.com/article/2275298-ai-analysis-shows-two-scribes-wrote-one-of-the-dead-sea-scrolls/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/04/21153119/hm0cdt_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "LP2ok8u28Byy0iwrmYJqqI03myfWSChJs5/SSBwp/oB8mqfyBpyIvxv4fimZmAVtYCJTp7kxFftFiQD/NnqpUcuGD6I6Ofscvc7yjN9vOA2dltgijm/WMG178x/z8FB/nIn4rNuSHCgOFkv80eiXayr7zoZVTeLV/1m4I516neVpYC+T3OOvQbBHYN0Najab1AIjsmJVnb1MEaXf1JRUbkwl1DIOEF27XPltBejcmBz3Vw2sDaOzjHLJwkk8/NgikrgHmHXBURizhyZspvONL4oiWv96ZnnPcff8BlrTabXEjEzvllZ2mAs7fTAx0L2FGZrvLut6IR15pGix9NB6L51Pgk/eY+UscGd7M/+8Oto=;JVxK1MJdho6e14cvg6rICg=="
 ---

@@ -75,31 +75,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Strategies Driving Adoption of Artificial Intelligence"
-    excerpt: "AI (Artificial Intelligence) has been around for a while now. More than half of the survey participants also indicated that there is a direct correlation between AI adoption and superior business outcomes."
-    publishedDateTime: 2021-04-17T07:04:00Z
-    webUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/"
-    ampWebUrl: "https://www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://www-analyticsinsight-net.cdn.ampproject.org/c/s/www.analyticsinsight.net/strategies-driving-adoption-of-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 59
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/AI-Adoption.jpeg"
-        width: 1600
-        height: 984
-        isCached: true
   - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
-    excerpt: "Qumu Corporation (Nasdaq: QUMU), a leading provider of cloud-based enterprise video technology, today announced the development and release of"
-    publishedDateTime: 2021-04-21T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-1030328833"
+    excerpt: "Qumu Corporation, a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. Developed by Qumu’ s cloud engineering team,"
+    publishedDateTime: 2021-04-21T13:15:00Z
+    webUrl: "https://www.nasdaq.com/press-release/qumu-introduces-ai-powered-live-captioning-for-enterprise-video-2021-04-21"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
+  - title: "Enterprise AI solutions startup Hive raises $85M on $2B valuation"
+    excerpt: "Cloud-based enterprise artificial intelligence solutions startup Hive has raised $85 million in new funding to accelerate the growth of the company’s portfolio of cloud-based deep learning models through continued investments in products and increased investment in sales and marketing."
+    publishedDateTime: 2021-04-22T00:51:00Z
+    webUrl: "https://siliconangle.com/2021/04/21/enterprise-ai-solutions-startup-hive-raises-85m-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/hiveai.jpg"
+        width: 556
+        height: 380
+        isCached: true
 
 secured: "0Fgx+LNThPbVucWg6KgXCIOLuEU2oxS/zm5V/rnWp3zY4n0q3yQ8Yh7RixEl40hXDgQLeae8msPeEHLylSxmfnqLqmstrYSoyGmDLWw0S1eja2NgM5k7/JsLhSxiNFrQszKn08g9i/5hxIZpsEYEiXi/mmjcBbn/23ZUsZYhlhkMCE/MkmeGNAlTIgm3OaKRtK1w0HsdQv91Vo+WCjS0JwW7aMlY25mmCHL/fbo2yz/1DPfVx+DVgHLk/lGOety5a62iHo4lQo6Jj6NZMWSXzibzZCkU4kptWt/Z3fm5iy0W6N+ESzK745qOO+8W/7TpT9mZw7VIWu/8OM+yvsE+wZLmH9awfeGLq1bcyqT7jK9YUWElTNxWAT1FFgH0z/NWA4zAJpt3L2Nv2r+RdXrqJM9IERcceafD8QXPAWjHmxWmVzfpwGeIiPxPZpEpQt326y58FPM8ha5+hQuiPz7vGOfsbBpHyH9Hxbwwrv9vjIxt4ubmOwVkVnt5d5UV+gjAc36GXhPYezduWHE98S3PUg==;bLit1KiBPsOBgoZIbUEgnQ=="
 ---

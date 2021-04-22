@@ -23,17 +23,6 @@ images:
     height: 327
     isCached: true
 
-related:
-  - title: "EU takes lead on AI laws"
-    excerpt: "Its draft proposals published today cover a lot of ground, from the authorities exploiting facial recognition technology to companies discriminating unfairly through their use of AI algorithms. On the former,"
-    publishedDateTime: 2021-04-21T18:54:00Z
-    webUrl: "https://www.ft.com/content/bdbf8d8b-fdcc-410d-9d37-fec99b889f20"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
-secured: "zJpt2vfVveeqbC6X+phgrsFb5Cj/FhS9maXjo/NgxJDXbNiRc6vomCUNubylnFzBtLJ2C2X8Je5N+vLfHLFs5ItHU8y9WaJJRF192Rhr1YCNfY+5xRQvns78P7IdY8iDtgktOHsbWXKih/9KYqfu/gIsIPOrYizGOGTHAsbSZOnpq8rfGoubySNnTr7hBCuSSV2ldp1KLxBsqvAOTyehkJShuQD1U+HPWRZ1mXAV2hJQQ9rUvSVPgB/9Zn3WcGH+bQqNwT+JAJ/j8QSuVRfkV311KVxTkFTdWgCJrKstlbeFrCPfuSCGJKkmDCqnXGzMoMnpcHMZhL1aoTiE3s9i6mzJJ03aD9ycDIWe10V94dY=;F9NM9IE+DpsSj8a6/V1OYg=="
+secured: "9RfzTuoZXO1TTfZyvlz+hYRgM6S7TFBvkz1YkRnBfI/Sbda7rjL/OdugML3V/GPYdtWANxKH4iCg2kz1PvgKha5JHj2bna5XWZwVeu6r6QD8avw5eeeIglD7kBiUvh3bwQ1cd8cwCucVCaH49ww3MPTphjPzIBDvICAw25txVMT8VIsFGD32F+ewvqX8Q/d5xBlu2fbRM73XD/3MH5PMejZuXwsLW+Y9WqqsfbDQmCOZnumT1dBYExdP0sKUAvrvu1HZIreUQC5pdwhKJ1JtMlUxxpDnCKx6+05e6Q4ncPz/z/IQqNrtGn8kyYZSPZUGSvlIuSOVZp6ewj1sWe4TeuA+uiXxWT2e9+sfVLbsz0A=;wHmSedWa6YHa5wAP379yhQ=="
 ---
 

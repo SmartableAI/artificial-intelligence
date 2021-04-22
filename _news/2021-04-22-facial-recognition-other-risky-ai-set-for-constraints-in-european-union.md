@@ -266,6 +266,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 22
+  - title: "Pattern Recognition, Functionals, and Entropy"
+    excerpt: "Pattern recognition (including sound recognition) is described mathematically as the problem to compute for any element of a given class its image in a classification set. The difficulty lies in the fact that the map may be implicitly defined by a property or must be extrapolated from prototypes."
+    publishedDateTime: 2021-04-22T01:33:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/4502565"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 4
 
 secured: "WbQXFGSDJ6EBYGWdsapoUiFCDOcrx80y3c2EIKN5p2Y/9cvNqPx3isz0ampQjbYAadaOXx3k+0p9j0nDgm4jZx1EjkumwwMYfZSJ7uCObKBltQrI4yHIuZUFsL6dQwz2AENAmYm+WoYk547xSTGjwCLVs1PifXt9ZsFG+7RAef0wdIqjs1rkbxhmD7eiNl+1Brfr8sX48I+XnV9rnQMFkyU+c/l4Pbfj5JdpQ+uy5+S2iQxnmKicNhXAPQhIdIIU9RCyUW7Yt1022ah+zuWFeCuZ2fTUQA9UQM1muHGnuDw16kLOEjoWQaFD2oo0xAKip8zPhli3BjDakDsuWZi+Q6Aap7bOrazBptXJ040ABio=;2yMfMLVKp2yTpJ7b3s6rGw=="
 ---
