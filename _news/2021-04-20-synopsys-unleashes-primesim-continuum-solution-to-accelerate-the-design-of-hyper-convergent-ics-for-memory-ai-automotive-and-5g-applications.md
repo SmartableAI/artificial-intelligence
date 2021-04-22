@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Synopsys Unleashes PrimeSim Continuum Solution to Accelerate the Design of Hyper-Convergent ICs for Memory, AI, Automotive and 5G Applications"
-excerpt: "(Nasdaq: SNPS) today announced at its SNUG ® World international user conference the PrimeSim ™ Continuum solution, a unified workflow for circuit simulation technologies to accelerate the creation and signoff of hyper-convergent designs."
+excerpt: "Synopsys, Inc. today announced at its SNUG ® World international user conference the PrimeSim™ Continuum solution, a unified workflow for circuit simulation technologies to accelerate the creation and signoff of hyper-convergent designs."
 publishedDateTime: 2021-04-20T13:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/synopsys-unleashes-primesim-continuum-solution-to-accelerate-the-design-of-hyper-convergent-ics-for-memory-ai-automotive-and-5g-applications-2021-04-20"
-webUrl: "https://www.marketwatch.com/press-release/synopsys-unleashes-primesim-continuum-solution-to-accelerate-the-design-of-hyper-convergent-ics-for-memory-ai-automotive-and-5g-applications-2021-04-20"
+originalUrl: "https://www.nasdaq.com/press-release/synopsys-unleashes-primesim-continuum-solution-to-accelerate-the-design-of-hyper"
+webUrl: "https://www.nasdaq.com/press-release/synopsys-unleashes-primesim-continuum-solution-to-accelerate-the-design-of-hyper"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Acceleration Consortium applies artificial intelligence to discovery of advanced materials"
@@ -43,7 +33,21 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "New Acceleration Consortium at University of Toronto applies artificial intelligence to discovery of advanced materials"
+    excerpt: "Global coalition aims to accelerate research of new materials that will increase affordability and sustainability in a wide range of applications"
+    publishedDateTime: 2021-04-20T14:02:00Z
+    webUrl: "https://news.engineering.utoronto.ca/new-acceleration-consortium-at-university-of-toronto-applies-artificial-intelligence-to-discovery-of-advanced-materials/"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 17
+    images:
+      - url: "https://news.engineering.utoronto.ca/files/2021/04/2020-12-10-Vici-Instrument_10-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
-secured: "gKbdEFHQv+1t2vj7ZDiFDVZ8x77pS1KZr2Qe4uu/loymRwjTFjQPDRRrYKYNIMQyZzZMKs/P1QDFEVzNmJj9/UhctW4AcyL/xYFTcNOmYwgepglHoU2LzcVwkyEjYQ61RhMr0Dx/HpwttfNV2B2ARM0+Sm8T5DZmqEdY76U2ALQI+Z0wrlnjlWS/nErMMc94/ed9fR/2ZsnYld99gsxGARp23pvSyQhg4ab5jQS9jgMIVhlYrv3fyWUQQ3/Dl9Xd+8RdaIEpSXbHiT5AYNiEFRZksS8rv/VZTPAeqQtiLDQQzceQHoez3inoWKE2kAmTCgfVZqFF+aiDYcQKQj7AvD21dux/DwqE09oHQz4ui+c=;cvP3lk3Pz4Hcjp3Dq8OYWg=="
+secured: "g3Mgu/W5PEOLhI/Rj38JCRSu8FNe+XxqIJ99i3UbGzMWJRK5WTiQB93juMJW+GSHVtRdBN5zlnelyx2EVP03pzZU35ilMutE/1AMWS1L+KEdhwP1kFSdcgTn+i4NnvOsU/JjBem6J4K8g9cGBo/1DbMXlTz4n9ewwGlib8ifijgwmDHChgmZ4GHQJ/Jszd54tLStqeaxsByzsTOtwECHNaT6Ou7iVzIjyXtiEg21+PqMFB0XgQIv+VAK1iQ9msBngrpiQbptPBrAHFvgtJUrzOQAjpNerFf8qtNR7d1Qg+pFZWfHpFWb3ZYyabES1fDmIfNX8ovOWjhh64rO78KcJaygg03TgSrCBxO4BUjrmdQ=;Lk/5m4MaBuADhCAY0OuWUw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-han
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/Denali_3_board_in_hand.607f33fb3d4b7.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Xilinx Introduces Kria Portfolio of Adaptive System-on-Modules"
+    excerpt: "For Accelerating Innovation and AI Applications at the Edge Xilinx has been massively expanding its portfolio, and it wants to address a new market with Kria branded adaptive system on modules (SOMs)."
+    publishedDateTime: 2021-04-22T12:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52742-xilinx-introduces-kria-portfolio-of-adaptive-system-on-modules"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/10ff640b2abc24d2615350428a3135ef_L.jpg"
+        width: 620
+        height: 438
         isCached: true
   - title: "Xilinx Launches Kria System-on-Modules for Edge AI"
     excerpt: "Xilinx, Inc. (NASDAQ: XLNX) today introduced the Kria portfolio of adaptive system-on-modules (SOMs), production-ready small form factor  embedded boards that enable deployment in edge-based applications."

@@ -90,6 +90,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests."
+    publishedDateTime: 2021-04-21T18:51:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210421005747/en/Prevencio-Announces-Laboratory-Commercialization-Partnership-with-Atlas-Genomics-Incorporating-Microsoft’s-AI-computing-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "S0IkaKIcwzEgxOQk0TQSEj8TioufPS/cqnI82BdM4REWwSMS4W96YX8ZDIrWlgn5byV2p7aMnn3nbpUTo6Lv79TVL0uchbrdgVzwB4gp0q1sE88+zJmdcACVQDNeaZIM2R4uxxqM4Gf0eiTrayDsPbUfiZ4GdW+NXuCGIGdKOeXyvgebKzAXbs65HzZxJR3zYKbDqAT17FBQLXuanAe6X53blf7e6MRVwTGVvZveyiTFP8H+faMOXASJS7+NKsDUrU92ZmtEJPExYngF3uUhjiDB9OINlMSUVUS5Q8ioEpVyHGq/AwZfENvvVLaYRyyll4A60w5YivUCcMeduS9+VXknKr/LoLuMvqiXztIkhMo=;Z3mLgXsWn7aS9GiHpjBHkg=="
 ---

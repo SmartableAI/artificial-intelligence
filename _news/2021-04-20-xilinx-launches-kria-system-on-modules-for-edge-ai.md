@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Xilinx Introduces Kria Portfolio of Adaptive System-on-Modules"
+    excerpt: "For Accelerating Innovation and AI Applications at the Edge Xilinx has been massively expanding its portfolio, and it wants to address a new market with Kria branded adaptive system on modules (SOMs)."
+    publishedDateTime: 2021-04-22T12:54:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52742-xilinx-introduces-kria-portfolio-of-adaptive-system-on-modules"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/10ff640b2abc24d2615350428a3135ef_L.jpg"
+        width: 620
+        height: 438
+        isCached: true
   - title: "Pinnacle Imaging Systems™ Announces Denali™ 3.0 Soft ISP & HDR Sensor Module for New Xilinx Kria SOM Platform and Vision AI Starter Kit"
     excerpt: "Today, Pinnacle Imaging Systems™, a developer of Image Signal Processors (ISP) and High Dynamic Range (HDR) video solutions, announced it will offer its"
     publishedDateTime: 2021-04-20T10:10:00Z

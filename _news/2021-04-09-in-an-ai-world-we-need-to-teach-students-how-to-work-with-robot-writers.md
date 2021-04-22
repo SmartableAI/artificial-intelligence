@@ -1,20 +1,17 @@
 ---
 category: news
 title: "In an AI world we need to teach students how to work with robot writers"
-excerpt: "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ..."
-publishedDateTime: 2021-04-09T13:27:00Z
-originalUrl: "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html"
-webUrl: "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html"
-ampWebUrl: "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp"
+excerpt: "Artificial intelligence is probably already helping many students write essays. Schools and unis need to start talking about the ethical implications now."
+publishedDateTime: 2021-04-08T20:11:00Z
+originalUrl: "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
+webUrl: "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
+ampWebUrl: "https://theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508"
 type: article
-quality: 76
-heat: 76
-published: true
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI Ethics
@@ -22,11 +19,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
-secured: "IHn1E2MSE93Swbt/tLzQTiETzTKdGa/l+j2hijU7V0ETwXkNe9YiCU5LFMSENIio297l0tO8j5JtEUdzBvw4OipkAAtVpXtzmMXKAGrFb1hqvF7LhVeED8apGwFYd2pIAZzuLovVOSTVZKm/Bp5n4j2A8pDobL1sSOsMDe3cacwHDs31wl4CpPXwOhmipVf71mhh21YxKR+AuvzRVHjIoAjhKRezM0MEm2XG1rtGWXdr4HO/GCG94fhHVnnuzWc3tHrCXMSVZr8QUqu+Ej+C76zNvNfSa+sNn7hr4KqD0ppFQP9yvQUaZ6FK6MqqhKpdyxjYBqBAWNxDCyNZ2wYerCPCVvjhD3dAtv0gnNvvebjaV37D1yZtTSWqLk+evpA1C7vximievMm6mnWTgsYheSm6yUcWnwmZ5GIoYejkIzjqQsexvhj3XTqJ3fll8rC3Dzb3kPiI6lUXNCSfK3UmMytjl22xk01yYcW2Rvo5XkXTC9UibSPeMb1LIqNDSQbnSRNCPPAd5lsxS/bGt4FTvg==;j3HLyaCdx9b0Zu86eBc+6w=="
+secured: "v0hiVa9ocLV/okMMB/yWrFwsL+Xx3lz+qpAj5bhUzVOpEsMSPhcpKRn7t2Qm4SMfg1hWSOujonxJVLiQazV1oIQ1uwdAugavrYNjfZZA/gGk9Bw81obsCrTFfnJ0RK0tMd9QiqMfQwbLsrGFJMx0qqxBTrMjuf8MmyogN9GOfYZ+UVGYRDz+7T3JTu4WP07bo3vnj2YB0r5Gj/e9y0GxPifh3/RJNKTn+sbyChf7IDMDj+kbWAwWYBujqDyyFW6EHdSGvT7Nvl9mANJjiGP4KCSENh+ORVKq9mLPQv6trQV35NqQICQuHwqeVbRn12Cbjbu9FKiy+wbJuYdemsK2PdKGZW5VO3b3iytaLp4YJyE=;/37frRkHh1CBjQ3Ll3LSFQ=="
 ---
 

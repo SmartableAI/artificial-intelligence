@@ -55,6 +55,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UK government turns to Microsoft for digital transformation assistance"
+    excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
+    publishedDateTime: 2021-04-22T12:00:00Z
+    webUrl: "https://www.itproportal.com/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/uk-government-turns-to-microsoft-for-digital-transformation-assistance/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
+    excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
+    publishedDateTime: 2021-04-22T13:15:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-enterprise-search-gets-boost-with-new-integration"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0268-11f04f866ca3-361fd3e7c046-1000/microsoft-azure-1.jpg"
+        width: 607
+        height: 456
+        isCached: true
   - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
     excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
     publishedDateTime: 2021-04-20T21:05:00Z

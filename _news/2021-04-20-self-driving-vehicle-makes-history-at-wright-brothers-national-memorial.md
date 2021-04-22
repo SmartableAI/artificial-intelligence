@@ -112,6 +112,15 @@ related:
       name: Daily Herald
       domain: rrdailyherald.com
     quality: 4
+  - title: "National Park Service launches self-driving shuttle service in NC"
+    excerpt: "The National Park Service (NPS) and the North Carolina Department of Transportation (NCDOT) have launched what it calls the first self-driving vehicle to be tested at a recreational public lands site."
+    publishedDateTime: 2021-04-22T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16629/national-park-service-launches-self-driving-shuttle-service-in-nc"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "Gp+nAv3g77Zu+2WXkR4s8doYd9tmqPuOBEw43YZRAR6ZS9ZUT8vXibBrGpgBgy7KlPlLe8HjJqFyEO869o33PMxDS6mPlplZY3BSrQ0/EX24Ssi9AqiEDAlgBXhW0o8Hatqwl+fY5pqfnb1OkOF2+5aCpDz993h5aIVivJ8b6/2p7gsPW6kLJ23HZUZhF96jgS2zCBWwpr7GI3Yn161Jx8A7Qn5LEFt04t/DbzTNGcH5JQWiHs3pgGVMOIArm2CoBTOe4WOsfopnG+kJOTZvoY7HJ7Nl8L/WeEMN63J7TUyv83YwXb/wG8lRjqWJ/1YGkbZIAPO5nzJ+LkzLYzyUtw8N21Yqswc3HIMS3723Co+e1c+eCELhlhAfOszUu9Sb1VL9tNIF4i6urrsYuPWeXytwgMNT3oB7rY1EV2Cg4WLjhxXSqxkQT3cP3edgolSaoA0V4he/xhm9ZGUMBTz0eqYNl46Az7OgRnCjI6o6NEk60hnQKVVRCbtifHshG7JT3kFOInllGeYh7wuMSQuAHw==;c1LEb40Hnp21QvIDkGu55w=="
 ---

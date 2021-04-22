@@ -40,6 +40,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Botco.ai Launches Version 2.0 of Its Conversational Chat Platform, Featuring Contextual Chat Marketing and Advanced Analytics"
+    excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics dashboard. Contextual Chat Marketing"
+    publishedDateTime: 2021-04-22T13:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-19763387.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
     excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."
     publishedDateTime: 2021-04-21T13:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.speakingtree.in/blog/best-uses-of-ai-to-improve-your-cus
 cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/best-uses-of-ai-to-improve-your-customer-service-experience/m-lite"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "UKG Scores Highest Overall Rating Among Customers’ Choice Providers in 2021 Gartner Peer Insights ‘Voice of the Customer’ Cloud HCM Suites for 1,000+ Employee Enterprises"
-    excerpt: "UKG (Ultimate Kronos Group), a leading global provider of HCM, payroll, HR service delivery, and workforce management solutions, is a 2021 Gartner Peer Insights Customers’ Choice for Cloud HCM Suites for 1,"
-    publishedDateTime: 2021-04-19T19:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210419005604/en/UKG-Scores-Highest-Overall-Rating-Among-Customers’-Choice-Providers-in-2021-Gartner-Peer-Insights-‘Voice-of-the-Customer’-Cloud-HCM-Suites-for-1000-Employee-Enterprises"
+  - title: "Adobe adds new automation, AI capabilities to Experience Manager cloud service"
+    excerpt: "Key updates include new Creative Cloud-powered content automation capabilities within AEM. Adobe has announced a new batch of capabilities for its Adobe Experience Manager (AEM) as a cloud service. Launched a year ago,"
+    publishedDateTime: 2021-04-22T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: ZDNet
+      domain: zdnet.com
+    quality: 63
 
 secured: "X3ROpd4cpxTOVTwH1RwDw+LscnsXQyNfEJgYOmnbGYXp5Azr8BUbiJ0XxH4ir6src0x1dT1/m+4zBEEopGWlE6MSe6We6mFvs71vxDdDpYc4sccjWpGGBLS6X/5yPHFmEdz6KCSn/9Ey4s+1HpuEvN/0TgveY5pUzy1PV/ScUv4Gag+S2aMCp3eD+LrpnGKx2E/9r2ifszLOp6lFhHZjJKED8xj3HvEGR9DU0E0oJy4CcLQEEHIkM6Re07y1AxTn1VOETAYlJfmvAawdd13O7QLIo6vYBfycF0iLXV7uyeRjCujYcA/XDr4/k2z93ZTW753sX4Lthrj20G4UKlHcwP258R5dV3fJqxo8grG1QEo=;cgkAQ4ht1GL5GBK1Pkss1Q=="
 ---

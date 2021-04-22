@@ -9,8 +9,8 @@ ampWebUrl: "https://observer.com/2021/04/covid-19-may-have-rewired-peoples-relat
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/amp/"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Observer
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based analysis of CT images for rapid triage of COVID-19 patients"
+    excerpt: "The COVID-19 pandemic overwhelms the medical resources in the stressed intensive care unit (ICU) capacity and the shortage of mechanical ventilation (MV). We performed CT-based analysis combined with electronic health records and clinical laboratory results on Cohort 1 ( n = 1662 from 17 hospitals) with prognostic estimation for the rapid stratification of PCR confirmed COVID-19 patients."
+    publishedDateTime: 2021-04-22T12:59:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00446-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00446-z/MediaObjects/41746_2021_446_Fig1_HTML.png"
+        width: 593
+        height: 685
+        isCached: true
   - title: "New AI tool tracks evolution of COVID-19 conspiracy theories on social media"
     excerpt: "A new machine-learning program accurately identifies COVID-19-related conspiracy theories on social media and models how they evolved over time--a tool that could someday help public health officials combat misinformation online."
     publishedDateTime: 2021-04-19T19:33:00Z

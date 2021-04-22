@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
+    excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
+    publishedDateTime: 2021-04-22T13:07:00Z
+    webUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/"
+    ampWebUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 60
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/04/guy-caspi_deep-instinct-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Role of artificial intelligence in boosting organizations’ cybersecurity"
     excerpt: "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response"
     publishedDateTime: 2021-04-19T10:37:00Z
@@ -75,7 +91,37 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Cybersecurity Market Statistics 2021: Growth Drivers and Future Scenarios"
+    excerpt: "Artificial Intelligence AI is a technology that enables machinery software and systems to replicate human intelligence and behavior in the form of computer interactions Major adoption of AI system is driven by the use of complex algorithms to grasp information"
+    publishedDateTime: 2021-04-22T13:38:00Z
+    webUrl: "https://www.openpr.com/news/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/U/4/U422349707_g.jpg"
+        width: 800
+        height: 444
+        isCached: true
+  - title: "Deep Instinct Raises $100M To Block Endpoint, Network Attacks"
+    excerpt: "Deep Instinct has raised $100 million to build out a channel organization and expand its prevention capabilities from the endpoint to the network and cloud."
+    publishedDateTime: 2021-04-22T13:00:00Z
+    webUrl: "https://www.crn.com/news/security/deep-instinct-raises-100m-to-block-endpoint-network-attacks"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0267-11b801b66699-ce332c58f086-1000/handholdingmoney400.jpg"
+        width: 399
+        height: 399
+        isCached: true
 
-secured: "+J+1f1UF7oIAAOWpspTYwViN3nQ/oqEs5a7uClEgjRidIb1waCXkhaX2IZugB/J7HumCaL/OspJcq7c9M4LXCq5bImQY64XMrXLBypv0TjbR2R/PUvpKFu6bVgRF5hOqGj6Krf9eVi6SRMdOGSULX7P0w7IbETrAkfWwjpXpGR5f7MjQJHQI21FXsaC9ONBhhCw7xA8e1EApfGBgjKGaCmSg09QFWy2jS8p+5XrftgRSfVGYoZDXu860ZfJOYt2HhTILwm+WTzVjBDURf0fOOC+WjwtvXr4UGHz24798goS/Ho1pB9rRghwCANupo8CXWizKn8r61ePP3sf3vtmMxEXtmYEJpGO0cGvXeOV8yp0=;0eC6qG4rd4W0cRZTgxVJIQ=="
+secured: "S/JkFKJm7uKrOXf+OCmciT01P+kR9cCWYY2Q3EINonQjT+X6BOcxwexgnV7PzZDDdM+YBdqx2ao6z83rVyKf69C1DPywcuHr8WOTD8VbSpO7QCzLkbWPDJWkSX2Q75WjuUN4gW49TNcNSfrHGXNeSypD3RhWz4g8oyQLFzNksK9XrsEzsBjNyRO17t+C2l+6aJ4FO4jDNdJ6/PwbVKEauyJyYXGZDMgzfS3tFbNq6kqVwTRRHt/hmLs5/iZ3VvG+vx9GbCWsqG3v9SINaQHz4qtk483RkyPMeHSHi0it/oHIkYRt1pqwSY2ntw/g7Zf9UX1asQl73nCN1mkF87ThZvHkKMOcvH7oc0mfUqBYqUwxqRZyLlE3BLWSx2MkAXw6OEbVJIHyPV0Yunh+3IXH1v8UF8ipw4mKiNAR1MK9G6gDB+8eunJinkls2KO0j1m+c/gfU3ut6XsxHbrhJTs47oOhw9rOp0dC78uHF7T7O2H8s7BcQE6UBb7DpSKnYjW83y9ax5SRMJezyBtVP8cusw==;09MOC+hGtat9R4KwySKKfw=="
 ---
 

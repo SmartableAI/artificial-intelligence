@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siri
 webUrl: "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
+    excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests."
+    publishedDateTime: 2021-04-21T18:51:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210421005747/en/Prevencio-Announces-Laboratory-Commercialization-Partnership-with-Atlas-Genomics-Incorporating-Microsoft’s-AI-computing-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "quiUtpbaCzwYDtLmUd7gD7In3Yq/iKM7RgmBhNmFn+tw/nFcGP4TyRKeQPqqx6SfoC23UhY6ds8j8mXFZZIxOSaSzN9jGWxG0+M2maXKnL87iOKfcttBfDanu4C7gF6H0XXzutn6t7F6R3wmoNp9BQE1FpXFAFvcI48ctg23C1pPIEK4IHTN2bmSdAQk5AYGFCuZGNWJ43bPqYEoelt98P5i5AV3hYXXlbMrtjoH1GSaCvoWI8SeaHDH7lLgsnZhIHyuUgJYhPH8/Y3XrPE3Bmq3l2Ulw7mT+OZreAhBsAznhz1Lwe7fFpGfVHy+6VXLRJeiVKyE2BGcgwgl4DnG2JPPGmV6gnEe6FGWzk3AbHzrkQc4aD0tT50jjAmukq5iqG00Ncp50iEWdco9hDy3yUouGaOo+ZDdie1WHKVA3/2tuv5zw5I5n+gqnMEkRETt+cizKEv/QucFVn4LdZQqzc2r2+9+sD9iAtE+yFay1ot19Gneae90JIUm9lU4lZjKH3uDid5wChF1E/ZZWy2uGg==;FCaMTmFeVfmCR8Repp8Wjg=="
 ---

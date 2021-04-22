@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-sho
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
-    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
-    publishedDateTime: 2021-04-19T21:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years"
     excerpt: "Chinese technology giant Baidu Inc 9888.HK expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years,"
     publishedDateTime: 2021-04-19T04:00:00Z

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
+    excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
+    publishedDateTime: 2021-04-22T13:07:00Z
+    webUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/"
+    ampWebUrl: "https://www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/04/deep-instinct-deep-learning-cybersecurity-threat-detection-platform-guy-caspi/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 60
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/04/guy-caspi_deep-instinct-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Role of artificial intelligence in boosting organizations’ cybersecurity"
     excerpt: "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response"
     publishedDateTime: 2021-04-19T10:37:00Z
@@ -74,6 +90,36 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Cybersecurity Market Statistics 2021: Growth Drivers and Future Scenarios"
+    excerpt: "Artificial Intelligence AI is a technology that enables machinery software and systems to replicate human intelligence and behavior in the form of computer interactions Major adoption of AI system is driven by the use of complex algorithms to grasp information"
+    publishedDateTime: 2021-04-22T13:38:00Z
+    webUrl: "https://www.openpr.com/news/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    ampWebUrl: "https://www.openpr.com/amp/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274030/artificial-intelligence-in-cybersecurity-market-statistics"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/U/4/U422349707_g.jpg"
+        width: 800
+        height: 444
+        isCached: true
+  - title: "Deep Instinct Raises $100M To Block Endpoint, Network Attacks"
+    excerpt: "Deep Instinct has raised $100 million to build out a channel organization and expand its prevention capabilities from the endpoint to the network and cloud."
+    publishedDateTime: 2021-04-22T13:00:00Z
+    webUrl: "https://www.crn.com/news/security/deep-instinct-raises-100m-to-block-endpoint-network-attacks"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0267-11b801b66699-ce332c58f086-1000/handholdingmoney400.jpg"
+        width: 399
+        height: 399
         isCached: true
 
 secured: "019LdVSumA4rw1/vQWgBA+J/AUtt+H2mgm9bUo+TC7anhAuGzCCw56rbkjXypPJkrkYcr4fHFaZxbjby7Dgi0GXV+4dJYnQ6MVTOGKgRnYADz2j+6ubf+bL0XOsgd3zLJ0nIpw4M7JwdsjgteCSTTUb0z3D7BGJE+/vW7odLByVve0TrA9LKo0oQT4LhoZhmByQKj3aqy+000+keRxqwD/mJTS/CyZKvezOPd7fo4l5f4QYRddUt0IZeRwVGGPK0L6SxRX1pCKvM6YjUOLk+tKIYLgU+9ohKxzriSny8ynQgO/9BjfNDsOdms/T7JTDw53NdMWDlG/2PRC8NVuzogBJie5oNCoXjOH3BtJKRVqGGmOOsvNLzgLj93CLztXnyK1vbK+IbZDoDkTCkDv9tfBdtXLBIHhqTM+NxxUPwxOvQdYxuXy1kefkdDiU/rWSDC9lELllnqhGbQn1OCDrulC+qYmwCRFi8xdB/91IwLB2/7DIjqFOdo/giG9qBeQdRSrPEeQ/UkQ9RqRyqoMb71g==;R3vxQEh2OiYtwWEGn136Ow=="

@@ -111,6 +111,15 @@ related:
         width: 778
         height: 524
         isCached: true
+  - title: "National Park Service launches self-driving shuttle service in NC"
+    excerpt: "The National Park Service (NPS) and the North Carolina Department of Transportation (NCDOT) have launched what it calls the first self-driving vehicle to be tested at a recreational public lands site."
+    publishedDateTime: 2021-04-22T12:35:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16629/national-park-service-launches-self-driving-shuttle-service-in-nc"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "jI0+VcpWJ/6AGrj1oyZa5Jgh9kFl/H71bpjtWO+sP3gb533B7KKfVowDkQAuGfWMHicrK+o8F+y8ns6KZXFRpXbegUBZzotAabEN+LFand9t8w4Hri9z9mzaBbVz6G5HJsJ1vQ06vrk6ldKpZEqg4s/5gJXFkVooBXG3YjQTf0L0WYQpXEPjQvUOKNXo2Zno6dN1CCF74Xyo6reyAS6z74KlXOgwvnr4ZOA/GLoD6aQ/DTQtcC5I7zB80tDTFA3LOXYT6AQsThYqJJ2iZDbRGoG64jQq4Ie2DGEPAavZTb5esh5moJinblLJJ6bmcwxTEYLigt9fet5HAnJ++aOoW45PsPiivUOLPUw6cfkH14/dpBWkQzPj3ErtNleUn9kCj77Xf8Oq9hPfQQ+CAhwuoTH4VY+sQ2aWjt79ExJuymI7LFPzcy9AQ4kI/J+zu6YmgJdct0JoqDfQbXu8MuxOKD94f94Uconoyedm9Jp3Zp/Cb0K1zkZKR/RxLQQZOuXGlsdf8p93mMfcEXv2BRfvrA==;TTzHoGViRk3Un5hbKt6yYw=="
 ---

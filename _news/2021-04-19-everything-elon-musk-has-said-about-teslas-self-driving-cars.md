@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -89,6 +89,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 69
+  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
+    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
+    publishedDateTime: 2021-04-21T19:37:00Z
+    webUrl: "https://www.reuters.com/article/luminar-technolo-tech/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-idUSL1N2ME1P8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C829V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C829V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 69
   - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."

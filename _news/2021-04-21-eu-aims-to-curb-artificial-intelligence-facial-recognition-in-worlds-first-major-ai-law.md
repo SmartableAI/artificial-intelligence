@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "FBMqhbY7jlPxA8mOqHR7YD0Dv8vCvWBlILANnU7lneuMbcg5DJo0kv06NE1bub6CEqJd5hV7RKaMkkWjpAe+NAPjpoWW+T2tKdnwesk8RyCJZaqRtynSCWl5hEFA3465rZp7N4VrrO2l+gqB6EZhWGQzrvSzWnWNWcw348O8w+45M11QRZA+PSMRjIVfJdW2a6Ha9+uc1kHhgdwtlu15ww+ydNgjuDSgb6y1IvLItZf5dU4Pfbks8lP3Dk3GYduE/ueUPfJQjz8OG6KXmtcK6gc4ygDkbgaqyU2pP8xX62juNSmTh5mtIXX4gD+Jba4qipqKvCE26OM4YFGIg42/RYoHReavF0sKiwiyx3fnp1Y=;9CcPmZMHz5uOZzRggh5pjQ=="
+secured: "1QXEPsJD+nXqd1HUFTGXOHQEE8VS13PgIHNzp7C7xMfxwyRY6fxpF0mKhb1zGxJTKMzGS66auVKRoz0othGXuonVD5gu34mQ6FeuVFz+ElVn3rIGYj2f7iKeS4EQe5d66D7BGJs7XhnJ9Oqh9ciHmFZ6kcQ7XlXjmhl+p+BqjkDOhknFLta4I7DzrFzj/NY/+JW5XqeWr389sQSTT+sAgY2RLZbEAE6tHO/2hAHMuJD1Cy8TTa3cEfLD56sWe21x/2vVqSmMHB9mV49ssldaPDdgsob4wR78MD4zrMbawynbAFIC5M93By+9fOctAJay5qO4otIirbp/46yZfH0PshyUumRzZdOMh+Qczko1pcM=;vsofsvgDOwZ0AxlwB36KxA=="
 ---
 

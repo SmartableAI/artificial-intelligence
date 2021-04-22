@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
+    excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
+    publishedDateTime: 2021-04-22T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
     excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
     publishedDateTime: 2021-04-22T05:10:00Z
@@ -212,6 +226,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
+    publishedDateTime: 2021-04-22T13:52:00Z
+    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
   - title: "Artificial Intelligence Services Market 2021: Trends, Growth and Profit Analysis, Forecast by 2030"
     excerpt: "New year new updates Our reports have been revised for market size forecasts and strategies to take on 2021 after the COVID 19 impact https www thebusinessresearchcompany com global market reports The global artificial intelligence services market is expected grow"
     publishedDateTime: 2021-04-19T06:10:00Z

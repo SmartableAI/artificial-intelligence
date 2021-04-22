@@ -55,6 +55,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Botco.ai Launches Version 2.0 of Its Conversational Chat Platform, Featuring Contextual Chat Marketing and Advanced Analytics"
+    excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics dashboard. Contextual Chat Marketing"
+    publishedDateTime: 2021-04-22T13:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-19763387.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
     excerpt: "Cortellis Deals Intelligence features new trends visualizations and predictive analytics supported by artificial intelligence  LONDON, /PRNewswire/"
     publishedDateTime: 2021-04-22T08:00:00Z

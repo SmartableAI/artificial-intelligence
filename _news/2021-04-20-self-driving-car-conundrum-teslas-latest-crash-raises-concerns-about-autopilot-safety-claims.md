@@ -102,6 +102,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
+    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
+    publishedDateTime: 2021-04-21T19:37:00Z
+    webUrl: "https://www.reuters.com/article/luminar-technolo-tech/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-idUSL1N2ME1P8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C829V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C829V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
     excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
     publishedDateTime: 2021-04-19T20:19:00Z

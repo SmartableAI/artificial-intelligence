@@ -40,6 +40,20 @@ related:
         width: 3383
         height: 2701
         isCached: true
+  - title: "AI-based analysis of CT images for rapid triage of COVID-19 patients"
+    excerpt: "The COVID-19 pandemic overwhelms the medical resources in the stressed intensive care unit (ICU) capacity and the shortage of mechanical ventilation (MV). We performed CT-based analysis combined with electronic health records and clinical laboratory results on Cohort 1 ( n = 1662 from 17 hospitals) with prognostic estimation for the rapid stratification of PCR confirmed COVID-19 patients."
+    publishedDateTime: 2021-04-22T12:59:00Z
+    webUrl: "https://www.nature.com/articles/s41746-021-00446-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00446-z/MediaObjects/41746_2021_446_Fig1_HTML.png"
+        width: 593
+        height: 685
+        isCached: true
 
 secured: "Q1Y9bwgPbzNNbfL2jZhkpTw/7CvbqzVU+AQA07iRV+OzjNPBYnOJFwkPSB693aPVKEJ0hkhx/mgL965+9H23z8YonWvpngNhrAfGwoK5Z8m6b4H57E1hU1TSXjg+r7BB24+3VW32HOXGFQLOx55TaB21c4g8r7dmlyLzw3zjGBxETyz+VOrvj4mEhR6fJOHVYIH438oArPGjFW3qzEJGeYbLdlNthl43YIGQDyTgjpYp0EmGRp7ojyM7Jwzjz1P1/GU2exIo7M88z7106lXQ2Pn8DSpc2ZrJ3xMU3oe9td/T15FGSGqwWUvq1DWHHar4Vv8DBYtBEjlZ7004E8OVj/u6wu6iuOzeW2mPHcwkZxA=;HriXpUc8XW9sQ0C9VAXNOg=="
 ---

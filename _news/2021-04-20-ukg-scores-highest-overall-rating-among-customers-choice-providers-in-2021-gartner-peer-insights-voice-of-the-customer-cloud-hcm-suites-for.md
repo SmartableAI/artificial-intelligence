@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Best Uses of AI to Improve your Customer Service Experience"
-    excerpt: "Best Uses of AI to Improve your Customer Service Experience - Moving towards the digital world, the relationship between customers and businesses has been transforming over the past decade. Customers these days have higher expectations,"
-    publishedDateTime: 2021-04-21T08:18:00Z
-    webUrl: "https://www.speakingtree.in/blog/best-uses-of-ai-to-improve-your-customer-service-experience"
-    ampWebUrl: "https://www.speakingtree.in/blog/best-uses-of-ai-to-improve-your-customer-service-experience/m-lite"
-    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/best-uses-of-ai-to-improve-your-customer-service-experience/m-lite"
+  - title: "Indusface AppTrana Ranks #1 in Overall Ratings of 2021 Gartner Peer Insights 'Voice of Customer' for Web Application Firewalls"
+    excerpt: "Indusface, a leading application security SaaS company that continually detects security risks, provides real time protection and improves performance of applications, today announced that its product 'AppTrana' has been ranked #1 in overall ratings in the March 2021 Gartner Peer Insights 'Voice of the Customer' for Web Application Firewalls (WAF)."
+    publishedDateTime: 2021-04-20T10:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/indusface-apptrana-ranks-1-in-overall-ratings-of-2021-gartner-peer-insights-voice-of-customer-for-web-application-firewalls-1030322028"
     type: article
     provider:
-      name: Speaking Tree
-      domain: speakingtree.in
-    quality: 59
-    images:
-      - url: "https://www.speakingtree.in/b/780091-1350-420-5-1618993116/best-uses-of-ai-to-improve-your-customer-service-experience.img"
-        width: 1200
-        height: 420
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 6
 
 secured: "M66Me/DffeshQkEoPlxMt0xac3BJ5MtZ8ti4GB1m9DtOEP9lBZqgx8a4GGlEYbLDbrz8uYr6wevjXsj7qxRck378m4GafDd+4JjVHQtU5rQhZ+HmCmMfrux4XudNBmiOZctegR3Ok0TCS6DsuHjrcUupXYdquMQL2lBmJaLQfKdL/6xgSq5oo7c3U/PVzSxao/DvyAvsD5ZNwRlhhbnvaYtNPEjKDPv1pQjH9DvgP1se1KsyjnDsQpYNLMSah0mHBt3RswonVDk7Cn+RdvIPfvZfU04kRw8H/q/Q7OmANPy3Pl433hEPnpivrXjwRCsErRcduUUR38yPgrRw8pTas8QfqN6lgABcb5QrTyjkH9c=;bNCg4b9mM+UciHckUIEj9w=="
 ---

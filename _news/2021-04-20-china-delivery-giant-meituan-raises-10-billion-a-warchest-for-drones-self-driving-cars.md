@@ -25,14 +25,14 @@ topics:
 related:
   - title: "Meituan raises $10 bln for self-driving cars, drone delivery"
     excerpt: "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273."
-    publishedDateTime: 2021-04-21T13:14:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    publishedDateTime: 2021-04-21T07:14:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 59
     images:
       - url: "https://s.hdnux.com/photos/01/17/55/03/20893889/3/rawImage.jpg"
