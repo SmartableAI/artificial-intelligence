@@ -2,6 +2,83 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-02-24-how-ucls-groundbreaking-ai-research-became-entangled-in-facebooks-net.md",
+      "title": "How UCL's groundbreaking AI research became entangled in Facebook's net",
+      "excerpt": "Through a series of acquisitions, professorships and industry partnerships, the university's computer science department has been drawn closer to the",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "originalUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2021/03/gettyimages-512015586.jpg?itok=8De0ffRv",
+          "width": 4500,
+          "height": 3014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsoneplace.com",
+        "domain": "newsoneplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-2021-artificial-intelligence-ai-chips-market-opportunities-analysis-future-and-forecast-by-key-players-products-types-and-applications.md",
+      "title": "2021 Artificial Intelligence (AI) Chips Market Opportunities, Analysis, Future and Forecast| by Key Players, Products, Types and Applications",
+      "excerpt": "Artificial Intelligence (AI) Chips are special silicon chips, programmed for machine learning. AI Chips can process vast amount of data, identify the underlying patterns, interpret the trends and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "originalUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "publishedDateTime": "2021-02-24T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-global-deep-learning-courses-for-nlp-market-drivers-challenges-trends-and-five-forces-analysis-2021-2027.md",
       "title": "Global Deep Learning Courses for NLP Market: drivers, challenges, trends, and Five forces analysis 2021-2027",
       "excerpt": "Syndicate Market Research's Latest updated Report on 'global Deep Learning Courses for NLP Market 2021' Analyses Research Methodology Figure out including Secondary Research, Primary Research ...",
@@ -1066,91 +1143,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-nypd-robo-dog-digidog-investigates-hostage-situation-in-the-bronx.md",
-      "title": "NYPD robo-dog 'Digidog' investigates hostage situation in the Bronx",
-      "excerpt": "The New York Police Department had some help investigating a hostage situation in the Bronx. Officers were seen walking down the street with a four-legged robotic dog named Digidog.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9292077/NYPD-unleashes-four-legged-robo-dog-Digidog-Bronx-investigate-hostage-situation.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9292077/NYPD-unleashes-four-legged-robo-dog-Digidog-Bronx-investigate-hostage-situation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/02/23/21/39683570-0-image-a-8_1614115362865.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9292077/amp/NYPD-unleashes-four-legged-robo-dog-Digidog-Bronx-investigate-hostage-situation.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9292077/amp/NYPD-unleashes-four-legged-robo-dog-Digidog-Bronx-investigate-hostage-situation.html",
-      "publishedDateTime": "2021-02-23T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
-      "title": "Facebook announces £1m for AI research programme in UK",
-      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishnews.com/magazine/technology/2021/02/23/news/facebook-announces-1m-for-ai-research-programme-in-uk-2233852/",
-      "originalUrl": "https://www.irishnews.com/magazine/technology/2021/02/23/news/facebook-announces-1m-for-ai-research-programme-in-uk-2233852/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2021/02/23/211045105-196119ca-f11d-4000-a7a9-b82d08210d4b.jpg",
-          "width": 900,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish News",
-        "domain": "irishnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

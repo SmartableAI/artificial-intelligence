@@ -7,7 +7,7 @@ originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/fac
 webUrl: "https://www.northwestgeorgianews.com/associated_press/business/facial-recognition-market-major-factor-is-increasing-awareness-among-enterprises-about-the-features-of-facial/article_57336326-2451-5c6c-950b-681b7f40cb30.html"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Facial recognition tech in Selarang Park Complex facilitates inmate movement"
+    excerpt: "Doing so enables prison officers to focus on other functions, such as inmate rehabilitation.. Read more at straitstimes.com."
+    publishedDateTime: 2021-04-22T05:13:00Z
+    webUrl: "https://www.straitstimes.com/singapore/courts-crime/facial-recognition-tech-in-selarang-park-complex-facilitates-inmate-movement"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 36
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/04/21/rk_selarangparkcomplex_210421.jpg?itok=o_HHyqU8"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "qivfAq+fUK7OGINct566dlPVde7hTfR9vQxnsqp9ejfz9rX9JnXxc9hOfkDf20P9iO+feG6JE2NcBOyQWepZ4n9pCGfU8nFcbpU/OUzWsS6Rl9loqczTct5z18jjvrVeSZm9Xng5yUw1iwxlNAQEEUWFPsWlFD+s6EuFAI5Oc+V29YamOccvtqunI693VongL2+xosU6D9LAf27d/vQEOsfuEKXSfYzrpJXIh1iCP3wl0rfVOVwmAJ7687Vc4oOaD+QqMjg0JiPLylABvLUS1JvAEI8qwHIO/x3p6h4KF0OdCIyXAbfSevWqjdXr1tFeU8PRL/AgxsNnqWZBiRKgzFvA608q1FF1uZFlTfV+geU=;j/2oNQ0KR3Xz6ilYYBCj9w=="
 ---

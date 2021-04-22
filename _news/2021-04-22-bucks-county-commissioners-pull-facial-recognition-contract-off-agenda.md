@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "King County could be first in nation to ban government use of facial recognition technology"
+    excerpt: "King County could become the first in the nation to ban the government’s use of facial recognition technology."
+    publishedDateTime: 2021-04-22T04:38:00Z
+    webUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/"
+    ampWebUrl: "https://www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/local/king-county-could-be-first-nation-ban-government-use-facial-recognition-technology/H6NJWIBWQRHY5CD74NCEDVAA2M/?outputType=amp"
+    type: article
+    provider:
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 49
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/04-22-2021/t_4f4df85d67ac4f06912fac52d86ea86f_name_ftp_4_21_johnson_515p_KC_Facial_Recongnition.jpg"
+        width: 850
+        height: 480
+        isCached: true
   - title: "Sanral investigating facial recognition and machine learning for traffic control in South Africa"
     excerpt: "The South African National Roads Agency Limited (Sanral) says it is investigating how technologies such as machine learning and facial recognition can be used to improve road safety and reduce congestion on the country’s roads."
     publishedDateTime: 2021-04-19T15:17:00Z

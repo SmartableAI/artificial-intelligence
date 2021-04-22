@@ -2,6 +2,100 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-30-wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "WekaIO ™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance data analytics (HPDA), today announced that it has been named a finalist ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cloud-computing-judy-smith-artificial-intelligence-computing-and-information-technology-871fcde23bf440e18e6b5f9493a035b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots.md",
+      "title": "Google spinoff Cartken and REEF Technologies launch Miami’s first delivery robots",
+      "excerpt": "Self-driving and robotics startup Cartken has partnered with REEF Technologies, a startup that operates parking lots and neighborhood hubs, to bring self-driving delivery robots to the streets of downtown Miami.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/nbrhd-reef-cartken.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/google-spinoff-cartken-and-reef-technologies-launch-miamis-first-delivery-robots/amp/",
+      "publishedDateTime": "2021-03-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-ambi-robotics-raises-61m-in-seed-funding.md",
       "title": "Ambi Robotics Raises $6.1M in Seed Funding",
       "excerpt": "based company that emerged from stealth to introduce AmbiOS, an advanced robot operating system based on simulation-to-reality artificial intelligence (AI), raised $6.1m in seed funding. The round was led by Bow Capital, Vertex Ventures and The House Fund.",
@@ -1091,92 +1185,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-schlumberger-microsoft-expand-partnership-to-accelerate-digital-future-of-energy.md",
-      "title": "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy",
-      "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
-      "originalUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
-      "publishedDateTime": "2021-03-30T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-indy-autonomous-challenge-racecars-to-highlight-innovation.md",
-      "title": "Indy Autonomous Challenge Racecars to Highlight Innovation",
-      "excerpt": "Organizers of the Indy Autonomous Challenge have unveiled the racecar that will be used in the first head-to-head, driverless race to be held this fall at the Indianapolis Motor Speedway. Teams from u",
-      "sourceUrl": null,
-      "webUrl": "https://www.insideindianabusiness.com/story/43529696/inpower-indy-autonomous-challenge-racecars-to-highlight-innovation",
-      "originalUrl": "https://www.insideindianabusiness.com/story/43529696/inpower-indy-autonomous-challenge-racecars-to-highlight-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://INSIDEINDIANA.images.worldnow.com/images/20239816_G.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "INside INdiana Business",
-        "domain": "insideindianabusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

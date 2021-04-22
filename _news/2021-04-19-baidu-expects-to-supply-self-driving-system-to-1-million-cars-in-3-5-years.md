@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
-publishedDateTime: 2021-04-19T04:41:00Z
-originalUrl: "https://www.metro.us/baidu-expects-to-supply/"
-webUrl: "https://www.metro.us/baidu-expects-to-supply/"
-ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
+excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ..."
+publishedDateTime: 2021-04-19T04:36:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
+webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
 
 related:
@@ -90,6 +90,6 @@ related:
         height: 533
         isCached: true
 
-secured: "8iiIUW7ygbJg+6zGGJ3aeBHUAWZ8lyZDvuRUzEvJVyLSB4EuqhT6mXMOBGz5fI7vanXHAfNlS53FQfHT6DhaIbnpQjK2girvpa/hyN5Va6MerW5oj/UzPghU2FROPUsy3Jc+bc+sTxJ6+rqPkX7PkTp/4tDtnL7DCAfqpz3vxf9Y+yiD4kIFmpNxcgnPtRniXWDfY0nZ2eu1GoPsuDapbh2YtIkHf+HbiuuJu8Ha5+CYAbiSk6/bi+0am+bQ4eGO5msfIISxDnIGw0uAJYlY7BvzuulwDGpGBnv/OL3obvW/rICLKcCKNTCrIOp9vIEP5c94jCNodzjgrg8E6a8dfotjOEqCW5INVvXbu0pCJ5M=;kCKWDU0lCjKWt/0D1UjfYg=="
+secured: "DAtSRJoWEVt2kDrNDBmDz3vdImvdTV6AqD00Nu4dqg+qlegFkgRyAMcr+gru4yBQ+BNYAv5Jop1ppNp7HHUQFBpxFlcTxu2cD8eHDmqB8Pxcq5VZX5aO3p1UV2PoQeCx4+5vBCkVqF2WzKUfHt9+m0LokCF/m95Y0GR6OB8guSmSbkZt5OhtqQmQTvYtWj7hbZ1adAqhK7PrmxtLiF0Dl4dPpeuIdm/ccT0SjpEE7bdo5MLa01KtVnII7HzFlylP/G1bWmvJTRLx1YSxIMXmD610XCCPbLc7yqyAearXqR6c2oaZa/1QeXlKqDCCs2eA53eNSJZlYF8sODeT9C9AkjNKbFYjtlAsvB01ONYHW0Q=;UKEvbolhcHstT/iLPJRfGQ=="
 ---
 

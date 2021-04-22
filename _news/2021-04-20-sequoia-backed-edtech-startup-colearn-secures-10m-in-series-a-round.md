@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "GPT-3 Tech Startup Copysmith Secures $10 Million in Funding"
+    excerpt: "Copysmith, a startup that uses artificial intelligence (AI) for creative content generation, today announced a $10 million investment through a partne"
+    publishedDateTime: 2021-04-21T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210421005680/en/GPT-3-Tech-Startup-Copysmith-Secures-10-Million-in-Funding"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
   - title: "VieCure Announces $25 Million Series A Investment Led by Northpond Ventures to Improve Oncology Care, Scale A.I. and Patient-focused Technologies"
     excerpt: "Series A growth equity investment, led by Northpond Ventures. An undisclosed investor is also contributing to the round. VieCure, an oncology clinical informatics company with an artificial intelligence (AI) enabled clinical decision support platform,"
     publishedDateTime: 2021-04-20T12:05:00Z

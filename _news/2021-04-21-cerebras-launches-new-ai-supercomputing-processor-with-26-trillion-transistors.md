@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cerebras details largest chip ever built with 2.6 TRILLION transistors"
+    excerpt: "Cerebras reveals more details about its WSE-2 (Wafer Scale Engine) which packs 40GB of on-chip SRAM, 20PB memory bandwidth."
+    publishedDateTime: 2021-04-22T03:15:00Z
+    webUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78895_03_cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors.png"
+        width: 620
+        height: 345
+        isCached: true
   - title: "Cerebras debuts new 2.6 trillion wafer scale chip for AI"
     excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
     publishedDateTime: 2021-04-21T15:54:00Z

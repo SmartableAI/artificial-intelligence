@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 668
         isCached: true
+  - title: "Cerebras details largest chip ever built with 2.6 TRILLION transistors"
+    excerpt: "Cerebras reveals more details about its WSE-2 (Wafer Scale Engine) which packs 40GB of on-chip SRAM, 20PB memory bandwidth."
+    publishedDateTime: 2021-04-22T03:15:00Z
+    webUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/78895/cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 74
+    images:
+      - url: "https://static.tweaktown.com/news/7/8/78895_03_cerebras-details-largest-chip-ever-built-with-2-6-trillion-transistors.png"
+        width: 620
+        height: 345
+        isCached: true
   - title: "Keeping up with the machines, new supercomputer will be NZ's most powerful for AI"
     excerpt: "New Zealand is scrambling to stay ahead of the artificial intelligence curve as it loses its early advantage and others ramp up their investments. Academics argue we can’t ever hope to be at the front of a pack led by China and the United States,"
     publishedDateTime: 2021-04-17T17:00:00Z

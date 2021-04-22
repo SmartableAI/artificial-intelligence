@@ -2,6 +2,109 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-03-15-the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter.md",
+      "title": "The Future Of Robots: Making Distribution Centers Safer, Speedier And Smarter",
+      "excerpt": "The fact that you can buy what you want and receive it quickly is thanks entirely to logistics — including distribution centers (DCs), which are the beating hearts of modern-day retail and ecommerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f98b5f5960ed930ec6e9f%2F0x0.jpg",
+          "width": 874,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
+      "publishedDateTime": "2021-03-15T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
+      "title": "Why Your AI Must Be Humble",
+      "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "originalUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "publishedDateTime": "2021-03-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
       "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
       "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
@@ -1079,83 +1182,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
-      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
-      "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-552-in-february.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 55.2% in February",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the target of a large drop in short interest in the month of February. As of February 26th, there was short interest totalling 330,200 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks3.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-55-2-in-february.html/amp",
-      "publishedDateTime": "2021-03-14T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -38,7 +38,7 @@ related:
   - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
     excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
     publishedDateTime: 2021-04-21T15:12:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
     type: article
     provider:
       name: MarketWatch

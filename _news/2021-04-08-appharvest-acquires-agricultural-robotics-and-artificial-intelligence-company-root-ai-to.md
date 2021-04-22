@@ -3,8 +3,8 @@ category: news
 title: "AppHarvest Acquires Agricultural Robotics and Artificial Intelligence Company Root AI to ..."
 excerpt: "an artificial intelligence farming startup that creates intelligent robots to help manage high-tech indoor farms. The acquisition of Root AI and its robotic universal harvester, Virgo, is expected to provide AppHarvest with a baseline of harvesting ..."
 publishedDateTime: 2021-04-08T10:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-ownership-changes-personnel-food-manufacturing-1e14a71b75a4973a5d1c375a336f8cc0"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "rGB0+NhliGEcFwEqpIbE2BB+4s4oFFWasmLpyDJXh7nJ69yptU2FAXYbeyhouos4VR1dMN4am5K3IhfWSgsLu2UIbuoEdXn/BBGgXDhbRZo4kma924+gyRBd2oE+WuPbh1jH0PvzaJom3CSdoOGoXoJcLZ/2bcIjzR+w04SoN9POjCXzcqTHFz5IXEPZrSDTGUnFqeaXNuphtUg0yQSHAd5zN30QPV9ADbS7kXhTdjT9ADoEbWXSEa1KBEypsIm2Or6/x2kdF8oq+/MHt3ImIyG+HzGw+PGsI6cupmu249wM57/C7+KJFpYB0fbEy0mie3LqdQ2/ke/sb6Rt93T51Or9qQdLdZyJikCfGPsy/Bg=;zWH0Un3Ukd1Pm86IsUVTGg=="
+secured: "k675G13Gx/OXbyVnAneyxRU36FSTMR2KLJk/wRL/9WiJ0QGwXp+kLgiMlx31eJVZWgq7B8SMePv0twkFkFVxlLdvwlsZHkZTHhdxifJRhHY+iampaPtwYxL2zt7qHtaDs/tAcHdW87JTsDyo/NaliRfV5GYqgnnuaxxfdCW/e5njU6GP4JOJlEjoQvGV65fnASRImqCL3Ro9Td2P/su73yS6Z6/Fh2hGwr7Wv5EqB9lYIBUOZT5Y7/XwCNGYyulDg0CD36XSF9IkRMnQpI4v04cP9RSjkC0GZMfJzHWu6Q+DPmMW+M35u/fl11Y4kvSTBPbkXeBKKBZt7d7crfjOMOkjp8BeCkUGhwRBizavoew=;A7M+u/2/Pc+YGXFr0AgdVg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/education/why-b-schools-in-india-should-inc
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Indian Manufacturing Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Market insightsThe manufacturing industry in India is edging toward a digital overhaul, with the adoption of industry"
+    publishedDateTime: 2021-04-22T02:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-indian-manufacturing-market-outlook-industry-analysis-and-prospect-2021-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud, AI and data to transform India in next decade: Nilekani"
     excerpt: "Although there is an acceleration in tech adoption and innovation across sectors in India, the key challenge now is to scale new-age technologies like Cloud, AL/ML and data in a way that these can empower more than a billion people in the next decade,"
     publishedDateTime: 2021-04-20T16:04:00Z
@@ -67,7 +81,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

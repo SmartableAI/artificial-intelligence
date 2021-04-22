@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-21-eu-seeks-global-standards-for-ai-civil-rights-groups-fret.md",
+      "title": "EU seeks global standards for AI, civil rights groups fret",
+      "excerpt": "The European Commission on Wednesday announced tough draft rules on the use of artificial intelligence, including a ban on most surveillance, in an attempt to set global standards for a key technology dominated by China and the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0",
+      "originalUrl": "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559403133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1BP",
+          "width": 968,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C81E0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81E0",
+      "publishedDateTime": "2021-04-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-marketing-automation-startup-activecampaign-raises-240m.md",
       "title": "Marketing automation startup ActiveCampaign raises $240M",
       "excerpt": "Marketing automation startup ActiveCampaign has raised $240 million, bringing its total raised to over $30 million.",
@@ -836,7 +887,7 @@
       "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -888,7 +939,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1160,57 +1211,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9.md",
-      "title": "Scale AI founder and CEO Alexandr Wang will join us at TC Sessions: Mobility on June 9",
-      "excerpt": "Scale AI announced a massive $325 million Series E. Led by Dragoneer, Greenoaks Capital and Tiger Global, the raise gives the San Francisco data labeling startup a $7 billion valuation. Alexandr Wang founded the company back in 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
-      "originalUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ALEXANDR_speakers.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
-      "publishedDateTime": "2021-04-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

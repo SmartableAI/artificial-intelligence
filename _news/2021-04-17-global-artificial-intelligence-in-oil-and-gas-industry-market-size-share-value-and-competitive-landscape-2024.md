@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
+    excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
+    publishedDateTime: 2021-04-22T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-size-share-industry-analysis-price-trends-report-2020-2025-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Food and Beverages Market Analysis | Recent Market Developments | Industry Forecast, 2027"
     excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
     publishedDateTime: 2021-04-21T10:11:00Z

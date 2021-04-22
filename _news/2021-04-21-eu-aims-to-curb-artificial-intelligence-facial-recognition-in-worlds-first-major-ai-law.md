@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "rZY9yRZ9UN1aCP0PhuBpWBt+JTQxpmMR4fYMX0QWV/RknooI8ImXtj+At6s9AoiHbeo+7MXZy/aULIzPRW/OiOIZguV4meTmFsfwaapOZs1Vf2bAbChQpyOfylXl5UXtR6PKCA0CQvpxoiJhHYm/0EWoMsswujIgkQMdw3rttA5IgcZNBwHh59aIkurVOqegbkRjAG5ctaRSw2rXhRpm/ejipulVBWtfNTZakxw1adtj0zp3nquW7oHsEpkjwmGdwVSm81P5ZIKWrghlGeXFgd3KTcJFRJ7M6wmU2y4AsEZfzV3EJDr+6tz3kijm37QncwWXDz7TeP885Ak5IgYj8wBZV88wKk/MVa3z8ZOcw3U=;qTk5Qk0CkBJUHGD+Ij8T8A=="
+secured: "1HQ75RZSin4trNMATaMqqz7pw3Uk157LfpwTRMyq0E0VtdjTsvXCY0DFr98e8S6VPeGGT9o9BMim/ULzBxeTQ/gTBk/32KI2/15N3f1VWxSLhoqtF4US8+0/6dFugqbUxBOxFLdm/nEAnZ6lnskwDy/4pVO7nfiJlB2Mw3jzSU8cZNZYdXHiBbgz2P0Za3zlxQtvol6FtKhdwfmet9Kp4gKNZ70Ete9qGUgApnT8pfS6e0yWN9IxHbhatBRrGfJpdVYYl8eWnrnWSkE1exqGIPWQYAXFp95SKhXkYqjuXjNhwUX9KE9ayq9uyoMGZ/xCQcj1y8IIbfRqVWqIjKE9Ipq2P5pzsK1h7zoKv1tub4I=;vfB1HE58W/Qr5juLMOZ8Sw=="
 ---
 

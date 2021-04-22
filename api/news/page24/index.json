@@ -2,6 +2,83 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-01-aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services.md",
+      "title": "Aible Ranked #1 for AutoML Use Case in the 2021 Gartner Critical Capabilities Report for Cloud AI Developer Services",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210401005186/aible-ranked-1-for-automl-use-case-in-the-2021-gartner-critical-capabilities-report-for-cloud-ai-developer-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-hawkai-selects-backbay-communications-as-agency-of-record.md",
+      "title": "HAWK:AI Selects BackBay Communications as Agency of Record",
+      "excerpt": "HAWK:AI (Hawk AI GmbH), a global leader in real-time Transaction Screening and Monitoring solutions for financial institutions, has selected BackBay Communications as its U.S. agency of record. BackBay is an integrated financial services public relations,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-superhuman-the-future-of-email-or-a-monumental-waste-of-money.md",
       "title": "Superhuman: The Future of Email or a Monumental Waste of Money?",
       "excerpt": "I've been using Superhuman, an invite-only email client Silicon Valley startup owners swear by. With a wait list that's 250,000 users",
@@ -1099,110 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
-      "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
-      "excerpt": "Processing of human language via machine programs has been coming to corporate computing for a while now. Some believe it can be not only reliable but also very broadly applicable. Software startup Moveworks of Mountain View, California, which has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "originalUrl": "https://www.zdnet.com/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/31/04c51f4c-e000-4fbb-962e-8c2560699c68/moveworks-group-19-10-20-1127-1.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-functions/",
-      "publishedDateTime": "2021-03-31T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-to-spot-an-ai-ethics-watermelon.md",
-      "title": "How To Spot An AI Ethics Watermelon",
-      "excerpt": "The tech industry is full of watermelons. Companies that look 'green' on the outside, but have deep fleshy red inners: Here's how to spot",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
-      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064aebacb513678fa61b40f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

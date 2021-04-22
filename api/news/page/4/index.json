@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-everything-elon-musk-has-said-about-teslas-self-driving-cars.md",
+      "title": "Everything Elon Musk Has Said About Tesla's Self-Driving Cars",
+      "excerpt": "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg",
+          "width": 2500,
+          "height": 1566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
+      "publishedDateTime": "2021-04-19T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-us-banks-are-using-ai-to-watch-customers-and-employees.md",
       "title": "US banks are using AI to watch customers and employees",
       "excerpt": "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ...",
@@ -1156,58 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-heres-why-we-should-never-trust-ai-to-identify-our-emotions.md",
-      "title": "Here’s why we should never trust AI to identify our emotions",
-      "excerpt": "Emotion recognition technology can hurt people, both by working properly and enabling harassment, and also by not working accurately. Do we really want it?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication",
-      "originalUrl": "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fhappy.jpg&signature=8d815c8e914d1db232567785b0eedd6e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-18T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blizzard, IBM use AI to find the best Overwatch players"
-    excerpt: "Blizzard and IBM have entered a multi-year deal to analyse data and rank the best Overwatch players in the world."
-    publishedDateTime: 2021-04-17T11:24:00Z
-    webUrl: "https://tech.hindustantimes.com/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/gaming/news/blizzard-ibm-use-ai-to-find-the-best-overwatch-players-71618658254700.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/04/17/1600x900/sombra-screenshot-002-fb6b4eea3c8822bf196065adc23a2e5f18d2b67a6ae3a91230e3e86e328f0956bc0c753996cd60e14011acde89eb0a981c8cda3884d084132b40a76d42320d0a_1618658492480_1618658501335.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Blizzard And IBM Develop AI Powered Overwatch Rank System To Crown The Mightiest Players"
     excerpt: "Last year's Overwatch League was canceled due to the COVID-19 pandemic, and that temporarily pumped the brakes on some interesting AI projects, as well. At the time, Blizzard and IBM were set to announce that Big Blue was about to become the cloud,"
     publishedDateTime: 2021-04-17T16:42:00Z
