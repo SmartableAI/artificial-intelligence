@@ -111,6 +111,20 @@ related:
         width: 778
         height: 524
         isCached: true
+  - title: "Wright Brothers memorial tries out self-driving shuttle"
+    excerpt: "The North Carolina site of the world's first powered flight has launched a pilot project to test out the safety and efficacy of another transportation innovation."
+    publishedDateTime: 2021-04-22T17:29:00Z
+    webUrl: "https://www.eenews.net/greenwire/2021/04/22/stories/1063730673"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 24
+    images:
+      - url: "https://www.eenews.net/image_assets/2021/04/image_asset_115795.jpg"
+        width: 618
+        height: 318
+        isCached: true
   - title: "Self-driving shuttle launched in N.C."
     excerpt: "The N.C. Department of Transportation (NCDOT) and the National Park Service announced on Tuesday (Apr. 20) the launch of the first self-driving vehicle to be"
     publishedDateTime: 2021-04-21T12:33:00Z

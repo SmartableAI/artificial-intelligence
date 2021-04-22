@@ -53,6 +53,20 @@ related:
         width: 700
         height: 409
         isCached: true
+  - title: "Two U.S. senators make new push to advance self-driving cars"
+    excerpt: "Two U.S. senators are working on legislation that would allow automakers to deploy tens of thousands of self-driving vehicles on U.S. roads, a significant reform that could help speed the commercial use of automated vehicles."
+    publishedDateTime: 2021-04-22T18:51:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/two-us-senators-make-new-push-advance-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/U.S.%20Capitol-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "jzZg0lE4l9Pcxi+tpOSrDahkiQuHxM4wn0PSB57thClZ2ihaoWGruQtnV+8AjoJN/VerEgMq4sh/CQs8J7Kk6Y2PX1hsApKmAKKRNA6pzIS2SbENJ85o09RBd1BDWnkRGvmK7IEUi7gaI2B7yBnf+yyVGl2IEBsl63bCbDg/4yzkCmx5/+zFXpPQ8JgwEK898eFYj5L3bcJ0G6yUklArQfX8NjYxyKs8eSgJNxIzFwIbCYwQFFoHhVyqHciXceLKOH3ro8pw2IVcPfMK85LklJKuOYSc1WT3bX1Yayi6LtJAwEw7W252usuYyAPWi3XOg7GjGElCMRVK93QKYQSwZTRa9I+1D+J8bNF3/NnK2Ec=;4MrQe9DvUnZOJlmsd1nhpw=="
 ---

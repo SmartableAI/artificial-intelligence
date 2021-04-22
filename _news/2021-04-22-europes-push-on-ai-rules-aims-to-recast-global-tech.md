@@ -136,6 +136,22 @@ related:
         width: 4886
         height: 3130
         isCached: true
+  - title: "European Commission Publishes Proposal for Artificial Intelligence Act"
+    excerpt: "On April 21, 2021, the European Commission (the “Commission”) published its Proposal for a Regulation on a European approach for Artificial Intelligence (the “Artificial In"
+    publishedDateTime: 2021-04-22T17:57:00Z
+    webUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act"
+    ampWebUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "European Commission Reveals Rules & Actions for AI in the European Union"
     excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
     publishedDateTime: 2021-04-21T15:36:00Z
@@ -192,6 +208,6 @@ related:
         height: 1941
         isCached: true
 
-secured: "1JpMFIGwAYHIlC73w7to0xb5hGwoJHReWYBrLOwTXBtZAxGgSH938liGv18xqKU93LR2gFveH9XF12XpNruYES89L5KYDJr23PXU2TkLJ5Jrp5ftZ5iNtzrfAjj+DNpCoYc8OrDXK5HZcuH/l3MMwRK5IaGaRJWwDyktQVUnSc3e8rWWODaBRrxqtOXO4bWjgD0GA3XmeN/5068BwpKuQi3tzA1xT2zThzba8rmUGppJUOXnpcxkg00aksaptvrlBmAk0JexaYAccFwK1kJqaf37ywzTp1Zsa577754TygxVNYtjFyhR9aRyM6ddgI2BhwFr2UTSZ4oWdSLTDXCwpty/IxC+jHqrRXmbutj+9vs=;dAakFNuXwapqWUAMc5rW+g=="
+secured: "P/vajkRrNBKw/38HoDCB8nmhwJ2uCzvP9t/MzLpU9g+FPphGrS77aVAJg/igEVskqphfySzNqlXlknAvYDRfZSokh6zQ/oUV7o6TNiNdjLnDBNYlrXKZrbXJpkbA0KqMS1M6U4FuzXEnlKHPLcySyLh6iidWjqo+/pb8y8GTd62eZ7BYPU14xxvetAM2K+QCCz7kKz2Ch1H1G9u2s2EzrZDzWaDNbkX1wHerK/RqMgF7UGfLCyA8ajjvc5JayQ472rtJdu/ZG6UTE0j8RkcMlSgwMhDEusjA4Vfw1oAvdzQ3rb6evz1Zd5KeRAQxnM2p0jdWCkNZEggrhDayNYCxadrJFPnd2qrF1Ipj88jqhicGSMaOG/93vkmyH+RHGhw+W1Sh+ETxX2SKrgapnoKVAOju9kanCjUpSDACt/sJkXVPiZ/HDPsnRT1Jhy+XabRPpbD4dhi2UF1pbzPaq+92JFSOqx3ZaLYC/vDvZn5E+nfXhgXzkfHpBB//OuD/+HjNP8BTkVogQXhi/6Sq4equxQ==;riGRMRTQfh/vlKO0eWm1oQ=="
 ---
 

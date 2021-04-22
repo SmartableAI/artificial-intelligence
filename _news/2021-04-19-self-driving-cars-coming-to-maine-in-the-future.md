@@ -66,20 +66,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-04-18T02:46:00Z
-    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "JdyhnT3UMYr5kkCsKUSkUmuixl0idD+5mAqNb3lx8pEvFokZ4S3a7LeZeKSxU8lOAyeI44LCEbdVLpDyH4eWBQ59bKrFrndRnXUeewQRmgehtCkQ+Vf5f++t/xQ+FDTuMtIIqg0sJQPSrq0LMhTzsN+5eluVIcI81q61REg08KQdUOHkwk1PJW6w3WYKlrBbGQ6OYY+oBqQo4xFCInH5gulhiylaBmo22Qw8+ipp62saust9qucwQBbtCePZ5c65l9pTRIkIc0bxNkuW7ezBRspks7jylEJEzaJe+3OfdR59YX2RO2u2xks9MW6lxzc16zCPVSeZNUtWbMeD9GRI7WcPKsvD3KwjaA3+QYmM6ME=;Rv6hSB4bhSfRtCQurwXiLA=="
 ---

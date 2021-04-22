@@ -55,22 +55,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
-    excerpt: "The AI in Fintech Market is forecast to reach 11 2 billion by 2026 growing at a CAGR of 29 75 from 2021 to 2026 Artificial Intelligence AI has taken the tech world by storm allowing companies to automate their"
-    publishedDateTime: 2021-04-21T15:14:00Z
-    webUrl: "https://www.openpr.com/news/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/4/U421427791_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Fintech and AI Task Forces Reauthorized for 117th Congress by House Committee"
     excerpt: "Congresswoman Maxine Waters, Chairwoman of the House Financial Services Committee, has announced the reauthorization of the Financial Technology and Artificial Intelligence Task Forces for the 117th Congress."
     publishedDateTime: 2021-04-21T20:23:00Z
@@ -123,20 +107,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Top Fintech Companies to Watch in 2021"
-    excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
-    publishedDateTime: 2021-04-19T12:49:00Z
-    webUrl: "https://techreport.com/software/3474080/fintech-companies-in-2021/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 24
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
     excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
     publishedDateTime: 2021-04-21T04:39:00Z
@@ -151,15 +121,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Top countries for launching a Fintech startup"
-    excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
-    publishedDateTime: 2021-04-21T20:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/20186/top-countries-for-launching-a-fintech-startup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "LTHOi+kcDbHzb44DJakzlYLOZJB/lqFN1hemcuNZeFs1BS08T0A4jIyeZzt+U5wvWnZ/s0ANvCBy0LyDMoNIYNRbsMA0g/l3G7L6bV2SodfqA0WSwnZ6sQ4eytIo/FLLjHwZVvPb9yF75PCrEU4rg8AuTvEku2ogjXDTWsJaMRrUj3CIk09WkNEatjsenVri4AxzZi1nv/UFA7rrOW5U9vi+UteatheOc3l0+1V2UjOLgNzKtrdRIuulUtmtFS9cKET6YjWqlJD2fj86BO4hIBKRpNZ/7ABo51fiixHiaHIxCg0BdsKggr5eq+oozLLa7KDk3/TYuXN0abkX6UTdYzsBjAOSyUXZP32I2S8UlnK0kZVmCKQMcXOmmPY58vTOzZkjgwVHfbdYY/AKcnGNP2KQY8EGdmp87qHYe3Df4PHu/kvAdfBBXuf/CcV3T+nFdxq/WJzHYY8WNGSKUOr1eBGjzhAtLVlTEgU8rKQ0FaEVywm5E9kjcuB4yUNS0aDwZrySzCW/RDaIwKJI2VFY+Q==;dIrx2vJuN4tK8KXvLAixfA=="
 ---

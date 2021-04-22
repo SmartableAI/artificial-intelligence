@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 type: article
 quality: 76
-heat: 176
+heat: 146
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1618899844-money-transfer-3588301-19202.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
-    excerpt: "The AI in Fintech Market is forecast to reach 11 2 billion by 2026 growing at a CAGR of 29 75 from 2021 to 2026 Artificial Intelligence AI has taken the tech world by storm allowing companies to automate their"
-    publishedDateTime: 2021-04-21T15:14:00Z
-    webUrl: "https://www.openpr.com/news/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273420/ai-in-fintech-market-forecast-to-reach-11-2-billion-by-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/4/U421427791_g.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Fintech and AI Task Forces Reauthorized for 117th Congress by House Committee"
     excerpt: "Congresswoman Maxine Waters, Chairwoman of the House Financial Services Committee, has announced the reauthorization of the Financial Technology and Artificial Intelligence Task Forces for the 117th Congress."
@@ -121,20 +105,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Top Fintech Companies to Watch in 2021"
-    excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
-    publishedDateTime: 2021-04-19T12:49:00Z
-    webUrl: "https://techreport.com/software/3474080/fintech-companies-in-2021/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 24
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
     excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
     publishedDateTime: 2021-04-21T04:39:00Z
@@ -149,15 +119,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Top countries for launching a Fintech startup"
-    excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
-    publishedDateTime: 2021-04-21T20:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/20186/top-countries-for-launching-a-fintech-startup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "xiRG76ov+Cny8snyjjkrzDa5kWGxBeFdtMbXRN2N3YblXYEEXIDCt4kNfsvGlk+PtbpTyNZJ5hy56+Gs+0lqTp7UkfPnYyCJXx5ykZSPkcfFpFoluN4CoQ6VCaiWmwMOJ9YdDs8QpTX0G1Uwnq8F/YLqr7L9b71f3PewzRAjAUnXYVwRRMY3Pr+CYvOvvVBgUfqviojvC1Nq3U6Bz9tSwtYqczU546HvjXEqnq76PvESKT8o390GBHhG0Oofmi/A9fCSmyxFS3GahLgeIbGvJzhLbb2jwTb5HDYNGaWvmoCBc52hyiAgIqknc5rp/IGJx/2lasQHPe0I5IcyIpdTBn5mii9bov/GO9E/uc2DQVOL4Ed0yITvgEg/AxxYvQFGk4UCJI3RmMupa+U3YPod9Q0PPDkqk9Q300b7c044cLVjJWparaFIF0hLBkJMwpN69hxUSpLACw25smvngGJtJZ8+bn6Tbng7zDiE5wWjE17BdRhl9wjg9jEKsrdmiRKvmH7Tg94/X6+3lU5ZFQwRzA==;VeSWs0bYJ+IbuEmM4CHQog=="
 ---

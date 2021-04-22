@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Two U.S. senators make new push to advance self-driving cars"
+    excerpt: "Two U.S. senators are working on legislation that would allow automakers to deploy tens of thousands of self-driving vehicles on U.S. roads, a significant reform that could help speed the commercial use of automated vehicles."
+    publishedDateTime: 2021-04-22T18:51:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/two-us-senators-make-new-push-advance-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/U.S.%20Capitol-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
     excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
     publishedDateTime: 2021-04-19T16:06:00Z

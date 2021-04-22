@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -158,9 +158,9 @@ related:
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
     publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+    webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+    ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
     type: article
     provider:
       name: WBAL
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "hxdQYDqj7SfvU4sYdvUorgqb5f2Cu9cv4+nayxdoyek+Ze9ZhJMrbkr5wkdFVSeIK+lUAYRC09kOBDx5xgyCtB7QxnoQGJZMnP8+oMowXbZ/E9V/g24rG4QmfiaLXS6FLeW6DkXD4rsi8RNrAAEQ0wMpy4hBGTFY+qn+bfmFU8nzLgLdBNVF8a90u5fOD31PNksBiU/aJjVbGXBZ9jJtvhCY2tdfXL3Tg/0nPCd9qklf3SQcqxo/mr3bfXcv2zcEgmHW/So4YkSFttbn5bHoAPcx9Nlevuzur2S7yZ5T/9qwDt8HpGjJRus5cE6p4iXTx2rfLIVuNr9XMvR4bbpZYmJH53qk7Y/47ADRB7/RdyU=;UfVLo3zkoDM5lG9lMHkHZw=="
+secured: "HQxrjhN7klsgoeAQ2fyHx1Q2C/4xkTDTjfBw2sjEXigQPsDa7x416rhXUan3TLERmJ757HNgm22k1AR0a5LOVmDergO0xRXed5kAPZ3ueZuqqHqnz9GziUvqP1CX2pDNBsKFGbhDsdAJpDtqUH/vF80LIU3hqhdRdPMPA8EpUSms090EmFP0N260AovoaQZznQJ0rfhjbK9Fc+yndsIo3jxz7ThwJ70YOYS9OkjVYdeZsWuXkPCqjzQRz7bcwzUdKTeeXQcxTNgn6qU6zTZ51QXTQX5lGyjnz7kxaJSNWnINPa4bVKMr4fjZrjKIFaoX9aeF/mT6wCgOPAEJ8nxLimqVthhyJPHvjb1/OYffL20=;1GZEZ5/5PV2PHkF9Am2A6w=="
 ---
 

@@ -152,6 +152,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "European Commission Publishes Proposal for Artificial Intelligence Act"
+    excerpt: "On April 21, 2021, the European Commission (the “Commission”) published its Proposal for a Regulation on a European approach for Artificial Intelligence (the “Artificial In"
+    publishedDateTime: 2021-04-22T17:57:00Z
+    webUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act"
+    ampWebUrl: "https://www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/european-commission-publishes-proposal-artificial-intelligence-act?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Minim and Irdeto Expand Trusted Home Platform in Europe, Deliver AI-Driven WiFi Security ..."
     excerpt: "MANCHESTER, NH, April 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Zoom Telephonics Inc., doing business as “ Minim ” (OTCQB: MINM), the creator of innovative connectivity products, and Irdeto, the recognized leader in digital platform and cybersecurity,"
     publishedDateTime: 2021-04-22T11:32:00Z

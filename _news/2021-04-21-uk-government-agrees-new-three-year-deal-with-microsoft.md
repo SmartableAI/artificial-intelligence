@@ -87,6 +87,20 @@ related:
         width: 607
         height: 456
         isCached: true
+  - title: "Microsoft Acquisition of Nuance is a Big Deal in Voice Recognition"
+    excerpt: "With its acquisition of Nuance, Microsoft also gains a number of voice technology patents it can use to extend into healthcare and other strategic markets."
+    publishedDateTime: 2021-04-22T18:52:00Z
+    webUrl: "https://www.aitrends.com/ai-in-business/microsoft-acquisition-of-nuance-is-a-big-deal-in-voice-recognition/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 41
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-23SpeechRecognition-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T12:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-04-18T02:46:00Z
-    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "WqDJXfwuKh7UT3zF9OlHCssfzW2BnjRLCT3wzdiObM4pZIesW0XK8y04LgL8ZU0GjPpdiRbGtSMylwfo8LA9qpf8OtPiHJq1emhEQjItr5dMEl4jWYLSMq2nQwLqfTzB/QQVq/DbY/Hcu8kXmQ+U7mlic96PXI/uwz5csbc2T/9/sTPYKC/ay5IIEOSaifOi5NM25Ka5RI+V5yPBC4UN1HRVUSpQ4VLw8N5dm5C7y9ETjqICu9pQ0UgsFyFvoS2zrPwGSSAedbJUHv1j25x/9N8YkxPE7R/1T0udMBTcLDx+yDqeNKC04goIlzPlOn0caYqsArtkN3usrtBn8wJ1sUOTCo6vYN0CVrRm+b4BpgXEajJCM5ES13dlR2hdp/onPkX3ubJekqMF/c3Ci7UsEKLITV6/I3bFaSaEe4bi+LyAXzCcipRhMpX/+bD20vAXJq7KeLGPaBzzxuHMnltBkKZbjW8ovvKPnpTvJ3LeS4LJujX4/Dn9QZ+rJt0mvp/mgl/x1TniJ4ll40/nwb4uwA==;FmK2GMu0CFj1Y4e2Jxr9Ig=="
 ---

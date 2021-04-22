@@ -73,6 +73,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Acquisition of Nuance is a Big Deal in Voice Recognition"
+    excerpt: "With its acquisition of Nuance, Microsoft also gains a number of voice technology patents it can use to extend into healthcare and other strategic markets."
+    publishedDateTime: 2021-04-22T18:52:00Z
+    webUrl: "https://www.aitrends.com/ai-in-business/microsoft-acquisition-of-nuance-is-a-big-deal-in-voice-recognition/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 41
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/04/4-23SpeechRecognition-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
   - title: "UK government agrees new three-year deal with Microsoft"
     excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
     publishedDateTime: 2021-04-21T14:14:00Z

@@ -3,10 +3,10 @@ category: news
 title: "EU proposes rules for high-risk artificial intelligence uses"
 excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
 publishedDateTime: 2021-04-21T11:41:00Z
-originalUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-webUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-ampWebUrl: "https://www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/130/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+originalUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
 type: article
 quality: 59
 heat: -1
@@ -46,7 +46,7 @@ related:
   - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
     excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
     publishedDateTime: 2021-04-21T15:12:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
     type: article
     provider:
       name: MarketWatch
@@ -290,6 +290,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "65V4W+F/mxdMQB//lab9e9ux9ridtwMAhL7paZG9ZgsbWabt/mMnDywmwkMibwbS8fqUmgZu+bbgaOv9zzzHP0/zJBJTR/54wcJlNl4azdXE1Zb0l9C7UFXjAlGEbrqkTICoXfJqpeY2u3uzWroGe2SubCec/25zRMsbXjMPOgvx0xZTa0YYm8idMq6QJUx0CUOz2yEvIuM4o/GfoSMuLE6pkGewbIRUsIbDg8WJV9TDZ7pppcPjb4urV3GRdC/Hu4R6TxP0YVgTKpy96G7/CUtXWyeDIMdGRZXZTNQCHnYFuCDLTXIl7M6jdAekOxSi2QtRFvPNjpldRAOgrCOPzwFzUR4+wBO9diQ8OHU3G8ZIpzQRwkLFIFPuC03TkZHt06DU1Gx+uD/oDHBwLrG7iiGNlBvdVfYBkl8RJ1aPxI2iaEVBJUBiipFtixa14e0JVfx375JIPiFVrPfqs8MITHCRnFwSY3a64RKzLkwNUU8wyh1iN+thhNL/CZiO2aLN06wIBT8I599i1UG0a/XBXg==;5h8ZisgX6KrSBXm+6Har5Q=="
+secured: "Sprm4MCbra3qELRzMzLwQ2PLaFMyroLTscT0FT60kHNItbByt93kyr0zTSbMhgC8S6GUzxnrEK6iXZsU42ZuHOQnilNV6OQ54bp9uYqkUJ0HHBoUgUQ9QC6wmD1QhtyIPh0PQeAr7nSOJF1UbdwGEy8ltCNReSsWdTS3bC1sgRh/+b/cGZX8mUZca3RCsjsOExgrFb3JeecjjdepypPMuzNA10djbw6AMQ01Sx34A3ZDgMEsH2qRud3LY+7Eyk2PJPGehu9Vr1uNs7pzv/29NTVp2QmL9MIWj33u6s/WMcTdl57TT3fdT/4C18YybmXY1NB3BYD+l84GgH3KfDYqf9+KKYUxqTSoKnNO6u+0+a4=;p2rjBk0pE2HzBwfV7/MLgw=="
 ---
 

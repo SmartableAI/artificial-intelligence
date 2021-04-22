@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
+    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
+    publishedDateTime: 2021-04-19T21:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years"
     excerpt: "Chinese technology giant Baidu Inc 9888.HK expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years,"
     publishedDateTime: 2021-04-19T04:00:00Z
@@ -81,6 +90,6 @@ related:
         height: 533
         isCached: true
 
-secured: "DjOOSIlQA+L0yUWUY+b/nwNc7kjAlUftV4gC/IhwzeVNDgSh3k/xe/neqiGJjxkuAJCMWf0DcT154kpPcBW8H7yu0CAsJ4dulrlmCgSnHNO48GdfbHli9CEFWuEuUeWrq5CVSjRKkKhqBuR+MfUnu48m0tPh6Hx6vPp30i26IpQyK8KoBo4EvYo65bn674VbtbSUL9y/OZk5O23RtnXib/7fwb6ZeqRKEURf61V/Q5n4nDHtqdc54zRoKgRIch5eGuN7/Ad/p8LkVbHTkmoCKmhMHpDxCrQCYE+x4e1wOSv3LzxUycUlyqCR6BKk0KBp3PcrE6MfPLSNnWtmIxCdJnwudaM/UhA3QODoWdG5Ibo=;N9uwULihxDCMXXI5ZSM9xA=="
+secured: "VbIvkRiYFg6txjMPJ5Apg1wiY+ah+DEtFbIuPqlYI92+WPG0ySU5EfIvarDWwFSb+C4b3mcB3JZtY9BUI4fmzoolObLmPs1H7cQKJACrOFNTa3bx2qgH8tRDabqreMs33r1sDG9WPnyDt6GKkdtNdtB3jQFO2tJQWk17H3hGIxZZj3q4tqJdrbUuSGgOx9NOYnS4i4pNcWKrg45P2BKHbYtwJz25k1yb9b2qNSvPUgm3ByBjNtPtCmKge1iMomAf9kS0mYule68DnhxQjoktSqzxjdl2ZytFizDeqnFJXzELuuJgBPXylsF2UcIwH7eLnMVM3qAE4RRcszmbzSuJE+MYanfl1eshCbIn4oUMNEs=;odRBTENIySq+b15cPgE7jg=="
 ---
 
