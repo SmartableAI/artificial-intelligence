@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
 type: article
 quality: 90
 heat: -1
@@ -245,6 +245,20 @@ related:
         width: 480
         height: 322
         isCached: true
+  - title: "EU unveils proposal on artificial intelligence"
+    excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."
+    publishedDateTime: 2021-04-21T20:38:00Z
+    webUrl: "https://www.pri.org/file/2021-04-21/eu-unveils-proposal-artificial-intelligence"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
   - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
     excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."
     publishedDateTime: 2021-04-20T11:45:00Z
@@ -280,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "+nGFreE0xLoAH3WZ8sHsah/GEOGOkw0+1X4+CaebWsltEELzwp8CCYTKc9BUSKsddHtup8Yae7weMimgZ/0WSHlVI2369jpodKi5S8NNE4q7N+RbzdD3ThBne+eRisK+ZuaF8sCA33Tl5F/QwkjmSkVIzzzkkI4nAdXdDJSUBwrnrbUVyS+P2Zoz2oLKoF3FxaTYrVIqJ5SZVAvnDN7x7QRqHzdgRP3HPXCORwwc7u87DPdo7s9Pbs2fpqzpDZwo6/Fg5BulAMt16ChkUmXZTlBGWSXHOQN91COXyBvekcWbywI2aGn+DUOkmdKpjBEnCLhzPBafGvWb/hXUccvCrP4fAvA52RiPupVOpPcT3iA=;FuV2qSI9B11I+iwa5ThECg=="
+secured: "rZY9yRZ9UN1aCP0PhuBpWBt+JTQxpmMR4fYMX0QWV/RknooI8ImXtj+At6s9AoiHbeo+7MXZy/aULIzPRW/OiOIZguV4meTmFsfwaapOZs1Vf2bAbChQpyOfylXl5UXtR6PKCA0CQvpxoiJhHYm/0EWoMsswujIgkQMdw3rttA5IgcZNBwHh59aIkurVOqegbkRjAG5ctaRSw2rXhRpm/ejipulVBWtfNTZakxw1adtj0zp3nquW7oHsEpkjwmGdwVSm81P5ZIKWrghlGeXFgd3KTcJFRJ7M6wmU2y4AsEZfzV3EJDr+6tz3kijm37QncwWXDz7TeP885Ak5IgYj8wBZV88wKk/MVa3z8ZOcw3U=;qTk5Qk0CkBJUHGD+Ij8T8A=="
 ---
 

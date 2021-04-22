@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21"
 type: article
 quality: 69
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Commerce Artificial Intelligence Industr Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
-    publishedDateTime: 2021-04-17T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-industr-market-size-share-value-and-competitive-landscape-2024-2021-04-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

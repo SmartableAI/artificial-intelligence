@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Commerce Artificial Intelligence Industr Market Size, Share, Value, and Competitive Landscape 2024"
-    excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
-    publishedDateTime: 2021-04-17T10:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-commerce-artificial-intelligence-industr-market-size-share-value-and-competitive-landscape-2024-2021-04-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Industry Market Size, Share, Value, and Competitive Landscape 2024"
     excerpt: "Covid-19 has impacted the supply and demand status for many industries along the supply chain. In this report a"
     publishedDateTime: 2021-04-17T14:10:00Z

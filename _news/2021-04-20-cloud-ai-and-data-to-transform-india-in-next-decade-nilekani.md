@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Global Artificial Intelligence in Indian Manufacturing Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "Manufacturing companies in India have been digitizing their plants with advanced process controls, analytics, and"
+    publishedDateTime: 2021-04-22T02:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-indian-manufacturing-market-outlook-industry-analysis-and-prospect-2021-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
     excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
     publishedDateTime: 2021-04-19T00:03:00Z

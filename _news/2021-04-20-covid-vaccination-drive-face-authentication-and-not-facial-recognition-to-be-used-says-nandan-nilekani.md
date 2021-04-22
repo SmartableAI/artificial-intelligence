@@ -40,7 +40,7 @@ related:
   - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
     excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
     publishedDateTime: 2021-04-21T15:12:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
     type: article
     provider:
       name: MarketWatch
@@ -250,6 +250,20 @@ related:
       - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
         width: 480
         height: 322
+        isCached: true
+  - title: "EU unveils proposal on artificial intelligence"
+    excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."
+    publishedDateTime: 2021-04-21T20:38:00Z
+    webUrl: "https://www.pri.org/file/2021-04-21/eu-unveils-proposal-artificial-intelligence"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 37
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
   - title: "Facial authentication for vaccination not the same as facial recognition: Nandan Nilekani"
     excerpt: "Aadhaar-based facial authentication used for vaccination drive is not the same as facial recognition, Nandan Nilekani said on Tuesday."

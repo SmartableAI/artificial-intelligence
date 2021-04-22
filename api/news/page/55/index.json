@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-03-10-fintech-soluzioni-regolamentari-per-affrontare-la-sfida-della-digitalizzazione-e-aggiungere-valore-al-mercato-del-risparmio-e-del-credito.md",
+      "title": "FINTECH: soluzioni regolamentari per affrontare la sfida della digitalizzazione e aggiungere valore al mercato del risparmio e del credito",
+      "excerpt": "Innovazioni operative sempre più efficaci stanno cambiando il modo di far circolare i capitali e di gestire i rischi. Dal confronto tra innovatori, operatori tradizionali e advisor legali emergono nuo",
+      "sourceUrl": null,
+      "webUrl": "https://ntplusdiritto.ilsole24ore.com/art/fintech-soluzioni-regolamentari-affrontare-sfida-digitalizzazione-e-aggiungere-valore-mercato-risparmio-e-credito-ADyqv9OB",
+      "originalUrl": "https://ntplusdiritto.ilsole24ore.com/art/fintech-soluzioni-regolamentari-affrontare-sfida-digitalizzazione-e-aggiungere-valore-mercato-risparmio-e-credito-ADyqv9OB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/QUOTIDIANI_VERTICALI/2021/03/11/Quotidiani%20Verticali/ImmaginiWeb/finteck.jpg?r=672x351",
+          "width": 672,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ntplusdiritto.ilsole24ore",
+        "domain": "ilsole24ore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.md",
       "title": "Eset: utenti non sanno come vengono utilizzati i dati dalle App FinTech",
       "excerpt": "Agli intervistati è stata posta una serie di domande sui temi della FinTech e della cybersecurity ... della sicurezza rivelano che molte persone potrebbero essere vulnerabili ai rischi informatici ed è nostro compito garantire che le informazioni ...",
@@ -1100,57 +1143,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey.md",
-      "title": "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey",
-      "excerpt": "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png",
-          "width": 1351,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "publishedDateTime": "2021-03-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
