@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Keeping up with the machines, new supercomputer will be NZ's most powerful for AI"
-    excerpt: "New Zealand is scrambling to stay ahead of the artificial intelligence curve as it loses its early advantage and others ramp up their investments. Academics argue we can’t ever hope to be at the front of a pack led by China and the United States,"
-    publishedDateTime: 2021-04-17T17:00:00Z
-    webUrl: "https://www.stuff.co.nz/business/124856689/keeping-up-with-the-machines-new-supercomputer-will-be-nzs-most-powerful-for-ai"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 34
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/k/image.related.StuffLandscapeSixteenByNine.1420x800.22c41d.png/1618602198904.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Cerebras Unveils Wafer Scale Engine Two (WSE2): 2.6 Trillion Transistors, 100% Yield"
     excerpt: "As with the original processor, known as the Wafer Scale Engine (WSE-1), the new WSE-2 features hundreds of thousands of AI cores across a massive 46225 mm 2 of silicon. In that space, Cerebras has enabled 2."
     publishedDateTime: 2021-04-20T18:00:00Z

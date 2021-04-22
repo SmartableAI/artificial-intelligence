@@ -98,6 +98,15 @@ related:
         width: 556
         height: 380
         isCached: true
+  - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
+    excerpt: "Qumu Corporation (Nasdaq: QUMU), a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. The new release of Qumu Cloud provides artificial intelligence (AI)-based translation of voice to on-screen captions for video viewers."
+    publishedDateTime: 2021-04-21T17:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210421005269/en/Qumu-Introduces-AI-Powered-Live-Captioning-for-Enterprise-Video"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "0Fgx+LNThPbVucWg6KgXCIOLuEU2oxS/zm5V/rnWp3zY4n0q3yQ8Yh7RixEl40hXDgQLeae8msPeEHLylSxmfnqLqmstrYSoyGmDLWw0S1eja2NgM5k7/JsLhSxiNFrQszKn08g9i/5hxIZpsEYEiXi/mmjcBbn/23ZUsZYhlhkMCE/MkmeGNAlTIgm3OaKRtK1w0HsdQv91Vo+WCjS0JwW7aMlY25mmCHL/fbo2yz/1DPfVx+DVgHLk/lGOety5a62iHo4lQo6Jj6NZMWSXzibzZCkU4kptWt/Z3fm5iy0W6N+ESzK745qOO+8W/7TpT9mZw7VIWu/8OM+yvsE+wZLmH9awfeGLq1bcyqT7jK9YUWElTNxWAT1FFgH0z/NWA4zAJpt3L2Nv2r+RdXrqJM9IERcceafD8QXPAWjHmxWmVzfpwGeIiPxPZpEpQt326y58FPM8ha5+hQuiPz7vGOfsbBpHyH9Hxbwwrv9vjIxt4ubmOwVkVnt5d5UV+gjAc36GXhPYezduWHE98S3PUg==;bLit1KiBPsOBgoZIbUEgnQ=="
 ---

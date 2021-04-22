@@ -3,23 +3,23 @@ category: news
 title: "VieCure Announces $25 Million Series A Investment Led by Northpond Ventures to Improve Oncology Care, Scale A.I. and Patient-focused Technologies"
 excerpt: "Series A growth equity investment, led by Northpond Ventures. An undisclosed investor is also contributing to the round. VieCure, an oncology clinical informatics company with an artificial intelligence (AI) enabled clinical decision support platform,"
 publishedDateTime: 2021-04-20T12:05:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/viecure-announces-25-million-series-a-investment-led-by-northpond-ventures-to-improve-oncology-care/article_f5124872-352d-57f5-9e0b-24964edab42b.html"
-webUrl: "https://www.bakersfield.com/ap/news/viecure-announces-25-million-series-a-investment-led-by-northpond-ventures-to-improve-oncology-care/article_f5124872-352d-57f5-9e0b-24964edab42b.html"
+originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/viecure-announces-25-million-series-a-investment-led-by-northpond-ventures-to-improve-oncology-care/article_2c6091d5-5d60-53ac-896b-9513f3e660b1.html"
+webUrl: "https://www.northwestgeorgianews.com/associated_press/business/viecure-announces-25-million-series-a-investment-led-by-northpond-ventures-to-improve-oncology-care/article_2c6091d5-5d60-53ac-896b-9513f3e660b1.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -44,6 +44,6 @@ related:
       domain: businesswire.com
     quality: 4
 
-secured: "y9dyG/IjrU8nv4REokb4lc1329bKpnSYcCN0fwb4QohXCpElU8fvzFuDCciBvAyAN5A2OBlGJIbOHPDcy90Ov+7INRrjfb7UWGycOYGnF8ekYrukKqHPZ+K8tJfRoc1MLqBo8xp0JdJbVahTkuu/CwPbyZ+S8OpJCaLe0IA0LTc0GKMsur58VLdN3uJojsWN773Je55tSyPrrRvAifhp+2ANuUCNJxZBFUsyxmHGA8fG2UcriOFFvwQSm3qEc5DgLS4sIvheq4AkOLu1wGfkDzNylbVBTM25rh3v8dwTSNz+weEflQNS/Y14lUrGJgsk+Txkc6zplpK9hyIeTu+fiwdXKCkE1dtvqUABxpMmDGI=;ZC0jQFKQ317x4KEeWyg8Sg=="
+secured: "1i8y+v9Fg0+6x0ZOT60n2OCucLqZFfqwtys6Xx+v8o0a9vU2IjkVXWmzDC3YUxMfgryGXW5snL9lcUrmuHETIQm0rlE3VE+We5waz55fDhv9Sm3Z5D+2O8D3schtqYKawcXSBMAJskKergnXY4ds6gW96dTD/FlIqvpRujFyEU8n+Xm0R2ti7aq/CgZjB82OkIfiGKhH8g2UIslYStYycYq77J9WYOrktK86qfH1M0qQ9koHmmFm8lHRuIH3rA7bqFd5fhYrmglCrvkShiCKklewXR5QiDIQEF/MSl+kjPvgVUX5Ej8ieujrSgiQjqHTp1XJ/eiDVPS5INKUtS6QOWUt0kRgwZQC8DuoQPsd+2k=;jbhIQJQfGNslyZNWi4FycA=="
 ---
 

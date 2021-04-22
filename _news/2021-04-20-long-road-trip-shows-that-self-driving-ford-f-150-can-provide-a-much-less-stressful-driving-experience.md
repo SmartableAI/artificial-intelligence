@@ -7,7 +7,7 @@ originalUrl: "https://www.equipmentworld.com/trucks/article/15065029/long-road-t
 webUrl: "https://www.equipmentworld.com/trucks/article/15065029/long-road-trip-shows-that-selfdriving-ford-f150-can-provide-a-much-less-stressful-driving-experience"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 700
     height: 467
     isCached: true
-
-related:
-  - title: "Precipice Edginess When A Self-Driving Car Drives Down A Super-Steep Slope Like These Top Ten U.S. Vertical-Drop Streets"
-    excerpt: "Self-driving cars need to cope with steep downward sloping streets, which can also be challenging to human drivers (included is a list of the Top 10 steepest gradients in U.S. public roadways)."
-    publishedDateTime: 2021-04-17T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/17/precipice-edginess-when-a-self-driving-car-drives-down-a-super-steep-slope-like-these-top-ten-us-vertical-drop-streets/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6043fdc573ab10aeef8f1713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D453%26cropY1%3D20%26cropY2%3D275"
-        width: 453
-        height: 255
-        isCached: true
-  - title: "Self-Driving Car Market Analysis, Trends, Drivers, Challenges, Growth Forecast"
-    excerpt: "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2021-04-18T02:46:00Z
-    webUrl: "https://menafn.com/1101862113/Self-Driving-Car-Market-Analysis-Trends-Drivers-Challenges-Growth-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "2elOACcuxqSoj//x10X3TzlYK1QO961W8zdkn4CqMiiSp6NXMRJO14Edrzh6XOnFMI/ghs/yx/U+uYSz+kI35L+sChWmKMKXf9SeZNALCILIclpssB9SCvtvYKfeZ8dpiqkNSQSN/xkcPUGRn5Wlwh1iy4yvtS+Z8ohHxQ5NdLT1qYBOv1zmkXN+s5Y5GLFdrB3Nhp8eM/hLXJWHFlw5CVeQ20NuUbJqs0CY9u5R87D8grmUXNbU7WHoYS3CkA44qz84A5wCVP8UUg5aH5oWjVMZeK+zsOQmKvUxfz1bhLRfFuhvnDDW66AY52FHa4mXgiU35mhskizfuhy7x5hzKM2GjIdzdWL25fh0LWc5SonUoQCgPzyBDDYhmNio1lNRCMLIUUMmSsiAoNz1/T/xbikAvolV6dIUe8aFYqX8Irj4HKRaNAryA+5uBk7TSvcEnp9EqzdIEfWH8pt/A+tdiA/GXClWGy+J313LpW3II+lgDbkSksadqlW8iZFXDfEJyNkDyR8N6l1DH+tbIFrexg==;NaLWxlZ1LW+NcVtyKCXdLQ=="
 ---

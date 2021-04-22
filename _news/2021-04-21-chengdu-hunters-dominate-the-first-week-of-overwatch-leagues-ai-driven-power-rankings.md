@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Blizzard And IBM Develop AI Powered Overwatch Rank System To Crown The Mightiest Players"
-    excerpt: "Last year's Overwatch League was canceled due to the COVID-19 pandemic, and that temporarily pumped the brakes on some interesting AI projects, as well. At the time, Blizzard and IBM were set to announce that Big Blue was about to become the cloud,"
-    publishedDateTime: 2021-04-17T16:42:00Z
-    webUrl: "https://hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
-    ampWebUrl: "https://amp.hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/blizzard-ibm-ai-powered-overwatch-ranking-system"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 50
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54849/content/overwatch.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "9FWz4OgxsGnoyumC2zd671Oxc0Rkj+nqG04c+ZebJtkTN8AwBOwOyQOdeE2tRFH6RSGNw8REze7Uo5ttCpZl99YKCcDJl8C1oMt4Mw7Qd36o7yC2hJU7hdlsOCXgPhZI1cpQVKsDfuCfTj8CvXXgesZRH8UJankuX3NQv54HT8fIpsNB8uM5n6aHEaZ56M8cEKm/43Mtq/C0QpFMdOnMB6qt8BmCcEW7ShsNg2wAj9Jh1IQNXqWMGvhvHHY5Gr21y6Bfvr7fnUowbWiJJoPa7vgcVlbv1gI6Q+N4NB2+zrGLSujDijH7+3YrOXA4tZndQQcf0/GxONrtMriZzdI/gQroDsYefS0dnMl8xtZhojdKpDNJMVp/4BiTd8A0zayUEBPCegBeUVc51OOrXvusWinyUtAaqACfnsWFN5l/OEOwnp5589AW3kRcsQ8IRlC1HCSeq0pFNEBQ4qN8LSC1sWqdTC4f25bQjU9CjnVR2xcB0luveDcZhuQAG9+buMWDVRbxSVBgAjs52vEVkaQMLw==;ApLD+ALQps345pcUQWYXTg=="
 ---

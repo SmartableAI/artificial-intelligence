@@ -54,6 +54,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
+    excerpt: "Cortellis Deals Intelligence features new trends visualizations and predictive analytics supported by artificial intelligence  LONDON, /PRNewswire/"
+    publishedDateTime: 2021-04-22T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20740634/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20740634"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20740634"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "FEPmNUY0vJLkHQGL0tEdhWp2GXdsTIJC3+/Pd213+j9EOpBT6DGgHeyEQc/HFYAmBE48dejmmPsiPH6v79qeQtA+rx0SAkVkcTc3xdxVCmME1siUyCknEY3doAbWM9FybZ1zdTo8XJZA7rh7+7ulchBmhVFyQrk1wns4xFr7EUpDLCWqfw+1ENz7NJadBXreIEaAfFjVjv1ocleYsY81XRhzkndM3LqGDWaWxBscn9x0H2A6pFjTapvivungYTnnWePXsuH0bmwAb/fP7CybtHGWTxnnXT3EOljtUONFm//DTzKCI/DA0p8YYGCuKo8nXs9rbBtcA7fA+kadObiz1JhtfaePTemH79SygwYSRCR3sNDZY/pXfiLh6V+zD+KGs1XPBYLVl8S5NrTl2gKsxVB1Dj69h9zwtB5WvJaDBylsP6EZxI4Oo3UzpAeIP+XLfKlQvRw6Yb75BkDikfS+Am8bG+p5tgvvsC9RTXIeCeLwnxVH3TeWcCWI9RbxI5rCk/LSNPkbjApreIP2JVUQkA==;Pe6xRbDK8O6p8FJUOs6dmw=="
 ---

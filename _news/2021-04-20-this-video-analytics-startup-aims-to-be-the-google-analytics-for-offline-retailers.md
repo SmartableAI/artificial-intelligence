@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-goog
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
+    excerpt: "Cortellis Deals Intelligence features new trends visualizations and predictive analytics supported by artificial intelligence  LONDON, /PRNewswire/"
+    publishedDateTime: 2021-04-22T08:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20740634/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20740634"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20740634"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "hoPIYOSwE/VC/teWb1yOf2citzeaA0DKD/1Yx8Gg9eot0j7a/gCqX5InWLPECHTYXPosvhg+6SN32WJOQ4te3TxqWM8jNMIABh2dkAN8jWJHlchYsnizASPljcdRIpgd6rTPjjU9UTcXd/TAlDp2PuiUZiM38T9R5MAP4DZRWIXEtzABnz8hQwY0bV4udEslZlsPG63HTZwJSma1AS/c5oQJPKg/a220L2UzDY/nb+3P1D+oFttLn6fgyYVqxQL80+pX07KBK47tHra1oKA35KIrXKBKEGCfO8sC2+Y6TxuqC1p2v0f5DzMiJd0v+sP5Y6IMwMr90wyH6kSlkKoFcOeUCBU0Ug2fQj1OX5+M14E=;4gbKQjn3zn9lUaOxTevgPQ=="
 ---

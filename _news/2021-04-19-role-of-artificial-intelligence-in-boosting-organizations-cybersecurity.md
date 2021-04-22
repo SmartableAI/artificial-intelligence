@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/role-artificial-intelligence-boosting-organi
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Dataquest
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "BlackRock, Tudor Group Back Cybersecurity Startup Deep Instinct"
+    excerpt: "BlackRock Inc. is leading a $100 million investment round for Deep Instinct, a cybersecurity software startup."
+    publishedDateTime: 2021-04-22T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-22/blackrock-tudor-group-back-cybersecurity-startup-deep-instinct"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQdbDfR8P7aQ/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence in Cybersecurity Market is Booming Worldwide with Cisco Systems, BAE Systems, Fortinet"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Cybersecurity Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence in Cybersecurity Market research report shows the latest market insights,"
     publishedDateTime: 2021-04-21T23:43:00Z

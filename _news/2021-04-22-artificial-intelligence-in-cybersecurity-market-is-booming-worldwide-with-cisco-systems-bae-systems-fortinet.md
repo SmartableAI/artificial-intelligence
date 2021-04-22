@@ -44,6 +44,20 @@ related:
         width: 566
         height: 400
         isCached: true
+  - title: "BlackRock, Tudor Group Back Cybersecurity Startup Deep Instinct"
+    excerpt: "BlackRock Inc. is leading a $100 million investment round for Deep Instinct, a cybersecurity software startup."
+    publishedDateTime: 2021-04-22T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-22/blackrock-tudor-group-back-cybersecurity-startup-deep-instinct"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQdbDfR8P7aQ/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "e72AhqBTU9FGiDJw8WzUtviQRMYyrighqG5Ytyygb8NiLN6K4zVPMea3ONZzk+1MMGe5SqS/ipTW0aL7ETVHRM7dcEhzRK6jkO0oOKCsa8oFKztSJ39Fb46Mra/8uuPeW+/Nw3gVVBMM5l6Wdqxtfk+idmkz2NX3onqe3PsB+gxruxM87+lXlhp1Fg6C1Zxny6w3HsaK2zR/a2HEV6ajAOFPNSXiHrxhnmV+W4D4jgu1RgOYPTYrAkhcXg+fmgB3GEjzF9KAG1l+qjttfXcfMYzcaQaAmQUaUXyLcMYK37IMw4DaQvRHQbjBGf3eUCRaxX7I4oFZ32zPbkpKhDKCkN2ihVXlc28phpJz54jkY9c=;twY+0o7ouLt62t4xuHUB6Q=="
 ---

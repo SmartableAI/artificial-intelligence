@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Keeping up with the machines, new supercomputer will be NZ's most powerful for AI"
-    excerpt: "New Zealand is scrambling to stay ahead of the artificial intelligence curve as it loses its early advantage and others ramp up their investments. Academics argue we can’t ever hope to be at the front of a pack led by China and the United States,"
-    publishedDateTime: 2021-04-17T17:00:00Z
-    webUrl: "https://www.stuff.co.nz/business/124856689/keeping-up-with-the-machines-new-supercomputer-will-be-nzs-most-powerful-for-ai"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 34
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/s/0/y/k/image.related.StuffLandscapeSixteenByNine.1420x800.22c41d.png/1618602198904.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "BX2GckPM7Jf9eHzJ+OvflMBQMgJQbm5MkRfzEEqkk1GHE5vYqoA+GQjQf9P3PKIx09PCrcn4oVk+t76d6YkOy0bGK+1FbLKIZsmyXUoxwVy3nVsmi0fyIWAOBlCjCm9r1LoLcHt/Z3dj0w/cdAS8oNwAu/WSbP2ldy0wYAo4J9gkIWo6GeAatOSWWSHM2DByYgZes8U8SndpQUAtor2mEM/hS/Goz+QT/Y1ZyGRgOGhGKcKlYtZJkU3Q1dB7GsnfBlxmRRxxuzozLhWYIn6tEPqiPF0th5b6o1t6ibUZ3Sj6i18dq3i52iUCvPv13qdsnYEc0JmGTv/Oc/Ls5zWGlXUwYraSwoyZ8NtrCE8dFoiWp9pzfVuI5AF3Ef5cz+LU6EZ7gEBwVlyuf8V/9Yks+pTuKJTWMW4SaitB9DQKzt3LvL63LHm6f8+CwYfh+ERBDpWZa5P4SSv472V0TwijlC1p5zZxugrudTqMJa2M5LxZ9rzO2FekcxC0hinevaumVjArjfQxHsYFIxG48wbLMA==;dTnkGhMIyIUVzTahFPidEQ=="
 ---

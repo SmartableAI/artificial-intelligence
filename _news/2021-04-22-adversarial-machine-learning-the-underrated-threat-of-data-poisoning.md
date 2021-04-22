@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/21/adversarial-machine-learning-unde
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Learning the language of chemistry"
+    excerpt: "Like many clichés, the comparison of chemistry to language is so often used because it works so well. We can put a finite set of ‘letters’ (atoms) together in innumerable permutations to make ‘words’ (molecules),"
+    publishedDateTime: 2021-04-22T08:49:00Z
+    webUrl: "https://www.chemistryworld.com/opinion/learning-the-language-of-chemistry/4013554.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 24
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/8/5/512885_00027105_864491_crop.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "A Privacy-Preserving Federated Learning for Multiparty Data Sharing in Social IoTs"
     excerpt: "As 5G and mobile computing are growing rapidly, deep learning services in the Social Computing and Social Internet of Things (IoT) have enriched our lives over the past few years. Mobile devices and IoT devices with computing capabilities can join social computing anytime and anywhere."
     publishedDateTime: 2021-04-21T11:22:00Z

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI is increasingly being used to identify emotions – here’s what’s at stake"
+    excerpt: "Emotion recognition technology (ERT) is in fact a burgeoning multi-billion-dollar industry that aims to use AI to detect emotions from facial expressions."
+    publishedDateTime: 2021-04-22T08:30:00Z
+    webUrl: "https://business-reporter.co.uk/2021/04/22/ai-is-increasingly-being-used-to-identify-emotions-heres-whats-at-stake/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 37
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/authentication-by-facial-recognition-concept-biometric-security-picture-id1168365129-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Jx3L82YyUOmA1p8XIn/rU9/d/5QjhWJQsz/LIobfRdzermtrt14ynbObS5ULlUWOdlzuQp5Rlohc1u3ewmKk4wmr5vYbnx1CzugQmnYvMEnVxeoHqj2dqqV1WkEOUS8BEJhX2Vuz7awQqUmUvw0jV+XJUlKeW0lZD9L+viUcAWz0ZP/rGZhkTtncEFfhSj8Fd5dlZcKF1kRF6kyejt9a2FlXSGsvHMuFlx1ucx1s3FZHCn14GXg+LEygug2r8Xbh81ugCYEAr6uNiTePad/W41pgQDP1d+UEi81d7AIkTM59YJ8Kc3dncOd5sdfth4iV6lBBS9k+VkZGnlOtTiOR6dYkfzmrBO4I3Jv86+ZI5x/JvuL9tMzMvel5BisXkqgqRO/9I1jvvB4S2H+H0zhIMvJBCYs7JyAhFBbMXxbAbmZbfnqZ3Jf1YIbzUAPtY2H03BoZj1eEF6cwJ0mCUIAMwAXuVq1WtaoXNRvJQ7nx4KMvpdsISLPDL0PQ/W7U9n6rbTUtSIv2li/YbHVc3ZeIrg==;XisEaYkrvaTET6v+gEbu7Q=="
 ---

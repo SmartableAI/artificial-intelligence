@@ -39,6 +39,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Thailand"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages including Thai   Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting"
+    publishedDateTime: 2021-04-22T08:34:00Z
+    webUrl: "https://menafn.com/1101959187/Cisco-Webex-Innovation-Breaks-Through-Language-Barriers-with-Real-Time-Translation-for-More-Inclusive-Meeting-Experiences-in-Thailand"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "xL428F3dmLBz0D8EJkRyVkgigMqt+yv+On+IrYbSzgxUeESJflnK9wnLFCLKI28KYeuyEC2wvXZ2UaPkhxiYJnnri28Aceb9EBXLEVidE+an+9o8zzfMqj8LGtCsz8TRRMdA04l0KEalI8lGbSm8Sh5lX0qyximAdQEJ1zsaejl/C4m95i+Cph+KD9J6lhZbmTcNjSSiuFLX/fyE5zAock3jZoLCMEOefOMorchouC6so54ArzLFYkQi4mt91f9y4xrsTvQ3/JxLpFclR6HbVJBzWXpV7FmpQIp+dCUaRnu/ytPAzCgXZoZMw/a0bwBqzqmSRI0VIJm/qHcGWU1SoTwWOAI/x2Pg71JAqc9LFxY=;cE/SLujdHOAOvI9F3y9bMA=="
 ---

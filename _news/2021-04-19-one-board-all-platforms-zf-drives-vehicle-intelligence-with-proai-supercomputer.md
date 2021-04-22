@@ -1,10 +1,10 @@
 ---
 category: news
 title: "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer"
-excerpt: "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains."
+excerpt: "With the new ZF ProAI, ZF presents the automotive industry’s most flexible, scalable, and powerful supercomputer. It is AI-capable and suitable for all applications from automated driving Level 2 to 5."
 publishedDateTime: 2021-04-19T11:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9"
 type: article
 quality: 34
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 710
         isCached: true
 
-secured: "NlS4aJNcg0ZPHAsOjmznMki11dVJ26kOLuONXeHl364PH6InevOepK6zcmUv5bgR+gl/0oi+aU9mhlI7AeiMNy40Utnbs//voljflwUDZH/tEbuyjr6J4CFoeJxYqV0YwIUhKmUEi+6KBOg0EZY+glG/FO9kcyvv2nUdut18y4sUHjs4ge5pC7EE9lTeudvDke0G6szavzDeOSNQyuZxGO4b9IqOS9cog7qRh1Bmonl1BmikFG8S4NDoQURiHGxU4kujD1l/jFB9Ei99fo4heDi732YKZZQ5rbCvk85wP3NURm8oh1No2VFHxjEFmGb5erGAO4CSxiNKzaUK2ac9vsJ/zXFYIAIAbQ7UGKbDKt4=;bxZkV0udJCrpfDEkLimLzA=="
+secured: "BsyU+Wbjvf/HYliYYCkqiMedRi+efabpTM4Vm1zzvcwDhBli5S3RQTNs5vk4+Scq9baG6sPIxLnuIMbIOH8Cs20FIhpNsiBOy6OsMM91PL62H/afXIeCwB1nzapVeVaQrxua+Bg3V43k2gOzROdFdMAtFnUV2Ol9Cpi8Voymwai5YiwRKQLT8S94j5kXtwMGyTy1Ijld72CafRyaaUGgff3PbrJcNWIVj5estyPHEGmsCZiMLCBrDYHq+hhHFjInv/+9vmJqWLDHBoGuvAnJkG7MAsXg/Y/B1A0jm+uxe7QkuwONzD8PLOJmOAptOdejR6aW9UciiziD2YvhBS5pftZmfpkm1CevKLHmZhQ6Id0=;WvFM30jleSepVS/0wTa5Cw=="
 ---
 

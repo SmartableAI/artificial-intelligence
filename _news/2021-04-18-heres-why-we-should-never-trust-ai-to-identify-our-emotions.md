@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-
 webUrl: "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://static.independent.co.uk/2021/04/19/10/newFile-3.jpg?width=1200&auto=webp&quality=75"
         width: 1200
         height: 900
+        isCached: true
+  - title: "AI is increasingly being used to identify emotions – here’s what’s at stake"
+    excerpt: "Emotion recognition technology (ERT) is in fact a burgeoning multi-billion-dollar industry that aims to use AI to detect emotions from facial expressions."
+    publishedDateTime: 2021-04-22T08:30:00Z
+    webUrl: "https://business-reporter.co.uk/2021/04/22/ai-is-increasingly-being-used-to-identify-emotions-heres-whats-at-stake/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 37
+    images:
+      - url: "https://business-reporter.co.uk/wp-content/uploads/2021/04/authentication-by-facial-recognition-concept-biometric-security-picture-id1168365129-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3474guBYsTa2kol/qdTjcLOewyW05m/u6dO2f3S1UEiMvkh7Gq1w+2cMbwAJY7TGdI8qRfRuYLGQSJVEF+mhYKQWiQ0RGO3rBg8OH1t1DGLgz4QjlDiyWLn2R6AQwkEVNntgMKUZwQ0a7izhHfEfzfvh0dhv7xMtkpOqJHHRgIZn3ZpyDRUsEbzrjvZM2Xh+qf3ScxBKe9b5mblKwD5IGA3v4tsAyU8GX3gttjrAoQsIQtvoqx8KmsY5kBkvW9b5ftdr3eEqEh6DRHDAyOay1cZgWo8yYpkXAr3jofGaQOPTUNGXJ33D0U5Dht1xOw+K/9RENmOsfoKdoFvmCyyBV1BEUkTDabL1pSz2wMgjtEhlWusdfyxBt3YuGSytdSL76tFI5ScB1Je+6COLtNZfsZHF816G/KIzFqrtIgKcFveQV4q4QBMPyFfITuTgwKB+OXjg5qZ4pyl6UkSkhJ8+6hwJW+/CwY1rKf1U75H27S405USeGLAKuMDotdF/etAzbNyU4VyNKW98JfSSxMIZJA==;ygVgTu5BlfkktdZ9YbDuWg=="

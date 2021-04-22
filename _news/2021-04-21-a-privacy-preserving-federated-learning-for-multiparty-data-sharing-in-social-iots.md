@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Learning the language of chemistry"
+    excerpt: "Like many clichés, the comparison of chemistry to language is so often used because it works so well. We can put a finite set of ‘letters’ (atoms) together in innumerable permutations to make ‘words’ (molecules),"
+    publishedDateTime: 2021-04-22T08:49:00Z
+    webUrl: "https://www.chemistryworld.com/opinion/learning-the-language-of-chemistry/4013554.article"
+    type: article
+    provider:
+      name: Chemistry World
+      domain: chemistryworld.com
+    quality: 24
+    images:
+      - url: "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/8/5/512885_00027105_864491_crop.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "dNb7Mn6fYjarajfBKTa0kKWtGKVsDBm8dq1wC9KR3USdKqNlFQa1wYGSuTlTqh0+fuxd1NzP7BXmopyz57Wf0wkX7vU6QhtYORdPDnZF9fkyIP27uopFK4N1KBZ3JIG9SkDWC959fKW/e0e603b5dOAaTI4ec5I2Ww87iBLtRRerYR5itlWNS+qikOfnuufMIYqVIbAqfDMlLC665asFc8r7ejElhxd6vaxIZO6SnnqMenwzshqexcJQbl3gfiirm7u2s5kClsliOg5MUMYiLpkpDVF10aBKXzcwFl6yPA9C5uRwfldYU7fpLffrSybjWcnXLT522TL9B6o+eUpn19CM5nI1YQ3cagGEwfeTTpQ=;ifX6ZhP6CchLySW9azUT1A=="
 ---
