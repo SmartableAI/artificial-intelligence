@@ -9,8 +9,8 @@ ampWebUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-goog
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Your Story
@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "A Kellogg marketing professor explains how to use AI and analytics to grow your business"
-    excerpt: "Eric Anderson says business leaders should regularly collect and analyze data to understand what products will do well in the market."
-    publishedDateTime: 2021-04-17T14:07:00Z
-    webUrl: "https://www.businessinsider.com/analytics-ai-tips-to-grow-business-kellogg-marketing-2021-4"
+  - title: "Big Data Analytics Startup Kyligence Raises $70M In Series D Funding"
+    excerpt: "Next-generation data analytics startup Kyligence has closed a $70 million Series D round of funding, the company said Wednesday. The company said it will use the new funding to co"
+    publishedDateTime: 2021-04-21T22:26:00Z
+    webUrl: "https://www.crn.com/news/applications-os/big-data-analytics-startup-kyligence-raises-70m-in-series-d-funding"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://i.insider.com/60787db474da0300181e1eb3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
-    excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
-    publishedDateTime: 2021-04-20T16:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends-global-industry-scenario-outlook-and-growth-strategies-forecast-2020-2026-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
     excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."

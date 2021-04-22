@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI helps zap mosquito larvae before they become a problem"
-excerpt: "WASHINGTON (Zenger News) — An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to ..."
+excerpt: "An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to demonstrate how humans can use powerful artificial intelligence technologies,"
 publishedDateTime: 2021-04-08T16:17:00Z
-originalUrl: "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-webUrl: "https://news3lv.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-ampWebUrl: "https://news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
-cdnAmpWebUrl: "https://news3lv-com.cdn.ampproject.org/c/s/news3lv.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+originalUrl: "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+webUrl: "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+ampWebUrl: "https://fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
+cdnAmpWebUrl: "https://fox11online-com.cdn.ampproject.org/c/s/fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem"
 type: article
 
 provider:
-  name: News 3 Las Vegas
-  domain: news3lv.com
+  name: Fox 11 News
+  domain: fox11online.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://news3lv.com/resources/media/9007fd1c-1781-4825-9617-4af26f7143e2-medium16x9_SprayingstagnantwatersourceskillsdiseasecarryingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898310418"
+  - url: "https://fox11online.com/resources/media/27865894-144f-4418-921e-a1cf03f9b238-medium16x9_SprayingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898405947"
     width: 648
-    height: 365
+    height: 364
     isCached: true
 
-secured: "wjgUCg9qdO6nQOaX/82fxZi72eeN07VpGrqWH8HuG3htyWzGrTUQLFD4LAZy24JfC5L2wg03ouBdWwaGhqWySkJZsCL+bGeM0ufQYCUOfHIntRkWJVI9Nlj/WQbwtVtJbDwIWltAneqIA404gg/22ERviJGaX8oOFRSc9lpLSyRogS7zPE0OxaxlsjkAJOzwCvmaUSZFLXqdKaY7U7DAsMvHW+mOYdmBFnSjxhxb97A/6+EjcjwSArud8t0mFocp4XNHRkyGT2LIohegnCpd3c8IVd1aiykgmtsqu1yGmDg5qVgceYZZDhwNd2Dm9+6Hf5j1sobDjBo0g+coOOcbdN5F5zRSGcM3iKGJZ61VM2H5kiNM4KMGcVHuFUmBb1c1xAlZM3Ow3YdhohGoWXi9w+lZ25gPqvJnrZY8fO8Uu8uoLqIE25+rSjfyZ8p5wT7NtuUNJ9V0Is/cAhWvLA8eIfeVDLLuGkp301dkFsgIXwYcBpHi5Ei7eAtiiBejbzamejCuz9+6NKsvpa0BZuAdHQ==;TnlpMLdZwe/wdCubfifgZw=="
+secured: "cee2W/BP9+WXwbz68z3ZBU60peWolfYw+1xuYMnnaUGs42EUTk8IrwaXTA/G8Pni1p18+mZr/lLFKozGUw3OzGXbzIpoLpice2sw5fsjmMNmO7QhD9/DnkbCsr/6KBe7RAxrepx/YrFpRX1l16EB9TN6zmgBqg5+gKUWUTQmKSd3HWNJ9cm7qbzKJgtgP/WEElVW/zRhDICus971h0K/zNL5YqnENwoMJKixAEC9c6Jl/lW9I6e4bKnpykURs/n6X/T7uFyTiUNMyCiQaiRko/og8SWdNIJ8+eblWq2watX1CUqdLMOqv+oHsyaQhHVcjtoxIFn+oxtybdu3mwCV/NdkynhwecZ2Xt2nLlDjj28=;mg0SAfAtCDkW7uKuXvHPtQ=="
 ---
 

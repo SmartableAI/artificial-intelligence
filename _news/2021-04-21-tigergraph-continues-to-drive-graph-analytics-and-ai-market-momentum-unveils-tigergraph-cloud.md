@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Kellogg marketing professor explains how to use AI and analytics to grow your business"
-    excerpt: "Eric Anderson says business leaders should regularly collect and analyze data to understand what products will do well in the market."
-    publishedDateTime: 2021-04-17T14:07:00Z
-    webUrl: "https://www.businessinsider.com/analytics-ai-tips-to-grow-business-kellogg-marketing-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/60787db474da0300181e1eb3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "This video analytics startup aims to be the Google Analytics for offline retailers"
     excerpt: "Gurugram-based Veda Labs is a video analytics platform that uses existing CCTV infrastructure to provide businesses with insights like total footfall, demographic overview, customer journey, and more."
     publishedDateTime: 2021-04-19T23:50:00Z
@@ -55,19 +41,19 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
-    excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
-    publishedDateTime: 2021-04-20T16:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends-global-industry-scenario-outlook-and-growth-strategies-forecast-2020-2026-2021-04-20"
+  - title: "Big Data Analytics Startup Kyligence Raises $70M In Series D Funding"
+    excerpt: "Next-generation data analytics startup Kyligence has closed a $70 million Series D round of funding, the company said Wednesday. The company said it will use the new funding to co"
+    publishedDateTime: 2021-04-21T22:26:00Z
+    webUrl: "https://www.crn.com/news/applications-os/big-data-analytics-startup-kyligence-raises-70m-in-series-d-funding"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: CRN
+      domain: crn.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "8ZIXhGP07ADe9VQ/4YZgy9YKH5AmjOY6jOTt85IVg07RK0zca7r736Plv8aARsJmF+5Z7WSLngttI9T35LF0c9Yfh6d7aw2XY6EQli4ChwvdC8p9hiSMQtVxTFXzX4AYF90ksofUFwDcLzLiFnqbbIcfsviDVRzsaBQqex20Ij5DGhrsnB0kcxCWVhA1DST6MBIHliVJTsiCfhRvPnpFDyKBcyQY2jNxuZJW8g578gtaou/M9OZZD/d7Zoiotqxzzt9rJOkL1ao1wUtKVfhnbHQeFrkr1ReHG7Pq+tWx1lQyc8FedoyRmEYfR+jLSZSge69wUXQRecpva/0G2IY2v5vZjWtIgrN9DnwRiyrH9/Q=;/cTCv7kD517MtQH1bwlXRA=="

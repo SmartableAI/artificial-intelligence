@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ..."
-publishedDateTime: 2021-04-19T04:36:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
+excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
+publishedDateTime: 2021-04-19T04:41:00Z
+originalUrl: "https://www.metro.us/baidu-expects-to-supply/"
+webUrl: "https://www.metro.us/baidu-expects-to-supply/"
+ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
-    width: 770
-    height: 431
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
-    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
-    publishedDateTime: 2021-04-19T21:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years"
     excerpt: "Chinese technology giant Baidu Inc 9888.HK expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years,"
     publishedDateTime: 2021-04-19T04:00:00Z
@@ -90,6 +81,6 @@ related:
         height: 533
         isCached: true
 
-secured: "DAtSRJoWEVt2kDrNDBmDz3vdImvdTV6AqD00Nu4dqg+qlegFkgRyAMcr+gru4yBQ+BNYAv5Jop1ppNp7HHUQFBpxFlcTxu2cD8eHDmqB8Pxcq5VZX5aO3p1UV2PoQeCx4+5vBCkVqF2WzKUfHt9+m0LokCF/m95Y0GR6OB8guSmSbkZt5OhtqQmQTvYtWj7hbZ1adAqhK7PrmxtLiF0Dl4dPpeuIdm/ccT0SjpEE7bdo5MLa01KtVnII7HzFlylP/G1bWmvJTRLx1YSxIMXmD610XCCPbLc7yqyAearXqR6c2oaZa/1QeXlKqDCCs2eA53eNSJZlYF8sODeT9C9AkjNKbFYjtlAsvB01ONYHW0Q=;UKEvbolhcHstT/iLPJRfGQ=="
+secured: "3SVJ2eTEe2mOEk4zAORH4EZV/Iq6i27fD9R42xt2EehxVUTJG1Dueg4CtBOeI0NetGaMbVi3yLj624SWVUs5U3Q0Q1oBqHbPqFpPh0NQJz8wAGMLEafbgOYzCmXPxKvkIregXsOqGKeD27fMFXyYAUsspUJP88SFcaw3Qdl5cuPDlqmcWeKVUTaEm9x6igg3MS11yYQZd3RBc8JbdhzCqi0gxT69csxx8E5N3b2Kmpq89ONUEQ/Q3TX0UefbCjfZMsw1luLzpeo+D4JXs1Nd3d/F/5TTt4yqz/0HyWAGXf+U1zHZ+y3XGLLxCw7fN6KUxRK74KPs5GVInlVM/HRX8xoV/O6sB8gNoUFmMMCLChQ=;MIboXP6p9lhrA8oPdMRjEw=="
 ---
 

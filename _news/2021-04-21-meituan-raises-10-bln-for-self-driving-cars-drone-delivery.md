@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Meituan raises $10 bln for self-driving cars, drone delivery"
-excerpt: "Chinese food delivery giant Meituan says it has raised nearly $10 billion in a sale of convertible bonds and additional shares, with plans to invest in and develop delivery technologies"
-publishedDateTime: 2021-04-21T06:47:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209109"
-webUrl: "https://abcnews.go.com/Business/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209109"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/meituan-raises-10-bln-driving-cars-drone-delivery-77209109"
+excerpt: "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273."
+publishedDateTime: 2021-04-21T13:14:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+webUrl: "https://www.sfchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_e99be59739c54560b88dee5cc61b9a1b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/17/55/03/20893889/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: usnews.com
     quality: 39
 
-secured: "6uJ8ItyopkfRc8xBo+KMTm0LmvDgz818jCclMpk1ofpVbfPgJobOde5F8NktySG2/nR6/wpQssN150E3AGGpP+WOU6Y+/A62EIl+c8YMZNkiLAixa1hBjjy4w20hvk0cjk0MQ2llZozdn8WjegUszApQ5p1B5EWZvfPbWh4tyMybjenIkQ3Sm3mjWFj6m8u8QoLeJYvKPWSTDzIZG7m5it+NQE+vq7CjfmXjXKwAbW29F466UizpRtY/YT43RC/q/8XO/9C/xqE2OeEj8+u/jIUXpyuON1ajq5q67Hwdwen04OcScclhSZmfCW0HQAyEiyogU5KKNPkIy+DhrUmLw2ZXYmGvXkEYcPM8dYcnd5s=;QaX2T3Um5Qbsvbn4IObrBw=="
+secured: "B29BqJmlysI6aga7zEQDGfRx/mY14235G45Sj/eNGBtvpCs1Uyk72ghbl6o7M0FIleU6UrbqEJ3gZ1A3m43tH5bMv2g9s5Y/C7U/QrTY//0jFvqhjsv+HLPAe7NpyzpJ4N19sgMfWJ9YIPEa4pwnN1k+HpaAAn3aYxKAHQCgQ0QGnnqlj1oZGR3mgGa18fjW8NeYzBhs9H8BDt801jDu5xsJguRrPZcIDZ27Emf6P6eXjJefMX3nxHZRf7LIBje8RqG0tPYG0uwmxVhonxAeyuH4zFAGDwss2nX7aaHtymJl+Qjod8/xuB+8/ZS3ttT0lc3qyVmrjUCRPuUko5bl71tECoi9ARnA/Kee/hT8kBc=;5VpAmOYEaYYGcIPqvIFEOQ=="
 ---
 

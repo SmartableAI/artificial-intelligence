@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos19"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "1HQ75RZSin4trNMATaMqqz7pw3Uk157LfpwTRMyq0E0VtdjTsvXCY0DFr98e8S6VPeGGT9o9BMim/ULzBxeTQ/gTBk/32KI2/15N3f1VWxSLhoqtF4US8+0/6dFugqbUxBOxFLdm/nEAnZ6lnskwDy/4pVO7nfiJlB2Mw3jzSU8cZNZYdXHiBbgz2P0Za3zlxQtvol6FtKhdwfmet9Kp4gKNZ70Ete9qGUgApnT8pfS6e0yWN9IxHbhatBRrGfJpdVYYl8eWnrnWSkE1exqGIPWQYAXFp95SKhXkYqjuXjNhwUX9KE9ayq9uyoMGZ/xCQcj1y8IIbfRqVWqIjKE9Ipq2P5pzsK1h7zoKv1tub4I=;vfB1HE58W/Qr5juLMOZ8Sw=="
+secured: "nl+jEs6jfmgEgrlb2/J4DFcLA5wKFXQjbNl0kROOKlAlkZ03lm5zMV8Irop4IBeokRn/WW4T6YkQHD+iV2LOomL+wZjK/5N5oXrC4seR47MKPSuql1hqoF6MAWZcag8a/H6nY67GsmnEL/KxlymYnM9oHpggs8huP1m1JDPFlBvP/uqnIaAJr/zOJmENGM3ANuIpf4WBpcSwJzizPs/FLYEWaQ5ZgNeXemLvu6V0QshAgSXGtl9fTYewQZvQDS9ZVINEMariMticp0dubu1yf+Vz3r8J0EyiEKwu854oIpzUSS9MpkXlY5p1dVJvpdqmD0Ao7T4jp+2I5IXHMRyxPtt28ZBp+PLBOMbs+AbYOV0=;Y1E0toFJ4C96sxc/JXGumA=="
 ---
 
