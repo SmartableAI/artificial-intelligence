@@ -136,6 +136,17 @@ related:
         width: 300
         height: 230
         isCached: true
+  - title: "Europe proposes strict regulation of artificial intelligence"
+    excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"
+    publishedDateTime: 2021-04-21T23:03:00Z
+    webUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "i6ZCaCQkyM/ZqtpI5nq3pL+gBNh+CFUH99PCc+wqoy+Rd8xPh4jUwZrd68xGcUClyj9xdetyOA85R7N0OqUVBc2AAzVMmhfes8EZ6NlWXHWKOs7QvoArPsLSKjRu8zOzklq9lIHQfGUeQ7VgYX/tbOw5ndELj6itUL4xWOCRzhkdRr6F6BFoH0FBPhtBRRVvKEPXc8svXGRiDbFIwizLdHW0EMHH0sfv7MAY8l2VxKWSwLqUz3UVH8S8+FIjaJKnEja1qDu+ot46uwZk03POypz3iBDG/G3DRhx9F0TEqBQaURgDBQMKGbuw0VemP6pmKwQsHcueOzJ0N3GQCr6KUWmbxpkC2vGfIV6GF35GSLCtSz+dul5uE9VaXSsPTS1SkoNV3QMup/KBFeRxfATmy58lyQc2i0EWQpaBgEqwDuXxO5FMqP2jd2U7Nf4p68e500xSCqgCgxvl/NjEYkSzWAWXmjnljuiKKnlKwuCtswo0Ax/LdZ0S7Kg2iAINBiFTiX8R5NKcLTl7bR3zkCbBTw==;iG7YY/8+XUEHnwNBfQFPpw=="
 ---

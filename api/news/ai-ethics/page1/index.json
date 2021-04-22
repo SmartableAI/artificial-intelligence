@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -394,6 +394,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-heres-why-we-should-never-trust-ai-to-identify-our-emotions.md",
+      "title": "Here’s why we should never trust AI to identify our emotions",
+      "excerpt": "Emotion recognition technology can hurt people, both by working properly and enabling harassment, and also by not working accurately. Do we really want it?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication",
+      "originalUrl": "https://thenextweb.com/news/heres-why-we-should-never-trust-ai-to-identify-our-emotions-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fhappy.jpg&signature=8d815c8e914d1db232567785b0eedd6e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1381,58 +1433,6 @@
         "name": "Harvard Business Review",
         "domain": "hbr.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them.md",
-      "title": "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them",
-      "excerpt": "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/",
-      "publishedDateTime": "2021-04-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

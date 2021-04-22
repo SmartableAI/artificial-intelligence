@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-streaming-solutions-expand-to-assist-healthcare-providers.md",
+      "title": "Streaming Solutions Expand to Assist Healthcare Providers",
+      "excerpt": "NEW YORK, April 21, 2021 /PRNewswire/ -- The pandemic has had several major side effects on the healthcare industry, helping to accelerate the digitization of healthcare services across the board. Digital healthcare functions are largely based on the electronic health record (EHR),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
       "title": "Europe proposes strict regulation of artificial intelligence.",
       "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1360,59 +1412,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
-      "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
-      "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6065cd5ea656d354d2b3ff88%2F0x0.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

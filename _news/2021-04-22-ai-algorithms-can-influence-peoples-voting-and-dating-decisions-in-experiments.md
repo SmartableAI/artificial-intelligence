@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2021-04-ai-algorithms-people-voting-dating.html"
 ampWebUrl: "https://phys.org/news/2021-04-ai-algorithms-people-voting-dating.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-ai-algorithms-people-voting-dating.amp"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/date.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1275
     isCached: true
 
-secured: "3h3RolPmXxHBGNMwGKHHwkwAxXMGI8JOY3RjO38QOczBp/T/HuVIijwJ2p4hDYmipUijoUaTvmmiqU2yxmCupzmfdSap6sUNq9dvvTnk6PwjBjBobU9UtvUaMJnmNYPu6gcN14cbQkVKYu4brX+NQExZr05A6b/PAPDTEVMDMPeu5fQWdCH2yFaAniKbmMG1dXoiq+2W0e6WYmpRgywVQBu7NnSc8Ol1urPMs6iTWqEJTDNo1hV/JabchqEYpKvNIArWt+XDc4TL5qfsvDUkQHXcutR9Vil7ZbJn8vr2cNZ0ig4NJtlF9EkKlJSziEVhpIMTV+KXwdIsKwwmT4zZh8BfmvaD4E0FzNDxCZbY1Vo=;hPsodpO0swNYy+YvCqhYew=="
+secured: "IBA/8Jw9DYcHyiA0zOQWb8SVmjtCgYEmtbx71Q5xBPvu/NjxnmF6iIMpgWaL1TeLTJLeDIizjuRxqmOQQRo3k+TmW6Wr33fp1stBQ5ZBnrPT+ih2zd/9WH51bH4c7r+1auwCCYIJ4aXROmumEkpX9BUjeQfuChGZ91ddLiymdZZ4yGOJpvflUS/E03JyI6zCij4CBj0vO7GwFO4ZC0U/QsQlm28N5tpInMmJl274857cW/wNIztdXBI5DqA7VDXf8tULmUJFukLJ+EFIgzldF2um3OoqwB9YxfWuvvK+lMHYjy5oF8kcp3V1B30Og1i34RmRKXZGd9K4W1ufAc/GmtgbkgZCWBNpXyDvTheEtmp045BtMMvk39QIYNWAxqJrl+3d1tbwU5rH7SYLLCODTlX2sLGqhYZmj//4CPQ3yIIgqUqC8zYGa1x2TryHKyWHzO5vWRaRoHm74kt03RJwijO2EgqGxh6kFS48YBZJDAKkoMKsl3yLFEyY80JELKcU8UIQsf+DUuXo1sFUHpWY+w==;XbV+B/478dq8j+RnWZrQHg=="
 ---
 

@@ -193,6 +193,36 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "EU proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
+    publishedDateTime: 2021-04-21T17:38:00Z
+    webUrl: "https://www.chron.com/business/article/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "EU’s Proposed AI Rules Add Compliance Burden for Business Use of Facial-Recognition Technology"
+    excerpt: "European Union regulations for how businesses can use facial-recognition technology proposed Wednesday would carry bigger fines than those permitted by the bloc’s existing privacy laws."
+    publishedDateTime: 2021-04-21T21:09:00Z
+    webUrl: "https://www.wsj.com/articles/eus-proposed-ai-rules-add-compliance-burden-for-business-use-of-facial-recognition-technology-11619042982"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
+    images:
+      - url: "https://images.wsj.net/im-328370/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "State panel studies use of facial recognition"
     excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
     publishedDateTime: 2021-04-19T09:55:00Z

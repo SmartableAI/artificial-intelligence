@@ -187,6 +187,36 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "EU proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
+    publishedDateTime: 2021-04-21T17:38:00Z
+    webUrl: "https://www.chron.com/business/article/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "EU’s Proposed AI Rules Add Compliance Burden for Business Use of Facial-Recognition Technology"
+    excerpt: "European Union regulations for how businesses can use facial-recognition technology proposed Wednesday would carry bigger fines than those permitted by the bloc’s existing privacy laws."
+    publishedDateTime: 2021-04-21T21:09:00Z
+    webUrl: "https://www.wsj.com/articles/eus-proposed-ai-rules-add-compliance-burden-for-business-use-of-facial-recognition-technology-11619042982"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
+    images:
+      - url: "https://images.wsj.net/im-328370/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "State panel studies use of facial recognition"
     excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
     publishedDateTime: 2021-04-19T09:55:00Z
@@ -241,6 +271,6 @@ related:
       domain: cnbctv18.com
     quality: 22
 
-secured: "HE7Nuva4K5YwgjjjPKOG6CHV4FsRal41p2eS+lyCmsuuR/XC34dbYM0fOsFaeXvprtANWe6dncMKalZjBJ1+T3Mvt02p2BuaruF5nYct/G87rvS+1xBqBixNOJxBIxremglNhYpXfxchyNnxZwgwnRDLrr6/OIe69Y5ntktDmCSZcPFmWHIs2FYCUY7GDHksR//PF852ZZPuEWmwWbp/w1XrsqK8xnGbx11vAMJi+d8GlMVYSCMYMu2h16+GTHy8/toJgDFvM6N+goq4+LBe6NJ64uHy0K7U5dtPruKcDC5dlJIXLeeCGPdwsZPhAJxkbLnxOdiv7LXybDWqlEA/uX8DsulfMnqCeJmWZdYDhf0=;zOlCAJF8dtVRHLcR2VSLtg=="
+secured: "gkeDOGPYFeATtBV0uEOwkF5XWl11K9rjf4miYTpZC7TiaBzQn7A4bB9sR3LZpx+aSE0S+m1fz7UkKRenX1PWNjIUvWjvoUiiNf1tSgMLdIE8tcdKtxG36rebJ0Rwqz2/wDk+/rJNu0n0Hqw7mJvooh3RKv0ol0ZA6MAu4Sr7eiYuP7at75O9BIWcQaRPVH1NtuA2akGAgQdbODksAsBaIHLP6gAL3c5WZLqL6JIp/mKIM9uIKZZJ2fZFCAuzIxoIjK13IJJb/O+mbepuCdiOhbsoe/vaM5D8v6b/zIaRoev6GK+bI5ihWxxNmBCz1Cw343O4cppsfvenHUJjiiUiUHRtSmfzCPVxbNcZB7wMj2M=;PbQmd7dh9Rq9Fy2uCTXm/A=="
 ---
 

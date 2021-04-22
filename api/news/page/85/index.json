@@ -2,6 +2,290 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2021-02-17-the-ai-driven-platform-powering-the-future-of-fresh-food.md",
+      "title": "The AI-Driven Platform Powering The Future Of Fresh Food",
+      "excerpt": "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
+      "originalUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-lumiata-partners-with-ascendio-to-offer-data-preparation-for-healthcare-customers-on-aws-and-azure.md",
+      "title": "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure",
+      "excerpt": "The Ascend platform easily fits into any data ecosystem, providing a unified fabric for companies to run their businesses in any environment",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-top-questions-to-ask-ai-vendors-in-2021.md",
+      "title": "Top Questions To Ask AI Vendors In 2021",
+      "excerpt": "AI advancements. To name a few: OpenAI released GPT-3, the most advanced conversational AI model yet; Google's DeepMind solved a 50-year-old protein folding problem; and MIT built an algorithm that can detect asymptomatic Covid-19 cases from the sound of a patient's cough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5c7563f8718db968cbc63%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
+      "publishedDateTime": "2021-02-17T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-when-should-you-use-ai-to-solve-problems.md",
+      "title": "When Should You Use AI to Solve Problems?",
+      "excerpt": "AI won’t supplant intuitive decision-making any time soon. But executives will need to disrupt their own decision-making styles to fully exploit AI’s capabilities. They will have to temper their convictions with data,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
+      "originalUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/02/Feb21_17_1255056887-3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "publishedDateTime": "2021-02-17T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power.md",
+      "title": "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power",
+      "excerpt": "PIM’ will deliver over twice the system performance and reduce energy consumption",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-deep-learning-may-help-doctors-choose-better-lung-cancer-treatments.md",
+      "title": "Deep learning may help doctors choose better lung cancer treatments",
+      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg",
+          "width": 730,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
+      "publishedDateTime": "2021-02-17T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-recogni-raises-489-million-for-ai-powered-perception-chips.md",
       "title": "Recogni raises $48.9 million for AI-powered perception chips",
       "excerpt": "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital.",
@@ -941,271 +1225,6 @@
         "AWS AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-botz-the-future-is-autonomous.md",
-      "title": "BOTZ: The Future Is Autonomous",
-      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) offers an attractive opportunity to invest in artificial intelligence (AI) and robots while simultaneously diversifying risk.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4406548-botz-globalx-robotics-artificial-intelligence-etf-future-is-autonomous",
-      "originalUrl": "https://seekingalpha.com/article/4406548-botz-globalx-robotics-artificial-intelligence-etf-future-is-autonomous",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.seekingalpha.com/uploads/2021/2/15/52891509-16133782584579396_origin.png",
-          "width": 753,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4406548-botz-globalx-robotics-artificial-intelligence-etf-future-is-autonomous",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4406548-botz-globalx-robotics-artificial-intelligence-etf-future-is-autonomous",
-      "publishedDateTime": "2021-02-16T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
-      "title": "Samsung develops AI processor-embedded memory chip",
-      "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "originalUrl": "https://www.techradar.com/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
-      "publishedDateTime": "2021-02-16T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
-      "title": "What CIOs need to know about adding AI to their processes",
-      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward. How AI can help take companies to the next level in 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "originalUrl": "https://www.techrepublic.com/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "publishedDateTime": "2021-02-16T20:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The Voice Recognition Market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697414",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697414",
-      "publishedDateTime": "2021-02-16T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697382",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697382",
-      "publishedDateTime": "2021-02-16T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-this-ai-reads-childrens-emotions-as-they-learn.md",
-      "title": "This AI reads children's emotions as they learn",
-      "excerpt": "A Hong Kong company has developed facial expression-reading AI that monitors students' emotions as they study. With many children currently learning from home, they say the technology could make the virtual classroom even better than the real thing.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215012844-emotion-recognition-ai-4-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "publishedDateTime": "2021-02-16T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

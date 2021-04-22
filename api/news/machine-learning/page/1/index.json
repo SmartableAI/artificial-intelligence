@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-adversarial-machine-learning-the-underrated-threat-of-data-poisoning.md",
+      "title": "Adversarial machine learning: The underrated threat of data poisoning",
+      "excerpt": "Researchers warn machine learning models are vulnerable to data poisoning, which can result in poor decisions based on faulty outputs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
+      "originalUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
+      "publishedDateTime": "2021-04-21T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-european-commission-proposes-taking-away-the-cops-big-boy-surveillance-machine.md",
+      "title": "European Commission Proposes Taking Away the Cops' Big Boy Surveillance Machine",
+      "excerpt": "The EU is giving the U.S. a run for its money with privacy regulation, and now they’ve upped the ante with a dynamo of a proposal: banishing AI systems that violate “fundamental rights,” with a special place in hell for law enforcement using real-time biometric identification.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
+      "originalUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/p7fpizzjv7pf2vkzxtjk.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
+      "publishedDateTime": "2021-04-21T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
+      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
+      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-gpu-for-deep-learning-market-2021-global-insights-and-business-scenario-forecast-to-2027.md",
       "title": "GPU for Deep Learning Market 2021 Global Insights and Business Scenario forecast to 2027",
       "excerpt": "The analysis of the global GPU for Deep Learning Market includes the most recent market developments as well as the factors and parameters that influence it in both the short and long term The study provides a comprehensive analysis highlighting",
@@ -150,7 +306,7 @@
       "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -326,7 +482,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/19/12-expert-tips-to-help-small-businesses-affordably-leverage-aiml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -654,22 +810,31 @@
       "title": "Gurobi Teams Up With Lityx To Accelerate The Adoption Of Mathematical Optimization Across The Enterprise",
       "excerpt": "This combination of Lityx’s user-friendly, cutting-edge AutoML platform with Gurobi’s best-of-breed solver will give users across the enterprise (including data scientists and business ...",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html",
-      "originalUrl": "https://www.oaoa.com/news/business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_3788d357-343c-57ef-9b6a-9d9a2592c8fd.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_51f1e4a0-7f35-50f1-bb86-df59c14a0bec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/gurobi-teams-up-with-lityx-to-accelerate-the-adoption-of-mathematical-optimization-across-the-enterprise/article_51f1e4a0-7f35-50f1-bb86-df59c14a0bec.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T08:37:00-07:00",
+      "publishedDateTime": "2021-04-15T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,147 +1412,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se.md",
-      "title": "Machine Learning in IoT Market to Witness Remarkable Growth by 2025 | Microsoft, IBM, SAP SE",
-      "excerpt": "A new business intelligence report released by Advance Market Analytics with title Global Machine Learning in IoT Market Insights, forecast to 2025.This report provides a detailed overview of key factors in the Global Machine Learning in IoT Market and factors such as driver,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-iot-market-to-witness-remarkable-growth-by-2025-microsoft-ibm-sap-se-2021-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-11T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-are-tech-schools-in-india-preparing-students-for-the-aiml-age.md",
-      "title": "Are tech schools in India preparing students for the AI/ML age?",
-      "excerpt": "AI/ML, in Dave’s view, will permeate every field in the years ... That’s actually how I got into machine learning because with the improvement in chips in the early 2000s, we started not being able to keep up with the data we were getting on our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age-11618134198731.html",
-      "originalUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age-11618134198731.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/04/11/600x338/AI-kkGH--621x414@LiveMint_1618138433912.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age/amp-11618134198731.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/are-tech-schools-in-india-preparing-students-for-the-ai-ml-age/amp-11618134198731.html",
-      "publishedDateTime": "2021-04-11T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-11-review-aws-ai-and-machine-learning-stacks-up.md",
-      "title": "Review: AWS AI and Machine Learning stacks up",
-      "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivalling Google Cloud and Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/686507/review-aws-ai-machine-learning-stacks-up/",
-      "originalUrl": "https://www.reseller.co.nz/article/686507/review-aws-ai-machine-learning-stacks-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_website_crop.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-11T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

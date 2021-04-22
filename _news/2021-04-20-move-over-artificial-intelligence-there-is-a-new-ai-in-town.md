@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-arti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/"
 type: article
 quality: 102
-heat: 113
+heat: 112
 published: true
 
 provider:

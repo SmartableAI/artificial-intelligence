@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -128,6 +128,17 @@ related:
         width: 300
         height: 230
         isCached: true
+  - title: "Europe proposes strict regulation of artificial intelligence"
+    excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"
+    publishedDateTime: 2021-04-21T23:03:00Z
+    webUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/"
+    ampWebUrl: "https://www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/europe-proposes-strict-regulation-of-artificial-intelligence/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "EU outlines ambitious AI regulations focused on risky uses"
     excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
     publishedDateTime: 2021-04-21T15:31:00Z

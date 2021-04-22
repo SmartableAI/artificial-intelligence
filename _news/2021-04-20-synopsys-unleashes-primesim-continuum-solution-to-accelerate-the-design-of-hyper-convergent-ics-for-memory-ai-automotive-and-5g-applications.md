@@ -37,7 +37,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 29
+    quality: 31
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/262741_web.jpg"
         width: 1440

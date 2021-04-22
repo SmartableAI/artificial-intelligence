@@ -2,6 +2,290 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
+      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific's Plexus software stack is being used by AiDANT to reduce the time needed for their AI models to get up and running by 75%. \"Many people are skeptical when they consider the use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301255815.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service-301255815.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg?p=facebook",
+          "width": 648,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-what-ai-can-teach-us-about-the-myth-of-human-genius.md",
+      "title": "What AI Can Teach Us About the Myth of Human Genius",
+      "excerpt": "Because AI does see things in a different way.” Ishiguro’s book is fiction, but his suggestion that a new type of literature may be on the horizon is not. In May 2020, the San Francisco–based start-up OpenAI first publicly described its new language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/culture/archive/2021/03/pharmako-ai-possibilities-machine-creativity/618435/",
+      "originalUrl": "https://www.theatlantic.com/culture/archive/2021/03/pharmako-ai-possibilities-machine-creativity/618435/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/ryxu-3iYfhjc_LuPMChBvOlPbb4=/0x63:2000x1188/570x321/media/img/mt/2021/03/AI_Books/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/618435/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618435/",
+      "publishedDateTime": "2021-03-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-ai-can-be-dangerous-how-to-reduce-risk-when-using-ai.md",
+      "title": "AI Can Be Dangerous - How To Reduce Risk When Using AI",
+      "excerpt": "AI has the potential to be dangerous. As a result, we need to create ways to manage the risk presented by AI-based systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f79eaad8970188040f338%2F0x0.jpg",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
+      "publishedDateTime": "2021-03-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-robots-not-ready-to-clean-the-bathroom.md",
+      "title": "Robots not ready to clean the bathroom",
+      "excerpt": "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks. Last month, Boston Dynamics showed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business",
+      "originalUrl": "https://www.arkansasonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197767613_1G2robots0328_t600.jpeg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-28T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-an-arduino-with-better-speech-recognition-than-siri.md",
+      "title": "An Arduino With Better Speech Recognition Than Siri",
+      "excerpt": "The lowly Arduino, an 8-bit AVR microcontroller with a pitiful amount of RAM, terribly small Flash storage space, and effectively no peripherals to speak of, has better speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "originalUrl": "https://hackaday.com/2013/12/31/an-arduino-with-better-speech-recognition-than-siri/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.youtube.com/vi/xpJXD2z8eWs/0.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
       "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
@@ -897,290 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-of-industry-partnerships.md",
-      "title": "Broad Institute launches $300M Schmidt Center to merge AI, biology and a slew of industry partnerships",
-      "excerpt": "DeepMind, Google Research and Microsoft. “Learning the programs of life will require new and collaborative approaches to creating data platforms, analytical tools and biotechnologies,” Philippakis said. “By bringing them together, we can nucleate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "originalUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1616769970/Broad08-017.png/Broad08-017.png?whguB914xejZxPvx93rU79qUiLEAa93q",
-          "width": 2210,
-          "height": 1244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-ai-could-make-the-new-nintendo-switch-a-powerhouse-overnight.md",
-      "title": "How AI could make the new Nintendo Switch a powerhouse overnight",
-      "excerpt": "The AI-driven feature that’s used in Nvidia’s RTX-series graphics cards and possibly the new Switch You’ve probably seen the acronym “DLSS” appearing in more gaming and tech stories recently. You might know that it’s an Nvidia graphics thing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "originalUrl": "https://www.theverge.com/2021/3/26/22348095/nintendo-switch-nvidia-dlss-graphics-ai-explained",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/QSmJqItREIvE1BPhcch_adVHDls=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19086567/akrales_190820_3597_0355.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-sage-buys-israeli-ai-firm-as-part-of-push-into-new-technologies.md",
-      "title": "Sage buys Israeli AI firm as part of push into new technologies",
-      "excerpt": "Sage said the deal for Task Sheriff, an AI-based software-as-a-service start-up based in Tel Aviv, would strengthen its the experience it offers to its customers as emerging and advanced technologies drive benefits for businesses. Task Sheriff automates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
-      "originalUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.chroniclelive.co.uk/incoming/article12461914.ece/ALTERNATES/s615/0_PNP_NEC_260914sage_010JPG.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
-      "publishedDateTime": "2021-03-26T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police.md",
-      "title": "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police",
-      "excerpt": "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "originalUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
-      "publishedDateTime": "2021-03-26T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aunalytics-launches-daybreak-for-financial-services.md",
-      "title": "Aunalytics launches Daybreak for Financial Services",
-      "excerpt": "Aunalytics, a data platform company delivering Insights-as-a-Service for enterprise businesses ... and employs artificial intelligence (AI) and machine learning (ML) driven analytics to glean customer intelligence and insights in focus from relevant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145979",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
-      "title": "How Yandex plans to expand its autonomous robot delivery service",
-      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
-      "publishedDateTime": "2021-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

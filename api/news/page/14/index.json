@@ -2,6 +2,292 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-09-accenture-ai-expert-on-how-first-principles-prevent-problems.md",
+      "title": "Accenture AI expert on how first principles prevent problems",
+      "excerpt": "Lucini: We all get very excited about AI, but it needs to run with the right kind of controls and ethics. Three years from now, you’re going to be in a land where there’s a model that connects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "originalUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/data-scientist-1-e1615473764839.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/09/accenture-ai-expert-on-how-first-principles-prevent-problems/amp/",
+      "publishedDateTime": "2021-04-09T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-elon-musks-neuralink-teases-brain-computer-tech-in-new-video.md",
+      "title": "Elon Musk's Neuralink teases brain-computer tech in new video",
+      "excerpt": "To illustrate the pace of progress in AI, the innovator — who believes that machine intelligence will eventually surpass human intelligence — pointed to breakthroughs made at research labs like OpenAI, which he co-founded, and DeepMind, a London AI lab ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/elon-musks-neuralink-teases-brain-computer-tech-new-video-rcna633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-04/908/210409-neuralink-al-0933-58df55_f967c620d1903fbec896ac9ef3a7d5607f26ca5f.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna633",
+      "publishedDateTime": "2021-04-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-dutch-ai-start-up-kimo-reinvents-online-learning.md",
+      "title": "Dutch AI start-up KIMO reinvents online learning",
+      "excerpt": "The World Economic Forum predicts that 50% of our global workforce needs reskilling in the coming decade. This prediction prompts the question of how effective our reskilling efforts are today and whether we can effectively apply those techniques on such a large scale.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/kimo/dutch-ai-start-up-kimo-reinvents-online-learning/",
+      "originalUrl": "https://techcrunch.com/sponsor/kimo/dutch-ai-start-up-kimo-reinvents-online-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Hosted-Article-Content-1-1024x683-2.png?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-biosig-invited-to-join-alliance-for-artificial-intelligence-in-healthcare-aaih.md",
+      "title": "BioSig Invited to Join Alliance for Artificial Intelligence in Healthcare (AAIH)",
+      "excerpt": "Global leaders, including Amazon, Bayer, and GE Healthcare, joined the AAIH to date to collaborate on developing novel solutions to improve the quality of care and reduce failure rates The Company recently launched a new AI program with the Mayo Foundation ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-connecticut-products-and-services-diagnosis-and-treatment-947b189cbf307a310800a299998549c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
+      "title": "In an AI world we need to teach students how to work with robot writers",
+      "excerpt": "The study of AI ethics needs to be central to education as we increasingly use machine-generated content to communicate with others. AI robot writers, such as GPT-3 (Generative Pre-trained Transformer) take seconds to create text that seems like it was ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "originalUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/inanaiworldw.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-ai-world-students-robot-writers.amp",
+      "publishedDateTime": "2021-04-09T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025.md",
+      "title": "UK AI in Manufacturing Market Size, Segmentation, Share, Forecast, Analysis, Industry Report to 2025",
+      "excerpt": "Furthermore, Chrysalix, a Canadian venture capital, announced in 2018 to open a European headquarters in UK and planned to invest more than $100 million in local start-ups specializing in AI and robotics. To Request a Sample of our Report on UK AI in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/uk-ai-in-manufacturing-market-size-segmentation-share-forecast-analysis-industry-report-to-2025-2021-04-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-nlpcloudio-helps-devs-add-language-processing-smarts-to-their-apps.md",
       "title": "NLPCloud.io helps devs add language processing smarts to their apps",
       "excerpt": "with a focus on natural language processing (NLP), as its name suggests. Developments in artificial intelligence have, in recent years, led to impressive advances in the field of NLP — a ...",
@@ -938,297 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mlops-startup-comet-raises-13m-to-launch-model-monitoring-products.md",
-      "title": "MLOps startup Comet raises $13M to launch model monitoring products",
-      "excerpt": "MLOps startup Comet today announced that it raised ... (MPM), a product that enables organizations to track and monitor AI model quality. MLOps, or machine learning operations, encompasses the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
-      "originalUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/mlops-startup-comet-raises-13m-to-launch-model-monitoring-products/amp/",
-      "publishedDateTime": "2021-04-08T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-klevu-raises-12m-for-ai-that-personalizes-ecommerce-search.md",
-      "title": "Klevu raises $12M for AI that personalizes ecommerce search",
-      "excerpt": "Klevu, a startup developing products that leverage AI to optimize ecommerce discovery experiences, has raised $12 million,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
-      "originalUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/08/klevu-raises-12m-for-ai-that-personalizes-ecommerce-search/amp/",
-      "publishedDateTime": "2021-04-08T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-object-detection-with-detectron2-on-amazon-sagemaker.md",
-      "title": "Object detection with Detectron2 on Amazon SageMaker",
-      "excerpt": "Deep learning is at the forefront of most machine learning (ML) implementations across a broad set of business verticals. Driven by the highly flexible nature of neural networks, the boundary of what is possible has been pushed to a point where neural networks can outperform humans in a variety of tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-with-detectron2-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T10:03:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies.md",
-      "title": "CB Insights reveals 2021 cohort of 100 most-promising AI companies",
-      "excerpt": "One way to gauge the deployment of artificial intelligence in the marketplace is to track CB Insights' top 100 most-promising private AI companies to watch. The firm released its annual list this week, culled from over 6,000 companies. \"This year's cohort ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "originalUrl": "https://www.techrepublic.com/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/08/72f782b6-01c1-4475-985a-b1364e55e4ae/resize/1200x/f82f649b8dd9dadf1861a9a2e5fbb37a/ai-100-export-3000x2250-v4.jpg",
-          "width": 1200,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cb-insights-reveals-2021-cohort-of-100-most-promising-ai-companies/",
-      "publishedDateTime": "2021-04-08T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ai-helps-zap-mosquito-larvae-before-they-become-a-problem.md",
-      "title": "AI helps zap mosquito larvae before they become a problem",
-      "excerpt": "An Israeli startup with a unique solution for combating malaria is one of three finalists for the IBM Watson AI XPRIZE. The five-year global competition aims to demonstrate how humans can use powerful artificial intelligence technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "originalUrl": "https://fox11online.com/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox11online.com/resources/media/27865894-144f-4418-921e-a1cf03f9b238-medium16x9_SprayingmosquitolarvaeinGhana.ArbelVigodnyZZappMalaria.jpeg?1617898405947",
-          "width": 648,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "cdnAmpWebUrl": "https://fox11online-com.cdn.ampproject.org/c/s/fox11online.com/amp/news/offbeat/ai-helps-zap-mosquito-larvae-before-they-become-a-problem",
-      "publishedDateTime": "2021-04-08T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 11 News",
-        "domain": "fox11online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
-      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
-      "excerpt": "Powerful algorithms used by Netflix, Amazon and Facebook can 'predict' the biological language of cancer and neurodegenerative diseases like Alzheimer's, scientists have found.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/17-artificialin.jpg",
-          "width": 1440,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-language-cancer-alzheimer.amp",
-      "publishedDateTime": "2021-04-08T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

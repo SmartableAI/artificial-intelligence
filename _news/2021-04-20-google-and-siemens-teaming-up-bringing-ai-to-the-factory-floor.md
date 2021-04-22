@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-and-siemens-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regula
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "EU outlines ambitious AI regulations focused on risky uses"
+    excerpt: "The draft regulations from the EU's executive commission include rules for applications deemed high risk such as AI systems to filter out school, job or loan applicants. They would also ban artificial intelligence outright in a few cases considered too risky,"
+    publishedDateTime: 2021-04-21T21:14:00Z
+    webUrl: "https://www.chron.com/news/article/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "EU unveils artificial intelligence rules to temper Big Brother fears"
     excerpt: "The regulations are part of the bloc's effort to catch up with the US and China.. Read more at straitstimes.com."

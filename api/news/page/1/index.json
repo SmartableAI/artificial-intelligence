@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-22-adversarial-machine-learning-the-underrated-threat-of-data-poisoning.md",
+      "title": "Adversarial machine learning: The underrated threat of data poisoning",
+      "excerpt": "Researchers warn machine learning models are vulnerable to data poisoning, which can result in poor decisions based on faulty outputs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
+      "originalUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
+      "publishedDateTime": "2021-04-21T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-european-commission-proposes-taking-away-the-cops-big-boy-surveillance-machine.md",
+      "title": "European Commission Proposes Taking Away the Cops' Big Boy Surveillance Machine",
+      "excerpt": "The EU is giving the U.S. a run for its money with privacy regulation, and now they’ve upped the ante with a dynamo of a proposal: banishing AI systems that violate “fundamental rights,” with a special place in hell for law enforcement using real-time biometric identification.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
+      "originalUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/p7fpizzjv7pf2vkzxtjk.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
+      "publishedDateTime": "2021-04-21T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-streaming-solutions-expand-to-assist-healthcare-providers.md",
+      "title": "Streaming Solutions Expand to Assist Healthcare Providers",
+      "excerpt": "NEW YORK, April 21, 2021 /PRNewswire/ -- The pandemic has had several major side effects on the healthcare industry, helping to accelerate the digitization of healthcare services across the board. Digital healthcare functions are largely based on the electronic health record (EHR),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028.md",
+      "title": "Artificial Intelligence (AI) & advanced Machine Learning (ML) Market Size, Share, Development Analysis, Progression Status by 2028",
+      "excerpt": "The global Artificial Intelligence (AI) & advanced Machine Learning (ML) market size is expected to reach USD 471.39 Billion at a steady CAGR of 35.2% in 2028, according to latest analysis by Emergen Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-advanced-machine-learning-ml-market-size-share-development-analysis-progression-status-by-2028-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-blockchain-startup-digital-asset-nabs-120m-to-knock-down-data-silos.md",
       "title": "Blockchain startup Digital Asset nabs $120M to knock down data silos",
       "excerpt": "Digital Asset, a company developing tools to enable enterprises to take advantage of digital ledgers, has raised $120 million.",
@@ -53,6 +261,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
+      "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
+      "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
       "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
       "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
@@ -61,7 +321,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -105,7 +365,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -148,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -337,7 +597,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -440,7 +700,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -587,7 +847,7 @@
       "originalUrl": "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -792,7 +1052,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/21/marketing-automation-startup-activecampaign-raises-240m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -896,7 +1156,7 @@
       "originalUrl": "https://www.iflscience.com/editors-blog/master-the-science-of-machine-learning-with-these-training-classes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -972,250 +1232,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal.md",
-      "title": "Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal",
-      "excerpt": "The European Union’s executive arm proposed a bill that would limit police use of facial-recognition software in public and ban the marketing or use of certain kinds of AI systems, in one of the broadest efforts yet to regulate high-stakes applications of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-327981/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520",
-      "publishedDateTime": "2021-04-21T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-britains-driverless-car-ambitions-hit-speed-bump-with-insurers.md",
-      "title": "Britain's driverless car ambitions hit speed bump with insurers",
-      "excerpt": "Britain's goal to be a leader in adopting self-driving cars could backfire unless automakers and government regulators spell out the current limitations of the technology, insurance companies warn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4",
-      "originalUrl": "https://www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4?amp",
-      "publishedDateTime": "2021-04-21T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding.md",
-      "title": "Orca AI, which puts computer vision onto cargo ships, raises $13M Series A funding",
-      "excerpt": "Tel Aviv’s Orca AI, a computer vision startup that can be retrofitted to cargo ships and improve navigation and collision avoidance, has raised $13 million in a Series A funding, taking its total raised to over $15.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
-      "originalUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/yarden-7089.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/",
-      "publishedDateTime": "2021-04-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-twitter-to-analyze-the-harmful-impact-of-its-ai-ml-algorithms.md",
-      "title": "Twitter to analyze the harmful impact of its AI, ML algorithms",
-      "excerpt": "Twitter’s new initiative, Responsible Machine Learning, is in a bid to assess gender and racial bias in its AI and ML algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/",
-      "originalUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2017/02/twitter-dice.jpg",
-          "width": 385,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/twitter-analyze-harmful-impact-ai-ml-algorithms/amp/",
-      "publishedDateTime": "2021-04-21T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
-      "title": "Europe proposes strict regulation of artificial intelligence.",
-      "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
-      "publishedDateTime": "2021-04-20T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

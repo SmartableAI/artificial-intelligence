@@ -2,6 +2,290 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-04-07-whats-next-in-ai-assisted-governance-risk-and-compliance.md",
+      "title": "What’s next in AI-assisted governance, risk and compliance",
+      "excerpt": "“You need a technology plan that’s aligned with your risk and compliance objectives,” says Heather Gentile, Head of RegTech Offerings, Data and AI at IBM. In an episode of the executive video series “Compliance Over Coffee,” Gentile and Brian Clark, co-founder of regulatory knowledge platform Ascent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ai-governance-risk-compliance-whats-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-76_Compliance-Over-Coffee-Leadspace_Final.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-acorns-new-fintech-target-is-debt-management-with-acquisition-of-pillar.md",
+      "title": "Acorns’ new fintech target is debt management with acquisition of Pillar",
+      "excerpt": "Popular saving and investing app Acorns has acquired Pillar, an AI-powered startup built to help ... have a lot of interest from many of the top fintech companies that are out there,” Bloch ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Header-Image-3-2.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/acorns-scoops-up-pillar-a-fintech-backed-by-kleiner-perkins/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock.md",
+      "title": "Singapore-based retail analytics company Trax raises $640M Series E led by SoftBank Vision Fund 2 and BlackRock",
+      "excerpt": "The Singapore-based company announced today that it has raised $640 million in Series E funding to expand its products, which combine computer vision and cloud-based software to help brick-and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
+      "originalUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Joel-Bar-El-Justin-Behar-Dror-Feldheim-1.jpg",
+          "width": 4724,
+          "height": 2969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-synthesis-ai-emerges-from-stealth-with-45m-to-create-synthetic-face-datasets.md",
+      "title": "Synthesis AI emerges from stealth with $4.5M to create synthetic face datasets",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for free or grab a discounted VIP pass today. Synthesis AI, a synthetic data company, today emerged from stealth with the announcement that it ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth-with-4-5m-to-create-synthetic-face-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth-with-4-5m-to-create-synthetic-face-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth-with-4-5m-to-create-synthetic-face-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/07/synthesis-ai-emerges-from-stealth-with-4-5m-to-create-synthetic-face-datasets/amp/",
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-trax-secures-640-million-funding-round-led-by-softbank-vision-fund-2-and-blackrock-to-transform-retail-through-digital-technologies.md",
+      "title": "Trax Secures $640 Million Funding Round Led by SoftBank Vision Fund 2 and BlackRock to Transform Retail Through Digital Technologies",
+      "excerpt": "Trax, a leading computer vision company transforming brick-and-mortar retail, has secured $640 million in a Series E financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "originalUrl": "https://www.businesswire.com/news/home/20210407005100/en/Trax-Secures-640-Million-Funding-Round-Led-by-SoftBank-Vision-Fund-2-and-BlackRock-to-Transform-Retail-Through-Digital-Technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo.md",
+      "title": "Self-driving truck startup TuSimple eyes over $8 billion valuation in U.S. IPO",
+      "excerpt": "Self-driving truck startup TuSimple Holdings Inc said on Wednesday it was targeting a valuation of more than $8 billion in its U.S. initial public offering (IPO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4",
+      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-tusimple-eyes-over-8-billion-valuation-in-us-ipo-2021-4?amp",
+      "publishedDateTime": "2021-04-07T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-aiden-pioneers-ai-driven-natural-language-processing-and-unprecedented-automation-for-microsoft-windows-endpoint-management.md",
       "title": "Aiden Pioneers AI-Driven Natural Language Processing and Unprecedented Automation for Microsoft Windows Endpoint Management",
       "excerpt": "Aiden launched today unveiling its DevOps for Windows service to automate enterprise endpoint management. As large organizations confront lingering vulnerabilities that require patching",
@@ -673,49 +957,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-07-top-20-data-science-and-machine-learning-platforms-gartner.md",
-      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
-      "excerpt": "The platform has an expanded suite of components that includes Cloud Data Fusion, Cloud AutoML, BigQuery ML, AI Platform Notebooks and TensorFlow. Google is set to launch its new unified AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
-          "width": 609,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-07-huawei-deactivates-ai-and-cloud-business-group-in-restructuring.md",
       "title": "Huawei deactivates AI and cloud business group in restructuring",
       "excerpt": "Chinese telecom giant Huawei Technologies is closing its core cloud and artificial intelligence business group after only 14 months, reflecting the company's difficulty in transforming from device-maker to service provider.",
@@ -866,6 +1107,50 @@
       ]
     },
     {
+      "path": "_news/2021-04-07-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-artificial-intelligence-in-air-combat-indian-air-force-leads-the-defense-initiative.md",
       "title": "Artificial Intelligence in air combat: Indian Air Force leads the defense initiative",
       "excerpt": "In the recently held symposium on AI for Air Warriors in New Delhi, the Indian Air Force's (IAF) Air Chief Marshal RKS Bhadauria's statement reflected the high level of professional approach being taken by IAF in implementing the Artificial Intelligence ...",
@@ -905,293 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email.md",
-      "title": "Google’s senior AI scientist resigns after colleagues' firing, reveals email",
-      "excerpt": "Though at least two Google engineers had earlier resigned to protest the dismissal of artificial intelligence (AI) researcher Timnit Gebru, Bengio is the highest-profile employee yet to depart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/articleshow/81943843.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-81943843,width-800,resizemode-4/81943843.jpg",
-          "width": 800,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/googles-senior-ai-scientist-resigns-after-colleagues-firing-reveals-email/amp_articleshow/81943843.cms",
-      "publishedDateTime": "2021-04-06T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-google-ai-scientist-bengio-resigns-after-colleagues-firings-email.md",
-      "title": "Google AI scientist Bengio resigns after colleagues' firings: email",
-      "excerpt": "Google research manager Samy Bengio said on Tuesday he was resigning, according to an internal email seen by Reuters, in a blow to the Alphabet Inc unit after the firings of his colleagues who questioned paper review and diversity practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
-      "originalUrl": "https://www.reuters.com/article/us-alphabet-google-research-bengio-idUSKBN2BT2JT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210406&t=2&i=1557499859&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH351AC",
-          "width": 811,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BT2JT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BT2JT",
-      "publishedDateTime": "2021-04-06T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-report-clearview-ais-facial-recognition-has-been-used-by-over-1800-public-agencies.md",
-      "title": "Report: Clearview AI's Facial Recognition Has Been Used by Over 1,800 Public Agencies",
-      "excerpt": "A new series of reports from BuzzFeed News shows the wide net cast by shadowy surveillance firm Clearview AI. Individuals at 1,803 public agencies—many of which are police departments—have used its fa",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
-      "originalUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/eoxqcr0bzsiqulhufq2l.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/report-clearview-ais-facial-recognition-has-been-used-1846628884/amp",
-      "publishedDateTime": "2021-04-06T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-altopack-and-halodi-robotics-to-develop-packaging-robot.md",
-      "title": "Altopack and Halodi Robotics to Develop Packaging Robot",
-      "excerpt": "Norwegian robot developer Halodi Robotics has entered into a partnership with the Italian packaging company Altopack to co-develop Altopack Packaging Robot. The humanoid robot will be",
-      "sourceUrl": null,
-      "webUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/",
-      "originalUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/04/2020_12_11-Piras_Eve_Vezzani-in-Altopack-892x1024.jpg",
-          "width": 892,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/amp/",
-      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/04/altopack-and-halodi-robotics-to-develop-packaging-robot/amp/",
-      "publishedDateTime": "2021-04-06T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "foodindustryexecutive",
-        "domain": "foodindustryexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-how-digital-transformation-is-helping-you-pay-your-mortgage.md",
-      "title": "How Digital Transformation Is Helping You Pay Your Mortgage",
-      "excerpt": "Utilizing artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) on the petabytes of data created with each customer touchpoint through various channels, be it the mobile application, written correspondence, website ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d02416c91f5c406a44d7a%2F0x0.jpg",
-          "width": 526,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/04/06/how-digital-transformation-is-helping-you-pay-your-mortgage/amp/",
-      "publishedDateTime": "2021-04-06T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-assessing-the-potential-for-deep-learning-and-computer-vision-to-identify-bumble-bee-species-from-images.md",
-      "title": "Assessing the potential for deep learning and computer vision to identify bumble bee species from images",
-      "excerpt": "However, deep learning and computer vision are providing ways to open this methodological bottleneck through automated identification from images. Focusing on bumble bees, we compare four convolutional neural network classification models to evaluate prediction speed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-87210-1",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-87210-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87210-1/MediaObjects/41598_2021_87210_Fig1_HTML.jpg",
-          "width": 452,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

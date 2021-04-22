@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-21T04:00:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/uot-aca042121.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uot-aca042121.php"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/262741_web.jpg"
@@ -40,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "OCkwPJ3nKHm7F/dceCafl/cVvRHHr1d9w2SmyWEWrdgRULDFzFotREccNSu2B6WkhiqXjuQVd8nDdi/EsqVVw/rIe1d0YrIpAluFCMO8kwN3OnoIP/9Uh1tK+mCLqVS10b5tFGNqOBkHgM2F3bz4Kcd+Nc2b/cCUkvMIfVAxjDIqTyGIVq7y+oyzY36rwoHBgmpBcdLK8pXoBADiYTqutnhaRNKXo4Lx3u5aA2HsSYUqXXBu4n8TUEdc23Ddi3/rjna+iVsA+xAyirmQ/JBi+EcUQLX+5gGYU8dBoKOcfT8TuUnV+4nkefgzV3dt+AIpTHewGI1ALC5S+yoapL5UmdZFKCeqGVl1ekI12aGAH8I=;/wJ5o0Rsgz15iAwKY/8Q4g=="
+secured: "BupiELBp+PpU4MJ2t5u8qnul/T8BRGdywtfubwjz9fbZegVOmwB5rHwgmxSyrDmok79jD4He/lzOWU0Xm1a1AMC9KwqMzLkOqj7BulamgA3cAIetQ0NI4jronsRsdZ2JoGj2ksnnxM7oBRC5LsIBNJQKKaXzGytRyeidqRe+rfz/gChvS/d0h9Q49bhGw//IvR5tU8Uhf2GURDSsSr02YACnPW7FGmYNzNygRRglr92MQQZmviO+jZAOybZT4jn3nzQYyLOPWeyFGqdrVmroQ+MLwDCAiamPUjXBriYyvxiSKK5WfRKnk/y92c5khEAiPG9kdC9tw1ZzsmsNOVd13oCDOkdOp9wxBIpBpgJsY38LpabY6aIDBcNLz3jXuPdO2F7mnoX1Oiza/inluQEGhedqIaRU6+UaKvIJ4NcUrQE4ITFmzD7nYu37ntGmxM1i8ehlsQuOPgALHIzcUtw6TLG0EdYBEgXvcsBlu2MIcPtByO5efFzURCwkUcbtNLHLCAy2XxbHvXndM15Yowh/uA==;ArsadqhPaK/63jEYHQsgQw=="
 ---
 

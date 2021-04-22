@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-05-machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics.md",
+      "title": "Machine Vision: All Eyes Are On Machine Vision In Medical Diagnostics",
+      "excerpt": "Machine learning algorithms are vulnerable to cognitive and technical bias, especially when the image dataset is small or lacking diversity. Effective algorithms must be trained on large datasets and be diverse in race, gender and geography. Without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606777a29b21937828c0c223%2F0x0.jpg",
+          "width": 1200,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/05/machine-vision-all-eyes-are-on-machine-vision-in-medical-diagnostics/amp/",
+      "publishedDateTime": "2021-04-05T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028.md",
+      "title": "Deep Learning Chip Market Share,Industry Growth, Trend, Statistics, Drivers, Demand, Key Companies by 2028",
+      "excerpt": "Apr 05, 2021 (Market Insight Reports) -- Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth. The global deep learning chip market is expected to reach a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-shareindustry-growth-trend-statistics-drivers-demand-key-companies-by-2028-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-04-05-global-cloud-ai-developer-services-market-2021-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026.md",
+      "title": "Global Cloud AI Developer Services Market 2021 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026",
+      "excerpt": "MarketandResearch.biz has published a report titled Global Cloud AI Developer Services Market Growth (Status and Outlook) 2021-2026 that supplies an in-depth overview of the market with the help of market-related details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-developer-services-market-2021-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2021-04-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-ai-developer-services-market-2021-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2021-04-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-04T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-insomniac-may-be-using-sony-ai-machine-learning-for-spider-man-on-ps5.md",
       "title": "Insomniac may be using Sony AI machine learning for Spider-Man on PS5",
       "excerpt": "Insomniac Games confirms the PS5 is capable of machine learning, and it could be working with Sony's AI divisions on new tech.",
@@ -1296,145 +1453,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis.md",
-      "title": "Amazon's new machine learning tool will help businesses spot flagging KPIs",
-      "excerpt": "Lookout for Metrics is a fully-managed machine learning tool for monitoring business metrics and tackling dips in business performance. Lookout for Metrics identifies unexpected changes in data that might indicate critical performance issues Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
-      "originalUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/01/27/f524b8d4-9104-449a-b199-d7e9396df797/resize/1200x/d776754e229fc11435f9be597d33bd78/istock-670517478.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
-      "publishedDateTime": "2021-03-26T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
-      "title": "AWS launches machine learning service to monitor business performance",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "publishedDateTime": "2021-03-26T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-lightning-to-lightbulb-accelerating-canadas-ai-opportunity.md",
-      "title": "Lightning to lightbulb: accelerating Canada’s AI opportunity",
-      "excerpt": "From quantum neural networks and automated machine learning (AutoML), to AI for drug discovery and natural language processing, the path to future innovations and commercialization is charted by a small subset of the global technology talent pool ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/YNREtAct2uvFmaer5Dezrd-yiMg=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/X6IVKDUQCVEQXO2OXMQPBGZNQU.JPG",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/commentary/article-lightning-to-lightbulb-accelerating-canadas-ai-opportunity/",
-      "publishedDateTime": "2021-03-25T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

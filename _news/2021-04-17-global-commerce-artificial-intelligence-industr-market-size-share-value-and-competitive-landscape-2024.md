@@ -180,20 +180,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 25
-  - title: "Global Language Processing Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Trending Regions by 2027"
-    excerpt: "Apr 19, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" Global “Language Processing Market”"
-    publishedDateTime: 2021-04-19T07:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-language-processing-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-trending-regions-by-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Study: Global AI (Artificial Intelligence) in Environmental Protection Market 2020 Size, Growth Analysis Report, Forecast to 2026"
     excerpt: "Growing environmental concerns such as carbon emission air pollution and global warming have surged the need for shifting from conventional sources of energy to renewable sources of energy Human growing demand for resources is leading to land use changes depletion"
     publishedDateTime: 2021-04-19T10:17:00Z

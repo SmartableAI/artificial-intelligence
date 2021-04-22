@@ -62,15 +62,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 7
-  - title: "A Privacy-Preserving Federated Learning for Multiparty Data Sharing in Social IoTs"
-    excerpt: "As 5G and mobile computing are growing rapidly, deep learning services in the Social Computing and Social Internet of Things (IoT) have enriched our lives over the past few years. Mobile devices and IoT devices with computing capabilities can join social computing anytime and anywhere."
-    publishedDateTime: 2021-04-21T11:22:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9409743"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "l5QEFz+esNEI78q9bbFowVp8lJ9MIO17RHU2zOLtaAMPqH5R9jXHInzheMrrMWCXy4LmZiC3nyHHVuJ9GYDdWPX2WUoELvQaXDuWhJSVU75SZec89RDDtTKqOJQ213fL/Hf432H1RWCcrXzKDDOkR1Uj8Qe1ZyxHek0WHUrqhHsJCa4B5VFLL6IzjRQ7hxyYFlL2avzeSwt+bmMAY44rxs2IbMkKGPA8MQFwb+TOwY4kPUmYySswPGdFBHbzNvHiczI37MmXbuo1nS/32n3pl8j57YMHwNUH6yQe58Y/LX+EJfeCIldXZ4NBeUpBG6r3dVq3xPwHHz+a7tyCVag1n0Ta8y4Vtm6ATpnIDrmyc+c=;L262u+jM7Z59NtSriGzQMg=="
 ---

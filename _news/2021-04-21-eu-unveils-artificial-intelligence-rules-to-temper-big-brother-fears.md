@@ -56,6 +56,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "EU outlines ambitious AI regulations focused on risky uses"
+    excerpt: "The draft regulations from the EU's executive commission include rules for applications deemed high risk such as AI systems to filter out school, job or loan applicants. They would also ban artificial intelligence outright in a few cases considered too risky,"
+    publishedDateTime: 2021-04-21T21:14:00Z
+    webUrl: "https://www.chron.com/news/article/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EU-proposes-rules-for-high-risk-artificial-16117035.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "8BErC4h/PVqO4rhqJ9+zoE6z6ENxrJ10cVnFmJ5tEsid9BLGEXwxGET85TyiMg4H+axCMu3g9mRpZqrnSaZ5sJb/8k6HSxip3e3NrRxrfDmkQinfddAoC4d7g02KxluAPEfalh/Lfggx3+aV7CU1m/BJ8/yU0nkbeBrZ9SrZvSDW5s7kA65bZwt80i5mQ+2LC1GgqFUm3eWx0cibAaDUu5OibXWMXeK0RoowvUIReHRj5L/PXt6wjkj1oiIOBDE0LXJUn0YPJV2BZS2Mfn818vK5vvvdn9feW7/mGa4DiTeXDcLIAsCfsi8TDlngCsxhh11AHps4xz7K6yW099LtGgu3zCnYxU7ImK0yXXzuJyQ=;dhurlYaTlFimUNONqoZrhA=="
 ---
