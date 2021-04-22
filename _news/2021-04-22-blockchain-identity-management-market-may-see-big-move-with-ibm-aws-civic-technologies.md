@@ -30,13 +30,13 @@ images:
 
 related:
   - title: "Victory Square Technologies To Present At The H.C. Wainwright Cryptocurrency, Blockchain & FinTech Conference"
-    excerpt: "Victory Square Technologies Inc. (“Victory Square'' or the “Company”) (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health,"
-    publishedDateTime: 2021-04-21T13:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/victory-square-technologies-to-present-at-the-h-c-wainwright-cryptocurrency-blockchain-fintech-conference-1030328908"
+    excerpt: "Victory Square Technologies Inc., a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health, gaming, blockchain, AR/VR,"
+    publishedDateTime: 2021-04-21T13:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/victory-square-technologies-to-present-at-the-h.c.-wainwright-cryptocurrency"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 30
 
 secured: "pdSUCfi/tkc0Ua1RhlArVxUYjyRDJA/UeHNcjE0kbTdiE5U0rbBjVQLvwJR+Xf7YKoEMUFogsWGi5MUc67VcE4FJqXvzR0MY+X4/ocpgpbJ8GyBWnBkbDOZcsroJJ56rlGaQuoTAhpqGkMN/M7UpRR/Lx853V9+KKG4dtdhHjI7uKRvLtv1ohpq43efa3PEW6XeRuCO98SoWjsvccMAz11FpDSe2WYoqeFK7kvSBLDZF4+UE+RevIGtM9hIOleFc2S/9beNQkh2PJatEIPHSZHlwkrCtTgjbeV0TauljtSjCOONpAY13UJS3wDny1kdpHwXAtFickrR69QONchrtGmwfSmUGffWwKAiHR9odi4U=;xQJl0ZvInhpAN63QcYJ+xA=="

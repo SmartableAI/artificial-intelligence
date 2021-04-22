@@ -62,7 +62,7 @@
       "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -162,6 +162,59 @@
       ]
     },
     {
+      "path": "_news/2021-04-20-microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market.md",
+      "title": "Microsoft’s Acquisition Of Nuance Reaffirms Its Interest In Dominating The $11+ Trillion Healthcare Market",
+      "excerpt": "One of the largest global market sectors is healthcare, expected to be valued at more than $11 trillion by 2022. The growth in healthcare continues to be tremendous, especially as new innovation is increasingly being embraced by the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/",
+      "originalUrl": "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607e442c21370045d45f7edb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2392%26cropY1%3D3%26cropY2%3D1349",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/04/19/microsofts-acquisition-of-nuance-reaffirms-its-interest-in-dominating-the-11-trillion-healthcare-market/amp/",
+      "publishedDateTime": "2021-04-19T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-asia-pacific-artificial-intelligence-ai-in-healthcare-market.md",
       "title": "Asia Pacific Artificial Intelligence (AI) in Healthcare Market",
       "excerpt": "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and",
@@ -246,6 +299,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-global-artificial-intelligence-in-medical-imaging-market.md",
+      "title": "Global Artificial Intelligence in Medical Imaging Market",
+      "excerpt": "Added a New Report on Artificial intelligence in medical imaging Market Report the combination of best industry insight practical solutions talent solutions and latest technology have been used The market report is a comprehensive study of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "originalUrl": "https://www.openpr.com/news/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U415772049_g.jpg",
+          "width": 696,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270936/global-artificial-intelligence-in-medical-imaging-market",
+      "publishedDateTime": "2021-04-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1315,103 +1411,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
-      "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
-      "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "originalUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Derived-3D-Point-Clouds-for-Robotic-Vision-Training-777x454.jpg",
-          "width": 777,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-to-train-a-robot-using-artificial-intelligence-and-supercomputers/amp/",
-      "publishedDateTime": "2021-04-02T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-an-artificial-intelligence-tool-that-can-help-detect-melanoma.md",
-      "title": "An artificial intelligence tool that can help detect melanoma",
-      "excerpt": "An artificial intelligence system can efficiently detect melanoma, a type of skin cancer. MIT researchers used deep convolutional neural networks (DCNNs) to quickly analyze wide-field photos of patients’ bodies.",
-      "sourceUrl": null,
-      "webUrl": "https://stm.sciencemag.org/content/13/581/eabb3652.abstract",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-tool-can-help-detect-melanoma-0402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stm.sciencemag.org/content/13/581/eabb3652/F1.large.jpg",
-          "width": 1400,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-02T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     }
   ],

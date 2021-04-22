@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -127,6 +127,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/EU-flags-at-the-European-Commission-Berlaymont-building-guillaume-perigois-unsplash-300x230.jpg"
         width: 300
         height: 230
+        isCached: true
+  - title: "Minim and Irdeto Expand Trusted Home Platform in Europe, Deliver AI-Driven WiFi Security ..."
+    excerpt: "MANCHESTER, NH, April 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Zoom Telephonics Inc., doing business as “ Minim ” (OTCQB: MINM), the creator of innovative connectivity products, and Irdeto, the recognized leader in digital platform and cybersecurity,"
+    publishedDateTime: 2021-04-22T11:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-data-privacy-europe-4c4771d1eb52f47aaca37c0aaca51c10"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Europe proposes strict regulation of artificial intelligence"
     excerpt: "The European Union unveiled strict rules to govern the use of artificial intelligence, a first-of-its-kind policy that outlines how companies and governments can use a technology seen as a significant,"

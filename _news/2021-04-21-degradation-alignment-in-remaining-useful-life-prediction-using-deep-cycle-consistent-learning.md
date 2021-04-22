@@ -61,6 +61,15 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Real-Time Error Detection in Nonlinear Control Systems Using Machine Learning Assisted State-Space Encoding"
+    excerpt: "Successful deployment of autonomous systems in a wide range of societal applications depends on error-free operation of the underlying signal processing and control functions. Real-time error detection in nonlinear systems has mostly relied on redundancy at the component or algorithmic level causing expensive area and power overheads."
+    publishedDateTime: 2021-04-22T10:26:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/8658148"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 1
 
 secured: "wLbyMm/6lreSvc3Dk8HZEboNCCLkPQ91Y/R2N4qAzODZT9GAkk90Thv1K6hRMb1m2FjphBZ+gEgBBW7ZsAsIyGrLeq29F7lyGZL78LhlW+NjArqlxvSFLH+80bpbHIgUe9r5agcikugf4rd0yKJGihrUZuD1CgE5IAIJJ65n4356pOVyXvH2uLc7HMibWxZWwbJFzRFvtCvGRd8Mkf5rh3FNdnp1Dz+YAwHi9LOHqp7LvI7UwHDkLUJg2pVbwADiYAc3SXJppnLL7HnYLsiJSQWVv7sde/PX0cXW94abjs0qgluxpj4CYQgojDBjAWdAiQP3/6iG4bOH5fu/I1kAqTDMhpBeUqMqL6ICUIEWMws=;ryv+CxNTibDuhd1iXr//qA=="
 ---

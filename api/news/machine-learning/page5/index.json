@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-19-sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket.md",
+      "title": "SDSMT students use artificial intelligence, trying to pick perfect bracket",
+      "excerpt": "“The output of the neural network will predict how far a team will make it in ... where there’s a whole bunch of teams from around the Midwest area that are creating their own artificial intelligence and machine learning algorithms and competing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "originalUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kota-prod.cdn.arcpublishing.com/resizer/2bWT7mv88yOtN9iK5do5R5NJgrU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/H3OKFAFYNBEPHGPFPLVTQBQTEY.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOTA TV",
+        "domain": "kotatv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
+      "title": "Oracle is making its cloud databases easier to use",
+      "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "originalUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "publishedDateTime": "2021-03-18T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-oracle-brings-autonomous-data-warehouse-to-the-rest-of-us.md",
       "title": "Oracle brings Autonomous Data Warehouse to the rest of us",
       "excerpt": "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery.",
@@ -1323,111 +1418,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
-      "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
-      "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "originalUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-12-image-13.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "publishedDateTime": "2021-03-12T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-intel-works-with-deci-to-speed-up-machine-learning-on-its-chips.md",
-      "title": "Intel works with Deci to speed up machine learning on its chips",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more ... enable machine learning “at scale” on Intel chips, potentially enabling new applications of inference ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/amp/",
-      "publishedDateTime": "2021-03-11T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

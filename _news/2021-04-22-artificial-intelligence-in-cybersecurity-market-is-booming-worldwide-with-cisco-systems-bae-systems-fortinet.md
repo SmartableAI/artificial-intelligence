@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct’s neural networks for cybersecurity attract $110M"
+    excerpt: "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models."
+    publishedDateTime: 2021-04-22T11:43:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all"
+        width: 1200
+        height: 814
+        isCached: true
   - title: "Role of artificial intelligence in boosting organizations’ cybersecurity"
     excerpt: "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response"
     publishedDateTime: 2021-04-19T10:37:00Z

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
+      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
+          "width": 900,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale.md",
       "title": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
       "excerpt": "In official correspondence with California’s Department of Motor Vehicles, Tesla lawyers recently admitted the $10,000 option that Tesla sells as Full Self-Driving Capability is not, in fact ...",
@@ -1328,40 +1371,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript.md",
-      "title": "Ambarella, Inc. (AMBA) CEO Fermi Wang on Q4 2021 Results - Earnings Call Transcript",
-      "excerpt": "At the beginning of the year, we introduced our CV5 and artificial intelligence ... a global leader in driverless technology, has selected Ambarella’s CVflow family of AI processors.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
-      "publishedDateTime": "2021-03-03T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

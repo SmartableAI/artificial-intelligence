@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
 type: article
 quality: 90
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://images.mktw.net/im-328104/social"
@@ -294,6 +294,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "ln3BURNrY2tijyanugB8heGKe+hVoOLK2ijlXXtbGyljlwbTwTRRvlPpFMOQAn5zhHFxwRBSXgJwnd7Ww0jVLyMM7GexslRn0bjDdFq3XOGG5J15YH4NKtO+IcDgUGuxbUI77+PZ4zONVoAQ419d6BMl7UhVBKVJ+17r2QKnSrNI9OcxgZ68fKG0qGoTeupd3hpmz0980XGZ/tgaynUwIbijQ/fQ6LiikvTl5rBzlTH+Q5Sc9zikftqwUzLQQISUdLK4Flfv+6u73gvQvaO+VMVMv7Ki9+b/+llcer8Hg8WlKamFaVzXSXXUz2EopP2Ee1PplGFOa1owSI8C68u4cSgDCqb07Df412ZdrRuZPl4=;PV/XIllo7aai6uu/fG6fEQ=="
+secured: "FBMqhbY7jlPxA8mOqHR7YD0Dv8vCvWBlILANnU7lneuMbcg5DJo0kv06NE1bub6CEqJd5hV7RKaMkkWjpAe+NAPjpoWW+T2tKdnwesk8RyCJZaqRtynSCWl5hEFA3465rZp7N4VrrO2l+gqB6EZhWGQzrvSzWnWNWcw348O8w+45M11QRZA+PSMRjIVfJdW2a6Ha9+uc1kHhgdwtlu15ww+ydNgjuDSgb6y1IvLItZf5dU4Pfbks8lP3Dk3GYduE/ueUPfJQjz8OG6KXmtcK6gc4ygDkbgaqyU2pP8xX62juNSmTh5mtIXX4gD+Jba4qipqKvCE26OM4YFGIg42/RYoHReavF0sKiwiyx3fnp1Y=;9CcPmZMHz5uOZzRggh5pjQ=="
 ---
 

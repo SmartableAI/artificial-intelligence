@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21"
 type: article
 quality: 69
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2025"
+    excerpt: "Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size"
+    publishedDateTime: 2021-04-22T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,6 +93,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Global Industry Insights, Trends, Size, Share, Outlook, And Opportunity Analysis, 2021-2025"
+    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
+    publishedDateTime: 2021-04-22T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-global-industry-insights-trends-size-share-outlook-and-opportunity-analysis-2021-2025-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

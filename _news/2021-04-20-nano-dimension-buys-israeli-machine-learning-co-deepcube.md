@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd."
+    excerpt: "Nano Dimension Ltd. (Nasdaq: NNDM ), an industry leading A dditively M anufactured E lectronics ( AME )/ PE (3D-Printed Electronics) provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd."
+    publishedDateTime: 2021-04-20T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd-2021-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd."
     excerpt: "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication"
     publishedDateTime: 2021-04-21T01:30:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188"

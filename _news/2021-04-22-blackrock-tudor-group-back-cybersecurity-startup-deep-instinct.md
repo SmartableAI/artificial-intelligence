@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct’s neural networks for cybersecurity attract $110M"
+    excerpt: "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models."
+    publishedDateTime: 2021-04-22T11:43:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all"
+        width: 1200
+        height: 814
+        isCached: true
   - title: "Role of artificial intelligence in boosting organizations’ cybersecurity"
     excerpt: "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response"
     publishedDateTime: 2021-04-19T10:37:00Z
@@ -60,6 +76,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GJln5SZ4lrZy9PuhHTwSBF4TH41ehhIrGZgn3tKaMaRmmeDtcE9WXHpBy+ehzr+8FUj1RUPWJTfWEf/iR1+INWSyDpFk2ACER5xBXoSGBKhrOb4MssDbJZC+lk/aaakIwiKIzXY6S98uItpq/mbYaBrmnIWWDPpvDUlIFRvxl8LcGFYXUF7My/uxV9WWkkL43+CpU9ZDgN3uk90up7u3kV3qacU8VnWqoq/iJEb9/ou/Oa4+fjzVFAfmydp+qFb9POgyBsnmQkQxaqa8CYmcheo0Xr9IaWehQ3JM+98pKq5U4+DOuveTexIi5hgU2NDhuPvdsnmZszVkQXsPB95X/CQjDiwwMQdj0bZMyFClKAs=;Zo4TWYYABWealXc+ly+ayQ=="
+secured: "019LdVSumA4rw1/vQWgBA+J/AUtt+H2mgm9bUo+TC7anhAuGzCCw56rbkjXypPJkrkYcr4fHFaZxbjby7Dgi0GXV+4dJYnQ6MVTOGKgRnYADz2j+6ubf+bL0XOsgd3zLJ0nIpw4M7JwdsjgteCSTTUb0z3D7BGJE+/vW7odLByVve0TrA9LKo0oQT4LhoZhmByQKj3aqy+000+keRxqwD/mJTS/CyZKvezOPd7fo4l5f4QYRddUt0IZeRwVGGPK0L6SxRX1pCKvM6YjUOLk+tKIYLgU+9ohKxzriSny8ynQgO/9BjfNDsOdms/T7JTDw53NdMWDlG/2PRC8NVuzogBJie5oNCoXjOH3BtJKRVqGGmOOsvNLzgLj93CLztXnyK1vbK+IbZDoDkTCkDv9tfBdtXLBIHhqTM+NxxUPwxOvQdYxuXy1kefkdDiU/rWSDC9lELllnqhGbQn1OCDrulC+qYmwCRFi8xdB/91IwLB2/7DIjqFOdo/giG9qBeQdRSrPEeQ/UkQ9RqRyqoMb71g==;R3vxQEh2OiYtwWEGn136Ow=="
 ---
 

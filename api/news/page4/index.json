@@ -2,6 +2,263 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-20-ai-powered-shopping-app-the-yes-expands-plus-size-offering.md",
+      "title": "AI-Powered Shopping App, The Yes, Expands Plus-Size Offering",
+      "excerpt": "The Yes, an AI-powered fashion shopping app, is expanding its plus-size offering to nearly 40 size-inclusive fashion brands, including 11 Honoré, Misha Nonoo, Universal Standard, Levi’s, Madewell, Aritzia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
+      "originalUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de306e2e94a50b1c51836%2F0x0.jpg",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
+      "publishedDateTime": "2021-04-19T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
+      "title": "The AI arms race has us on the road to Armageddon",
+      "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
+      "originalUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
+      "publishedDateTime": "2021-04-19T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor.md",
+      "title": "Google and Siemens teaming up bringing AI to the factory floor",
+      "excerpt": "The companies are joining forces to create industrial applications, optimize processes, improve productivity and help manufacturers innovate using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
+      "originalUrl": "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
+      "publishedDateTime": "2021-04-19T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud.md",
+      "title": "IBM Reports First Quarterly Revenue Growth Since 2018 on Cloud",
+      "excerpt": "International Business Machines Corp. posted its first revenue gain in eleven quarters, driven by demand for cloud services, suggesting Arvind Krishna’s turnaround plan is starting to bear fruit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg",
+          "width": 1200,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-survey-finds-talent-gap-is-slowing-enterprise-ai-adoption.md",
+      "title": "Survey finds talent gap is slowing enterprise AI adoption",
+      "excerpt": "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI.",
+      "sourceUrl": null,
+      "webUrl": "https://get.oreilly.com/ind_ai-adoption-in-the-enterprise-2021_Request.html",
+      "originalUrl": "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.oreillystatic.com/oreilly/images/report-ai-adoption-in-the-enterprise-2021-940x492.jpg",
+          "width": 940,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-intel-hiring-hundreds-for-ai-chip-development-in-israel.md",
       "title": "Intel hiring hundreds for AI chip development in Israel",
       "excerpt": "Intel unit Habana Labs is expanding into new offices in Tel Aviv and Caesarea as the tech giants do battle to provide AI chips for data centers. The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips.",
@@ -598,48 +855,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-19-role-of-artificial-intelligence-in-boosting-organizations-cybersecurity.md",
-      "title": "Role of artificial intelligence in boosting organizations’ cybersecurity",
-      "excerpt": "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/",
-      "originalUrl": "https://www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg",
-          "width": 566,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/amp/",
-      "publishedDateTime": "2021-04-19T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
       "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
       "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
@@ -648,7 +863,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1017,187 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
-      "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
-      "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2021/04/phone-technology-device-finance-business-tech-696x400.jpg",
-          "width": 696,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
-      "publishedDateTime": "2021-04-18T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai.md",
-      "title": "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI",
-      "excerpt": "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
-      "publishedDateTime": "2021-04-18T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
-      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
-      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
-          "width": 850,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
-      "publishedDateTime": "2021-04-18T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spinoff",
-        "domain": "thespinoff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-cambridge-quantum-pushes-into-nlp-and-quantum-computing-with-new-head-of-ai.md",
-      "title": "Cambridge Quantum pushes into NLP and quantum computing with new head of AI",
-      "excerpt": "Cambridge Quantum Computing's new hire signals it may be looking at ways quantum computing could be used for natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/futuristic-supercomputer-gettyimages.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
-      "publishedDateTime": "2021-04-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-20-the-future-of-driverless-cars-is-now.md",
+      "title": "The future of driverless cars is now",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
+      "originalUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
+      "cdnAmpWebUrl": "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
+      "publishedDateTime": "2021-03-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Tribune",
+        "domain": "dailytribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-vietnams-first-autonomous-vehicle-debuts.md",
       "title": "Vietnam’s first autonomous vehicle debuts",
       "excerpt": "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam's first smart self-driving vehicle.Vietnam's first self-driving vehicle's prototype was displayed in front of a conference building at Phenikaa University.",
@@ -1368,49 +1411,6 @@
       "provider": {
         "name": "SmartData Collective",
         "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
-      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
-      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
-          "width": 900,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
         "images": null,
         "publishers": null,
         "authors": null

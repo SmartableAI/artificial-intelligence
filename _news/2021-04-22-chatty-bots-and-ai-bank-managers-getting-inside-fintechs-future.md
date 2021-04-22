@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 type: article
 quality: 76
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -85,6 +85,17 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
+    publishedDateTime: 2021-04-22T11:51:00Z
+    webUrl: "https://www.openpr.com/news/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Top Fintech Companies to Watch in 2021"
     excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
     publishedDateTime: 2021-04-19T12:49:00Z

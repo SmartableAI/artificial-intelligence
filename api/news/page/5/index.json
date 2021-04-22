@@ -2,6 +2,187 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-19-tomorrows-autonomous-bank-account-the-rise-of-ai-automation-in-banking.md",
+      "title": "Tomorrow’s autonomous bank account: the rise of AI & automation in banking",
+      "excerpt": "The bank account of the future is upon us. In fact, many could argue, it is already here. We have already started to see the introduction of artificial intelligence into our banking systems. Micro-investment platform Raiz,",
+      "sourceUrl": null,
+      "webUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
+      "originalUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2021/04/phone-technology-device-finance-business-tech-696x400.jpg",
+          "width": 696,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
+      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/finance/banking-future-technology-opinion-article.html?amp",
+      "publishedDateTime": "2021-04-18T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamic Business",
+        "domain": "dynamicbusiness.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai.md",
+      "title": "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI",
+      "excerpt": "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html",
+      "publishedDateTime": "2021-04-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing.md",
+      "title": "The New Zealand scientists trying to make brain-controlled robots a thing",
+      "excerpt": "Brain-controlled devices could give people with disabilities or severe injuries new access to the world. But it could also be used to enhance humans, create super soldiers or even transcend the human body entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "originalUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thespinoff.co.nz/1/2021/04/Robot-arm.jpg",
+          "width": 850,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "cdnAmpWebUrl": "https://thespinoff-co-nz.cdn.ampproject.org/c/s/thespinoff.co.nz/science/19-04-2021/the-new-zealand-scientists-trying-to-make-brain-controlled-robots-a-thing/?amp",
+      "publishedDateTime": "2021-04-18T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spinoff",
+        "domain": "thespinoff.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-cambridge-quantum-pushes-into-nlp-and-quantum-computing-with-new-head-of-ai.md",
+      "title": "Cambridge Quantum pushes into NLP and quantum computing with new head of AI",
+      "excerpt": "Cambridge Quantum Computing's new hire signals it may be looking at ways quantum computing could be used for natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/futuristic-supercomputer-gettyimages.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/18/cambridge-quantum-pushes-nlp-quantum-computing-new-head-ai/amp/",
+      "publishedDateTime": "2021-04-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-artificial-intelligence-robotics-new-heights-in-healthcare.md",
       "title": "Artificial Intelligence, robotics new heights in healthcare",
       "excerpt": "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being.",
@@ -95,6 +276,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-18-microsoft-buys-siris-ai-partner-firm-nuance-for-197b.md",
+      "title": "Microsoft buys Siri’s AI partner firm Nuance for $19.7B",
+      "excerpt": "Microsoft is in advanced talks for buying speech AI startup Nuance for $16 billion. The firm has helped Apple improve Siri over the years.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
+      "originalUrl": "https://thenextweb.com/news/microsoft-reportedly-wants-to-buy-siris-ai-partner-firm-nuance-for-16b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fjohny-vino-R54V69BN0MI-unsplash.jpg&signature=de913f0a1ee80bdb56f6a999dee9653f",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-18T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1005,232 +1238,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
-      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
-      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "publishedDateTime": "2021-04-16T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker.md",
-      "title": "This New Jupiter Webcam From eMeet Includes AI Framing Technology And A Built-In Speaker",
-      "excerpt": "This webcam from eMeet includes a speaker and an array of four microphones. Thanks to AI technology it can zoom in on a speaker's face automatically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60769fedbb83b12f0d643cc0%2F0x0.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/16/this-new-jupiter-webcam-from-emeet-includes-ai-framing-technology-and-a-built-in-speaker/amp/",
-      "publishedDateTime": "2021-04-16T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-twitter-analysing-harmful-impacts-of-its-aiml-algorithms.md",
-      "title": "Twitter analysing harmful impacts of its AI/ML algorithms",
-      "excerpt": "Read Article In a bid to assess racial and gender bias in its artificial intelligence/machine learning systems, Twitter is starting a new initiative called Responsible Machine Learning. Terming it a long journey in its early days,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/",
-      "originalUrl": "https://www.crn.in/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.crn.in/wp-content/uploads/2019/05/13163815/Artificial-Intelligence.jpg",
-          "width": 696,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/",
-      "cdnAmpWebUrl": "https://www-crn-in.cdn.ampproject.org/c/s/www.crn.in/amp/news/twitter-analysing-harmful-impacts-of-its-ai-ml-algorithms/",
-      "publishedDateTime": "2021-04-16T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "www.crn.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
-      "title": "Driverless truck developer TuSimple debuts on Nasdaq",
-      "excerpt": "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
-      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification.md",
-      "title": "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification",
-      "excerpt": "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "originalUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
-      "publishedDateTime": "2021-04-16T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

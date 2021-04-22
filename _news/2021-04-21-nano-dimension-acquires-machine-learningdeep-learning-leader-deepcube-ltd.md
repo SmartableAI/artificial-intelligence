@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-acq
 webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd."
+    excerpt: "Nano Dimension Ltd. (Nasdaq: NNDM ), an industry leading A dditively M anufactured E lectronics ( AME )/ PE (3D-Printed Electronics) provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd."
+    publishedDateTime: 2021-04-20T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd-2021-04-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nano Dimension buys Israeli machine learning co DeepCube"
     excerpt: "Nano Dimension will pay $70 million for DeepCube, which applies algorithms to improve data analysis and deployments of advanced deep learning-based AI systems. Israeli electronic components 3D printing company Nano Dimension (Nasdaq: NNDM) announced today that is has signed a definitive agreement to acquire Israeli machine learning/deep learning (ML/DL) technology company DeepCube Ltd."
     publishedDateTime: 2021-04-20T15:18:00Z

@@ -133,6 +133,20 @@ related:
         width: 300
         height: 230
         isCached: true
+  - title: "Minim and Irdeto Expand Trusted Home Platform in Europe, Deliver AI-Driven WiFi Security ..."
+    excerpt: "MANCHESTER, NH, April 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Zoom Telephonics Inc., doing business as “ Minim ” (OTCQB: MINM), the creator of innovative connectivity products, and Irdeto, the recognized leader in digital platform and cybersecurity,"
+    publishedDateTime: 2021-04-22T11:32:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-data-privacy-europe-4c4771d1eb52f47aaca37c0aaca51c10"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "EU outlines ambitious AI regulations focused on risky uses"
     excerpt: "Risky uses of artificial intelligence that threaten people’s safety or rights such as live facial scanning should be banned or tightly controlled, European Union officials said Wednesday as they outlined an ambitious package of proposed regulations for the rapidly expanding technology."
     publishedDateTime: 2021-04-21T15:31:00Z

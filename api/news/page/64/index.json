@@ -2,6 +2,407 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-03-04-icad-to-participate-in-the-cowen-41st-annual-health-care-conference.md",
+      "title": "iCAD to Participate in the Cowen 41st Annual Health Care Conference",
+      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that Michael Klein, iCAD’s Chairman and Chief Executive Officer, will deliver a formal presentation at the Cowen 41st Annual Health Care Conference on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-cfec72e25ccfec1483fd9ce030c8be18",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-cfec72e25ccfec1483fd9ce030c8be18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
+      "title": "Cables could help soft robots transform into harder structures",
+      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "publishedDateTime": "2021-03-03T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai.md",
+      "title": "BrainChip’s Success in 2020 Advances Fields of On-Chip Learning and Ultra-Low Power Edge AI",
+      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, ended the 2020 calendar year having",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
+      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
+      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "publishedDateTime": "2021-03-03T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings.md",
+      "title": "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings",
+      "excerpt": "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Group-Transcribe-Blog-Image-_-Date-updated-2.png?w=1024",
+          "width": 1024,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/",
+      "publishedDateTime": "2021-03-03T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-inside-talon-the-nationwide-network-of-ai-enabled-surveillance-cameras.md",
+      "title": "Inside 'TALON,' the Nationwide Network of AI-Enabled Surveillance Cameras",
+      "excerpt": "Hundreds of pages of emails obtained by Motherboard show how little-known company Flock has expanded from surveilling individual neighborhoods into a network of smart cameras that spans the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "originalUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603e9a8943fa06009386247a/lede/1614715553095-flock.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "publishedDateTime": "2021-03-03T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to-dogs.md",
+      "title": "Companion Raises $8M Seed Round to Use Machine Learning and Computer Vision to Talk to Dogs",
+      "excerpt": "Today, Companion announces $8M in Seed funding to transform how we train, engage and communicate with our dogs. The funding comes from leading",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/59/6590a814-f273-5efc-ac0c-f8f20347b6b5/60414bd16920b.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-azure-percept-helps-microsoft-users-make-the-most-of-edge-ai.md",
       "title": "Azure Percept helps Microsoft users make the most of edge AI",
       "excerpt": "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,",
@@ -776,393 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
-      "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
-      "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-nosy-ai-reads-a-300-year-old-sealed-letter-without-opening-it.md",
-      "title": "Nosy AI reads a 300-year-old sealed letter — without opening it",
-      "excerpt": "Researchers used an algorithm and X-ray imagining to virtually open and read sealed historical letters. The technique could also be applied to old books.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-03T152707.672-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/amp/",
-      "publishedDateTime": "2021-03-02T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-the-25-year-old-billionaire-building-the-future-of-self-driving-cars.md",
-      "title": "The 25-year-old billionaire building the future of self-driving cars",
-      "excerpt": "Austin Russell is the 25-year-old founder and CEO of Luminar, a startup in Silicon Valley that makes LIDAR sensors for self-driving cars. LIDAR technology had been used for short-distance mapping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22298001/luminar-austin-russel-ceo-interview-self-driving-cars",
-      "originalUrl": "https://www.theverge.com/22298001/luminar-austin-russel-ceo-interview-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/bGWlkVVYCTTaT1NwUtkdjSQ9Ahs=/0x0:3000x2000/1400x933/filters:focal(1161x714:1641x1194):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68896819/VRG_ILLO_4442_Decoder_Austin_Russell.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/22298001/luminar-austin-russel-ceo-interview-self-driving-cars",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22298001/luminar-austin-russel-ceo-interview-self-driving-cars",
-      "publishedDateTime": "2021-03-02T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure.md",
-      "title": "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure",
-      "excerpt": "During Microsoft Ignite 2021, Microsoft unveiled new Azure AI and Cognitive Services aimed at solving enterprise-scale challenges.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure-9869853",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure-9869853",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure-9869853",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure-9869853",
-      "publishedDateTime": "2021-03-02T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-algorithmia-tackles-machine-learning-model-risk-with-new-governance-capabilities.md",
-      "title": "Algorithmia Tackles Machine Learning Model Risk with New Governance Capabilities",
-      "excerpt": "Algorithmia, a leader in machine learning (ML) operations and management software, has released new, advanced reporting tools to help enterprise IT and internal risk leaders govern the use of ML models in production environments.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-bf5ab5daf1eaa51582e976b9c31da6d7",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-bf5ab5daf1eaa51582e976b9c31da6d7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T22:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
-      "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
-      "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
-      "originalUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
-      "publishedDateTime": "2021-03-02T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards.md",
-      "title": "IBM and the Recording Academy® Debut New Fan Experience powered by Watson and IBM Cloud, Ahead of the 63rd Annual GRAMMY Awards®",
-      "excerpt": "\"These are the same core technologies – hybrid cloud and AI – that we're using to drive digital transformation for clients around the world.\" In addition to GRAMMY Debates with Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1447324/GRAMMY_Debates_with_Watson_interface.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ai-commission-immigrants-key-to-americas-tech-competitiveness.md",
-      "title": "AI Commission: Immigrants Key To America’s Tech Competitiveness",
-      "excerpt": "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
-      "originalUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603ef7879dd35452a831675b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3374%26cropY1%3D74%26cropY2%3D1972",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
-      "publishedDateTime": "2021-03-02T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

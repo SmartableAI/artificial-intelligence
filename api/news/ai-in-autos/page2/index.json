@@ -561,19 +561,19 @@
     {
       "path": "_news/2021-04-08-whats-it-going-to-take-to-perfect-self-driving-cars.md",
       "title": "What’s it going to take to perfect self-driving cars?",
-      "excerpt": "Self-driving cars and delivery robots are getting good, but what will it take to make them perfect Yet the promised arrival of self-driving cars has not progressed beyond the testing stage.",
+      "excerpt": "Yet the promised arrival of self-driving cars has not progressed beyond the testing stage. And in one test drive of an Uber self-driving car in 2018, a pedestrian was killed by the vehicle.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/",
+      "webUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
+      "originalUrl": "https://thenextweb.com/news/perfecting-self-driving-cars-conversation-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/04/Autonomous-driving-Barcelona-796x418.jpg",
-          "width": 796,
-          "height": 418,
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FAutonomous-driving-Barcelona.jpg&signature=766b92d1a4dd522274911bb8f6fa4179",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -581,9 +581,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/04/08/perfecting-self-driving-cars-conversation-syndication/amp/",
-      "publishedDateTime": "2021-04-08T02:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-08T03:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -591,6 +591,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-artificial-intelligence-revolution-3-stocks-to-automate-your-gains.md",
+      "title": "Artificial Intelligence Revolution: 3 Stocks to Automate Your Gains",
+      "excerpt": "Take a moment to consider all of the different applications for artificial intelligence technology ... the company is investing in things like self-driving vehicles that have huge potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/368936",
+      "originalUrl": "https://www.entrepreneur.com/article/368936",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-368936.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368936",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368936",
+      "publishedDateTime": "2021-04-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1380,58 +1432,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-the-ceo-of-the-self-driving-car-company-waymo-will-step-down-after-more-than-5-years.md",
-      "title": "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years.",
-      "excerpt": "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html",
-      "publishedDateTime": "2021-04-02T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

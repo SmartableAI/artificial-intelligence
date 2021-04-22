@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
+      "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
+      "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
+      "originalUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-12-image-13.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
+      "publishedDateTime": "2021-03-12T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-intel-works-with-deci-to-speed-up-machine-learning-on-its-chips.md",
+      "title": "Intel works with Deci to speed up machine learning on its chips",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more ... enable machine learning “at scale” on Intel chips, potentially enabling new applications of inference ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/",
+      "originalUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/amp/",
+      "publishedDateTime": "2021-03-11T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-hugging-face-triples-investment-in-open-source-machine-learning-models.md",
       "title": "Hugging Face triples investment in open source machine learning models",
       "excerpt": "Developers have used a hub on Hugging Face to share thousands of models, and CEO and cofounder Clement Delangue told VentureBeat Hugging Face wants to become to machine learning what GitHub is to ...",
@@ -1292,103 +1397,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-10-ways-ai-and-machine-learning-are-improving-marketing-in-2021.md",
-      "title": "10 Ways AI and Machine Learning Are Improving Marketing In 2021",
-      "excerpt": "Marketers’ use of AI soared between 2018 and 2020, jumping from 29% in 2018 to 84% in 2020, according to Salesforce Research’s most recent State of Marketing Study. AI, Machine Learning, marketing & advertising technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
-      "originalUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lcolumbus.files.wordpress.com/2021/03/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-1-1.jpg?w=400",
-          "width": 400,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
-      "publishedDateTime": "2021-03-05T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker.md",
-      "title": "Multimodal deep learning approach for event detection in sports using Amazon SageMaker",
-      "excerpt": "Have you ever thought about how artificial intelligence could be used to detect events during live sports broadcasts? With machine learning (ML) techniques, we introduce a scalable multimodal solution for event detection on sports video data. Recent developments in deep learning show that event detection",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/Fig2.png",
-          "width": 800,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-05T11:53:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
