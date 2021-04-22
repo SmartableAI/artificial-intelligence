@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Gaming Market Size, Share, Value, and Competitive Landscape 2016-2026"
+    excerpt: "Worldwide and Regional Market Size of Artificial Intelligence in Gaming 2016-2021, and development forecast 2022-2026 Main manufacturers/suppliers of Artificial Intelligence in Gaming worldwide, with company and product introduction,"
+    publishedDateTime: 2021-04-22T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-size-share-value-and-competitive-landscape-2016-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Global Industry Insights, Trends, Size, Share, Outlook, And Opportunity Analysis, 2021-2025"
     excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
     publishedDateTime: 2021-04-22T09:56:00Z

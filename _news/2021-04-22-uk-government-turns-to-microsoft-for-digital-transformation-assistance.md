@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft details the latest developments in machine learning at GTC 21"
+    excerpt: "With the rapid pace of change in AI and machine learning, it’s no surprise Microsoft had its usual strong presence at this year’s Nvidia GTC."
+    publishedDateTime: 2021-04-22T14:50:00Z
+    webUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/"
+    ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158.jpg?w=1200&strip=all"
+        width: 1200
+        height: 506
+        isCached: true
   - title: "Microsoft’s Acquisition Of Nuance Reaffirms Its Interest In Dominating The $11+ Trillion Healthcare Market"
     excerpt: "One of the largest global market sectors is healthcare, expected to be valued at more than $11 trillion by 2022. The growth in healthcare continues to be tremendous, especially as new innovation is increasingly being embraced by the field."
     publishedDateTime: 2021-04-20T03:13:00Z
@@ -43,34 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft’s acquisition of Nuance tells us a lot about its AI strategy"
-    excerpt: "The acquisition is Microsoft’s biggest since the $26-billion purchase of LinkedIn. And it tells a lot about Microsoft’s AI strategy."
-    publishedDateTime: 2021-04-21T07:34:00Z
-    webUrl: "https://thenextweb.com/news/microsofts-acquisition-of-nuance-tells-us-a-lot-about-its-ai-strategy-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fmicrosoft-nuance-acquisition.jpeg&signature=addb758bbb3143952cd453b6387d1063"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft’s $20 billion AI deal will shake up how we work"
-    excerpt: "AI specialist Nuance Communications Inc. shows it’s willing to spend a lot of money to do it. Microsoft said on Monday that had agreed to buy Nuance Communications Inc. for about $56 a share, or almost $20 billion including debt."
-    publishedDateTime: 2021-04-19T19:00:00Z
-    webUrl: "https://www.postbulletin.com/business/technology/6990454-Microsoft’s-20-billion-AI-deal-will-shake-up-how-we-work"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 54
-    images:
-      - url: "https://www.postbulletin.com/incoming/6990458-skdixu-Microsoft-AI-deal/alternates/BASE_LANDSCAPE/Microsoft%20AI%20deal"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
     publishedDateTime: 2021-04-22T13:15:00Z
@@ -85,32 +73,30 @@ related:
         width: 607
         height: 456
         isCached: true
-  - title: "G Suite Technology Services Market – Microsoft’s Hold over Larger Organization Unchallenged, Reveals Fact.MR"
-    excerpt: "G Suite technology services market reported a revenue generation of nearly US$ 214 Mn in 2017 and is expected to witness a 1.2x growth in 2018, according to Fact.MR estimations. Overall market growth is likely to be driven by,"
-    publishedDateTime: 2021-04-20T21:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/g-suite-technology-services-market-microsofts-hold-over-larger-organization-unchallenged-reveals-fact-mr/"
+  - title: "UK government agrees new three-year deal with Microsoft"
+    excerpt: "The UK government has signed a new three-year Memorandum of Understanding (MOU) with Microsoft to give the public sector specialist discounts for the vendor's services. The Digital Transformation Arrangement 2021 (DTA21) will see eligible organisations granted access to 365,"
+    publishedDateTime: 2021-04-21T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4030202/uk-government-agrees-deal-microsoft"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 40
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 39
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-1-10.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "Atos International : Atos reinforces its leading position in the Edge and Computer Vision market through the acquisition of Ipsotek"
-    excerpt: "Atos reinforces its leading position in the Edge and Computer Vision market through the acquisition of IpsotekRead more on 'Investegate'"
-    publishedDateTime: 2021-04-20T00:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/atos-international---atos-reinforces-its-leading-position-in-the-edge-and-computer-vision-market-through-the-acquisition-of-ipsotek-10034655"
+  - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    publishedDateTime: 2021-04-20T12:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
 
-secured: "qaPEIKj63a+qt7h+GtUhQxKAQO8h/rn3R1ZKqPdtQg+PKJTgF70rtHVumYdlXZUMPcLsN6MP6DQ4yIRxmsFURhzdGlHGHGGLA9V/vz3m9tiTi6jpy+FFR84q1Jkzn0s6SOtj4zgm/6RGspl+n9bKayBsp+KbKhtK9dGtwyjFOpJpnKHVCyjB8MVp4iM+Cdu5Ujc80FJSuponOfgeG8/kUNvxdqLXnE+u0wDUZHY2EQ06HvNyvtsiyXiZS7+OfwbRkekSpPw5FpynzlJQ09JefmvlHYNWJ8W0PrHDRJmPJGm0cYoSJ2oWFd/H4wIX8htVYZps2oCkIWBYxekewbgdobi2sm4cHojkfhzjgR4F+4Y=;cIOYHtaYt2Xpq/rrflWrQA=="
+secured: "bZS+oZWn2MLUmFiqBRp1+Zh9pPGGq2kDDShLYocA2eFzTuimvu0N48FlsYd7Hjtyjmiuyio8KGdA8u0MPknzLnzM5zzAo3fugwaNtRBjVx6PKqeSTN1ivv06+zJ8kdg30FJY4KiCVN9rYSPM3gtLssER7V1x6uyvRo2kIjvhFiYLVJNU7D5K8oZ/9Jq5XmQiT2Rm+G4NOWt3js/Vfs+3mc3SXF+I02wtvo8dq+crPzlpVOfxwPXolA0It52Pskl9830detautai7/oGZVR92NwvoYrzye6DOc5vsKZIWllBLxoZKAXmQwhGrOHuLBM2/lgFnyZIZYqAgD2+zm2T26MpmSetW/N39w8OrgXjbvI3qK0ywu+hgxg/NcXrxl5aNvyddC0xf/fL9fEWYzTipxFr+cuGcoh9aM5p61LhvtawP+bQyZY2jy6tcfnm91SWuko0J3RGRFRMN3XcsRpZ0eo1h5ZEbkXoq7s35L2aD9N+6LAR6wghABZkSmIb1GyXP3QzCYZxWgbkTJNctY1NkNA==;H+5KDw7Fva3k+auZpoQq/Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/04/video-analytics-startup-veda-labs-goog
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/video-analytics-startup-veda-labs-google-analytics-offline-retailers/amp"
 type: article
 quality: 51
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -41,18 +41,18 @@ related:
         height: 400
         isCached: true
   - title: "Botco.ai Launches Version 2.0 of Its Conversational Chat Platform, Featuring Contextual Chat Marketing and Advanced Analytics"
-    excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics dashboard. Contextual Chat Marketing"
-    publishedDateTime: 2021-04-22T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19763387.html"
+    excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics"
+    publishedDateTime: 2021-04-22T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/botco-ai-launches-version-2-0-of-its-conversational-chat-platform-featuring-contextual-chat-marketing/article_3c700f22-510a-5101-bc2a-e05e04730757.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
     excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."
@@ -79,6 +79,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
+  - title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
+    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Silicon Valley Innovation Program (SVIP) to apply its technology to Transportation Security Administration (TSA) checkpoints."
+    publishedDateTime: 2021-04-22T15:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
 secured: "hoPIYOSwE/VC/teWb1yOf2citzeaA0DKD/1Yx8Gg9eot0j7a/gCqX5InWLPECHTYXPosvhg+6SN32WJOQ4te3TxqWM8jNMIABh2dkAN8jWJHlchYsnizASPljcdRIpgd6rTPjjU9UTcXd/TAlDp2PuiUZiM38T9R5MAP4DZRWIXEtzABnz8hQwY0bV4udEslZlsPG63HTZwJSma1AS/c5oQJPKg/a220L2UzDY/nb+3P1D+oFttLn6fgyYVqxQL80+pX07KBK47tHra1oKA35KIrXKBKEGCfO8sC2+Y6TxuqC1p2v0f5DzMiJd0v+sP5Y6IMwMr90wyH6kSlkKoFcOeUCBU0Ug2fQj1OX5+M14E=;4gbKQjn3zn9lUaOxTevgPQ=="
 ---

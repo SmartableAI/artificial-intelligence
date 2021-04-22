@@ -106,6 +106,20 @@ related:
         width: 2119
         height: 1414
         isCached: true
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Commission Reveals Rules & Actions for AI in the European Union"
     excerpt: "Today, the European Commission proposed new rules and actions as part of an effort to turn the European Union into a global hub for Artificial Intelligence (AI). The 'first-ever' legal framework is designed to ensure trust and safety while fostering AI innovation."
     publishedDateTime: 2021-04-21T15:36:00Z

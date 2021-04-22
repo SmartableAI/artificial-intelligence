@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/30/a04dec51-1311-4a7b-8769-c965f8dc656d/istock-973159608.jpg"
         width: 2119
         height: 1414
+        isCached: true
+  - title: "European Union Unveils Regulations Governing Artificial Intelligence"
+    excerpt: "The European Union has unveiled strict regulations to govern the use of artificial intelligence. The draft rules,"
+    publishedDateTime: 2021-04-22T12:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/european-union-unveils-regulations-governing-artificial-intelligence-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "European Union Moves to Regulate Artificial Intelligence"
     excerpt: "The European Union’s executive branch on Wednesday announced proposals designed to regulate the use of artificial intelligence (AI), banning its use in practices such as surveillance and facial scanning that threaten personal rights."

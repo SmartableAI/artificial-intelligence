@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Speech and Voice Recognition Market to be Worth USD 28.3 Billion by 2026, Rising at a CAGR of 19.8%"
-    excerpt: "The advent of advance technologies in diverse industries such as healthcare, banking, medicine, and others is promoting"
+    excerpt: "The report offers comprehensive market overview, covering the most significant trends prevalent in the global market. It presents insights into the key growth drivers and restraints influencing the speech and voice recognition market growth trajectory."
     publishedDateTime: 2021-04-22T11:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20743246/speech-and-voice-recognition-market-to-be-worth-usd-28-3-billion-by-2026-rising-at-a-cagr-of-19-8"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20743246"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20743246"
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-be-worth-usd-283-billion-by-2026-rising-at-a-cagr-of-198-2021-04-22"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W4XnYk7dt7udz56lJUDu/vyQDot1PC10obs2yhGYSViXscdqpfSYQcE88uTQPMCnOZuUE0yJmShNUv672uw4tmoBOVhKG1ws0jKjQwpwvm/troQKm5vlbTGYAO5b3Zo71VbOIqESbqLc2i3oQnJ7jc2t4gng8lWrJen9zv+MYm4PXltavzfO9/CbX+yPxgHQUxm6t8Lho1gN/i/jSkqvUvAxYNN148cuFiRZMy3PfrD1o7/dN3Pd9QPlqijcqzOeDPy1Py74JYeVk34GaHF2rHFAF8iOPiiIA5dSm5pYO/PMvFTO3vcca0VHQwjv5cnLJ7LgylsoCIm/2iFU3f1z80dmNMacB1TvOtDdACVQaUvWXKINgHJO/jbnKr0VNLcYGbLiAjE6XcNagA3DtFjKrhzwQlj+VE71IvsUKvGuqYRNA2lGG0ay7GTJF0UpklrOXXm2qGHE2TWeT+JyidUFrokTWBVp3vt+Vl0wuL4qyuWn+8ylA3xVz2hqMpVhJhdKOkIQl0z3QNsOY1ZbHwqfdg==;CLZ6cXEL+WCkz4SgBUPs3g=="
 ---

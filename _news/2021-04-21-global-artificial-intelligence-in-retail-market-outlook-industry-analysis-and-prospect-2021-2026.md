@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-21"
 type: article
 quality: 69
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Gaming Market Size, Share, Value, and Competitive Landscape 2016-2026"
+    excerpt: "Worldwide and Regional Market Size of Artificial Intelligence in Gaming 2016-2021, and development forecast 2022-2026 Main manufacturers/suppliers of Artificial Intelligence in Gaming worldwide, with company and product introduction,"
+    publishedDateTime: 2021-04-22T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-size-share-value-and-competitive-landscape-2016-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

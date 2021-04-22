@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market to be Worth USD 28.3 Billion by 2026, Rising at a CAGR of 19.8%"
-excerpt: "The advent of advance technologies in diverse industries such as healthcare, banking, medicine, and others is promoting"
+excerpt: "The report offers comprehensive market overview, covering the most significant trends prevalent in the global market. It presents insights into the key growth drivers and restraints influencing the speech and voice recognition market growth trajectory."
 publishedDateTime: 2021-04-22T11:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/g20743246/speech-and-voice-recognition-market-to-be-worth-usd-28-3-billion-by-2026-rising-at-a-cagr-of-19-8"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/g20743246/speech-and-voice-recognition-market-to-be-worth-usd-28-3-billion-by-2026-rising-at-a-cagr-of-19-8"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20743246"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20743246"
+originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-be-worth-usd-283-billion-by-2026-rising-at-a-cagr-of-198-2021-04-22"
+webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-to-be-worth-usd-283-billion-by-2026-rising-at-a-cagr-of-198-2021-04-22"
 type: article
-quality: 10
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Food Packaging Robotics Market Size is Projected to Reach USD 813.02 Million during 2020-2024 at a CAGR of Almost 5% - Technavio"
@@ -38,6 +46,6 @@ related:
         height: 226
         isCached: true
 
-secured: "4YhSBJp5RtMBSMdPqnsL/nkozS7NuY7Z65POEY/l9La5rrY66mfeiqjN7z4wghIzPIAcZx2+pf6PCICLsCOIV/1WyNIu8+0nfeCRhtsOLfdM9XYpVWwiOEadOtV02KVoBEaXE1z2biRjCXqiLi1fdTEpsCaQ7FwlZcV8skRXwToUwbbDyDwpwTkowFd/ipEbAs+Jt2MPw+L786jzsVFov3N/+LeW4VAzMzTFLOQD9q/sf7sep41mivsRvD7OGmG8yPpfkG1dtWfdZjAubbrLOLkp+N68FRBFtVx87kO7EXXeq54c8QYCE25GmLuq7tDXKSsfKXgUt8Nz434SC2FGV7KuDMASRibHHUkawaiMGwE=;tCROfjvzhiSgPDi+tADdKQ=="
+secured: "Ha09LjNcucOfZMahQoqkPBqMJJsIJ1WzbuASfsmoHSUVseA7DvfVr1tpQnDwuSWDQBTWYFVmjzpvm9hWwUnFcHQN6pH0hdot+bG/gXuJG3QswdewF0PpRTV7bhUHMNCTIiTXo4HrJPZgs6GTUQJbdVmlOo1hBritOr0s9MxB7jUpWB4K2/rSxq5p6KawGLQSdunmAFO2arFv1N2sSgCb396Gpt03DQvDWh42XNL0t34ToIfoGzkXxFoc+nfXIVJsU0A63zVPxfpWQQ/9Ft24tmQyPAI81PdFcw/N9+Ch8BvDev2np6VQ3c976gktMHtljeZsriIKYrzQxgv6s+POJEAC99cJ9TDHhTMyaK19X/8=;HzbzxLyLlMTtI5jjDkyuaw=="
 ---
 

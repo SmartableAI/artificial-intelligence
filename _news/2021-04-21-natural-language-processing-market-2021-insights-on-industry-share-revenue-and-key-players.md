@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Gaming Market Size, Share, Value, and Competitive Landscape 2016-2026"
+    excerpt: "Worldwide and Regional Market Size of Artificial Intelligence in Gaming 2016-2021, and development forecast 2022-2026 Main manufacturers/suppliers of Artificial Intelligence in Gaming worldwide, with company and product introduction,"
+    publishedDateTime: 2021-04-22T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-gaming-market-size-share-value-and-competitive-landscape-2016-2026-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Construction Market Size, Share Industry, Analysis, Price, Trends, Report 2020-2025"
     excerpt: "Artificial Intelligence in Construction Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & compound annual growth, in-depth qualitative analysis The Artificial Intelligence in Construction Market size was $408."
     publishedDateTime: 2021-04-22T05:10:00Z

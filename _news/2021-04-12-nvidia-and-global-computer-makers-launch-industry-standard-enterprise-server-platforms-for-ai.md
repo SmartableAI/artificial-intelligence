@@ -3,8 +3,8 @@ category: news
 title: "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI"
 excerpt: "NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure. These include high-volume enterprise servers from top manufacturers,"
 publishedDateTime: 2021-04-12T16:32:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "oZhzmdL9izinwkLhzr9vmcdbjWnYAad6aze65xXtzUFXVjG9Ftd+AI1P3nLb7F64jqy+Y5WmYr45Edri5vTE4pRDexFExojWtxIXCztKCvibAoi3Go/okLv2/cPHVsn2x1qH7EzF3Kwz855k9Vc3XavFNZ2b9Get2TSoYFLZbVrXQRO5LAmryIVhGnGTWJipkMaPJhgHpPA8xfjzqzEqCXXA29fTo8tskfAmSnG55rjTYzYapexvZBUnGMCqyYk6sIdIXYI4xBmOQ+QyiIa3b5I+oZibcNv3eAqtGh4PO+TFxxYnprxCziIDtX6RnKeOKEULirea4ZBtfIp2K4ydgb3DxnPLIsf+kaKcukjRyZE=;uVdQ+dFIjGgFXW4hjQ/S6Q=="
+secured: "mVi7hBecsOxHGIvbUffCKcHTEbFAZBrcff65VSxrR6kX03AGqAmbEnL07v5AfwtYiIuxNFVufhVn2n2TEo2IPa1NJJUlSZsw8pEe/VplmUBr4nAtVvPALE9bTkKFfVOxXByy+jtGyR6K0V5TFcCbvAljYShYLpIU5emUtikq4TqDmPfYGH2AZdcdhYL3NCmlJdX9tqGLqzK9S9H64LT7D7lu1rcpSRxX6xfI51+5QMj+cLZNxX1O6R1VSp9tIX518P97uiVubvB/qvkunWv2GbqunAee2I+s7hPYIMSdnRCx/Uk9LTa6oUXwu9SGWBViOB5Db50NLvarwq3HmKW92E6vuHtakc1mAqJxqiqrZOk=;2URzGYdbdhk2dOse1eR1OA=="
 ---
 

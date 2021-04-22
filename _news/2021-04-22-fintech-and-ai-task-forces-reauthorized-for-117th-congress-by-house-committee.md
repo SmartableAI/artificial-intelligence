@@ -75,6 +75,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "What fintech brands and banks need to know in supporting post-pandemic recovery"
+    excerpt: "By Chris Vinnicombe, VP Financial Services at Acxiom In industries across the economy, we’ve seen a marked shift towards digital transformation, and a collective desire for change. The pandemic has forced businesses to make changes in a matter of weeks or months they might have otherwise had lined up for years."
+    publishedDateTime: 2021-04-22T15:04:00Z
+    webUrl: "https://www.globalbankingandfinance.com/what-fintech-brands-and-banks-need-to-know-in-supporting-post-pandemic-recovery/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/what-fintech-brands-and-banks-need-to-know-in-supporting-post-pandemic-recovery/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-fintech-brands-and-banks-need-to-know-in-supporting-post-pandemic-recovery/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 55
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/What-fintech-brands-and-banks-need-to-know-in-supporting-post-pandemic-recovery.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "AI fintech firm TurnKey Lender secures new funding in DEG-led round"
     excerpt: "TurnKey Lender claims it tripled its annual recurring revenue year over year in 2020. According to VentureCap Insights data, its revenue for the previous year (FYE 2019) stood at US$2.57 million. It plans to use the new funds to scale the global adoption ..."
     publishedDateTime: 2021-04-21T11:22:00Z
@@ -84,6 +100,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "Vertex-backed AI fintech firm TurnKey Lender secures new round of funding"
+    excerpt: "TurnKey Lender, a startup that uses artificial intelligence to power lending automation and risk mitigation, said it has raised an undisclosed amount of funding in its latest round. Returning investors: SEEDS Capital,"
+    publishedDateTime: 2021-04-20T11:16:00Z
+    webUrl: "https://www.techinasia.com/vertexbacked-ai-fintech-firm-turnkey-lender-secures-new-round-funding#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 48
   - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
     publishedDateTime: 2021-04-22T11:51:00Z

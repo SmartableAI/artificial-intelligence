@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Botco.ai Launches Version 2.0 of Its Conversational Chat Platform, Featuring Contextual Chat Marketing and Advanced Analytics"
-excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics dashboard. Contextual Chat Marketing"
-publishedDateTime: 2021-04-22T13:32:00Z
-originalUrl: "https://www.lelezard.com/en/news-19763387.html"
-webUrl: "https://www.lelezard.com/en/news-19763387.html"
+excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics"
+publishedDateTime: 2021-04-22T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/botco-ai-launches-version-2-0-of-its-conversational-chat-platform-featuring-contextual-chat-marketing/article_3c700f22-510a-5101-bc2a-e05e04730757.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/botco-ai-launches-version-2-0-of-its-conversational-chat-platform-featuring-contextual-chat-marketing/article_3c700f22-510a-5101-bc2a-e05e04730757.html"
 type: article
-quality: 29
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Facebook AI
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -81,7 +80,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 15
+  - title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
+    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Silicon Valley Innovation Program (SVIP) to apply its technology to Transportation Security Administration (TSA) checkpoints."
+    publishedDateTime: 2021-04-22T15:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transportation-security-administration-checkpoint-screenings-1030334474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 12
 
-secured: "Z9glt+1fvtaA1ma0Rv19+CwcXCiCKxRKfAUukh7oXxJVvAesr+a5Z247n9HbAmEceyshq4ZnfBuaX1rvrta6TfXlaIy4qR97hRFnbLGAFwZ41weJjBCec8Xed971A23Nb7QGM91UQ+tG1a0cedfOUheBJAVNc5L4qvMZge0jcSRwqxzRjuCKqplcVlH/cLM9utjmxp/C3bGlcnCUAZwgdGlSCUJ6e6+wiTysGKo5U5/bvZTxCFYM9D6wr/js4c7RJ6Ufupb8rZpgiPX04qlRxl/jHFEcJl7jeR0xY2v2/GTJywrUWhSOVPOxiOAcpXNrJFKQA47ixLdJtEDNmzh4d/nvHLYMYUkmGlBbVypRehc=;/4o2j7UiznWR8UgcMtNxKQ=="
+secured: "Ia+FkBs7jxe/IlQucyR9+avzrorQzTh5Ar7TyhkU2l5t0oEK5jX4DC32ijVxrpSjbNpYo7ZGdHMoNC0qIr+i+bwTRFXR7I8Y8kHM0GqdOBSId+6Tw8Yc3GI2U4dwY3Qx8zzpt1g3qSe7I1RrFVwTfcybMMm8NN9PdyOPT93HCBZkk3Bls6+VR15LZnZyPo/l4v4XtQNuBX0sDMiKYWM7o10LW/+83tZ0Ks3HTAUqj70pyGIiPQBD5S9FWWLZcinglCcGS6DyUwkFNf0kB9jnxtxcMZTDm6XfEkDoDKe3mdVYL5AjTUwGJI3xTIEoHJ7zTMb3MKgOzXFS7hI3byR21eegLCAymqBBfc6sqvwuNA4=;mhSXRtF0/YOSm6COoRdQ+Q=="
 ---
 

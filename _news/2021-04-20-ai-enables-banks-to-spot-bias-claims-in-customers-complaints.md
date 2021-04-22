@@ -134,20 +134,6 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "China and Artificial Intelligence"
-    excerpt: "The U.S. National Security Commission on Artificial Intelligence released its final report recently, listing China as a strategic competitor to the United States in this field. The report describes China as a U."
-    publishedDateTime: 2021-04-19T22:50:00Z
-    webUrl: "https://thediplomat.com/2021/04/china-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 37
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2019/03/sizes/td-story-s-2/thediplomat-china-flag-cyber1.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "WL+YYPk4IlMvqnUT/AldJER8+WIIOohtEwKWSulRS9l1zwozaQjrpMa3jNutO9Kyakl7bbJlBXdfV7Ad/YPvFHQdw+pxs+2asV9c94K7wvr9r0CBqTgt2QnQJri1T3SvNf4m3BEruYs0GFILOX6nJmpWBGKkNPBf8AQSih0TK0hAw6NbKuSvjSczphvaDFsKkBn3PN4uB3ZzaptxN3wrsLG7G2OjSnscy9LwbIyBxbpK/mfjYa2NYZj0Xt6810oD86RA2QUvl/wMsMuqzaiBX3pb+LSuhPKXhNTT6cZwU0JEErMCcGBFUR5Vf8jpkhe0pUNKudzVn4Fzho7OjRxLPQ+2aHFmxGKoJf59ThOdUJvvbA/iiQEQLOoB4+TFlkpyY1nSl5vmp2VbGAyUWCYDgqSY8nkwtf1HOMqez7tJo/TrN27ad+/ahSluYgVMS36aY1WoFQC98c22lhfP9X5Aj3PdQOlWTsa3LUtpjZ+RuAQEF1GGZFmjLU898HQTy+12iHAQxR5PpWbplgRGIwvBmQ==;p84/p+TK4+BZeBIsedjp7w=="
 ---
