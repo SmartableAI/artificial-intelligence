@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Joins with AI Pathways Program to Expand Access to AI and Robotics Education"
-    excerpt: "NVIDIA has entered into a three-year partnership with Boys & Girls Clubs of Western Pennsylvania (BGCWPA) to support the AI Pathways Institute, a program that exposes students to artificial intelligence and robotics education."
-    publishedDateTime: 2021-04-20T21:48:00Z
-    webUrl: "https://thejournal.com/articles/2021/04/20/nvidia-joins-with-ai-pathways-program-to-expand-access-to-ai-and-robotics-education.aspx"
+  - title: "NVIDIA Crushes Latest Artificial Intelligence Benchmarking Tests"
+    excerpt: "Goodson dives deeper as in its third round of submissions, MLCommons released results for MLPerf Inference v1.0."
+    publishedDateTime: 2021-04-22T21:26:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/22/nvidia-crushes-latest-artificial-intelligence-benchmarking-tests/amp/"
     type: article
     provider:
-      name: The Journal
-      domain: thejournal.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://thejournal.com/~/media/EDU/THEJournal/THElogo.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6081e85001858f30506843b4%2F0x0.png"
         width: 1200
-        height: 630
+        height: 680
         isCached: true
 
 secured: "1JM0K2UfBnHBiWOSSAlAofeTppL7oOm3geUBf/APklI2DN+OOggiwqoPyFqgb08rsei/0a/vZhoawc/XKKM+CP2hM6n/aCic7jwnHdGpJjYRHeGxCHTLCb8O9ySDDJHHz1HqQZ091vPl3YhDoj6kQ093OTiStT2abR79qm4VIchU9ZVrRIdwdVyhrM8MepfpKPt4UMJrAPTjK+ZhcaJTUJAk1buzQw3IIGvSOdAiL2gBA9dhdmqUpXBYSEXtExA4tRmtedsVVgAchqBJFVlKiGcOK4Ho8bSC0dtfWT9ayjwVsInSVFhDELM5ArMxsk+tjnYztnWIAPXh3wkcj16GZdy4cDBFXyBJhKvGFvna64pcZItMrmorRxuwKSEH5uFFC6b3fj0dtPb5wIKvX5tZ+XXEalcwh9NgE+c2R74SvDf0YAaS3wVEJDOItdjkhV8kiq/T6I33yH7HCrAZbAzv903CdhcLzefmP5vdSqd3RhWEVM1PRDPQmpQ0zqAU+WpIShg+FwLKnKQfUp0ok7HwYA==;IuBjJrTfz+3PCaFhZKh5RQ=="

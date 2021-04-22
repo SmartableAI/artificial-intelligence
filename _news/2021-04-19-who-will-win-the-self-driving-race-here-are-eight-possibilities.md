@@ -70,6 +70,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
+    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
+    publishedDateTime: 2021-04-22T20:43:00Z
+    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 23
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "PLlBGe9VLXOS6tSQTkRBCbvehjfGyUelzrE6FptBOF8N3RX0qj+HIDQlSSX37iKHiBFFqDFf0rMUh9mg6KJ8WklvkyhqlrfMAqcVDQDVfJK5ZAyk5U3JCCd4QuQL1iQwpZDYIuriqq0ijEeQSdnpjcGFrdW5jZiLgEzT+8nijToa+sFRhmWyu9j8o2Wupay/YXZPzEBQLEKDz6cr9GMbBybEs0nvA2sy8ZY3V/z1OaF4v3ACukpW8jX/b0P3QHCVQaPV83byoZcopSMiUFyC+J2awdUnegek/HNBPtG6XTq7xOdzxYcklNNYDdsSTvfQeRHeBNR3xEE3kTF0sHbX6DQTLF1ZAJWfucs117UO8Sf4C9855aKHd2UBbveXEZKEbnQqjDDN6usI+JGeUharAiCObNteC6SLslLjdygFPMplgSOxZylJ1D3u0WP5ED18mLu0nVaIPonAaIS9GIr+htbzHAum4TzA6ChMUjmIQ/oteIfjSMWMW46FyNEiHcfN9x8FqhtUqD3VvURkU3Z+Dw==;HZ4Hu0q7MsBLVOW9GClXKw=="
 ---

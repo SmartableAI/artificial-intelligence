@@ -65,6 +65,20 @@ related:
         width: 560
         height: 416
         isCached: true
+  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
+    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
+    publishedDateTime: 2021-04-22T20:43:00Z
+    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 23
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "eVt+ob2xlq7uvUGH+LlBfFH6YYdPpIqAGK8Gy5EM4LsA5H99NgmIO/6gihmAZX26EP3I0dPkzGcvtz+vCrRxBcLziuP2fFQA25rvrGUAfzDd4LW1PA4arqTALmaQD2la9N/0el8NIRkMCBMRXwSaNoJa5BTJLGYi+APcz8fI+ENR6hNRZq6Ff7OKfO46LzKI+vpfX+Iqun3lgW6b2KSKuTjHx9/knWSFfADfGGLA82MiniAKc/945PFPKxIzTR5FpJ46hNRGxm7VGkMs2zp0EG8eUzrBtI8irY6RZTSnmsaxOkJkTinVWc1T2bJqRq4vGQ2eT7qLd34ZJS8QpD160CU16nhuSx063QNmw1TCQjA=;SRKH7nhtvBfcMUq5xT9iDg=="
 ---

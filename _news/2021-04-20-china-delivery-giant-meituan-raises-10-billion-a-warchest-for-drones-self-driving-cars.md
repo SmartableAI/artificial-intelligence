@@ -25,19 +25,19 @@ topics:
 related:
   - title: "Meituan raises $10 bln for self-driving cars, drone delivery"
     excerpt: "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273."
-    publishedDateTime: 2021-04-21T07:14:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    publishedDateTime: 2021-04-21T13:14:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/17/55/03/20893889/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "LsfDHFC/Po8v9nZgcgwlRk1akcQbmqlCW/DZ9MFdg0V7UH5gtx02EK/nI4IHSBOn1+JriWjkGDW7wUk6/hSQH4GfphoIc/MPCgEh7XlChsUrePY53pm+Ua0SSg1jFhmkO9SUTYit3DBhdAuzB3asVVfEav0iprRdy8gruz093gk7+YKZjUT7yjn+T3NL4w+U/ZjBX2ThYzWYBMP0vi4AEUQ4HJMa82TM+MUmOMKDPPmx8ckh2GR35pBgfFu+FQBamHwcmBe8gD4rYE3tNm+YecFTPYULYU31mqQBMcRlBAZc7AQj7HOmEzgKaBSsUm6511sfZRmvNgegY+7Ua70ksSX+rvoqDIo2CMhJiOT0EZivt2Io46qbucqNZ2mQyabj9kYnEvAu/fuPqcBse/QUSyXS8CWjb1KPwvP7j9iXpn3zTcuY1Fn7gwzlpkuFVfIVOWNZRnMV7z+R3zMiY4TULZaEiZYiPG1ipJNORFq+UFjLBSHGkvX+1jfxPOdlPGMpgsD0xH7FwvzwZ8yHmb/VlQ==;3oHWnr0q9aig45gPZhedDQ=="

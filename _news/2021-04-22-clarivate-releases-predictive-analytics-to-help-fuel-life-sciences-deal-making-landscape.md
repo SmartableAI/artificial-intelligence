@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
-excerpt: "Cortellis Deals Intelligence features new trends visualizations and predictive analytics supported by artificial intelligence  LONDON, /PRNewswire/"
+excerpt: "Artificial intelligence (AI) can provide a more sophisticated and ... Users can quickly and easily search for and analyze deal sizes within their therapy area, molecule, and partner type to predict deal values and assess risk. The predictive analytics ..."
 publishedDateTime: 2021-04-22T08:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20740634/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
-webUrl: "https://www.benzinga.com/pressreleases/21/04/n20740634/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20740634"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20740634"
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/n20740637/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/n20740637/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20740637"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20740637"
 type: article
 quality: 15
 heat: -1
@@ -100,6 +100,6 @@ related:
       domain: prnewswire.com
     quality: 0
 
-secured: "PnhWLl557gTShDdbot5Dx4ECY0XFzW8OoZMuQi8ETjEkH2gJwV9bySCKot8qWSPExwP1LCoACkRmv8jyykpuy99wwP3voucM6iYAV5j3dU7HHv1VSjjCdsCU4HKDgBQCtxIGd9tGRTWhp/aqDFE/vLOmh189OWXabRqut5Rn98ANogDo7y7W0EnpSMXf4ckBlt8f1I1YbwwZm5bplQPYwnnFWfBulzs3ozDPLJFyV5SWW3Q3GwktF/iEL1ey69zAInXAAUUdjYmtUcZDiBNM72XPgDuWhiNAQTtfZ3iieVWjwDfl26UPKx3CGp+SgQ/P9p+A2ImOJ+/Fe3Rv5AqDmXAJ4SJr6toCHcEsMRwcT+w=;i8C96RSfdRg0kSCX3WtXJA=="
+secured: "/vlKVyTsux3kYU9qoo75QLu5MCacnl3SEOdFnsMVaOoYCTbKsFRRuGL0Df1LTR/aYcAHpl8PRYWTJn22GN6eymS/mgaAj1NwtYDl30bksiNV0Igsfs0/HyK7fan/zYD+KRnmOtVZaJxzGAFvOA52Ro0B76SfkFyUT94E2E2dK3SxyJpTQkX7F7ulWJo3HIDq04nYi1fEOb5xibgiqrD1sRtmxNGhACI6wh0r18dnANVtdfn3yCgSwjfCeFIBHRFznMVq8A2kUFw5C5PIhwWl+FB0Ri6EJz+KfoMzLK8cW2qF0ReZ/M5KoB1ZIpN0eq9XK+MkM2v3O5zw0Re7k80++bIZ1gLCcKply38iHwP8wPQ=;YdISxh6tK9fMa4C97y2rgQ=="
 ---
 

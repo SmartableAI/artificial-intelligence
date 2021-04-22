@@ -35,6 +35,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Measuring the advantages and obligations of artificial intelligence"
+    excerpt: "Until recently many people based their opinion of artificial intelligence on what they saw in big-budget Hollywood movies such as The Terminator. The 1984 movie prophesied a cyborg killing machine set far in the future."
+    publishedDateTime: 2021-04-22T21:27:00Z
+    webUrl: "https://www.canadianlawyermag.com/resources/legal-technology/measuring-the-advantages-and-obligations-of-artificial-intelligence/355251"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0299_637547236558675328.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "AGaunzDsklzVICBkfqmQpm9C16FKjmds8ZCntj7TVEiqG42HSDU8cocm+8gGVBGmleejSMsO8WS7pnNrs/M0+bazS3AS9aVar80tt2ybyMu9uHWfZ0dYaUnS8UQpTKmDyTyam4pkFN/nbkW+mqrnsYPXRSJVBdMFuVPU6h4XMsCMSM6DGuUW+CKDl8H0UFYcECtNqIqidcBUsa0vS5UMMaQYoNlOU4YVoCcDud33TZENLQPen1TzMkeWKjo5ku1qv24z+FYEIspmPpaUBcLhFHzYQ3AWW552GrzWgSrOt7qw/Z58dZeXdaC2fQ9SZoVt6cE78VqsUJV7tA914PRq5pLDQYaPciziAxFVEIatkMY=;9yu/AlOuwJcTrPSEj7lz4g=="
 ---

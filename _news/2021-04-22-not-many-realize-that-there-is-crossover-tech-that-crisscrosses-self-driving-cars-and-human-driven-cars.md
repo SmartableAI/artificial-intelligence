@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/22/not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "‘Self-driving’ cars are still a long way off. Here are three reasons why"
+    excerpt: "While the technologies required to enable higher levels of automation are advancing rapidly, producing a vehicle that can complete a journey safely and legally without human input remains a big challenge."
+    publishedDateTime: 2021-04-22T20:43:00Z
+    webUrl: "https://gcn.com/articles/2021/04/22/self-driving-cars-challenges.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 23
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "WqDJXfwuKh7UT3zF9OlHCssfzW2BnjRLCT3wzdiObM4pZIesW0XK8y04LgL8ZU0GjPpdiRbGtSMylwfo8LA9qpf8OtPiHJq1emhEQjItr5dMEl4jWYLSMq2nQwLqfTzB/QQVq/DbY/Hcu8kXmQ+U7mlic96PXI/uwz5csbc2T/9/sTPYKC/ay5IIEOSaifOi5NM25Ka5RI+V5yPBC4UN1HRVUSpQ4VLw8N5dm5C7y9ETjqICu9pQ0UgsFyFvoS2zrPwGSSAedbJUHv1j25x/9N8YkxPE7R/1T0udMBTcLDx+yDqeNKC04goIlzPlOn0caYqsArtkN3usrtBn8wJ1sUOTCo6vYN0CVrRm+b4BpgXEajJCM5ES13dlR2hdp/onPkX3ubJekqMF/c3Ci7UsEKLITV6/I3bFaSaEe4bi+LyAXzCcipRhMpX/+bD20vAXJq7KeLGPaBzzxuHMnltBkKZbjW8ovvKPnpTvJ3LeS4LJujX4/Dn9QZ+rJt0mvp/mgl/x1TniJ4ll40/nwb4uwA==;FmK2GMu0CFj1Y4e2Jxr9Ig=="
 ---

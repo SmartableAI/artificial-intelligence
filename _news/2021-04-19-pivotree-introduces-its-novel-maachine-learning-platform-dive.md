@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/news/pivotree-introduces-its-novel-maach
 webUrl: "https://www.cioreview.com/news/pivotree-introduces-its-novel-maachine-learning-platform-dive-nid-33380-cid-175.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 300
     height: 350
     isCached: true
+
+related:
+  - title: "Search Machine Learning Courses"
+    excerpt: "Search US News Skillbuilder here to find courses by subject matter. See our full list of courses to get started."
+    publishedDateTime: 2021-04-22T20:24:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/subject-search/machine-learning"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
+  - title: "Search Cloud Computing Courses"
+    excerpt: "Search US News Skillbuilder here to find courses by subject matter. See our full list of courses to get started."
+    publishedDateTime: 2021-04-22T19:52:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/subject-search/cloud-computing"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "iZXtPL0R7uAvekpEDvmrGA2M6zWEsx6CA8x8L7uO8rI0YWxfrvwg06MpJ1p6p7DtCWbH/Vx+nCmfc9ImcJDZNpSBE2LYSLOqlDI2PHDP5eVX1bYvT1lIQetbX+TSIGokTjU2S5WqZZDAt7Ryx094zlDBcIttSIlbwEjE2vRRekGnEWnNXthlT8VWnFShmo3UH0NRUvzKbY2GoMsLrX44iJEHnLcCUOjXqCUXt87Xh7o6RwozHRXSbrmLdTkgztRFOqRGn9FzkoOGuqsb31hsstmXMts55BWX7aVXO/ZMapM83uuIllYDiiWmoELf8Vdg7iEPV2UbvNP++seS4xD3Ni5edknqUCk0xnM2V2c0Hfg=;oAnnUIPzPN2PE1E6qgpjiA=="
 ---

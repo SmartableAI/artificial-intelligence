@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-conc
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Measuring the advantages and obligations of artificial intelligence"
+    excerpt: "Until recently many people based their opinion of artificial intelligence on what they saw in big-budget Hollywood movies such as The Terminator. The 1984 movie prophesied a cyborg killing machine set far in the future."
+    publishedDateTime: 2021-04-22T21:27:00Z
+    webUrl: "https://www.canadianlawyermag.com/resources/legal-technology/measuring-the-advantages-and-obligations-of-artificial-intelligence/355251"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0299_637547236558675328.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "2 Unpacking the Ethics of AI"
     excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
     publishedDateTime: 2021-04-19T02:52:00Z

@@ -2,28 +2,28 @@
 category: news
 title: "Meituan raises $10 bln for self-driving cars, drone delivery"
 excerpt: "Chinese food delivery giant Meituan The Beijing-based firm, China’s largest food delivery platform, said in a filing to the Hong Kong stock exchange that it sold 187 million additional shares in a top-up placement at 273."
-publishedDateTime: 2021-04-21T07:14:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-webUrl: "https://www.houstonchronicle.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-ampWebUrl: "https://www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+publishedDateTime: 2021-04-21T13:14:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+webUrl: "https://www.seattlepi.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/17/55/03/20893889/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: usnews.com
     quality: 39
 
-secured: "B0WdHuo+oF8qw28ZrQXc+rpij/SUr1qRCIPNg+3A+mPbJCa1405Ck9J61+7Bo4zCrzBHvsVay/2DkNjFov0gan0pZZb0bpDSo/8DnTzSDD+t4/KHnBgTjRC9jZwWvTQTbtwre44g2hz9oJfpcYY/HmhZ5ApF17+bFWOAXaf79dpLEnGtbCcPkXDv8MitsRYpXSjVSIj11237nXwO3ObNKTjRTJgy53bUfTqfbr9IKxLvy0Zr8zpiO8dP8ZQnMfKRBnp78by1eiIW9ynt6W0GKY861tjYTZRPzOxMnXSM8U/3hyKTPHWwVJeoUI8RBRgNQcObqjPBJ8ufYSVCi1MSYET5mFoB9/av/e0+DAbW60OZZM1MEkwB5EdrVHjBUPAL14v46kOax92yk29MG6yOV5TdD1QL7Ct5gWMNJSHebEMfD+QoK0fQnn3NdgtG8AETHSSf6sqjJDMOSi+XqwCYVJ382hU+oJQaMdknZhmSJgVBYAJFXvfZ/wQeJ5mlz1ztOcpgcDBz5/1s4/3W2G9rwA==;JwFokwSXrRDgwzEx73G/3g=="
+secured: "iky1s1bsU4RHVuyTUeASktR41Jnanlb1lcsg3bpD46lBpRAi+tUqyFctm7xI2HiRo4ZZx7DfaPMndKmYCFXWWaL17SGDkIt0H53Hg70m/nnpCJGYTU4Idk3CN7KjV095G64CphbAgokZkLBjRz2/rW2e1Kr/Sg2o+bVsdev5y7rvpKq+aou15q1cx9icY8Wp3WHtfyatY26LjB70n6DYW+JsnYwH3t78k8FLLkRFoSF81F7Zz+gLsxVADS0nm9Bz3dfsljlMMVOdnbSbXqzB6MICFKShVt+9USTJ+xYw7zH/ax9Qlvvrmm9OLL6cXjJM/9PfhTMuO1GxG7gOolcXY7Et+sJ9AUOhcx8kgcrzV74=;Wt98uzvOLIC1bV7SBRvlwg=="
 ---
 
