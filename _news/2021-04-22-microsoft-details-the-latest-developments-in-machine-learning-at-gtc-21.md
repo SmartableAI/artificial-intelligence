@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-deve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
 type: article
 quality: 125
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.channelweb.co.uk/api/v1/wps/9741a46/515805b7-19a2-4320-917b-c56e319c031f/2/whitehall-government-it-cloud-computing-money-savings-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "NBA, Microsoft Launch Advanced Stat Platform for Fans"
+    excerpt: "Azure’s AI and machine learning will use Second Spectrum-generated player tracking data to create leaderboards on the new CourtOptix section of NBA.com. Boston Celtics All-Star forward Jayson Tatum, for example, is said to shoot 39.5% on high-pressure ..."
+    publishedDateTime: 2021-04-23T07:05:00Z
+    webUrl: "https://www.sporttechie.com/nba-microsoft-launch-advanced-stat-platform-for-fans"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 39
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"

@@ -102,6 +102,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "NBA, Microsoft Launch Advanced Stat Platform for Fans"
+    excerpt: "Azure’s AI and machine learning will use Second Spectrum-generated player tracking data to create leaderboards on the new CourtOptix section of NBA.com. Boston Celtics All-Star forward Jayson Tatum, for example, is said to shoot 39.5% on high-pressure ..."
+    publishedDateTime: 2021-04-23T07:05:00Z
+    webUrl: "https://www.sporttechie.com/nba-microsoft-launch-advanced-stat-platform-for-fans"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 39
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
     excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
     publishedDateTime: 2021-04-20T12:57:00Z

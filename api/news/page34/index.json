@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-26-broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-of-industry-partnerships.md",
+      "title": "Broad Institute launches $300M Schmidt Center to merge AI, biology and a slew of industry partnerships",
+      "excerpt": "DeepMind, Google Research and Microsoft. “Learning the programs of life will require new and collaborative approaches to creating data platforms, analytical tools and biotechnologies,” Philippakis said. “By bringing them together, we can nucleate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/broad-institute-launches-300m-schmidt-center-to-merge-ai-biology-and-a-slew-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1616769970/Broad08-017.png/Broad08-017.png?whguB914xejZxPvx93rU79qUiLEAa93q",
+          "width": 2210,
+          "height": 1244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-how-ai-could-make-the-new-nintendo-switch-a-powerhouse-overnight.md",
       "title": "How AI could make the new Nintendo Switch a powerhouse overnight",
       "excerpt": "The AI-driven feature that’s used in Nvidia’s RTX-series graphics cards and possibly the new Switch You’ve probably seen the acronym “DLSS” appearing in more gaming and tech stories recently. You might know that it’s an Nvidia graphics thing,",
@@ -1118,49 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
-      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
-      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

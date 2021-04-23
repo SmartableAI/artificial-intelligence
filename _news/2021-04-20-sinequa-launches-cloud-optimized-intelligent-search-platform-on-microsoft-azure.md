@@ -109,6 +109,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "NBA, Microsoft Launch Advanced Stat Platform for Fans"
+    excerpt: "Azure’s AI and machine learning will use Second Spectrum-generated player tracking data to create leaderboards on the new CourtOptix section of NBA.com. Boston Celtics All-Star forward Jayson Tatum, for example, is said to shoot 39.5% on high-pressure ..."
+    publishedDateTime: 2021-04-23T07:05:00Z
+    webUrl: "https://www.sporttechie.com/nba-microsoft-launch-advanced-stat-platform-for-fans"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 39
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oPSX2oInRl+nyOkIVk/LAvJRURDNnUKAZbk1k6+OI9Dcfm3eUQ1gw8klD3QBN70p5KNvrHgE/FXnIxERIyDmPciA5vHMR21Xq1npdz6LWQkx6ZoQuFfY/l7XJK2vk2FjFLxCyffKzlh8jL1Gki2liFFTljyk/f2NFmk+bu4JQUt0XcGKtuerVnjcJriKoMg84tMwRlfWucNIZFxgqy1lLQox9foZTwQdTJo+F+qb/jrbKk+vajfohRh47dX3b/uuR/Z4SK6jXjPPLY6uL2uIkDtv/sMpTvBj//rCRWh+sE2kxvB2YuZbUI6Wi/hyhP6kPdVqIiQcoq02I6SL6uSy/5rAPgBdK0mOKOZ+fmriUsU=;Ip+41S8FGy3UCIFwsPUY3Q=="
 ---

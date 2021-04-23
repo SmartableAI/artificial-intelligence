@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wealthfront-delive
 webUrl: "https://markets.businessinsider.com/news/stocks/wealthfront-delivers-on-self-driving-money-vision-changing-the-way-we-manage-money-forever-1030324222"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "Meituan raises $10 bln for self-driving cars, drone delivery"
+    excerpt: "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ..."
+    publishedDateTime: 2021-04-21T06:54:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Self-Driving Shuttles Find New Uses During Pandemic"
+    excerpt: "Local governments found themselves with pressing needs during the pandemic, and pilot programs testing automated shuttles stepped up to help — for example, by delivering COVID-19 tests and meals."
+    publishedDateTime: 2021-04-20T20:36:00Z
+    webUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html"
+    ampWebUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1009681174.jpg"
+        width: 848
+        height: 630
+        isCached: true
   - title: "China Delivery Giant Meituan Raises $10 Billion - a Warchest for Drones, Self-Driving Cars"
     excerpt: "The Tencent-backed firm with a market valuation of $220 billion said it plans to use its new warchest to invest in autonomous delivery vehicles, delivery drones and other cutting-edge technology. \"Meituan will use most of the capital in updating its delivery system which currently relies on human drivers and will soon be unaffordable for the company as labour costs continue to rise in China,"
     publishedDateTime: 2021-04-20T07:42:00Z
@@ -38,15 +70,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 39
-  - title: "California based Fintech Wealthfront Launches “Final Set of Features” for First Version of “Self-Driving Money”"
-    excerpt: "California based Fintech Wealthfront launches \"final set of features\" for first version of \"Self-Driving Money.\""
-    publishedDateTime: 2021-04-21T02:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/04/174405-california-based-fintech-wealthfront-launches-final-set-of-features-for-first-version-of-self-driving-money/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "GSpEvy+MH49TM7EhOll4+2YhfOPjbjDQIwlc0n0gdnbYwIfkQZKDiyWj9R6W5YyaBEmRzPtq1zuBgaFdvrU6djP2VZhZQYlaQH9QDdBiuhdN2lu5ETGj4+kN75Fxgpxdgir61Q8x3oHqew8QwW9obXRYmYWCNaIYeypKbGPUhWTYGVg5V34WrbsyMqYJXWQVQ8RYQbbgAe25SbKnWeCj0IOmCtZLhMn856M6TAJjAbrM5RyFVh7i15ej2UIQl4L80D1NKRSCha8xFKwEmHECnRzHZOfQt+nHUGAnDgYpTmUjHF36DeOebRylxFBADJVo39xNDNgg/6i5DoRFWUSz2EycgV/iDhAIBL4NC+VFDOJeUSwHsgQ8SSB6itHlQ+dxQtW2q0aH/NL3TZcMfupcu5h61UgNwDnAtNpscO/dEubWG7JyoJZgg2I0T6fAO3ZIgaqIU/NMtSJnFJz3PPZ1auxSOecApNJ7s5+ymV2HoMnOUDhw2/u8VPKshg+7vUKvIu/X0ahYQD8nm6bPHy/Ztw==;Kwvr9bVt+lUVw5UpUIAk9g=="
 ---

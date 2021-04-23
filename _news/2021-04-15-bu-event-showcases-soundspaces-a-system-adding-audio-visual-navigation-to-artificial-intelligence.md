@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://dailyfreepress.com/wp-content/uploads/42271822770_09cee734c0_k-400x320.jpg"

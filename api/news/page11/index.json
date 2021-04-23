@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-13-protecting-people-from-hazardous-areas-through-virtual-boundaries-with-computer-vision.md",
+      "title": "Protecting people from hazardous areas through virtual boundaries with Computer Vision",
+      "excerpt": "As companies welcome more autonomous robots and other heavy equipment into the workplace, we need to ensure equipment can operate safely around human teammates. In this post, we will show you how to build a virtual boundary with computer vision and AWS DeepLens, the AWS deep learning-enabled video camera",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/protecting-people-through-virtual-boundaries-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/31/1-1558-Architecture.jpg",
+          "width": 800,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T11:49:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-machine-learning-can-help-slow-down-future-pandemics.md",
       "title": "Machine learning can help slow down future pandemics",
       "excerpt": "Artificial intelligence could be one of the keys for limiting the spread of infection in future pandemics. In a new study, researchers have investigated how machine learning can be used to find effective testing methods during epidemic outbreaks,",
@@ -1193,57 +1246,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-10-authors-sharing-the-secrets-behind-startup-success-and-failure.md",
-      "title": "10 Authors Sharing The Secrets Behind Startup Success And Failure",
-      "excerpt": "Making your startup successful means aiming for success while dodging classic startup killers — the best way to know how is by learning from those who have been there before. Here are 10 authors who have seen the highs and lows of the startup journey and have invaluable knowledge for you to draw from:  In the first days of your startup,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
-      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60748186a849c282e29e02aa%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2021/04/13/10-authors-sharing-the-secrets-behind-startup-success-and-failure/amp/",
-      "publishedDateTime": "2021-04-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

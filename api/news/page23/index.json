@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-04-05-why-we-need-new-benchmarks-for-ai.md",
+      "title": "Why We Need New Benchmarks for AI",
+      "excerpt": "An AI system, for instance, can perform well enough that humans ... Ms. Snow is a writer in Washington, D.C. She can be reached at reports@wsj.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "originalUrl": "https://www.wsj.com/articles/why-we-need-new-benchmarks-for-ai-11617634800?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.wsj.net/public/resources/images/JR-AA286_AIPATE_SOC_20191010143234.jpg",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-an-ai-system-be-given-a-patent-11570801500",
+      "publishedDateTime": "2021-04-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-05-a-robots-self-portrait-has-sold-for-almost-700000-as-an-nft.md",
       "title": "A Robot's Self-Portrait Has Sold For Almost $700,000 As An NFT",
       "excerpt": "The gap between humans and robots has just been partially bridged, thanks to the artistic vision of an artificial intelligence (AI) unit called Sophia. A s",
@@ -1135,49 +1186,6 @@
       "provider": {
         "name": "Prokerala",
         "domain": "prokerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-ceo-of-googles-self-driving-car-spinoff-steps-down-from-job.md",
-      "title": "CEO of Google's self-driving car spinoff steps down from job",
-      "excerpt": "IT WILL BE A COMFORTABLE EVENING AT 75. COOLING OFF EVEN MORE OV The executive who steered the transformation of Google's self-driving car project into a separate company worth billions of dollars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
-      "originalUrl": "https://www.kcra.com/article/ceo-google-self-driving-car-steps-down/36017949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/kcra/35042856-new-google-logo-jpg.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
-      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/ceo-google-self-driving-car-steps-down/36017949",
-      "publishedDateTime": "2021-04-02T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCRA",
-        "domain": "kcra.com",
         "images": null,
         "publishers": null,
         "authors": null

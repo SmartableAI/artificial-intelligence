@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-03-advanced-baby-lung-simulator-with-real-time-artificial-intelligence.md",
+      "title": "Advanced Baby Lung Simulator with Real-Time Artificial Intelligence",
+      "excerpt": "high end baby lung simulator with real-time artificial intelligence. The input of an operator is needed to react to therapy provided by the trainer or learner with conventional, complex simulators ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "originalUrl": "https://www.news-medical.net/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/IMG_20210325_164803.jpg",
+          "width": 673,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/whitepaper/20210401/Advanced-Baby-Lung-Simulator-with-Real-Time-Artificial-Intelligence.aspx",
+      "publishedDateTime": "2021-04-03T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-how-to-train-a-robot-using-artificial-intelligence-and-supercomputers.md",
       "title": "How to Train a Robot (Using Artificial Intelligence and Supercomputers)",
       "excerpt": "UT Arlington computer scientists use TACC systems to generate synthetic objects for robot training. Before he joined the University of Texas at Arlington as an Assistant Professor in the Department of Computer Science and Engineering and founded the Robotic Vision Laboratory there,",
@@ -1325,49 +1368,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services.md",
-      "title": "Artificial Intelligence As A Service Market Key Factor Is Increasing Adoption of Advanced Commodity Services",
-      "excerpt": "Ltd : The New Report Artificial Intelligence as a Service Market posted through ... Segmentation by Industrial Vertical: Healthcare and Defense, Government and Utilities, IT and Telecommunications, Media Communication Services, Banking, Financial Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "originalUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cadillacnews.com/app/image/ownlocal.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadillac Evening News",
-        "domain": "cadillacnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

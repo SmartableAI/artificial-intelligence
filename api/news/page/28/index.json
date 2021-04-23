@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-31-these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations.md",
+      "title": "These Stanford AI Lab Dropouts Raised $50 Million To Improve Conversations",
+      "excerpt": "Startup Cresta’s Series B from Sequoia, Andreessen Horowitz, Greylock and others comes as the software maker for retail reps and call center agents quadrupled sales in 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/",
+      "originalUrl": "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606402e25866b237e6b2c221%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/amp/",
+      "publishedDateTime": "2021-03-31T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-dimension-data-introduces-sql-on-azure-secure-and-intelligent.md",
       "title": "Dimension Data introduces SQL on Azure: Secure and intelligent",
       "excerpt": "Microsoft Azure, now in more than 90 regions worldwide, has the most compliance standards for any hyperscaler and four times more native functionality, while Cisco is a global leader in the use of artificial intelligence and machine learning for ...",
@@ -1117,57 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-6sense-which-uses-ai-to-power-account-engagement-raises-125m.md",
-      "title": "6Sense, which uses AI to power account engagement, raises $125M",
-      "excerpt": "Sales engagement platform 6Sense, which leverages AI to bolster various marketing workflows, has raised $125 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
-      "originalUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/6sense_official-e1578989067587.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/6sense-which-uses-ai-to-power-account-engagement-raises-125m/amp/",
-      "publishedDateTime": "2021-03-30T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

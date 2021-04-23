@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20210423/Artificial-intelligence-help
 ampWebUrl: "https://www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 101
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
@@ -66,6 +67,6 @@ related:
         height: 730
         isCached: true
 
-secured: "HgtSzA4S7ncKZQZM9A4X42Xc+2kfnICdTHxnio3ZmpATg+kItt/EflWOmdYeydYmWHX4JwIlmIH+8TUV8PFXFQt1eilmjblylwiW13KOypBefrcBxEghcB9Mg4MxtfMnEXORyaA6lDyX+pMoRQKST6o4IEvot/zgHqFQpSLZKG+fPvkO8DAs4v3llrn5vSMEPtwPqBAKY7Y3SUjsdp0Balr/L7XuLB2ltLqQquIg/0dHCkh3K8eUANlasoV8yPGtUqp/tn9mziquPLS5IofAzkTZpS6xg97MBUgAZjRXjl5QzABiq7f0QDQLG/q5vsmL0tcz9t3sfchApmK099MmOWfb7ALjTOBwYUxOSSJ1Y3g=;5sAsdxIH4L27eayzWOErpQ=="
+secured: "gYaew5bqwVlsLpe+MAWOGzVjaPgjANiiSZ0+4Obl/ZMXIeXbc9qwvd4GsAKK6GTP/6cPYG7u2zZQxpWjwEn+JyJqS5y2WPGZjdQjUKlrvtAypHinlPB4iG+vHTUtFygv46VgW43w4h7cC3AJR87BIfJWII+gyOzrC1E9z+KyZh0j0gwNUwIl9bWubJXEqyx9oSTafSfBPnk36bnvsIw34sZogpgAncR49ZOEXB5qc5wttwPo6/BTNmfTr1N6qMvZAWcUGDBFqCSiPCKKcTElgI5la/d9Mx45hj4u012Cu3qaza00IDK8nPsk0TMjq1MXv/IpdEqBiIe8VOKnI8I+c32t36gjnVGum0IUcsxICZI=;05/gmuJThKw+Wx29uAF8aQ=="
 ---
 

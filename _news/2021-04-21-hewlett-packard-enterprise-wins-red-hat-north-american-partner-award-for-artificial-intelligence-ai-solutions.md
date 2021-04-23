@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "My Legal Einstein Partners with the American Bar Association to Enable Attorneys with Advanced AI for Legal Contract Review"
-    excerpt: "My Legal Einstein, the AI-powered Legal Contract Review software provider, today announced it has partnered with the American Bar Association's (ABA) Blueprint program to help establish modern law practices by enabling attorneys with market-leading and advanced AI technology for legal contract review."
-    publishedDateTime: 2021-04-20T16:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/my-legal-einstein-partners-with-the-american-bar-association-to-enable-attorneys-with-advanced-ai-for-legal-contract-review-1030324319"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
-
 secured: "waA7YgojNmlLiycBT2xdiod30jqNLIAnulUzA+RE1fgG4x0oWNltDj34zXr/8L5TZ6GD6Io03OBqFBjB6nSbq0pjmvPZfNQ3o/2rvFr7GCJ+rHTc1gAG5uBo4Rch8OgqjUCOyrqT7x2H9DXuGXhv/wXHDlTEbSj6EMVAx9DOl9HmDWoDlEx19D/lGzzzBfZRr8wVBiKA1QYnb6MR6S8RiCQGoWqC9F/ZG8hmpjG7Zg5amMH5GLiGA1e7DbwBHvuwO3rny1PBnSx62hksJNl3GCYn2cQO0tR4dA2vdtpuj+e7FofBeCZt8GKZDSIty6Lf63FL5D/b/mUIkt1ZX6EUs70ckLKSK/3T1sxVnE4hV50=;QmbaGVgF+nF+abheHk8QZA=="
 ---
 

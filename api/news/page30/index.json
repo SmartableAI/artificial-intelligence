@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-30-cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits.md",
+      "title": "Cloudera Foundation merger strengthens data science and AI support for nonprofits",
+      "excerpt": "The Cloudera Foundation and Patrick J. McGovern Foundation will merge to launch an initiative to promote nonprofits' adoption of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/",
+      "originalUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/amp/",
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies.md",
       "title": "NAFCU Services Announces Persistent Systems as Preferred Partner for Digital Transformation including Cloud-Based Technologies",
       "excerpt": "“Adoption of cloud and other cutting edge technologies including machine learning, automation ... enterprise modernization and next-generation product engineering to financial services institutions for 20+ years, as well as other industry verticals.",
@@ -1129,50 +1180,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-facial-recognition-how-closely-is-big-brother-watching.md",
-      "title": "Facial recognition: How closely is Big Brother watching?",
-      "excerpt": "Two years ago, Amazon decided to outsource the use of its facial recognition software, Rekognition, to the police, sparking nationwide fury in the US—only for Andy Jassy, CEO of Amazon Web Services, to defend “regulation” by the police. When a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/facial-recognition-how-closely-is-big-brother-watching-news-columns-vd4fg8gdhdhdg.html",
-      "originalUrl": "https://www.sify.com/news/facial-recognition-how-closely-is-big-brother-watching-news-columns-vd4fg8gdhdhdg.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/soying_vd0mxsaeaeifc.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

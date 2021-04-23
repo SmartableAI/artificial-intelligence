@@ -2,26 +2,28 @@
 category: news
 title: "Meituan raises $10 bln for self-driving cars, drone delivery"
 excerpt: "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ..."
-publishedDateTime: 2021-04-21T06:51:00Z
-originalUrl: "https://www.independent.co.uk/news/meituan-raises-10-bln-for-selfdriving-cars-drone-delivery-hong-kong-chinese-beijing-moodys-china-b1834926.html"
-webUrl: "https://www.independent.co.uk/news/meituan-raises-10-bln-for-selfdriving-cars-drone-delivery-hong-kong-chinese-beijing-moodys-china-b1834926.html"
+publishedDateTime: 2021-04-21T06:54:00Z
+originalUrl: "https://www.ourmidland.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+webUrl: "https://www.ourmidland.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.independent.co.uk/2021/04/21/07/China_Meituan_97795.jpg?width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 800
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -41,7 +43,30 @@ related:
         width: 848
         height: 630
         isCached: true
+  - title: "Wealthfront Delivers on Self-Driving Money™ Vision, Changing the Way We Manage Money Forever"
+    excerpt: "Today Wealthfront launched the final set of features that make up the first version of Self-Driving Money™. The company's relentless focus on automation has led to a financial ecosystem that is not only lightyears ahead of anything else on the market,"
+    publishedDateTime: 2021-04-20T15:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wealthfront-delivers-on-self-driving-money-vision-changing-the-way-we-manage-money-forever-1030324222"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1491878/Wealthfront_graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "China Delivery Giant Meituan Raises $10 Billion - a Warchest for Drones, Self-Driving Cars"
+    excerpt: "The Tencent-backed firm with a market valuation of $220 billion said it plans to use its new warchest to invest in autonomous delivery vehicles, delivery drones and other cutting-edge technology. \"Meituan will use most of the capital in updating its delivery system which currently relies on human drivers and will soon be unaffordable for the company as labour costs continue to rise in China,"
+    publishedDateTime: 2021-04-20T07:42:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-04-20/china-delivery-giant-meituan-raises-10-billion-a-warchest-for-drones-self-driving-cars"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 39
 
-secured: "MCVr3t4SXKhVyn91m/2iY1KJNYh7nodTQaZObqkEIlc7BwWT7mbGCx64rQ2360Q4MzWJsOP4jToPNLnq6jpWwhMNrZFA5NRBzJbK1ymnKsIjkm4U0L+q/NrLtREs6qJ/Vfus5+kIQJ7eh8Kc5X+o5cMU74B5tL4x4PMfijabPJIUw31Gxx1jdIWENFWAEJnx3qJauiCwM9klrX5Ft14Y9Y6tJscFYTOcaRB5s1a0nnOtGyd3iy9CR7Znu/En69Bkmau1ZGdj7sntQvFuVUbSDnI4Lg3zyiiZvsvAIh0YhcxHs228mxxFsQXv026Ugfvxm+M+SziJ7tpEUWnwmW3LJpZHuaI/0f6G5wOk/gD5NZA=;Wwt+fexmCVDES1dqGLC9ZQ=="
+secured: "fmPDRvgWck24l41BW7+awvD9dueZ0B9fB4bhoTbl97/DCRs1+MAEnknKMM4oKjcrhM2SCm1w9vAheDKHVTn83HUpI+MRQ7dAsIj3hDYVVbwaee4sz+WWOTCyCmIarFE8XSdhdJlBe2AKSXULg8AW6HFAgNkhlVj5ymDBdu0YJMWd04lN5s6aULp5I+jfuqyD1VqjCBy4SLkayR1pak4PRxsa8wQwgwILM0ZBlROmH11Y2jIazvZxir5QQPUxoPZKNwGK5IkBK0g6LHlTzTtWduovFlQxM/J84PadRn3rvfnhmr0aLMXPtPTinISXZ2/JVDcPOquWV/B58MRWov89iMaLFhbeF7jZoLBF4Ox9Umo=;N76Luaw/mhw0nm5LNc5FCg=="
 ---
 

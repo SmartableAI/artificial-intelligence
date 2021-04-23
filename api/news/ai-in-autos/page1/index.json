@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-meituan-raises-10-bln-for-self-driving-cars-drone-delivery.md",
+      "title": "Meituan raises $10 bln for self-driving cars, drone delivery",
+      "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ourmidland.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "originalUrl": "https://www.ourmidland.com/news/article/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "cdnAmpWebUrl": "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Meituan-raises-10-bln-for-self-driving-cars-16116728.php",
+      "publishedDateTime": "2021-04-20T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Our Midland MI",
+        "domain": "ourmidland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
       "title": "Europe proposes strict regulation of artificial intelligence.",
       "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
@@ -648,10 +691,10 @@
     {
       "path": "_news/2021-04-16-driverless-truck-developer-tusimple-debuts-on-nasdaq.md",
       "title": "Driverless truck developer TuSimple debuts on Nasdaq",
-      "excerpt": "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ...",
+      "excerpt": "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
-      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq",
+      "webUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
+      "originalUrl": "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -661,7 +704,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T02:04:00-07:00",
+      "publishedDateTime": "2021-04-16T01:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Techinasia",
@@ -1444,58 +1487,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
-      "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
-      "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "publishedDateTime": "2021-04-12T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
