@@ -64,6 +64,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
+        isCached: true
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
     publishedDateTime: 2021-04-22T13:15:00Z
@@ -121,13 +135,13 @@ related:
         height: 675
         isCached: true
   - title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+    excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
     publishedDateTime: 2021-04-20T12:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+    webUrl: "https://www.financialbuzz.com/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 30
   - title: "Form D Friday: Microsoft's fund invests in drug development startup"
     excerpt: "AI biotech company 1910 Genetics Inc., based at LabCentral in ... Knox handles the paperwork behind the rental process for a cut of the returns; last year, the startup raised $3 million in seed funding led by Greycroft with participation from Pillar ..."

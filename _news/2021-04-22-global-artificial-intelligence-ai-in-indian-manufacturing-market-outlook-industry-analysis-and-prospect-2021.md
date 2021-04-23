@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
-    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
-    publishedDateTime: 2021-04-19T00:03:00Z
-    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
-    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 45
-    images:
-      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "10 Most Popular Online Courses in India"
     excerpt: "The COVID-19 has resulted in closure of offline classes all across the world and rise of online learning platform."
     publishedDateTime: 2021-04-20T11:36:00Z

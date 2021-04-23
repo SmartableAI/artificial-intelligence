@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 726
         isCached: true
+  - title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
+    excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
+    publishedDateTime: 2021-04-23T16:43:00Z
+    webUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
+    ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
+    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
+    type: article
+    provider:
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
     excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
     publishedDateTime: 2021-04-20T01:53:00Z
@@ -255,20 +271,6 @@ related:
       - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 608
-        isCached: true
-  - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
-    excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
-    publishedDateTime: 2021-04-23T01:08:00Z
-    webUrl: "https://ktvz.com/lifestyle/technology/2021/04/22/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 38
-    images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Two men die in a fiery Tesla crash in Texas; investigators say it was set in \"self-driving\" mode"
     excerpt: "Two people were killed in Texas in the fiery crash of a Tesla and authorities say there was no one in the driver's seat at the time of the crash,"

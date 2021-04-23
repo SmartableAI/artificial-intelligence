@@ -1,0 +1,40 @@
+---
+category: news
+title: "Study Shines a Light on Big Tech’s AI Investments"
+excerpt: "Conducted by the Center for Security and Emerging Technology, the study maps the research agendas of Apple, Amazon, Facebook, Google, IBM and Microsoft across 60 AI areas, including robotics and grasping to optimization. The study indicates ..."
+publishedDateTime: 2021-04-23T16:02:00Z
+originalUrl: "https://www.nextgov.com/emerging-tech/2021/04/study-shines-light-big-techs-ai-investments/173561/"
+webUrl: "https://www.nextgov.com/emerging-tech/2021/04/study-shines-light-big-techs-ai-investments/173561/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Nextgov
+  domain: nextgov.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://cdn.nextgov.com/media/img/cd/2021/04/23/NGai20210423/open-graph.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+related:
+  - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
+    excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
+    publishedDateTime: 2021-04-20T12:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/active-investment-management-is-latest-industry-poised-to-fall-to-the-advances-of-artificial-intelligence-ai-1030322906"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+
+secured: "EqspZbyhkPMCQndOJPAYm13N+TDujQIv+TjSYPCXutPQBwrIYz5nhQmDWlJRFwJt8t4v5Ap+1KKt1wzMQFB1LLpepaNwY47JzMhM18gqE5IKT2nakv6/chk+KE+OdtUpaUpCtlh+Zc1VmcxXoIXLTxHjXs03A47+8daEgdSJ1TORCXYyMYU0hKmLs+1MjvNdopIRseqaMP/ylXwObwCDNmOo3m8tCc/n4FT75Pch8U3PNXLGQ4USXwIe5QQz8ilm3eLZkJvBpXHhugarnAhWxNb2aI/cieFSRwtJEXKlMW0dWfXdmtcJ964wvSkdoai68KeHyAbAPm42NIFQewHHXPDJUn5lqyQW3jESeveeRaU=;a/8pMBbAaNPGnsehRTeqXQ=="
+---
+

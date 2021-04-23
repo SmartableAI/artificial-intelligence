@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
-excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
-publishedDateTime: 2021-04-23T01:08:00Z
-originalUrl: "https://ktvz.com/lifestyle/technology/2021/04/22/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
-webUrl: "https://ktvz.com/lifestyle/technology/2021/04/22/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
+title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
+excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
+publishedDateTime: 2021-04-23T16:43:00Z
+originalUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
+webUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
+ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
+cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CBS Atlanta
+  domain: cbs46.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
+  - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683"
     width: 1024
-    height: 576
+    height: 683
     isCached: true
 
 related:
@@ -305,6 +307,6 @@ related:
       domain: indystar.com
     quality: 6
 
-secured: "VRVUqD4fJmtdGhIaieTn8/NWSw54U9e4FW7Bbg/3L/Ebp6aTAE7OXCX0mhKpXX2YIt+f480WC36W0rgvzPubwK6kxm164bbkA1J9L6mfaZzo58vLWU44s93rwR89nzNg+ZcUQ4hUmQPZc0CwTxDfZlzb8OgzJJq+fUFnrA4YUFRo88kesoRekxXRe2EUaHGgpQp0XLv5IGwMavhw7/DsHJCNmoj3MirerZnOmnP3KGtbao9K4ohP+xtZDvNpbvhFTRtqNj6/SjSfUjo6TtbwtYKA+iImkd36K4VMGOP/smxIP3VCMEr6KZnwtIVLsVYbB5LTzzTUjrM5B7A0Kg+7i+5MIStb5KhrwbGSMD56OYs=;gknqVVBiH2wJx8cl3pcRNQ=="
+secured: "LHEhgRXp2thbDoLP+/qvgcgYRGJcvvBU9vwlgnDZmRsI1mnHk0nQvBRj816IP6E404e/eKCbGr3/ejSgr2k1gP2+7JKwBZfad4wl1KjMs/+B/0qn9eoAt+EyuA4IlG0lKBX5OpsahPXBxjehIobZbt4P6IanG4hn9/cApOV/t8BqbUGcL9PpiT8GvIa22VSZnlPok5t+wYezU9a6JBiTUQMoqZrFi2mmwc5nb1ZIEZd/QMkXeoKvvgcWtarJDaumgbnUgMdbT47xakE4R3dLKoGEI97+ysdco16Y76MO5qXw2krfrPvpnV1dK/jIMm7zYjvfgunOnZd2Ok32UTn9naATbwKDH2MCK25UAqiV0Lc=;fBJelG9UMn7qRxAlw0n3og=="
 ---
 

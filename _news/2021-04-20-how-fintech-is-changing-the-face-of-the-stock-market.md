@@ -97,6 +97,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 48
+  - title: "AI and the Future of Financial Management"
+    excerpt: "it’s time to stop being a historian and start being a visionary. Join this webinar and hear from Aaron Harris, CTO at Sage, as he shares his vision of the future of financial management and the role of AI. You'll also learn how: Periodic closes will ..."
+    publishedDateTime: 2021-04-23T16:31:00Z
+    webUrl: "https://www.wealthmanagement.com/webinars/ai-and-future-financial-management-0"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 37
+    images:
+      - url: "https://www.wealthmanagement.com/sites/all/themes/penton_subtheme_wealthmanagement/images/logos/share-logo.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
     publishedDateTime: 2021-04-22T11:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-mach
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "FTC Reiterates AI Best Practices"
+    excerpt: "In the guidance, the FTC recognizes the potential benefits of AI, but stresses the need to harness these benefits ... In its series of best practices, the FTC advises businesses to: Start with the right foundation. From the start, think about ways to ..."
+    publishedDateTime: 2021-04-23T15:13:00Z
+    webUrl: "https://www.natlawreview.com/article/ftc-reiterates-ai-best-practices"
+    ampWebUrl: "https://www.natlawreview.com/article/ftc-reiterates-ai-best-practices?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-reiterates-ai-best-practices?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 57
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
 
 secured: "ZQm5m+S/NMuICXHr3ch2S3KfiD9y1NS2TXCCxkc2lo4feuVG3xEd+CpuEPDz68DtjSbJewv5mK3VYIhtgglda8ZMTiGum7EIsQPmaF4jekSSSE7vRwjT9CBBpsCXt1Ib+qsTc7BuZCzVPJgpRE9tHgSYZGXOtWIpbL9BN7rDWlbCBR46GXQSebBHHlAhJU8hA9zKjoWPVMDzt6qluGXMFzleFcb6HYgOlJBGLmH+77lILcPY7CttbpXOIZ2ru+1RvIikAujpKhL5hIdh3dAFtRnP6ZWEltuo6UwJkGas8CWFNlVwZ1jGbaXuFS61T23u8oWb6epGI3AYOE1PxaNnWXrqvNpLWe4w17Qlu3OliQc=;URVylvjl7KH8+2k9C3p6Aw=="
 ---

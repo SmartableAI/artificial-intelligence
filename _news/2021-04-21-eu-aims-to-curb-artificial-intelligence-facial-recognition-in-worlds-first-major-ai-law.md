@@ -3,8 +3,8 @@ category: news
 title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
 excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
 publishedDateTime: 2021-04-21T15:12:00Z
-originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
-webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?dist=bigcharts"
+originalUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
 type: article
 quality: 90
 heat: -1
@@ -335,6 +335,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "NbrbTQzm/odW8Qhp17LrQZl+ayyjPVF2A+iV3S+coGnnRGwNCJFNvhnfwzISsa7fB+k6TCtdZZr5BpoN09M03Br8AmZe+/G9uWWPXjT6PAPB/S8pbOMjrH1HcXxruyIZRkAAPkmopOdmICM2BzsOl1HiLYB6sl8JNW2zF5eFN+adhBiWPyg0XcQZ6u5Uh3kE4SwXo68AhrS88o2DIbSaGkfyJFOGBdbbq5UQhCwW5Ko/uIyRIpGv/rPl/eaAK1HAl09tbB0S41kyMuzHpuGcaDp0VOPsJ6icXOj84q0OGmM3HdbobxBVgKgtJ7KDiODx5IoiNU+TXZOPIxCO3p8HM623w6eXFQbxpnJ2SSsk16tYhLJ9XsehxNKI9u//9nuqwaXIZ3447awNa8qIbjTt3dtuw3eEIOsuINV0WPsoUHbJ7WnO9ch+/H/dTBC4vCIuy1Uw6Q0CwIWAyXIY39UU7x5xrDftLCIps6mjfgXDpJU77uj3lQ2YbbANUHEq+PTBvS6VhTf2b7KZjchSdPizjw==;CnYgnj++RECU/LS60SUR4Q=="
+secured: "fel7wI7qV+1e6sQqhnXNp0AlNzW3KDyaaKFla1hqWMTgknh43lCNi2ZYurZkDaTAY+n9rhsL4ZD3OG4bXaM2tE1THAhsjG9rHcE5mBJFLdRdMLtnPaNqAlZK9mdNS2gEQjm+wbDe/uRYqZs3Qyv9K90C3OX9nTfuN64sbgVtEC0sFZBhb7okv7IzjhdVZQ9T+fCzmKUT18CTP3SYEuKChlEA23YIfYobTsIlgJ/P8z8JtzBQzmxR3IlBzh92aawnO3l8zHHd89mPhzB9yZ5i0wn//+Rqshp5AIPqcfw+I7UlubdCsqqFUYAXN3sGix/youSdP5wXS9ioHBJGc/M5IMgLrPDFFpP4HwPRBGQyfvY=;SU92cSnvgOXolduENumQuw=="
 ---
 

@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elearning!® Magazine Honored for Publishing Excellence - Maggie Awards Recognition Marks 33rd Award for Elearning! Media Group"
+    excerpt: "\"This recognition from our publishing peers is a great honor ... COVID has pushed our industry to serve new segments in creative and dynamic ways. It depends on its media voice to do the same. Thank you to our many partners who make this media group ..."
+    publishedDateTime: 2021-04-23T16:00:00Z
+    webUrl: "https://www.pr.com/press-release/835107"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 0
 
 secured: "dNb7Mn6fYjarajfBKTa0kKWtGKVsDBm8dq1wC9KR3USdKqNlFQa1wYGSuTlTqh0+fuxd1NzP7BXmopyz57Wf0wkX7vU6QhtYORdPDnZF9fkyIP27uopFK4N1KBZ3JIG9SkDWC959fKW/e0e603b5dOAaTI4ec5I2Ww87iBLtRRerYR5itlWNS+qikOfnuufMIYqVIbAqfDMlLC665asFc8r7ejElhxd6vaxIZO6SnnqMenwzshqexcJQbl3gfiirm7u2s5kClsliOg5MUMYiLpkpDVF10aBKXzcwFl6yPA9C5uRwfldYU7fpLffrSybjWcnXLT522TL9B6o+eUpn19CM5nI1YQ3cagGEwfeTTpQ=;ifX6ZhP6CchLySW9azUT1A=="
 ---

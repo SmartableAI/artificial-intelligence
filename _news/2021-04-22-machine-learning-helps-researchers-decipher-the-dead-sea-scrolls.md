@@ -59,15 +59,15 @@ related:
         isCached: true
   - title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
     excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the ..."
-    publishedDateTime: 2021-04-23T13:11:00Z
-    webUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
+    publishedDateTime: 2021-04-23T13:24:00Z
+    webUrl: "https://keyt.com/health/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: KEYT
+      domain: keyt.com
     quality: 30
     images:
-      - url: "https://kesq.b-cdn.net/2020/03/kesq-us-world.png"
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
         width: 1024
         height: 576
         isCached: true

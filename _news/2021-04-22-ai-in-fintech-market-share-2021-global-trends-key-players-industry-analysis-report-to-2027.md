@@ -103,6 +103,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 48
+  - title: "AI and the Future of Financial Management"
+    excerpt: "it’s time to stop being a historian and start being a visionary. Join this webinar and hear from Aaron Harris, CTO at Sage, as he shares his vision of the future of financial management and the role of AI. You'll also learn how: Periodic closes will ..."
+    publishedDateTime: 2021-04-23T16:31:00Z
+    webUrl: "https://www.wealthmanagement.com/webinars/ai-and-future-financial-management-0"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 37
+    images:
+      - url: "https://www.wealthmanagement.com/sites/all/themes/penton_subtheme_wealthmanagement/images/logos/share-logo.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
     excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
     publishedDateTime: 2021-04-21T04:39:00Z

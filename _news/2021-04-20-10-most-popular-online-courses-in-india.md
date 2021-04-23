@@ -103,22 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Where is debt collection heading in India? Towards less muscle and more artificial intelligence"
-    excerpt: "Bringing in the heavies over a few late payments is likely to lose a customer forever. Artificial intelligence is proving a better way."
-    publishedDateTime: 2021-04-19T00:03:00Z
-    webUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence-11618789552929.html"
-    ampWebUrl: "https://www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/where-is-debt-collection-heading-in-india-towards-less-muscle-and-more-artificial-intelligence/amp-11618789552929.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 45
-    images:
-      - url: "https://images.livemint.com/img/2021/04/18/600x338/mahindra-klVB--621x414@LiveMint_1618790398827.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "MdTzu1bXn7989tSa0c8qHtmrLHo9S5iPte9z9MGJzB1Nfl//iocfaEv7qJL27cxEIi5zw+P94tgo9V/xtc8RmkU7D6/WipEwDAFc4IkG0HB+0zKIci9szXdN+8JddHpDvtOuZ8h5niQPok/n0wyzj7s8MzABT7bEaCkVUzl6xblhyZrxKNVO/agRv80MENNZeYSNnOqtRlREtfMyAJx4IfysWwy4mm8QzdpeR5XmvrZNfa10D5teymUPagT7rZduJHQXYS1U8pn31KFXjJOInjswIlFv5RhOTxus0nFg907c2d8TZRwAoWNJKsVJKMEck6kJ1zEMNcTQReFy6pr7LzEE+y2P9q3pq9ROsQ3vjw/xMyUWkDo3y4Y5N58xkU69oSiI7q/8PlghJL8tdo7IZb34lw/cnvP+KkAR1BGHJK9NVfYjNBfJdMG+Cnycooi6PAHkejKMPVCxSuLze7XVfW4x7xvchKxPX9hYG/TRGn6ahV5EJqngHAV7BVsg7NM9I/57okHf2r5fACmlWb8GKA==;JmjVQJwYy15XwxH90POqkg=="
 ---

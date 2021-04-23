@@ -6,9 +6,6 @@ publishedDateTime: 2021-04-15T22:03:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
 webUrl: "https://www.prnewswire.com/news-releases/williams-av-announces-convey-video---worlds-first-pro-av-real-time-language-translation-open-captioning-and-archiving-system-301270267.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
   name: PR Newswire
@@ -24,22 +21,6 @@ images:
     height: 1414
     isCached: true
 
-related:
-  - title: "3 Reasons Why Localization Teams Should Be Thinking about Language Operations"
-    excerpt: "Many teams turn to services like localization to make sure that their websites, software, and other communications are translated into their stakeholders’ native languages. Localization solves many language problems for businesses;"
-    publishedDateTime: 2021-04-19T07:00:00Z
-    webUrl: "https://slator.com/sponsored-content/3-reasons-why-localization-teams-should-be-thinking-about-language-operations/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 21
-    images:
-      - url: "https://slator.com/assets/2021/04/Unbabel-LangOps.png"
-        width: 600
-        height: 400
-        isCached: true
-
-secured: "sSz3k8MLmHdUCGCrF+p56jwRPM+d88dk6VCxZinqb1jE2CfX2fxD+t2qWAipt5UBg05wX9zIxIW3mT0Q02aE/D0f+BS+qoXBsg6F1kQRuTUQlUf1Jy32QfS5xIdGdSgXEyqF6KLAGd8wlgth7JrFEzt1sfVMEiLAkafHpQqV6PGW3/NRMm5p4Mrow+/bEIy6frvw7gONY0BGpLM7qMx5h1u4r4y8MG5ZNgJQfOMJtb9TWz+ibzm9vkY5ISmUBvqRfXIAZ53e5xb+azPhK4K7lglJYTF1wJF4f6iZjLC/XdwphfOKHepOW5Pj40RQvqGYk7gD2Qna39/xsh72Bdg1+5mTdUMTorVKZ2AYrPhWYnE=;XFdpWNS+qs7YIKULe9d3HQ=="
+secured: "+K/XI0knfnSB6AmQQb5ObcXisEq2U6PNLg3vU7lX+CLe5Lk9D1P4nPtqpJ1nUqqP/zcYtE8uzwuHKbbvzsDmDjmLLTYPSzkFHjGb1/wUEfdzShGoJFfpdPGIpYYcC5m9eY/dwxTAlg9Txw/wasKoT2AQvEmAb9ZL2n4nvt9CBIaZILJSE3CBoF0UnZfPJoEPpjWZuDV100/lvq9y041ShPa3dlbSX6zxJK6u+oHW4EanGHGnUg5SxNmKX+wDijDdDnk6CdE7+qJ/jSBK7qJBlfUsOO/62O5cDceYDLh7C6KWu8o058xCihzplHuIreqgfrsB5H2ZbT87nZvx/SWBwfHNg8roF0iCr+RdYKFkg6M=;/y6dPuFxfP2w4A7yJwkIrw=="
 ---
 

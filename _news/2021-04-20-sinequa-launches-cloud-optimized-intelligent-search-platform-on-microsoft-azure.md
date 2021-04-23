@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
 publishedDateTime: 2021-04-20T12:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+originalUrl: "https://www.financialbuzz.com/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure/"
+webUrl: "https://www.financialbuzz.com/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
@@ -66,6 +66,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/UmMgpy7oe757BJ47MjAphk-480-80.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
+    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
+    publishedDateTime: 2021-04-23T16:38:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 56
+    images:
+      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
+        width: 800
+        height: 466
         isCached: true
   - title: "Microsoft Azure Enterprise Search Gets Boost With New Integration"
     excerpt: "Paris-based Sinequa has integrated its intelligent enterprise search tool with Microsoft Azure to improve how large-sized companies find data across multiple sources."
@@ -133,6 +147,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "oPSX2oInRl+nyOkIVk/LAvJRURDNnUKAZbk1k6+OI9Dcfm3eUQ1gw8klD3QBN70p5KNvrHgE/FXnIxERIyDmPciA5vHMR21Xq1npdz6LWQkx6ZoQuFfY/l7XJK2vk2FjFLxCyffKzlh8jL1Gki2liFFTljyk/f2NFmk+bu4JQUt0XcGKtuerVnjcJriKoMg84tMwRlfWucNIZFxgqy1lLQox9foZTwQdTJo+F+qb/jrbKk+vajfohRh47dX3b/uuR/Z4SK6jXjPPLY6uL2uIkDtv/sMpTvBj//rCRWh+sE2kxvB2YuZbUI6Wi/hyhP6kPdVqIiQcoq02I6SL6uSy/5rAPgBdK0mOKOZ+fmriUsU=;Ip+41S8FGy3UCIFwsPUY3Q=="
+secured: "8eDxKsLwna34B3GVRAjr9EjFxtA/1pKdWZ3ylSsli1EHiPninH1zv6FY0tWnoNkR0SO2VT0cnNxuPS+d5MIOsdy7iIGJujRPmVVWRmNIAvMa77kG54nZcOsL1xq2o6LXhI5Y18M7K3Mj8AdJcx6N2edXHSbcT2Ixg1E6rwXbSu83cEMU6nMdzxHSPmwY8S8v2c581eNUpwn32zHhVQ3X4jchaeHbSeczThK7OdpZFGy7cZduRLc3Ci4D7z0mKsJyhzyorhsTJGpLn1vRzU/e7X7pKeu97mf+d5siTHhxwB617Pm9CnML9Z4C1eNwrSBL+0JejIRLr1OvQErX0rJYAYLb5zr06ps3cpiwAD4WPwE=;O05TXjr5oXrBMhathQvJZQ=="
 ---
 

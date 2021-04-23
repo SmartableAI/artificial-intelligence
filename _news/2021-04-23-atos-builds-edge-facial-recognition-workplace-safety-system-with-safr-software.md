@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202104/atos-builds-edge-facial-rec
 webUrl: "https://www.biometricupdate.com/202104/atos-builds-edge-facial-recognition-workplace-safety-system-with-safr-software"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1050
     height: 591
     isCached: true
+
+related:
+  - title: "SAFR facial recognition integrated with Geutebrück VMS"
+    excerpt: "Seattle — April 12, 2021 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK) today announced that its SAFR facial recognition system for live video is now integrated with the Geutebrück G-Core VMS (Video Management System). SAFR for Geutebrück is an AI ..."
+    publishedDateTime: 2021-04-23T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/press-release/21218351/safr-from-realnetworks-inc-safr-facial-recognition-integrated-with-geutebrck-vms"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/04/Geutebruck_SAFR.6075bc3c1c766.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 781
+        isCached: true
 
 secured: "KXN2QAybBeZYusGkpPD4czV/k7KqwCoJz7kTw30jz4g8NGRj5jOiX+CCpeKtydq/JUMWJws/o3+Zw+Wf/Y6F+Bfv3CmCLpnhRrl+yvgws8ye5oFJyMqiGh9ODqaelFfurekabVxur7joLGBhyyQ7apCWAzCtsgLB4WWAe7LaSm6yZntGFDDzUL/yqU5fZhum+RLwBNHfPeom/wSBPRRb0axqePAeIf1B9PHZpD0omRQpdywBSyMvupxHDkKNTyRUDryEyWIvxnTTuioO8SPQPajWQIawf+pYiX48C3nwH7p/WNwzcmU3xMfEqG37ZP6+CoFMzhmL3bClUXmHYuLtt2B/0s4zPSeTYXLA0MfkxegS+boAUYKcvcz/Q453vWbdagoFPAr1xhr6/04r6Cr/8u+Tp8oBMMnWNNw8b/00Fqfg373sNDeikigSuz0o9OSpMmKswOXfJTZEr8m8D4/r1H9NtXR5wlZp0zp0s1sPBJsFAqLXIgAt6gGvXTHz/+ctb0sO9bVHNLY9BOdHiLkKXg==;lb1e7oUx1ZOWCs0SSu8O9A=="
 ---

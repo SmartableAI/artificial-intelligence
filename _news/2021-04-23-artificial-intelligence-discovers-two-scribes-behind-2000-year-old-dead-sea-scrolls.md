@@ -2,23 +2,23 @@
 category: news
 title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
 excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the ..."
-publishedDateTime: 2021-04-23T13:11:00Z
-originalUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
-webUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
+publishedDateTime: 2021-04-23T13:24:00Z
+originalUrl: "https://keyt.com/health/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
+webUrl: "https://keyt.com/health/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI
 
 images:
-  - url: "https://kesq.b-cdn.net/2020/03/kesq-us-world.png"
+  - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -71,6 +71,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Dq3tegVdscN2UxM9xjwPMvmQNrwfhdGAeWMS+uk03UZHALCqFtKbSwPzw+nVOE089tjUv0OMVG9l65iMCXiCk3SFZiznp2ZtXFmUC+QEvGhfMgihalsI/cTSB4zBhtGWw1LQR0HhHOsnrDY/nTyGjvHtgWzVswy4RryizU5RdCDiM1jSKGjnnk2DDX3mGIm2duLVcNnh+yhEk3QtGSFTNiHBUvfF8bnh+5Vf774XxIJzxzOd9dUKnB4XpReBGt2gqT7Ra5Dnt5rsY5jd2iY7gAMf74HEnvEs5QUdPGAQq5s8Z9Tbh5KaGeTYtJpro+WxQBHxHAEYUT+1tSw8bwdgblMqw637HM3HGmHXompPxwI=;bO7eAv+TkTTKmyDugp7crQ=="
+secured: "eKvAojU7KY3GXy5EtASvuaH2y4X0qXXISdE1ow+T4QZgz1It3yjVzlkx8IwrkTDTaXQr2MSGAhJ1xJn0hyd0FqZAUkyFn8jFta+JMGUEjSShptv3zDAdEDEbqEwCzx0NrRmorMKK5dA0kmZWduksv1klSsr1aO/qRie90bRDY2AyIQK8VCHGiAfB+JzQ8OvvdBJGncIZU0jSPqKm0WIsGsuNDHLJlYdWjy53PX5pCRSg9gXg5zv6/L01Min3Cp/xUMIbbj3QeBRWdbItNHeUOZGc5mJXSBDZcM1zCLwRHlLeY5C+qItZM6klQlErCx8Ph5ecSfiLv1qwycnsxjMhQfXvUjsImyVwqBzHW+sPf2o=;Y8SRbhdTmBBJVovoFtDpjw=="
 ---
 

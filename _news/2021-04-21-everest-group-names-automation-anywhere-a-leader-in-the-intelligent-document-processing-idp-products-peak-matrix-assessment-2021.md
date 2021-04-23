@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/evere
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive document processing for automated mortgage processing"
+    excerpt: "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,"
+    publishedDateTime: 2021-04-23T17:13:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-Extracted-Data.jpg"
+        width: 800
+        height: 365
+        isCached: true
   - title: "Singularity Systems Named a Major Contender in Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment."
     excerpt: "\"Our SinguAI platform combines four proprietary technologies - computer vision, Natural Language Processing (NLP), Optical Character Recognition (OCR), and predictive analytics – to provide the most complete artificial intelligence solution for document ..."
     publishedDateTime: 2021-04-20T19:54:00Z
