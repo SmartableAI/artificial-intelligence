@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+    excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
+    publishedDateTime: 2021-04-19T04:41:00Z
+    webUrl: "https://www.metro.us/baidu-expects-to-supply/"
+    ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 57
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
     excerpt: "The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should add to the bullish thesis."
     publishedDateTime: 2021-04-19T14:00:00Z
@@ -68,20 +84,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-    excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
-    publishedDateTime: 2021-04-19T04:19:00Z
-    webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.pe.ca
-    quality: 37
-    images:
-      - url: "https://www.saltwire.com/static/img/default_og_image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z

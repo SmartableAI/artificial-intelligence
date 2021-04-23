@@ -124,6 +124,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 30
+  - title: "Form D Friday: Microsoft's fund invests in drug development startup"
+    excerpt: "AI biotech company 1910 Genetics Inc., based at LabCentral in ... Knox handles the paperwork behind the rental process for a cut of the returns; last year, the startup raised $3 million in seed funding led by Greycroft with participation from Pillar ..."
+    publishedDateTime: 2021-04-23T09:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/04/23/form-d-friday.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "bZS+oZWn2MLUmFiqBRp1+Zh9pPGGq2kDDShLYocA2eFzTuimvu0N48FlsYd7Hjtyjmiuyio8KGdA8u0MPknzLnzM5zzAo3fugwaNtRBjVx6PKqeSTN1ivv06+zJ8kdg30FJY4KiCVN9rYSPM3gtLssER7V1x6uyvRo2kIjvhFiYLVJNU7D5K8oZ/9Jq5XmQiT2Rm+G4NOWt3js/Vfs+3mc3SXF+I02wtvo8dq+crPzlpVOfxwPXolA0It52Pskl9830detautai7/oGZVR92NwvoYrzye6DOc5vsKZIWllBLxoZKAXmQwhGrOHuLBM2/lgFnyZIZYqAgD2+zm2T26MpmSetW/N39w8OrgXjbvI3qK0ywu+hgxg/NcXrxl5aNvyddC0xf/fL9fEWYzTipxFr+cuGcoh9aM5p61LhvtawP+bQyZY2jy6tcfnm91SWuko0J3RGRFRMN3XcsRpZ0eo1h5ZEbkXoq7s35L2aD9N+6LAR6wghABZkSmIb1GyXP3QzCYZxWgbkTJNctY1NkNA==;H+5KDw7Fva3k+auZpoQq/Q=="
 ---

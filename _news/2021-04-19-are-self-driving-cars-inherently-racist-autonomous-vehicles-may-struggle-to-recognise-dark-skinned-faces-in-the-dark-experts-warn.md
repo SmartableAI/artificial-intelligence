@@ -43,22 +43,6 @@ related:
         width: 1960
         height: 1225
         isCached: true
-  - title: "‘Racist’ self-driving cars may not spot dark-skinned faces in the dark, report warns"
-    excerpt: "DRIVERLESS cars could be ‘racist’ and ‘sexist’ when spotting people on the road, an official report has warned. Self-driving vehicles may “struggle to recognise dark-skinned faces in the dark”"
-    publishedDateTime: 2021-04-18T15:06:00Z
-    webUrl: "https://www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/"
-    ampWebUrl: "https://www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 37
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/NINTCHDBPICT000367833009.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+tJr48hJKwo8t1jtC35r9DIPO2sT+zgOn7stI3Dsna0xlPJKbcs8/PHUxEj6TVc2gGN0z/WMX2gGT73T2Qphx82VEMkBP1PnAlHo4I8V1/zjqP44mED7Mm8hQc2v2DAsylLt5BEAwR8D/NFymOC7cpvT0nteksompUwFui/PyjeDFnG/rRuM4P6o2KstmmY7Svfq1h+vhmsDcwlT264n70DBmsfSgVQCQ9KEZX6EZKVqJHIfy3NqjSD5q2Wz2iGDQG93nGiFjx0H8AKtyOcEUncutbaeBHRN/ch1QpS1DYeiHw/2bEu1Fp6jglvk9gVRA6IpoyJYIpmQs+iVyGxXoE05dzQ52nmIGDOziMEF7anOgLWYG/+pwNc1qVXlWO8C/046CHKmhEQd0TlGgRMk94H1PQ4rkqGULu39TxWnSwyVsIPB9vdZXMRBVzZY/7PTO3zSPzj2KlxJFl9IfpAtEH+ycn/zvLLdscy3e4pJQnc6lpTiDUzhR714tqkzz4fta6towif0EqbUqxfeqb3uGw==;qZmYRQQBp9/QUuAyPbh7Cw=="
 ---

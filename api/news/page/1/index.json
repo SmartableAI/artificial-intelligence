@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
+      "title": "Stop talking about AI ethics. It’s time to talk about power.",
+      "excerpt": "Where did the chips get produced? Where are the mines ... to really trace those material supply chains from cradle to grave. When you start looking at AI systems on that bigger scale, and on that longer time horizon, you shift away from these very narrow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
+      "originalUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/",
+      "publishedDateTime": "2021-04-23T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-healthcare-it-market-size-in-europe-to-grow-at-15-cagr-to-cross-144-bn-by-2026.md",
+      "title": "Healthcare IT Market Size in Europe to Grow At 15% CAGR to Cross $ 144 Bn by 2026",
+      "excerpt": "Get sample copy of this research report @https://www.graphicalresearch.com/request/1475/sample The European countries have been embracing artificial intelligence (AI) in healthcare since its inception and have been keeping up with the latest trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-it-market-size-in-europe-to-grow-at-15-cagr-to-cross-144-bn-by-2026-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-it-market-size-in-europe-to-grow-at-15-cagr-to-cross-144-bn-by-2026-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.md",
       "title": "Artificial intelligence helps identify new key-lock pairs against coronavirus",
       "excerpt": "The human immune defense is based on the ability of white blood cells to accurately identify disease-causing pathogens and to initiate a defense reaction against them.",
@@ -455,7 +551,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -819,7 +915,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1147,102 +1243,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-nvidias-relationship-with-healthcare-is-worth-more-than-you-think.md",
-      "title": "NVIDIA's Relationship With Healthcare Is Worth More Than You Think",
-      "excerpt": "NVIDIA's opportunities in gaming, enterprise graphics, datacenter, and auto are all great. But don't overlook healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/04/22/nvidia-is-much-more-than-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2021/04/22/nvidia-is-much-more-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F621803%2Fdoctors-around-a-table-discussing-data.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/04/22/nvidia-is-much-more-than-you-think/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/22/nvidia-is-much-more-than-you-think/",
-      "publishedDateTime": "2021-04-22T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-chatty-bots-and-ai-bank-managers-getting-inside-fintechs-future.md",
-      "title": "Chatty bots and AI bank managers: getting inside fintech’s future",
-      "excerpt": "Here, we explore four key areas of innovation that are powering today’s fintech insurgency – and explore how they will reshape our financial services of the future. The bank manager as an AI It comes as no surprise that artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/bc/inside-fintechs-future",
-      "originalUrl": "https://www.wired.co.uk/article/bc/inside-fintechs-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/606da9ca9a15f73a597a2045/master/pass/JP_Hero.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp",
-      "publishedDateTime": "2021-04-22T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

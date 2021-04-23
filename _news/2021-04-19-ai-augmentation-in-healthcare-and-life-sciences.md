@@ -39,6 +39,20 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "Medtronic: Healthcare and Robotics"
+    excerpt: "In February 2020, Medtronic acquired Digital Surgery, a London-based provider of artificial intelligence-driven surgical data and analytics. This allowed Medtronic to strengthen its offerings related to surgical robots. The move paid off for the company ..."
+    publishedDateTime: 2021-04-23T09:03:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-56474/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 71
+    images:
+      - url: "https://cdn.moneyshow.com/mscache/event-img/twms21_305x321.jpg"
+        width: 305
+        height: 321
+        isCached: true
 
 secured: "Bc9XKBk0WabONB5RBpEKrm3i49iz5QZ4Pu3Sl3tzAv/WJsDu0oQftadXd/U0rvsOMfPBtjNf7GcAsBxA7M/NgGJvzN6pqfD45VGrCrCPvu8rGRSnf9tXKMy+VHhQMxISDGzBCZN+FyBlPF/vtztPkW2fe5moJPofmTLntwHAziuvyd7nVwcIyJtnQcvSptXw9e9gGKaaVnFJEcgypmz4fgasJgUiAa/m6oDatLKfWEX1AXrn+H95sCc/QFATDWLpaD1eXaEHgS7JvFDSKAcT155C8Rgc+POcnxrJ/QRR+wC2VIEQPGhGVJIBQhUbawnqV/eVwabB6Zhk0uW8S+q/fsPRCdVOnOsqm1YWGPpS4Is=;2NWUH/4WGN+7/kmnuD64gA=="
 ---

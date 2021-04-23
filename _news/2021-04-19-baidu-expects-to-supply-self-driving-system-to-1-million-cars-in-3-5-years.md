@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
-publishedDateTime: 2021-04-19T04:19:00Z
-originalUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
-webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
+publishedDateTime: 2021-04-19T04:41:00Z
+originalUrl: "https://www.metro.us/baidu-expects-to-supply/"
+webUrl: "https://www.metro.us/baidu-expects-to-supply/"
+ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
+cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.pe.ca
+  name: Metro US
+  domain: metro.us
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.saltwire.com/static/img/default_og_image.png"
-    width: 1200
-    height: 630
+  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -97,6 +99,6 @@ related:
         height: 533
         isCached: true
 
-secured: "ajiOoloa8/CKWf854kl/wBkBzot9o8/qUkDz0QQ2QtjNmc0KFZQuUec6O3lbR1+EFu03dCrDT3nLXdBdl+/9UBP00X1JX4ftK1PfH6s3ERtrN1erylt/WFqKiOOQECapriMMXWt94PJM6lpuesjye0KoAk5iAReE/7ZJsZePw8880PDYnP2CEakeFoYqYy9Fp6McRokgMnUA8rDnbLqS7ZgDp3W/P++Q2mchalfwr0HGVr8NCWCdTe0RBJLa3VX/QnJ0zHkAdPowllC8B2UFS3bUl9ZMRil8SloutMuSnnocOO2E7t0uLl+UZQWcnTAhCsLc/FtGDpo0DFBqSH3bcs425V1IIraK/VTGRYaMhH0=;bnTSuZPAZHbCtao5Y4pILQ=="
+secured: "HUtTBS575wt1K0P32L+4mSLU8Yi03gRhZ6W79bIhVgcB6hPiHMcYAuJWSzZXcIjEXje4LXoE/BLSJXPGrsHRNZDNIvnu7kPLwLpM8mvBReSVat2PZfBTBk0eund+y1sz/CIYruEptUctgdwvAO8xoC+LjXS9mfK/B0sjkLGAGm32pCMwjj5xWQvHJvwYyWKZ4OK/yYQ6JwrqXrh1CZB4IS0WJ9pestEmSWMf25ABx+TvOmcYllLImrO6XaQuAUcqX+sdL7xNuRBej26PYll5Ut7m9rDc2bN/U0mmd2pRpF5lAMDH1lr+8ZOoEAAI/UTICPWZMMkCveuFY4Wn28+aluxYoLwYTIvWwwhm7Cj33xI=;Yx4bIrvuo530nA7b2D7z2A=="
 ---
 

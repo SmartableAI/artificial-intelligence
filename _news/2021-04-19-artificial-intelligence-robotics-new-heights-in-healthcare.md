@@ -7,7 +7,7 @@ originalUrl: "https://www.dailypioneer.com/2021/state-editions/artificial-intell
 webUrl: "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Medtronic: Healthcare and Robotics"
+    excerpt: "In February 2020, Medtronic acquired Digital Surgery, a London-based provider of artificial intelligence-driven surgical data and analytics. This allowed Medtronic to strengthen its offerings related to surgical robots. The move paid off for the company ..."
+    publishedDateTime: 2021-04-23T09:03:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-56474/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 71
+    images:
+      - url: "https://cdn.moneyshow.com/mscache/event-img/twms21_305x321.jpg"
+        width: 305
+        height: 321
+        isCached: true
   - title: "AI Augmentation in Healthcare and Life Sciences"
     excerpt: "The use cases for augmentative AI are expanding, and the Healthcare and Life Science industry is tapping into it’s potential."
     publishedDateTime: 2021-04-19T16:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Augury collaborates with Carrier to incorporate their machine health technologies into BluEdge services"
 excerpt: "Augury, an AI-based machine health solution provider, highlights a global collaboration with Carrier to incorporate Augury’s machine health technologies into the Carrier BluEdge Digital services offering ... our increased financial backing, we’re ..."
 publishedDateTime: 2021-04-23T06:58:00Z
-originalUrl: "https://www.sourcesecurity.com/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html"
-webUrl: "https://www.sourcesecurity.com/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html"
+originalUrl: "https://www.sourcesecurity.com/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/augury-collaborates-carrier-incorporate-machine-health-co-1586165677-ga-co-1619097819-ga.1619100629.html"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 355
     isCached: true
 
-secured: "6Ua5I3jx7PUmHXB/k9HDgPiZrZI/Bap7qNp4ay8casb+QnCl8gQ7FpbGiyFZaDVBCMKoaCr+O1q4qtW4q7MjLRMz26GNPcFzRbRY+AqogzIDfuVMN6RiMyW/rvkSz9UsrKKygJfGDHioOX5DENGoS/AzpETQEMBy1RLeCrcgue8aDzZvenXKdfRkS+6b0flu0X4HCDmi8HG7vy+wCWo6tkaVw2Gvsbz5DCJdOMqV5500DpZIvKNkFODsOunnjiVmfBK/RELbQpcELn/4fzks8p/S3g/KqyBZn+KT29b+GTfewKOfoUcrfdFIOp3tONvEzvx61DKls3+fbg+lIZMeLfl1M07HR/NNJ1zykgjPQf8=;lf7qAXNzzHfMPjMn7bkMAw=="
+secured: "/1z7R77tfm5v4rDfy53UhY+Ll54h+RDg87A8z9FWlt2AG0zoYKD+j1tWFmTQaAzFSOaF5Roz18vDYRkvZOOtZZERbRFnWf/AUN/bj/LIQ06YSN9AMv4qyeDqlsC8OfPNftrMhr3VsWbpJ2C3yTbFK0biLD+W0nls/q6OwaBZeM/Y8mEvJ/sHjh8WSitVFnD8RVWD/MrW+rBPzeBonkRb80/3POAFVl2jMgEJaoUawetbOu0S/aZMLmoetY644uRb1Mr45e8qIJ+ImNEu/ZPpB54/MXM57WH1aiYh8JZOFrpih3+0yiV/KL876TRCoF6rab7hDTSfLvffUdYV2buTtURPnbmNXRLqfPhPKljErAY=;uLbdcgZQDOuDPbvzklO4IQ=="
 ---
 

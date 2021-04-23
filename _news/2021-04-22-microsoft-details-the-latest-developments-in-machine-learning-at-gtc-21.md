@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/microsoft-details-the-latest-deve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/microsoft-details-the-latest-developments-in-machine-learning-at-gtc-21/amp/"
 type: article
 quality: 125
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 30
+  - title: "Form D Friday: Microsoft's fund invests in drug development startup"
+    excerpt: "AI biotech company 1910 Genetics Inc., based at LabCentral in ... Knox handles the paperwork behind the rental process for a cut of the returns; last year, the startup raised $3 million in seed funding led by Greycroft with participation from Pillar ..."
+    publishedDateTime: 2021-04-23T09:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/04/23/form-d-friday.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "12NK53d2oJEWz4bjCRXNEFGKuSCEPi2vM1a6G8tvHa3x+b9RAR6U4l1VZsE5qQEdHfDGUixHUd8BGimJ2Py9shK07G6vxutyIOwC97CFoG5u97cj9Lv3OOh6CVfDgsG2xWKmiLzJhBCLlrYTYz82pvx3/fJLzM21/6yRjfLFSZyNRBapLZG1cyMMzMIKAM4mQuhAta9tsCRj4xj04Iaj8MVUKaQ2DUGhgonqZrzC/z5TasBnUO39PwhPvkbdK/QSOgnaicG3NMcO+d0G0g+IC/LN2b8058OLKF6moQ9ttEDxlFJyP7gHMHE19lohtLUxYoLgyFK4qDcbY+xbxVWb1AOvP9HWL8BUx3BI/uHlNDTa5Ey/X//SsYxGFAzQVXT6eGqeg3G6rL17H65XvTQeQUpTavUuF4zRU9m8nntqqLb1pnlpoeMKKn571pUzv7If1ZcC0cku3uQZdOnDWACQ9eHZcIvJmAwHvL7A42SxzvG2VrDrmWsvklZVa/AFD82PlT8UFaFU3yxcq0bVt9GqKQ==;Tb3vO4i1VQQurunz654aPA=="
 ---

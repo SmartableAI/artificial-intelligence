@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Racist’ self-driving cars may not spot dark-skinned faces in the dark, report warns"
-    excerpt: "DRIVERLESS cars could be ‘racist’ and ‘sexist’ when spotting people on the road, an official report has warned. Self-driving vehicles may “struggle to recognise dark-skinned faces in the dark”"
-    publishedDateTime: 2021-04-18T15:06:00Z
-    webUrl: "https://www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/"
-    ampWebUrl: "https://www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/tech/2726097/racist-self-driving-cars-dark-report-dark-skinned/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 37
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/NINTCHDBPICT000367833009.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Are self-driving cars inherently RACIST? Autonomous vehicles may struggle to recognise dark-skinned faces in the dark, experts warn"
     excerpt: "Law Commission has warned autonomous cars may also be prejudiced against women and the mobility-impaired, because their operating systems have largely been created by able-bodied men."
     publishedDateTime: 2021-04-19T10:20:00Z
