@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-30-nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies.md",
+      "title": "NAFCU Services Announces Persistent Systems as Preferred Partner for Digital Transformation including Cloud-Based Technologies",
+      "excerpt": "“Adoption of cloud and other cutting edge technologies including machine learning, automation ... enterprise modernization and next-generation product engineering to financial services institutions for 20+ years, as well as other industry verticals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "originalUrl": "https://www.financialbuzz.com/nafcu-services-announces-persistent-systems-as-preferred-partner-for-digital-transformation-including-cloud-based-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning.md",
       "title": "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1292,49 +1326,6 @@
       "provider": {
         "name": "La Stampa",
         "domain": "lastampa.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fintech-il-futuro-delle-banche-tradizionali-che-punteranno-sullinnovazione.md",
-      "title": "Fintech: il futuro delle banche tradizionali che punteranno sull’innovazione",
-      "excerpt": "Dopo la crescita Fintech, il passo decisivo delle banche, sarà quello di abbandonare le tecnologie di legacy per diventare più agili",
-      "sourceUrl": null,
-      "webUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
-      "originalUrl": "https://www.bitmat.it/blog/news/110494/fintech-il-futuro-delle-banche-tradizionali-che-punteranno-su-innovazione",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bitmat.it/wp-content/uploads/2018/06/fintech.jpg",
-          "width": 870,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BitMAT",
-        "domain": "bitmat.it",
         "images": null,
         "publishers": null,
         "authors": null

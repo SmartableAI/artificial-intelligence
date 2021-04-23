@@ -2,6 +2,82 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-14-europe-eyes-strict-rules-for-artificial-intelligence.md",
+      "title": "Europe eyes strict rules for artificial intelligence",
+      "excerpt": "The European ... regulation on April 21. The rules are the first of their kind to regulate artificial intelligence, and the EU is keen to highlight its unique approach. It doesn't want to leave powerful tech companies to their own devices like in the U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-european-approach-artificial-intelligence",
+      "originalUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-man-sues-detroit-police-after-facial-recognition-error.md",
+      "title": "Man Sues Detroit Police After Facial Recognition Error",
+      "excerpt": "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
+      "originalUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/SHUTTERSTOCK_SPIRIT_OF_DETROIT.jpg",
+          "width": 950,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP",
+      "publishedDateTime": "2021-04-14T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks.md",
       "title": "This robot-run fund with a history of predicting Tesla price moves has just made these stock picks",
       "excerpt": "An exchange-traded fund driven by artificial intelligence has correctly predicted Tesla price movements, and recently shared its most recent",
@@ -1135,101 +1211,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-brainchip-begins-mass-production-of-its-neuromorphic-ai-chips.md",
-      "title": "Brainchip begins mass production of its neuromorphic AI chips",
-      "excerpt": "Brainchip announced that it has commenced mass production of its Akida AKD1000 neuromorphic processor chips for use in edge AI devices.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/",
-      "originalUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2021/04/Brainchip-announced-mass-production-of-its-Akida-AKD-1000-chips-Picture-Getty-Images.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/?amp",
-      "publishedDateTime": "2021-04-13T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-huawei-invests-in-self-driving-and-electric-car-tech-it-says-surpasses-tesla.md",
-      "title": "Huawei invests in self-driving and electric car tech it says surpasses Tesla",
-      "excerpt": "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
-      "publishedDateTime": "2021-04-13T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Atlanta animal shelters using facial recognition to help find lost pets"
+    excerpt: "Petco Love Lost is a new, searchable national database that uses patented facial recognition technology to make finding lost pets quicker and easier. “We are thrilled that Petco Love Lost has rolled out pet facial recognition technology nationwide and pr ..."
+    publishedDateTime: 2021-04-23T18:51:00Z
+    webUrl: "https://www.11alive.com/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 59
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/81616931-8d43-4e7f-977a-8d4f84643bf0/81616931-8d43-4e7f-977a-8d4f84643bf0_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "LA animal shelters to use facial recognition database to help reunite lost pets with owners"
     excerpt: "People and organizations can upload a photo of the lost pet, and the database will compare it to other photos to determine if the lost animal is at a participating shelter or with someone in the"
     publishedDateTime: 2021-04-22T04:25:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://media.wtol.com/assets/WTOL/images/9963c996-5af2-48eb-8d81-ff0b3da07eaf/9963c996-5af2-48eb-8d81-ff0b3da07eaf_1140x641.png"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Killeen participating in facial recognition program to reconnect lost pets with owners"
+    excerpt: "Petco Love Lost is a new searchable national database that uses patented facial recognition technology to make finding lost pets quicker and easier, according to a news release from the city of ..."
+    publishedDateTime: 2021-04-23T18:09:00Z
+    webUrl: "https://kdhnews.com/news/local/killeen-participating-in-facial-recognition-program-to-reconnect-lost-pets-with-owners/article_2bf658e4-a455-11eb-9edf-8ba2a4f61720.html"
+    type: article
+    provider:
+      name: Killeen Daily Herald
+      domain: kdhnews.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/f/7f/f7f37f50-e956-11e9-b57f-076b6c4c62cc/5d9bc4fa96df6.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "v5JmyMen7t1k7uhA5iRjmjBS1asFN6wwoaXoI80i3oa3jjxLUYEd3T68KDFDTreHPZhvlDBINYxmTZe17w+tn4eyMU/5VAnjwwKO/1NGe+MHGwN2e9d/UpJsYp5t0vU0x7xf7RsMrjYETTkkLgHrJK1PP91sJuqvWSY9RZ79xTNKDf5hCBjE6HWe5sMCqhgBiTUaMAJZt0ZC5SZnerpgNFHbZP1HRZBREgCi4cRo29LaHYtPbNs2s9cnlJtEbQUP77y9nf2KbFDNUGNATUBRgx+ni2QIXwKYFcKkb1+V3GLtbgGhbAQzN/NdR8OyNjEq5OLNi7ob4dt8y9veJRHNGsZze9tyS5kce303Wi4nNIcd+AeSwdWPNSYOWfNmSo4+5kJfLSy3AsiaRL2zmq36QPoP548vkrEb81ZqpopVkRMupUhFJ4LoTVtgLH2p71Q66b5Ry6SG8Wk2gOtHgfRDyOy/dzd63m3l6OJku/i4sVcO2P7GDUGu/qTe91P2RlJBdG+RJ7hIoec9nKgSsCFZyw==;GEVcyv/ZGG7dbXLS4o1uFQ=="

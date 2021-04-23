@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 304
+heat: 284
 published: true
 
 provider:
@@ -220,20 +220,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Two men dead after Tesla crashes while in self-driving mode"
-    excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
-    publishedDateTime: 2021-04-19T02:11:00Z
-    webUrl: "https://www.kulr8.com/news/two-men-dead-after-tesla-crashes-while-in-self-driving-mode/article_98a160b4-a0b4-11eb-9499-674147791e30.html"
-    type: article
-    provider:
-      name: KULR 8
-      domain: kulr8.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/34/2346eb46-a0c2-11eb-ac31-2b93c0ec754e/607cfdb787dae.image.png?crop=301%2C226%2C73%2C0&resize=301%2C226&order=crop%2Cresize"
-        width: 301
-        height: 226
-        isCached: true
   - title: "2 killed in self-driving Tesla crash in Texas"
     excerpt: "The crash killed two people in Spring, Texas."
     publishedDateTime: 2021-04-20T00:17:00Z
@@ -276,17 +262,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Two men die in a fiery Tesla crash in Texas; investigators say it was set in \"self-driving\" mode"
-    excerpt: "Two people were killed in Texas in the fiery crash of a Tesla and authorities say there was no one in the driver's seat at the time of the crash,"
-    publishedDateTime: 2021-04-19T01:14:00Z
-    webUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.html"
-    ampWebUrl: "https://www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
-    cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/two-men-die-in-a-fiery-tesla-crash-in-texas-investigators-say-it-was-set/video_5bc0fa48-ac2b-5f84-9d0b-4fb9cbc69e03.amp.html"
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 26
   - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
     excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
     publishedDateTime: 2021-04-19T21:57:00Z

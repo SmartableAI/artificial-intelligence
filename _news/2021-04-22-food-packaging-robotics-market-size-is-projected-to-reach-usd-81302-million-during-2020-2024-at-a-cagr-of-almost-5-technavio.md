@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Genomics market is expected to grow at a CAGR of 53% during 2021-2026"
+    excerpt: "According to the MarkNtel Advisors research report Global Artificial Intelligence in Genomics Market Analysis 2021 the market is expected to grow at a CAGR of 53 during 2021 26 AI enables the efficient interpretation of large complex datasets and decreases"
+    publishedDateTime: 2021-04-20T18:20:00Z
+    webUrl: "https://www.openpr.com/news/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
+    ampWebUrl: "https://www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/U/4/U420137063_g.jpg"
+        width: 800
+        height: 273
+        isCached: true
   - title: "Speech and Voice Recognition Market to be Worth USD 28.3 Billion by 2026, Rising at a CAGR of 19.8%"
     excerpt: "The report offers comprehensive market overview, covering the most significant trends prevalent in the global market. It presents insights into the key growth drivers and restraints influencing the speech and voice recognition market growth trajectory."
     publishedDateTime: 2021-04-22T11:26:00Z

@@ -286,20 +286,6 @@ related:
         width: 658
         height: 630
         isCached: true
-  - title: "Volvo Cars teams up with world’s leading mobility technology platform DiDi for self-driving test fleet"
-    excerpt: "Volvo Cars, a global leader in automotive safety, and DiDi Autonomous Driving, the self-driving technology arm of Didi Chuxing, the world’s leading mobility technology platform, have signed a strategic collaboration agreement on autonomous vehicles for DiDi’s self-driving test fleet."
-    publishedDateTime: 2021-04-19T02:39:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/volvo-cars-teams-up-with-world-s-leading-mobility-technology-platform-didi-for-self-driving/article_80680c95-0e4e-51ff-a940-116ff1534931.html"
-    type: article
-    provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8TDg77/rDgtRDta7MqhTIVYGY6srKxqlSFZduwHaSuU3yjYuUt555W8ykCn0mVmpLmVgImziUDrmnk+gws99bRPixOpgByC/lWjIdhcIFC1nDni08ogABiHekLZDbIjzJZo/hN+In8r2nxIfJpPD9qSxBEFnmZ+S/XG8M++aZHgkAipxbtlKTyphqOlwC4CWnn5UIL/L7n4OTWjuccnLgwizmEQ1xhP7MFoKo6dp2b9k4jM2+TMfTO34KXOVzKqr9B63Icp2267jto6331JtUy6HdLWdCxkvhSLssNDhn824H7D/UD0YSdJJRCrIxXhFndMEsQBEtp9ujZlmqqRL8UJBB+ducmM8P3oGxZbmBwo=;75hSL4cUwUdx5HgNYFIKew=="
 ---

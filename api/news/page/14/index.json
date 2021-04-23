@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-12-nvidia-launches-jarvis-conversational-ai-framework-in-general-availability.md",
+      "title": "Nvidia launches Jarvis conversational AI framework in general availability",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. At its GTC 2021, Nvidia this morning announced the general availability of its Jarvis framework, which provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/8a5f192d-10ec-43eb-9c61-acb8418ac2c6.png?w=800&resize=800%2C390&strip=all",
+          "width": 800,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-launches-jarvis-conversational-ai-framework-in-general-availability/amp/",
+      "publishedDateTime": "2021-04-12T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
+      "title": "New Advancements in AI are Changing Healthcare as We Know It",
+      "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
+      "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
+      "publishedDateTime": "2021-04-12T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-corticalio-message-intelligence-solution-improves-accuracy-of-processing-unstructured-documents.md",
       "title": "Cortical.io Message Intelligence Solution Improves Accuracy of Processing Unstructured Documents",
       "excerpt": "Cortical today announced Message Intelligence 2.1, an intelligent document processing solution (IDP) that provides high accuracy in filtering, classification and extraction of emails, attachments and other types of unstructured documents.",
@@ -104,6 +199,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-12T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads.md",
+      "title": "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads",
+      "excerpt": "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -787,35 +925,35 @@
     },
     {
       "path": "_news/2021-04-12-microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion.md",
-      "title": "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion",
-      "excerpt": "Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country.",
+      "title": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion",
+      "excerpt": "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion",
-      "originalUrl": "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion",
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056",
       "publishedDateTime": "2021-04-12T05:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1036,135 +1174,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-general-motors-backed-cruise-is-set-to-expand-self-driving-operations-to-dubai-in-2023.md",
-      "title": "General Motors-backed Cruise is set to expand self-driving operations to Dubai in 2023",
-      "excerpt": "Cruise has signed an agreement with Dubai's roads and transport authority to be the exclusive provider for self-driving taxus and ride-hailing services through 2029. Financial terms of the deal, which Dubai's crown prince is calling a first of its kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "originalUrl": "https://www.cnbc.com/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106866602-1618201884658-gettyimages-1195279026-GM_CRUISE.jpeg?v=1618201969",
-          "width": 4000,
-          "height": 2670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/12/gm-backed-cruise-to-expand-self-driving-operations-to-dubai-in-2023.html",
-      "publishedDateTime": "2021-04-12T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence.md",
-      "title": "Cambridge Quantum Appoints Professor Stephen Clark as Head of Artificial Intelligence",
-      "excerpt": "Stephen Clark as Head of Artificial Intelligence. Prof. Clark joins CQC from DeepMind where he was a Senior Staff Research Scientist and led a team working on grounded language learning in virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210412ln37088/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210412ln37088/cambridge-quantum-appoints-professor-stephen-clark-as-head-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-vancouver-based-fintech-to-offer-ai-powered-personal-finance-platform.md",
-      "title": "Vancouver-based fintech to offer AI-powered personal finance platform",
-      "excerpt": "The AI-powered platform will be available to Marble’s Mortgage ... channel of opportunity for Marble to empower Canadians using its holistic personal finance fintech solution that provides precise expert curated recommendations, insights, and financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx",
-      "originalUrl": "https://www.mortgagebrokernews.ca/news/technology/vancouverbased-fintech-to-offer-aipowered-personal-finance-platform-354849.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-res.keymedia.com/cms/images/ca/046/0379_637538069040540764.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mortgage Broker News",
-        "domain": "mortgagebrokernews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-03-24-major-flaws-found-in-machine-learning-for-covid-19-diagnosis.md",
+      "title": "Major flaws found in machine learning for COVID-19 diagnosis",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. A coalition of AI researchers and health care professionals in fields like infectious disease, radiology, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/NVIDIA-CLARA.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
+      "publishedDateTime": "2021-03-23T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields.md",
+      "title": "AI and robotics are helping optimize farms to increase productivity and crop yields",
+      "excerpt": "One company built an autonomous vehicle to help haul crops, saving work and time. Others use drones and sensors to communicate with farmers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/23/9d08ff82-5d93-4b0b-8adc-8f2f7954c771/resize/1200x/7d09cb2499883cc6c743c2997fe50167/istock-1218567273.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
+      "publishedDateTime": "2021-03-23T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-new-algorithm-could-aid-the-rise-of-soft-robots-for-tricky-tasks.md",
+      "title": "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks",
+      "excerpt": "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "publishedDateTime": "2021-03-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-intelligent-automation-the-secret-to-combating-health-inequities.md",
       "title": "Intelligent automation: The secret to combating health inequities",
       "excerpt": "The AI system accepts these biases as truths ... s “informed consent” was truly ever “informed.” Automatic language translation to hundreds of foreign languages is one area where ...",
@@ -1039,144 +1186,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
-      "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
-      "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise.md",
-      "title": "OneTrust acquires Convercent to drive ethics and compliance in the enterprise",
-      "excerpt": "OneTrust has acquired Convercent, an ethics and compliance software platform with major enterprise clients, including Hain Celestial.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ECP-Product-Banner.jpg?w=1200&strip=all",
-          "width": 809,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-03-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-boom-in-innovation-for-overcoming-disabilities-un.md",
-      "title": "Boom In Innovation For Overcoming Disabilities – UN",
-      "excerpt": "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelstv.com/2021/03/23/boom-in-innovation-for-overcoming-disabilities-un/",
-      "originalUrl": "https://www.channelstv.com/2021/03/23/boom-in-innovation-for-overcoming-disabilities-un/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.channelstv.com/wp-content/uploads/2020/03/UN-Headquarters.jpg",
-          "width": 650,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.channelstv.com/2021/03/23/boom-in-innovation-for-overcoming-disabilities-un/amp/",
-      "cdnAmpWebUrl": "https://www-channelstv-com.cdn.ampproject.org/c/s/www.channelstv.com/2021/03/23/boom-in-innovation-for-overcoming-disabilities-un/amp/",
-      "publishedDateTime": "2021-03-23T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channels TV",
-        "domain": "channelstv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -121,17 +121,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
-    publishedDateTime: 2021-04-22T11:51:00Z
-    webUrl: "https://www.openpr.com/news/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
 
 secured: "J9sLWoF8cq95K1nJ1uT1jj8GGb1Rzc3eWpqttx+1UbTmfWe7pB7kVj4/Slb4DJN7L4VnhiVymPwv5tB9NX6py1EQhVT+mzjNJpsAA34onuyyd/+amNfP6/+oFt9PjoMqALF1prc6rp3t0MWYzkD36bmWzFzwRz9stS4mamodaObVluVR1/ROxHzZxGtci442qGE4KPUcGxecG1U9RJcjf/9Mec/ks8/2mlHWSHgKy4dCZlO/mL7FtTKpE17tsODl6JF9u6PTFEO6+yIcu84bBOtx2uTJ4Qse24nfbzlUra5pIG0Vsu2Orc/cXsaehZzz6rqWRLA06BMabGAi+INmLujIqrvodHRBUYmS7yz9YRf2y42lWlgVzOtULFdfmi2ejdzRK2skdD7u35Q/FxNCO1eWu0uLcur3D1+UbNv6mbqUwx0ZkvJ6QZ3BjRZnFkIKsnS5gbN0ka6TWoItOy7xpXW+lJmbnW6d4/prEdfRI2KWo65SyfLZ1jj/GIfubbb/5JGfRVFNzr8VYqlFjCXXZg==;ppgLMm71y1AfHD+7QgdV7Q=="
 ---

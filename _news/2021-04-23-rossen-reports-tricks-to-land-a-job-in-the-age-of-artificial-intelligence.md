@@ -3,18 +3,18 @@ category: news
 title: "Rossen Reports: Tricks to land a job in the age of artificial intelligence"
 excerpt: "I'm getting you the inside tips, millions of resumes and cover letters uploaded to job postings on sites like CareerBuilder linked in and zip recruiter. Now employers are trying to stop a bottleneck of applications getting you into a job faster with artificial intelligence."
 publishedDateTime: 2021-04-22T19:01:00Z
-originalUrl: "https://www.wbaltv.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-webUrl: "https://www.wbaltv.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-ampWebUrl: "https://www.wbaltv.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+originalUrl: "https://www.kcra.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+webUrl: "https://www.kcra.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+ampWebUrl: "https://www.kcra.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
         height: 360
         isCached: true
 
-secured: "ysdVpsgdTGIoHzuzmbB4vzPixppSmEL89kmRiGnXv3TfHzrXfNL0ut/JJy1DP9HHWTfaW4+pwAEOUohuPgcBHu/X+tN7yvk+NdPoPaSCUnDZDglyp9h3/3JqhrUVZJTtW8ahzp52sxGQQXe0wieIxH5LbvzB29UuWe9zMOqeoFmtvLd0M9IQTQJx799Ro2QBxhK4fdESr9cxV5hzCQ/j9JDrXbOpm/4H8D25DcHuk/h0Pkg0taD4v181ZTWqt5e5w5LYvciqdITwtm96PBMT+C0oXFfjt3K8CezF6igfev16afIG+4UNIXxh9IGk2CfEMgyNW4ZrF0syhk0B1HWAVDa8kXXv/IPbN4/WRRFvYRUYp3F3GAWI6/7DsfQWr9QwaYbWWV2JOc2OiaD5c2A2tYQZB8PLXM1go9Ek6npoSRGPUmXoyU6CH4ZMas4ldEWrTQX0eQsg2+tdY/a8m8Gk54DLJyHbm3B+PBYovSBFsd9bhCrkmfj8X8wTjNVvrPnhWjqKZD5pwprYXdNaSy4p2g==;z5HuOSB5h5Bf468NoazNeQ=="
+secured: "ekaQbANOdmdqTEIVwlQAdRJkdRXrgzq6/uJrEww+ZdRMw7uIU2vmFwBRSndeb3YpcPwcHLk8mUjyeSWUBFXP0AGS2A46z1gUZMl5VEM3KDss7eXLVywfOpGCoJ1xjqv1YqnfcQZLaKNIihM0/Vr8JSoO1S5OGrcoluNGbJ371S0ZX+t+m9xUR0oiLqSGeREyJPggc3grWyutdOK55Ro50l4pHw4CgNdM2kiMglIahzipQrbEMCFjMpQ73fDzAWBVC5eHnHT3EqffMZ9D7TfYwngEmhYWWI1bA9+0VtAuQ+7BTR2ti5Sziiu8RMJzG75EZTGGPPJqqa4BV5GX6EhAEYj1fj+v5D8vSlokWiBteuE=;f+KucpPBEaNIr0SRr3niJQ=="
 ---
 

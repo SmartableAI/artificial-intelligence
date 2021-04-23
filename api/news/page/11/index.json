@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-14-brainchip-begins-mass-production-of-its-neuromorphic-ai-chips.md",
+      "title": "Brainchip begins mass production of its neuromorphic AI chips",
+      "excerpt": "Brainchip announced that it has commenced mass production of its Akida AKD1000 neuromorphic processor chips for use in edge AI devices.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/",
+      "originalUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2021/04/Brainchip-announced-mass-production-of-its-Akida-AKD-1000-chips-Picture-Getty-Images.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/brainchip-begins-mass-production-of-its-neuromorphic-ai-chips/?amp",
+      "publishedDateTime": "2021-04-13T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-huawei-invests-in-self-driving-and-electric-car-tech-it-says-surpasses-tesla.md",
+      "title": "Huawei invests in self-driving and electric car tech it says surpasses Tesla",
+      "excerpt": "The Chinese telecoms giant will partner with carmakers to make self-driving vehicles that carry the Huawei name as a sub-brand, says rotating chairman.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/c138ab9e-63eb-49f3-bec3-c6a2c8d4b3cb_4f265e98.jpg?itok=xx9mArAD&v=1618365793",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3129442/huawei-invests-self-driving-and-electric-car-tech-it-says-surpasses",
+      "publishedDateTime": "2021-04-13T19:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-ai-chip-maker-sambanova-raises-676-million-valued-at-over-5-billion.md",
       "title": "AI chip maker SambaNova raises $676 million, valued at over $5 billion",
       "excerpt": "SambaNova does not sell its chips, manufactured by Taiwan Semiconductor Manufacturing Co. (TSMC), instead using them to build servers and AI software it then leases to companies for a subscription fee. “We provide the services to customers so that they ...",
@@ -1140,100 +1235,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-3-customer-trends-ai-can-spot-before-marketing.md",
-      "title": "3 Customer Trends AI Can Spot Before Marketing",
-      "excerpt": "especially when trends start in one location and spread to other locations over time. ML algorithms can spot these phenomena as they develop, so marketers can leap on the trend. Retail is one industry where this kind of AI-enabled trend-spotting is valuable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/92ab9c0cbdb04ac7b897dac42a4474c0.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/3-customer-trends-ai-can-spot-before-marketing/amp/",
-      "publishedDateTime": "2021-04-13T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-softbank-leads-220-million-funding-for-ai-home-gym-maker-tempo.md",
-      "title": "SoftBank Leads $220 Million Funding for AI Home Gym Maker Tempo",
-      "excerpt": "The fresh capital will be invested in enhancing Tempo’s AI and motion-tracking technology used to provide real-time feedback. Steadfast Capital, General Catalyst, Norwest Venture Partners, DCM and Bling Capital also participated in the latest round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-13/softbank-leads-220-million-funding-for-ai-home-gym-maker-tempo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-13/softbank-leads-220-million-funding-for-ai-home-gym-maker-tempo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG7W1Plw6BCY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

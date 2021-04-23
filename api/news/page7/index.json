@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-16-heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability.md",
+      "title": "Here’s why AI will be crucial for future US electrical grid reliability",
+      "excerpt": "But what if the biggest predictor of the success of the infrastructure plan is not in the materials but in artificial intelligence (AI) and machine learning (ML)? Electrek spoke with Monte Zweben ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "originalUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/03/Electricity-pylons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
+      "publishedDateTime": "2021-04-16T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits.md",
       "title": "Amazon and Microsoft team up to defend against facial recognition lawsuits",
       "excerpt": "Cloud-computing and crosstown rivals Amazon and Microsoft have teamed up to defend themselves against twin lawsuits challenging how the companies built their facial recognition software.",
@@ -131,6 +183,49 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
+      "title": "Ford And Tesla’s EV Rivalry Heats Up",
+      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
+          "width": 479,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1045,108 +1140,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public.md",
-      "title": "MEPs call for European AI rules to ban biometric surveillance in public",
-      "excerpt": "A cross-party group of 40 MEPs in the European parliament has called on the Commission to strengthen an incoming legislative proposal on artificial intelligence to include an outright ban on the use of facial recognition and other forms of biometric surveillance in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/",
-      "originalUrl": "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/15/meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public/amp/",
-      "publishedDateTime": "2021-04-15T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society.md",
-      "title": "Coded Bias: An Insightful Look At AI, Algorithms And Their Risks To Society",
-      "excerpt": "Coded Bias is Netflix’s deepest dive yet into the state of artificial intelligence, and the issues it confronts are uncomfortably relevant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607890fa74a2457efd9777d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/04/15/coded-bias-an-insightful-look-at-ai-algorithms-and-their-risks-to-society/amp/",
-      "publishedDateTime": "2021-04-15T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

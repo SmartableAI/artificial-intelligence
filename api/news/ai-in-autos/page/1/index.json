@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -289,7 +289,7 @@
       "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -571,6 +571,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
+      "title": "Ford And Tesla’s EV Rivalry Heats Up",
+      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/opto/ford-and-teslas-ev-rivalry-heats-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
+          "width": 479,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1426,58 +1469,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
-      "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
-      "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/13/435646af-498c-4be8-808c-29d83462e407_48d388ef.jpg?itok=bNwIQKSW&v=1618288875",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3129315/drone-maker-dji-latest-chinese-tech-giant-get-car-game",
-      "publishedDateTime": "2021-04-12T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

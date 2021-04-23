@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-19-three-practical-ways-ai-will-help-finance-shape-up-for-the-future.md",
+      "title": "Three practical ways AI will help finance shape up for the future",
+      "excerpt": "AI in finance is capable of much more than shortening processes by a few days here and there. Erik Zahnlecker of Sage AI Labs shares three concepts that make the most of the growing financial data available to customers.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/practical-ai-finance-future",
+      "originalUrl": "https://diginomica.com/practical-ai-finance-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://diginomica.com/sites/default/files/images/2021-04/shutterstock_1728847657.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/practical-ai-finance-future?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/practical-ai-finance-future?amp",
+      "publishedDateTime": "2021-04-19T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
       "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
       "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
@@ -1168,58 +1211,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability.md",
-      "title": "Here’s why AI will be crucial for future US electrical grid reliability",
-      "excerpt": "But what if the biggest predictor of the success of the infrastructure plan is not in the materials but in artificial intelligence (AI) and machine learning (ML)? Electrek spoke with Monte Zweben ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
-      "originalUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/03/Electricity-pylons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/04/16/heres-why-ai-will-be-crucial-for-future-us-electrical-grid-reliability/amp/",
-      "publishedDateTime": "2021-04-16T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

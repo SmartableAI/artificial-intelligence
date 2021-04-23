@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-15-ais-social-justice-problem-it-can-amplify-human-bias.md",
+      "title": "AI's social justice problem: It can amplify human bias",
+      "excerpt": "Coded Bias director Shalini Kantayya talked to CNET about the algorithms that are making life's most important decisions for us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "originalUrl": "https://www.cnet.com/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/VbjvB2utOmh0nP_oeFXDzMZPetk=/1200x630/2019/12/11/30df0346-f55d-472b-a4cd-6a5816555b09/code-for-bias-sundance.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ais-social-justice-problem-it-can-amplify-human-bias/",
+      "publishedDateTime": "2021-04-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-nvidia-says-ai-5g-ingredients-for-success.md",
+      "title": "Nvidia says AI, 5G ingredients for success",
+      "excerpt": "AI and 5G are the ingredients needed to kick-start the fourth industrial revolution where robotics and automation can be deployed to the far edges of the world.” He said, however, that there was one missing element,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KzQenMjVk5wMZd2r",
+      "originalUrl": "https://www.itweb.co.za/content/KzQenMjVk5wMZd2r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/XfjZTUtQ62j7IZS11nPIe6FWOqe4bP7uLCfkrTpGxEVICyLVgiCLay7exF2JZz6Vb1Zb5rBZ5zQjMXsesammDn-KTZvEIFU2U1_gfw=w816-h428",
+          "width": 816,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KzQenMjVk5wMZd2r",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenMjVk5wMZd2r",
+      "publishedDateTime": "2021-04-15T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-fears-of-vaccine-exclusion-as-india-uses-digital-id-facial-recognition.md",
       "title": "Fears of vaccine exclusion as India uses digital ID, facial recognition",
       "excerpt": "Millions risk missing out on COVID-19 vaccines as India uses its national digital identity for registration and pilots facial recognition technology at inoculation centres",
@@ -1105,82 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-europe-eyes-strict-rules-for-artificial-intelligence.md",
-      "title": "Europe eyes strict rules for artificial intelligence",
-      "excerpt": "The European ... regulation on April 21. The rules are the first of their kind to regulate artificial intelligence, and the EU is keen to highlight its unique approach. It doesn't want to leave powerful tech companies to their own devices like in the U.S ...",
-      "sourceUrl": null,
-      "webUrl": "https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-european-approach-artificial-intelligence",
-      "originalUrl": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-man-sues-detroit-police-after-facial-recognition-error.md",
-      "title": "Man Sues Detroit Police After Facial Recognition Error",
-      "excerpt": "(TNS) — Detroit police's reliance on facial recognition technology ended in the wrongful arrest and imprisonment of a Farmington Hills man, and now he's suing. \"Cities across the country have banned police from using facial recognition technology for a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/SHUTTERSTOCK_SPIRIT_OF_DETROIT.jpg",
-          "width": 950,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Man-Sues-Detroit-Police-After-Facial-Recognition-Error.html?AMP",
-      "publishedDateTime": "2021-04-14T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

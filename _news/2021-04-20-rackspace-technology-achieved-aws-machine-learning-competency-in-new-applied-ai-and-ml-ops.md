@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb"
 type: article
 quality: 76
-heat: 97
+heat: 96
 published: true
 
 provider:

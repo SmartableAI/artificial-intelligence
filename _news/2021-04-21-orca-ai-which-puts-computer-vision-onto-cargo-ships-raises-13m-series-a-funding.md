@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \" Ping An \" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
-    publishedDateTime: 2021-04-21T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Start-up Orca AI raises $13M in Series A funding"
     excerpt: "Autonomous marine navigation start-up Orca AI has raised $13 million in Series A funding, taking its total raised to over $15.5 million to support"
     publishedDateTime: 2021-04-21T12:13:00Z
@@ -68,6 +59,15 @@ related:
         width: 370
         height: 290
         isCached: true
+  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
+    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
+    publishedDateTime: 2021-04-21T08:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210421cn50307/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 7
 
 secured: "ah4gnC+fylzLIYv/3Y8/U8WjHJGFA1/QMYkHMAHvOdp2J072yfUwkfUA2WwD2hprVzpiKiNAqkrwIqGalOBCOXuN2mAztKEevuA4aulRd6dWcPJMdROBSM36IA56QdnJ9EKDndEzvvXe3tqXRyLQlaUhbgTRGHJrkSPu3ZNNAwqgHuuppO/HbYwZjc2l47ds+Php1A/9HfpDZCtY0h6Le68tRs9zHfmT9RhsL/JuNDf3QWom1e3A7tYNbAK/nFDHt6uTT8UYfCNZCF3I5iLW4AIrjylKjTLkbD3pn3Wug/Il0sTL9hHLOnwxWr38TXK2Q5j6isyjl33ZBPOSDhLM//PBYgHxj42w2VKmkFPzbAKdabydZpMT3Kh110QTNcKYTdMUwyfCXsy2My5543PD3mO9LOWCyFbwH6aJBj6e4d6LCBeHEU7o/3LIgrvDiK0EXEteoOpQ4J3aHbiGU0Qk2IPWfSLTQ5I0yhSuyz6Y7aggd3my9Q7/CLHSxxez6Wo1isiPhpcsof3SMvAxUeiu5w==;a1s/eQnPy1xR90/QBL7fcw=="
 ---

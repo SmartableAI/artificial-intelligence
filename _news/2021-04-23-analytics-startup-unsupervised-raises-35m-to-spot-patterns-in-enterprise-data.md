@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-ra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 114
 published: true
 
 provider:

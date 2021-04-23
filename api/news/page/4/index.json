@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-21-europe-proposes-strict-regulation-of-artificial-intelligence.md",
+      "title": "Europe proposes strict regulation of artificial intelligence.",
+      "excerpt": "The rules have far-reaching implications for tech firms like Amazon, Google, Facebook and Microsoft, which have poured resources into developing the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "originalUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/21/business/21economy-briefing-eu-ai/21economy-briefing-eu-ai-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/16/business/artificial-intelligence-regulation.amp.html",
+      "publishedDateTime": "2021-04-20T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-1000x-regular-chips-from-new-cerebras-ai-wafer-chip.md",
       "title": "1000X Regular Chips from New Cerebras AI Wafer Chip",
       "excerpt": "The WSE-2 covers 46,255 square millimeters — 56 times larger than the largest graphics processing unit. With 850,000 cores, 40 Gigabytes of on-chip SRAM, 20",
@@ -544,7 +597,7 @@
       "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -900,7 +953,7 @@
       "originalUrl": "https://www.suasnews.com/2021/04/uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1039,7 +1092,7 @@
       "originalUrl": "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1235,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo.md",
-      "title": "Nvidia GeForce RTX 3050 and 3050 Ti laptop GPU specifications revealed by Lenovo",
-      "excerpt": "Despite not being officially announced by Nvidia yet, the long-rumored GeForce RTX 3050 Ti and RTX 3050 mobile graphics cards have had their respective specifications leaked by Chinese PC manufacturer Lenovo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
-      "originalUrl": "https://www.techradar.com/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3ZNaGC9uMFGq9iMiKk5FAk-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-geforce-rtx-3050-and-3050-ti-laptop-gpu-specifications-revealed-by-lenovo",
-      "publishedDateTime": "2021-04-20T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

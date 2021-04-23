@@ -58,17 +58,17 @@ related:
         isCached: true
   - title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
     excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the ..."
-    publishedDateTime: 2021-04-23T13:24:00Z
-    webUrl: "https://keyt.com/health/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
+    publishedDateTime: 2021-04-23T13:33:00Z
+    webUrl: "https://kvia.com/regional-news/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KVIA
+      domain: kvia.com
     quality: 30
     images:
-      - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
-        width: 1024
-        height: 576
+      - url: "https://kvia.b-cdn.net/2021/04/nichole-42321-375x225.png"
+        width: 375
+        height: 225
         isCached: true
 
 secured: "LP2ok8u28Byy0iwrmYJqqI03myfWSChJs5/SSBwp/oB8mqfyBpyIvxv4fimZmAVtYCJTp7kxFftFiQD/NnqpUcuGD6I6Ofscvc7yjN9vOA2dltgijm/WMG178x/z8FB/nIn4rNuSHCgOFkv80eiXayr7zoZVTeLV/1m4I516neVpYC+T3OOvQbBHYN0Najab1AIjsmJVnb1MEaXf1JRUbkwl1DIOEF27XPltBejcmBz3Vw2sDaOzjHLJwkk8/NgikrgHmHXBURizhyZspvONL4oiWv96ZnnPcff8BlrTabXEjEzvllZ2mAs7fTAx0L2FGZrvLut6IR15pGix9NB6L51Pgk/eY+UscGd7M/+8Oto=;JVxK1MJdho6e14cvg6rICg=="

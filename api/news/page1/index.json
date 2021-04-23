@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-24-ai-in-computer-vision-market-size-share-growth-trends-and-forecast-2021-2025.md",
+      "title": "AI In Computer Vision Market Size, Share, Growth, Trends and Forecast 2021-2025",
+      "excerpt": "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-growth-trends-and-forecast-2021-2025-2021-04-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-growth-trends-and-forecast-2021-2025-2021-04-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 340,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-atlanta-animal-shelters-using-facial-recognition-to-help-find-lost-pets.md",
+      "title": "Atlanta animal shelters using facial recognition to help find lost pets",
+      "excerpt": "Petco Love Lost is a new, searchable national database that uses patented facial recognition technology to make finding lost pets quicker and easier. “We are thrilled that Petco Love Lost has rolled out pet facial recognition technology nationwide and pr ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91",
+      "originalUrl": "https://www.11alive.com/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/81616931-8d43-4e7f-977a-8d4f84643bf0/81616931-8d43-4e7f-977a-8d4f84643bf0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91",
+      "publishedDateTime": "2021-04-23T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
       "title": "Cognitive document processing for automated mortgage processing",
       "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
@@ -106,7 +201,7 @@
       "originalUrl": "https://www.wsj.com/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -262,7 +357,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -751,7 +846,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/perform-medical-transcription-analysis-in-real-time-with-amazon-transcribe-medical-and-amazon-comprehend-medical-with-twilio-media-streams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1004,7 +1099,7 @@
       "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1148,110 +1243,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-is-poor-data-quality-undermining-your-marketing-ai.md",
-      "title": "Is poor data quality undermining your marketing AI?",
-      "excerpt": "Inconsistent data quality and lack of data governance leave marketing teams struggling with data accuracy, consistency, and validity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/",
-      "publishedDateTime": "2021-04-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-a-whale-of-a-tale-about-responsibility-and-ai.md",
-      "title": "A whale of a tale about responsibility and AI",
-      "excerpt": "A couple of years ago, Google AI for Social Good’s Bioacoustics team created a ML model that helps the scientific community detect the presence of humpback whale sounds using an acoustic recording. This tool, developed in partnership with the National Oceanic and Atmospheric Association, helps biologists",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
-      "originalUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_whale_ai.max-1300x1300.png",
-          "width": 1300,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/whale-tale-about-responsibility-and-ai/amp/",
-      "publishedDateTime": "2021-04-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

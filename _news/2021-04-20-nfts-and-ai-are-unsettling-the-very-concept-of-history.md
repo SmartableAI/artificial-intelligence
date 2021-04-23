@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/nfts-and-ai-are-unsettling-the-very-conc
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nfts-and-ai-are-unsettling-the-very-concept-of-history/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "2 Unpacking the Ethics of AI"
-    excerpt: "In this chapter, we explore a number of experiments revealing people's attitudes toward artificial intelligence (AI). They compare people's reactions to humans and machines performing the same action."
-    publishedDateTime: 2021-04-19T02:52:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9361686"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 34
 
 secured: "93ICPxRxa6Pi/8zxUo+Om6hHXa/w9MtlC3zDOjzlqa9aztY1IikyS1dVuYBg8pMKEfnQYuKD2YGQoQef7Ehn7J7nAjKt6GCYvHEySGkfWo3beBBDfjwgbU0SJMc2GnTtxkbjN5o9BgQHOgpC7R1HPGa6pfmfOKztr5Z6x7snJwEtMTSjpTQ+Q9PxfrrGKYLGWDcAEMrP/xfTZDCcUkRgF4WwtvatmT9TA5uAmeQl2TvupaMII5Mt+coynyPoWPLaNqNAWae+n7B5WiuFyHDi8tl1JnBOOv7xDaX2I904Ng+XQojrbmmCmKsX1q8lBVMbqPl4hCncjxrvjhcI/QBL8I7gGRFjrCSB9haNEgr1rUtiQ81N+44uy8VsR32jcP5szjbiuYFU/CABhnQg9B/i2TfydaeAixVl7u9XY2Lo1d9DK3iUOjNFHmwGkUZXI7A4Y6P5BBGkpbgoa1utyk4kFIhUjG6bClpG8e7LWP9TfhvfPdm6y+AIBhTIhWnqEjayXrg+c66riPHuzde+eSSFKQ==;vWh8csiZ5kdDwbc1tv6YaQ=="
 ---

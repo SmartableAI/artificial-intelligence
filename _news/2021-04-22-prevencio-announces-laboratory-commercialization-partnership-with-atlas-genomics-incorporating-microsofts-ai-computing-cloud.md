@@ -63,15 +63,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Cloud rivals AWS, Microsoft compete in a new arena: specialized AI services"
-    excerpt: "AWS and its chief competitor, Microsoft Corp., are now fine-tuning their cloud offerings, developing highly specialized products, most often with AI, that can be targeted at specific industries."
-    publishedDateTime: 2021-04-19T02:35:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/04/18/aws-microsoft-cloud-ai-services.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 51
   - title: "Prevencio Announces Laboratory Commercialization Partnership with Atlas Genomics Incorporating Microsoft’s AI-computing Cloud"
     excerpt: "Prevencio, Inc. today announces an Agreement with Atlas Genomics to commercially launch its highly accurate, AI-driven HART blood tests for heart disease and risk of heart attack, stroke, and cardiovascular death."
     publishedDateTime: 2021-04-21T14:51:00Z

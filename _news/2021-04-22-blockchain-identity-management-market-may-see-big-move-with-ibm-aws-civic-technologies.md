@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/blockchain-identity-mana
 webUrl: "https://www.marketwatch.com/press-release/blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies-2021-04-21"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Teslafan, a Blockchain-Powered Machine Learning Technology Project, Receives Investment Prior to the ICO"
+    excerpt: "Convergence of AI, Machine Learning, and Blockchain In recent years, Blockchain technology has been one of the most cited terms, not only in the IoT network but also in the financial services ..."
+    publishedDateTime: 2021-04-23T18:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/teslafan-a-blockchain-powered-machine-learning-technology-project-receives-investment-prior-to-the-ico-1030313182"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/640746/image-20210416223419-1.jpeg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Victory Square Technologies To Present At The H.C. Wainwright Cryptocurrency, Blockchain & FinTech Conference"
     excerpt: "Victory Square Technologies Inc., a company that provides investors access to a diverse portfolio of next generation internet companies in key sectors including: digital health, gaming, blockchain, AR/VR,"
     publishedDateTime: 2021-04-21T13:30:00Z
