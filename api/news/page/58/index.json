@@ -2,6 +2,186 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-03-10-why-artificial-intelligence-is-the-future-of-technology.md",
+      "title": "Why Artificial Intelligence is The Future of Technology",
+      "excerpt": "Different civilizations result from intelligence ... such as driving, facial recognition, playing games, and many more. As a result, AI has been the focus of technology not only at the present but also in the future. Some of the reasons why artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/11/artificial-intelligence.jpg",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
+      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
+      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "publishedDateTime": "2021-03-09T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-botz-vs-robo-the-best-robotics-artificial-intelligence-etf-for-2021.md",
+      "title": "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021",
+      "excerpt": "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
+      "originalUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg",
+          "width": 720,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
+      "publishedDateTime": "2021-03-09T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-ibex-raises-38m-for-ai-that-diagnoses-diseases.md",
+      "title": "Ibex raises $38M for AI that diagnoses diseases",
+      "excerpt": "Ibex, a startup developing AI technologies to help diagnose diseases, has raised $38 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/",
+      "publishedDateTime": "2021-03-09T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
       "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
       "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
@@ -976,196 +1156,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
-      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
-      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "publishedDateTime": "2021-03-09T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
-      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
-      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-using-neural-networks-to-transform-audience-building.md",
-      "title": "Using Neural Networks To Transform Audience Building",
-      "excerpt": "Most marketers have a general idea about which audiences and characteristics they think they should be targeting to sell their products. Yet very often, they focus on the most obvious similarities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604237db62d2aa444b6cc15c%2F0x0.jpg",
-          "width": 1199,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/03/09/using-neural-networks-to-transform-audience-building/amp/",
-      "publishedDateTime": "2021-03-09T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
-      "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
-      "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757",
-          "width": 757,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "publishedDateTime": "2021-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

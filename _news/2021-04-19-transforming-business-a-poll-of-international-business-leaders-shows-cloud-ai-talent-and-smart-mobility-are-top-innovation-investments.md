@@ -30,44 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Companies continue to prioritize AI and cloud for innovation investment, according to the latest Transforming Business poll"
-    excerpt: "Business decision-makers polled in the most recent Transforming Business survey said that AI and cloud are the top areas for innovation investment."
-    publishedDateTime: 2021-04-20T22:07:00Z
-    webUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
+  - title: "66% Of Small and Mid-Sized Businesses Say Automation Is Essential For Running Their Business"
+    excerpt: "Zapier — the leader in easy automation for small and mid-sized businesses— today released The 2021 State of Business Automation"
+    publishedDateTime: 2021-04-21T13:03:00Z
+    webUrl: "https://zapier.com/blog/state-of-business-automation-2021/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 111
     images:
-      - url: "https://i.insider.com/60751a6c3e3fe7001882a41e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
-    excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
-    publishedDateTime: 2021-04-20T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/active-investment-management-is-latest-industry-poised-to-fall-to-the-advances-of-artificial-intelligence-ai-1030322906"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Federal budget promises more funding for innovative technologies, including artificial intelligence, genomics research and quantum computing"
-    excerpt: "Government also promises to review intellectual property regime to avoid loss of taxpayer-funded innovations to other countries"
-    publishedDateTime: 2021-04-20T11:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-budget-promises-more-funding-for-innovative-technologies-including/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 2
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/8Zx0tJJihswJwwRuh4pcDmTmrCw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KDJKIVIDTRHCTD2YDAH6NUPDWU.jpg"
-        width: 1200
-        height: 881
+      - url: "https://images.ctfassets.net/lzny33ho1g45/40CWfPKt0bwWPzhDNECEBg/6ed8be730f6055c441259b37fb77e7e6/data-reports-red-00-hero.png"
+        width: 1548
+        height: 774
         isCached: true
 
 secured: "7yBwbsTDzMfiSLVG1zPa1t1D4fX47QyyDjQDRiHEHkXamE1NeoCutqjdF6X7O6okFlwbm9dzo3dbKf4THVovZzA3evAB/z4wsnXPzka/6HCK59+sBwPk3YNLlSX4gccgj91BViWgN/UwWrHrrrBLXwwzhsocUl/fw3Jgfg+BTaZCn4rMOTTf4QNiCqRidAqcxbpia5KUgdtIx2/jRxsN9HkxBp8LbUSpjiX6mtgq3cOlZoqP81T1zlaKgkHBhhJzED/eLfRLzqUWrI7wusXoQ7EPUzgiqrHYhpUCt/1I3Z9PSJvkEUFwfhXPOvEkNPyVGld2ajPnYIZ1MN12djQxiMl4TqIuYuJ+yNgFCpmdWcWQsoLNAPWojM2t7AraTW0pxlnNubeBUQ5duwhyFCdWCItHZITpwYKvsIJmz4L8iD3t3qAdfmlN6JUFiI1Ag17xT8YnsmRJAod/2evh0FPFlnepKnjRTb/IgpCeDIohk7j4PlJtkVrVxget9X9zkyTCSWRv9LxdmybsZliQT/YiyQ==;59fL4cXW/vud4e6/aIoixw=="

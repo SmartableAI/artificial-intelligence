@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intellige
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
     excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
     publishedDateTime: 2021-04-19T18:37:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Marketing Market Industry Growth, Forecast, Analysis, Regions, Types and Applications 2021-2025"
+    excerpt: "The GLOBAL Artificial Intelligence (AI ... By vertical, the market is segmented into BFSI, retail, & e-commerce, government, IT & telecommunication, healthcare, commercial organization, and others. Regional analysis The global market for AI in marketing ..."
+    publishedDateTime: 2021-04-23T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-growth-forecast-analysis-regions-types-and-applications-2021-2025-2021-04-23"
     type: article
     provider:
       name: MarketWatch

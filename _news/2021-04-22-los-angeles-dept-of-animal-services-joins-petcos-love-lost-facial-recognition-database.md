@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 492
         isCached: true
+  - title: "Toledo Humane Society to use new pet facial recognition technology to help owners reunite with their lost pets"
+    excerpt: "The human society has partnered with Petco Love for their new pet-finding program, which uses the pet facial recognition technology of the Petco Love database to make finding lost pets quicker and easier. Starting today, this tool will be accessible to ..."
+    publishedDateTime: 2021-04-23T12:24:00Z
+    webUrl: "https://www.wtol.com/article/news/local/toledo-humane-society-to-use-new-pet-facial-recognition-technology-to-help-owners-reunite-with-their-lost-pets/512-2218047e-b09d-4d8f-8fbe-d273c73de30e"
+    ampWebUrl: "https://www.wtol.com/amp/article/news/local/toledo-humane-society-to-use-new-pet-facial-recognition-technology-to-help-owners-reunite-with-their-lost-pets/512-2218047e-b09d-4d8f-8fbe-d273c73de30e"
+    cdnAmpWebUrl: "https://www-wtol-com.cdn.ampproject.org/c/s/www.wtol.com/amp/article/news/local/toledo-humane-society-to-use-new-pet-facial-recognition-technology-to-help-owners-reunite-with-their-lost-pets/512-2218047e-b09d-4d8f-8fbe-d273c73de30e"
+    type: article
+    provider:
+      name: WTOL
+      domain: wtol.com
+    quality: 39
+    images:
+      - url: "https://media.wtol.com/assets/WTOL/images/9963c996-5af2-48eb-8d81-ff0b3da07eaf/9963c996-5af2-48eb-8d81-ff0b3da07eaf_1140x641.png"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "7JaTz28jN9PD9CHDbFUPlupCbKVtEJ3zaRObdv9NyiNXIw3nFLyoQAYoQMEc3it7GQGi7aIAYGL7iLX/aN3VA72KBQUmC9BMk8xwa5czNJdkqgEUSPfs7x9280jrwXGAwy4FpJRjeJwVrQ4F6ZDzbEkqy3yRW08+czpFW91RSWhGTLwZ3zAtsOKCfN9bMhpx07HSaAPq+xLbgv2jGDrwNLibWgA0SDEVYUfHV9tBTKP+WoMdooK3i156eTYy/txiFvhCJaN6EHZUrn/8C6vIdYkY/Z0atr1KCbP/BKDL4pWSQqBNTQOqJ+1U1rm/usltV4+g3MxQUemgxJUMRgz13cR1I5Du4a9LzQ9UwHiWHmjB4zb8qzYsz271H9YHYbb4aeO/Z5CTmiD3IenS/E4s0MtwYPti61SPrN9o5jR37FnNX1TDhW2/2sheQK0pCUvZThce75eq8j0SPLqfsYqb9ji5YSXoDFx6yeP1vAkzqTssLsJf7R5blPZR8La6qxN8sFNI9aLc82SmDXK8DIqlWg==;IWfN2cJS2SzwDAPHCfRTJg=="
 ---

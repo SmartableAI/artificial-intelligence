@@ -171,13 +171,13 @@ related:
   - title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
     excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
     publishedDateTime: 2021-04-23T00:32:00Z
-    webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: KCRA
+      domain: kcra.com
     quality: 54
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*"
@@ -255,6 +255,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/2/34/2346eb46-a0c2-11eb-ac31-2b93c0ec754e/607cfdb787dae.image.png?crop=301%2C226%2C73%2C0&resize=301%2C226&order=crop%2Cresize"
         width: 301
         height: 226
+        isCached: true
+  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
+    excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
+    publishedDateTime: 2021-04-23T12:48:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-in-light-of-fatal-tesla-crash-in-texas"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 608
         isCached: true
   - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
     excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"

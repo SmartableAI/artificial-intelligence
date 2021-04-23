@@ -56,6 +56,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
+    excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the longest text, known as the Great Isaiah Scroll. The process ..."
+    publishedDateTime: 2021-04-23T12:49:00Z
+    webUrl: "https://www.kctv5.com/artificial-intelligence-discovers-two-scribes-behind-2-000-year-old-dead-sea-scrolls/article_3bd6a545-6c7f-542a-a1b6-9416c7846dac.html"
+    type: article
+    provider:
+      name: KCTV News
+      domain: kctv5.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
+        width: 820
+        height: 462
+        isCached: true
 
 secured: "rJsAUo7ZdxogqWZCgfOlo7oiFObTEBPsPrJi6z3MSxtdYEx9PIw6gafagioCmaINJk/nW3sbpOFRgWL8juZMW7zOcawqYQPA03NAnt590UtnvabFzkV8UMuhvFqAxAMTTg1IHdjtZyIpNVyE4mMsbWSZDJ/Jt2Pdf1GNoBFekPdY9plJdiSi1yz4eWmY2uHnEl/L/oMNKpeNIf2UJwBXJ7kvM5ds+Uj1nCXcyPr9kc/57RbKWupMXTgkKCpXy5ZgFw/TAzgk0UwMDrajodrRqZOm80XD7syuist62sb3MKrs2K5c2j7YCMRZPHvRbK9S5en/eXA+2ftQZ3oTRbcZtooCAOmiB/EXBTgiYVbra6+Di1HqCmJtPJRp5APBRneFk3XHQodNK5NaW5YcrSGcEIFljr5l9dJvD88k+95cGZyYIOD+xg+NxxZazcebMjTy/tqLnFpOJ1CL+k3qhsXFelyN7J+qUpE3Kqm/2Nm3AWAc3TIP5RjvGOvvHuQ4J/Cfstll0bKD87OluOws2y4frA==;csQ24Py21Kl3TI4IWpYgGw=="
 ---

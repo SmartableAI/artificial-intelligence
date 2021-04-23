@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analytics startup Unsupervised raises $35M to spot patterns in enterprise data"
+    excerpt: "Join Transform 2021 this July 12-16. Register fo r the AI event of the year. Boulder, Colorado-based Unsupervised, a big data analytics company leveraging AI to find patterns in business data ..."
+    publishedDateTime: 2021-04-23T12:01:00Z
+    webUrl: "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/"
+    ampWebUrl: "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This video analytics startup aims to be the Google Analytics for offline retailers"
     excerpt: "Gurugram-based Veda Labs is a video analytics platform that uses existing CCTV infrastructure to provide businesses with insights like total footfall, demographic overview, customer journey, and more."
     publishedDateTime: 2021-04-19T23:50:00Z
@@ -40,65 +56,20 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Botco.ai Launches Version 2.0 of Its Conversational Chat Platform, Featuring Contextual Chat Marketing and Advanced Analytics"
-    excerpt: "Botco.ai ( the leading HIPAA-compliant conversational marketing solution, launched today version 2.0 of its platform, featuring Contextual Chat Marketing and an advanced analytics"
-    publishedDateTime: 2021-04-22T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/botco-ai-launches-version-2-0-of-its-conversational-chat-platform-featuring-contextual-chat-marketing/article_3c700f22-510a-5101-bc2a-e05e04730757.html"
+  - title: "Unsupervised, a startup that uses AI to automate data analytics, raises $35M"
+    excerpt: "Self-described automated analytics startup Unsupervised Inc. said today ... “Unsupervised solves this crisis by using AI to automate that analytics, enabling non-technical business users to ..."
+    publishedDateTime: 2021-04-23T12:28:00Z
+    webUrl: "https://siliconangle.com/2021/04/23/unsupervised-startup-uses-ai-automate-data-analytics-raises-35m/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 27
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/5eae17e2a0d3e469a4642a81_Mask-Group-18-p-1600.png"
+        width: 1600
+        height: 770
         isCached: true
-  - title: "TigerGraph Continues to Drive Graph Analytics and AI Market Momentum, Unveils TigerGraph Cloud ..."
-    excerpt: "TigerGraph, provider of the leading graph analytics platform, today announced that the company continues to accelerate the adoption, application, and use of graph analytics on the cloud with broadened support across all cloud providers."
-    publishedDateTime: 2021-04-21T13:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/science-technology-business-635c211f85b846c447cbbe5f31a1f9ac"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
-    excerpt: "Artificial intelligence (AI) can provide a more sophisticated and ... Users can quickly and easily search for and analyze deal sizes within their therapy area, molecule, and partner type to predict deal values and assess risk. The predictive analytics ..."
-    publishedDateTime: 2021-04-22T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20740637/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20740637"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20740637"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
-  - title: "Deep North Secures Department of Homeland Security Award To Provide Video Analytics for Transportation Security Administration Checkpoint Screenings"
-    excerpt: "Deep North, a pioneer in computer vision and artificial intelligence- (AI-) powered video analytics, has been selected by"
-    publishedDateTime: 2021-04-22T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20749868/deep-north-secures-department-of-homeland-security-award-to-provide-video-analytics-for-transporta"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20749868"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20749868"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-  - title: "Clarivate Releases Predictive Analytics to Help Fuel Life Sciences Deal Making Landscape"
-    excerpt: "Clarivate Plc (NYSE: CLVT), a global leader in providing trusted information and insights to accelerate the pace of innovation, today"
-    publishedDateTime: 2021-04-22T17:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/clarivate-releases-predictive-analytics-to-help-fuel-life-sciences-deal-making-landscape-802085717.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "FEPmNUY0vJLkHQGL0tEdhWp2GXdsTIJC3+/Pd213+j9EOpBT6DGgHeyEQc/HFYAmBE48dejmmPsiPH6v79qeQtA+rx0SAkVkcTc3xdxVCmME1siUyCknEY3doAbWM9FybZ1zdTo8XJZA7rh7+7ulchBmhVFyQrk1wns4xFr7EUpDLCWqfw+1ENz7NJadBXreIEaAfFjVjv1ocleYsY81XRhzkndM3LqGDWaWxBscn9x0H2A6pFjTapvivungYTnnWePXsuH0bmwAb/fP7CybtHGWTxnnXT3EOljtUONFm//DTzKCI/DA0p8YYGCuKo8nXs9rbBtcA7fA+kadObiz1JhtfaePTemH79SygwYSRCR3sNDZY/pXfiLh6V+zD+KGs1XPBYLVl8S5NrTl2gKsxVB1Dj69h9zwtB5WvJaDBylsP6EZxI4Oo3UzpAeIP+XLfKlQvRw6Yb75BkDikfS+Am8bG+p5tgvvsC9RTXIeCeLwnxVH3TeWcCWI9RbxI5rCk/LSNPkbjApreIP2JVUQkA==;Pe6xRbDK8O6p8FJUOs6dmw=="
 ---

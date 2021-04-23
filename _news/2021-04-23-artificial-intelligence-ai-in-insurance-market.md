@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Marketing Market Industry Growth, Forecast, Analysis, Regions, Types and Applications 2021-2025"
+    excerpt: "The GLOBAL Artificial Intelligence (AI ... By vertical, the market is segmented into BFSI, retail, & e-commerce, government, IT & telecommunication, healthcare, commercial organization, and others. Regional analysis The global market for AI in marketing ..."
+    publishedDateTime: 2021-04-23T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-growth-forecast-analysis-regions-types-and-applications-2021-2025-2021-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
     excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
     publishedDateTime: 2021-04-21T12:11:00Z
@@ -81,6 +95,6 @@ related:
         height: 480
         isCached: true
 
-secured: "j/+Wc5GY1lRBCGtvrgUNF23iz520bjeOPPmsfeSCQwab46hTTFczn61wskcq6k8+2DMNVGmepphluv9bxTk6Q7YQcqr07VYhTR6h+ajOgz1YUCgZtVvP5cJsCWQRiPjXFbTsZwmG1cvPfxBqrPwnDbPcP+Ho9XMmP1FBDUYhE6q60KOd8yIlqjIyfSPH64uvMYuxDLUUzie19gsdljevAqhrbZPCv9YnBagC4HCD6tXnPnTv81eoNgWfUyDsc5AWqjAZcKnkJYDAFvz9Aq2K23dfijGnzYj5kel24V9OjLzFSg41HKJAGT+7u3fF8B5Ym+pxvqOKrCPNPKA9dI+XzXkngqykhYby34sge0e035o=;qqiBTCzXpqwrYQpdJ6Z9cA=="
+secured: "7GcBq9VH8OlakBPx8/is0SrCwUzlUFd276S3GyVFwPq0iXUT/vh4yVGMQZt2ONOO6P+vbW95WfHkH5yGBgLod8yCtatIcSOWVzSwojbVH3Qvr5WJBvCovizP8dl9sQErIkcMcYCq645Yr6XVqPbDZjAvX5X5gqSX3cWTt9lmAAeHwlNCgtTRKTsRtCY3l7bOZWq+s1F2rXt0I78c8P++RsOrpUyXDtS1U5JDUF4h3Z18XjKWQjPqKxkjoeo9N9PS/lBcygKGSpjDsQnxT1ylKot85f5ySo0m8K655ZIh3r9NgA1WMgoOt0gk+vfNotyUxWR4o8K5935lfeBoTxD26i0nqsowRUNkpEpGXqGIfwbrfqdq4DGFbt47RTPosCzSfNTz4hXEmSEYrUYsKLlDk+vTaacAV4PyyVteU543T9Hexpt+e0Y6phacj8tn3oIyXXd3rH5TLu0LAFtWLMYHB8hOHxuTTmpO8MJtLMz+XHwTBzYGP4nf3bkXgQ0DV91Ml8CdY/Z/7gSBtgyKl39aBA==;fkxjk4LdzfGPdyxVzwNzJA=="
 ---
 

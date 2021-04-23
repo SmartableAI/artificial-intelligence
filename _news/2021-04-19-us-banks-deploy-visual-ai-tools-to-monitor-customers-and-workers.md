@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RIT researchers using drones and artificial intelligence to help assess crop growth"
+    excerpt: "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu, an assistant ..."
+    publishedDateTime: 2021-04-23T13:41:00Z
+    webUrl: "https://www.rit.edu/news/rit-researchers-using-drones-and-artificial-intelligence-help-assess-crop-growth"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 33
+    images:
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-04/drone_ASW8203.jpg?itok=T9eMq_z9"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "uE3/Q7x9vG+kt8WvXDDIetGDMfdbj12B3Mrm+HNlmk41cYaLT+y9Wi/SFRLTK8JRBCDAlqmIHkXXbpx+iTGS/sZdsSQmjlu9vIsCh8lkVCwhG5TM9cWYX8nYNy5P7TjpGN2IztKqhKu9Yncw79hjOBIu0UfV3M2a+IHCX2JizXENXW+32EEYQR1OkZp6wrMgpOAm/j+Yq3oc70nQyGHEUonCeeS/ew42q8s8q3GocFDxYn0a6TzrpZkGYHmXxo2F5FtiEKPRF1jPb8CTz+cLQoJ7cAxRm4vuDaST++FvxlKOp0KiXLbSz0E2fzu0FmrwGlhS0KDEpNenAJvORgRy52H5gdzfAZF7bAcrS7FfFMJrJT6/hR1nYh91wIVkhUoDgOdXL+WpUY28QFHUnzA9xaBgiu5H/pATJ5N5rue/CFm33aNlYWddHl46qK4jYpPDAIIqFSY0UhL5XrNXHUmloH9UBSRdXdUbbWsRmCZzxBxIaDEEGs6EgeymxWNhZF8fSmRwhn81hN4GA9rcKaLv9w==;4HigTN4qerFZ6zd4f5QxLg=="
 ---

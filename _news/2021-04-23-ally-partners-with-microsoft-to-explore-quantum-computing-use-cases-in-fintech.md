@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Top Fintech Stocks to Buy Now"
+    excerpt: "Fintech stocks have been white-hot over the past year ... and Upstart tackles both with its AI-enhanced software. Rather than rely on traditional credit scores, which often exclude lots of potential borrowers that have good-but-not-quite-great credit ..."
+    publishedDateTime: 2021-04-23T12:17:00Z
+    webUrl: "https://www.fool.com/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/04/23/3-top-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F622366%2Fyoung-woman-holding-credit-card-and-smartphone-and-thinking-with-chin-on-fist-online-mobile-shopping-e-commerce.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
     excerpt: "The AI in Fintech Market is forecast to reach 11 2 billion by 2026 growing at a CAGR of 29 75 from 2021 to 2026 Artificial Intelligence AI has taken the tech world by storm allowing companies to automate their"
     publishedDateTime: 2021-04-21T15:14:00Z

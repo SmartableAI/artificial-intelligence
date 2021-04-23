@@ -33,6 +33,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "BrainChip Simplifies Deep Learning with Launch of MetaTF"
+    excerpt: "The MetaTF development environment leverages TensorFlow and Keras for industry-standard neural network development and training and includes the Akida Execution Engine (chip simulator), data-to-event converters, and a model zoo of pre-trained models."
+    publishedDateTime: 2021-04-23T01:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210422005415/en/BrainChip-Simplifies-Deep-Learning-with-Launch-of-MetaTF"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
 
 secured: "lLZ9vRoCE622ZVU0pS0NZ8uQ8kAeuzXDuJ578TkvkEcVKzwXl6FV2a1xC2+HM6EvZP6hpxZFx4752EgbYwc0If+/Iv2jn+ksNhQP/Nj25B99xZO0S689W+onOAuFKbvudTuWlHRcawWfpu8HqvHCeWbYRPHXuVOHwVHIa1QkME/jdYLJpJb4jD9xXmvRkKlqbZIpVJsGqKeTOBEnxRZuKYyBa8YEbZsboWIg+nAHANU9o3Jn3LzMuodjxM8QI/OCLdm6GOswgkFJpImYkS8GBi4yyyGTprHETJ62n1prIwjDp1l9v18yeqdJkosFa+cgk/stzcMU9Qgmlnv9Eph3CITbbZC0+/oaU40dQuwSppM=;HcgAESAilgOoYp0x5OxM5Q=="
 ---

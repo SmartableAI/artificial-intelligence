@@ -2,6 +2,197 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-03-16-icad-announces-fda-clearance-for-profound-ai-version-30-for-3d-mammography.md",
+      "title": "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography",
+      "excerpt": "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
+      "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
+      "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/?sh=301ffe4f5677",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "publishedDateTime": "2021-03-15T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
+      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
+      "excerpt": "Robotics researchers are developing exoskeletons and prosthetic legs capable of thinking and moving on their own using sophisticated artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-amazons-secret-to-success-is-working-backward.md",
+      "title": "Amazon's secret to success is working backward",
+      "excerpt": "Inventing on behalf of customers is highly encourage and rewarded at Amazon. Bryar encourages business leaders to develop their own leadership principles, for scaling the business and recruitment of new talent. Bryar also encourages changing the process ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/15/c8f625fc-a207-444e-87d1-4036aa1456b2/im-298010.jpg",
+          "width": 620,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
+      "publishedDateTime": "2021-03-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-tesla-fires-full-self-driving-testers-reveals-what-in-car-camera-does.md",
       "title": "Tesla 'fires' Full Self-Driving testers, reveals what in-car camera does",
       "excerpt": "Tesla has revoked the privileges of several drivers who were testing a new beta version of its Full Self-Driving feature because they weren't paying attention to the road.",
@@ -991,206 +1182,6 @@
         "name": "IT World Canada",
         "domain": "itworldcanada.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026.md",
-      "title": "Artificial Intelligence (AI) in Automotive Market Size to Witness Huge Growth by 2026",
-      "excerpt": "Selbyville, Delaware Global Artificial Intelligence (AI) in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) in Automotive Market Report also covers top key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-alibaba-backed-chinese-ai-firm-megvii-to-go-public-in-shanghai.md",
-      "title": "Alibaba-backed Chinese AI firm Megvii to go public in Shanghai",
-      "excerpt": "It is one of the first companies to launch an IPO after filing for a Chinese Depositary Receipt offering on Shanghai’s Star board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-677399",
-      "originalUrl": "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-677399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-machine-learning-market-industry-outlook-by-drivers-restraints.md",
-      "title": "Machine Learning Market : Industry Outlook By Drivers, Restraints",
-      "excerpt": "\"The report on the global machine learning market provides qualitative and quantitative analysis for the period from 2018 to 2026. The report predicts the global machine learning market to grow with a healthy CAGR over the forecast period from 2020-2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-industry-outlook-by-drivers-restraints-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-industry-outlook-by-drivers-restraints-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy.md",
-      "title": "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy",
-      "excerpt": "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
-      "publishedDateTime": "2021-03-14T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

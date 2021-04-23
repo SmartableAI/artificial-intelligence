@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming Business: A poll of international business leaders shows cloud, AI, talent, and smart mobility are top innovation investments"
-    excerpt: "A poll of international business decision-makers reveals that AI, cloud, and smart mobility are top areas for innovation investment. Companies are also setting ESG goals, particularly around greenhouse gas emissions and water consumption."
-    publishedDateTime: 2021-04-19T14:06:00Z
-    webUrl: "https://www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/6074a60c2cc1ef0018da14d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
     excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
     publishedDateTime: 2021-04-20T12:50:00Z

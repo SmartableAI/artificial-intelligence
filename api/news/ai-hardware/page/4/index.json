@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-18-scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage.md",
+      "title": "ScaleFlux Delivers Computational Storage with Support for Nvidia Magnum IO GPUDirect Storage",
+      "excerpt": "“Modern AI and data science workloads are powered by vast amounts of data, which makes it critical to enable fast communications between GPU computing and data center storage systems,” said Kushal Datta, Senior Product Manager at NVIDIA. “ScaleFlux ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
+      "originalUrl": "https://insidehpc.com/2021/03/scaleflux-delivers-computational-storage-with-support-for-nvidia-magnum-io-gpudirect-storage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-the-key-to-making-ai-green-is-quantum-computing.md",
       "title": "The key to making AI green is quantum computing",
       "excerpt": "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements.",
@@ -1392,58 +1426,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
-      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
-      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-308486/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "publishedDateTime": "2021-03-07T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

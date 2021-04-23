@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-23T11:04:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/"
 type: article
-quality: 67
-heat: 97
+quality: 69
+heat: 99
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60818ff93df0e525e67cbcb0%2F0x0.jpg"
@@ -75,6 +76,6 @@ related:
         height: 468
         isCached: true
 
-secured: "kwcchtBSWorqOGNmwJQHugohUTbQZOKMZsw/FyvY9dLPiCtqKnQCgUzdXTQjGFBfjcTqmQX3FIDZ/FJT2230Tbzf2ZKeEv53zA6NyZnDEG5tWtuzUth/171CH1vSvKAAN0eUNeqtCIl+wApDWa9sAPAq3cXZat9LDoYiPrnpnGtJQqX6ljWK1LB0P0dLNM9Z1ZRogOKJVlG3lxbQutyKnjbS3UK8ZcTL8qVSatc6IjTATA9DyMn0WiO1nV4B21wvRuSODCl/GBCxi4drLgHtkhBJoelYyv+9znKlIQPPvE2h2EmRqQgSxVXZ2PytavtCCrJWDg9JybsHne9+SAPorBIHqboIFEplh91jWWbdmrY=;kdWlUO72Sr2wyrsv62ZN4Q=="
+secured: "Ske4KqQ49pXuJ2kjWkyHnidvQVnmUL1SwGtfZKvgvAmrnxyvmCCgANt+GZS0aOpUlkfP2Tuj82GgaY9KDd7Bb3aDGhLdMplR3pTz+8HSoGDgYty0Sezrq4wwR1lVxxjKTv1xhQXhx2Iq8xCNiD4cP7w0f1R0PCY83KNZm9MfvZSGKYkInTYgihwIb8c9Fym82OVBxfx2eXsdFvvJKoJdc4loNwICqmsTUhNnKIwYnTwS+npw9tU4ZuXCwG2LjalqOCtzsP1SVqjuOUN4ll0BbKzIuwozh69d0gG4ASX6IP2SQgpqQHY0HhzRUeij5FEeObtGY8gHMmITW/ckPQRFVb1Hon/M0+PnhCYOQaUr0RP0LT+REVKLSESeQC3ZdVWhdbanKmkFBUbGhs0iIlaHruoT1LvwAef2GWevZcjKC51xt8h3GX8cBrR9uKMaluTEVmf7ZvrQAEAJsVMu7/8sDwYLEO5/ckrOeEnUIABzz2iATq+8CIwG+GPUBwjr4GoezB+pP1emr7Y23QNbHeRyFA==;5rmvQHOmNxsx4mLdDcLaQA=="
 ---
 

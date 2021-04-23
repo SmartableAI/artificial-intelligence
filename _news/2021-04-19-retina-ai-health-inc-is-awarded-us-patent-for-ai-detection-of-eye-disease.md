@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Key Factors Making AI Adoption Hard For Startups"
+    excerpt: "Businesses are already investing their resources to adopt AI, but it also comes with many challenges, especially for startups. A startup means fewer resources, a small team and more expectations to beat the competitive market. There are vast differences ..."
+    publishedDateTime: 2021-04-23T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/three-key-factors-making-ai-adoption-hard-for-startups/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/three-key-factors-making-ai-adoption-hard-for-startups/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/23/three-key-factors-making-ai-adoption-hard-for-startups/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef5e2b9f8637900066fe33a%2F0x0.jpg"
+        width: 1200
+        height: 785
+        isCached: true
   - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
     excerpt: "Qumu Corporation, a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. Developed by Qumu’ s cloud engineering team,"
     publishedDateTime: 2021-04-21T13:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "RIT researchers using drones and artificial intelligence to help assess crop growth"
+    excerpt: "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu, an assistant ..."
+    publishedDateTime: 2021-04-23T13:41:00Z
+    webUrl: "https://www.rit.edu/news/rit-researchers-using-drones-and-artificial-intelligence-help-assess-crop-growth"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 33
+    images:
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-04/drone_ASW8203.jpg?itok=T9eMq_z9"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "NbC/n7x28bBulU14uQ6n692UrK/Ho/zUta+xMUWuAV8bBquqw28KicrqXNFqT8zEuEJ0Vk6N72mQKlWm1llTyXdWtpJBwyqDN6qyt/38n7MEMkCwauQwsOXfAvxOFn9/F5JAA+ueZ8PEB9HDjah4CzN3AZg3FX8hU+OAxO5s4mZujB3Yanha23EBKrGk+1NvUGr+7jM0d1AFsFjpVrO73oXcGkvHcyC6bJ3UqRAZWix/CTsNRi2qYGhp/YEF1uR1cTDUPxpNmhT7Ynh0MPQR1lMNuoYE1O+CYvoC7jBRntPyt+PUUWdsD+MzhD3X7oT9pnpqa+3WHqA28DuhOpVS2uQjiNrl9S6NGaY65/ED4zHaOcDKCmw8vOsOdyU5l7f3kWdJhyuB8UQftAv7X9hVETbqTl60FsX3NOjWC6wob6WbWzZDoRhHfM9Ux1ONpk3H1hgnxPP9WEFHEZog/ig+ay6A0i2eRXIOVqMfQo/y8vlzI3WgRTn8PY87aI23Su2Xc6ktDT9Ace12N4z1HWfgBw==;Obh2t5+mWiENJ7dKli1Vxw=="

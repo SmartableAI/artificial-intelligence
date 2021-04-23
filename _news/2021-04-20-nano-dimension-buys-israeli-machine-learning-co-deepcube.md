@@ -48,6 +48,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "Nano Dimension Closes the Acquisition of Machine Learning/Deep Learning Leader, DeepCube Ltd."
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Leading an AI/Deep Learning driven revolution in manufacturing Sunrise, Florida, April 23, 2021 (GLOBE NEWSWIRE ..."
+    publishedDateTime: 2021-04-23T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader-deepcube-ltd-1030338611"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
 
 secured: "I2yt7cPMX7BDiL2roT9eZTNEcEi8pXAFmZ95vbt0R6mEXA/QtmvYGdURQV2fA0qkBlfjh4triDvu9Fd7/FEyaCbkbRFCl18eUVdTAQtnxxBT+Xtfly1MRfgRYoShUGhJYe+NPabGgx6duuMlAUXZXmqdsoJf9FV0u5uEdFSdh8x4hzvrLY1ZDJXVGOLgCPUjpUy/w1tNdZavX48Lvkd3K81zspZrTUZXmTWBfRL1WmkumyDl4ADtmIhZGzBYuKrU7ixwiM6jNNOFOnTXAaFQMB0m7o7wErGRiHcUdXHtRI6l7EIt2S5xvwI8Yy1RKNYt8DtNtOBzIUg/ddKXWB2AMXZV688bSlbVOgLFHDFCTZII5yXOC+Lo2Liq6HrEL2hvwJOQ3j5GFCD8SaIvLeCK5p0nKI81nuLKB8XHc4rotju5/7GHfhLrg7eq/LZISIMJyLxvtYiO5D7Ojk3NwE4rBIYrxOK42OvSOnnU8aujPoi4Gpt+AsrtXZfjwa++Cl6bmgEljKfVo869veuvubtwZQ==;NkWqDs3wR/zWyNj3Dv+UeA=="
 ---

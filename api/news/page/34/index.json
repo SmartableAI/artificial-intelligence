@@ -2,6 +2,196 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-03-27-north-american-ai-in-healthcare-market-trends-2019-segmentation-outlook-industry-report-to-2025.md",
+      "title": "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025",
+      "excerpt": "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U327247103_g.jpg",
+          "width": 800,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
+      "publishedDateTime": "2021-03-27T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-this-deep-learning-and-data-analysis-course-is-on-sale-for-under-30.md",
+      "title": "This deep learning and data analysis course is on sale for under £30",
+      "excerpt": "TL;DR: The Deep Learning and Data Analysis Certification Bundle is on sale for £29.21 as of March 27, saving you 97% on list price. The world isn't getting any bigger, but what we understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/march-27-data-analysis-course-bundle/",
+      "originalUrl": "https://mashable.com/uk/shopping/march-27-data-analysis-course-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F03%252F27%252Fc4%252F1b58893fb760454caf6205510c7e3286.a4ecb.jpg%252F1200x630.jpg?signature=WC_6Vnp3ruf_vSRsDobI1S9hUXQ=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/march-27-data-analysis-course-bundle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/march-27-data-analysis-course-bundle.amp",
+      "publishedDateTime": "2021-03-26T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-ai-weekly-algorithms-accountability-and-regulating-big-tech.md",
+      "title": "AI Weekly: Algorithms, accountability, and regulating Big Tech",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
+      "publishedDateTime": "2021-03-26T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-report-apples-been-snapping-up-ai-firms-to-improve-siri.md",
+      "title": "Report: Apple’s been snapping up AI firms to improve Siri",
+      "excerpt": "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/",
+      "publishedDateTime": "2021-03-26T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
       "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
@@ -975,196 +1165,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment.md",
-      "title": "Where AI Needs To Advance To Bridge The Gap From Research To Deployment",
-      "excerpt": "The AI excitement is predominantly driven by on-going technology innovation, as the speed, accuracy and usage of AI has dramatically increased.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/where-ai-needs-to-advance-to-bridge-the-gap-from-research-to-deployment/amp/",
-      "publishedDateTime": "2021-03-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
-      "title": "AWS launches machine learning service to monitor business performance",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
-      "publishedDateTime": "2021-03-26T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-ai-used-in-battle-against-asbestos-linked-cancer.md",
-      "title": "AI used in battle against asbestos-linked cancer",
-      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uol-aui032521.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uol-aui032521.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-26T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-ai-startup-idelic-raises-20-million-to-make-trucking-industry-safer-less-costly.md",
-      "title": "AI Startup Idelic Raises $20 Million To Make Trucking Industry Safer, Less Costly",
-      "excerpt": "Cardiff and his cofounders are set to announce a $20 million series B raised by Idelic, a startup that applies AI and machine learning to data from trucking fleets in order to ensure driver safety and streamline logistics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/",
-      "originalUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605cf8d85c6e11b8f29ea476%2F0x0.jpg",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/amp/",
-      "publishedDateTime": "2021-03-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

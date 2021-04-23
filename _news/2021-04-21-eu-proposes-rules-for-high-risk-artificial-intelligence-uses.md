@@ -72,6 +72,22 @@ related:
         width: 1000
         height: 608
         isCached: true
+  - title: "EU’s top data protection supervisor urges ban on facial recognition in public"
+    excerpt: "“The EDPS will continue to advocate for a stricter approach to automated recognition in public spaces of human features — such as of faces but also of gait, fingerprints, DNA, voice ..."
+    publishedDateTime: 2021-04-23T13:25:00Z
+    webUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/"
+    ampWebUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-135627371-facial-recognition.jpg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
     excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
     publishedDateTime: 2021-04-21T18:29:00Z
@@ -279,6 +295,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 22
+  - title: "AfriForum opposes use of facial recognition on roads owing to privacy violation and potential abuse"
+    excerpt: "Lobby organisation AfriForum has sent a letter to the South African National Roads Agency Limited (Sanral), expressing its opposition to the use of facial recognition software that it says will violate citizens' constitutional right to privacy, and which ..."
+    publishedDateTime: 2021-04-23T13:24:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/afriforum-opposes-use-of-facial-recognition-on-roads-owing-to-privacy-violation-and-potential-abuse-2021-04-23"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 5
   - title: "Pattern Recognition, Functionals, and Entropy"
     excerpt: "Pattern recognition (including sound recognition) is described mathematically as the problem to compute for any element of a given class its image in a classification set. The difficulty lies in the fact that the map may be implicitly defined by a property or must be extrapolated from prototypes."
     publishedDateTime: 2021-04-22T01:33:00Z
@@ -289,6 +314,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "0obXnlG45jgxvK62npDFg4NV3oKrJvN4wvRAWrZ183t4GNcrtUvhP/4ZDgMZBm6pLDa6R6NADdsYOp8jnbsIniZXuxisAhGGXAiVOh1/MXF//tYXpKkCGqiFY5UnRAhS7JipfQe1O5hqDsPm37vqBwM9vdBTiVs9TSE4CLZ+3g5RjGtrDcWwjxNd/azQ9fx3WBIiU4ejlEjJuUZQ2oFXrNuPq/EViYNgGJXxcO55ujOQBHIijAvUBRT2i/z9AoBwVgAJd/lPt7IZW/MLPgHA5VErmlwTro8/TyDM+5BFhbaHPqN8NaoYUseEyPGML0yQVhhBBTVuB0+++3Y2BF3ZouzfiMhiDT62FoXF/lBVJ4s=;OxGOALLk90xUm2aNhCeg3A=="
+secured: "vL9bifkSHv8zw9HzDjsZpALpGLohupG/qFs+Wrr8sHstQNoIbVnCWNLeNJR+P0GDsO0jeY/ufKAKMrrlRoWFZRQ1Y76R8yZ3I22dNm81sL244G2xs92suV69mTCE58rzaSVlEvr/paBjf17ENaRcV2sfXDEW0pEkZULlW0+zgPx3WzANJ2K7mxcYldBn+J9BLo2Ru/xtlM0sFXSwqFGLhGrcESWRxTml4RQVPtjYygh/jT5FQt7em3Zn61cvdVKjNqvYCc43iD5A4QzXrV3ihtlurA05VaXirInS02nwaIn49Rfbaaxih+D4Vf6a8dPuK+NhanzCtAZasRd7QIsPuHVHa4s7REOYxhMt2htjGuk=;aEGvKk5JDUvVrvYWqhCQrA=="
 ---
 

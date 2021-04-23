@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
+      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
+      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
+      "publishedDateTime": "2021-04-13T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRISTV.com",
+        "domain": "kristv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-drone-maker-dji-the-latest-chinese-tech-giant-to-get-into-the-car-game.md",
       "title": "Drone maker DJI the latest Chinese tech giant to get into the car game",
       "excerpt": "Search engine giant Baidu, which has been working on self-driving technology under its Apollo project since 2017, said in January that it plans to make EVs using a plant owned by Geely Automobile Holdings Auto Shanghai 2021, officially known as the ...",
@@ -1379,58 +1423,6 @@
         "name": "WPIX",
         "domain": "pix11.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021-price-range-self-driving.md",
-      "title": "Ford Mustang Mach-E Vs Tesla Model Y: EV Buy 2021 — Price, Range, Self-Driving",
-      "excerpt": "The Mach-E appears to be shaping up as a popular alternative to the Model Y. Maybe the first real electric competition for Tesla in the U.S. In February, Ford was the third best-selling BEV (battery electric vehicle) with over 4,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60696d2c3a792eb62a553dc8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1827%26cropY1%3D100%26cropY2%3D1128",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2021/04/04/ford-mustang-mach-e-vs-tesla-model-y-ev-buy-2021---price-range-self-driving/amp/",
-      "publishedDateTime": "2021-04-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

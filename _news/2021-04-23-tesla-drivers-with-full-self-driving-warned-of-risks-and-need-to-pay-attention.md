@@ -3,18 +3,18 @@ category: news
 title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
 excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
 publishedDateTime: 2021-04-23T00:32:00Z
-originalUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-ampWebUrl: "https://www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+originalUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Autos
@@ -256,6 +256,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
+    excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
+    publishedDateTime: 2021-04-23T12:48:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-in-light-of-fatal-tesla-crash-in-texas"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
+    images:
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 608
+        isCached: true
   - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
     excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
     publishedDateTime: 2021-04-22T00:19:00Z
@@ -319,6 +333,6 @@ related:
       domain: indystar.com
     quality: 6
 
-secured: "VPC1izIq1NhxaAJiKwMkXQ6dc004wAePUic/M+bHoF8P2ZNoXy2f6ZniFa48R+K/2jXTuaNEb/m4gbwnDCM2Fvvoovv2eEEN/xtQ0CCnegOgNEMTSLicJKamCB40RCkc2HN+B29IiiMZFgjARos517TKEQlbEzTdxo1ELm2LS6gC2U+PQZPGpwlhDh1DLxJN9AIv8aYQLBT1SKPiwqYF1Dm7RwvkyA2HL68A0VKpfcXh7ahkIUBlWI0TGnGNnH3/cXsFHLSzO3niNqILfkd/eOKtsveo/mLlLAEdBAhKD1TqmD8K6t+Jb+eOPs4JxFLRdHtID4icWaCl48LUj9hbNPiBEbYJVw60gOy66aMfpw0=;cQp5UoGvLjibPPwiply/xg=="
+secured: "9tr+zGTuU88QBxY4xkyOhTbCdcQmpzPqBUPAtOwlKQ5W82GPaM9E0gJlRV2kSSc1NcOkda/rPT4rLVefJ/InJCtdBozaFBez0cFJNzPzFvJCun4uDI0RiXol8W4VPGSXKl8M26f3sfz/VXBrh+NEd6K/36DbOMNSjse71UtcJT7Q111XeLggo9d400yRJksu3HXR8kZLVhTnMGTwC2sCmQ3w71dHWH++qV9cnTDSFG7vREED/XkyfuQP41gOiEDd6Q6IudnVt7/hsnSPQ0bfcYMucbORyXqMrd5W3eTcgkiXDI/xHtlbS0lvXwgVjfjj8b3ZnM/l86rUVWFRZwK07vjjnZWr+IsfKAJImZbhWlQ=;x7GRIUhRmSAxLdW8jNVXYQ=="
 ---
 

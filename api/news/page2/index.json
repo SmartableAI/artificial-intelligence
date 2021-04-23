@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
+      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1.md",
+      "title": "Amazon, Facebook keep up their sizable spending on Washington lobbying during Q1",
+      "excerpt": "Amazon.com Inc. and Facebook Inc. continue to lead the so-called FAANG companies in spending on Washington lobbying during this year's first",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "originalUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-328147/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
+      "publishedDateTime": "2021-04-22T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-deep-instincts-neural-networks-for-cybersecurity-attract-110m.md",
+      "title": "Deep Instinct’s neural networks for cybersecurity attract $110M",
+      "excerpt": "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
+      "publishedDateTime": "2021-04-22T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth.md",
       "title": "Parle Products to leverage on IBM hybrid cloud and AI to drive growth",
       "excerpt": "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees",
@@ -752,7 +890,7 @@
       "originalUrl": "https://www.upi.com/Science_News/2021/04/21/netherlands-great-sea-scrolls-handwriting-machine-learning/7151619034776/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1066,144 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-how-ibm-watson-is-helping-clients-build-trust-in-data-models-and-processes.md",
-      "title": "How IBM Watson is helping clients build trust in data, models and processes",
-      "excerpt": "Through my role as Chief AI Officer at IBM, I have the privilege of working with organizations to ensure they have a holistic approach to AI. We do that by helping businesses design AI strategies, set guiding principles, and infuse responsible AI products with intent and purpose throughout their business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/ibm-watson-trust-data-models-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/1153_AI_Innovation_RC_Blog_Leadspace_990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T07:30:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-gpu-for-deep-learning-market-2021-global-insights-and-business-scenario-forecast-to-2027.md",
-      "title": "GPU for Deep Learning Market 2021 Global Insights and Business Scenario forecast to 2027",
-      "excerpt": "The analysis of the global GPU for Deep Learning Market includes the most recent market developments as well as the factors and parameters that influence it in both the short and long term The study provides a comprehensive analysis highlighting",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
-      "originalUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U421446298_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
-      "publishedDateTime": "2021-04-21T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-us-firms-said-using-israeli-tech-for-controversial-facial-recognition.md",
-      "title": "US firms said using Israeli tech for controversial facial recognition",
-      "excerpt": "AnyVision system touted as improving security and preventing crime, but social rights activists say practice infringes on privacy, could hurt marginalized groups",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/",
-      "originalUrl": "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/us-firms-said-using-israeli-tech-for-controversial-facial-recognition/amp/",
-      "publishedDateTime": "2021-04-21T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

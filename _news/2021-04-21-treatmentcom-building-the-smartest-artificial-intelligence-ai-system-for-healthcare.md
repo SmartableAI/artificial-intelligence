@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Marketing Market Industry Growth, Forecast, Analysis, Regions, Types and Applications 2021-2025"
+    excerpt: "The GLOBAL Artificial Intelligence (AI ... By vertical, the market is segmented into BFSI, retail, & e-commerce, government, IT & telecommunication, healthcare, commercial organization, and others. Regional analysis The global market for AI in marketing ..."
+    publishedDateTime: 2021-04-23T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-growth-forecast-analysis-regions-types-and-applications-2021-2025-2021-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
     publishedDateTime: 2021-04-19T09:43:00Z

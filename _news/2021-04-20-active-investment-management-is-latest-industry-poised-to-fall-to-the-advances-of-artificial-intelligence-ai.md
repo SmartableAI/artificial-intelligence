@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Transforming Business: A poll of international business leaders shows cloud, AI, talent, and smart mobility are top innovation investments"
-    excerpt: "A poll of international business decision-makers reveals that AI, cloud, and smart mobility are top areas for innovation investment. Companies are also setting ESG goals, particularly around greenhouse gas emissions and water consumption."
-    publishedDateTime: 2021-04-19T14:06:00Z
-    webUrl: "https://www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transforming-business-survey-shows-companies-will-invest-in-ai-cloud-talent-and-esg-goals-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
-    images:
-      - url: "https://i.insider.com/6074a60c2cc1ef0018da14d0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Federal budget promises more funding for innovative technologies, including artificial intelligence, genomics research and quantum computing"
     excerpt: "Government also promises to review intellectual property regime to avoid loss of taxpayer-funded innovations to other countries"
     publishedDateTime: 2021-04-20T11:00:00Z

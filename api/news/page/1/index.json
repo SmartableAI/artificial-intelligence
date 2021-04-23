@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-taiwan-predicts-its-chip-industry-will-weather-global-shortage.md",
+      "title": "Taiwan predicts its chip industry will weather global shortage",
+      "excerpt": "Register fo r the AI event of the year ... citing expansion plans from chip giants including TSMC and Powerchip Semiconductor Manufacturing. “Once they are built, Taiwan’s competitors ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
+      "publishedDateTime": "2021-04-23T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data.md",
+      "title": "Analytics startup Unsupervised raises $35M to spot patterns in enterprise data",
+      "excerpt": "Join Transform 2021 this July 12-16. Register fo r the AI event of the year. Boulder, Colorado-based Unsupervised, a big data analytics company leveraging AI to find patterns in business data ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/",
+      "publishedDateTime": "2021-04-23T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-chinese-tech-titan-baidu-and-carmaking-giant-geely-to-pour-us77-billion-into-making-next-generation-smart-cars.md",
+      "title": "Chinese tech titan Baidu and carmaking giant Geely to pour US$7.7 billion into making next-generation smart cars",
+      "excerpt": "South Korean professor’s self-driving car was decades ahead of the curve Baidu, which runs one of the world’s largest open autonomous-driving platforms, and Geely have been pushing to strengthen their presence in China’s fiercely competitive electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/23/091460d6-2c01-427f-ae03-c2339a9a1171_469c97e4.jpg?itok=9yQyWpKf&v=1619175683",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "publishedDateTime": "2021-04-23T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-ai-is-nothing-without-ai.md",
       "title": "AI Is Nothing Without AI",
       "excerpt": "When talking about AI, there seems to be a tendency by many to drive the conversation to ethical issues and how robots will take our jobs, later rule the world and start making decisions between life and death. I am not belittling the ethical part ...",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -49,7 +204,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -647,7 +803,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -700,7 +856,7 @@
       "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1105,144 +1261,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings.md",
-      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q3 Earnings",
-      "excerpt": "Microsoft MSFT is scheduled to report third-quarter fiscal 2021 results on Apr 27. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
-      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q3-earnings-2021-04-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-22T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1.md",
-      "title": "Amazon, Facebook keep up their sizable spending on Washington lobbying during Q1",
-      "excerpt": "Amazon.com Inc. and Facebook Inc. continue to lead the so-called FAANG companies in spending on Washington lobbying during this year's first",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
-      "originalUrl": "https://www.marketwatch.com/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-328147/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-facebook-keep-up-their-sizable-spending-on-washington-lobbying-during-q1-11619021728",
-      "publishedDateTime": "2021-04-22T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-deep-instincts-neural-networks-for-cybersecurity-attract-110m.md",
-      "title": "Deep Instinct’s neural networks for cybersecurity attract $110M",
-      "excerpt": "Deep Instinct announced it has raised $100 million to accelerate deployment of its deep learning cybersecurity models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
-      "originalUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Guy-Caspi-Headshot-2-e1619053142805.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/",
-      "publishedDateTime": "2021-04-22T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

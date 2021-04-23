@@ -3,8 +3,8 @@ category: news
 title: "Atos acquires Ipsotek, reinforces its position in the Edge and Computer Vision"
 excerpt: "Atos announced it has reached an agreement to acquire Ipsotek, an AI-enhanced video analytics software provider.With this acquisition, Atos, already a major player in Edge AI/ML and"
 publishedDateTime: 2021-04-21T08:17:00Z
-originalUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
+webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
 type: article
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.sourcesecurity.com/img/news/612/ipsotek-provides-security-systems-in-doha-920x533.png"
+  - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/ipsotek-provides-security-systems-in-doha-920x533.png"
     width: 612
     height: 355
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 19
 
-secured: "S5dd844GC14i/BTgGpAoYOSer83gdC+9BZ6iq0m1svrjxIu14zUm/Or8orw8KnqnjtzRna8J3LLMz8+C2vTTRh0+88FjjKDwAr4MpoqyWf40aZ0gVoW8oInsElQEbq1/lEaC3LUm+2rXYFN7qYMpM+5gLoOJ4d5lqEi2IvWLkniOSrXcokYTxRw7XxvdXTUR4QPKPT77vKb8/ZaLnQGzn49UhB6LsqO4h8O9p3I/wJCLribg18qnv061WGECSnTWUll0wenVM0l9bI6HjlfOtFA9TPIL7vlv8vOfhKZZrZmkbLXzBshfQ5YmqF4o7ONhIiEH5nPa4YEyp16nzuqamtECY22v5xs6e0eD7DqcSDCZ+lT3HOBS5wROckSXLYEzrZnzwoKxGC+V7Hoqzpd+hnv6eK5G6Jkxb2gDxvBnIlzgUo2jW8GrakZsgqT5a06YRPubfTity8FDM5iR6y2zf5KxygModErYnHgTkeHITWrknDcqjSdQMXMT3FUdRz21KHdI0GJqk65bUPXmUp973A==;Gj6R7I5MUf9+FWY+MbCTuw=="
+secured: "YZgz1+iGObPCkq0PrBN9phjkPvNr1Ml2vF3eRGVNOtJOX9gcfMamZygdHA3zxKwV2ZseszuVZ2HPfjDNYdtijFWz6ivqrY13f3W/Bix4CGfjZaN1q11BkcgFLxUdklzptm9RYyNke8+xIgBIP9EwfHk8DddqrCWZzE9HxHH2wbpP1Jehyow8MzGCU6H60pF6tldd1hMyM2NhbAsikxo0c/tgBSES8umc9F3/20Ernp+UttCvWu5MvWd3Zs7fdiSR0vi2n553OBU5ZdCIZGUjVa1ASBugeCzXc3+jOCyF4P48PxaN+1YooGkkPjJroFwoMcotbidBBoNT9rUbjcZmexW0L4EwYkEzNl30QtMe6iE=;Ld1YcEPYHp8cRzunvQOYBQ=="
 ---
 

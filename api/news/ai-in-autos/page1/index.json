@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-chinese-tech-titan-baidu-and-carmaking-giant-geely-to-pour-us77-billion-into-making-next-generation-smart-cars.md",
+      "title": "Chinese tech titan Baidu and carmaking giant Geely to pour US$7.7 billion into making next-generation smart cars",
+      "excerpt": "South Korean professor’s self-driving car was decades ahead of the curve Baidu, which runs one of the world’s largest open autonomous-driving platforms, and Geely have been pushing to strengthen their presence in China’s fiercely competitive electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/23/091460d6-2c01-427f-ae03-c2339a9a1171_469c97e4.jpg?itok=9yQyWpKf&v=1619175683",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3130852/chinese-tech-titan-baidu-and-carmaking-giant-geely-pour-us77",
+      "publishedDateTime": "2021-04-23T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-not-many-realize-that-there-is-crossover-tech-that-crisscrosses-self-driving-cars-and-human-driven-cars.md",
       "title": "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars",
       "excerpt": "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous.",
@@ -289,7 +341,7 @@
       "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -365,58 +417,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-shanghai-auto-show-chinese-internet-search-giant-baidu-to-supply-its-apollo-self-driving-system-to-1-million-cars-in-3-5-years.md",
-      "title": "Shanghai Auto Show: Chinese internet search giant Baidu to supply its Apollo self-driving system to 1 million cars in 3-5 years",
-      "excerpt": "Baidu expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/19/70a4be44-f092-4f4e-8220-8a890c2b36e3_a4578779.jpg?itok=v2IRb_0i&v=1618819473",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3130122/shanghai-auto-show-chinese-internet-search-giant-baidu-supply-its",
-      "publishedDateTime": "2021-04-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -528,6 +528,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/baidu-expects-to-supply/",
+      "originalUrl": "https://www.metro.us/baidu-expects-to-supply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/baidu-expects-to-supply/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/",
+      "publishedDateTime": "2021-04-18T21:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1443,50 +1486,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston.md",
-      "title": "Self driving robot car will start delivering Domino's pizza in Houston",
-      "excerpt": "Domino's Pizza will start delivering pizzas via Nuro driver-less cars as part of a pilot program, the company announced on April 12, 2021. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "originalUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/a0e93cc/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F8a%2Fa57e3aa746a7986bb02ee0ae7d01%2Fmgn-1280x720-00213p00-jkgzk.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "cdnAmpWebUrl": "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/self-driving-robot-car-will-start-delivering-dominos-pizza-in-houston?_amp=true",
-      "publishedDateTime": "2021-04-13T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRISTV.com",
-        "domain": "kristv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

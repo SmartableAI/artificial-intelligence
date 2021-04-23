@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-taiwan-predicts-its-chip-industry-will-weather-global-shortage.md",
+      "title": "Taiwan predicts its chip industry will weather global shortage",
+      "excerpt": "Register fo r the AI event of the year ... citing expansion plans from chip giants including TSMC and Powerchip Semiconductor Manufacturing. “Once they are built, Taiwan’s competitors ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
+      "originalUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
+      "publishedDateTime": "2021-04-23T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-stop-talking-about-ai-ethics-its-time-to-talk-about-power.md",
       "title": "Stop talking about AI ethics. It’s time to talk about power.",
       "excerpt": "Where did the chips get produced? Where are the mines ... to really trace those material supply chains from cradle to grave. When you start looking at AI systems on that bigger scale, and on that longer time horizon, you shift away from these very narrow ...",
@@ -159,7 +211,7 @@
       "originalUrl": "https://www.openpr.com/news/2273385/gpu-for-deep-learning-market-2021-global-insights-and-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1425,58 +1477,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles.md",
-      "title": "Nvidia debuts Drive Atlan system-on-chip for autonomous vehicles",
-      "excerpt": "Register for a free or VIP pass today. At GTC 2021, Nividia this morning unveiled Drive Atlan, an AI-enabled system-on-a-chip for autonomous vehicles that will target automakers’ 2025 models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/nvidia-cars.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/nvidia-debuts-drive-atlan-system-on-chip-for-autonomous-vehicles/amp/",
-      "publishedDateTime": "2021-04-12T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
