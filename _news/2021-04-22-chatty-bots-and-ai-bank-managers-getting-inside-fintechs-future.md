@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 cdnAmpWebUrl: "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/bc/inside-fintechs-future/amp"
 type: article
 quality: 76
-heat: 146
+heat: 147
 published: true
 
 provider:

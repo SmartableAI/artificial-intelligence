@@ -2,21 +2,19 @@
 category: news
 title: "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories"
 excerpt: "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ..."
-publishedDateTime: 2021-04-20T15:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209"
-webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209"
+publishedDateTime: 2021-04-20T16:41:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/04/g20706684/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categor"
+webUrl: "https://www.benzinga.com/pressreleases/21/04/g20706684/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20706684"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20706684"
 type: article
-quality: 81
-heat: 101
-published: true
+quality: 71
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -48,6 +46,6 @@ related:
       domain: finanznachrichten.de
     quality: 39
 
-secured: "eUQesF2ry2PD0IUqH/tWeZ3d6V/TujHKu1NEuu+/41WL+Y19wE8FByAKyGLI5Mwq8x46PXfJSaVijBtZ7NWo8GDmVoXHe79GGbfZ1m1U3eQXeybm8SiUbZSD0R3gudAAlO4yf62XOTIjK7g/jaJMWipbRoj88xq74Yrcf6owSvs8PhnB+eStUXdKPH4+FFIUvqxssdcMEy77PNNTBF2kL1NxRm2gh3Vgblow3wBQ0RlwfkZ4D7FNLA4mcEoLrV/3+ujG2peeBzRU5PyEtfcJkVmVBVZ5pEzkLBEOq2om7H8gqdjG6418rYREtSD9Ezma8wBzJFz9AQgGJpbpz5lpIG0+oGxIhRjRNvLgrpklxW8=;DuEVMb7NeFRc5YzcszYrvA=="
+secured: "kxN94H2U6+Cv4rykYJaLdN2ydbZZUj4+kIITpRQmh2Dso1R0EADgVfg7x+tQTKLZsbflfo/waN/csr5+/1v++GrzNOx28Tx8TQekbrZ3njFZ6K9fwyLgLnrjgfIobcMkTfDdhKbK4mXEgTgyDq7r10m6WTNe0cVTW58uKw9z9SJBTfk0dHvWZMEhh/UXfBuWY+C8tpeEg8jD0D3a7RKdJFcCzW9i+v3N9PSNJ0CdfMnMxlTfuJAOHDWIjZhaG9HvRWo9VEULk4c/xBCRuVgEg2GB63zD3Rlin9j0AYTtP/KXx8A+T7LdytQKNfLM+ssZbR9gP4XbOZpOjthc13qFcT2quJ9Y753lPRGgvK0IBcM=;68ovTSkLTzTPVb0a/jnOww=="
 ---
 

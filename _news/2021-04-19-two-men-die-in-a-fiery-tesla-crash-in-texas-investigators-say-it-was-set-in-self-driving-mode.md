@@ -250,6 +250,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
+    excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
+    publishedDateTime: 2021-04-22T00:19:00Z
+    webUrl: "https://localnews8.com/money/2021/04/21/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 38
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Money-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
     excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
     publishedDateTime: 2021-04-19T21:57:00Z

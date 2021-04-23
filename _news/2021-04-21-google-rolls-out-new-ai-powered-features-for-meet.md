@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-rolls-out-new-ai-powered-features-for-meet/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

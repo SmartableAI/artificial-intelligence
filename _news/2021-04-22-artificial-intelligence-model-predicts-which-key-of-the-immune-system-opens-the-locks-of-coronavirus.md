@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence model predicts which key of the immune system opens the locks of coronavirus"
+    excerpt: "A new artificial intelligence (AI) method is helping researchers link immune cells to their targets and, for example, uncouple which white blood cells recognize SARS-CoV-2. The tool has broad applications in understanding the function of the immune system in infections,"
+    publishedDateTime: 2021-04-22T23:24:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/04/210422093943.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Artificial intelligence model developed by Finnish researchers predicts which key of immune system opens locks of coronavirus"
     excerpt: "With an artificial intelligence (AI) method developed by researchers at Aalto University and University of Helsinki, researchers can now link"
     publishedDateTime: 2021-04-22T04:05:00Z

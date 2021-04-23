@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html"
 type: article
 quality: 76
-heat: 87
+heat: 86
 published: true
 
 provider:

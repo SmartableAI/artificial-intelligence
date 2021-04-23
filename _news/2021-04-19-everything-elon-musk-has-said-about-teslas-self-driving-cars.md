@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -243,6 +243,20 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/pqXVHjqx-F5QoGERDzHccUIvl0s=/1200x0/d1acid63ghtydj.cloudfront.net/04-19-2021/t_dab63cb149b64bd984d4a764a2513fb4_name_file_1280x720_2000_v3_1_.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
+    excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
+    publishedDateTime: 2021-04-22T00:19:00Z
+    webUrl: "https://localnews8.com/money/2021/04/21/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 38
+    images:
+      - url: "https://localnews8.b-cdn.net/2020/12/Money-logo-new_KIFIMIFI.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Two men die in a fiery Tesla crash in Texas; investigators say it was set in \"self-driving\" mode"
     excerpt: "Two people were killed in Texas in the fiery crash of a Tesla and authorities say there was no one in the driver's seat at the time of the crash,"

@@ -33,20 +33,6 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis"
-    excerpt: "Data quality is an important topic for virtually all teams and systems deriving insights from data, especially teams and systems using machine learning (ML) models. Supervised ML is the task of learning a function that maps an input to an output based on examples of input-output pairs. For a supervised"
-    publishedDateTime: 2021-04-22T17:18:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/quality-assessment-for-sagemaker-ground-truth-video-multi-frame-object-tracking-annotations-using-statistical-analysis/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/21/8-Frame101.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Amazon is building a computer vision-based grading solution for fruits and vegetables"
     excerpt: "UK: Deliveroo processes double the amount of orders during first quarterIn the first 3 months of the year, Deliveroo received more than double the number of orders compared to the same"
     publishedDateTime: 2021-04-19T12:34:00Z

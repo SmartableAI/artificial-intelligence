@@ -3,8 +3,8 @@ category: news
 title: "Atos acquires Ipsotek, reinforces its position in the Edge and Computer Vision"
 excerpt: "Atos announced it has reached an agreement to acquire Ipsotek, an AI-enhanced video analytics software provider.With this acquisition, Atos, already a major player in Edge AI/ML and"
 publishedDateTime: 2021-04-21T08:17:00Z
-originalUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
-webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
+originalUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 19
 
-secured: "f4RyCuqxeV3yu3pcbOtHu+72Ckwed/DT5yMQODVXAMQxvb3JvNlXSF3F4ja6bQ45faMbxen1gSr+1t2+w7lrIiEL0EJUQylgjsuyGJi8BoXpK6+oeIayGCwjjgls+ztQho8VybghDfzl+pv4EZdMkmLAgsWONyRkMLqyRSQ0cjg7h9Gbven5X+OeAxciJ1LOMPEzAr9RlgiIlAuvX6O23u2+BDxmLZ29aRJs/sbdAy85Q4uF4dwOWSeyHI4dTphaC+8J5SqFTz0fMVDvCGI7uwa64c3vsktDxdttihN6I8XLdEdlyeJBbPSHuherNwZ4wPLrIARs+EDAFe0KLdA0MPm7F0rUc3BHsMKf65FPx1U=;9OkmKhObD87H1emGk6lLKQ=="
+secured: "n1r06EvvYCp7Z0uZTwZCTTEVntdNTgXp+frA4KbiW7EUC9QFgWhdgeR8wSpVtuW7wqm3O3pLu+96dRbmXXwaWkcNv5E/mRXG/8947iU/Yu41hE7a2+tW3u/GAAjEtIzyJ8JIy6P3HRtw2rZ42hwqZw8ULzrIKA0vrcNMDgTXooq3YrFJGaBruy4A4uAPQa2p0UV9grC5hVcMd3lASoRLo5nmpX5y/hc1Us9NUW8FwuXqyAxl9RmcFmbAvS1hjg4jnKQyDHTZ2yYOdRJZ2k4Iwi+G2PMWVfb86HpBKv/SziLDiOYEcdCVMTLCCdVj8a6UwptRdduE/hCGk+CfGoVu7Mw2YT3YY2MBzbu4zAU9KHE=;x15wXTSBfU9TyIGwyfwRMA=="
 ---
 

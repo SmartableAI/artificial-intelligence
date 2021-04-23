@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Associated Press
@@ -29,13 +29,15 @@ images:
 related:
   - title: "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories"
     excerpt: "The solution uses Amazon Athena, AWS Glue, Amazon Simple Storage Services (Amazon S3), Amazon SageMaker, and Amazon Translate and the automated ML natural language processing solution enables the ..."
-    publishedDateTime: 2021-04-20T15:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categories-1030324209"
+    publishedDateTime: 2021-04-20T16:41:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20706684/rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops-categor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20706684"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20706684"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
   - title: "Rackspace Technology, Inc.: Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops Categories"
     excerpt: "SAN ANTONIO, April 20, 2021status in the new Applied Artificial Intelligence (Applied AI) and Machine Learning Operations (ML Ops) categories. This designation recognizes that Rackspace Technology has"
     publishedDateTime: 2021-04-20T14:41:00Z

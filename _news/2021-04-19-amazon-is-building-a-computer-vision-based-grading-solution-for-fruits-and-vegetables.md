@@ -39,20 +39,6 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "Quality Assessment for SageMaker Ground Truth Video Object Tracking Annotations using Statistical Analysis"
-    excerpt: "Data quality is an important topic for virtually all teams and systems deriving insights from data, especially teams and systems using machine learning (ML) models. Supervised ML is the task of learning a function that maps an input to an output based on examples of input-output pairs. For a supervised"
-    publishedDateTime: 2021-04-22T17:18:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/quality-assessment-for-sagemaker-ground-truth-video-multi-frame-object-tracking-annotations-using-statistical-analysis/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/21/8-Frame101.jpg"
-        width: 800
-        height: 464
-        isCached: true
   - title: "Continuous 3D Hand Pose Tracking Using Machine Learning & Monado OpenXR"
     excerpt: "The system estimates 2D and 3D joint locations without any depth information. Collabora is currently working on integrating it into the Monado XR codebase, so it can be used out-of-the-box with different devices."
     publishedDateTime: 2021-04-22T14:00:00Z

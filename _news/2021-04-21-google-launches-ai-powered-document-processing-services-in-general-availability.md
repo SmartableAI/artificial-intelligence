@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-docume
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:

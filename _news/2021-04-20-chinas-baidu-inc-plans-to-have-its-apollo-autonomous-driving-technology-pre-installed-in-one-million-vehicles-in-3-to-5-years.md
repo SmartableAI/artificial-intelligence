@@ -3,8 +3,8 @@ category: news
 title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
 excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
 publishedDateTime: 2021-04-19T22:15:00Z
-originalUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
-webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+originalUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc.-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc.-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
 type: article
 quality: 11
 heat: -1
@@ -41,22 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-    excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
-    publishedDateTime: 2021-04-19T04:41:00Z
-    webUrl: "https://www.metro.us/baidu-expects-to-supply/"
-    ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
+  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
+    excerpt: "The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should add to the bullish thesis."
+    publishedDateTime: 2021-04-19T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
-    quality: 57
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
     excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
     publishedDateTime: 2021-04-19T21:15:00Z
@@ -75,6 +68,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
+  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
+    excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
+    publishedDateTime: 2021-04-19T04:19:00Z
+    webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.pe.ca
+    quality: 37
+    images:
+      - url: "https://www.saltwire.com/static/img/default_og_image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
     excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
     publishedDateTime: 2021-04-19T04:24:00Z
@@ -90,6 +97,6 @@ related:
         height: 800
         isCached: true
 
-secured: "t4fk0z2ds44wPDfmPYBjMgcE2KToRP0Qa2+yGNl9+Lf1sm2BMRPELLwQzJJVoxL6fOefU0B4+6BkSvlK/DVJMxQwM6TR/Yt+18kQ0GmAmh/+w8m6pUYor2UD/hbpGpAklYjxY3e9x7SAA7AJN9/PgOgy3ONW3KCJvac/yJqqdOp/YRjCBc5T0De1SnxTNcEFXJlHDDY/Uu3v+CE32i0pSsNlWH+qX9Ri9GkcTIlR9ONzBIW+OrfLA0b7hVUtBY0o1Yo9G8csb6U/4Y9RGnr7337PJtW/LLYF3cqT7EQ0ry0gcvM4SoNk0hQYOu0FTsqMBcE/2qO1lPYKI6BeYVZrUwS5aYuWgmQAGpSTk3z2/RY=;TR1NtjbajBFxQsN1nxApAw=="
+secured: "2ocFuUAsildbtwXXChw9QKrmCJyUvqIZZYPeidIi0MIuZUfHpGD8F+aqMan8iHtHsS6KfRmRR9Ii0TW5/02QLI6teBgKTbgaG3azZidZ0XSgu/DVBBK2Qel4s5wb1XHAIDKjxOlHVu7y9a+H/MJ09Ryk+rPrK3wtkiiVa4WdrJfuEiirXrwCcPWXjx9bvUgXGHK3eWPczJtzufgY88Mlqkxa2ymXwtI/A8YIBbbr4mL8kAhaxOwHzAnuoprWO2IJ8LiW4mZnJbyw5LW4B6dEAmXK8Q+bCPBk9CEs29sbDXujfFiqmh1C396wN+0tvMCWHR0OJXVUrcVSP1/Jnnv3U0r/oxjP3s+F4EX86cZR2G0=;BePJtGvEt9+9HP9bsinOZQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Deep learning networks may prefer the human voice -- as we do"
 excerpt: "AI systems might reach higher performance if programmed with human language A deep neural network that is taught to speak demonstrates higher learning. The digital revolution is built on a foundation of binaries,"
 publishedDateTime: 2021-04-22T13:37:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302548&org=NSF"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302548&org=NSF"
+originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302548"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302548"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 220
     isCached: true
 
-secured: "YJkyCOfs/0o7uFc1CGFhUv6/psJhGmsrwFGqpO6UbCCXaDWceQ+pIHVHJxunxkgK+aye+O2zg/Of8kFkYMSdx6AvMIWHI5GlFlh2Uy3V3awwQxZUNhCoSrbxX3i3UValmlSYwa+glcirqEY0q8O4sePjlJf2iA/b1HGDfHiW4iuBznCb2A1cMGimZbOLCJcjBghc6lWZdksdLKA+TIOrys4AeAOVkEvCuWZKe04ohZJoap6qrV09u/lFNDfApC+pqIYvXNaWxtuSSt4XGTUoc/EjhSvt9HuWGMz0ph7hha3zMc95m3SRGw/D2PhBqUyNgTfw6cdckmyAldSGmdMXtO2nt76nQ0hGsG8I6HaDcrM=;xlXsahBy2tIveQKaiSayMw=="
+secured: "XdbhPSO/HfQ0y1LCa3IhYPazw7FZ68o69PKYeV9FWmS0ENxwrZy3Pm26S+ewffghgmSO9klkqF4G1OlPRnme3Kh+YrPv3+SuG7bn3cW7XXkuD/HaY2thBaUD9d00Vq7I9S93asxrLunL1wzLyX6ZT9Chw0QppxksHTND/wdaLw7u0sLtvteovynpzHx00UuxmMQYx2DNZXh9LvhLutXJ7PXQ3pfKEXMHcttultK7BY9DNj9mGpRVVKifL9chCNX8dg5U+mHfIVHNlK/aGHiP4qHS7DoWVFgBzyfpG0Az8DMZWzXf7WhbIzRT2izwA1OesO7IyN/BN/+Tiu1HGjAzftHuP8mjYXDh3Jz4NY2AAfU=;jTi5fOFX2LKuz3BNaHSeiw=="
 ---
 

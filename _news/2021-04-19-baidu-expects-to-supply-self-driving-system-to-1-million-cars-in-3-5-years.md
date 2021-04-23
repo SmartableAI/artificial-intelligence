@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "SHANGHAI (Reuters) – Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said ..."
-publishedDateTime: 2021-04-19T04:41:00Z
-originalUrl: "https://www.metro.us/baidu-expects-to-supply/"
-webUrl: "https://www.metro.us/baidu-expects-to-supply/"
-ampWebUrl: "https://www.metro.us/baidu-expects-to-supply/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-expects-to-supply/amp/"
+excerpt: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years Published just now Kruger Energy Ontario 101 MW Port Alma 2 wind power plant shut - Ontario IESO"
+publishedDateTime: 2021-04-19T04:19:00Z
+originalUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+webUrl: "https://www.theguardian.pe.ca/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: The Guardian
+  domain: theguardian.pe.ca
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH3I04N-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://www.saltwire.com/static/img/default_og_image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
+    excerpt: "The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should add to the bullish thesis."
+    publishedDateTime: 2021-04-19T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
     excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
     publishedDateTime: 2021-04-19T21:15:00Z
@@ -78,7 +85,7 @@ related:
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z
-    webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+    webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc.-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
     type: article
     provider:
       name: futurecar
@@ -90,6 +97,6 @@ related:
         height: 533
         isCached: true
 
-secured: "UMS5pQtxX+FmEcwgiN91UgA81pIPoBU7fJmVdMFw5SVnRRmsRyV/6G+2erF6MT2T5VB0KHV4KHVyk/83M7AuqHauuJJ+DAKds7FsWdk4VLAZ0HlHJl3zZETdQVU8lthUB4FTdwT1PPITQ1/rTPH12wpLYFnQpO2m1FOdP8BX7v2xVaQX7MOCmNrCeavhrRO3U8T7PUJlo9RfKae1U0EbRsF4DdCClEiOQ7PS9kaFY4TDiI47xTwwf/8fkiN/A5mOwO2L70KnTY02sQsoM4VUPNX7J8La8J0HFl5eDSbV7XXkZ47i0eKLXbEr3tr0HbgiBDrOjJIApdZFWIfEaVuGxpU8FP4MChapaHxCiyXUz48=;FELrB3XWd51Ke9P6v8D84w=="
+secured: "NmQ1MiYa70M6OmRvvvKOdGrTcWofzYZpQYteLNKS1TuEO/65GiOQU8iJkXO4XLCKVibDwCyo5wNJxEaDCb29/EL4BjaLuIMkUQ/nuK///iwUkqqJ2/5StXyqNIZYyKg1uu1/38YVWSt4cKCppv5fb36Yj75tW7H59nIYPWKexvVinGHfixdmqFt1Oo3oPtd5S9gHbAa1u4u2Hk2EnF1glGaoYr11eMG/dnC9VQFb6WSu0tihHNp2K1R7CuKF3tyqmbvnlzpucl1ZIGjF8FSTsj412DSKc5Frp21eLeOeSx7NUmqHDXwc5nNEcFZ8YAvJqf23Wwrn6V8twzgKg7vZH4KQKb6ubvg8YCK1Inap5M8=;t62nWzeQCdM4Fmv7wJMAlg=="
 ---
 

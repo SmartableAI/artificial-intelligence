@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regula
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:
