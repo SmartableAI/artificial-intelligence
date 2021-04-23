@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-04-10-global-deep-learning-market-growth-status-and-outlook-research-report-2026.md",
+      "title": "Global Deep Learning Market Growth, Status and Outlook Research Report 2026",
+      "excerpt": "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-10T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-10-the-robots-are-coming.md",
+      "title": "The Robots Are Coming",
+      "excerpt": "For many of us visions of the future have often included images of robots who can think on their own and perform tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680",
+      "originalUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2018/220/10b44a80-aba3-42e6-9ec5-3c5af5d9988e.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true",
+      "publishedDateTime": "2021-04-09T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-ibm-releases-qiskit-modules-that-use-quantum-computers-to-improve-machine-learning.md",
       "title": "IBM releases Qiskit modules that use quantum computers to improve machine learning",
       "excerpt": "Register for a free or VIP pass today. IBM is releasing Qiskit Machine Learning, a set of new application modules that’s part of its open source quantum software. The new feature is the latest ...",
@@ -1129,101 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-what-humans-can-learn-from-human-in-the-loop-learning.md",
-      "title": "What Humans Can Learn From 'Human In The Loop' Learning",
-      "excerpt": "Human in the Loop’ Learning describes a setup whereby a learning machine or computer system can incorporate selected human inputs or labels into its inferences or learning process, and thereby create a virtuous cycle or ‘loop’ in which the machine constantly learns to improve its capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/",
-      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6070277f32eeaface0bd8456%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D99%26cropY2%3D1179",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/amp/",
-      "publishedDateTime": "2021-04-09T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-upstart-fintech-started-too-hot.md",
-      "title": "Upstart: Fintech Started Too Hot",
-      "excerpt": "Upstart is far too expensive and follows a trend of other hot fintechs that haven't performed well in the public markets.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
-      "originalUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.seekingalpha.com/uploads/2021/4/7/234751-16178301213001626_origin.png",
-          "width": 1358,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
-      "publishedDateTime": "2021-04-09T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

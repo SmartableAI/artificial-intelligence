@@ -2,6 +2,153 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-04-03-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year.md",
+      "title": "Ford-Backed Self-Driving Startup Argo AI Mulling IPO This Year",
+      "excerpt": "Argo AI, the self-driving startup backed by Ford Motor Co. and Volkswagen AG, is considering going public as soon as this year, according to people familiar with its plans. Bryan Salesky, Argo’s co-founder, told employees in an all-hands meeting April 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-02/ford-backed-self-driving-startup-argo-ai-mulling-ipo-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipzuc5UG6bBk/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-this-premium-aws-training-could-enhance-your-job-prospects.md",
+      "title": "This premium AWS training could enhance your job prospects",
+      "excerpt": "ZDNet reported that AWS was the leader in the cloud provider space. And with more and more businesses going remote (Salesforce rolled out permanent remote work plans) and increasing spend on cloud computing, automation, artificial intelligence and machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "originalUrl": "https://www.techrepublic.com/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/02/83a2478f-e18b-47e1-8ad4-5c893f0459fc/resize/1200x/85b4f359ae9c5961c8abf2e96147cb57/aws-amazon-logo-5g-phone-lg-velvet-5893.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-premium-aws-training-could-enhance-your-job-prospects/",
+      "publishedDateTime": "2021-04-02T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-jd-technology-withdraws-ipo-application-in-shanghai-amid-chinas-fintech-rule-changes.md",
       "title": "JD Technology withdraws IPO application in Shanghai amid China’s fintech rule changes",
       "excerpt": "JD Technology has withdrawn its IPO application in China’s Nasdaq-style Star Market, a day before completing its US$2.4 billion business restructuring.",
@@ -1070,154 +1217,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-global-chip-shortage-affects-more-than-cars.md",
-      "title": "Global chip shortage affects more than cars",
-      "excerpt": "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "originalUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/",
-      "publishedDateTime": "2021-04-01T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-ecovacs-robotics-introduces-the-deebot-n8-pro-in-malaysia-to-provide-hands-free-and-effective-home-cleaning-experience.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 PRO In Malaysia to Provide Hands-free and Effective Home Cleaning Experience",
-      "excerpt": "The DEEBOT N8 PRO dToF laser detection has doubled the distance recognition capabilities with a four-fold improvement in object recognition. Detection distance is enhanced to 10 meters, with the ability to detect objects as small as two millimeters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.taiwannews.com.tw/en/news/4166342",
-      "originalUrl": "https://www.taiwannews.com.tw/en/news/4166342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://release.media-outreach.com/release.php/Images/Thumb/500x0/138222/N8-PRO-Top-Right.jpg#image-138222",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Taiwan News",
-        "domain": "taiwannews.com.tw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-02-security-in-the-cloud-is-enhanced-by-artificial-intelligence.md",
-      "title": "Security In The Cloud Is Enhanced By Artificial Intelligence",
-      "excerpt": "However, nothing stands still, and the extra volume of data and networking intersects with the increased complexity of attacks, and artificial intelligence (AI) is being used to keep things safe. The initial hesitation for enterprise organizations to move ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-01T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

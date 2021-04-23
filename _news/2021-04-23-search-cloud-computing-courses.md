@@ -32,6 +32,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
+  - title: "Search University of Illinois--Urbana-Champaign Courses"
+    excerpt: "Search US News Skillbuilder here to find courses by prominent organizations like Harvard and Google. See our full list of courses to get started."
+    publishedDateTime: 2021-04-22T20:30:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/provider-search/university-of-illinois-urbana-champaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Pivotree Introduces its Novel MAachine Learning Platform DIVE"
     excerpt: "Pivotree Introduces its Novel MAachine Learning Platform DIVE  - The DIVE Platform can now use image data and context to complement the text-based inferences that DIVE might provide"
     publishedDateTime: 2021-04-19T06:12:00Z

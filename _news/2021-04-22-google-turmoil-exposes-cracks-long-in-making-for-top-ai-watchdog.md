@@ -43,6 +43,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Google ethical AI group’s turmoil began long before public unravelling"
+    excerpt: "Gebru and her co-lead Margaret Mitchell blamed a sexist and racist culture as the reason they were left out of meetings and emails related to AI ethics, and several others in the department were accused of bullying by their subordinates, with little ..."
+    publishedDateTime: 2021-04-23T02:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "1Cfuz140vb0YxshgJgEw7El7rtiK8txv2rS0mzJv7azx8PZX+z2Ftqx5x20cIywJ7dQlBkUJZVv7H6QLDbQN5PoYrJFV3IH9nAkqRd848bulKNBVjXt0wJA+GmPnHbcoTArepAvbMWcoLI0usbSwEDbrtrqyF8aOoBa8uL7iC1/lB39QeOEEXZDrbkhDLV2nzg1Vq5kie5A2YegBW6lzjpVL1P6qfWqdFzM854iqcPsde9df7rftyLxpDrckBSo8sgmMp65jMM2narnd2EPrSzTGZ+fIyqIo2KjnkcDw3XyNd8QJCTwVJu/F2z3oyjK5pc+JMlkbjq2fhD3UKV9501lLFBcrm/IfHyij5dPcCOFeHx410oCdD60GbiiDCzovciswMOOq9hRyfuB9WnFlwJx4UJkJr23JJSDJ2wn8hoS5aKsNgf9WqQ9qDlWPJ0yho2oWwUAYLvBwMvs1CQpKbrRADWpKLXlNKbFzS74qTMIPu0ENBUWXiHbcKz2MpixMVqPnIRSaZh5pqgUGFb9DnA==;UX2T6BMDEiGlIfrW7UfBLA=="
 ---

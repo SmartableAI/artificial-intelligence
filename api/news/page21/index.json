@@ -2,6 +2,96 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-04-06-startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth.md",
+      "title": "Startup Adapts AI Used In Space To Advance Healthcare On Earth",
+      "excerpt": "It’s not often that a random joke leads to the creation of a company, but that’s exactly what happened with Ejenta, a digital health startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606349084789535232b6741c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/04/06/startup-adapts-ai-used-in-space-to-advance-healthcare-on-earth/amp/",
+      "publishedDateTime": "2021-04-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend.md",
+      "title": "5 Top Advanced ML Stocks Poised to Gain From Automation Trend",
+      "excerpt": "Machine learning’s (ML) importance in this coronavirus pandemic-induced automation era cannot be overstated. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "originalUrl": "https://www.nasdaq.com/articles/5-top-advanced-ml-stocks-poised-to-gain-from-automation-trend-2021-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-technologies-for-improved-banking-services.md",
       "title": "MOYI Collaborates with China Construction Bank New York Branch for Research Effort Focused on New Technologies for Improved Banking Services",
       "excerpt": "In addition, for the financial institution and its treasury services, MOYI will develop a machine learning engine that will allow the bank to better price its various products. To learn more about the innovative services of MOYI, visit them online at https ...",
@@ -630,6 +720,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-06-apple-wins-a-patent-for-modeling-3d-images-of-fingers-to-be-used-in-a-mixed-reality-headset-for-in-air-gesture-recognition.md",
+      "title": "Apple wins a patent for modeling 3D images of fingers to be used in a Mixed Reality Headset for in-air gesture recognition",
+      "excerpt": "for object and gesture recognition. Generating a 3D Model of a Fingertip for Visual Touch Detection Apple's patent in-part describes generating a 3D model of fingers that could be used for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.patentlyapple.com/patently-apple/2021/04/apple-wins-a-patent-for-modeling-3d-images-of-fingers-to-be-used-in-a-mixed-reality-headset-for-in-air-gesture-recognition.html",
+      "originalUrl": "https://www.patentlyapple.com/patently-apple/2021/04/apple-wins-a-patent-for-modeling-3d-images-of-fingers-to-be-used-in-a-mixed-reality-headset-for-in-air-gesture-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.patentlyapple.com/.a/6a0120a5580826970c026bdec94db9200c-600wi",
+          "width": 600,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patently Apple",
+        "domain": "patentlyapple.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-these-ai-made-songs-channel-the-spirit-of-cobain-and-hendrix.md",
       "title": "These AI-made songs channel the spirit of Cobain and Hendrix",
       "excerpt": "But if you just have a bunch of riffs, it’ll put out about five minutes of new AI-written riffs, 90 percent of which is really bad and unlistenable. So you start listening through and just ...",
@@ -1058,144 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-baidu-gets-nod-for-driverless-vehicle-tests.md",
-      "title": "Baidu gets nod for driverless vehicle tests",
-      "excerpt": "The move came after Baidu fully opened Apollo Go Robotaxi, its self-driving taxi service, to the public in Beijing in October. Each of the driverless taxis has a back-up driver, who is ready to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2020/12/10/baidu-gets-nod-for-driverless-vehicle-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
-      "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
-      "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
-      "sourceUrl": null,
-      "webUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
-      "originalUrl": "https://advances.sciencemag.org/content/6/19/eaaz8693.full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advances.sciencemag.org/content/6/19/eaaz8693/F1.large.jpg",
-          "width": 1400,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-ai-and-hr-tech-three-critical-questions-leaders-need-to-support-diverse-teams.md",
-      "title": "AI And HR Tech: Three Critical Questions Leaders Need To Support Diverse Teams",
-      "excerpt": "The enormous leaps in technology and HR have created many opportunities for companies to rethink how they address processes around human resources. Services range from software identifying a candidate's employability through facial recognition and body ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b9459f02daa5d496302b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/amp/",
-      "publishedDateTime": "2021-04-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

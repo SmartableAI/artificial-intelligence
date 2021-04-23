@@ -2,6 +2,134 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-03-25-artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts.md",
+      "title": "Artificial Intelligence Could Have Helped Alleviate Suffering From Texas Blackouts",
+      "excerpt": "While debates as to the root causes of the recent failure of the Texas power grid are likely to go on for months, energy experts contend that the introduction of artificial intelligence (AI) into the management of the grid could have alleviated some of the worst effects of the power shutdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
+      "originalUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b7edbbed55be5d6f63f2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
+      "publishedDateTime": "2021-03-24T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-which-cars-have-self-driving-features-for-2021.md",
+      "title": "Which Cars Have Self-Driving Features for 2021?",
+      "excerpt": "As it turns out, making the final leap to full autonomy — self-driving on any road at any time — remains tantalizingly out of reach both for engineers and safety regulators. And despite all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "originalUrl": "https://www.cars.com/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "cdnAmpWebUrl": "https://www-cars-com.cdn.ampproject.org/c/s/www.cars.com/amp/articles/which-cars-have-self-driving-features-for-2021-433821/",
+      "publishedDateTime": "2021-03-24T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cars.com",
+        "domain": "cars.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
+      "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
+      "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/03/equestrian-equipment-market-1.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-fintech-startup-raises-200-million-to-fight-digital-banking-fraud.md",
       "title": "Fintech startup raises $200 million to fight digital banking fraud",
       "excerpt": "Artificial intelligence (AI) and machine learning are the future. Meanwhile, cyber crime, money laundering and online financial fraud are becoming bigger problems by the day. To help combat these rising issues, fintech startup Feedzai has raised $200 ...",
@@ -1002,152 +1130,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-pandemic-insights-secures-5m-series-a-financing-from-convergence-ventures.md",
-      "title": "Pandemic Insights Secures $5M Series A Financing From Convergence Ventures",
-      "excerpt": "Pandemic Insights, a preventive health software company that combines data and AI insights with human behavior dynamics, today announced it has executed a $5 Million Series A tranche-based financing from Convergence Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-media-0c11073848c8430eb38172b6e3189db4",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-media-0c11073848c8430eb38172b6e3189db4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-the-biggest-changes-ai-can-make-for-retailers.md",
-      "title": "The Biggest Changes AI Can Make For Retailers",
-      "excerpt": "Making AI uncomplicated. Retailers are always on the lookout for ways to make themselves more competitive — trends in advertising, social media channels to leverage, new takes on email and online marketing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/24/the-biggest-changes-ai-can-make-for-retailers/amp/",
-      "publishedDateTime": "2021-03-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ex-blizzard-leaders-raise-97-million-to-create-new-real-time-strategy-game.md",
-      "title": "Ex-Blizzard Leaders Raise $9.7 Million To Create New Real-Time Strategy Game",
-      "excerpt": "Machine learning is an area that has so much future potential. I think one thing that I took away from the collaboration between the Google DeepMind team and the StarCraft team was just the volume of games that are necessary for machine learning to build ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hnewman/2021/03/24/ex-blizzard-leaders-raise-97-million-to-create-new-real-time-strategy-game/",
-      "originalUrl": "https://www.forbes.com/sites/hnewman/2021/03/24/ex-blizzard-leaders-raise-97-million-to-create-new-real-time-strategy-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b15d8cdcf282995c667dd%2F0x0.jpg",
-          "width": 1012,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hnewman/2021/03/24/ex-blizzard-leaders-raise-97-million-to-create-new-real-time-strategy-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hnewman/2021/03/24/ex-blizzard-leaders-raise-97-million-to-create-new-real-time-strategy-game/amp/",
-      "publishedDateTime": "2021-03-24T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -62,6 +62,15 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 19
+  - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
+    excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
+    publishedDateTime: 2021-04-23T03:36:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9406580"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 15
   - title: "Degradation Alignment in Remaining Useful Life Prediction Using Deep Cycle-Consistent Learning"
     excerpt: "Due to the benefits of reduced maintenance cost and increased operational safety, effective prognostic methods have always been highly demanded in real industries. In the recent years, intelligent data-driven remaining useful life (RUL) prediction approaches have been successfully developed and achieved promising performance."
     publishedDateTime: 2021-04-21T08:55:00Z

@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-12-safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai.md",
+      "title": "SafeGuard nabs $45M to combat cybersecurity risks using AI",
+      "excerpt": "To accommodate the coming influx, organizations are beginning to transform operations models through the adoption of AI to optimize, enhance, and automate threat and risk visibility, detection ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
+      "publishedDateTime": "2021-04-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
+      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health",
+      "sourceUrl": null,
+      "webUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
+      "originalUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2021/04/94af3c4d8d5947c4a3291fe0aed04b3f.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
+      "publishedDateTime": "2021-04-12T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-12-chinese-robotics-firm-unveils-alphadog-a-cheaper-alter-ego-to-boston-dynamics-spot.md",
       "title": "Chinese robotics firm unveils AlphaDog, a cheaper alter ego to Boston Dynamics’ Spot",
       "excerpt": "There is a growing preference for robopets which are robots using artificial intelligence (AI) to perform sometimes extraordinary tasks. US-based firm Boston Dynamics is a leading light in robotics, with its famous robotic dog called Spot. A Chinese tech ...",
@@ -1111,101 +1207,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-global-deep-learning-market-growth-status-and-outlook-research-report-2026.md",
-      "title": "Global Deep Learning Market Growth, Status and Outlook Research Report 2026",
-      "excerpt": "Snapshot The global Deep Learning market size is estimated at xxx million USD with a CAGR xx% from 2016-2020 and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-market-growth-status-and-outlook-research-report-2026-2021-04-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-10T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-the-robots-are-coming.md",
-      "title": "The Robots Are Coming",
-      "excerpt": "For many of us visions of the future have often included images of robots who can think on their own and perform tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680",
-      "originalUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2018/220/10b44a80-aba3-42e6-9ec5-3c5af5d9988e.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/charlessauer/2021/04/10/the-robots-are-coming-n2587680?amp=true",
-      "publishedDateTime": "2021-04-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-07-top-20-data-science-and-machine-learning-platforms-gartner.md",
+      "title": "Top 20 Data Science And Machine Learning Platforms: Gartner",
+      "excerpt": "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg",
+          "width": 609,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
       "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
       "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
@@ -1344,50 +1388,6 @@
         "AI",
         "AWS AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-web-services-partners-with-hugging-face-to-simplify-ai-based-natural-language-processing.md",
-      "title": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing",
-      "excerpt": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
-      "originalUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png",
-          "width": 613,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-30-three-ai-apps-making-waves-in-the-insurance-industry.md",
+      "title": "Three AI Apps making waves in the insurance industry",
+      "excerpt": "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
+      "originalUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg",
+          "width": 2999,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/",
+      "publishedDateTime": "2021-03-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AndroidGuys",
+        "domain": "androidguys.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.md",
+      "title": "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details",
+      "excerpt": "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-autonomous-driving-must-achieve-zero-accidents-vision.md",
+      "title": "Autonomous Driving Must Achieve Zero Accidents Vision",
+      "excerpt": "For autonomous vehicles to be accepted into the mainstream, they must be far safer than human-controlled vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-driving-must-achieve-zero-accidents-vision/amp/",
+      "publishedDateTime": "2021-03-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face.md",
       "title": "It’s Like Tinder: Scientists Just Got AI To Read Minds And Create The Most Attractive Face",
       "excerpt": "It sounds like the premise of a sci-fi movie: artificial intelligence reads your mind and determines the most attractive face you look for in a mate.",
@@ -1044,146 +1182,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
-      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
-      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "publishedDateTime": "2021-03-29T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "A new study, released today in the scientific journal Advances in Therapy is providing critical ... Scientists at UCL have used artificial intelligence (AI) to identify three new multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

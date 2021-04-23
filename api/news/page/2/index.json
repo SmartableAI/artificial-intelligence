@@ -554,6 +554,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-22-nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers.md",
+      "title": "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers",
+      "excerpt": "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-google-ethical-ai-groups-turmoil-began-long-before-public-unraveling.md",
       "title": "Google Ethical AI Group’s Turmoil Began Long Before Public Unraveling",
       "excerpt": "The ouster of lead researchers Gebru, Mitchell followed years of friction over how Google handled allegations of harassment and bias",
@@ -562,7 +614,7 @@
       "originalUrl": "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -932,7 +984,7 @@
       "originalUrl": "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -962,7 +1014,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1169,50 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-catena-group-jumps-after-buying-machine-learning-group-for-279mln.md",
-      "title": "Catena Group jumps after buying machine learning group for £27.9mln",
-      "excerpt": "Catena Group PLC (LON:CTNA) has seen its shares surge after the AIM-listed holding company unveiled a £27.9mln deal and returned from September's suspension. Its is paying a mixture of cash and shares for Insight,",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_04/1200z740_1619013109_CLEVELAND_RETAIL-PARK_Hammerson.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/947223",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/947223",
-      "publishedDateTime": "2021-04-21T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

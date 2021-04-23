@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-13-nvidia-to-make-central-processing-units-going-after-intel.md",
+      "title": "Nvidia to make central processing units, going after Intel",
+      "excerpt": "Nvidia Corp. said it’s offering the company’s first server microprocessors, extending a push into Intel Corp.’s most lucrative market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/tech/2021/04/12/nvidia-make-central-processing-units-going-after-intel/7192107002/",
+      "originalUrl": "https://www.detroitnews.com/story/tech/2021/04/12/nvidia-make-central-processing-units-going-after-intel/7192107002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/04/12/PDTN/05e161b2-a392-42ad-8239-00d9970174c6-NVIDIA.jpg?auto=webp&crop=766,431,x162,y276&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/7192107002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7192107002",
+      "publishedDateTime": "2021-04-12T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says.md",
+      "title": "Some FDA-approved AI medical devices are not ‘adequately’ evaluated, Stanford study says",
+      "excerpt": "Join GamesBeat Summit 2021 this April 28-29. Register for a free or VIP pass today. Some AI-powered medical devices approved by the U.S. Food and Drug Administration (FDA) are vulnerable to data ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
+      "originalUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/some-fda-approved-ai-medical-devices-are-not-adequately-evaluated-stanford-study-says/amp/",
+      "publishedDateTime": "2021-04-12T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-nvidias-grace-ai-chip-leaves-intel-processors-behind.md",
       "title": "Nvidia's Grace AI chip leaves Intel processors behind",
       "excerpt": "Subscribe to CNET Now for the day's most interesting reviews, news stories and videos. The new chip should let AI customers run computing tasks that are vastly more complex than is possible with today's chip designs, a step toward the general artificial ...",
@@ -1084,101 +1178,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai.md",
-      "title": "SafeGuard nabs $45M to combat cybersecurity risks using AI",
-      "excerpt": "To accommodate the coming influx, organizations are beginning to transform operations models through the adoption of AI to optimize, enhance, and automate threat and risk visibility, detection ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/safeguard-nabs-45m-to-combat-cybersecurity-risks-using-ai/amp/",
-      "publishedDateTime": "2021-04-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion NEW YORK -- Microsoft, on an accelerated growth push, is buying speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "publishedDateTime": "2021-04-12T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

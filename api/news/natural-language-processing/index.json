@@ -773,19 +773,19 @@
     {
       "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
       "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion NEW YORK -- Microsoft, on an accelerated growth push, is buying speech ...",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
+      "webUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
+      "originalUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_e379a2a57666484dbff3b3d3885932f3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2021/04/94af3c4d8d5947c4a3291fe0aed04b3f.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -793,13 +793,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-buying-nuance-deal-worth-197b-77019090",
-      "publishedDateTime": "2021-04-12T05:43:00-07:00",
+      "ampWebUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
+      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
+      "publishedDateTime": "2021-04-12T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
+        "name": "KSEE",
+        "domain": "yourcentralvalley.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -809,8 +809,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Computer Vision",
         "AI",
+        "Natural Language Processing",
         "Microsoft AI"
       ]
     },

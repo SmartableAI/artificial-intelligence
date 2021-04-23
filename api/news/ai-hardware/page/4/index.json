@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-17-vmware-and-nvidia-team-to-deliver-virtualized-ai-workloads.md",
+      "title": "VMware and Nvidia team to deliver virtualized AI workloads",
+      "excerpt": "“AI is a full-stack computing problem ... of features in the latest generation of Nvidia GPUs like multi-instance GPU, which allows GPU cycles to be shared across multiple users.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
+      "originalUrl": "https://siliconangle.com/2021/03/09/vmware-nvidia-team-deliver-virtualized-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/NVIDIAEnterpriseAI-UseCasesGraphic.jpg",
+          "width": 8000,
+          "height": 4500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-torchai-raises-30m-for-ai-that-unifies-disparate-enterprise-data.md",
       "title": "Torch.AI raises $30M for AI that unifies disparate enterprise data",
       "excerpt": "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding.",
@@ -1401,51 +1444,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-meet-the-ai-algorithms-that-judge-how-beautiful-you-are.md",
-      "title": "Meet the AI algorithms that judge how beautiful you are",
-      "excerpt": "Companies working on such technologies are a darling of venture capital, and such algorithms are used in everything from online cosmetic sales to dating apps. These beauty scoring tools, readily available for purchase online,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
-      "originalUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-04-at-7.49.31-PM.png?w=505",
-          "width": 505,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
-      "publishedDateTime": "2021-03-05T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

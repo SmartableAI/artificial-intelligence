@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-amazon-sagemaker-studio-internet-traffic-using-aws-network-firewall/"
 type: article
 quality: 101
-heat: 121
+heat: 122
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
       domain: aws.amazon.com
     quality: 61
 
-secured: "lQGTyDaRXIxrpLp4h7qL47txUkklFqDbaTreCbIgc06JfLOUXlNqJGhPnIvTVS8xg3Togx74XamOTBAaLm4ZcivYGzmJFca3GHNsdIa10h6rJ97h4O5tQpe29Si5Q8m1EjcdPS+SvduMBNB6/4pouizI2cgAnkyV2rCvAOeGgrZ89tuMcc+cWO47FvVYeJnw4FHXF64oaKeHLgdc3O9mNINNLMedFcNj4P8dfqlpxI8F3BNOvisk4oUQ3jp+ZNRo0yTv5iiK0gAInZ+8WlV1UKDvi37hy32nD/PDYEi1yMYJqvV0acTaFyopsxcK3RZnqKHOSeHC66YHns+xY0bER0nAg04yV4Bu4326DuchhnY=;L0ySsZtEx6fV4Hmgj/MO6A=="
+secured: "i6cp0r6gMY94UOgxMDujZhvZvsdTTSYE9YCdMREWtGvMgWcFFVl3/FPR3Pu466yvu9px2hbT1DNCNN6HpLQHwS86c2/QS0atXjg+/hkAsxlfhp3L4couWs5TujlLVa4ILHgqJlg1jqPpk45/37gQ3vCImYTx4WxEchPSXB/HTHIT5mL0jzJeCnDr0yTBvw9C4GZxBOrY0GEwpnL5iFm4B3n2i7avmT2MkeQHsiGQhRHvXFo9Bn8fEfLApdO6Zt7cttZIws0Ihifi/AldoaJG5Iqc9MKpOIzxBLRNTM+EQ76NQQZQ4PcuxPLDVathcbe84VsktzU34VxoxYc0hWEek8OmAK6wTwf9hjrOOQiRcek=;zwjH45JVhuV2Dg2Bltzl3Q=="
 ---
 

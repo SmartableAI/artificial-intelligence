@@ -34,6 +34,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 51
+  - title: "Search University of Illinois--Urbana-Champaign Courses"
+    excerpt: "Search US News Skillbuilder here to find courses by prominent organizations like Harvard and Google. See our full list of courses to get started."
+    publishedDateTime: 2021-04-22T20:30:00Z
+    webUrl: "https://www.usnews.com/education/skillbuilder/provider-search/university-of-illinois-urbana-champaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Search Cloud Computing Courses"
     excerpt: "Search US News Skillbuilder here to find courses by subject matter. See our full list of courses to get started."
     publishedDateTime: 2021-04-22T19:52:00Z

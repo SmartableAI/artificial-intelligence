@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-14-korean-workers-need-to-make-space-for-robots-minister-says.md",
+      "title": "Korean Workers Need to Make Space for Robots, Minister Says",
+      "excerpt": "South Koreans must learn how to work alongside machines if they want to thrive in a post-pandemic world where many jobs will be handled by artificial intelligence and robots, according to the country’s labor minister.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-13/south-korea-workers-need-to-make-space-for-robots-minister-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLtgk_ik7v5c/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-modular-mobile-robot-can-take-on-multiple-roles-at-construction-site.md",
       "title": "Modular mobile robot can take on multiple roles at construction site",
       "excerpt": "Modular mobile robot can take ... Austrian startup Printstones has been developing ... The development team aims to work on AI simulations of work environments in the future, so that the robot ...",
@@ -1368,58 +1420,6 @@
         "name": "WTXL ABC 27",
         "domain": "wtxl.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-snaps-up-28-billion-stake-in-norway-robotics-firm.md",
-      "title": "SoftBank snaps up $2.8 billion stake in Norway robotics firm",
-      "excerpt": "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "originalUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-320890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "publishedDateTime": "2021-04-06T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

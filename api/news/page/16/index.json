@@ -2,6 +2,101 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-04-09-what-humans-can-learn-from-human-in-the-loop-learning.md",
+      "title": "What Humans Can Learn From 'Human In The Loop' Learning",
+      "excerpt": "Human in the Loop’ Learning describes a setup whereby a learning machine or computer system can incorporate selected human inputs or labels into its inferences or learning process, and thereby create a virtuous cycle or ‘loop’ in which the machine constantly learns to improve its capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/",
+      "originalUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6070277f32eeaface0bd8456%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D99%26cropY2%3D1179",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edstacey/2021/04/09/what-humans-can-learn-from-human-in-the-loop-learning/amp/",
+      "publishedDateTime": "2021-04-09T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-09-upstart-fintech-started-too-hot.md",
+      "title": "Upstart: Fintech Started Too Hot",
+      "excerpt": "Upstart is far too expensive and follows a trend of other hot fintechs that haven't performed well in the public markets.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "originalUrl": "https://seekingalpha.com/article/4418305-upstart-fintech-started-too-hot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.seekingalpha.com/uploads/2021/4/7/234751-16178301213001626_origin.png",
+          "width": 1358,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4418305-upstart-fintech-started-too-hot",
+      "publishedDateTime": "2021-04-09T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-update-1-toyota-unveils-new-models-in-advanced-driver-assist-technology-push.md",
       "title": "UPDATE 1-Toyota unveils new models in advanced driver-assist technology push",
       "excerpt": "while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely. Toyota’s domestic competitor, Honda Motor Co Ltd, last month unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to ...",
@@ -1109,92 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-virginia-bill-to-put-de-facto-ban-on-facial-recognition-tech.md",
-      "title": "Virginia Bill to Put De Facto Ban on Facial Recognition Tech",
-      "excerpt": "Starting July 1, a de facto ban on use of facial recognition technology will go into effect across Virginia, meaning that most police departments will not be allowed to use or buy it without legislative approval first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
-      "originalUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Virginia-Bill-to-Put-De-Facto-Ban-on-Facial-Recognition-Tech.html?AMP",
-      "publishedDateTime": "2021-04-08T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-artificial-intelligence-could-crack-the-language-of-cancer-and-alzheimers.md",
-      "title": "Artificial Intelligence could 'crack the language of cancer and Alzheimer's'",
-      "excerpt": "\"Any defects connected with these protein droplets can lead to diseases such as cancer. This is why bringing natural language processing technology into research into the molecular origins of protein malfunction is vital if we want to be able to correct ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/sjcu-aic040821.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/261461_web.jpg",
-          "width": 720,
-          "height": 1058,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

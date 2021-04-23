@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-20-artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed.md",
+      "title": "Artificial Intelligence In The Datacenter Means Power And Physical Structural Issues Must Be Addressed",
+      "excerpt": "Understanding power consumption, to better extend the life of existing datacenters, and to improve both expansion of those and the development of new centers, is critical to helping AI be cost effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
+      "publishedDateTime": "2021-04-20T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-ftc-warns-it-could-crack-down-on-biased-ai.md",
       "title": "FTC warns it could crack down on biased AI",
       "excerpt": "The US Federal Trade Commission has warned companies against using biased artificial intelligence, saying they may break consumer protection laws. A new blog post notes that AI tools can reflect “troubling” racial and gender biases.",
@@ -492,6 +543,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ishares-robotics-and-artificial-intelligence-etf-built-for-the-future.md",
+      "title": "iShares Robotics and Artificial Intelligence ETF: Built For The Future",
+      "excerpt": "Shares Robotics And Artificial Intelligence ETF - While the potential for growth is phenomenal, risks like significant foreign exposure and regulatory action are something to keep an eye on",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "originalUrl": "https://seekingalpha.com/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1204583853/medium_image_1204583853.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4419975-ishares-robotics-and-artificial-intelligence-etf-built-for-future",
+      "publishedDateTime": "2021-04-20T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1120,109 +1215,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-the-ai-arms-race-has-us-on-the-road-to-armageddon.md",
-      "title": "The AI arms race has us on the road to Armageddon",
-      "excerpt": "For now, the AI arms race is a cold war, mostly between the U.S., China, and Russia, but worries are it will become more than that. Driven by fear of other countries gaining the upper hand, the world’s military powers have been competing by leveraging AI for years — dating back at least to 1983 — to achieve an advantage in the balance of power .",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
-      "originalUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/the-ai-arms-race-has-us-on-the-road-to-armageddon/amp/",
-      "publishedDateTime": "2021-04-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor.md",
-      "title": "Google and Siemens teaming up bringing AI to the factory floor",
-      "excerpt": "The companies are joining forces to create industrial applications, optimize processes, improve productivity and help manufacturers innovate using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
-      "originalUrl": "https://www.techrepublic.com/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/19/0961cf8c-af8d-49c8-abd3-70ac81844a82/resize/1200x/94764ed0447c35fbd622da0fed1ec8b9/factory-ai.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/",
-      "publishedDateTime": "2021-04-19T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

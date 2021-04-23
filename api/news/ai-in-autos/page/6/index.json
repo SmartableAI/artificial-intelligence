@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-10-plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.md",
+      "title": "Plus Using Nvidia Orin AI Chip for Self Driving Semi Truck in 2022",
+      "excerpt": "Intelligent Holographic Nanostructures Can Reach 400 EXAFlops and Beyond Human Brain Neural Density Tesla China Car Sales Strong in February Space Tourism and Industry to Get to Colonization Critical Mass Space Tourism and Industry to Get to Colonization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/03/plusnvidiaselfdriving.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "publishedDateTime": "2021-03-09T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics.md",
       "title": "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics",
       "excerpt": "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic.",
@@ -1328,50 +1372,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-facts-vs-fiction-artificial-intelligence-in-digital-marketing.md",
-      "title": "Facts vs. Fiction: Artificial Intelligence in Digital Marketing",
-      "excerpt": "This is where artificial intelligence is most effective for digital marketers. Unfortunately, a large portion of online literature focused on AI is either fixated on a Matrix-like singularity or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/c191a0a2e8dc4a508bb096fcdae188b4.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Autos"
       ]
     }
   ],

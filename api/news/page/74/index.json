@@ -2,6 +2,151 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-02-26-hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you.md",
+      "title": "HelloWoofy uses AI to keep your social media channels stocked with great content for you",
+      "excerpt": "And that AI brain is often working overtime. HelloWoofy can import content via RSS feeds, optimize hashtags and emojis, search out copyright-free images, or even find the most trending and up-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
+      "publishedDateTime": "2021-02-25T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-featurespace-touts-breakthrough-in-machine-learning-for-anti-fraud-systems.md",
+      "title": "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems",
+      "excerpt": "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
+      "publishedDateTime": "2021-02-25T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-ataccama-acquires-data-visualization-startup-tellstory.md",
+      "title": "Ataccama acquires data visualization startup Tellstory",
+      "excerpt": "Ataccama acquired TellStory to add data vizualization tools to an expert systems platform for managing large amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Ataccama-Editor-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "publishedDateTime": "2021-02-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-ey-unveils-expansion-of-technology-initiative-with-launch-of-cloud-enablement-center-for-financial-services-in-phoenix.md",
       "title": "EY unveils expansion of technology initiative with launch of cloud enablement center for financial services in Phoenix",
       "excerpt": "The EY Cloud Enablement Center, the first of which will be based in Phoenix, will provide clients with a range of services and ... intelligence (AI), machine learning, data, cybersecurity ...",
@@ -1038,163 +1183,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Size, Share, COVID-19 Impact, New Technological Advancements And Geographical Forecast Till 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-covid-19-california-with-50000-lost-has-more-deaths-than-any-other-state.md",
-      "title": "Covid-19: California, With 50,000 Lost, Has More Deaths Than Any Other State",
-      "excerpt": "In a video message to the Defense Department on Wednesday, Mr. Austin said members of the armed ... “We want to minimize any chances of this reoccurring,” he said. New York opens vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots",
-      "originalUrl": "https://www.nytimes.com/live/2021/02/24/world/covid-19-coronavirus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/getty/2021/3/18/cd2005e2-e966-4b7f-9abe-d1c669847918-getty-1180651459.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots/amp",
-      "cdnAmpWebUrl": "https://www-inputmag-com.cdn.ampproject.org/c/s/www.inputmag.com/culture/new-york-council-member-wants-to-ban-armed-police-robots/amp",
-      "publishedDateTime": "2021-02-24T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

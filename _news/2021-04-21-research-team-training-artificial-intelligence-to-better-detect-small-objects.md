@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.
 ampWebUrl: "https://techxplore.com/news/2021-04-team-artificial-intelligence-small.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-team-artificial-intelligence-small.amp"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/10-researchteam.jpg"
@@ -29,18 +30,18 @@ related:
   - title: "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario"
     excerpt: "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework."
     publishedDateTime: 2021-04-22T16:04:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af/gallery/9e2b134a4a0b4c7ad1b2aed45f3a93db"
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 64
+    quality: 66
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
 
-secured: "tfCI7zlnFRv2+FlkRPO8q+MzJr52i+KkfvZMK4D4BdLpfT8SLWqEJXNxrye0YZ5K1An1HAnPXTO2RVRP/1/rVZg/ZQCk1rMBeQbnvgwCL/MnLWEVAgzq/1gM0FgMW/Iva1i94V8K9JPM9KtUtnKj2v0338PV1DGtrQRFhH5f7YUo93NNgPIwWTeRiEShGJD3UEEmC4mWQ4RuwiPg9oQVpgmNCjo+OY+fX43ZXXFHc0e+ZXuygZyumtTQ0qb722awVPB6mOqABex5f8sRGr2YqOzRV51AxyxxU0NQjBQQGuMMvGOhIRzJkgiWkQE3poATbVKlZYQiHeY+CIUqcW9h/MDXl/KEMgWa6Un3OJ4I+uw=;9RQqk1DxQA0o1h+GQg+i1Q=="
+secured: "khgx/MzkTyNY4kZELOz+8+vOvdo7DSSZxBIvpFqrZNyFm1NLqk3eJ2HCdpooo+U0npTtGmEgCd0xrf35LQ20QMO9ZR16fqIFTQjcMwm8SLeDTpGVB14CMHkh6ZlNXw3ACdRNJJ5X+yROej2XrQnQV9OyfJQ9br2pvMtRWcCo+NoyNCXNin6Sm5WpESfo79u68W0TbUAzbxNj1yfhBOrIEn3nHMj4CcxtXIgv3718dM5+oLA8GF56yWUIbbyRtjtwcgdjPnrtFOGvsywaGDxS0Tyx7GoSlkRlFy78X2sSJ1SowBY7iKjcjt0AWq4oIQQmeTgBuGrbMNBJmZluiSdx1UJ9uxp+jmhxH3LDpvwuNMpjKs8Jr5LdUqQU1Va6E5OttViXez3RSZHBY9FBJdD7Ck9LCm9BC271GknlAoytIBdgXRtISX0DwNbxnfmF62nlhP5pfaA3FOr/BOZuBbQjq4rR28BstEnpNjT2oI7FrdSlHu/6SWwW6B6KQYqVtMNUZatgZjDFlKlakoxHcwmLkw==;ogFC+UsHSrO/u4BBB8BSZw=="
 ---
 

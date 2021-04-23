@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-
 cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling-1.1593362.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google ethical AI group’s turmoil began long before public unravelling"
+    excerpt: "Gebru and her co-lead Margaret Mitchell blamed a sexist and racist culture as the reason they were left out of meetings and emails related to AI ethics, and several others in the department were accused of bullying by their subordinates, with little ..."
+    publishedDateTime: 2021-04-23T02:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
     excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
     publishedDateTime: 2021-04-21T18:53:00Z

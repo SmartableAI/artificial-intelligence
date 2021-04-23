@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 1072
         isCached: true
+  - title: "Deep Instinct Raises $100M in Series D Funding"
+    excerpt: "Deep Instinct, a NYC-based company that applies end-to-end deep learning, based on a deep learning framework for cybersecurity, raised $100m in Series D funding"
+    publishedDateTime: 2021-04-22T22:30:00Z
+    webUrl: "https://www.finsmes.com/2021/04/deep-instinct-raises-100m-in-series-d-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/02/deep-instinct.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Anari AI Raises $2M to Rebuild the AI Hardware Industry Through Personalized Cloud Chips"
     excerpt: "Anari’s platform makes it possible to design personalized AI chips in the cloud with just one click. With this approach, companies are able to build and deploy AI solutions in weeks instead of 12-18 months,"
     publishedDateTime: 2021-04-20T11:59:00Z

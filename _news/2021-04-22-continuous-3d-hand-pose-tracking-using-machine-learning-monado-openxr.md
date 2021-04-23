@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
+    excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
+    publishedDateTime: 2021-04-23T03:36:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9406580"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 15
   - title: "Dynamic PET Image Denoising Using Deep Image Prior Combined With Regularization by Denoising"
     excerpt: "The quantitative accuracy of positron emission tomography (PET) is affected by several factors, including the intrinsic resolution of the imaging system and inherently noisy data, which result in a low signal-to-noise ratio (SNR) of PET image."
     publishedDateTime: 2021-04-19T13:32:00Z

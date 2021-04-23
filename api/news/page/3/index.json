@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-21-catena-group-jumps-after-buying-machine-learning-group-for-279mln.md",
+      "title": "Catena Group jumps after buying machine learning group for £27.9mln",
+      "excerpt": "Catena Group PLC (LON:CTNA) has seen its shares surge after the AIM-listed holding company unveiled a £27.9mln deal and returned from September's suspension. Its is paying a mixture of cash and shares for Insight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_04/1200z740_1619013109_CLEVELAND_RETAIL-PARK_Hammerson.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/947223",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/947223",
+      "publishedDateTime": "2021-04-21T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more.md",
       "title": "Hive raises $85M for AI-based APIs to help moderate content, identify objects and more",
       "excerpt": "As content moderation continues to be a critical aspect of how social media platforms work — one that they may be pressured to get right, or at least do better in tackling — a startup that has built a set of data and image models to help with that,",
@@ -1184,57 +1228,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed.md",
-      "title": "Artificial Intelligence In The Datacenter Means Power And Physical Structural Issues Must Be Addressed",
-      "excerpt": "Understanding power consumption, to better extend the life of existing datacenters, and to improve both expansion of those and the development of new centers, is critical to helping AI be cost effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
-      "publishedDateTime": "2021-04-20T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

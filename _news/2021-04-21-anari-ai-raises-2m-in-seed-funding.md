@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Instinct Raises $100M in Series D Funding"
+    excerpt: "Deep Instinct, a NYC-based company that applies end-to-end deep learning, based on a deep learning framework for cybersecurity, raised $100m in Series D funding"
+    publishedDateTime: 2021-04-22T22:30:00Z
+    webUrl: "https://www.finsmes.com/2021/04/deep-instinct-raises-100m-in-series-d-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/02/deep-instinct.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI cough monitoring app Hyfe raises £729,000 in seed funding"
     excerpt: "Hyfe, an AI-powered cough-monitoring tool that provides health insights has today announced it has raised £729,000 in seed funding."
     publishedDateTime: 2021-04-20T13:48:00Z
