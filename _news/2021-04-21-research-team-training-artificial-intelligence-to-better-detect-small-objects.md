@@ -29,7 +29,7 @@ related:
   - title: "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario"
     excerpt: "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework."
     publishedDateTime: 2021-04-22T16:04:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af"
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af/gallery/9e2b134a4a0b4c7ad1b2aed45f3a93db"
     type: article
     provider:
       name: Associated Press

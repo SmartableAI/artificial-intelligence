@@ -71,6 +71,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 | Microsoft, Micron Technology, General Electric, Medtronic"
+    excerpt: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 Microsoft Micron Technology General Electric Medtronic"
+    publishedDateTime: 2021-04-21T07:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268877096/healthcare-artificial-intelligence-market-to-see-huge-growth-by-2026--microsoft-micron-technology-general-electric-medtronic"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 42
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619141577015.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Top countries for launching a Fintech startup"
     excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."
     publishedDateTime: 2021-04-21T20:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://cdn.openpr.com/U/4/U421427791_g.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 | Microsoft, Micron Technology, General Electric, Medtronic"
+    excerpt: "Healthcare Artificial Intelligence Market to See Huge Growth by 2026 Microsoft Micron Technology General Electric Medtronic"
+    publishedDateTime: 2021-04-21T07:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268877096/healthcare-artificial-intelligence-market-to-see-huge-growth-by-2026--microsoft-micron-technology-general-electric-medtronic"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 42
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1619141577015.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Top Fintech Companies to Watch in 2021"
     excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."

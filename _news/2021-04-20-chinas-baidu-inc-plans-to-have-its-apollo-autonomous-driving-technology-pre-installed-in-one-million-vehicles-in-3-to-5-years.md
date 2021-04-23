@@ -3,8 +3,8 @@ category: news
 title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
 excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
 publishedDateTime: 2021-04-19T22:15:00Z
-originalUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc.-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
-webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc.-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+originalUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
+webUrl: "https://www.futurecar.com/4562/China’s-Baidu-Inc-Plans-to-Have-its-Apollo-Autonomous-Driving-Technology-Pre-installed-in-One-Million-Vehicles-in-3-to-5-Years"
 type: article
 quality: 11
 heat: -1
@@ -97,6 +97,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2ocFuUAsildbtwXXChw9QKrmCJyUvqIZZYPeidIi0MIuZUfHpGD8F+aqMan8iHtHsS6KfRmRR9Ii0TW5/02QLI6teBgKTbgaG3azZidZ0XSgu/DVBBK2Qel4s5wb1XHAIDKjxOlHVu7y9a+H/MJ09Ryk+rPrK3wtkiiVa4WdrJfuEiirXrwCcPWXjx9bvUgXGHK3eWPczJtzufgY88Mlqkxa2ymXwtI/A8YIBbbr4mL8kAhaxOwHzAnuoprWO2IJ8LiW4mZnJbyw5LW4B6dEAmXK8Q+bCPBk9CEs29sbDXujfFiqmh1C396wN+0tvMCWHR0OJXVUrcVSP1/Jnnv3U0r/oxjP3s+F4EX86cZR2G0=;BePJtGvEt9+9HP9bsinOZQ=="
+secured: "yssx7PvLEVR3jZ9sR5AilSbBj9xBL8lYnJc2530J/mNod0s4ZC9FAulILcHVA/oMS4gJvfrd+Fk0sg5VT/aFDxvxGIkNxPsOsarqn9rdbv3WyYOZz+RNCfCTqownUyFhLnLiFaHXS33O/ONcDWzcTuukIAGV56IdVCVr68+RX3gNin5aYtff9N1/mllJhFglra9q5a8oiSNSxZAqqkkDoCC/TFLQl86tRwwKq7MeeRoNuFN7GtXj6lHl0nd7kixNAAIZ56Lhtjw1BbAn29nOiVtaL6/SBDoFZAls2yLPZVl/6B9TWLtizSmi1XisQJZpN+9I7t1I9A95gjw5evngB0/oX6vjWmpMpXthea387as=;SpuchJLqhNgyrOeIcn6meA=="
 ---
 

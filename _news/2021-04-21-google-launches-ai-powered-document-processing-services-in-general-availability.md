@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-docume
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "HSBC launches AI-powered multi-asset index"
+    excerpt: "HSBC today announced the launch of the AI Powered Multi Asset Index (AiMAX) family, the first rules-based multi-asset investment strategy to use artificial intelligence (AI) as a method for constructing a diversified growth portfolio."
+    publishedDateTime: 2021-04-23T01:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87269/hsbc-launches-ai-powered-multi-asset-index"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "DXCv8BTKmJuxuY8PJBRaHNoXnMArVn97HI9A6EItEDZMp16m2Db95OaofPa+n8sf6M9JA/MeSBKrt/1LYEY3iQqoVRq7I9OmcHEVUhn956/oKJU9J7Jotp1mO7wAlACy68nU7FoqaX6V3sOBWlOBKEHiV/dDN/6z4b2/iEhwcy4hpc/0BOHySBBVrl8HmIzo8bdU4qaBGEL5CzLKchvNerDjJ254GvBM7GpMlenLbkom6OXhfp3vzrWgNidgV0SnXCTJBUCaFQ84OkLZ4Phlhuj5rXVvFzmOcmeHCEjo2MKQAB4SvcUNON2aUD/QvzdzTlpKIgzTXYGSQzltDtOeJrjvvAiWKF0PKrYLLPw2Sv2FKp2Bj/jN7AS5PAvjUg4zbUNmZL4COSuaqj4Cgo392bte3iNhXVbj5L0pCW03wau0jPlgMZ/8qTJ6FPEQIRGzZ2F3YAWmvOOcgA+BUtxeI2D4pojyuygO/wYj2aT4zXLoDzO1QvXh4/lHL5Xcr3h+Tegt++KAfwDc9B9JjLegAw==;IxWyXFIPcbS0O9ky+ONpPQ=="
 ---

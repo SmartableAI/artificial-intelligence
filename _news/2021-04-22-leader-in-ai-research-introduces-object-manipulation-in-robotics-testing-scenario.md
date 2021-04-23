@@ -3,8 +3,8 @@ category: news
 title: "Leader in AI Research Introduces Object Manipulation in Robotics Testing Scenario"
 excerpt: "The Allen Institute for AI (AI2) announced the 3.0 release of its embodied artificial intelligence framework AI2-THOR, which adds active object manipulation to its already impressive testing framework."
 publishedDateTime: 2021-04-22T16:04:00Z
-originalUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af"
-webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af"
+originalUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af/gallery/9e2b134a4a0b4c7ad1b2aed45f3a93db"
+webUrl: "https://apnews.com/press-release/news-direct-corporation/robotics-technology-92f52233b9dc9031ab6f7b381e0e76af/gallery/9e2b134a4a0b4c7ad1b2aed45f3a93db"
 type: article
 quality: 64
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 576
         isCached: true
 
-secured: "AKDFsDejtvdRjqqSCzqwEhJdDolMBJDvxUvgM9CWnkU01T28V0VwURy1J7cEdJcwjV2qzTY+Z/PjFlngfpFo+ankVmxzxYoth8+4hkZCOHz4oj/I2+PyKyM74YiqDO6tkTYejVW921jxN9hCWIm+PcnBW2WnaE0lOCEbH6WAr15KgsoVldliwyUH8SzPAM+fGfiXnQ/oD6wIo+Z/CKaoIkJt8f8ABECsja4wYsh4sos+5jAfwMcZgU6/O17mICOLxxLiwTfT8PEwcgzwIOVZYJxSlfFXzs2hv4v6p/9iZm4oOaWrAzncojqr3RHx3Wpvaii6z1ZtaoDHbL3aIYbWmD2U4q8jThNLeSzVvzDCa6M=;lLjq3wASPrH+lknM0qkQVw=="
+secured: "0naffu2cXBO18x+9hqZry3JKOlLt9WR5cSaJPgN8mSVB1iMB4OmOlvcJ9xldJ8qSGB35+aFeUB17v0i4T/Qya7ZQRyPgCvSOQQqVdtJAGqU98EG3WE0Q78giy53azMiRMH0nOrLevLNu+roqe54j3iJ+OSVgZRKeUWPuqPM5w/ewlKyXe3rbJ9M8CDv69Dfqr+Isa1njeNY/ZQS+cZjwhF+qOzrgaV5meDA1u7GS5KQgWpN0TnaeUjzO9N0cJdwrxksiKXryDheCxuOakhIr6pCNbHF71l3lMvMk8Y+o2fOcu1ULttDuKyiwd4CJr2WVJ9J9ROx9CM+5aM5eMnvN29I3EeELAvBmlDS+8U8jaco=;anVxcht3Mc8ac7MA8/0QAw=="
 ---
 
