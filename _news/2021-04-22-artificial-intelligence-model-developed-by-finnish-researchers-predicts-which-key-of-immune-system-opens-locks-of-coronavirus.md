@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence helps identify new key-lock pairs against coronavirus"
+    excerpt: "The human immune defense is based on the ability of white blood cells to accurately identify disease-causing pathogens and to initiate a defense reaction against them."
+    publishedDateTime: 2021-04-23T04:19:00Z
+    webUrl: "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 69
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Artificial intelligence model predicts which key of the immune system opens the locks of coronavirus"
     excerpt: "With an artificial intelligence (AI) method developed by researchers at Aalto University and University of Helsinki, researchers can now link immune cells to their targets and for example uncouple which white blood cells recognize SARS-CoV-2."
     publishedDateTime: 2021-04-22T12:28:00Z

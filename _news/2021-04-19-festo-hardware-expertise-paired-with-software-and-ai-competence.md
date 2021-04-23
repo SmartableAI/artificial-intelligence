@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/april-2021/festo-hardwar
 webUrl: "https://www.automation.com/en-us/articles/april-2021/festo-hardware-expertise-software-ai-competence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 500
     height: 313
     isCached: true
-
-related:
-  - title: "Best Free Artificial Intelligence software for Windows 10"
-    excerpt: "These are some of the best free Artificial Intelligence (AI) software for Windows 10 for you to enter the World of AI."
-    publishedDateTime: 2021-04-18T11:14:00Z
-    webUrl: "https://www.thewindowsclub.com/artificial-intelligence-software-for-windows-10"
-    ampWebUrl: "https://www.thewindowsclub.com/artificial-intelligence-software-for-windows-10?amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/artificial-intelligence-software-for-windows-10?amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 59
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2021/04/Cortana-AI.jpg"
-        width: 700
-        height: 500
-        isCached: true
 
 secured: "LS51TEfWYG3Gx1jxncvm5ynaE/H3B1d6dhiemxfhwctLz5sYaGkaeYK5kOhgPJ7zVnwEmmaa94+Mdw8lclJGJ18DllOXhOZ/5xcQ3EWPWVmsnFTAF7Ry36tlxDuDMziQu4kkib3zyMg1I/G6tzAwe9gfglJqLzj1NGQDGUa7Ggifz0XZR8lzCQH27M/PBcjfO4HO7EWcMzS9FrSYouakAHl1NjjOk3SDp/5DOJHfqCsMHmeT64rUrIe0knyrI3+5q5vkMvj+0klE4O0AHayxqhzjyK51t2AytQBDlxzrThR4gldHfuRtBCD9YkvG/SCGjs4bhtealLqpYYezM96XG1JhB7Kxz+iLvWxt2HzrMo2z2rvcRSU1NWGGThAACY365jTBgOPDUBFvVMsSAQkBkPeraIuV/jZ2mU5BQc9W+XDj9Rssl2sUkMD3zJmj9nA3ZGqP2stdQndD+W2F35t/xaacOVFN5PmPl5VSB5SRX8N08DXnD8ezi8JtxCJblJf/Zkzk8KgXJma6T9TzKyhlUg==;ZEHGGat/U2LzdnbxGbOwqw=="
 ---

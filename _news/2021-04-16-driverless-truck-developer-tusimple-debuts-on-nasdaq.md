@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Driverless truck developer TuSimple debuts on Nasdaq"
-excerpt: "The Chinese startup raised US$1.1 billion at a market capitalization of US$8.5 billion and ended the trading day unchanged."
-publishedDateTime: 2021-04-16T08:32:00Z
-originalUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!"
-webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq#!"
+excerpt: "The stock price ended the day unchanged. TuSimple develops driverless trucks powered by artificial intelligence that aim to make long-haul freight transport cheaper and more efficient. It ..."
+publishedDateTime: 2021-04-16T09:04:00Z
+originalUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
+webUrl: "https://www.techinasia.com/driverless-truck-developer-tusimple-debuts-nasdaq"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "uYr3x52Z/lDzGEmLUCOX+E3IEPgbscDer9stirBmeaFYdmx7aLWqnxiK/44k6eAU53K1rUdlbaZI+EV7sCn1ciC7VYicGW6n37+cn9xqQcr7f8oaxHRw5k2oazGlGpPaTqj6A4XanXlL9xbGUhDAYgLyKbwbepjb3frPJCvvObkmPGS56kRkoMZdj0BCRfsht9aDHCiOYm+Of/WYIBmHzMvOHsHcwpSO8PqaZUR3uW9WshJOXP8qJCipfMnjMDbTu77yh1L/xslFpLZC2vuP2KtbRbWB6Rhi3asrkvi1+1zpFNy7RlDRnU1daZfqJVCPX40OczHFG0C0ncp3dJ8JWtQv3G7n9brjkDn1h4XehAv1mcsLwDGwmCG+lTL5FyDBa01bt+iYU21PjcKv3LVP8xbUmqvK8RuqGsEDZuqtv0HehEXp6BtNnt9dglQWYvrp64dh/xHkWIrSzVPxxUqGdc4+AkpJU/4mMsjL1B/o+wN+LhJG1/orGeN4IeJYOpgqs8VObXMdq+/O74b+yCs6sg==;gYGhOlv5gyxLoxSpktnOBQ=="
+secured: "vDQ3kHDC5C7TyBsOTzvHAFalCr6sZWffPNcirTcAqHw+CByQg5HWc80jifSpgeRIhsoX8JtDT8hh97a3WeKSXHqpR5CH8heE8VJg3WCAFy1DiPfewiUuoxXIpb4iO7t0uGpdDJZzTAg+eD7n4KBnQix6d2XdT9LdAC6W2itmen7AX7xDKsBnlbU4l2jJUviRc5sRKSxPN86Ewg9IlaTsW5L3wKb2TB5NwS9fzlxYrFvBrVIx8iqrWCTCbAEKodug35IqMzv0rQcviyZbhK+vbqBTHlrluCyIqvPI7TG0l5y7Nlgr6aWcxdUW47KuofHP55k8kc/Esffrb0iyV482HY76s8xcKS8RYnIKmYCB0Yw=;O/GlNm0p2G2bVDbxNcH0fw=="
 ---
 

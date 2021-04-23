@@ -36,7 +36,7 @@ related:
     provider:
       name: The Star
       domain: thestar.com.my
-    quality: 54
+    quality: 56
     images:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
         width: 1240

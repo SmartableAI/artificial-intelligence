@@ -1,29 +1,28 @@
 ---
 category: news
-title: "EU proposes rules for high-risk artificial intelligence uses"
-excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-publishedDateTime: 2021-04-21T11:41:00Z
-originalUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+title: "E.U. proposes rules for high-risk artificial intelligence uses"
+excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+publishedDateTime: 2021-04-21T11:54:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WBAL
-  domain: wbal.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-    width: 512
-    height: 331
+  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+    width: 2500
+    height: 1602
     isCached: true
 
 related:
@@ -290,6 +289,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "1jfCGS9BbxKArz3+soLYGdlm/YZkvSNqvllIySAzFNnu6z7pdW6VATlNJg+vTvxnkPHEnVvAHFBarAFCCczNRPSxzeG4r9phFY12606b6isOQtsFppdZbk+8oHFoXbWJPqyvARiyQGr94JsmpWCCzpjoEjs14BnP+4oUF8uDrmCmRJG2Ib4O94IKNUNWsXCSnU6fAqeB7zEcfHdBchYjRpjyH3V5IUGZQNhg4kR2hvm8xe0oDDqgQLMbG4WkLBuKXX5CtK2Xs3y3nBRnMAtzNxgSoNys9M6vvvrnofuASjgks6ww94P5mE6HUcLK6+11ax+umBYC9fLyuIidVFnUEo+xoVaFgq8IacvF+Q++2AM=;cZKOdxvuK/9bJZw+R0RR6Q=="
+secured: "wv4eABAyDAV5UdjdLarvktGHhGlDVP3kvX5mmOQodndnyhPsqdCgJwMb41pGPRe63bw8HpgS86poKcXzsWSzXtXTlcVK40ZA0LcUNhNYTK3kU+KN5dzV25b9yL8Bh20yzMWcRDipnX5zwA4/1TDBEZwEnZuTO8mTMuwbM5jkbiMa7Q2rWY8NIJkHUO3JPOZdM3cn0e+oRcNUcGGQxp55653CpJxfuhYkPGJ59LKrcCfqcIb4fBolcmQz5+ttSbTaSW3zMfDSIXEp1WO+7PECjchrBuPu1RQ3AM+H4Ykam6v3kawaXGjKooFU0oDmiupuygZwI+kZtpIiSwP6XgvxFqxWt5Yi2IuxGGJCXxkjCqc=;VOqprlOqjxdTvbmRhGJRtw=="
 ---
 

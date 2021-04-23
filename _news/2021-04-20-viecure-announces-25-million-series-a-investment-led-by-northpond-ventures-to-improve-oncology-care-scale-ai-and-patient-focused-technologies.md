@@ -35,6 +35,20 @@ related:
       domain: techinasia.com
     quality: 32
   - title: "GPT-3 Tech Startup Copysmith Secures $10 Million in Funding"
+    excerpt: "Copysmith, a startup that uses artificial intelligence (AI) for creative content generation, today announced a $10 million investment through a partnership with Harmony Ventures Labs (HVL) and funds advised by PSG."
+    publishedDateTime: 2021-04-21T14:01:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gpt-3-tech-startup-copysmith-secures-10-million-in-funding/article_45e7d9b3-3b44-5d25-88c0-93aad455e4e4.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GPT-3 Tech Startup Copysmith Secures $10 Million in Funding"
     excerpt: "Copysmith, a startup that uses artificial intelligence (AI) for creative content generation, today announced a $10 million investment through a partne"
     publishedDateTime: 2021-04-21T18:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210421005680/en/GPT-3-Tech-Startup-Copysmith-Secures-10-Million-in-Funding"

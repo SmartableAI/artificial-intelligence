@@ -70,6 +70,20 @@ related:
         width: 850
         height: 480
         isCached: true
+  - title: "With stadiums opening, facial recognition is ready for a closeup"
+    excerpt: "To ensure that fan safety takes absolute precedence, venue owners and management teams should, without a doubt, be deploying facial recognition technology. Above all else, stadiums and event sites are looking to promote themselves as safe and secure ..."
+    publishedDateTime: 2021-04-23T04:01:00Z
+    webUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facial-recognition-is-ready-for-a-closeup"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/defec77/2147483647/strip/true/crop/349x183+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbe%2F51%2F4e4434f44b0d84b5b880cc8066f5%2Fwatts-robb-corsight-opinion-pso.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bucks County commissioners pull facial-recognition contract off agenda"
     excerpt: "The Bucks County commissioners dropped a contract for facial-recognition services from their agenda Wednesday after residents objected to a potential high-tech threat to privacy. The agenda available Tuesday listed an agreement with Clearview AI \"to provide assistive technology for law enforcement\" for $25,"
     publishedDateTime: 2021-04-21T17:54:00Z

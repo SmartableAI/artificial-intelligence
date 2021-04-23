@@ -84,6 +84,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 43
+  - title: "With stadiums opening, facial recognition is ready for a closeup"
+    excerpt: "To ensure that fan safety takes absolute precedence, venue owners and management teams should, without a doubt, be deploying facial recognition technology. Above all else, stadiums and event sites are looking to promote themselves as safe and secure ..."
+    publishedDateTime: 2021-04-23T04:01:00Z
+    webUrl: "https://www.paymentssource.com/opinion/with-stadiums-opening-facial-recognition-is-ready-for-a-closeup"
+    type: article
+    provider:
+      name: PaymentsSource
+      domain: paymentssource.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/defec77/2147483647/strip/true/crop/349x183+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbe%2F51%2F4e4434f44b0d84b5b880cc8066f5%2Fwatts-robb-corsight-opinion-pso.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "44jgalPyl+hG1jt/HGWYbF3w2zDVQnDKYZZ18Gh7cDMKp8Vk+Rzd/v7XMMbp0tR+3+6JsphTHxaUSe/OtDNPriKrW0AYp/NR4Ksjql//ufvzQTNRmSpjipDeemJAPgwkyab7uIkSt8PxpkGYv2JMwIsRzfLE7ydoIj54GEYYiVBtm57xljSvflIsNwEfoOHVuWnGQBWNuqBKTYe+av5XH5neqFYouwQdP4Tz4IFkEWstihPgsahA7vRRutX4L4QMk0aOg1J1V2CeKVdABPeBTMOESt8+y4n4C/bUQVW9maiAawFX+I3kX1zZDf+5PnpUjLNh6g/JkGQHqREHZgv/cof7wt7z3gvCiEboO+4RZeM=;W+giEI5LrF7WuxBDi0pSWw=="
 ---

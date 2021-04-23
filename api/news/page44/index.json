@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-03-20-ai-designed-to-distinguish-croissants-from-crullers-and-other-pastries-proves-capable-of-identifying-cancerous-cells-on-microscope-slides-with.md",
+      "title": "AI designed to distinguish croissants from crullers and other pastries proves capable of identifying cancerous cells on microscope slides with 99% accuracy",
+      "excerpt": "The system uses deep learning for object recognition and instead of differentiating baked goods, the doctor hoped the technology could save lives. Identifying cancer cells to determine whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/03/19/17/40688578-0-image-a-23_1616173928996.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "publishedDateTime": "2021-03-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-solving-barren-plateaus-is-the-key-to-quantum-machine-learning.md",
       "title": "Solving 'barren plateaus' is the key to quantum machine learning",
       "excerpt": "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now.",
@@ -1109,51 +1152,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
-      "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
-      "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/security-safety-things-gmbh-bosch-highlight-iot-platform-smart-cameras-ces-2021-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "publishedDateTime": "2021-03-18T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Security"
       ]
     }
   ],

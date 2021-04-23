@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/04/21/chinas-ai-chip-investments-for-2021-total-usd-3-1-billion-so-far/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: syncedreview
@@ -25,6 +25,22 @@ images:
     width: 950
     height: 713
     isCached: true
+
+related:
+  - title: "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame"
+    excerpt: "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter."
+    publishedDateTime: 2021-04-23T02:38:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.y9b1.0zKA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "930051Pi4jPJneSqDEVA8/167BKFsBU2ATJh+t1uSKpV0kqa1fbuBoZX3KCgHOWBOUCgmJOJpjXgNMeWyQ7aRTcml6Yb6R2M4HRYZMaiswgcKTZqIPeIN4eWxA8xrWwmMEC7uj6WWF5g00H7+P9+spFzN00YzxGoyPo/PweYPHXv+BPSYF0JadlokRB1yAYZMIfDumUE4Rc4PMF68w/b3BVEiXV84AuBBawulRz7pl5YuQZHfO2V5dqiIvG5UsX6CPtNtJIlVQYsJQ5YEkJIb2YEoSmCgPzlmtmtwdpM4JQVIPV5CM2FGQyTsp+bnwvS20pPAYMG8oSdpFDsH6udEjsX+h7XOus2t16zvblGwuI=;o5VnfWaDn4dcUIUYPGo59A=="
 ---

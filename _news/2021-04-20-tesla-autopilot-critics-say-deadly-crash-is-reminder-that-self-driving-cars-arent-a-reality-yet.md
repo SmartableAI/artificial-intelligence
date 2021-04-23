@@ -173,13 +173,13 @@ related:
   - title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
     excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
     publishedDateTime: 2021-04-23T00:32:00Z
-    webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    webUrl: "https://www.wcvb.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    ampWebUrl: "https://www.wcvb.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 54
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*"

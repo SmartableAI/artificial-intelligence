@@ -28,15 +28,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 7
-  - title: "Using Channel State Information for Physical Tamper Attack Detection in OFDM Systems: A Deep Learning Approach"
-    excerpt: "This letter proposes a deep learning approach to detect a change in the antenna orientation of transmitter or receiver as a physical tamper attack in OFDM systems using channel state information. We treat the physical tamper attack problem as a semi-supervised anomaly detection problem and utilize a deep convolutional autoencoder (DCAE) to tackle it."
-    publishedDateTime: 2021-04-18T11:15:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9403404"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 0
 
 secured: "4pQSAtnChJ5/Vyu0FjLJK5aaZpU6lXzKWKEnM/Si4SAdgCkfuaiSJarGIvkM6cRXrsuA170MqFY9gPOsWoix5X2Ull/SxPUjtA9iIp7DowYpRKMB28Dd39jmEJE9GeGp8eK9ukcMZxprXMyPHy5eUSDZNCoBbiktTqE82olyHp4QX7FoL+rtmz86WQVTdgKr0vU2AXg1GlnX7LS7a3ILW7t7rPE9bTdIvd/5z4pMhcTPIhkmv8E6B8qwYWIj/QrTQPF1oz77Blqg+kXm5/ofNdFrJ+j2yc4JfZHu7FFLO6nVsmDulXJ6zgl8pbClfyiGwDH9P0MLk54NgtqAIDjY/MoLboasOkyeISpJ/XYg2r8=;abG+ZVuW1GDOUKTe356Xnw=="
 ---

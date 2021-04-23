@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

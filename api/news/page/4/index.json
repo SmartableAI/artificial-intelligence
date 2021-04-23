@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-20-why-robots-just-cant-grow-good-weed.md",
+      "title": "Why Robots Just Can't Grow Good Weed",
+      "excerpt": "Cannabis farm production is at an all-time high, but it's unlikely that robots will take over the process anytime soon. The stereotypical weed farm is either a sprawling expanse of crop tended to by free-spirited stoners,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
+      "originalUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/feature/w/why-robots/why-robots-just-cant-grow-good-weed_xfx6.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
+      "publishedDateTime": "2021-04-20T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed.md",
       "title": "Artificial Intelligence In The Datacenter Means Power And Physical Structural Issues Must Be Addressed",
       "excerpt": "Understanding power consumption, to better extend the life of existing datacenters, and to improve both expansion of those and the development of new centers, is critical to helping AI be cost effective.",
@@ -1157,57 +1200,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
       "publishedDateTime": "2021-04-19T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ai-powered-shopping-app-the-yes-expands-plus-size-offering.md",
-      "title": "AI-Powered Shopping App, The Yes, Expands Plus-Size Offering",
-      "excerpt": "The Yes, an AI-powered fashion shopping app, is expanding its plus-size offering to nearly 40 size-inclusive fashion brands, including 11 Honoré, Misha Nonoo, Universal Standard, Levi’s, Madewell, Aritzia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
-      "originalUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de306e2e94a50b1c51836%2F0x0.jpg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
-      "publishedDateTime": "2021-04-19T14:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

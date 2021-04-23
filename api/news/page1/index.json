@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-23-artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.md",
+      "title": "Artificial intelligence helps identify new key-lock pairs against coronavirus",
+      "excerpt": "The human immune defense is based on the ability of white blood cells to accurately identify disease-causing pathogens and to initiate a defense reaction against them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210423/Artificial-intelligence-helps-identify-new-key-lock-pairs-against-coronavirus.aspx",
+      "publishedDateTime": "2021-04-22T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame.md",
+      "title": "Xiaomi Is Said to Mull Investing in AI Chipmaker Black Sesame",
+      "excerpt": "Mobile phone giant Xiaomi Corp. is among investors considering joining a funding round of at least 1.5 billion yuan ($231 million) for Black Sesame Technologies Inc., according to people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-23/xiaomi-is-said-to-mull-investing-in-ai-chipmaker-black-sesame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5.y9b1.0zKA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T19:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-the-challenges-of-applied-machine-learning.md",
       "title": "The challenges of applied machine learning",
       "excerpt": "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings.",
@@ -620,7 +714,7 @@
       "originalUrl": "https://venturebeat.com/2021/04/22/is-poor-data-quality-undermining-your-marketing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1148,99 +1242,6 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service.md",
-      "title": "Adobe adds new automation, AI capabilities to Experience Manager cloud service",
-      "excerpt": "Key updates include new Creative Cloud-powered content automation capabilities within AEM. Adobe has announced a new batch of capabilities for its Adobe Experience Manager (AEM) as a cloud service. Launched a year ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/",
-      "originalUrl": "https://www.zdnet.com/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-adds-new-automation-ai-capabilities-to-experience-manager-cloud-service/",
-      "publishedDateTime": "2021-04-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-9-investors-execs-and-founders-discuss-zagrebs-startup-potential.md",
-      "title": "9 investors, execs and founders discuss Zagreb’s startup potential",
-      "excerpt": "\"With the COVID-19 pandemic, it's easier to land remote jobs and stay in Zagreb, which will positively impact the Croatian startup ecosystem.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
-      "originalUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-513919973.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/9-investors-execs-and-founders-discuss-zagrebs-startup-potential/amp/",
-      "publishedDateTime": "2021-04-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

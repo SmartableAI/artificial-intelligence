@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-23T02:01:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/04/23/google-ethical-ai-groups-turmoil-began-long-before-public-unravelling"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2021/04/22/1123908.jpg"
@@ -56,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ksU9UmvL+a4Xk1XARhNyZvHq3baYXZoIYR/c+Um6JmiXbJ7znSRXgq6lAFb01qZg4r7phBBkkdsWj/yNTauPRKAYR25xE07hrIOylNfPad8rHuzFC3tNyIZOvfymJmMMlh6BDYZxHwt1WHf+dJGcgzJTldHpB97VPDf+jr8GbCLx++b00pZ4R3DHujs10fZ9cZBiE18pJjxkqV9t1NfX22PxXnZkfX5WDfRvUu20Amewg0u1kidotfTN2j/RZmCwbNkUMI1QOhhvKY2+HjPaKkSVIRFqPeFNZrIvzzQWQLueDXJ4yAV9h9hf1R1U8N+v6vzZ4tFmKFq7g+WFw3iiZlPqSBv4M7afvstPU4G+n/E=;847QiNShpA2gdngbAMwfjA=="
+secured: "6DqIb71w8d2IghYxvnuyPQO9XV4g6k4GeemUOxE6F+AGkJVe1mlQB4sJtbtGXCAQnC5iP8Wr1Hk/z1w/HL8yS/cu/NL2BUwUcP5mQv7eYanzygb7pnqsPrRI4E0IAp9TmIT7S84BPDrq3qa9niCjkUUOo3eV2SomSf43xExHZ79qWYeaOjT4JoEUfz1B8rCL2yefLsMDYfrqHVSBEiFD/gRf3MJuJ/b3pZ/nd4DFSI3oF28Qk1V+LrEXvOvl85JhWcGnxC32DqXbBgIbbky1tO/hgUDfZEDCn4/BEo5YVzgkZTDWVTVMrhMcAiG34fWy45pP74+BsGLp6be7AvxIH3PN6xXAG2NT5VFBlpjKn9P0SEWvx0P5fOigVh4+HtoE/6ZNi+UgCa48cnPGZvluo3oJhIZl16qEt3j+wgHNk1P695GvvLOg5nB1RmQ92u2nzdt3X9z5aZDldF1UrE0PiBx51uFx9RgpGbGcBYiXW1zamlhMNYpmAOb+DBBXOn63kqQonzql8u70LNy7AOn8Hg==;icioOG4QymOj4k7dh5pO9w=="
 ---
 
