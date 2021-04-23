@@ -132,6 +132,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning.md",
+      "title": "IIT Roorkee announces online certification programs in Data Science and Machine Learning",
+      "excerpt": "Indian Institute of Technology, IIT Roorkee, launches online certification programs in Data Science and Machine Learning. Prof. Ajit K. Chaturvedi, Director, IIT Roorkee announces this through a press release.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895",
+      "originalUrl": "https://www.timesnownews.com/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/Machine_Learning_and_AI.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/education/article/iit-roorkee-announces-online-certification-programs-in-data-science-and-machine-learning/746895",
+      "publishedDateTime": "2021-04-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-veoneer-radar-and-stereovision-aid-mercedes-eqs-hands-off-self-driving-tech.md",
       "title": "Veoneer radar and stereovision aid Mercedes EQS hands-off self-driving tech",
       "excerpt": "Automotive technology company Veoneer has supplied critical building blocks in the recently revealed Mercedes EQS, the all-electric sedan equipped to offer hands-off self-driving tech. The Mercedes EQS Drive Pilot system is an example of collaborative driving;",
@@ -318,6 +361,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-19-baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years.md",
+      "title": "Baidu expects to supply self-driving system to 1 million cars in 3-5 years",
+      "excerpt": "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp",
+      "publishedDateTime": "2021-04-18T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1114,103 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-amazon-microsoft-team-against-facial-recognition-lawsuits.md",
-      "title": "Amazon, Microsoft Team Against Facial Recognition Lawsuits",
-      "excerpt": "Cloud-computing and major tech company rivals Amazon and Microsoft have now teamed up to defend themselves against twin lawsuits that are challenging how the companies built their facial recognition software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
-      "originalUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG",
-          "width": 927,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/news/Amazon-Microsoft-Team-Against-Facial-Recognition-Lawsuits.html?AMP",
-      "publishedDateTime": "2021-04-16T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-nvidia-shares-up-11-this-week-on-new-supercomputing-chip.md",
-      "title": "Nvidia Shares Up 11% This Week On New Supercomputing Chip",
-      "excerpt": "Shares of graphics chip maker Nvidia (NASDAQ: NVDA) jumped 11% this week after the company announced its new Grace chip created specifically for artificial intelligence data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369592",
-      "originalUrl": "https://www.entrepreneur.com/article/369592",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-369592.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369592",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369592",
-      "publishedDateTime": "2021-04-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

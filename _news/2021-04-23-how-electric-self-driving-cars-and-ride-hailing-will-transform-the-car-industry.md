@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
 type: article
 quality: 84
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-927875630-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Volvo to provide cars for Didi Chuxing's self-driving test fleet"
-    excerpt: "Volvo will provide XC90 SUVs equipped with backup steering and braking systems that DiDi Autonomous Driving will integrate with Didi Gemini, its new self-driving hardware platform."
-    publishedDateTime: 2021-04-19T03:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/articleshow/82137395.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/amp_articleshow/82137395.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/amp_articleshow/82137395.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-67256,msid-82137457/volvo-logo.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Self-Driving Shuttles Find New Uses During Pandemic"
     excerpt: "Local governments found themselves with pressing needs during the pandemic, and pilot programs testing automated shuttles stepped up to help — for example, by delivering COVID-19 tests and meals."

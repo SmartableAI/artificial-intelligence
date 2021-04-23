@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Using AI and data to make decisions faster"
+    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
+    publishedDateTime: 2021-04-23T20:06:00Z
+    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
         isCached: true
   - title: "RIT researchers using drones and artificial intelligence to help assess crop growth"
     excerpt: "Researchers at Rochester Institute of Technology are exploring ways to use drones and artificial intelligence to help farmers and other users assess how well fields of crops are growing. The National Science Foundation awarded Guoyu Lu, an assistant ..."

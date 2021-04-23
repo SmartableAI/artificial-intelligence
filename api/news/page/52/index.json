@@ -2,6 +2,153 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-03-15-preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward.md",
+      "title": "Preventing bias in AI is hard. Bug bounties could point the way forward",
+      "excerpt": "Deborah Raji is researching ways to apply the models that underpin bug bounty programs to algorithmic harm detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "originalUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/facerecognitionistock-1180902227.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "publishedDateTime": "2021-03-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-three-steps-for-rethinking-how-to-operationalize-ai-in-2021.md",
+      "title": "Three Steps For Rethinking How To Operationalize AI In 2021",
+      "excerpt": "Operationalizing AI is all about how to take the small AI projects you've been experimenting with and applying them to real business problems by replicating them at speed and scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/15/three-steps-for-rethinking-how-to-operationalize-ai-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/15/three-steps-for-rethinking-how-to-operationalize-ai-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b9bcc7165ca2a45d6a644%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-israels-dreamed-yale-team-up-on-ai-diabetes-monitoring.md",
+      "title": "Israel's DreaMed, Yale team up on AI diabetes monitoring",
+      "excerpt": "Israeli medical software company DreaMed Diabetes said on Monday it was partnering with Yale New Haven Health System to use artificial intelligence (AI) in monitoring insulin and glucose levels in children with Type 1 diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
+      "originalUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
+      "publishedDateTime": "2021-03-15T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-eight-ways-companies-can-leverage-ai-in-content-marketing.md",
       "title": "Eight Ways Companies Can Leverage AI In Content Marketing",
       "excerpt": "While AI hasn't yet fully developed the creative intelligence to build content from scratch, it still offers enterprises a way to improve their content marketing. Insights generated from data as well as openly sourced information from the wider internet ...",
@@ -1015,134 +1162,6 @@
       "provider": {
         "name": "koreatimes.co.kr",
         "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills.md",
-      "title": "CBSE launches Artificial Intelligence community for students to enhance AI skills",
-      "excerpt": "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "publishedDateTime": "2021-03-14T00:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-tiktok-a-chinese-entrepreneurs-unfinished-search-for-global-recognition.md",
-      "title": "TikTok: A Chinese entrepreneur’s unfinished search for global recognition",
-      "excerpt": "Biden himself has described China as the “most serious competitor” to the US and has vowed to confront Beijing on various fronts, including human rights, intellectual property and economic speech. “The Biden administration has been clear that it will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/b0429a1c-f64c-4c8a-b4cb-0a1125339db3_ead8f5b4.jpg?itok=kVlaTEII&v=1615549481",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
-      "publishedDateTime": "2021-03-13T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-ai-natural-language-processing-and-the-battle-for-unstructured-data.md",
-      "title": "AI: Natural Language Processing and the Battle for Unstructured Data",
-      "excerpt": "Increasingly banks are turning to the field of natural language processing (NLP) and machine learning to extract valuable information from voice, documents, and audio to boost productivity on trading desks. It’s all part of a broader push to gain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
-      "originalUrl": "https://www.tradersmagazine.com/departments/buyside/ai-natural-language-processing-and-the-battle-for-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Traders Magazine",
-        "domain": "tradersmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

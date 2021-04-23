@@ -40,6 +40,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
+    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \" Ping An \" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
+    publishedDateTime: 2021-04-21T08:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Start-up Orca AI raises $13M in Series A funding"
     excerpt: "Autonomous marine navigation start-up Orca AI has raised $13 million in Series A funding, taking its total raised to over $15.5 million to support"
     publishedDateTime: 2021-04-21T12:13:00Z
@@ -54,15 +63,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
-    publishedDateTime: 2021-04-21T08:37:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210421cn50307/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 7
 
 secured: "vPOMYgiuYbnitqRVfTabj0nwKNdhVaevr3A8qyupi9swWzfGENXi1DJ10U79gcPCgQZUcm+NG5pv/r6kZBEmB+lv6P/JwGig422SzLnj2FQms+zIISs6A7qJea2+ttbORisv2NmHcl9w5aB86pZllZGW9GXy87bn+ZTOvZ43opm/EXsLP70FiQiDSpsUrMEXE8GaFOGfKSZcLIdoHDkjQmrs5mP5IwFOgOcaU7htjOvopOhDwmzye6IcbkW54bpryzjBaWMsxoH7AHYJ9Xiv4iWKwbumCGcZhCRO91pVD+aiEgndEkK6U2x4UP0S1DLkZMg2JoHV+f3JAso4AARri7ota3kVYFAury6YSZkqM/O2EVUe/SCgffDmNWuViiFF2tp4aJHURMRfRsDI7R+BDxd2hptMQxo31DbBY1DTAi8wAyORsyKwputFr4VwxzOE67dVuqhZwHzBC+gVs8kbcsn46V1KS2pV/J00klVlBJVx8enNM6V6STxkfmt0BWiH917RHEoKJsSuimYzeBDi8w==;e7Au/EtCNyLgB2nIM/XM2w=="
 ---

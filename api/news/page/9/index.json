@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-15-ibm-acquires-business-process-automation-startup-myinvenio.md",
+      "title": "IBM acquires business process automation startup MyInvenio",
+      "excerpt": "IBM has acquired MyInvenio, an enterprise process automation startup based in Reggio Emilia, Italy, for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
+      "originalUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
+      "publishedDateTime": "2021-04-15T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-ai-security-how-human-bias-limits-artificial-intelligence.md",
+      "title": "AI Security: How Human Bias Limits Artificial Intelligence",
+      "excerpt": "Looking at AI security from a social sciences side shows that it still has a long way to go. Sometimes, it needs to learn from humans. An expert weighs in.",
+      "sourceUrl": null,
+      "webUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
+      "originalUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hack",
+        "domain": "securityintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-ais-social-justice-problem-it-can-amplify-human-bias.md",
       "title": "AI's social justice problem: It can amplify human bias",
       "excerpt": "Coded Bias director Shalini Kantayya talked to CNET about the algorithms that are making life's most important decisions for us.",
@@ -1098,109 +1193,6 @@
         "Google AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-toyota-taps-apexai-for-its-autonomous-vehicle-operating-system.md",
-      "title": "Toyota taps Apex.AI for its autonomous vehicle operating system",
-      "excerpt": "Apex.AI, a startup founded by Bosch veterans and automated systems engineers Jan Becker and Dejan Pangercic, has spent four years rewriting the robot operating system that will give automakers the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/",
-      "originalUrl": "https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ApexAI_car-3-2.jpg?w=1024",
-          "width": 1024,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/toyota-taps-apex-ai-for-its-autonomous-vehicle-operating-system/amp/",
-      "publishedDateTime": "2021-04-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-jumpspeak-uses-ai-to-learn-spanish-the-old-fashioned-way-by-speaking-it.md",
-      "title": "Jumpspeak uses AI to learn Spanish the old-fashioned way — by speaking it",
-      "excerpt": "With their Jumpspeak Language app, this innovative new language training system from Rype utilizes AI-powered speaking lessons that helps Spanish language learners start speaking confidently from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/14/jumpspeak-uses-ai-to-learn-spanish-the-old-fashioned-way-by-speaking-it/",
-      "originalUrl": "https://venturebeat.com/2021/04/14/jumpspeak-uses-ai-to-learn-spanish-the-old-fashioned-way-by-speaking-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_208746_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/14/jumpspeak-uses-ai-to-learn-spanish-the-old-fashioned-way-by-speaking-it/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/14/jumpspeak-uses-ai-to-learn-spanish-the-old-fashioned-way-by-speaking-it/amp/",
-      "publishedDateTime": "2021-04-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

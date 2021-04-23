@@ -119,22 +119,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Volvo to provide cars for Didi Chuxing's self-driving test fleet"
-    excerpt: "Volvo will provide XC90 SUVs equipped with backup steering and braking systems that DiDi Autonomous Driving will integrate with Didi Gemini, its new self-driving hardware platform."
-    publishedDateTime: 2021-04-19T03:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/articleshow/82137395.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/amp_articleshow/82137395.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/volvo-to-provide-cars-for-didi-chuxings-self-driving-test-fleet/amp_articleshow/82137395.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-67256,msid-82137457/volvo-logo.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Self-driving cars coming to Maine in the future"
     excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
     publishedDateTime: 2021-04-19T08:37:00Z

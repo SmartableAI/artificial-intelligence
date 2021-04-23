@@ -2,6 +2,143 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-06-moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-technologies-for-improved-banking-services.md",
+      "title": "MOYI Collaborates with China Construction Bank New York Branch for Research Effort Focused on New Technologies for Improved Banking Services",
+      "excerpt": "In addition, for the financial institution and its treasury services, MOYI will develop a machine learning engine that will allow the bank to better price its various products. To learn more about the innovative services of MOYI, visit them online at https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/n20499620/moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/n20499620/moyi-collaborates-with-china-construction-bank-new-york-branch-for-research-effort-focused-on-new-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20499620",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20499620",
+      "publishedDateTime": "2021-04-06T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai.md",
+      "title": "AI observability startup Aporia nabs $5M to provide guardrails for AI",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Machine learning observability startup Aporia today emerged from stealth with $5 million in venture capital ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/06/ai-observability-startup-aporia-nabs-5m-to-provide-guardrails-for-ai/amp/",
+      "publishedDateTime": "2021-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future.md",
+      "title": "An Exciting, Surprisingly Imaginative, Techy Vision Of Telemedicine’s Future",
+      "excerpt": "Launched in September 2019, its goal is to develop novel medical inventions in the fields of imaging, nanomedicine, artificial intelligence, robotics, sensors, medical devices, and computer vision technologies that include virtual, augmented, and extended ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c4a648ed19cda3fd77be7%2F0x0.jpg",
+          "width": 1200,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2021/04/06/an-exciting-surprisingly-imaginative-techy-vision-of-telemedicines-future/amp/",
+      "publishedDateTime": "2021-04-06T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-softbank-snaps-up-28-billion-stake-in-norway-robotics-firm.md",
       "title": "SoftBank snaps up $2.8 billion stake in Norway robotics firm",
       "excerpt": "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ...",
@@ -1051,155 +1188,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-ai-and-hr-tech-three-critical-questions-leaders-need-to-support-diverse-teams.md",
-      "title": "AI And HR Tech: Three Critical Questions Leaders Need To Support Diverse Teams",
-      "excerpt": "The enormous leaps in technology and HR have created many opportunities for companies to rethink how they address processes around human resources. Services range from software identifying a candidate's employability through facial recognition and body ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/",
-      "originalUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b9459f02daa5d496302b6%2F0x0.jpg",
-          "width": 1200,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaheenajanjuhajivrajeurope/2021/04/05/ai-and-hr-tech-three-critical-questions-leaders-needs-for-diverse-teams/amp/",
-      "publishedDateTime": "2021-04-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience.md",
-      "title": "New Fantasy Feature Ups The Ante On The Masters Digital Experience",
-      "excerpt": "Aside from driving up fan engagement on the Masters digital platforms, IBM’s new fantasy game also serves to demonstrate the power of Big Blue’s hybrid cloud in action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b21a03f9b09bc331ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
-      "publishedDateTime": "2021-04-05T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
-      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
-      "excerpt": "Participants utilized Amazon SageMaker – a service used to build, train and deploy ML models for use cases – to build and train models for the event. During the finale, racers watched via livestream as their models, which were downloaded to AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "originalUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG",
-          "width": 1460,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Navy",
-        "domain": "navy.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-Roorkee Launches Online Certificate Courses in Data Science, Machine Learning, AI"
-    excerpt: "Roorkee has launched two online certificate programmes. The first course is data science and machine learning, and the second one is advanced machine learning and AI, both the courses are being offered on Coursera – an online learning platform."
-    publishedDateTime: 2021-04-19T03:14:00Z
-    webUrl: "https://www.news18.com/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
-    ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
-    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-roorkee-launches-online-certificate-courses-in-data-science-machine-learning-ai-3654170.html"
-    type: article
-    provider:
-      name: CNN-News18
-      domain: news18.com
-    quality: 67
-    images:
-      - url: "https://images.news18.com/ibnlive/uploads/2021/04/1618802036_neet3.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "IIT Roorkee announces online certification programs in Data Science and Machine Learning"
     excerpt: "Indian Institute of Technology, IIT Roorkee, launches online certification programs in Data Science and Machine Learning. Prof. Ajit K. Chaturvedi, Director, IIT Roorkee announces this through a press release."
     publishedDateTime: 2021-04-19T10:00:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://imgk.timesnownews.com/story/Machine_Learning_and_AI.png?tr=w-400,h-300,fo-auto"
         width: 400
         height: 300
+        isCached: true
+  - title: "Great Learning collaborates with MIT Professional Education to offer Applied Data Science Program"
+    excerpt: "Great Learning, a leading global ed-tech company for professional and higher education, announces the launch of MIT Professional Education’s Applied Data Science Program with curriculum developed and taught by MIT faculty,"
+    publishedDateTime: 2021-04-19T15:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-higher-education-professional-services-f09618cf983842d56029cf93cdfb36fa"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "c/YrImy4NGxfNaiUHLiOnMVl6cOsBDc2kQZrIe4tR7MmqoVp/lXTGFW0wx9UCtmR2cliY2l9kfmVQjAJR76/JDq+AhwxvYm4LwXtpgvpBemV5+6AArC9VKoLlt92KXH1o/rPZdDY+9H3tDWzASndr5WTEaLPyDb05aQks+a2byrySasRcsFPDDKCugoHAz92yZNiYH00yxh4h3SKpv+jG48wUxntHn0a4QqoCtmERsAb3UBdseznj84RJXmGVuzGtF7qeL8Rf2jABMnOKxd4SVka7jBGJr3Zx9TrYftHjJfF0jKGDXvgqM+Klb3wOgXC1PUWj0ROs3fMPDxRTBfi77jOR0w8M9tAg1fSyon25QSCXyr3lyUJDT42YD/eJcJMaog5smApGw6xvZ/9mc8r9Q68FPd330W1Zw55IMoCAbgBp1ViQ+hPWRzZHD4hi52pjZCt0Dw1Bqnjl0Ut2nl9KGAF4BlaBOosfPLcJvIfi6ehSmV5P4gbKr+w4jwK/8YM6Zo9IPzZMVSoYFkpYd4w3Q==;YC69myNRifHLpIjuDZSEEw=="

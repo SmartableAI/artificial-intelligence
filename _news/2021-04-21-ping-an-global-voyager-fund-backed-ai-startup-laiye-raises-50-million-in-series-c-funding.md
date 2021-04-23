@@ -1,20 +1,25 @@
 ---
 category: news
 title: "Ping An Global Voyager Fund-backed AI Startup Laiye Raises $50 Million in Series C+ Funding"
-excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \"Ping An\" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
-publishedDateTime: 2021-04-21T08:37:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210421cn50307/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210421cn50307/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding"
+excerpt: "Ping An Insurance (Group) Company of China, Ltd. (hereafter \" Ping An \" or \"the Group\", HKEx: 2318; SSE: 601318) is delighted to announce that Laiye, China's leader in intelligent automation, has raised $50 million in a Series C+ funding round co-led by the Ping An Global Voyager Fund and Shanghai Artificial Intelligence Industry Equity Investment Fund."
+publishedDateTime: 2021-04-21T08:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-global-voyager-fund-backed-ai-startup-laiye-raises-50-million-in-series-c-funding-1030327238"
 type: article
-quality: 7
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -63,6 +68,6 @@ related:
         height: 290
         isCached: true
 
-secured: "S8wViKZFLBNY2iEUDenGcCtFqVstRHgPTs/gvvD9Uoy0RoMJeSWTj1mDkjgKe7eu38sE2p7LaGGRUTu3FABvPYTliK+J8w8KyiJXKQ/w/r2bb5Pw3ViW0EHbuh95DVqXl3yqp+wY8fatslugZ2QM+ntbZBSl7jPGc1lLar9wZq2Zetmbr5vbTy0vOX61kBy+x6VnXtTJzWDme8CVul/kmgkh1onCzNLECwgxiPiramABF8zSZYXOPTvewofFpvdw/coasJObiYF5R6OcVDPUpiZl7XXRWfSOqlXw5UxwmMQli/o6R/dgpMI1oOYg9zts82E5+Qdw63CftKTWffv3dPfemxlhXncpDjQjR8rc6XY=;0K3CUTKHl3Eig9eINRGBgQ=="
+secured: "GFW0hkZIhYZCP27FG0Lu9IVm2SgBywdFQy+qUjGIFeo5Q4YMigsnkGHQRPX5puZzeTxeDdQsBDLQAfVfJsUNqZdRu82ZqEmetS5dJwieTwMUVue/+MKe5c8IQSFevlvYZVBxXKjZgFs4nkx2x2unmBVLsmSGntjLSJYepUrD5teoIC8rmhmxppsTPNUybdt2sEeGc+i0OiKQbawyv1WSINl8vsxAORkqiqyClorUMSwyHsrWDCEtenSjl4+IehE4RoMCcOD01DOCBYO4t90JC+PckbklyE5x7DDePgHtPE8w0X6XCkq9ur7kx10J4nELt4HkrNWLzVJMgiLyDWsTZmo7WvcXLllgXp+h2u+cTSk=;NDc2lEoONobelpMsAgiEnw=="
 ---
 

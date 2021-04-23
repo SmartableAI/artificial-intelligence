@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday. Li Zhenyu ..."
-    publishedDateTime: 2021-04-19T04:36:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-6786191.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Baidu-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
     excerpt: "The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should add to the bullish thesis."
     publishedDateTime: 2021-04-19T14:00:00Z
@@ -64,29 +48,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "AUTOSHOW-Baidu expects to supply self-driving system to 1 mln cars in 3-5 years"
-    excerpt: "Chinese technology giant Baidu Inc 9888.HK expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years,"
-    publishedDateTime: 2021-04-19T04:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/autoshow-baidu-expects-to-supply-self-driving-system-to-1-mln-cars-in-3-5-years-2021-04-19"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
-  - title: "Baidu expects to supply self-driving system to one million cars in three to five years"
-    excerpt: "Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on Monday.Li Zhenyu, senior corporate vice president at Baidu,"
-    publishedDateTime: 2021-04-19T04:24:00Z
-    webUrl: "https://www.theedgemarkets.com/article/baidu-expects-supply-selfdriving-system-one-million-cars-three-five-years"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 31
-    images:
-      - url: "https://assets.theedgemarkets.com/Baidu-headquartes-beijing-2_20210217160554_reuters_2.jpg?hrI3.OWrZA5yf6i_da_4CCo53dXesn15"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "China's Baidu Inc. Plans to Have its Apollo Autonomous Driving Technology Pre-installed in One Million Vehicles in 3 to 5 Years"
     excerpt: "During a presentation at Auto Shanghai 2021, China's Baidu Inc shared the latest upgrades to its Apollo autonomous driving platform, including plans to offer customizable versions to automakers for the commercialization of self-driving vehicles at scale."
     publishedDateTime: 2021-04-19T22:15:00Z

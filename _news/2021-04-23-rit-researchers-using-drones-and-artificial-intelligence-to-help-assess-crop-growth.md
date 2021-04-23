@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Using AI and data to make decisions faster"
+    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
+    publishedDateTime: 2021-04-23T20:06:00Z
+    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "BRfoSwweeQ9j84vpA3V4smBAecCpG5h10m0MMCZnFRjJSUQ49pJSawseHNmXLbxWFMd0bIsYcdqNW9BZkBP6uHiMkt0sxabQdGsMulSB8tXWsC2brAv7W5aLvsV3AL7VazsFTzQOKgZcksyMIWlcM25ka02JI+cCM+PyxAO67hljPfpzCUkmKs95RpeH9tR5FromPMk/6IAfnX9dJdIAUt6Gc/NL+o8G/Zp32ukyeksPHf6qS2lCDrghT2N3yZ9GtnRKAk+nCgczRXD3Jv1Ym7R7ydryyJJD/dtUW06ouIUlkmxQhlXCBF1FfiIKvE0cIcXDUucGKKnuc8lmxabevi1iigFsk+FE0aqxmVmY2Is=;shLpDaz0y3P+W/sqIZSZmA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/news/local/atlanta-using-facial-
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
+    excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area. “I’m going to sign up today,\" Thompson said. \"Absolutely! We do have a fenced yard, but you never know. They might see something and dig ..."
+    publishedDateTime: 2021-04-23T21:56:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 43
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/f19a10ca-7f5e-4a8b-8478-13d7f0991efb/f19a10ca-7f5e-4a8b-8478-13d7f0991efb_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Toledo Humane Society to use new pet facial recognition technology to help owners reunite with their lost pets"
     excerpt: "The human society has partnered with Petco Love for their new pet-finding program, which uses the pet facial recognition technology of the Petco Love database to make finding lost pets quicker and easier. Starting today, this tool will be accessible to ..."
     publishedDateTime: 2021-04-23T12:24:00Z
@@ -106,6 +122,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BVIk/tzwjKYYdU5PYEyH8VCKEKhR8LLFHFtGzB3RyUN3jjO/9UZH3R72DnCGak2vQYbniB0g4E8Ouha/Q4ySdpr8nMBwzuEA/0c2uCtTB4KdA4knaLw2XNz//C0Jjh6UQv2/lhDhzohQCxpK57U0MCT8b/ZohnfP/TM/l4wFBPZChxoMPDTuo6MyMq73ntMyQXCn3gDHwNePwmTvlhon1Y7fQZHpd7RsIAAmA5FJxzrPLZFuQUzrhfnI3MUHBvpMKmGfvXvndEaEfQVxk+KlEh6mk0u0Q4+5ubM4Deo8P5OU+HklfabJGT/OvJmM9zcFsPdQJY3DfsV6e2BQHwdFwRb4RraSRlVnMVWVjbQHS2g=;rWGJiWQWcjGWPDuoztDuNA=="
+secured: "bZMuzZJA2wigjnf9rnsveNzz9OXqNBYFEqDzXm/lFiKziZoX0Y4STpHTcBl7LcOEdAPelvS66fd1mp5Ssu14O02FQDlGD9s9H8rJ0dqSqpfIx59mtJz/cW6Kxvag0NYMF3uVzQtWZ9Aj3NLKY41o232mxHvJRk8kdL+5AUklsIFDWbhVIVR1qj3kaHNN4eAhFDBQzi/6522xYBSfrbzuodUn+m+mjiybXW2zFdXI9Tq4kDKDFpZELQxJ15B3Z9YJwBjI5lRdldWPWnDdfJx8cS2SaFMYUXggJxStb+s1tGSmewdkD3PY8U7oUFYLKynALx6wcAujza8hmj2E2rwZWkkrNHlV7wm726ZWhSBDHpICerWsjigjz35RQOhBCLMWN6Yo5x4iX8LmSi9nt+sT4kN9YwMg2twnVta8V4dd1pT0Z7CUN2vJLv5GlGcuFLMxTIG6OkkpPnJ7eB/l1JXUAXirZdWjyPnlsEwZ5K4rn/ODRRJC20IqSs/WsGm0thbwOpglJ4vvGH0TzzEjcm/2Ig==;TafW0jJx6jVcR2Gnmov6vQ=="
 ---
 

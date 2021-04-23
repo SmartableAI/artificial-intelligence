@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-preparing-self-driving-cars-for-towns-and-cities.md",
+      "title": "Preparing self-driving cars for towns and cities",
+      "excerpt": "Focus Areas Artificial Intelligence Use cases Program line 1: Safe autonomous systems in an open world Decision making in autonomous driving Busy intersections are hard enough for people to cope with. So how do we ensure that self-driving cars can safely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tno.nl/en/focus-areas/artificial-intelligence/use-cases/safe-autonomous-systems/decision-making-in-autonomous-driving/",
+      "originalUrl": "https://www.tno.nl/en/focus-areas/artificial-intelligence/use-cases/safe-autonomous-systems/decision-making-in-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tno.nl/images/social-share-logo.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TNO",
+        "domain": "www.tno.nl",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-book-review-convergence-of-self-driving-cars-ride-sharing-service-will-bring-urban-transformation.md",
+      "title": "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation",
+      "excerpt": "In the present day, the automotive industry has turned its attention to self-driving cars as its near ... companies including Google, Uber and Baidu are in a fierce competition to gain the lead ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/art/2021/03/142_306295.html?fl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg",
+          "width": 980,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295",
+      "publishedDateTime": "2021-03-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-loop-upgrades-baidu-on-valuation-autonomous-vehicles.md",
       "title": "Loop upgrades Baidu on valuation, autonomous vehicles",
       "excerpt": "Just closed my BIDU Bull Put Spread for 90% profit in just 2 trading days - this trade has gone perfectly well! Still own the Bull Call Spreads and the stocks. Stocks are up +19% in just 2 days ...",
@@ -1283,101 +1369,6 @@
       "provider": {
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps.md",
-      "title": "Baidu CEO Engineers $66 Billion Comeback After Repeated Missteps",
-      "excerpt": "In January, Baidu unveiled a new venture with Zhejiang Geely Holding Group that will produce smart EVs, prompting analysts to revalue the tech giant’s eight-year-old Apollo unit, whose self-driving software had drawn tepid interest from automakers in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQVSnXXBLHg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep.md",
-      "title": "Online to In Your Hands: Shipping Technology That Helps Deliver Products to Your Doorstep",
-      "excerpt": "This route mapping platform is usually also complemented by artificial intelligence (AI) driven fleet management ... hybrid fuel options for their final mile, but in 202,1 UPS, Waymo, and Amazon will be rolling out their fully electric vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
-      "originalUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techspective.net/wp-content/uploads/2021/03/pexels-artem-podrez-5025668-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
-      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/03/22/online-to-in-your-hands-shipping-technology-that-helps-deliver-products-to-your-doorstep/amp/",
-      "publishedDateTime": "2021-03-22T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techspective.net",
-        "domain": "techspective.net",
         "images": null,
         "publishers": null,
         "authors": null

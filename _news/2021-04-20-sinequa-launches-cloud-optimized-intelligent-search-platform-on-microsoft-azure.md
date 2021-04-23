@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-publishedDateTime: 2021-04-20T12:57:00Z
-originalUrl: "https://www.financialbuzz.com/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure/"
-webUrl: "https://www.financialbuzz.com/sinequa-launches-cloud-optimized-intelligent-search-platform-on-microsoft-azure/"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+publishedDateTime: 2021-04-20T16:57:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -147,6 +147,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "8eDxKsLwna34B3GVRAjr9EjFxtA/1pKdWZ3ylSsli1EHiPninH1zv6FY0tWnoNkR0SO2VT0cnNxuPS+d5MIOsdy7iIGJujRPmVVWRmNIAvMa77kG54nZcOsL1xq2o6LXhI5Y18M7K3Mj8AdJcx6N2edXHSbcT2Ixg1E6rwXbSu83cEMU6nMdzxHSPmwY8S8v2c581eNUpwn32zHhVQ3X4jchaeHbSeczThK7OdpZFGy7cZduRLc3Ci4D7z0mKsJyhzyorhsTJGpLn1vRzU/e7X7pKeu97mf+d5siTHhxwB617Pm9CnML9Z4C1eNwrSBL+0JejIRLr1OvQErX0rJYAYLb5zr06ps3cpiwAD4WPwE=;O05TXjr5oXrBMhathQvJZQ=="
+secured: "97hiqHaMIImhW2hBUqp+LGLq5MWHvSNCX4o3fNHKa61fmup/vroMPD1Y/8OIRYzX0zE3qwXBQgjwDkZBrhdJ+Zc3Nq6YJwh9tjBQSbuKMN+9oNPhkETcgGlR0aBXFponBFRML0axFtklHEoVX2UVEw+cx3dQ/XSyeboLGwn1SHMYGjpmlrij0So0/9LeHGWBsbes/r8RctOkFNM51PfijsVuG/jVzq+bICJ6A+ms2uBXMaPIRWCcDCg68t8cAw25DDaJJ1rDpb7icxWzvw7pK89BjVNqXHI6jJIIdFuyqXYCSIU5z2uibKCABfW34RCjA7VY33cgBy5brwproblupt2VItYgkJG7tN9Mr0sgJbs=;Z4GoEOSeubeOu9jt8E9jsg=="
 ---
 

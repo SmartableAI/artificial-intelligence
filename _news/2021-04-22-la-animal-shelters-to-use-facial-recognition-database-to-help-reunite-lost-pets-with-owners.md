@@ -75,6 +75,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
+    excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area. “I’m going to sign up today,\" Thompson said. \"Absolutely! We do have a fenced yard, but you never know. They might see something and dig ..."
+    publishedDateTime: 2021-04-23T21:56:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 43
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/f19a10ca-7f5e-4a8b-8478-13d7f0991efb/f19a10ca-7f5e-4a8b-8478-13d7f0991efb_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Toledo Humane Society to use new pet facial recognition technology to help owners reunite with their lost pets"
     excerpt: "The human society has partnered with Petco Love for their new pet-finding program, which uses the pet facial recognition technology of the Petco Love database to make finding lost pets quicker and easier. Starting today, this tool will be accessible to ..."
     publishedDateTime: 2021-04-23T12:24:00Z

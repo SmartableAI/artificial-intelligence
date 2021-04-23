@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
 type: article
 quality: 104
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
         width: 1196
         height: 748
-        isCached: true
-  - title: "59 and 69-year-old men dead after self-driving Tesla crash, authorities said"
-    excerpt: "The Tesla's high-energy batteries on board continued to reignite as firefighters tried to get to the two people inside."
-    publishedDateTime: 2021-04-19T03:17:00Z
-    webUrl: "https://abc13.com/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
-    ampWebUrl: "https://abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/tesla-crash-battery-fire-driverless-2-killed-in/10525148/"
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 71
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10526899_041821-ktrk-tesla-folo-roxie-moriah-vid.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
     excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."

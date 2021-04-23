@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-16-scientists-working-on-continual-learning-to-overcome-catastrophic-forgetting.md",
+      "title": "Scientists Working on Continual Learning to Overcome ‘Catastrophic Forgetting’",
+      "excerpt": "Research into continual learning for AI aims to overcome the ‘catastrophic forgetting’ of previously learned information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aitrends.com/ai-research/scientists-working-on-continual-learning-to-overcome-catastrophic-forgetting/",
+      "originalUrl": "https://www.aitrends.com/ai-research/scientists-working-on-continual-learning-to-overcome-catastrophic-forgetting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aitrends.com/wp-content/uploads/2021/04/4-16ContinuousLearning-2.jpeg",
+          "width": 550,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aitrends",
+        "domain": "aitrends.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-16-self-driving-truck-startup-tusimple-raises-135-billion-in-nasdaq-ipo.md",
+      "title": "Self-Driving Truck Startup TuSimple Raises $1.35 Billion In Nasdaq IPO",
+      "excerpt": "Self-driving truck startup TuSimple rang the opening bell on Wall Street Thursday (April 15) after raising $1.35 billion in an initial public offering (IPO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/",
+      "originalUrl": "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/TuSimple-autonomous-truck-IPO-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/self-driving-truck-startup-tusimple-raises-1-35-billion-in-nasdaq-ipo/amp/",
+      "publishedDateTime": "2021-04-15T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-meps-call-for-european-ai-rules-to-ban-biometric-surveillance-in-public.md",
       "title": "MEPs call for European AI rules to ban biometric surveillance in public",
       "excerpt": "A cross-party group of 40 MEPs in the European parliament has called on the Commission to strengthen an incoming legislative proposal on artificial intelligence to include an outright ban on the use of facial recognition and other forms of biometric surveillance in public places.",
@@ -1095,101 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-ibm-acquires-business-process-automation-startup-myinvenio.md",
-      "title": "IBM acquires business process automation startup MyInvenio",
-      "excerpt": "IBM has acquired MyInvenio, an enterprise process automation startup based in Reggio Emilia, Italy, for an undisclosed sum.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
-      "originalUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/15/ibm-acquires-business-process-automation-startup-myinvenio/amp/",
-      "publishedDateTime": "2021-04-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-ai-security-how-human-bias-limits-artificial-intelligence.md",
-      "title": "AI Security: How Human Bias Limits Artificial Intelligence",
-      "excerpt": "Looking at AI security from a social sciences side shows that it still has a long way to go. Sometimes, it needs to learn from humans. An expert weighs in.",
-      "sourceUrl": null,
-      "webUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
-      "originalUrl": "https://securityintelligence.com/articles/ai-security-human-bias-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityintelligence.com/wp-content/uploads/2021/04/AI-Security.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hack",
-        "domain": "securityintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI Ethics"
       ]
     }
   ],

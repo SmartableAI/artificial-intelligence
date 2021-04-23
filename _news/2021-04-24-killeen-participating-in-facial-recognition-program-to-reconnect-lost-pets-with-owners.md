@@ -89,6 +89,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
+    excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area. “I’m going to sign up today,\" Thompson said. \"Absolutely! We do have a fenced yard, but you never know. They might see something and dig ..."
+    publishedDateTime: 2021-04-23T21:56:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/local/jacksonville-humane-society-takes-part-in-launch-of-national-lost-pet-database-using-facial-recognition-local/77-fff0659c-7c34-44f2-ba18-dee99ba4bb05"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 43
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/f19a10ca-7f5e-4a8b-8478-13d7f0991efb/f19a10ca-7f5e-4a8b-8478-13d7f0991efb_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Toledo Humane Society to use new pet facial recognition technology to help owners reunite with their lost pets"
     excerpt: "The human society has partnered with Petco Love for their new pet-finding program, which uses the pet facial recognition technology of the Petco Love database to make finding lost pets quicker and easier. Starting today, this tool will be accessible to ..."
     publishedDateTime: 2021-04-23T12:24:00Z
@@ -106,6 +122,6 @@ related:
         height: 641
         isCached: true
 
-secured: "OXNCF7vLXEidjiWDOrqZdGMn8vkXkZzWSjtKYXB4qKHLirOxXLaxbIqloB7cK6Q7MAngqIIwnN8a+b/nLDUiH2kHM86lwtXSPQgNmLVmKtz9dwZ8PxptqlZOjP1/tfltPuBcKSvIJkoEmFttJkAqYAcEEhCvnVEwwyltR2Iawk7rPRppeTYO7SJlHNFBUesrlIQGpG8QIafVqvbfrBkKtaMkJbrL7pZq5Ra0MZePdE2b8b0JvHtW5VdBR36DK3b+GyCjQwCJkqqL/gmirgZnbQSS55589r12uf0jGs9eJ/V5zDXr2/xC3LAy8J4f7d9h9XlPhtpgjjG0xEdMIQ32tFolXXpRQKE3/gTC/jvjsQ0=;QE6jl06ERFb0+GmCF66qVw=="
+secured: "6pZVqnaPRBnWuX5jXYYOwOlQAYox7Jxu8jhTJYLKYZ2yXMbNEMMnax/VV4VExoDJB02LZ2iEKX8lvYLXlzwchikcz3/GY3LO0dpl9ZbGGhvT3kmWaGZclv02Me5SvjVhH6wlNSsNHdKALDoN0TH5062DLmcfdUTf1/SNvt2AswYZ4LAOq60Xi8j/py9Nnj3zd9LmfDzU11DkEmiRQs+1fCb/JfdWPA7TgVxyyV5UtHjFJBx0iHflbIq/sUEzmgYd0pvMM91EAC16fy9V4VHcNnO1UWDxTEAQn05r6nVgIwSII2qZfgsxk99UhQN0a3SpTS04s3f0CkKTJ8Z4pZKJzl9tRnKecbLhWB5KavSyLJZgnHWpqrKZ47cVpMrX5RVM/fJA5o3cFPh/VlqlPvSnVY8rR79XhI3x+T8JIhLI+UeDOmg5E5U8Lrpd74JgGS9Q+SpxWrXq2qRAzAuVOWKTf2I1NZ3OSN8Y1VyshJk0fuQLKav+72Wm+PM4vpdj3PY2YQe4rOAiZpe5db9lLeYUhQ==;x0wZuYA4iisnosA9Pfd9dA=="
 ---
 
