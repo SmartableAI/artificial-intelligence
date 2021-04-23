@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is Transforming Risk Management"
-    excerpt: "By Eileen Shaiyen Enterprise-wide Risk Management (ERM) is the holistic approach to managing an organization’s upside and downside risks towards meeting its objectives. Its primary aim is to"
-    publishedDateTime: 2021-04-21T23:49:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 57
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/872fc9ad-screen-shot-2021-04-21-at-11.35.02-pm.png"
-        width: 802
-        height: 600
-        isCached: true
   - title: "Transforming Business: A poll of international business leaders shows cloud, AI, talent, and smart mobility are top innovation investments"
     excerpt: "A poll of international business decision-makers reveals that AI, cloud, and smart mobility are top areas for innovation investment. Companies are also setting ESG goals, particularly around greenhouse gas emissions and water consumption."
     publishedDateTime: 2021-04-19T14:06:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.moneyshow.com/articles/dailyguru-56474/"
 webUrl: "https://www.moneyshow.com/articles/dailyguru-56474/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: MoneyShow.com
@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, robotics new heights in healthcare"
-    excerpt: "Artificial Intelligence (AI) and robotics are used in transforming the world of the health industry and also offer an awesome strategy with much care. It puts the customers in control of the health and also the well-being."
-    publishedDateTime: 2021-04-18T18:33:00Z
-    webUrl: "https://www.dailypioneer.com/2021/state-editions/artificial-intelligence--robotics-new-heights-in-healthcare.html"
+  - title: "Worldwide Quantified Self in Healthcare Industry to 2026 - Featuring Medtronic, Cisco Systems and IBM Among Others"
+    excerpt: "The \"Quantified Self in Healthcare Market by Technology, Devices and Applications 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-04-22T20:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/worldwide-quantified-self-in-healthcare-industry-to-2026---featuring-medtronic-cisco-systems-and/article_aaeff592-01ba-5678-8f6e-4ff50e2506b3.html"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 86
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 17
     images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
-  - title: "AI Augmentation in Healthcare and Life Sciences"
-    excerpt: "The use cases for augmentative AI are expanding, and the Healthcare and Life Science industry is tapping into it’s potential."
-    publishedDateTime: 2021-04-19T16:00:00Z
-    webUrl: "https://www.cio.com/article/3615462/ai-augmentation-in-healthcare-and-life-sciences.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/04/linked-neurons_4-19-21-post-100885228-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "UP6tdWFiPNUmGzlqMFR/a23lNqGMSwDKs7y0RTNoC06C8RCP1HoQZjrXftneaHRn5co5lVTRS4qUXrjd7zfBRZal8Mm/6e/iTAmfBDAGiLKHw72j13G2GfYIxwUVpTvB8IMf2/e5zZjpaOBFtOs7uYBkjGSVAyV1f+2va4TafU+d9e0Q8NBAqhIOn4KUCaiFm/YKp3MrulQcVdZQ6dWSANcuer2pF8WJS9i7uw7e+PrdcgFUVOncxRduxM3LTE7Pf9RZQC3aoZlCwlZfG4DOsRshcokFZTqMoFlkgyBOKbEL3xUPEpvj1oNX71CpZeDRbIxlLwQ/GyinupGzUbM+4KtCg1XNCj+ShkNseh2umMI=;meH1juHdDIIQscTi+fnOVw=="
+secured: "ai2RUswDt5MChOjUopnyqbuvuUyeSHOOt6bBKmsqbvtP3rycd0197uI16D5+/XX5IpYIxx+6dKhx+TDHTE6cVWl4WOtydG8DoF2VMOV+PIEoaC9MCkVkalYhGR0EkhM4D86VslBQsCpVlEHnCKTrfpYRrm9KJEpekcax8n/NPTB/54AMQiSmdJBEF0/ozL2TlsYE4CS/AXRrZggjmiR4IKyShHRohLE2YSZTdvzWn+geeYpb2x/i6BU+VUMy5NDAKxSjyAI6qi2NOZorqM/ifsR5SmUhOEE3xQRD9jmVKsRgbVMYgGci4bbtHyX9nI0TpJKJ2i3CmfDP3Y3LAnfUMQP/dX93JomQCuQe6mM23xKvGJagxoact8b9Ov5rYVILqWTu0lMkOHHjQqPpdrAUmmRQmkplwVthmTyarTL7ZwLMc5Y7Xgp5Gg8CmnHUVf+oJunNQj4d1HFTFe7WjK88rYV7uA0B7NLAMHveexrSPI/Mfhirp3Jh9g/PjLUCyQYv/PWFEe/q0Nx9fxl28ci2fg==;cUTrqDkRz8AznjbS/kqxgw=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Artificial Intelligence is Transforming Risk Management"
-    excerpt: "By Eileen Shaiyen Enterprise-wide Risk Management (ERM) is the holistic approach to managing an organization’s upside and downside risks towards meeting its objectives. Its primary aim is to"
-    publishedDateTime: 2021-04-21T23:49:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/22/how-artificial-intelligence-is-transforming-risk-management/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 57
-    images:
-      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/872fc9ad-screen-shot-2021-04-21-at-11.35.02-pm.png"
-        width: 802
-        height: 600
-        isCached: true
   - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
     excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
     publishedDateTime: 2021-04-20T12:50:00Z

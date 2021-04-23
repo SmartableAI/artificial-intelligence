@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Robotics Industry to 2026 - Featuring Sony, Midea and Honda Motor Among Others"
-    excerpt: "The \"Global Robotics Market, By Component (Hardware and Software), By Type (Articulated, Cartesian, SCARA, Cylindrical and"
-    publishedDateTime: 2021-04-21T09:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/g20720203/worldwide-robotics-industry-to-2026-featuring-sony-midea-and-honda-motor-among-others"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20720203"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20720203"
+  - title: "Medtronic: Healthcare and Robotics"
+    excerpt: "In February 2020, Medtronic acquired Digital Surgery, a London-based provider of artificial intelligence-driven surgical data and analytics. This allowed Medtronic to strengthen its offerings related to surgical robots. The move paid off for the company ..."
+    publishedDateTime: 2021-04-23T09:03:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-56474/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 71
+    images:
+      - url: "https://cdn.moneyshow.com/mscache/event-img/twms21_305x321.jpg"
+        width: 305
+        height: 321
+        isCached: true
 
 secured: "v2rnATL6LJftB8SSzKdlMzO+zgfmt0ZoKMfNVCBCxfv4f6PdDrbOm6tZj7gtMgXbcgjkmgGAoDnJ+4AhjobSpu3Ep6lH6AamWt3HhwBrORXnylyA+QoWe65U0+nDan+ghLW9slmn7Sk64w2O3k+wE/fvx+fGppAQX2vXrGyOsvvdUWGI9gedW0jL53kFIXraMNYmSS6kHx0vTePai1QIUPwACDbj+R5pNqJq+kv9TfFfJMvYySK7TPxk9SDMfwmoZCGcujsiFPrmo/fS28jlU9VizCk5Qi4ksOURsZ+ZAeH47Pw9Z6denKfyLCMpnxiyTKNb0WpbKm0FdiPBjOIYCuMx/d1hW4F8ZqkYc/OQKv0=;ifwKgBCdHA/tSPTTzvrAKA=="
 ---

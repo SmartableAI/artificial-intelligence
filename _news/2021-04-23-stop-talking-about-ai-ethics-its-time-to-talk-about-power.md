@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas
 ampWebUrl: "https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/Atlas-of-AI_-illustrations-1-2.jpg?w=3000"
@@ -27,6 +28,6 @@ images:
     height: 1687
     isCached: true
 
-secured: "zJWl9a97CJRQii2uf3t2DDN2aF3Gc9mfEzgSSjdAvqA/bch9X96J9tx3gMJ/WQTj3bGzkgLq8RgrAYcdp9Ymw6qggW+TDKHYIyyaKLI4+bvoZazP6nZ/D7dyqwPIS+/M2wKfl2NzI/bwQOlvL6njh2Vf/9keeBRo+ga9xvtuzwQ8n7cBzubtes2FpGq976xC++zVfDsQ5dlicGfU54SQ5N2WT0DbiwBtozMzVkoyEwleLcqj1h3g5jVFYBCOgPWVkoWqZRpAESQkKsCzvd5Zz8HSZO4kj1yOXR/ZCxnuyLyv7BaJjwJ85TsPRL8danHfYu1MwU3FLo+yHM1ADLXZFJBEdyeQf4A2BGJEU7g5EXA=;FKVDqT7SbdvWP0K2sWt+kg=="
+secured: "EDUBNBv/MZmzn/hI5FVCJlrT6D2rLiNHA8SCEebPleRr9tvXWkLPPYs1dcE+k3NuCYfjYKPPwCXzztmkcEDg2seaFRhVsbsZyLFYiyv2XN7hPQDFhViU78qg7daOvvVjUC3eXAX1qlqYWqbAxbR5MYIEsBIZh4mWp7abGxL8ZUTowUOA0tn0havesMauYbPpbBiI76y4aTt6n7Q/vLP8MGuZ+f7g6zRwRnUQJF3jzqWfA0B7muLoRtQ1hojDhbK4EtQCv8IFt7YXuKJwfmAZlVa8h+4lTZTR+VyuyruaguGkz2ZLoX8ZwHgSaGUY6+LUmjXMUkFnStdntGdIwuSdfMxmmpC9bGBjDYLApIX4DPG+GiucImabGjRgE8ZECvaoFuJlof3+Iebl+kGHMRldckpkNWaCkawp87Nm4PK3yFuZcT0GjclTyZXsSgCVkEs/s4gUV5/vCIpQPza+4dKv6BoTc9Tk847sb/PyQbUt3S/p7YHi7uheChvGPHQRbT0Hnax53zrL4G4evNhmSsJ51w==;16vvVqqQVrKlPW/d9UnqUA=="
 ---
 

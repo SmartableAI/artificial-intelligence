@@ -7,7 +7,7 @@ originalUrl: "https://www.hostreview.com/blog/210419-5-powerful-ways-ai-is-impac
 webUrl: "https://www.hostreview.com/blog/210419-5-powerful-ways-ai-is-impacting-the-web-hosting-industry"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "3 Ways Artificial Intelligence Is Changing Our World"
-    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
-    publishedDateTime: 2021-04-19T10:03:00Z
-    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 39
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
-        width: 750
-        height: 468
-        isCached: true
 
 secured: "9j02TlkJxNYM2eJKxe+6bc+FA5oLFoxIgDoKj6dsw7CIyRTSHv62maHjcwJsFxg9DWW4XpOWKN1lVbdJPzsrtHwYB3uFOb7Agx2N5w6MrnagOpfeub4E957CCv7YZ70B58ywAb3IlxGrn4XItzY2R2fSUSpkN9KQKEOue9Q0Jcy8sSyJI5HNRS1o06NQSq2LfUFGQ5X407HhYedJ5ujgML+4hcETrqBIGUZlUDvrLi6ZY1IvmmzW8+2dksPrPu8udF86Ltol3iigKT97ivSfxvMZm/AqYzPJMfYBD+VSCBEaOdK1svr/hVObmyCvEtnxc7RNVAj0V+uk5ysBcHFQx5TNGdTZhHdDTYOAqD2jVfE=;zcU0inhMbYzRqijfzTuZFg=="
 ---

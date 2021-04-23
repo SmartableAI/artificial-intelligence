@@ -15,6 +15,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"

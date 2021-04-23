@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The global AI in medical diagnostics market is projected to reach USD 3,868 million by 2025 from USD 505 million in 2020, at a CAGR of 50.2%"
+    excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2021 GlobeNewswire, Inc. All rights reserved. The MarketWatch ..."
+    publishedDateTime: 2021-04-23T11:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-ai-in-medical-diagnostics-market-is-projected-to-reach-usd-3868-million-by-2025-from-usd-505-million-in-2020-at-a-cagr-of-502-2021-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "W4XnYk7dt7udz56lJUDu/vyQDot1PC10obs2yhGYSViXscdqpfSYQcE88uTQPMCnOZuUE0yJmShNUv672uw4tmoBOVhKG1ws0jKjQwpwvm/troQKm5vlbTGYAO5b3Zo71VbOIqESbqLc2i3oQnJ7jc2t4gng8lWrJen9zv+MYm4PXltavzfO9/CbX+yPxgHQUxm6t8Lho1gN/i/jSkqvUvAxYNN148cuFiRZMy3PfrD1o7/dN3Pd9QPlqijcqzOeDPy1Py74JYeVk34GaHF2rHFAF8iOPiiIA5dSm5pYO/PMvFTO3vcca0VHQwjv5cnLJ7LgylsoCIm/2iFU3f1z80dmNMacB1TvOtDdACVQaUvWXKINgHJO/jbnKr0VNLcYGbLiAjE6XcNagA3DtFjKrhzwQlj+VE71IvsUKvGuqYRNA2lGG0ay7GTJF0UpklrOXXm2qGHE2TWeT+JyidUFrokTWBVp3vt+Vl0wuL4qyuWn+8ylA3xVz2hqMpVhJhdKOkIQl0z3QNsOY1ZbHwqfdg==;CLZ6cXEL+WCkz4SgBUPs3g=="
 ---

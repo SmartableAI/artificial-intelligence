@@ -46,6 +46,22 @@ related:
         width: 563
         height: 423
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market"
+    excerpt: "A new business intelligence report released by HTF MI with title \"Artificial Intelligence (AI) in Insurance - Thematic Research\" is designed covering micro level of analysis by manufacturers and key business segments. The Artificial Intelligence (AI ..."
+    publishedDateTime: 2021-04-23T10:33:00Z
+    webUrl: "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    ampWebUrl: "https://www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/4/U423807235_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
     excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
     publishedDateTime: 2021-04-21T12:11:00Z

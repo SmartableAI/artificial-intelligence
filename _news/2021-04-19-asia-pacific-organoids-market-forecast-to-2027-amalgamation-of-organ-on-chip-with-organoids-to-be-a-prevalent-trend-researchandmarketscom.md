@@ -41,6 +41,22 @@ related:
         width: 563
         height: 423
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market"
+    excerpt: "A new business intelligence report released by HTF MI with title \"Artificial Intelligence (AI) in Insurance - Thematic Research\" is designed covering micro level of analysis by manufacturers and key business segments. The Artificial Intelligence (AI ..."
+    publishedDateTime: 2021-04-23T10:33:00Z
+    webUrl: "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    ampWebUrl: "https://www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
+    images:
+      - url: "https://cdn.openpr.com/U/4/U423807235_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence (AI) in Education Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
     excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
     publishedDateTime: 2021-04-19T18:37:00Z
