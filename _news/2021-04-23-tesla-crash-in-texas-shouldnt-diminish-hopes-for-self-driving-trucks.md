@@ -2,9 +2,9 @@
 category: news
 title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
 excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
-publishedDateTime: 2021-04-23T12:48:00Z
-originalUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-in-light-of-fatal-tesla-crash-in-texas"
-webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-in-light-of-fatal-tesla-crash-in-texas"
+publishedDateTime: 2021-04-23T14:13:00Z
+originalUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
+webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
 type: article
 quality: 39
 heat: -1
@@ -200,20 +200,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "2 Dead After Self-Driving Tesla Crashes Into Tree, Bursts Into Flames"
-    excerpt: "Two men have died after a self-driving Tesla crashed into a tree late Saturday in the Houston suburb of Spring. Authorities told Houston's NBC affiliate KPRC that an investigation showed that no one was driving the electric 2019 Tesla Model S."
-    publishedDateTime: 2021-04-18T21:17:00Z
-    webUrl: "https://www.ibtimes.com/2-dead-after-self-driving-tesla-crashes-tree-bursts-flames-3183036"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/02/tesla-plans-a-massive-recall-of-model-s.jpg"
-        width: 1024
-        height: 666
-        isCached: true
   - title: "2 killed in self-driving Tesla crash in Texas"
     excerpt: "The crash killed two people in Spring, Texas."
     publishedDateTime: 2021-04-19T16:17:00Z
@@ -227,20 +213,6 @@ related:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Two die in self-driving Tesla car crash in Texas"
-    excerpt: "Police officers investigating a traffic accident in Texas say a car careered from a curve and crashed into a tree, bursting into flames and killing a man in the passenger seat and another in the back"
-    publishedDateTime: 2021-04-18T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/two-die-in-self-driving-tesla-car-crash-in-texas-6933kphcj"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3e3b9d1c-a094-11eb-b457-728758ee7665.jpg?crop=411%2C231%2C114%2C35&resize=685"
-        width: 411
-        height: 231
         isCached: true
   - title: "Two men dead after Tesla crashes while in self-driving mode"
     excerpt: "Two men were killed in a fiery crash involving a self-driving tesla in Texas Saturday night."
@@ -333,6 +305,6 @@ related:
       domain: indystar.com
     quality: 6
 
-secured: "pBErol9E03RYgfvq+VelXZOWFMiC7+2Y9cHt203ZuIhtZYAzToCBZH76DnqmBMMLpW/bzitRT+lrtZ5yJJCuq+sSJ15choRtjVEhmpv+1eOU29Mrdba5BksdSGKpOWECwcVmOpEnAzpJUJKSxyDUdk3B7IYkePyqFkChKFk09So9wB5kaXgRB+0TSDCJPyhFnGQP2ODirUp+y+O8yhIewSEWAu63GjYPhn7TN1poOqPQbDYvbmb2qVdINz3oWWCKJy2wsNk3zOTeRtKv2syXqPudiPLmT0StFdANsscpTNwgiMHKbn1fC00xK/Q9KmTrKKB7fukxOzEDzhe1acVvMZvEDLA+BRllxGeH8vE30hw=;KM1c1pX7wdRUb/PebWVsGQ=="
+secured: "tCgORlJttXIpDrv8D0STUolUsorIulTo9oqNzF09nIAPH8jxzy5RXhYUQTAtG6m9eZzyjAqsqg+SJkZ0wa7yT/WBIA9yTAQeZehFNY6AmTP5lGGWPXNcDHxuxv9iAdQnw0LA7VzSe9HsyR6LuYT+v2ZvZrBcSkrkhHDb+B2ocirma9L6uFS3QgssDXuyqpAVfYDRqy8Q5RDdGJOSJpRdzZFRxMHdA+whQYK+m8pUtZ1AYHx6LOVm8JI7gDzOXUw6ggy0gZTYs8WvJBst1CZKNIxMejmt8AOTibAUDyt76k4/uE2jYUapnQcd6Hc8gqa978imymHzxu88p52R5yFD6xDddIua+KPS9Oy+lbxIpXE=;8Q0vwoIskpn4y8nEskDaCg=="
 ---
 

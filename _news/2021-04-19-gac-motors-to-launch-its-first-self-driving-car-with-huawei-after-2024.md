@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-
 webUrl: "https://www.gizmochina.com/2021/04/19/gac-launch-self-driving-car-developed-by-huawei-2024/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmochina
@@ -27,22 +27,6 @@ images:
     width: 960
     height: 640
     isCached: true
-
-related:
-  - title: "Two die after self-driving car crash in US"
-    excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
-    publishedDateTime: 2021-04-20T11:48:00Z
-    webUrl: "https://en.ammonnews.net/article/48791"
-    type: article
-    provider:
-      name: ammonnews.net
-      domain: ammonnews.net
-    quality: 24
-    images:
-      - url: "https://en.ammonnews.net/image.php?token=89a8bc4722cb8e3a28af636bc5479d8e&c=7386378&size="
-        width: 768
-        height: 432
-        isCached: true
 
 secured: "153vbZiJpjQ7r6Q5PSKYYXUmlxGW7y5HEMpAOb7+NSBozsV4vjIgLHBCx4V7YzLHbmSQGZIWd+xmomZWaVPQJ4PIF1Wwdrnugc5y8T4juLyo8OXuPfZUfdUIHsAORcUlTfYQkXN8sAPIbrqAjPzpOtf9pt3U1XQ3/JvmWrgtHQ4PKRcZeIj9TmqcrI9TeNbiGD8XSCluGJPlFIUqfZCY4yZr12Lu7QPcxGZYmTAeStToCNZkpOtolK1wv7lHGgZDZk/AvbMNlY0sQmJyJtJZ6cwvx0zKo+gao1lQc843iTRVMORr7YLiPsXPCRYWlE+6eh8xoxErZ6EvDVzhCFp0powhJVNOMxwmBpUefyvHpNcjhnQYD4hZs7H1uNhauwR2hSqGmyFbmSyzpWT0pABflvqGnLXxBxAw1bIMja4us/DLWnu3sHJC2fu+4uoxpV5qtDL0w3J4Hs2T1iNG1w0dPLx8Sl75Wzhh4YcqbmpKkiKbZV2sEmALGzqynpd6lfBal++dz1XGwOBaWM8pf0dEig==;ZxJxTIaVPm6rHbxZrNAlgA=="
 ---

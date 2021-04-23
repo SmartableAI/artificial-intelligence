@@ -25,48 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "What Waymo’s new leadership means for its self-driving cars"
-    excerpt: "The change in leadership hints at the broader state of the self-driving car industry, which has failed to live up to its hype in the past few years."
-    publishedDateTime: 2021-04-19T09:20:00Z
-    webUrl: "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication"
+  - title: "Veoneer radar and stereovision aid Mercedes EQS hands-off self-driving tech"
+    excerpt: "Automotive technology company Veoneer has supplied critical building blocks in the recently revealed Mercedes EQS, the all-electric sedan equipped to offer hands-off self-driving tech. The Mercedes EQS Drive Pilot system is an example of collaborative driving;"
+    publishedDateTime: 2021-04-19T09:59:00Z
+    webUrl: "https://www.autocarpro.in/news-international/veoneer-radar-and-stereovision-aid-mercedes-eqs-handsoff-selfdriving-tech-78983"
+    ampWebUrl: "https://www.autocarpro.in/news-international/veoneer-radar-and-stereovision-aid-mercedes-eqs-handsoff-selfdriving-tech-78983?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/veoneer-radar-and-stereovision-aid-mercedes-eqs-handsoff-selfdriving-tech-78983?amp=1"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 57
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJohn-Krafcik-Waymo-CEO.jpeg&signature=8fe964b9ae04b0de1a5150feae3e71ba"
-        width: 1200
-        height: 600
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/415cfc67-35c6-4c08-869c-5e7e13498ecb.jpg"
+        width: 900
+        height: 596
         isCached: true
-  - title: "Police Pull Over A Drunk Driver, But It’s A Self-Driving Car"
-    excerpt: "To make self-driving cars work, these cars use a host of sensors and cameras that attempt to “see” the road, analyze it, scan for obstacles, and more."
-    publishedDateTime: 2021-04-20T07:14:00Z
-    webUrl: "https://www.geeky-gadgets.com/police-pull-over-a-drunk-driver-but-its-a-self-driving-car-20-4-21/"
+  - title: "Veoneer radar and stereovision in Mercedes EQS hands-off self-driving tech"
+    excerpt: "(NYSE: VNE and SSE: VNE SDB), is proud supplier of critical building blocks in the Mercedes EQS, the electric sedan equipped to offer hands-off self-driving tech. Mercedes EQS Drive Pilot system is an example of collaborative driving;"
+    publishedDateTime: 2021-04-19T09:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/veoneer-radar-and-stereovision-in-mercedes-eqs-hands-off-self-driving-tech-1030316504"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/04/sdc.jpg"
-        width: 700
-        height: 409
-        isCached: true
-  - title: "Two U.S. senators make new push to advance self-driving cars"
-    excerpt: "Two U.S. senators are working on legislation that would allow automakers to deploy tens of thousands of self-driving vehicles on U.S. roads, a significant reform that could help speed the commercial use of automated vehicles."
-    publishedDateTime: 2021-04-22T18:51:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/two-us-senators-make-new-push-advance-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/U.S.%20Capitol-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "jzZg0lE4l9Pcxi+tpOSrDahkiQuHxM4wn0PSB57thClZ2ihaoWGruQtnV+8AjoJN/VerEgMq4sh/CQs8J7Kk6Y2PX1hsApKmAKKRNA6pzIS2SbENJ85o09RBd1BDWnkRGvmK7IEUi7gaI2B7yBnf+yyVGl2IEBsl63bCbDg/4yzkCmx5/+zFXpPQ8JgwEK898eFYj5L3bcJ0G6yUklArQfX8NjYxyKs8eSgJNxIzFwIbCYwQFFoHhVyqHciXceLKOH3ro8pw2IVcPfMK85LklJKuOYSc1WT3bX1Yayi6LtJAwEw7W252usuYyAPWi3XOg7GjGElCMRVK93QKYQSwZTRa9I+1D+J8bNF3/NnK2Ec=;4MrQe9DvUnZOJlmsd1nhpw=="
 ---

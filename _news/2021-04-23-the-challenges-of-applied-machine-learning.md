@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/challenges-of-applied-machine-lea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/challenges-of-applied-machine-learning/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 105
 published: true
 
 provider:

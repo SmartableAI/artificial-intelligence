@@ -39,22 +39,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Self-Driving Shuttles Find New Uses During Pandemic"
-    excerpt: "Local governments found themselves with pressing needs during the pandemic, and pilot programs testing automated shuttles stepped up to help — for example, by delivering COVID-19 tests and meals."
-    publishedDateTime: 2021-04-20T20:36:00Z
-    webUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html"
-    ampWebUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1009681174.jpg"
-        width: 848
-        height: 630
-        isCached: true
   - title: "Wealthfront Delivers on Self-Driving Money™ Vision, Changing the Way We Manage Money Forever"
     excerpt: "Today Wealthfront launched the final set of features that make up the first version of Self-Driving Money™. The company's relentless focus on automation has led to a financial ecosystem that is not only lightyears ahead of anything else on the market,"
     publishedDateTime: 2021-04-20T15:27:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
-excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the longest text, known as the Great Isaiah Scroll. The process ..."
-publishedDateTime: 2021-04-23T12:49:00Z
-originalUrl: "https://www.kctv5.com/artificial-intelligence-discovers-two-scribes-behind-2-000-year-old-dead-sea-scrolls/article_3bd6a545-6c7f-542a-a1b6-9416c7846dac.html"
-webUrl: "https://www.kctv5.com/artificial-intelligence-discovers-two-scribes-behind-2-000-year-old-dead-sea-scrolls/article_3bd6a545-6c7f-542a-a1b6-9416c7846dac.html"
+excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the ..."
+publishedDateTime: 2021-04-23T13:11:00Z
+originalUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
+webUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-    width: 820
-    height: 462
+  - url: "https://kesq.b-cdn.net/2020/03/kesq-us-world.png"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -71,6 +71,6 @@ related:
         height: 800
         isCached: true
 
-secured: "x4jMPXjBAD/P4/jlB2lJI0I/vZHTKZbkBnAvaoST9apHaHJ6KQtGbAmuiUzfQ7maNhc3E5P178iPiyg5gQYyzRGdZ7gnOoNLjqM4/PGPbb9svaFDfBAhjmnwL8TL/UDsbSGWmwfJQQUwATU9EbaQySz544RboIxamSvrEFsAWEzeaXl1SDT5rG3mfuzGFN2pRxBtJ+H8Zm5kWg7sqK3VrDoYN4A9kPjeRqD0prTO863kYqWxig5MoGbE7yss684iKoahicEc/fKLoo8Jm9SQUCg9F99UaHE5/o5LHSROHWvX3CP+uoAEiWQxkaPhYPRpsWHUb1/HmI38oN1IGPj3fcyKgetjc1fw2sF8ot+SIGw=;LC+yijNW7JwZ2LT7T3AS/A=="
+secured: "Dq3tegVdscN2UxM9xjwPMvmQNrwfhdGAeWMS+uk03UZHALCqFtKbSwPzw+nVOE089tjUv0OMVG9l65iMCXiCk3SFZiznp2ZtXFmUC+QEvGhfMgihalsI/cTSB4zBhtGWw1LQR0HhHOsnrDY/nTyGjvHtgWzVswy4RryizU5RdCDiM1jSKGjnnk2DDX3mGIm2duLVcNnh+yhEk3QtGSFTNiHBUvfF8bnh+5Vf774XxIJzxzOd9dUKnB4XpReBGt2gqT7Ra5Dnt5rsY5jd2iY7gAMf74HEnvEs5QUdPGAQq5s8Z9Tbh5KaGeTYtJpro+WxQBHxHAEYUT+1tSw8bwdgblMqw637HM3HGmHXompPxwI=;bO7eAv+TkTTKmyDugp7crQ=="
 ---
 

@@ -191,6 +191,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition should be banned, EU privacy watchdog says"
+    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
+    publishedDateTime: 2021-04-23T15:32:00Z
+    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
+    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU Proposes Restrictive New AI Regulations"
     excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
     publishedDateTime: 2021-04-19T16:33:00Z

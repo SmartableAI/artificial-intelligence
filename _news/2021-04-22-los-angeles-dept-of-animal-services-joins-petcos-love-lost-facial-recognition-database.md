@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 492
         isCached: true
+  - title: "San Antonio’s ACS adds facial recognition tool to website to help reunite families with lost pets"
+    excerpt: "The city-run shelter announced Friday that it is partnering with Petco Love in the searchable, national database that uses facial recognition technology. The Petco Love Lost tool uses uploaded photos of cats and dogs and determines if they are in a ..."
+    publishedDateTime: 2021-04-23T14:26:00Z
+    webUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/"
+    ampWebUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 46
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/EPZ3CLSD65CDNI3YO77LZ2SDLY.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Toledo Humane Society to use new pet facial recognition technology to help owners reunite with their lost pets"
     excerpt: "The human society has partnered with Petco Love for their new pet-finding program, which uses the pet facial recognition technology of the Petco Love database to make finding lost pets quicker and easier. Starting today, this tool will be accessible to ..."
     publishedDateTime: 2021-04-23T12:24:00Z

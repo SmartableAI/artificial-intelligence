@@ -79,6 +79,20 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
+    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
+    publishedDateTime: 2021-04-23T14:23:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
+        width: 685
+        height: 329
+        isCached: true
   - title: "Degradation Alignment in Remaining Useful Life Prediction Using Deep Cycle-Consistent Learning"
     excerpt: "Due to the benefits of reduced maintenance cost and increased operational safety, effective prognostic methods have always been highly demanded in real industries. In the recent years, intelligent data-driven remaining useful life (RUL) prediction approaches have been successfully developed and achieved promising performance."
     publishedDateTime: 2021-04-21T08:55:00Z

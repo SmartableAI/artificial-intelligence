@@ -26,7 +26,7 @@ related:
   - title: "Atos acquires Ipsotek, reinforces its position in the Edge and Computer Vision"
     excerpt: "Atos announced it has reached an agreement to acquire Ipsotek, an AI-enhanced video analytics software provider.With this acquisition, Atos, already a major player in Edge AI/ML and"
     publishedDateTime: 2021-04-21T08:17:00Z
-    webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
+    webUrl: "https://www.sourcesecurity.com/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html?ref=nav"
     ampWebUrl: "https://www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
     cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/atos-acquires-ipsotek-reinforces-position-edge-co-3223-ga-co-1576674984-ga.1618991421.html"
     type: article

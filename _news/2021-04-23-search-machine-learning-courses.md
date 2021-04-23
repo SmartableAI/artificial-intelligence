@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/education/skillbuilder/subject-search/machi
 webUrl: "https://www.usnews.com/education/skillbuilder/subject-search/machine-learning"
 type: article
 quality: 51
-heat: 81
+heat: 82
 published: true
 
 provider:

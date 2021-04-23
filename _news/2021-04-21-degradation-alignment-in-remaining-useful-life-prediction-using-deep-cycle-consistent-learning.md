@@ -79,6 +79,20 @@ related:
         width: 660
         height: 295
         isCached: true
+  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
+    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
+    publishedDateTime: 2021-04-23T14:23:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 12
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
+        width: 685
+        height: 329
+        isCached: true
   - title: "Real-Time Error Detection in Nonlinear Control Systems Using Machine Learning Assisted State-Space Encoding"
     excerpt: "Successful deployment of autonomous systems in a wide range of societal applications depends on error-free operation of the underlying signal processing and control functions. Real-time error detection in nonlinear systems has mostly relied on redundancy at the component or algorithmic level causing expensive area and power overheads."
     publishedDateTime: 2021-04-22T10:26:00Z

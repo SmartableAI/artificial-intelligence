@@ -45,22 +45,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Self-Driving Shuttles Find New Uses During Pandemic"
-    excerpt: "Local governments found themselves with pressing needs during the pandemic, and pilot programs testing automated shuttles stepped up to help — for example, by delivering COVID-19 tests and meals."
-    publishedDateTime: 2021-04-20T20:36:00Z
-    webUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html"
-    ampWebUrl: "https://www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/Self-Driving-Shuttles-Find-New-Uses-During-Pandemic.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1009681174.jpg"
-        width: 848
-        height: 630
-        isCached: true
   - title: "China Delivery Giant Meituan Raises $10 Billion - a Warchest for Drones, Self-Driving Cars"
     excerpt: "The Tencent-backed firm with a market valuation of $220 billion said it plans to use its new warchest to invest in autonomous delivery vehicles, delivery drones and other cutting-edge technology. \"Meituan will use most of the capital in updating its delivery system which currently relies on human drivers and will soon be unaffordable for the company as labour costs continue to rise in China,"
     publishedDateTime: 2021-04-20T07:42:00Z

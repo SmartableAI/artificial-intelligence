@@ -59,7 +59,23 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "San Antonio’s ACS adds facial recognition tool to website to help reunite families with lost pets"
+    excerpt: "The city-run shelter announced Friday that it is partnering with Petco Love in the searchable, national database that uses facial recognition technology. The Petco Love Lost tool uses uploaded photos of cats and dogs and determines if they are in a ..."
+    publishedDateTime: 2021-04-23T14:26:00Z
+    webUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/"
+    ampWebUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 46
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/EPZ3CLSD65CDNI3YO77LZ2SDLY.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
-secured: "CIBx8DN6sFgBS4xWt4Hy0eeJI8W7nY1q3D6vf0ZCVzBKWKaLu9CRaRfO3/nQi4mDekuK2UKKeQ+gv91JT3H5coS13Nl8v8QaiiBKgyLKtfnWFmfK+FJOchUq5d09UXB5H0HxFy0vuNVfVWlMIDkDZwX7TScbVv60qeKv1bKoYQJactkAThjY1yYyROJaaR+1nfOJxUhRjwuTWbO49p2JXMqXIk2sl/9/PekxajJ0JrR7LvfdK+exPx8VEdrsVrjnNGXz0fUkuEEtGmwmroxFFP17vjp9plcHezz/BfEqXn+KFMTuSSy7wk2vkNQ8YaBxINMb6f6sosF7rN9Gx5ummP+6N8gqlMCn1DhrIJnylMI=;GswejNaeNtRhlU5OtDly/g=="
+secured: "oBZNuyQCHDmZO7IHatlHtl+WwZhrxDmIu1/eJ2iT7ksezOjqt9T9inC/08ZoW2VFjheUu9uHsarhc976TJE5xTfjlb/Y/oEECXRbVkXGAOJae5dZEcaUXvTMa4fEtVTHgQ6+KK6GSF9bSZH0MrQ1cbdyCxjFpv+8x8szrE2ft8quwnWYXereY7d36zLqbkyVNpgkwlCjFLPYcJZGzLAk10fdvTwt99qm+aDYfKOhDJsBMqhUq/xOZO8fAOWlgY6o6FyNtC5vY3yTLyg6koq0Tr1L3igVTuxVICZw/UYc+lO3y/NWnqKnspDrWeapRt1RsDNc5snGHKYM8r/dHunqnthNjyHs33pDILY3Y8kau72PhBA0W/JBj8QwSHZH6HpfekRc9ww0JDx1g0e6C0ECQmJ8u2HI+hRxggSeKz8IIsuFVcbMyRzzaNq4uZfidQ4MP3dSaY330L5sTw6W691j8I2gTnXUtF4j7bL6HG8oyegHtOuB6v2EA03UOUPEvjljNxFu2qQNpE2v5qFPbAhiQw==;4cACBUUTg1SAPof1vUUmnA=="
 ---
 

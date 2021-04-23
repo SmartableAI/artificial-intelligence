@@ -188,6 +188,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition should be banned, EU privacy watchdog says"
+    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
+    publishedDateTime: 2021-04-23T15:32:00Z
+    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
+    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU Proposes Restrictive New AI Regulations"
     excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
     publishedDateTime: 2021-04-19T16:33:00Z
@@ -320,6 +336,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "qt84FD8Sy5AUdINq5HLlrjEfyIeIiBg1oFS93Vk1wud5OEy3fPryJgInFWoiIDaeg8SKmHrIDxB0tAKz/dfxFUYreUXsR6OGGAGL1nNZy7S/Poy+k+NVO3FgftV3KEvuODrvxqkBxT9QxoPRT2mZ1CiFL3JJYKhu5eg+XCUGfk07/cMnss79uvkQVPVsUZiggDymwLZjWjKfL41Y8GM0t5AoVcv9BWe4L6AFyguw2j79a1xaqQz/YYUDQEDseisaNJYi+BNc/UQDuxGxSnzMrFdBqBX0yJBc16ZpTTvA2AP/Mh0QIyEJue/U/dSqgIPUvuKUcRBF/o8MqkeGCZ0qSuyiBh2JBVWCuohvnF/8DOQ=;ip/vK0E86ww+xikJqZ/eZw=="
+secured: "ifsf8buJr9MHIJFlCS/SeLvL2AwHBVwrZwChrUN5PlDdYuIc0qQ+4SiStk3YR7m6dwcFofBI1U3/O9DIRT9t97kPXJ4ZfHWHsjcfPNGbjecghUJc07LLcbKeXCQhZXQUXhyg041SdQWj2OhhwvWpMQzRczpiHJ0Ldyas634e+qJR7ArzT16hKm/k9g8Sr8ktWUsXbTrNpo4sexveM4OZVWRGBRk/lEDj8gWMor5osVNlP0QHxQGsZgyxPFjnkH9szV1nGv0Ajj2nFKro8nojscvWLLeds/LJbDVlaft3qQ6r0WEv7d0PdoYnVTil4mR/W+pX8j3GoQZgRrTvYn3wLanN3/an3xM6ANEb9mJSCtv9Nhp90n4O62PG5jIka2rLv7ZNmj2bMRJ1BjKlySQCCVDcPmf8pGdo1S26J2glFpC/JXM9pp3EGafhmERBZt2h5lLvw+Xzgw0lfQsXl8H8BJpuKQu3Owy4bYg2kAx8xN8HapnDklxncGwsLWexHV7N4oYIJXr63dw6B9uCJGSSRg==;tzgfgKVp7blRmbJSPhc+qw=="
 ---
 

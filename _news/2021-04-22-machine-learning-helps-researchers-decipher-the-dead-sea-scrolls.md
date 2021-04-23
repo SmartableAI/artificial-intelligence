@@ -58,18 +58,18 @@ related:
         height: 800
         isCached: true
   - title: "Artificial intelligence discovers two scribes behind 2,000-year-old Dead Sea Scrolls"
-    excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the longest text, known as the Great Isaiah Scroll. The process ..."
-    publishedDateTime: 2021-04-23T12:49:00Z
-    webUrl: "https://www.kctv5.com/artificial-intelligence-discovers-two-scribes-behind-2-000-year-old-dead-sea-scrolls/article_3bd6a545-6c7f-542a-a1b6-9416c7846dac.html"
+    excerpt: "But artificial intelligence technology has now unveiled two possible scribes. Researchers with the University of Groningen conducted palaeography – the study of old handwriting – tests on the ..."
+    publishedDateTime: 2021-04-23T13:11:00Z
+    webUrl: "https://kesq.com/news/national-world/2021/04/23/artificial-intelligence-discovers-two-scribes-behind-2000-year-old-dead-sea-scrolls/"
     type: article
     provider:
-      name: KCTV News
-      domain: kctv5.com
+      name: KESQ News
+      domain: kesq.com
     quality: 30
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-        width: 820
-        height: 462
+      - url: "https://kesq.b-cdn.net/2020/03/kesq-us-world.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "vAa6BDWGtSZjJxXb/T4qyNMmKu+rd1FknXNmu03sO70tAAEfj4MQZ4g678Toworcg2UDm2WGFaN215AcjRXilpfHqHgLTW7fn5Y4lU2PaDLCvGa/JxmXdnw8VNhgqQpks6SAsqzssz6xE8/AjOzJsGPjzMLl95wM/n//7XmNlGsNxt8sAgYJiMMhhlvx3tWNirNy+uSWhtrHbRLfwUmu6XI5dc3xbOPuOIaK+XlWfrP8EJTF67sqNtkJRl5ENgQAn2rfDrFZRU6AAn6ovC4jIs1gXjzVEUko+oJEacgqbJLD5+sIGrnrQPsJUxUFH/lQ8ZAOmt1Clq6GfVdjndfowH1jqgDpoVmRXj4guESs4R9cd7mN2oyCLbYOE5ba1SlpGxt+TZOUiyGxFuFuZs9tIhzADMyHkuoV06vBG4+qyOlGpAqPNIlQZzhL9VYEmwC37zC0Q+emNbtWYG+ivB39jj2iW6mXOdG/CNG84hAzjVgiHw//sCYo6xeecYUjjiMg9NLpB2u5d1g/0URD+5EOmg==;eoTse1wuqm7kO/c1f6y0kw=="

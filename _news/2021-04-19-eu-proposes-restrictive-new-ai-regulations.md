@@ -198,6 +198,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition should be banned, EU privacy watchdog says"
+    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
+    publishedDateTime: 2021-04-23T15:32:00Z
+    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
+    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU proposes rules for high-risk artificial intelligence uses"
     excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people's safety or rights. The draft regulations from the EU's executive commission include rules on the use of the rapidly expanding technology in systems that filter out school,"
     publishedDateTime: 2021-04-21T17:38:00Z

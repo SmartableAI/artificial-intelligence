@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regula
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/21/1023254/ftc-eu-ai-regulation-bias-algorithms-civil-rights/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU to unveil AI rules to fight Big Brother fears"
-    excerpt: "BRUSSELS: The EU is set to unveil a proposal to regulate the sprawling field of artificial intelligence, with the"
-    publishedDateTime: 2021-04-18T22:22:00Z
-    webUrl: "https://www.brecorder.com/news/40085548"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40085548"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40085548"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 57
-    images:
-      - url: "https://i.brecorder.com/large/2021/04/607ca07a0c768.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "EU outlines ambitious AI regulations focused on risky uses"
     excerpt: "The draft regulations from the EU's executive commission include rules for applications deemed high risk such as AI systems to filter out school, job or loan applicants. They would also ban artificial intelligence outright in a few cases considered too risky,"
     publishedDateTime: 2021-04-21T21:14:00Z

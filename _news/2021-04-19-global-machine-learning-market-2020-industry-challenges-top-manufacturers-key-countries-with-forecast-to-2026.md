@@ -55,7 +55,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://cdn.openpr.com/U/4/U423349473_g.jpg"
         width: 800

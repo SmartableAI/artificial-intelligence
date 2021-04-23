@@ -39,6 +39,20 @@ related:
         width: 900
         height: 596
         isCached: true
+  - title: "Embark Expands Senior Leadership Team to Commercialize Self-Driving Trucks"
+    excerpt: "Embark Trucks, Inc., a leading developer of self-driving trucks, today announced a landmark expansion of its senior leadership team to fuel the company’s rapid growth. Citigroup Managing Director Richard Hawwa has been tapped to serve as Chief Financial Officer and former Orrick Partner and GE Executive Siddhartha “Sid” Venkatesan will join as Chief Legal Officer."
+    publishedDateTime: 2021-04-19T16:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-driverless-cars-executive-changes-ce8f2dc24decbb5455f371004c026a87"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qGCNKgXK95scdyOplYvK5/e6X3MCLMyvH5bJiytYEPHlGpAH9rd2Fmz57P5RgsbDS5Gq8+abDqJpY4sm/KjfQKf/9LlGmCtR5aX4P6RWVtkMm4FofevtcXGUtqecr28HM9IVHN/nD65IBIrC3vCq/wIsULn704Js2hxqo6Jf3aTHxBMjM522oZM8PV/ljqIBt7gLcutndSmoX1caYhRsTJKe6oqMvmFRTAeDBTGIzUWklIJsDOpZRnZA31EbG1Npa98gLfM6VhxfS7NjWipcnLxdHGNNkJsdttgDJ0MBH0VFrdoc1+f4CKjq1Bv2yOpsnMGNIkPTEJ49F7MDGaiz1lY3h6hKvEl9N1nF3C55gAE=;H8YiK/hzVikl+nZyleL/ow=="
 ---

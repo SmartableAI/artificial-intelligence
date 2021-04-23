@@ -182,6 +182,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Facial recognition should be banned, EU privacy watchdog says"
+    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
+    publishedDateTime: 2021-04-23T15:32:00Z
+    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
+    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "EU Proposes Restrictive New AI Regulations"
     excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
     publishedDateTime: 2021-04-19T16:33:00Z
@@ -314,6 +330,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "vL9bifkSHv8zw9HzDjsZpALpGLohupG/qFs+Wrr8sHstQNoIbVnCWNLeNJR+P0GDsO0jeY/ufKAKMrrlRoWFZRQ1Y76R8yZ3I22dNm81sL244G2xs92suV69mTCE58rzaSVlEvr/paBjf17ENaRcV2sfXDEW0pEkZULlW0+zgPx3WzANJ2K7mxcYldBn+J9BLo2Ru/xtlM0sFXSwqFGLhGrcESWRxTml4RQVPtjYygh/jT5FQt7em3Zn61cvdVKjNqvYCc43iD5A4QzXrV3ihtlurA05VaXirInS02nwaIn49Rfbaaxih+D4Vf6a8dPuK+NhanzCtAZasRd7QIsPuHVHa4s7REOYxhMt2htjGuk=;aEGvKk5JDUvVrvYWqhCQrA=="
+secured: "WWHBb6WKdAvw5KTBe6xJkyHyOHKO3DMnsrOuXnX/WfY3V7EyeuxphB6V08vAQhAZmNnkab7FcqgBD5J/sTW1LcUkNXF59VMOgSc3dSgEmQc5IfBDMkAzacex8NgXT/aQdf8kVjJ3MYRDiRRUmRFHD+TOImwC4oMehce4uAeSqqIbK3eNV43mZ8cKQEcb18W+1HlSoGujiX1uVuC6opyY3A3+3T9PoNSVwXjPFo2attwitBr+0+d7Vllqn08BaWqC5t2EemxqIsjQdsi6JaZBDrRB/jmfhVCmiJfPhPjklOi36vjTmouLrB8kVWqgD2oVk0mT13GVrUaEYQffpUTDP9u3eNE0fDwt35Dp1IHiYXo=;F/MLOydPzF2gf5MuMhp1rA=="
 ---
 
