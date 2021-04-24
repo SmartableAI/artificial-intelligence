@@ -73,17 +73,6 @@ related:
         width: 850
         height: 480
         isCached: true
-  - title: "Sanral investigating facial recognition and machine learning for traffic control in South Africa"
-    excerpt: "The South African National Roads Agency Limited (Sanral) says it is investigating how technologies such as machine learning and facial recognition can be used to improve road safety and reduce congestion on the country’s roads."
-    publishedDateTime: 2021-04-19T15:17:00Z
-    webUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 43
   - title: "Bucks County commissioners pull facial-recognition contract off agenda"
     excerpt: "The Bucks County commissioners dropped a contract for facial-recognition services from their agenda Wednesday after residents objected to a potential high-tech threat to privacy. The agenda available Tuesday listed an agreement with Clearview AI \"to provide assistive technology for law enforcement\" for $25,"
     publishedDateTime: 2021-04-21T17:54:00Z

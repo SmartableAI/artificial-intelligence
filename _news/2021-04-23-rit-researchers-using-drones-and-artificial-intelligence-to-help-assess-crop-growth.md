@@ -7,7 +7,7 @@ originalUrl: "https://www.rit.edu/news/rit-researchers-using-drones-and-artifici
 webUrl: "https://www.rit.edu/news/rit-researchers-using-drones-and-artificial-intelligence-help-assess-crop-growth"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,82 +23,6 @@ images:
     width: 1080
     height: 720
     isCached: true
-
-related:
-  - title: "US banks are using AI to watch customers and employees"
-    excerpt: "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ..."
-    publishedDateTime: 2021-04-19T15:31:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596536929/Facial_recognition_SHUTTERSTOCK.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "US banks deploy AI to monitor customers, workers amid tech backlash"
-    excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
-    publishedDateTime: 2021-04-19T18:56:00Z
-    webUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/"
-    ampWebUrl: "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "US banks deploy AI to monitor customers, workers"
-    excerpt: "Several US banks have started deploying camera software that can analyse customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
-    publishedDateTime: 2021-04-20T00:44:00Z
-    webUrl: "https://www.itnews.com.au/news/us-banks-deploy-ai-to-monitor-customers-workers-563559"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/atm_31918054.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "AI enables banks to spot bias claims in customers' complaints"
-    excerpt: "You all will not let me breathe” is just one example in the CFPB’s complaint database where a consumer likened alleged mistreatment by a financial institution to social injustice. An artificial intelligence firm uses technology to help companies flag such language."
-    publishedDateTime: 2021-04-20T01:00:00Z
-    webUrl: "https://www.americanbanker.com/news/ai-enables-banks-to-spot-bias-claims-in-customers-complaints"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/078a1a2/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fbc%2F50%2F1b8666814ba99d9c6f936ffed3a2%2Fab-041921-cfpb-2.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Using AI and data to make decisions faster"
-    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
-    publishedDateTime: 2021-04-23T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "BRfoSwweeQ9j84vpA3V4smBAecCpG5h10m0MMCZnFRjJSUQ49pJSawseHNmXLbxWFMd0bIsYcdqNW9BZkBP6uHiMkt0sxabQdGsMulSB8tXWsC2brAv7W5aLvsV3AL7VazsFTzQOKgZcksyMIWlcM25ka02JI+cCM+PyxAO67hljPfpzCUkmKs95RpeH9tR5FromPMk/6IAfnX9dJdIAUt6Gc/NL+o8G/Zp32ukyeksPHf6qS2lCDrghT2N3yZ9GtnRKAk+nCgczRXD3Jv1Ym7R7ydryyJJD/dtUW06ouIUlkmxQhlXCBF1FfiIKvE0cIcXDUucGKKnuc8lmxabevi1iigFsk+FE0aqxmVmY2Is=;shLpDaz0y3P+W/sqIZSZmA=="
 ---

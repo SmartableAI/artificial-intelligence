@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Everything Elon Musk Has Said About Tesla's Self-Driving Cars"
-    excerpt: "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas."
-    publishedDateTime: 2021-04-19T15:51:00Z
-    webUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727"
-    ampWebUrl: "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 104
-    images:
-      - url: "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg"
-        width: 2500
-        height: 1566
-        isCached: true
   - title: "Two dead in self-driving Tesla crash after hitting tree, bursting into flames"
     excerpt: "Two men were killed in Spring, Texas after officials said a Tesla was driving itself when it ran off road, hit a tree and burst into flames."
     publishedDateTime: 2021-04-19T17:42:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/teslawreck.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
-    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
-    publishedDateTime: 2021-04-21T05:00:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
-        width: 1196
-        height: 748
         isCached: true
   - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
     excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
@@ -97,36 +65,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims"
-    excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
-    publishedDateTime: 2021-04-20T04:01:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/"
-    ampWebUrl: "https://amp.freep.com/amp/7283027002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7283027002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Elon Musk Is Critic Of Laser Lidar For Autonomous Cars, But Top Tesla Lawyer Joins Luminar"
-    excerpt: "Luminar, a newly public maker of laser lidar sensors that help self-driving cars see their surroundings, has hired Tesla’s acting general counsel Alan Prescott as chief legal officer."
-    publishedDateTime: 2021-04-21T16:33:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-critic-of-laser-lidar-for-autonomous-cars-but-top-tesla-lawyer-joins-luminar/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60805126a743ac4ab6e76763%2F0x0.jpg%3FcropX1%3D116%26cropX2%3D1357%26cropY1%3D0%26cropY2%3D751"
-        width: 1200
-        height: 726
-        isCached: true
   - title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
     excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
     publishedDateTime: 2021-04-23T16:43:00Z
@@ -154,21 +92,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 54
-  - title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
-    excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
-    publishedDateTime: 2021-04-23T00:32:00Z
-    webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+  - title: "Meet the 11 power players of the self-driving industry from leading companies like Tesla, Zoox, and Morgan Stanley"
+    excerpt: "Insider asked autonomous-vehicle startups, analysts, and VCs to nominate the industry's biggest stars. The one rule: no CEOs."
+    publishedDateTime: 2021-04-22T11:27:00Z
+    webUrl: "https://www.businessinsider.com/power-players-autonomous-vehicles-tesla-morgan-stanley-zoox-2021-4"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*"
+      - url: "https://i.insider.com/6070b1d74943790018bb1baa?width=1200&format=jpeg"
         width: 1200
-        height: 678
+        height: 600
         isCached: true
   - title: "Tesla Autopilot critics say deadly crash is reminder that self-driving cars aren't a reality yet"
     excerpt: "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash."
@@ -185,20 +121,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "2 killed in self-driving Tesla crash in Texas"
-    excerpt: "The crash killed two people in Spring, Texas."
-    publishedDateTime: 2021-04-19T16:17:00Z
-    webUrl: "https://www.wdbj7.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 39
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/P4ChpcMqMfZK0PRLixXK0UpjBBA=/980x0/smart/do0bihdskp9dy.cloudfront.net/04-19-2021/t_c6b0915e8abf4a68a12a69a7c65ee0b7_name_file_1280x720_2000_v3_1_.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "2 killed in self-driving Tesla crash in Texas"
     excerpt: "The crash killed two people in Spring, Texas."
@@ -241,6 +163,20 @@ related:
       - url: "https://localnews8.b-cdn.net/2020/12/Money-logo-new_KIFIMIFI.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Two die after self-driving car crash in US"
+    excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
+    publishedDateTime: 2021-04-20T11:48:00Z
+    webUrl: "https://en.ammonnews.net/article/48791"
+    type: article
+    provider:
+      name: ammonnews.net
+      domain: ammonnews.net
+    quality: 24
+    images:
+      - url: "https://en.ammonnews.net/image.php?token=89a8bc4722cb8e3a28af636bc5479d8e&c=7386378&size="
+        width: 768
+        height: 432
         isCached: true
   - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
     excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."

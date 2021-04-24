@@ -7,8 +7,8 @@ originalUrl: "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-ch
 webUrl: "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: globes.co.il
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Intel Investors Should Worry About NVIDIA's New Data Center Chips"
-    excerpt: "NVIDIA (NASDAQ: NVDA) is flexing its muscles and announced at its investor day last week that it's prepping a new data-center processor aimed at one of Intel's tentpole businesses. As computing needs quickly evolve,"
-    publishedDateTime: 2021-04-19T15:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-intel-investors-should-worry-about-nvidias-new-data-center-chips-2021-04-19?time=1618846501"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Israel and UAE Defense Companies Partner on Artificial Intelligence"
     excerpt: "This partnership will help both countries not just in terms of their militaries, but also in building better banking and healthcare industries."
     publishedDateTime: 2021-04-21T14:12:00Z

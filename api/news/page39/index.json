@@ -2,6 +2,136 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-03-24-guidehouse-expands-financial-services-advisory-managed-services-footprint-globally.md",
+      "title": "Guidehouse Expands Financial Services Advisory & Managed Services Footprint Globally",
+      "excerpt": "... maximize the effectiveness and efficiency of their financial crimes related technology and investigative functions. Guidehouse’s two-pronged approach leverages machine learning and managed services to drive down the cost of compliance and reduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/guidehouse-expands-financial-services-advisory-managed-services-footprint-globally/",
+      "originalUrl": "https://www.financialbuzz.com/guidehouse-expands-financial-services-advisory-managed-services-footprint-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-reader-polls-online-dating-via-google-translate-risk-to-top-lsps.md",
+      "title": "Reader Polls: Online Dating via Google Translate, Risk to Top LSPs",
+      "excerpt": "Google improved the UX for live speech translation by reducing flickering text (although Google Translate was deemed not quite ready for use in medical emergencies according to a recent study). Facebook open-sourced 50,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
+      "originalUrl": "https://slator.com/industry-news/reader-polls-online-dating-via-google-translate-risk-to-top-lsps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/Translation-and-Localization-Survey-2021.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-domo-expands-aws-relationship.md",
+      "title": "Domo Expands AWS Relationship",
+      "excerpt": "“Whether working to make machine learning accessible across the enterprise through AutoML, expanding access to third-party data products from AWS Data Exchange, driving value from IoT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/domo-expands-aws-relationship-2021-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/domo-expands-aws-relationship-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
       "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
       "excerpt": "Due to its status as one of the premier avenues for accessing artificial intelligence (AI) and related equities, ARKQ is levered to an important theme in healthcare innovation – an arena where AI is increasingly prominent. Artificial intelligence (AI ...",
@@ -1020,134 +1150,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services.md",
-      "title": "Artificial Intelligence As A Service Market Key Factor Is Increasing Adoption of Advanced Commodity Services",
-      "excerpt": "Ltd : The New Report Artificial Intelligence as a Service Market posted through ... Segmentation by Industrial Vertical: Healthcare and Defense, Government and Utilities, IT and Telecommunications, Media Communication Services, Banking, Financial Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "originalUrl": "https://www.cadillacnews.com/business/artificial-intelligence-as-a-service-market-key-factor-is-increasing-adoption-of-advanced-commodity-services/article_d414f660-9386-5352-8fad-6a5ee3c95890.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cadillacnews.com/app/image/ownlocal.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadillac Evening News",
-        "domain": "cadillacnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-dynamic-voice-recognition-capability-available-for-ms-technologies-smart-system-2-2020.md",
-      "title": "Dynamic Voice Recognition capability available for M&S Technologies Smart System® 2 | 2020",
-      "excerpt": "M&S Technologies, an innovative vision testing software developer and manufacturer, has announced the introduction of Smart System Dynamic Voice Recognition. This total voice recognition software simplifies and streamlines the visual acuity testing process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20312454/dynamic-voice-recognition-capability-available-for-m-s-technologies-smart-system-2-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20312454",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20312454",
-      "publishedDateTime": "2021-03-23T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-realnetworks-launches-ai-robocall-blocker-aims-to-lead-the-charge-in-battle-against-spam-calls.md",
-      "title": "RealNetworks launches AI robocall blocker, aims to ‘lead the charge’ in battle against spam calls",
-      "excerpt": "The tech: Called KONTXT for VOICE, the software uses AI models that are trained to predict whether an inbound call is spam based on an analysis of voice and intent. Two “major” telecom companies are using early versions of the product. It builds off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/",
-      "originalUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/image004-1-630x517.png",
-          "width": 630,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/amp/",
-      "publishedDateTime": "2021-03-23T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-20-log-management-database-startup-era-software-raises-1525m.md",
+      "title": "Log management database startup Era Software raises $15.25M",
+      "excerpt": "Era Software, creator of the EraDB time-series database architecture for log management, today announced it has raised $15.25 million in a round led by Playground Global. The funding, which brings the company’s total raised to over $22 million,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/log-management-database-startup-era-software-raises-15-25m/amp/",
+      "publishedDateTime": "2021-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-xilinx-launches-kria-chips-to-handle-ai-for-edge-applications.md",
+      "title": "Xilinx launches Kria chips to handle AI for edge applications",
+      "excerpt": "Xilinx has introduced its Kria programmable chips and boards for holding AI applications at the edge of the network.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/xilinx-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/xilinx-launches-kria-chips-to-handle-ai-for-edge-applications/amp/",
+      "publishedDateTime": "2021-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals.md",
       "title": "Korean AI-based Diagnostic Software Dr. Answer Helps Countries With a Shortage of Medical Professionals",
       "excerpt": "Press Release Dr. Answer, an innovative artificial intelligence (AI) based diagnostics application, is expected to significantly help countries with insufficient healthcare professionals make more efficient diagnosis.",
@@ -896,7 +1000,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -991,21 +1095,21 @@
       ]
     },
     {
-      "path": "_news/2021-04-20-intel-hiring-hundreds-for-ai-chip-development-in-israel.md",
-      "title": "Intel hiring hundreds for AI chip development in Israel",
-      "excerpt": "Intel unit Habana Labs is expanding into new offices in Tel Aviv and Caesarea as the tech giants do battle to provide AI chips for data centers. The world's tech giants are expanding and hiring more and more developers in the arms race for data center chips.",
+      "path": "_news/2021-04-20-us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash.md",
+      "title": "US banks deploy AI to monitor customers, workers amid tech backlash",
+      "excerpt": "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash",
       "sourceUrl": null,
-      "webUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
-      "originalUrl": "https://en.globes.co.il/en/article-intel-hiring-hundreds-for-ai-chip-development-in-israel-1001368091",
+      "webUrl": "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/",
+      "originalUrl": "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.globes.co.il/images/NewGlobes/big_image_800/2019/800x392.20191216T190449.jpg",
-          "width": 800,
-          "height": 392,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/banks-ai-04.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1013,13 +1117,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T10:47:00-07:00",
+      "ampWebUrl": "https://nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/19/us-banks-deploy-ai-to-monitor-customers-workers-amid-tech-backlash/amp/",
+      "publishedDateTime": "2021-04-19T11:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "globes.co.il",
-        "domain": "globes.co.il",
+        "name": "New York Post",
+        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1029,8 +1133,51 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-two-dead-in-self-driving-tesla-crash-after-hitting-tree-bursting-into-flames.md",
+      "title": "Two dead in self-driving Tesla crash after hitting tree, bursting into flames",
+      "excerpt": "Two men were killed in Spring, Texas after officials said a Tesla was driving itself when it ran off road, hit a tree and burst into flames.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/two-dead-in-self-driving-tesla-crash-after-hitting-tree-burst-into-flames-110467653753",
+      "originalUrl": "https://www.nbcnews.com/video/two-dead-in-self-driving-tesla-crash-after-hitting-tree-burst-into-flames-110467653753",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202104/teslawreck.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo110467653753",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo110467653753",
+      "publishedDateTime": "2021-04-19T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1083,162 +1230,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-everything-elon-musk-has-said-about-teslas-self-driving-cars.md",
-      "title": "Everything Elon Musk Has Said About Tesla's Self-Driving Cars",
-      "excerpt": "Elon Musk has had a lot to say about Tesla's Autopilot feature, which may have been connected to two deaths in an accident on Saturday in Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
-      "originalUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1779908/elon-musk-tesla-autopilot.jpg",
-          "width": 2500,
-          "height": 1566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/everything-elon-musk-has-said-about-teslas-self-driving-cars-1584727?amp=1",
-      "publishedDateTime": "2021-04-19T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-us-banks-are-using-ai-to-watch-customers-and-employees.md",
-      "title": "US banks are using AI to watch customers and employees",
-      "excerpt": "Chase developed its AI camera system using components from Google, IBM Watson and Amazon Web Services. Its cameras aim to monitor banking transaction times, how many customers leave because of long lines, and what activities occupy workers. Some banks use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596536929/Facial_recognition_SHUTTERSTOCK.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/359260/us-banks-are-using-ai-to-watch-customers-and-employees?amp",
-      "publishedDateTime": "2021-04-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence.md",
-      "title": "Bird’s-Eye View To Provide Self-Driving Cars With Some Needed Computational Omnipresence",
-      "excerpt": "Latest tech allows for a bird's-eye view of a driving scene, referred to as computational omnipresence, which could be a huge boon toward the advent of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607b39a52bbfebfdc71c5b3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3967%26cropY1%3D629%26cropY2%3D2489",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/",
-      "publishedDateTime": "2021-04-19T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-fir
 webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
 type: article
 quality: 54
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -73,24 +73,6 @@ related:
         width: 2000
         height: 1340
         isCached: true
-  - title: "IBM Reports Higher 1Q Revenue"
-    excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
-    publishedDateTime: 2021-04-19T15:31:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912368/ibm-reports-higher-1q-revenue"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
-  - title: "IBM's Revenue Growth in Latest Period Beats Wall Street Expectations"
-    excerpt: "Wall Street on average expected sales of $17.32 billion and net income of $1.28 billion, according to FactSet. IBM still expects revenue to grow this year and anticipates $11 billion to $12 billion in adjusted free cash flow for the year."
-    publishedDateTime: 2021-04-19T16:04:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912824/ibms-revenue-growth-in-latest-period-beats-wall-street-expectations"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
   - title: "IBM shares jump on biggest revenue growth since 2018"
     excerpt: "International Business Machines Corp shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting chief executive officer Arvind Krishna’s turnaround plan is starting to bear fruit."
     publishedDateTime: 2021-04-21T03:32:00Z

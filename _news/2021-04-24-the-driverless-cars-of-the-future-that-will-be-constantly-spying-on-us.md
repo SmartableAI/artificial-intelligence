@@ -38,6 +38,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
+    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
+    publishedDateTime: 2021-04-21T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
+        width: 1196
+        height: 748
+        isCached: true
   - title: "Britain can be a world leader in Artificial Intelligence"
     excerpt: "As Co-chair of the APPG on Data Analytics, I was pleased to participate in the launch of a report – Our Place Our Data: Involving Local People in"
     publishedDateTime: 2021-04-21T12:39:00Z

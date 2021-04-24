@@ -59,17 +59,6 @@ related:
         width: 850
         height: 480
         isCached: true
-  - title: "Sanral investigating facial recognition and machine learning for traffic control in South Africa"
-    excerpt: "The South African National Roads Agency Limited (Sanral) says it is investigating how technologies such as machine learning and facial recognition can be used to improve road safety and reduce congestion on the country’s roads."
-    publishedDateTime: 2021-04-19T15:17:00Z
-    webUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/484227/sanral-investigating-facial-recognition-and-machine-learning-for-traffic-control-in-south-africa/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 43
   - title: "With stadiums opening, facial recognition is ready for a closeup"
     excerpt: "To ensure that fan safety takes absolute precedence, venue owners and management teams should, without a doubt, be deploying facial recognition technology. Above all else, stadiums and event sites are looking to promote themselves as safe and secure ..."
     publishedDateTime: 2021-04-23T04:01:00Z

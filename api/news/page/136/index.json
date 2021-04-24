@@ -1,0 +1,48 @@
+{
+  "page": 136,
+  "value": [
+    {
+      "path": "_news/2020-10-06-simqu-leading-the-change-at-sage-publications.md",
+      "title": "Simqu: Leading the Change at SAGE Publications",
+      "excerpt": "Since SAGE began publishing print journals in 1965, Simqu says there have been plenty of major changes for publishers and users alike: peer-review, search engines, and emerging fields of scientific research ... “providing world-class content with ...",
+      "sourceUrl": null,
+      "webUrl": "https://journals.sagepub.com/action/cookieAbsent",
+      "originalUrl": "https://www.infotoday.com/it/jun11/Simqu-Leading-the-Change-at-SAGE-Publications.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journals.sagepub.com/pb-assets/Images/SJ_Twitter_Card-1557144152440.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Today%2c Inc.",
+        "domain": "infotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/britains-driverless-car-ambitions-hi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4?amp"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk's driverless dreams hit as Tesla Autopilot accidents pile up"
+    excerpt: "The car, a 2019 Model S Tesla, was manoeuvering a curve when it went off the road for about 100 feet and hit a tree at 11.25pm local time. The men’s wives had watched them leave just minutes before the collision,"
+    publishedDateTime: 2021-04-21T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/21/elon-musks-driverless-dreams-hit-tesla-autopilot-accidents-pile/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 74
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2021/04/20/200421_ZD_ELON_MUSK_PORTAL_trans_NvBQzQNjv4BqaypGtz_Zt6G5HZG2YLTIFpqon37PYiPSvTMVDwEnWaA.jpg"
+        width: 1196
+        height: 748
+        isCached: true
   - title: "The driverless cars of the future that will be constantly spying on us"
     excerpt: "Continual surveillance of drivers through video cameras to ensure they are paying attention is the only answer, say experts"
     publishedDateTime: 2021-04-24T04:00:00Z

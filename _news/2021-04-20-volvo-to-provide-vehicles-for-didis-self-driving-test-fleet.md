@@ -25,20 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "Bird’s-Eye View To Provide Self-Driving Cars With Some Needed Computational Omnipresence"
-    excerpt: "Latest tech allows for a bird's-eye view of a driving scene, referred to as computational omnipresence, which could be a huge boon toward the advent of self-driving cars."
-    publishedDateTime: 2021-04-19T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/"
+  - title: "Dubai First Non-US City To Operate Self-Driving Vehicles"
+    excerpt: "Cruise will operate self-driving taxis and ride-hailing services in the emirate. His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Dubai Crown Prince and Chairman of The Executive Council of Dubai,"
+    publishedDateTime: 2021-04-22T18:49:00Z
+    webUrl: "https://www.aftermarketnews.com/dubai-set-to-be-first-non-us-cityto-operate-self-driving-vehicles/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607b39a52bbfebfdc71c5b3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3967%26cropY1%3D629%26cropY2%3D2489"
-        width: 1200
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/04/Dubai-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Dubai Set To Be First Non-US CityTo Operate Self-Driving Vehicles"
+    excerpt: "Dubai set to be the world’s first non-US city where Cruise Origin, the first purpose-built all-electric, self-driving shared vehicle will be deployed."
+    publishedDateTime: 2021-04-22T18:44:00Z
+    webUrl: "https://www.aftermarketnews.com/dubai-set-to-be-first-non-us-cityto-operate-self-driving-vehicles/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 39
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/04/Dubai-1000x563.jpg"
+        width: 1000
         height: 563
         isCached: true
 

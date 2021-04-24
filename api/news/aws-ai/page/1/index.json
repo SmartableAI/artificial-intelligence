@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-24-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
+      "title": "Why applied AI requires skills and knowledge beyond data science",
+      "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "originalUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Frobot.jpg&signature=91ce227571d5e03e58b5f583cc661040",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-24T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-cognitive-document-processing-for-automated-mortgage-processing.md",
       "title": "Cognitive document processing for automated mortgage processing",
       "excerpt": "This post was guest authored by AWS Advanced Consulting Partner Quantiphi. The mortgage industry is highly complex and largely dependent on documents for the information required across different stages in their business value chain. Day-to-day operations for mortgage underwriting, property appraisal,",
@@ -1416,40 +1471,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-aws-announces-general-availability-of-amazon-lookout-for-equipment.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Equipment",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Equipment",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210408005793/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Equipment",
-      "originalUrl": "https://www.businesswire.com/news/home/20210408005793/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Equipment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

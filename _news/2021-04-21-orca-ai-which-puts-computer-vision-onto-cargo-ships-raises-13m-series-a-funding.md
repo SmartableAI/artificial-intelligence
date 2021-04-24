@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/orca-ai-which-puts-computer-vision-onto-cargo-ships-raises-13m-series-a-funding/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://thedigitalship.com/media/k2/items/cache/e99ccbfcd6755ddf21cb5bc4bc8a7921_L.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Scale AI Gets A $325M Series E Funding Infusion to Grow Its Data Annotation Mission"
-    excerpt: "Data annotation and labeling startup Scale AI is taking in another $325 million in new investment, this time through a Series E round. The San"
-    publishedDateTime: 2021-04-19T16:09:00Z
-    webUrl: "https://www.datanami.com/2021/04/19/scale-ai-gets-a-325m-series-e-funding-infusion-to-grow-its-data-annotation-mission/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 31
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/scale_ai_logo.png"
-        width: 370
-        height: 290
         isCached: true
 
 secured: "ah4gnC+fylzLIYv/3Y8/U8WjHJGFA1/QMYkHMAHvOdp2J072yfUwkfUA2WwD2hprVzpiKiNAqkrwIqGalOBCOXuN2mAztKEevuA4aulRd6dWcPJMdROBSM36IA56QdnJ9EKDndEzvvXe3tqXRyLQlaUhbgTRGHJrkSPu3ZNNAwqgHuuppO/HbYwZjc2l47ds+Php1A/9HfpDZCtY0h6Le68tRs9zHfmT9RhsL/JuNDf3QWom1e3A7tYNbAK/nFDHt6uTT8UYfCNZCF3I5iLW4AIrjylKjTLkbD3pn3Wug/Il0sTL9hHLOnwxWr38TXK2Q5j6isyjl33ZBPOSDhLM//PBYgHxj42w2VKmkFPzbAKdabydZpMT3Kh110QTNcKYTdMUwyfCXsy2My5543PD3mO9LOWCyFbwH6aJBj6e4d6LCBeHEU7o/3LIgrvDiK0EXEteoOpQ4J3aHbiGU0Qk2IPWfSLTQ5I0yhSuyz6Y7aggd3my9Q7/CLHSxxez6Wo1isiPhpcsof3SMvAxUeiu5w==;a1s/eQnPy1xR90/QBL7fcw=="

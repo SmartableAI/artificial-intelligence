@@ -53,20 +53,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Scale AI Gets A $325M Series E Funding Infusion to Grow Its Data Annotation Mission"
-    excerpt: "Data annotation and labeling startup Scale AI is taking in another $325 million in new investment, this time through a Series E round. The San"
-    publishedDateTime: 2021-04-19T16:09:00Z
-    webUrl: "https://www.datanami.com/2021/04/19/scale-ai-gets-a-325m-series-e-funding-infusion-to-grow-its-data-annotation-mission/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 31
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/scale_ai_logo.png"
-        width: 370
-        height: 290
-        isCached: true
 
 secured: "GFW0hkZIhYZCP27FG0Lu9IVm2SgBywdFQy+qUjGIFeo5Q4YMigsnkGHQRPX5puZzeTxeDdQsBDLQAfVfJsUNqZdRu82ZqEmetS5dJwieTwMUVue/+MKe5c8IQSFevlvYZVBxXKjZgFs4nkx2x2unmBVLsmSGntjLSJYepUrD5teoIC8rmhmxppsTPNUybdt2sEeGc+i0OiKQbawyv1WSINl8vsxAORkqiqyClorUMSwyHsrWDCEtenSjl4+IehE4RoMCcOD01DOCBYO4t90JC+PckbklyE5x7DDePgHtPE8w0X6XCkq9ur7kx10J4nELt4HkrNWLzVJMgiLyDWsTZmo7WvcXLllgXp+h2u+cTSk=;NDc2lEoONobelpMsAgiEnw=="
 ---

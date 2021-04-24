@@ -77,24 +77,6 @@ related:
         width: 2000
         height: 1340
         isCached: true
-  - title: "IBM Reports Higher 1Q Revenue"
-    excerpt: "Chief Executive Arvind Krishna's plan to revive growth at the veteran tech company. IBM Monday said first-quarter sales rose about 1% to $17.73 billion, generating net income of $955 million. Wall Street on average expected sales of $17."
-    publishedDateTime: 2021-04-19T15:31:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912368/ibm-reports-higher-1q-revenue"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
-  - title: "IBM's Revenue Growth in Latest Period Beats Wall Street Expectations"
-    excerpt: "Wall Street on average expected sales of $17.32 billion and net income of $1.28 billion, according to FactSet. IBM still expects revenue to grow this year and anticipates $11 billion to $12 billion in adjusted free cash flow for the year."
-    publishedDateTime: 2021-04-19T16:04:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021041912824/ibms-revenue-growth-in-latest-period-beats-wall-street-expectations"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 4
 
 secured: "xj3E4FSfcLmwc/CjbbAL406j5cDu8akl23PYXeD6bGQ7avlh+WyVJVhX3DWzXtkWhvMX2dnUHaZwcDkrKSNu7Yo5lTpRnZFCdCqZBKtSLQwTfjlNoT+BNTk1rg0oYu4hUJXvhcTdMzC+lngHdnkAnY2oPUkiODhtU1P0Akxwu+vwq8NtR4ck3BcTx+IbkvPznM9IOJGhTu1t/9kfvwee9gcc2lDOGdvJDeKcr767AOnoVD1xoFrvsScBDsOn1yQncUKAxj5tOIXblCQjkhQVK1x7fU3f3Y4zNsx1FJttFSgeeGssmDi5GoR5x7Bpt1EyN8jqcp1g4vZYTnXaGOesbBNKgw/YYUHwP/nix4qrdww=;WthaZL0OAIdu6v5OujGgfg=="
 ---

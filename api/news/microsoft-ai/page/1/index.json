@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-24-why-applied-ai-requires-skills-and-knowledge-beyond-data-science.md",
+      "title": "Why applied AI requires skills and knowledge beyond data science",
+      "excerpt": "Using machine learning in real-world applications and business problems presents challenges that are absent in academic and scientific research settings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "originalUrl": "https://thenextweb.com/news/why-applied-ai-requires-skills-and-knowledge-beyond-data-science-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Frobot.jpg&signature=91ce227571d5e03e58b5f583cc661040",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-24T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-24-scaling-ai-workloads-with-hpc-environment.md",
+      "title": "Scaling AI Workloads With HPC Environment",
+      "excerpt": "HPC uses clusters of machines connected together to enable workloads to be processed in parallel. One of the best-known types of HPC solutions is the supercomputer. A supercomputer contains thousands of compute nodes that work together to complete multiple tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
+      "originalUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6083d12e41b6d342e108c3f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2021/04/24/scaling-ai-workloads-with-hpc-environment/amp/",
+      "publishedDateTime": "2021-04-24T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-the-challenges-of-applied-machine-learning.md",
       "title": "The challenges of applied machine learning",
       "excerpt": "But using machine learning in real-world applications and business problems—often referred to as “applied machine learning” or “applied AI”—presents challenges that are absent in academic and scientific research settings.",
@@ -354,7 +461,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1303,83 +1410,6 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-stone-gets-microsoft-thumbs-up-and-redstor-adds-azure-support.md",
-      "title": "Stone gets Microsoft thumbs-up and Redstor adds Azure support",
-      "excerpt": "Redstor’s offering will help arm service providers with the tools to identify and remove threats, backup and restore Kubernetes environments on Azure and migrate more of their information to the cloud platform. The firm will be able to use AI technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
-      "originalUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1",
-      "publishedDateTime": "2021-04-08T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-ta-digitals-searchboostai-named-in-now-tech-cognitive-search-q1-2021-report.md",
-      "title": "TA Digital's SearchBoost.ai Named in Now Tech: Cognitive Search, Q1 2021 Report",
-      "excerpt": "NEWARK, Calif., April 7, 2021 /PRNewswire/ -- Global digital transformation agency TA Digital has announced its inclusion in Forrester's Now Tech: Cognitive Search, Q1 2021 report. The company has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ta-digitals-searchboost-ai-named-in-now-tech-cognitive-search-q1-2021-report/article_2a86e780-a81f-5cc9-b4f5-7c4e66f8501c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ta-digitals-searchboost-ai-named-in-now-tech-cognitive-search-q1-2021-report/article_2a86e780-a81f-5cc9-b4f5-7c4e66f8501c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

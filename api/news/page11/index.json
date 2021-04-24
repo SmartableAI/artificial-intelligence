@@ -2,6 +2,152 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-04-14-ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers.md",
+      "title": "AI Chip Startup Groq, Founded By Ex-Googlers, Raises $300 Million To Power Autonomous Vehicles And Data Centers",
+      "excerpt": "The new funding values Groq at more than $1 billion – though just how much more Ross declined to say Over the past five years, Groq developed its first AI chip and got it into the market, with customers in both data centers and autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074cb4ae44b16aa367895a0%2F0x0.jpg",
+          "width": 841,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyfeldman/2021/04/14/ai-chip-startup-groq-founded-by-ex-googlers-raises-300-million-to-power-autonomous-vehicles-and-data-centers/amp/",
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-samsara-unveils-new-app-marketplace-integrations-to-streamline-and-automate-workflows-for-customers.md",
+      "title": "Samsara Unveils New App Marketplace Integrations to Streamline and Automate Workflows for Customers",
+      "excerpt": "Samsara, the pioneer of the Connected Operations Cloud, today announced seven new integrations available on the Samsara App Marketplace in",
+      "sourceUrl": null,
+      "webUrl": "https://www.samsara.com/",
+      "originalUrl": "https://www.prnewswire.com/news-releases/samsara-unveils-new-app-marketplace-integrations-to-streamline-and-automate-workflows-for-customers-301268410.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/bx9krvy0u3sx/2pEohyAk9wWMH5ChIl7RLf/edc6dce57b13e4190a32257b9986dee8/og-image.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-14-the-future-of-facial-recognition-blends-ai-and-ir.md",
+      "title": "The future of facial recognition blends AI and IR",
+      "excerpt": "Facial recognition technology is quickly becoming the cornerstone of modern technological security solutions. Be it from simply unlocking your smartphone to registering access in and out of a secure office block. There’s no denying that simply lifting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
+      "originalUrl": "https://www.androidauthority.com/future-face-recognition-1217022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/04/Apple-Face-ID-setup-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/future-face-recognition-1217022/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/future-face-recognition-1217022/amp/",
+      "publishedDateTime": "2021-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-the-eu-is-considering-a-ban-on-ai-for-mass-surveillance-and-social-credit-scores.md",
       "title": "The EU is considering a ban on AI for mass surveillance and social credit scores",
       "excerpt": "If the draft proposal is adopted, it would see the EU take a strong stance on certain applications of AI, setting it apart from the US and China. Some use cases would be policed in a manner similar to the EU’s regulation of digital privacy under GDPR ...",
@@ -1086,142 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization.md",
-      "title": "Utilizing AI And Big Data To Reduce Costs And Increase Profits In Departments Across An Organization",
-      "excerpt": "Research reveals that the combination of AI and Big Data technologies can automate almost 80% of all physical work, 70% of data processing, and 64% of data collection tasks. In this article, we explore the major indirect cost origins in departments that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607602a6a361353e05e81429%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/04/13/utilizing-ai-and-big-data-to-reduce-costs-and-increase-profits-in-departments-across-an-organization/amp/",
-      "publishedDateTime": "2021-04-13T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-regional-aged-care-homes-closing-at-an-alarming-rate.md",
-      "title": "Regional aged care homes closing at an alarming rate",
-      "excerpt": "Aged care homes in regional areas are closing at an alarming rate across the country. More than 150 other regional homes are in dire financial circumstances and at risk of closure, leaving many elderly Australians with an uncertain future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.documentcloud.org/documents/20665075-41f45c66-98d7-46c3-b08e-ae4b81a1f8c1",
-      "originalUrl": "https://www.abc.net.au/7.30/regional-aged-care-homes-closing-at-an-alarming/13301258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-how-coca-cola-european-partners-consolidated-their-shared-services.md",
-      "title": "How Coca-Cola European Partners Consolidated Their Shared Services",
-      "excerpt": "Consolidating shared services across a multinational company requires thought ... First, 90% of all requests arrived via email, whose unstructured text has potential for machine learning solutions. Second, the scope of most queries was limited to certain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6075f27716c61e4fccf6ab8e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1068%26cropY1%3D98%26cropY2%3D699",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/04/13/how-coca-cola-european-partners-consolidated-their-shared-services/amp/",
-      "publishedDateTime": "2021-04-13T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

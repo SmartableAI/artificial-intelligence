@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/21/four-ste
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/21/four-steps-to-data-democratization-with-artificial-intelligence/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ambow Education Soars on AI Deal with Amazon"
-    excerpt: "Ambow Education expanded its Amazon partnership to help improve the company's engineering courses and address growing job-placement needs."
-    publishedDateTime: 2021-04-19T15:25:00Z
-    webUrl: "https://www.thestreet.com/investing/ambow-education-soars-on-ai-deal-with-amazon"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon"
+  - title: "Using AI and data to make decisions faster"
+    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
+    publishedDateTime: 2021-04-23T20:06:00Z
+    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
+      name: GCN
+      domain: gcn.com
+    quality: 37
     images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ4ODYxMDczNTQ5MjA3/2-harley-davidson.jpg"
-        width: 620
-        height: 349
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "MgG0LnKFnxfrWG3TQqQEFQWHhzmuMrfpkTjIGbAOhd6lvkJsMqRrClJb2boNYs1zk7/d92TGyjCyTWYpK7RZIRpueWevnKJsrT/BU+vamarTQcVuEzVrWd9w47PD/O7hiRSXdV7L/MNkLT7I4K1Yx3/HqmEr0S1DsLtFTXaCX/CIlHMEiHSPBJF/Jf2Du5Y5HjVcMZskcni4N5EuEZ+sXxMb7JWTAqKBlqGBH2ZlMAcmFp5Qk0MimsUTuZiILLsnReNOvZmMmm1c3j7fBClE1f8ZMgsJ9vVxGA6K8ptMP/bA2ot/gZPLlwdBvNF2nvbTu6T7Ea3E/ylY64IAniO3pINWzreetUfkqr5PJpgK4qUfOtuX+C4N63bL6qEy+1ksrMzEXSrLHywYkPsGgbpHsjkmkelCj3UyQp23M+BoSvEd60kwHJr8s2DHoOLXfbzG24spsYOdpovirOpkYI7/sOkfgExJbrwE/insYBYNMrDx07+EcMFFUebTxd/sDkjI+YHft24GwIuuycNoYltSPw==;SarBnIJ6o1Bjawyx434S3Q=="
