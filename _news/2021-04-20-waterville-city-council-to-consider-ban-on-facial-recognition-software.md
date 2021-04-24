@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Waterville council to eye banning of facial recognition software in city"
-    excerpt: "The council is scheduled to meet virtually at 7 p.m. Tuesday and the public may view the proceedings via a link on the city's website,"
-    publishedDateTime: 2021-04-19T20:31:00Z
-    webUrl: "https://www.centralmaine.com/2021/04/19/waterville-council-to-eye-banning-of-facial-recognition-software-in-city/"
-    type: article
-    provider:
-      name: Kennebec Journal
-      domain: centralmaine.com
-    quality: 18
-
 secured: "9qn215vzUczMqthTd1zJ0tmaz/lCrkyvIi3YUGf0RRGcwzr6HSm4eXsq7//jmwnEJ9QZGsgVwryjmD1rGF+gS8bmBzXNR9DIA5JyWB1M0qB3QUkCXHN++9v1hJlIEnJoYazgqWasqxKx9u6uuF/fRs5PaS+D/7jXY8XinbN0CE6A8aGc2ZtcK62ezCyLXdB4FoiivsVWy8Ltum27Fawz4YD4mO+/z9+jFavWxt1H96e4jrolxJvOs6ncXVPmfBPidvtMkMaNmhWA+SQI8JXSfLQOgVxOimwD+M+pffnkrz5FvkR46l/mM2L12T53jya0Px+0OCD1ManWBuTGqWp4CIlzk6rZnqYg7ZOeadqNLcw=;bWO129des3+fzRT3O20aDQ=="
 ---
 

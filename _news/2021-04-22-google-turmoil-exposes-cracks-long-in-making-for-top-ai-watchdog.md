@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ..."
-publishedDateTime: 2021-04-21T17:13:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
+excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
+publishedDateTime: 2021-04-22T03:51:00Z
+originalUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
+webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI58F34A2pB0/v1/560x-1.jpg"
+    width: 560
+    height: 746
     isCached: true
 
 related:
@@ -60,6 +56,6 @@ related:
         height: 826
         isCached: true
 
-secured: "ukZLis+S8KfG3OV21qIwVNa7BfsUJSCiGIbKihIPr/RdXNSRPrn5wOdp4kbo/z+3GiTByw9vnZdJh4958a+OqtOL2Cz3bGL9/LZqdNBrLxTLAM1bNOT3p6dGjtkDOUrVN8uXivfoIqPaie+ARHeaHChUSbj/pxnEpuxT2Q/kkwDZ4XZS06v1MrvMJDN8n93iXhLeivaq0O8amZIw7G+Tt6JGFPzVYqWK59/pnKmK4cmTd1zqqzQzLVcSbePv/OiQyp1QZGDcOY5/a/6XH3viQAD6EJsoZ9cdHxSEKy3hWzSajPM5r9hQinykkzD+0Uf7ecXRjeyB30e0+MKF76NMDYYF9I3WJyTkKEcaXTwnhjk=;9TDMNEO3/5nbGo2ywF9IaA=="
+secured: "PbqIpSMoWBKtWq8dssXhT9lDfZgToXzmR4/cBN5CSZwrp8rZjwmIlnSJNz7easAV41C3MeXUALOqNH/n7N33VtlZPPI2d5DS2S9HxnI90YD8Y7XVe+nFZoWWpC+y2GLc4Xf99Y2XbxbmSGF9Kz2RCE06E8Zd+z284bxXgMGCb+28B17DBiPVuRh7Pkaw9TK+7bTknQ7KIcRv/c+Jm9P/CTZ87DyIhZI59F3CazsPXaLHTw8ltTbeqPWFc0Bd4vcpwagc5etFBkdiZgTiRK+dsbpGWttz3ZpdTamGBedAj0AIf69tMXqqxyVT+yfdiX1imYLcxtvO7xEBvYEuSjfvSHBHz/0LD31e6aRDc5DAtAw=;aFOwXgpaFRtuc2RxRPJNbQ=="
 ---
 

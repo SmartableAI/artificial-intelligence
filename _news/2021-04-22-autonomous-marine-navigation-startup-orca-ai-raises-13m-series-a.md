@@ -51,6 +51,20 @@ related:
       name: Hellenic Shipping News Worldwide
       domain: hellenicshippingnews.com
     quality: 37
+  - title: "Enterprise AI solutions startup Hive raises $85M on $2B valuation"
+    excerpt: "Cloud-based enterprise artificial intelligence solutions startup Hive has raised $85 million in new funding to accelerate the growth of the company’s portfolio of cloud-based deep learning models through continued investments in products and increased investment in sales and marketing."
+    publishedDateTime: 2021-04-22T00:51:00Z
+    webUrl: "https://siliconangle.com/2021/04/21/enterprise-ai-solutions-startup-hive-raises-85m-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/hiveai.jpg"
+        width: 556
+        height: 380
+        isCached: true
 
 secured: "MpvqTLq9fkYApegbauUutco/2OhkoCQViRFA5MCdfLZM9HfUWofyntSzMSn9yR9zStunzuKzxTn9Um9dVhq9k2c7ON1Dukq2esQWS4CxbZfaRyICRsBekugLD1Bo1imPq4JMLFVq4aYt3sKu+z2agmsH/mLh82+DdMDzFpL8AO99UIniDNUrSnpSZIznAIWXveNdwGb40e+sYIJe2z9//ql6OCPfPFkfgzEzVGLScaMP7nA3YhpzLdJ/s+//lrsri+X/Znsbb2Uxr/Yc/T1C2N3jHo1h5D2DVrMhyY2pKIkQjM9BBldhy6fsvSX+OQht1uXi5FCaejpR2s4O0YvVtyl16hcefrKhbHQDk8vYZlTAfV4FAfrnMKYNIywTmNVltH7XqK5gR77Jw9NXeLVj8HE88jayEkhHb3RvxeaZrYLDYgjUHcKZwZ9cb0f1PgtnMWtNiVotXP/R+Odz2Svcf06guMBpHEReE1rFB1ihpIc273rshfpwVD0JRzJI8QTc+K6qjmWeBJkiQ1UktEj6fg==;8knvKxfIhL52soYqYPioMQ=="
 ---

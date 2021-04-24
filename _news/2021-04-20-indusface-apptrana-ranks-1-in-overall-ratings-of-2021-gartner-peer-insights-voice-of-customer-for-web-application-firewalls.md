@@ -22,17 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "UKG Scores Highest Overall Rating Among Customers’ Choice Providers in 2021 Gartner Peer Insights ‘Voice of the Customer’ Cloud HCM Suites for 1,000+ Employee Enterprises"
-    excerpt: "UKG (Ultimate Kronos Group), a leading global provider of HCM, payroll, HR service delivery, and workforce management solutions, is a 2021 Gartner Peer Insights Customers’ Choice for Cloud HCM Suites for 1,"
-    publishedDateTime: 2021-04-19T19:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210419005604/en/UKG-Scores-Highest-Overall-Rating-Among-Customers’-Choice-Providers-in-2021-Gartner-Peer-Insights-‘Voice-of-the-Customer’-Cloud-HCM-Suites-for-1000-Employee-Enterprises"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "kj9Uzgu2OMM/a3tdA33kT8CPaLOD5qaWsuYb3ybsDHurMZzjRmhuGR+fxbOgHKqIPFSfMUylh5k06n7o9IpFeovPqW1j3A6mIENcL7gkd3/hsXBONMP13EgkRU7TNKPyFNg7JKmWp8yvrv24IvbIGOeUeulCNxVUb0Pq6EBKjnQEVgMUAEWmGfvr3qxhMUxkGOuqRRf6OuFanHjCINTqSolwwFaIWdd96Ls9hxFIzVTgTjZRDnBeo18rcX1YNX6L0/sNzQGDcDQhXoJY4ee6xEOxACDwAVp+RmSju/soVfLFzcSUr1YyZmjXAvQfA5wZVIP8kR4uEGTqkRLFSXvHL8nBhNcPd+8veZTcpooV9OE=;5sEkErf4Qpfw16fa6QTKDQ=="
 ---
 

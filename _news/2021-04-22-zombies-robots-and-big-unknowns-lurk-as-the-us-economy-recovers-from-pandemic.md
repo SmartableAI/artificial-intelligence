@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknown
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
 type: article
 quality: 84
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     type: article
     provider:
       name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 13
+  - title: "DJ Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
+    excerpt: "The U.S. economy is going through a unprecedented period after having been shut down by government decree. Whether you have a doctorate in economics or not, it is a guess how it will work out. In the immortal words of former Secretary of Defense Donald Rumsfeld,"
+    publishedDateTime: 2021-04-24T07:29:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210424274/dj-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic"
+    type: article
+    provider:
+      name: Morningstar, Inc.
       domain: morningstar.com
     quality: 13
 

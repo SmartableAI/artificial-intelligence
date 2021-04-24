@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/21/four-ste
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/21/four-steps-to-data-democratization-with-artificial-intelligence/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Using AI and data to make decisions faster"
-    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
-    publishedDateTime: 2021-04-23T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "MgG0LnKFnxfrWG3TQqQEFQWHhzmuMrfpkTjIGbAOhd6lvkJsMqRrClJb2boNYs1zk7/d92TGyjCyTWYpK7RZIRpueWevnKJsrT/BU+vamarTQcVuEzVrWd9w47PD/O7hiRSXdV7L/MNkLT7I4K1Yx3/HqmEr0S1DsLtFTXaCX/CIlHMEiHSPBJF/Jf2Du5Y5HjVcMZskcni4N5EuEZ+sXxMb7JWTAqKBlqGBH2ZlMAcmFp5Qk0MimsUTuZiILLsnReNOvZmMmm1c3j7fBClE1f8ZMgsJ9vVxGA6K8ptMP/bA2ot/gZPLlwdBvNF2nvbTu6T7Ea3E/ylY64IAniO3pINWzreetUfkqr5PJpgK4qUfOtuX+C4N63bL6qEy+1ksrMzEXSrLHywYkPsGgbpHsjkmkelCj3UyQp23M+BoSvEd60kwHJr8s2DHoOLXfbzG24spsYOdpovirOpkYI7/sOkfgExJbrwE/insYBYNMrDx07+EcMFFUebTxd/sDkjI+YHft24GwIuuycNoYltSPw==;SarBnIJ6o1Bjawyx434S3Q=="
 ---

@@ -50,6 +50,20 @@ related:
         width: 643
         height: 361
         isCached: true
+  - title: "Enterprise AI solutions startup Hive raises $85M on $2B valuation"
+    excerpt: "Cloud-based enterprise artificial intelligence solutions startup Hive has raised $85 million in new funding to accelerate the growth of the company’s portfolio of cloud-based deep learning models through continued investments in products and increased investment in sales and marketing."
+    publishedDateTime: 2021-04-22T00:51:00Z
+    webUrl: "https://siliconangle.com/2021/04/21/enterprise-ai-solutions-startup-hive-raises-85m-2b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/hiveai.jpg"
+        width: 556
+        height: 380
+        isCached: true
 
 secured: "5SSp7kVA9SL+mDfErqoN6zSey7JKLRI3K0huXVEne4kY8qKbbwhORf+dTEXEREQE6OmZZgOA8nOLIgp3zbI8+u66gDg5q150Uof7zwuESqASv2cd0pz3zJychCB+/AU41GvAb/pvS1CPw1KsQBEPyfFdGiKIDMzBkGxwiYRIchJMUUFl81bRAJlMdLsr7jIb59qif5oH0/9LVxCMwqBm1BQLQI3tGGOevQ4pB0YIV7xgRAAEaAQmTzZqzUgXBxL9apt9Tqrm8m7K8smbcUYppLWVLS5gmAzXhENoNn/iX42XCOBNr5rRtrFMplIWZGmnswunidN1YQYtFd+UVOgdaa+oTf3rNahDKDos5vByzOc=;EcFFxCDvQIiiDILbBKq2Ug=="
 ---

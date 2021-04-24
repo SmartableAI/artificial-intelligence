@@ -6,7 +6,7 @@ publishedDateTime: 2021-04-21T19:15:00Z
 originalUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
 webUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
 type: article
-quality: 71
+quality: 88
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Computer Vision
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/2176ccc/2147483647/strip/true/crop/927x451+0+88/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F86%2F7a%2F5dcdf98c5260ec88bbe78c257b82%2Fshutterstock-1492635029-2.JPG"
@@ -163,6 +164,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "EehA6Tfpij5HDynSciFG/lUhTOeheoqchxumkCoc5DYCZJau8kCIUHnNjORTtUjOLAtIBy/CFG08Q2iBdhj8o3Qz1fTniLnAZonAPqqJfwKt2zYgUfLmw2SP3hw08i2EvVt+Isct+vyZIjVZboFkbKB0SKGtp+j3nKsCCqU0ntU+Qgzy82o+5pUNBRzurvFVluUijRCpmXr+gAt6BHK4nVgB2GBz4DXahwc7DJ7xt5I3bmCgnhe9a496b9MEzgcc20paXA1aGMFbEBPxBeJLXaJGSuQUUFMPSmM6j5HRu9IULq4k+RiKQDZm04wIFpJR7+SnbAgvN0BzgjpY67XjST2by/i+PsYovU1mcgOMzv0=;0D6s60dCkXR0PBdEmg2Czw=="
+secured: "RO5Oo5LHDBOsquXKq1hV5HIt+zpOoZRGtBsmXAmxjwAlOD5l104iukz8y5n4NIk6PHXHrph7EgVlvupE92YeiHn9EXHZs2Q8o1ZA/9sBgvywFWcaQKXFSQ9c75nqiE6ZvPMD6mZHEpD1Tc/CtIhtXxVn95fFFFWItE0IAlvSFkA7/ThWekvduvxlrVHyGaXbyPWfYRKOru6Kd6fpNAt3Cb3HHGPbTJNAuboIrf/T5mAWP3cFG2o0yhiBiEmRpDiqmV+nAP8tSwP/Eb1XFv3mwoz0BOTZBbcFnEkGPyS3Duvu6s0YmRK9OS9it/8RxLdYP4DS6txntDhtlAXE3IyedB+7zGqOtpmLlQxA5y0TmLcp8IwThYEdSlRCnNU6mhGkR28zgCa20hbV7c7aJLJLVBSBpvFcEST/G1Hl0dbj8grnVyBtGz0zhiOFGMvgeV0bVwtEArPD4hYFil5sUZoB19apoflWXgHO4nh2fufINaN7mkgVGW+2B3pv2IIE+J0uWmXyPs6PNc5/K8psiLmVrw==;pK4m4KFuH6lg6GweNPYiSw=="
 ---
 

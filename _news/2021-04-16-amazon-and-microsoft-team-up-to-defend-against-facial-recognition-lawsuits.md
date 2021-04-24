@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Amazon and Microsoft team up to defend against facial recognition lawsuits"
-excerpt: "Cloud-computing and crosstown rivals Amazon and Microsoft have teamed up to defend themselves against twin lawsuits challenging how the companies built their facial recognition software."
-publishedDateTime: 2021-04-16T15:07:00Z
-originalUrl: "https://www.columbian.com/news/2021/apr/16/amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits/"
-webUrl: "https://www.columbian.com/news/2021/apr/16/amazon-and-microsoft-team-up-to-defend-against-facial-recognition-lawsuits/"
+excerpt: "Snapchat and Shutterfly have faced similar suits. Amazon’s facial recognition software, Rekognition, has become a particular focus of criticism by civil-liberties advocates. Amazon is the ..."
+publishedDateTime: 2021-04-15T17:21:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+webUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/facial-recognition-lawsuits-against-amazon-and-microsoft-can-proceed-judge-rules/?amp=1"
 type: article
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Computer Vision
-  - AI
-  - Microsoft AI
   - AWS AI
+  - AI
+  - Computer Vision
+  - Microsoft AI
 
-images:
-  - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "YBebjp629HAPLkK0TyG7VaHpwrYO9S1u8Uf7f7pRXmxwg8cfihjl1gJbtyiB8t8KhlUZxtrda+ceAur6QSuGp7AFoRhssKrRNsFG3pCyM4KRcrvcMPWKSF7s/RoOK8viMmTqOTu/wQLp/qTJhpsBVIy3DU3XmIX8riNdykU9R9gkS4XMSP0/S2cTidOHSTJAbVniJmNrQn4vzRXdy9VqF3IRST5rDJxn1qydoHd73V3vYsfKrUGrpEl4Mnnn8SwDVb+qsN4UeNNjhdvVqzL+qnHpAOBrfH1psz7oahUZJgyrpq7RY0y1/r8T/oI3fOtsmIiryG/qogn7V2bUpxmtYGpqQFM2O/GZTsjYm4HKJRk=;nQp9qFNeM458VSrwlZCZgQ=="
+secured: "2NvakRLC+aktIEW0Ob0IaQwj7Ah0qTJWcLHH0/c1WJrf4Hxn+dii+ivvn78Emuk9rBikxp6y8pyK6bmjVWrrEj61qza6/l88A8t4VhT9MGBhHUkxMbptKHoEcIcX+lFCG4PdaxRXvW9EM7sv0jpMkA+yBHezWvbT/57D+kpMCUEPiH/Xz79ASC/1b4HLFq+LJ8nms9bWgTJtwMriOCEULMXseUbFncncmpRgtru+vZ+a9c98gaATTII1/qyfoOdqUlho+UM/kGUhTEUGDrjstzAAV89xQnRhuYvglz4aRdIQ3fFlrHqOIVlrYxdL8nOInH8KFzUbnF3ccl01hgyE3rxpgv9IzD69W1YCCly0LdI=;dFeEm73ap281UPXgvs2BVA=="
 ---
 

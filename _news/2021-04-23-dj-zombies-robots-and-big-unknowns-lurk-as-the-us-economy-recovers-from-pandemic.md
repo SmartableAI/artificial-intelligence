@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DJ Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
+    excerpt: "The U.S. economy is going through a unprecedented period after having been shut down by government decree. Whether you have a doctorate in economics or not, it is a guess how it will work out. In the immortal words of former Secretary of Defense Donald Rumsfeld,"
+    publishedDateTime: 2021-04-24T07:29:00Z
+    webUrl: "https://www.morningstar.com/news/marketwatch/20210424274/dj-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 13
 
 secured: "WEWJJu/bF/PyaIM9WTeORXUr3hUm3Xi3Xs15tc08P1gWyQ0LmOnfNSgcre57lyFtQzoesxFYA0ezFkMdKKirf2b6xCVu5yFyM1WmIk7rbiFoP4880nf1f5b9rAC9qi3nl5KAu0Y41XTSzI84I4+Immsr7m7OQ+HnpKJJ0vih6ARcKZffkfu/MDlSR1JugsH+v1+k/0nFGQ4YAawGL3iXTY/WfL7ySTkVGNw8PCAhASpg9GEhwb/tmII0H32cb1mqYRVuoWSlVhqpm3rRJwZG5dMdx7r7N/b5PRagjuqLc2VV8u3hUiJxdlFy24hs1Lixga1mQ9wdIp10sgfUROrhFAFQ09Q6xkWe6tzVLeMhWTA=;kNziMe7snMtr36OzwGvgWQ=="
 ---

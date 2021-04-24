@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/20/only-6-of-organizations-have-adop
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/only-6-of-organizations-have-adopted-ai-powered-solutions-study-finds/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Companies wary of unexpected outcomes in AI adoption"
-    excerpt: "Half (52%) of companies with mature AI implementations say they check the fairness, bias and ethics of their AI platforms, according to the O’Reilly 2021 AI Adoption in the Enterprise report, released Monday."
-    publishedDateTime: 2021-04-19T20:57:00Z
-    webUrl: "https://www.ciodive.com/news/ai-fairness-ethics-bias-risks/598660/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/user_media/cache/e6/aa/e6aaea614ed299010621172ab9693560.jpg"
-        width: 770
-        height: 364
-        isCached: true
 
 secured: "Fq5QOzzlN4F8BVHi7vCNhvYpVveYIbmNgovliylQSCO7i2qPYOMyOsXhdVJu/3N6jPsBUb4tMJMacztO6SWafF3tyNBguY6ybXf0cAzZ4kJdzU1IBjGaY5EHlJ8cF57We25YelP2foIZIxL0Cd+Yfty8y6ZHhhwlbKTWgCiFLc8aBsjP5gpxPJkCjXKWbP+wBGc188/2Oo4+vqqZnawIh1RRqWchYMnxvfKnATw0G4biFnJzyWVstKolVqv6jeavopqvBVpvzLq+xejhepmms36oKmju8kaHSLmbS7Bpps8B+nv43sIorZKVbi6iM1rhG7rjRjTHWG8OhW1EYNw/r3CUkVKw95Izk8/5CfkgaBVyZriIwCVjOmrXuBSms/B0326eo5Q1jwDaimFumF4LAtAsbIntD7bNDpUp+wPKFYgkdOyu1nZIwWxyxXdwSHWnXseOLwS305imL6QrNFQaOTzq4g+6bjQXjWflyFX4BzwQqGVZToU8H7vn+XpEBUm3DMv9zp4Qp9kG7xhETlrPMA==;9a28BzBUIlaW0GBf4N/yvQ=="
 ---

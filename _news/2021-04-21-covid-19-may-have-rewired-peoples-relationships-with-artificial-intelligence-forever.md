@@ -9,8 +9,8 @@ ampWebUrl: "https://observer.com/2021/04/covid-19-may-have-rewired-peoples-relat
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Observer
@@ -39,20 +39,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00446-z/MediaObjects/41746_2021_446_Fig1_HTML.png"
         width: 593
         height: 685
-        isCached: true
-  - title: "New AI tool tracks evolution of COVID-19 conspiracy theories on social media"
-    excerpt: "A new machine-learning program accurately identifies COVID-19-related conspiracy theories on social media and models how they evolved over time--a tool that could someday help public health officials combat misinformation online."
-    publishedDateTime: 2021-04-19T19:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/danl-na041921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/262477_web.jpg"
-        width: 720
-        height: 766
         isCached: true
 
 secured: "vG5FchZslDAD/uG/QSttUkSNNkCZ/wgpDDapyBpSg+n6uf11jWh4TgC0dwiy4YxxESmAEws8Ww5Opus2qu7NjInoX8/DfXg0bLpxQc26lMIYqeXftDFkPkylRJxZyFA0aco9LuqE/LbY3cpF7s+HAuxdH5w0xaf+r4p3/MMQyNsFeq7FJAvjWCPP8cxDCb0k81eHxUA8liNYB0Rv3eVIxgvdNu7ps0TpJkCy6lPA7w6Ryf+cB4SGD7iRCc1HbiPANTsy5zT539LFpNDE2ET9zPhl1CLtqVvqnIy8z00NUfVsHdwrLxJLSgqfphj5AMXZpj7m5z7ffuWTPdlFSYv4pm7Dlb9r08kTthmLNNHMa/T5YC+putti89W5uFpm8Irs/d0DVCPEFKu69y25wuwpy0/Qgv61aO6/VkJl8hB4y6BjMk0vUxwo8AEzm7A/apcyPs1NXmsJVTaj8THW392KoLMkaCdbX0v3cF3Rvf7haemLYnUAgCp86fcLKS0dGvrId4Hd2tHqDfTz1vN/G7EKeQ==;qaYuK8QVAh9Nqma0AowIjQ=="

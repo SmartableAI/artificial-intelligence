@@ -40,20 +40,6 @@ related:
         width: 3383
         height: 2701
         isCached: true
-  - title: "New AI tool tracks evolution of COVID-19 conspiracy theories on social media"
-    excerpt: "A new machine-learning program accurately identifies COVID-19-related conspiracy theories on social media and models how they evolved over time--a tool that could someday help public health officials combat misinformation online."
-    publishedDateTime: 2021-04-19T19:33:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/danl-na041921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/262477_web.jpg"
-        width: 720
-        height: 766
-        isCached: true
 
 secured: "uzheoy24NSb4eZ+kp1xctM9amOIx15fvFp2IClyWPZfEo4vSTeoVFGPFdriaUn3TDxJG0rDg4axyexB1lUGFyo2hnyAuGnjDpyZ5By9YTR8iXS6BfHyA2E4mbNQApyyVEzpkbHT8jYN1pwy6s/nf76PPWdZEbNcPUkCVIPtsN39AcyUf65BTz3rdVQYJrkDcQWVNzVpt5It9HNBy1VhvjyEzG2Ehd+F4luMBo3xdRf0n+atVxFs+lgNmXfexLZNoRMPSH/X5lUlWpMM9/tkkhCLbp0kqOVcBNBYIxpJ3qnmIOcClSI4FecP5n+sC1KMPy+GJHkwXPbmE8uIOyiIcXkuitZvqLCm1vLY9jjn/QeKq8+1epA7nABauAE7sCGK57n9wOOWsxZW2MOIab2WsHs6MdbnA9ZgxGMvokAGi+pgElLIqiW1OkrcVUGQsmrCPKrsZDbmem83v4Slt4mPWHbwg6UPCj4Z/4UqPkg/nxDL+NzWQrKMwHJ4jYpY8w4Tu0iT4JOfC9+F2zIoA7d4Jvw==;I36BG3vjvcjrojLEbZ9NLg=="
 ---

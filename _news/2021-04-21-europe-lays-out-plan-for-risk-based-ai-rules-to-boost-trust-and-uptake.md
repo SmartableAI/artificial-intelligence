@@ -188,6 +188,22 @@ related:
         width: 300
         height: 230
         isCached: true
+  - title: "Will Europe’s Historic Artificial Intelligence Law Be a Template for United States?"
+    excerpt: "The European Union has unveiled sweeping legislation that, if passed, would strictly limit the use of artificial intelligence, or A.I., a relatively recent technology that has garnered widespread use in almost every aspect of modern life and sparked concerns about the great danger to privacy and democracy it could cause if falling in the wrong hands The EU’s executive branch,"
+    publishedDateTime: 2021-04-24T13:00:00Z
+    webUrl: "https://observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/"
+    ampWebUrl: "https://observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 53
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1131666376.jpg?quality=80&strip"
+        width: 6361
+        height: 3844
+        isCached: true
   - title: "Minim and Irdeto Expand Trusted Home Platform in Europe, Deliver AI-Driven WiFi Security ..."
     excerpt: "MANCHESTER, NH, April 22, 2021 (GLOBE NEWSWIRE) -- via NewMediaWire -- Zoom Telephonics Inc., doing business as “ Minim ” (OTCQB: MINM), the creator of innovative connectivity products, and Irdeto, the recognized leader in digital platform and cybersecurity,"
     publishedDateTime: 2021-04-22T11:32:00Z

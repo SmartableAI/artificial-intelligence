@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-lumi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Police: No one was in driver's seat in deadly self-driving Tesla crash"
-    excerpt: "Two men died in the Texas crash. They were sitting in the passenger and back seats of the vehicle, authorities say."
-    publishedDateTime: 2021-04-19T20:19:00Z
-    webUrl: "https://www.wesh.com/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    ampWebUrl: "https://www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/texas-deadly-self-driving-tesla-crash-no-one-in-drivers-seat/36166125"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/teslacar-1618865733.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk Is Critic Of Laser Lidar For Autonomous Cars, But Top Tesla Lawyer Joins Luminar"
     excerpt: "Luminar, a newly public maker of laser lidar sensors that help self-driving cars see their surroundings, has hired Tesla’s acting general counsel Alan Prescott as chief legal officer."
     publishedDateTime: 2021-04-21T16:33:00Z

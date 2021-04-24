@@ -43,18 +43,18 @@ related:
         height: 349
         isCached: true
   - title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-    excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ..."
-    publishedDateTime: 2021-04-21T17:13:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
+    excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
+    publishedDateTime: 2021-04-22T03:51:00Z
+    webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI58F34A2pB0/v1/560x-1.jpg"
+        width: 560
+        height: 746
         isCached: true
 
 secured: "6DqIb71w8d2IghYxvnuyPQO9XV4g6k4GeemUOxE6F+AGkJVe1mlQB4sJtbtGXCAQnC5iP8Wr1Hk/z1w/HL8yS/cu/NL2BUwUcP5mQv7eYanzygb7pnqsPrRI4E0IAp9TmIT7S84BPDrq3qa9niCjkUUOo3eV2SomSf43xExHZ79qWYeaOjT4JoEUfz1B8rCL2yefLsMDYfrqHVSBEiFD/gRf3MJuJ/b3pZ/nd4DFSI3oF28Qk1V+LrEXvOvl85JhWcGnxC32DqXbBgIbbky1tO/hgUDfZEDCn4/BEo5YVzgkZTDWVTVMrhMcAiG34fWy45pP74+BsGLp6be7AvxIH3PN6xXAG2NT5VFBlpjKn9P0SEWvx0P5fOigVh4+HtoE/6ZNi+UgCa48cnPGZvluo3oJhIZl16qEt3j+wgHNk1P695GvvLOg5nB1RmQ92u2nzdt3X9z5aZDldF1UrE0PiBx51uFx9RgpGbGcBYiXW1zamlhMNYpmAOb+DBBXOn63kqQonzql8u70LNy7AOn8Hg==;icioOG4QymOj4k7dh5pO9w=="

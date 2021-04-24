@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-p
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,52 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI To Automate Enterprise Document Processing Workflows"
+    excerpt: "While choosing a vendor to partner with for digital transformation, it is important to ensure that, under the covers, there is real AI driving the solution."
+    publishedDateTime: 2021-04-20T12:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google launches AI-powered document processing services in general availability"
+    excerpt: "Google launched a number of AI-powered document processing services in general availability, including Lending DocAI and Procurement DocAI."
+    publishedDateTime: 2021-04-21T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Using AI and data to make decisions faster"
+    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
+    publishedDateTime: 2021-04-23T20:06:00Z
+    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 37
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
     excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
     publishedDateTime: 2021-04-20T18:21:00Z

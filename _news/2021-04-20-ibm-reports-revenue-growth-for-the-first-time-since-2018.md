@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Reports First Quarterly Revenue Growth Since 2018 on Cloud"
-    excerpt: "International Business Machines Corp. posted its first revenue gain in eleven quarters, driven by demand for cloud services, suggesting Arvind Krishna’s turnaround plan is starting to bear fruit."
-    publishedDateTime: 2021-04-19T20:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg"
-        width: 1200
-        height: 533
-        isCached: true
-  - title: "IBM Shares Jump on Biggest Revenue Growth Since 2018"
-    excerpt: "International Business Machines Corp. shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting Chief Executive Officer Arvind Krishna’s turnaround plan is starting to bear fruit."
-    publishedDateTime: 2021-04-19T20:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/ibm-reports-first-quarterly-revenue-growth-since-2018-on-cloud"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7sqmYbBed5Q/v0/1200x533.jpg"
-        width: 1200
-        height: 533
-        isCached: true
   - title: "IBM’s cloud business helps first-quarter revenue edge higher"
     excerpt: "The company last week said that the services business it plans to spin off by the end of this year would be called Kyndryl and be based in New York City"
     publishedDateTime: 2021-04-20T17:08:00Z
@@ -69,15 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "IBM shares jump on biggest revenue growth since 2018"
-    excerpt: "International Business Machines Corp shares jumped in extended trading after the company reported its biggest revenue gain in eleven quarters, driven by demand for cloud services and suggesting chief executive officer Arvind Krishna’s turnaround plan is starting to bear fruit."
-    publishedDateTime: 2021-04-21T03:32:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2021/04/21/ibm-shares-jump-on-biggest-revenue-growth-since-2018"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 4
 
 secured: "dS25Wqhx/SJaO1cgPkbN90wBQGV1oPm4Zp0Fd6GL9vNH6WttiBxYS6oOffvooZjAb+4xLZSX5GdgLnLoOVOqwVyOk2ThABv3HZuRRi0UmLV2+q7Fh2PPQPKFDevzpGLMdUN6KJy2c8nGmKXCnH/vYbDDKKcJJUVuLJzRHqH7LTRY0fgw/IQK3atakBHHlLKsIK+KBzPuekacOXhbn/bkTaU/c+1dldS2VB5TRXHfcvoDrdZsPsAmg6gah5h5kfoyaPJuUWcBWxuOgXtdZpXpbMuuhmJDsclOlviL0lR1JNxLUDs0Pix1fOKGKMPTwakAyIqoPds5hTN7pFidBr1xUw3iR99OgDAmo2UDu62H8hSGmVo/udLPJlS4cMuNAK2XlnvuhTBy9quVgpRNuVRms/OJjiTJRNdaFvv4ZEKGZIk4TNs39/5YYQe8nZlQ1LvTIHgv3s07v7JHp99RLUpXveanixwbh3/E8bEroL7jhF0o561aKFYDklvcHzBc/eQ0Y/BsqhFRGzefJv28ruJfYA==;g1TXNW3reOq89bu3tmI/Pg=="
 ---

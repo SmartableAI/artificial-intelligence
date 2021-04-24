@@ -3,18 +3,18 @@ category: news
 title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
 excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
 publishedDateTime: 2021-04-23T00:32:00Z
-originalUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-webUrl: "https://www.wbaltv.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-ampWebUrl: "https://www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+originalUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI in Autos
@@ -58,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "sWCN+UOH87a1m3NbliEa/36aRhLdmZYSy+CIB23nu2JrI5N9QJ0Eqy6A7A08f1incVDIMwzVxt/1LWkI+iaSQ+6msmCx8bLIrOFvovvbAn8WhZ/0wEx87ApDhkJgzbktb6QU/ofuDMKKBCjjZys51VMaaRTOHYQbD784g+OC+urAfJ4uFoQvs4ogI0AgF9rxD77t6tW8s0nVDE48QN45STYpl9dWiF9JqFq7fmPh4sg80Taue7dMMoYFDQDBJSwf0OjXQYI1TXyWNL+NLg26Zg1T0lAxx32M5T3qjEDs3NTLQDITY3Tecp/q8tX8yNO4JlzxyQO6MZAE/HM1J4PG0yrGQ12dwoKPUICtuHHjFtA=;vr9UvmK80mMLEH4Pn6ADoA=="
+secured: "YiScYdYsX2ys+nzTazcK4mfVEu9bgbe18fph752W/yXsmpqDTssmWXtnFFB4u3ikHiBJk1+E6AtzFbQcx8Ne5VjwXByLpll0jy+Hk/4W9NVGQBGfWLEwZTx9z7+rbsl7/nfNKeoe1CeHpJtqEh/QjM/VEHJowriFzVXZUhNTG5CnVI++njDXRjX/wKT2aqPyxViQyoTn8Yfn+0OJItdjR/WZGJwOU8yRcPhtDS26Ji0pI52y74MsSjzZsNYOYqOtX+OF1CwGmx3DTbWRLkF01Feuy8xaMfdgLw5767+Fi7UtOCYkT9MjDS0rLyX8tAxplhLzttFjq1dRBE4Ou5CIvUE1CLV/mN1oX1rzlnLza8g=;Xq+0P/ZkEg+LFF76MDwU5g=="
 ---
 
