@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/ambow-education-soars-on-ai
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TheStreet.com
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ambow Education Expands Partnership with Amazon in Artificial Intelligence Training for Teachers"
-    excerpt: "Ambow Education Holding Ltd. (\"Ambow\" or \"the Company\") (NYSE American: AMBO), China's leading provider of educational and career enhancement"
-    publishedDateTime: 2021-04-19T12:30:00Z
-    webUrl: "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers"
-    ampWebUrl: "https://www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ambow-education-expands-partnership-amazon-artificial-intelligence-training-teachers?amp"
+  - title: "Four Steps To Data Democratization With Artificial Intelligence"
+    excerpt: "Data democratization should be a top concern for every company moving forward. We’re approaching a point where the problem of too much data (and too few insights) can’t be ignored any longer. Companies are generating more customer,"
+    publishedDateTime: 2021-04-21T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/21/four-steps-to-data-democratization-with-artificial-intelligence/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 78
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/pr-newswire_500_4_966.jpg?itok=n0UX2udW"
-        width: 763
-        height: 509
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c44ab1078324bc668466a%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "3mKUhvUTsf0MWaQHDQRGerMv8iDK+6kJEVq3PZ0unntS9fIt+yd4P+I5D+AIBfOZKq5p+wlXeMU+yToAf2a3c84xowlfHGtLqvuHjXarkKKuvwazghEQQG/3qOn3eAKlzUh96zwr5FG4VagezBwWA7Ztat8UzHfSbR8AXWOGrNoNgff8ttw50N5RK5enikW1D9DrttiOS8ymCksoTQDBKUDMVvWtb22L2mOC7h+LPajoKXIT9G1R1u4vgwvRtLES8eT+4lqubsKZpic/4G3H6NMJi9S8tJEwI0sXhj1XHRuMiJj866O7Jn0FaT7GcgW+28YFMAC/+wHolQB5o93+7twaKdF5OFwgpenvkGqe0o/xf28xPoAX+LoaJD4zVE5EtCvI2aLX8i+r4vxjkS78CJ3ID79IAJW2yeNV7kOznzf2U5Zhj5QMJbi/CH1vn5CHPpMAZlQlttHHMQHrkOsKYCpZiCjE+NVpQrcp1ElZCSTJXD3Qlv6hy0v2vJ3z2NnRFNc89GYHHRY0a7KTzXlr9g==;mw4mK8rhOXoVax8BKjJsjw=="

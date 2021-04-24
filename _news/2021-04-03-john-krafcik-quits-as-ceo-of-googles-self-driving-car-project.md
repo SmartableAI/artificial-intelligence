@@ -1,22 +1,28 @@
 ---
 category: news
-title: "John Krafcik quits as CEO of Googles self-driving car project"
-excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer ... as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry ..."
-publishedDateTime: 2021-04-03T11:21:00Z
-originalUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-webUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-ampWebUrl: "https://www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/john-krafcik-quits-as-ceo-of-googles-self-driving-car-project-news-education-vedfPEbgfccfd.html"
+title: "John Krafcik quits as CEO of Google's self-driving car project"
+excerpt: "Tekedra Mawakana, chief operating officer at Waymo, and chief technology officer Dmitri Dolgov ... Google was uniquely positioned as a company making breakthroughs in both artificial intelligence and vehicle autonomy. Google founders Larry Page and ..."
+publishedDateTime: 2021-04-03T05:06:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1146846.html"
+webUrl: "https://www.prokerala.com/news/articles/a1146846.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1146846.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1146846.html?amp=1"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "SVMoCQWVRpGm33BkQswg/rqQuLTPQgrd/X0XoePX1jTTvZgh8njjwxs7BmyCkBPYkSWHsSl4Wb0cd4w3gMgIPgEnaZvAE4OnbDW/0fKoTTFYuUl01QE9YoISiZEYctS7iJnB4Tiz7fC43w+1dRUZmPJl9ZP2yDlx5qgw85PcdtSHXkiENlSholncQasZJv50Ypu95xWFrakG995I06FPghqbhmmwbRrCcDXudcGeZpSLoIMzgfEp3vZcsrIBm5+nfyVRPKaUV7WaFbCnLRPcsf6Dvz7Lj+9cb5bPJWDL0kQyHn5m2LLmpo7ZO3RKlY3w/v+djm+mMMBKgonDzt76B8iKDuXtbVbZD0/EzviGt4Q=;psKWk50o7hxet8TiFjBslw=="
+images:
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/john-krafcik-quits-as-ceo-of-google-s-self-driving-car-project-1180075.jpg"
+    width: 1200
+    height: 799
+    isCached: true
+
+secured: "0Q1dxoQeg6lxrCID0xDTS1P/Nxgd0TM8MIpUCgkm0e6JxvqPl2h4481V/NM2x0otO+eLhW6JgzYsNoGhIDiKMcgM/0JjkpZ7gVQRltAMVHSYlZXk8FjQOwtWPueN+n+9361NpPtKWLUOBmgFpoeNvhUC53J/Tb9/85I265QqULQeK1l5M0Q677UQs4R6x5F9g+MaXHZlSU9blrCnDp6jdtKL0SxmA4FiCHU5OYmNTaxcfLNs6HQ4zy3nisxGiPZTkye6OqNWJXooJM3bqM8W7N7oEYMmyEcUClyruFcEhxonaGIymH/sDZDzNwEzAw4IdM9sYPZKvFbKjtmWwJ9Yg/elDqtFzMGFEFpO8uip4vY=;OtKa//2dSJaVjjOHdyasmQ=="
 ---
 

@@ -120,6 +120,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe attempts to take leading role in regulating uses of AI"
+    excerpt: "New rules would curb excesses while encouraging innovation with goal of a middle way between China and US policy"
+    publishedDateTime: 2021-04-24T04:00:00Z
+    webUrl: "https://www.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
+    ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a60dbec-436e-4f27-a657-6a8a07223e99.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Europe’s push on AI rules aims to recast global tech"
     excerpt: "That is essentially what the European Commission is proposing to do in groundbreaking rules on artificial intelligence outlined this week. This first attempt to create a legal framework covering the development and use of AI delves into murky areas previously beyond the scope of external oversight."
     publishedDateTime: 2021-04-22T16:40:00Z

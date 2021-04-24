@@ -33,20 +33,6 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "Amazon is building a computer vision-based grading solution for fruits and vegetables"
-    excerpt: "UK: Deliveroo processes double the amount of orders during first quarterIn the first 3 months of the year, Deliveroo received more than double the number of orders compared to the same"
-    publishedDateTime: 2021-04-19T12:34:00Z
-    webUrl: "https://www.freshplaza.com/article/9313108/amazon-is-building-a-computer-vision-based-grading-solution-for-fruits-and-vegetables/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 32
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/index_foto_retail/Retail_Amazon_gevlogen.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
     excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
     publishedDateTime: 2021-04-23T03:36:00Z

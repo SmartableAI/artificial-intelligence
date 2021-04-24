@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/britains-driverless-car-ambitions-hi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/britains-driverless-car-ambitions-hit-speed-bump-with-insurers-2021-4?amp"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "The driverless cars of the future that will be constantly spying on us"
+    excerpt: "Continual surveillance of drivers through video cameras to ensure they are paying attention is the only answer, say experts"
+    publishedDateTime: 2021-04-24T04:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/05/08/uber-crash-video_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png"
+        width: 635
+        height: 397
+        isCached: true
   - title: "Britain can be a world leader in Artificial Intelligence"
     excerpt: "As Co-chair of the APPG on Data Analytics, I was pleased to participate in the launch of a report – Our Place Our Data: Involving Local People in"
     publishedDateTime: 2021-04-21T12:39:00Z

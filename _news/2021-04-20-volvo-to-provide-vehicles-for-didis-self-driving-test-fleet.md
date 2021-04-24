@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo will provide cars for Didi’s autonomous vehicle division"
-    excerpt: "Volvo will provide vehicles for Didi Chuxing’s self-driving taxi fleet, according to a new deal between the two companies. The Swedish automaker, which is owned by China’s largest private automaker Geely,"
-    publishedDateTime: 2021-04-19T12:43:00Z
-    webUrl: "https://www.theverge.com/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
+  - title: "Bird’s-Eye View To Provide Self-Driving Cars With Some Needed Computational Omnipresence"
+    excerpt: "Latest tech allows for a bird's-eye view of a driving scene, referred to as computational omnipresence, which could be a huge boon toward the advent of self-driving cars."
+    publishedDateTime: 2021-04-19T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/04/19/birds-eye-view-to-provide-self-driving-cars-with-some-needed-computational-omnipresence/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Oud0pM50v4pRO0W90Vjl7h0Er9M=/0x0:4000x2667/1400x933/filters:focal(1680x1014:2320x1654):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69148795/Volvo_XC90_DiDi_2.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607b39a52bbfebfdc71c5b3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3967%26cropY1%3D629%26cropY2%3D2489"
+        width: 1200
+        height: 563
         isCached: true
-  - title: "Geely's Volvo Cars collaborates with DiDi on self-driving"
-    excerpt: "Geely's Volvo Cars and DiDi Autonomous Driving have signed a strategic collaboration agreement on autonomous vehicles for a self-driving test fleet."
-    publishedDateTime: 2021-04-19T11:51:00Z
-    webUrl: "https://www.just-auto.com/news/geelys-volvo-cars-collaborates-with-didi-on-self-driving_id201342.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "http://i4.progressivedigitalmedia.com/3/2021-04-19-11-40-volvocarsdidiavdeal_cropped_90.jpg"
-        width: 424
-        height: 282
-        isCached: true
-  - title: "Volvo to build self-driving fleet with Chinese startup"
-    excerpt: "Volvo Cars will provide vehicles for Chinese autonomous driving startup DiDi’s self-driving platform to create a fleet of automated cars for the domestic market. Volvo will provide DiDi with XC90 cars equipped with backup systems for functions such as steering and braking that will be equipped with DiDi’s autonomous driving technology that will integrate software and hardware required for full self-driving capabilities."
-    publishedDateTime: 2021-04-20T12:46:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16614/volvo-to-build-self-driving-fleet-with-chinese-startup"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "U8U9++kwrNQekN8l183LE7WcMztM9nR8rnUTfFyqUk0RS7BO5SJFKte0CQ0YSg8AQJSNN8ZEivWHWqYlrf4C7aUEccLmaQKTr79yEoEQTo8H8aqH65fmhm9ssRJJ/coL2kxTqQGOhv5B0YR03R8VXnqkiLyoLPD2GOyWcxOCkpez6YgqBb+1DsTRLDASQ4MhUN56NVh/99oHG021OEsTp7I5AMA/mLsXTkciTJsHAk9K121Y72zokDPefxL30UYTHcZs3NnUAXCy1kMp4HxgQjX3AsFmSOt+upqOKSUBsRb7HIIFOdA+SO5lH/096nLs+4qAchKdZOMMKes8hVz4IaRl0ws+tsjtTQHrzN8eoLs=;mu+zQkZRURNkkCqQ/zo3hw=="
 ---

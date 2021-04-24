@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1619141577015.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Top Fintech Companies to Watch in 2021"
-    excerpt: "With the fintech industry exploding so rapidly out of the gates, it can be tough to know which horse to put your money on."
-    publishedDateTime: 2021-04-19T12:49:00Z
-    webUrl: "https://techreport.com/software/3474080/fintech-companies-in-2021/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 24
-    images:
-      - url: "https://cdn.techreport.com/wp-content/uploads/2021/04/pexels-burak-k-187041.jpg"
-        width: 1920
-        height: 1440
         isCached: true
   - title: "Top countries for launching a Fintech startup"
     excerpt: "Certain regions and countries are friendly to innovation that have millions of users with a high level of tech adoption  and expanding fintech market. Welcome to Finextra. We use cookies to help us to deliver our services."

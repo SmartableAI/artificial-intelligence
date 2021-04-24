@@ -24,22 +24,6 @@ images:
     height: 392
     isCached: true
 
-related:
-  - title: "Ai Weiwei to debate documentary future at CPH:DOX"
-    excerpt: "Chinese artist, filmmaker and activist Ai Weiwei has joined the line-up of Copenhagen’s CPH:DOX conference, where he is set to tackle the future of the political documentary. Ai, who has drawn attention to government corruption through his numerous documentary projects,"
-    publishedDateTime: 2021-04-19T11:39:00Z
-    webUrl: "https://www.screendaily.com/news/ai-weiwei-to-debate-documentary-future-at-cphdox/5158946.article"
-    type: article
-    provider:
-      name: Screen International
-      domain: screendaily.com
-    quality: 37
-    images:
-      - url: "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/3/9/1344239_aiweiwei_230626.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-
 secured: "1Q/XCK1MezaVWNerPERXbwV7wPR4umydkQ1ZOTU09K24XP/OBhsMdxxzuEOmAxzxQ9Ks2t8lKCTGlV12N8hYlP4iRz3pCLRpl6tbe9MvV7Yg+mIJ/loM1tbn+KWrUytEgB0MYyzdMKtLDuN8CrCAJ3MBNc41O51crkfWFjcQa8kgI/CEuvSZvI556IhZt65IK8oDSFFWkwSQiV4YCezLn2Ccg4rBACUQQn/0yt/sFaET2iLoCjLHKoNadg0LXyjJgoWbTxUuolwlephfjhHfXbHR6SWbegvh0qXhFctil0Evh3UwkReTtx2hsgkxWudeiaqve/LzqOuW3WA2W2lb3klPx3/j9JuTZ9ZSyFTL1BJLwOs0IDRTci3fQKL7Pnywm+TcQXmHS6Cb9TLp8hTjo4wNpaIz8XRO7Vojg+PgC2V/Rr8+XKcYbIqUoyEBI+x/FnkNyf4f3PKXhDfvg3h/gxaFsqUFmEOFXbE60eSO4PuhHRKM1vqh48cyddtwlrHYyEbjTCOow+TbCLtgRIk+hw==;rwxlNoF+7xlVcSdWKD0kIw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/french-super-app
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/french-super-app-startup-alan-nets-220-million-dollars-valuation/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -24,33 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "UiPath boosts IPO price range, aims for $28 billion valuation"
-    excerpt: "Automation tech startup UiPath on Monday boosted the price range for its initial public offering (IPO) in New York, and is now targeting a valuation of nearly $28 billion, setting the stage for yet another high-profile tech listing this year."
-    publishedDateTime: 2021-04-19T11:05:00Z
-    webUrl: "https://www.reuters.com/article/uipath-ipo/update-1-uipath-upsizes-u-s-ipo-aims-for-28-bln-valuation-idUSL4N2MC2QW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2MC2QW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2MC2QW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 167
-  - title: "AI startup UiPath jumps 26% during its public debut, pushing valuation to $37 billion"
-    excerpt: "The rally in UiPath indicates the growing demand for such services as more businesses automate their operations, especially during the pandemic."
-    publishedDateTime: 2021-04-21T19:48:00Z
-    webUrl: "https://www.businessinsider.com/uipath-stock-price-ipo-public-debut-pushing-valuation-37-billion-2021-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://images2.markets.businessinsider.com/60806cd84becb800190f6534?format=jpeg"
-        width: 790
-        height: 395
-        isCached: true
 
 secured: "Z7xVpihfeHqcVpsSnhoKgeaCJPbP6W2kpxDNoW1gQucj9Bh1ycG+ikfUUIeEywDg1SxtMGXsxYmuVupkKZIBvdWOaBoFVMoZrW5KUvr3Cu8W3ALbmirRiTmvMFB36tsjZOlyUakPY92KoEQwm1N740oKsyvWp/4bEPrHmjFNkX2hLZoqR803BOQ2XN9YFTtru5S0vZ5ApV+O3qfDxjRLZOcw2PYqs+4+WyQNLZD/6ImhV/FT7Me9kpVE0AcS80MhWCpWHGKtkV3xQ8y+WSoDnDCColKte2hDHVTvyLtilw535xROELn4Q8w60W58Z7gAfKYd4ADcyUFBgWif3tbzTqzjlPCAKTUy16JGO8Mzgjc=;XapKr6mSdTDuVn/yzw3nww=="
 ---

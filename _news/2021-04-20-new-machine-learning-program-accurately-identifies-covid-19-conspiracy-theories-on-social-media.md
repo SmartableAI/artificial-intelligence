@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210420/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210420/New-machine-learning-program-accurately-identifies-COVID-19-conspiracy-theories-on-social-media.aspx"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Machine Learning Tacks Evolution of COVID-19 Misinformation"
+    excerpt: "A machine learning algorithm could help public health officials identify COVID-19-related conspiracy theories on social media, potentially reducing the spread of misinformation online, a study published in JMIR revealed."
+    publishedDateTime: 2021-04-21T15:49:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-tacks-evolution-of-covid-19-misinformation"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-585062242.jpg"
+        width: 690
+        height: 405
+        isCached: true
 
 secured: "Je+qnRK4Dq3nmdj1R085+9W4AsHY6FnLE2mcM7kADflzsxb9jxMffA0p6p5Z3BUyWwkhpRD3cGmIarUktiSoucRGzABNGytWChG6knEtEO1wo9kKxqbRUwwgNLd53u/1Aj2ANlN/BgGakf03TAOHnk0IQ6Mj8rD13xhs4qxfQ3MoODWDgwNrp2pZZP/mkeHOz6YIXtOU1zK7qUtcAdGM9kgM1gYbB5sRhqZA3uWD6ThWz2SvwN9xTYZVMzfjs7941xWioATfsNApJX41kPkhFj61qr+wL9WhKHsEmVUHttx8k3qO5JrYvrjTDSR8sGxS610XJRP1p7nO1URePrHmbWPGPgCMc/xPGl4UoZ7I4Ng=;HDDLJlaPPvKQ4PA6FeVMJg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slow
 webUrl: "https://get.oreilly.com/ind_ai-adoption-in-the-enterprise-2021_Request.html"
 type: article
 quality: 167
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Survey finds talent gap is slowing enterprise AI adoption"
-    excerpt: "According to an O'Reilly survey, enterprises are struggling to overcome a talent gap in data science, affecting their ability to adopt AI."
-    publishedDateTime: 2021-04-19T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/19/survey-finds-talent-gap-is-slowing-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Using AI To Automate Enterprise Document Processing Workflows"
     excerpt: "While choosing a vendor to partner with for digital transformation, it is important to ensure that, under the covers, there is real AI driving the solution."
     publishedDateTime: 2021-04-20T12:40:00Z

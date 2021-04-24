@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-08-china-five-year-plan-aims-for-supremacy-in-ai-quantum-computing.md",
+      "title": "China five-year plan aims for supremacy in AI, quantum computing",
+      "excerpt": "China has unveiled a five-year plan that will boost tech research in hopes of leading the world in fields like AI and quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "originalUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OPIFTltEG3k7FZh8Xfh0LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/72abf6b0-7f91-11eb-9a27-fd00ec45aa19",
+          "width": 2000,
+          "height": 1263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "publishedDateTime": "2021-03-07T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
       "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
       "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
@@ -1438,40 +1490,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-2021-artificial-intelligence-ai-chips-market-opportunities-analysis-future-and-forecast-by-key-players-products-types-and-applications.md",
-      "title": "2021 Artificial Intelligence (AI) Chips Market Opportunities, Analysis, Future and Forecast| by Key Players, Products, Types and Applications",
-      "excerpt": "Artificial Intelligence (AI) Chips are special silicon chips, programmed for machine learning. AI Chips can process vast amount of data, identify the underlying patterns, interpret the trends and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "originalUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "publishedDateTime": "2021-02-24T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

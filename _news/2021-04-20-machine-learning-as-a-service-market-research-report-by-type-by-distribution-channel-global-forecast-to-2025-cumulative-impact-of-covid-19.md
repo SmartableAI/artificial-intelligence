@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Robots Market Overview By Size, Share, Trends, Growth Factors, Analysis, Opportunities and Forecast by 2027"
-    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
-    publishedDateTime: 2021-04-19T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-overview-by-size-share-trends-growth-factors-analysis-opportunities-and-forecast-by-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Size, Demand, CAGR of 41.9%, By Type, Application and Manufacturers Industry Revenue Analysis and Forecasts By 2027"
     excerpt: "CAGR of 41.9%, Market Trends - Extensive adoption of smartphone The global Machine Learning Market is forecast to reach USD 35.67 Billion by 2026, according to a new report by Reports and Data. The increasing trend towards cloud computing,"
     publishedDateTime: 2021-04-21T09:05:00Z

@@ -1,28 +1,29 @@
 ---
 category: news
-title: "E.U. proposes rules for high-risk artificial intelligence uses"
-excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
-publishedDateTime: 2021-04-21T11:54:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
-webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+title: "EU proposes rules for high-risk artificial intelligence uses"
+excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
+publishedDateTime: 2021-04-21T11:41:00Z
+originalUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
+ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
 type: article
-quality: 87
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: WBAL
+  domain: wbal.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
-    width: 2500
-    height: 1602
+  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
+    width: 512
+    height: 331
     isCached: true
 
 related:
@@ -45,7 +46,7 @@ related:
   - title: "EU aims to curb artificial intelligence, facial recognition in world’s first major AI law"
     excerpt: "European officials want to limit police use of facial recognition and ban the use of certain kinds of AI systems, in one of the broadest efforts yet"
     publishedDateTime: 2021-04-21T15:12:00Z
-    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=hp_minor_pos20"
+    webUrl: "https://www.marketwatch.com/story/eu-aims-to-curb-artificial-intelligence-facial-recognition-in-worlds-first-major-ai-law-11619017843?mod=technology"
     type: article
     provider:
       name: MarketWatch
@@ -311,6 +312,6 @@ related:
       domain: ieee.org
     quality: 2
 
-secured: "VV3r/0VfPpmrlmyDpVSonYe9ON1UKN3hUz0MiiTHorwUSRP9jLQKwkdSiBseUIhQDa0lyr7WvcS3VXK73UOMb0yjfQgZXc0VshTQanYivMrp3cEc250kp2/7MsqfStER0vCybOlqA0gK7vlZok1yOMtQdHK1LWtYm20YENebeJldtMXT6b1q7VVZ9C8IYEYow36Dqh0It16/gHl+jvwpah6OwfA2lhu+nzgInbbLy5EOnkm8aqvw3p75KCMsAjZwGvkf2Hk+JwoZvcOwWLdrGA1hsLxOZSGtRDDZEwJ1ksdD37Fl4JcTIy6WRx0sLBkq/JpwYtt5uap4Y3hvNe8s9J14uU6eTc62yd7ca+bAi+4=;eALbcFabgcz6+QTCTzr4cg=="
+secured: "gyXVvQawXHDMFhIl8sw0gh69O1OyD+8QyDWnyl5JG9N0f/2KdM1wFzhFI5V0u7UxXNMw+ZPPV4BKvE1po4ktMLEl61XqTTPzvLga59odhqUA0g0ycNYYu/r9C2w4Hm7KyGb7pH1XMdgbeiZO2UETkSF9kfAfcqa2LcKZjcbhSIkv7u3ywnwSB1pB9uPwkuSSA8vRkRVF9YIQ/q8wwjibINNe/ROrO0Ek3xsxDh1fySa6wiAFFMchjZ9JZEp4mtnVVMHKJD0SFmELVyzhuMvgUEXB8q2SfG43grwPE27oX7h9iWjrKqE3OVuwEZ/YvJiqI7QYzo46lIqQEOhqn/gt5dqtuB8aqEO4tz4eWC7ZRPo=;fNeeoiMDlPdzugGbCkumdg=="
 ---
 

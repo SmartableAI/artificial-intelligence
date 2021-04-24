@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Aramco accelerates employee expertise with conversational AI and enterprise search"
-    excerpt: "IBM Watson Discovery reduces research time for scientists by up to 75% Agents using IBM Watson Assistant chatbot handle calls 10% faster In this time of unprecedented change, Saudi Aramco has fully committed to automating the most arduous of their manual processes. By adopting AI-infused workflows and"
-    publishedDateTime: 2021-04-19T13:00:48Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/04/saudi-aramco-employee-expertise-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 110
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/ACDC-58_Tech-M-Blog_Leadspace.png"
-        width: 2000
-        height: 1006
-        isCached: true
   - title: "Army researchers create pioneering approach to real-time conversational AI"
     excerpt: "Spoken dialogue is the most natural way for people to interact with complex autonomous agents such as robots. Future Army operational environments will require technology that allows artificial intelligent agents to understand and carry out commands and interact with them as teammates."
     publishedDateTime: 2021-04-19T15:04:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/armyresearch.jpg"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Towards Real-Time AI Humans With Neural Lumigraph Rendering"
+    excerpt: "Despite the current wave of interest in Neural Radiance Fields (NeRF), a technology capable of creating AI-generated 3D environments and objects, this new approach to image synthesis technology still requires a great deal of training-time,"
+    publishedDateTime: 2021-04-21T10:51:00Z
+    webUrl: "https://www.unite.ai/towards-real-time-ai-humans-with-neural-lumigraph-rendering/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/04/neural_lumigraph_rendering_main.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "1EWaS7zm+C4LEsE1FzyLq+tRlScPbOl9CvP5mffsZ+BNIa3kspWW8mNzD2nvFc1I0W7RFPMju561YgFeRT7Q+hx8/UPOlbeE2jYET3US+cfavuxWLPsHmCC5BxYkLQBXIk8UD5U6oPIz1c7cYOnqKkqFx4CWYOnvRDKfnMsyzN6tddI9IsgwHAkRtZmEu9DDr1WWH+BdI9JhBgsVVb3FntGk56+SbYTS0Bg8zsoUn6/OEhBJNufjICwwrPDTwsFkv18eQVDF0iAAIaHIfRvFZwRSm1E5jDR8zqDyHMCfMtyE4fGsL5RNApVx203aJkT0JoKHAkY4g0Hu++Ka5GL3QMYTOmaoSOFdb6p6F2AJMBE=;2t4CY6YowJ8C/LFDrhan0w=="

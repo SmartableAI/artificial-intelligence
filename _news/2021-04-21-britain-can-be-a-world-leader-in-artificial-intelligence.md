@@ -36,6 +36,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "The driverless cars of the future that will be constantly spying on us"
+    excerpt: "Continual surveillance of drivers through video cameras to ensure they are paying attention is the only answer, say experts"
+    publishedDateTime: 2021-04-24T04:00:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/04/24/driverless-cars-future-will-constantly-spying-us/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/05/08/uber-crash-video_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png"
+        width: 635
+        height: 397
+        isCached: true
 
 secured: "5GIyUrU/eEr2wIQr7Qr24Bk+dpUQQTdCaN7M5AgNHrSROd9f+shtmA3l/O8hyPySyR2YpVuUPI7tKmGAaqgnerdeAjFRwK68n/ROaom6HHwYnldolF3dZkw4q45KMrbpb7VBmeaxsdEgNffLAG/9BHH/wX3XE2eYHG/wc8/z6qU2CV63zpz77GD4kNfopAGajQmWe5iCOA94lW6Dbyrv6rU6kMzq8KEd9rEgOCHl6Z0qij2yVl7GZOvrkHizBcscG//0l1srcT1slPgKQq7MtjZiW9KF+PWj4wzrSnMqiIh9VsyZidK+nmvEfKsHTarypvtusMTDvHz3GTN7dVbi1eVdwpkd+x9oYPmWHKJ3zRxT+Tvze1hTxEaH6j1E/6fUGMfec0zoMPsoriqONX4JBWM3mq8uHrZSg7+wMeUKZ7+Zoy+83ty+QPCJwVrYm0ihxllSCwCsNCYrLsTKdwnhYS090BvKsPynm3QIXP+vJZlUPFDRr9f+F1DkQCHPyfIjvfhSers6YOm5hlg7So5h0w==;j1MKFWROMMMokpiLcuvbXw=="
 ---

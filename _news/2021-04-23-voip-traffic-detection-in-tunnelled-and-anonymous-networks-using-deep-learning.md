@@ -33,20 +33,6 @@ related:
         width: 800
         height: 574
         isCached: true
-  - title: "Amazon is building a computer vision-based grading solution for fruits and vegetables"
-    excerpt: "UK: Deliveroo processes double the amount of orders during first quarterIn the first 3 months of the year, Deliveroo received more than double the number of orders compared to the same"
-    publishedDateTime: 2021-04-19T12:34:00Z
-    webUrl: "https://www.freshplaza.com/article/9313108/amazon-is-building-a-computer-vision-based-grading-solution-for-fruits-and-vegetables/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 32
-    images:
-      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2021/index_foto_retail/Retail_Amazon_gevlogen.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Continuous 3D Hand Pose Tracking Using Machine Learning & Monado OpenXR"
     excerpt: "The system estimates 2D and 3D joint locations without any depth information. Collabora is currently working on integrating it into the Monado XR codebase, so it can be used out-of-the-box with different devices."
     publishedDateTime: 2021-04-22T14:00:00Z
