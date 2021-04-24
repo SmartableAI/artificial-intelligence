@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Asia Pacific Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and"
-    publishedDateTime: 2021-04-19T07:53:00Z
-    webUrl: "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
-    ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/U/4/U419236836_g.jpg"
-        width: 563
-        height: 423
-        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market"
     excerpt: "A new business intelligence report released by HTF MI with title \"Artificial Intelligence (AI) in Insurance - Thematic Research\" is designed covering micro level of analysis by manufacturers and key business segments. The Artificial Intelligence (AI ..."
     publishedDateTime: 2021-04-23T10:33:00Z
@@ -62,29 +46,15 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
-    excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
-    publishedDateTime: 2021-04-21T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092"
+  - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
+    excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
+    publishedDateTime: 2021-04-20T12:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/active-investment-management-is-latest-industry-poised-to-fall-to-the-advances-of-artificial-intelligence-ai-1030322906"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 70
-  - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
-    publishedDateTime: 2021-04-19T09:43:00Z
-    webUrl: "https://www.lelezard.com/en/news-19754376.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 4
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
+    quality: 42
 
 secured: "I0VS3aHKy4btpfyojTU0ABvd6k0zc7FGPeEQ7gP/O88iCg7A1z6ZomDur0cbw6T4/DTGaei0xL6Nshq69ty404o7nXcU7FuMGe4OpqzTeZfOEi7RYc/nrdouu/mkbSO2ZZhrfglDLduojzkZ3kVmHcPUqTyx3fSS//GIDg2mmlCgnGbiQk38kG0WbyJ71pCnZBELuKGKv8jh70UwgXxQ3VnFUUUON5rOlCpwdT3hd0pE9tHBvjSBMH2JDLUop3JNu8G1SQzTw6sfGyF2p5tNykdmZcwAzL03dFNkeLWqeR4dGCfieN180XP3ItKbI1/80sHXzZHQ57Ra10hVl2hDtx8BIoDJFFd/dvFrmUytfrY=;HOuw29XNWs510PCvATPQCQ=="
 ---

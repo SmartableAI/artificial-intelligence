@@ -165,20 +165,6 @@ related:
         width: 800
         height: 467
         isCached: true
-  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2021-04-19T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yzGjpN7qhcXS+0acuCUErfLC4MVQ2cA182DuZedHfHpVqrgcLpUurSzzaeFmLS1LJBp6hX5OgbId5m/fSy3OJrQK01u0bxndhydusNRrBByQyIHvRZtpov18hpC0TtNAhEH3G/2y35qRf96d74KvbvE82LSnqVBsDiizdZFglfAfKrusiHJ2LvG0H4aYTTf4+9NDn+a2OfcY2iyc3HMmz0xK3QDJbJA1Rw88eSC5qOMw87FvuEC9TnogOfozDPEQQsT+vzdaOcSGWCjKPHLNfqcTzfmFrc41Gtf9s/hD8lmXDiUVq6REZM4uF8VO+gqioV3h51NPlh6DOAmI8hidtu3mmdSqRvWtiJg5XeYJWHg=;4SNUWBpCGCeN88p2sz/Dhg=="
 ---

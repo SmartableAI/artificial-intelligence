@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "IoT, edge computing and AI projects pay off for asset-based enterprises"
-    excerpt: "Enterprises are tapping machine-generated data that's captured at the edge to improve operations. AI processing can be done locally for latency-sensitive applications, or sent to the cloud to get the best of both the edge and cloud worlds."
-    publishedDateTime: 2021-04-19T08:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/686436/iot-edge-computing-ai-projects-pay-off-asset-based-enterprises/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/10_22_2.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "E9s3MMudHKrqOMjF65hQEcNcrIaLik+PWMDpXD4BNd9LoCduQg2OWVGSMpo43Kwhx1zYr7cLc1clC8vvIybcvAWsJV6ow07zHp1CIl511JKjbBnzuPLC0cS1dewjzlCl79cnE03GSStCMuPB+ydAlhOebdx5CTsTCWWH59ydW+AWXL9jMxFFgzAufS7O+C+5DhR89lHMNcGbnSliEOGG2LZYTDyWyXW68nik/jpucMmoTRo8K7vi+U4xasRZSBhj8rl9CXQFVds+wX7p/Ih3zi1cw/kpOncs0sRh6dlP9zpER66n/zd+u/5FcjNVJLMLoTEPPpnBMAvymhuWlxG4W8lQzxrCjWjG3s/268G2rw4P33J1ylf9mrcD8umS0lvVIZyt0C/N0QshKqd3TKnvvqNKvt3LHAIa4YOffjrAg//wVoyMec97/mns6oYgCOdqsR89ddptZhKRtjqqADdABh3FjlALihd+MH8en2+LM1MWocRs7CB0Vw9saFM8YFhvK3CSy0CMeP7Lgx6Ifs8LTA==;vHkgvobfjyKiyZU5ij9HKQ=="
 ---

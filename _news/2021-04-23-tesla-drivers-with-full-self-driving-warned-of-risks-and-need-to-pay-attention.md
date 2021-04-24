@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
-excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
-publishedDateTime: 2021-04-23T00:32:00Z
-originalUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+excerpt: "Stephen Pace owns two Teslas, including an older model s. He talked to me about the safety features in place for the self driving mode that most people don't know about. Unless they own a Tesla. You're warned when you pick up your Tesla that this is just a ..."
+publishedDateTime: 2021-04-23T00:31:00Z
+originalUrl: "https://www.wmur.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+webUrl: "https://www.wmur.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+ampWebUrl: "https://www.wmur.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI in Autos
@@ -266,6 +266,6 @@ related:
       domain: indystar.com
     quality: 6
 
-secured: "jVBZrWgIR5ahQVaa+S3Tq5NwiX4bWyAdlCPkJJ6ODApSR/MyHN1MHVLoLRYlT8Fr8qf7vXqYv78Wf2Nde11BgujGMLB6YbE3yixK4JbCWofsFEtRpI8lXt6ZeixrYyzfePO3Mp/KopSlCYMgumhhlPHcV5VgSF2+s77s8C1T2EICjS3Ngp1jUYg+AG8IUu6NxyOsOgQqTCfiser5Jx9pVrMY1F0RGwgWEUZEn1Lu81rkMk2ayX+k0kN0SxRcwzSxNfxZi8GTeT5fAqYNZCPpr11N0YBaX0HqWFUfON3lfryUiKN14M4g5iZVo3WjbAJutSgmIZPOoV+gzli+z9nhS2Sn1LCZEGZW9Ea9KvTNAmE9r5iUc4XME0UkWGC7GozHZtt3YpoA5Z+fsqJwhlmlGQdq/Gq6QhOARzRVICrlGOxpkgx8eouLQ4DDmUioYXLMK3hq5bVLC+rtH9W6uLEZiOdcb08mNg54Gj/lnN4WfLyMeSBU2sD/vFqlA63sdHt8zMCPKsGLGyLCWyAxawwnYg==;aeNL2YzJIlUG3dXPDLCXuw=="
+secured: "nZpsTFkdIrCz3UMF08IrueX6/7E7D0Qp80jRhYHCKX+Z4br0+iaqXBI7ZL+5NNOxJ5G4iAB66oMyVN9Q4XXfi+o1RcPymJcRz8bWwAh9xuOH/r7GbuMMA1Q/J+bIpUZ6+38RWY/6KyfOTVVXnQPqrVI0KjRJbFDaz2YaTTFeV6uQJAEvt8XfbugKqIcDk1pU7CMEoQMK+uvFCQFi4nAh+/TzIX5qD4AeB558dGBm1jA8IO5Th0/CYbAgDnvcvkAE5Vuvn1focHY2/zNaTHJJDEUGctRuNqe/8cWScshsk64XmSVTnSl+8EtmB2QxWFeoJsOhJBac4h0eLWxVAHQY03oKS4cWdgF5lAZyNgE5ZRM=;s/WvN+32Tqm0bdZXxz38tg=="
 ---
 

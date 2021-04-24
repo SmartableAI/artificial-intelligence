@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IoT, edge computing and AI projects pay off for asset-based enterprises"
-    excerpt: "Enterprises are tapping machine-generated data that's captured at the edge to improve operations. AI processing can be done locally for latency-sensitive applications, or sent to the cloud to get the best of both the edge and cloud worlds."
-    publishedDateTime: 2021-04-19T08:19:00Z
-    webUrl: "https://www.arnnet.com.au/article/686436/iot-edge-computing-ai-projects-pay-off-asset-based-enterprises/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/10_22_2.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Hive Raises $85 Million For Contextual And Branded Content AI"
     excerpt: "Hive, which supplies AI-based contextual and measurement technology to media and ad tech companies, said Wednesday it raised $85 million in funding, valuing the company at over $2 billion."
     publishedDateTime: 2021-04-21T04:04:00Z

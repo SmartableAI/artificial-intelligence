@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "INSIGHT-U.S. banks deploy AI to monitor customers, workers amid tech backlash"
-    excerpt: "Several U.S. banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash over increased surveillance,"
-    publishedDateTime: 2021-04-19T09:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-banks-facialrecognition-idUSL1N2JZ0G0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JZ0G0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559044039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3I0LL"
-        width: 859
-        height: 545
-        isCached: true
   - title: "US banks deploy AI to monitor customers, workers amid tech backlash"
     excerpt: "Several US banks have started deploying camera software that can analyze customer preferences, monitor workers and spot people sleeping near ATMs, even as they remain wary about possible backlash"
     publishedDateTime: 2021-04-19T18:56:00Z

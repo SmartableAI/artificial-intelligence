@@ -2,6 +2,144 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-03-09-this-startup-wants-to-fill-the-skies-with-cargo-filled-robot-planes.md",
+      "title": "This Startup Wants to Fill the Skies With Cargo-Filled Robot Planes",
+      "excerpt": "Reliable Robotics has been flying Cessnas through a mixture of autonomy and remote control. FedEx, for one ... All autopilot systems have been designed with the pilot safeguard in mind; for Rose and Frefel, building a system that reached full autonomy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXrYo4VVSWuM/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-market.md",
+      "title": "Smartphone-based Saliva Testing and Self-monitoring of Blood Glucose Driving the Digital POCT Market",
+      "excerpt": "Reportlinker.com announces the release of the report \"Smartphone-based Saliva Testing and Self-monitoring of Blood",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20071162",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20071162",
+      "publishedDateTime": "2021-03-09T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-are-us-special-forces-quietly-using-armed-robots.md",
+      "title": "Are U.S. Special Forces Quietly Using Armed Robots?",
+      "excerpt": "While the U.S. military makes wide use of armed drones, it has been extremely cautious when it comes to fielding weaponized ground robots. Now Special Forces may have quietly crossed the line by deploying a new system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604745a0c1046ba4414e2817%2F0x0.jpg",
+          "width": 1110,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/amp/",
+      "publishedDateTime": "2021-03-09T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-zero-to-blockchain-il-corso-di-formazione-online-sulla-blockchain-promosso-da-acta-fintech.md",
       "title": "Zero to Blockchain: il corso di formazione online sulla blockchain promosso da Acta Fintech",
       "excerpt": "“ Zero to Blockchain ” è il corso di formazione online on-demand che mira a spiegare le basi della tecnologia blockchain e degli asset digitali. Lanciato diversi mesi fa da Acta Fintech, il corso di f",
@@ -1033,163 +1171,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
-      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
-      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-assessing-regulatory-fairness-through-machine-learning.md",
-      "title": "Assessing regulatory fairness through machine learning",
-      "excerpt": "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators.",
-      "sourceUrl": null,
-      "webUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
-      "originalUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stanford News",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-last-mile-delivery-robotics-company-refraction-ai-raises-42m.md",
-      "title": "Last-mile delivery robotics company Refraction AI raises $4.2M",
-      "excerpt": "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
-      "originalUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/154024079_102529051892044_9043079890713007716_o.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

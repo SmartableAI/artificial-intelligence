@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
+    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
+    publishedDateTime: 2021-04-24T01:24:00Z
+    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
+    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
+    images:
+      - url: "https://www.express-journal.com/img/img-10.png"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Cognitive Analytics Market Trends, Global Industry Scenario, Outlook and Growth Strategies Forecast 2020-2026"
     excerpt: "The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report"
     publishedDateTime: 2021-04-20T16:42:00Z

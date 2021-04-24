@@ -156,20 +156,6 @@ related:
         width: 800
         height: 467
         isCached: true
-  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2021-04-19T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Growing Demand, Rising Trends, And Regional Revenue By 2021-2025: Google, IBM"
     excerpt: "New year, new updates! Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact: https://www.thebusinessresearchcompany.com/global-market-reports The global artificial intelligence market is ..."
     publishedDateTime: 2021-04-23T12:02:00Z

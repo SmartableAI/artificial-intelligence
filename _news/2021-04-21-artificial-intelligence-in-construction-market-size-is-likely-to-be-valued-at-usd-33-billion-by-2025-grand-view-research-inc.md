@@ -40,6 +40,20 @@ related:
         width: 410
         height: 300
         isCached: true
+  - title: "Asia Pacific Organoids Market Forecast to 2027: Amalgamation of Organ-on-Chip with Organoids to be a Prevalent Trend - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Organoids Market Forecast to 2027 - COVID-19 Impact and Regional Analysis By Type; Application; Source, and Country\" report has been added to ResearchAndMarkets.com's offering. Amalgamation of Organ-on-Chip with Organoids to be"
+    publishedDateTime: 2021-04-19T09:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19754376.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "C3t0ZWHXKNxPPMrf9Bltf5pwZSeVx7iKF6P053VL5/h8vvCCWEMkRBkLJr6FZwTOO9t/iAQ31bIUUrRNWnBVBpUKVyOALJs+8xEkHd3U7G1mLG2/poO1fh4dl2rN5ioi0PuqRA797Dwb94/0F0oD602XrgDBVh28zbTLi0j36t/6/eEbAH8EqYzlZeRg5H6dre35cqGG3cIv268aMurlx7oI2izU3u7W4Rbz3661i2xQgfVSuPuS+bGAybxkf35Y/b6Zz8uCRcs3Q5LSvcmGmdPOddQ/Wg9NdCkJzHjnefJHtidcLFA/t6+G3NfZBbWdfD5XNr5vI8cL+VvSUyjF+1OpF9QA6qOgZ2OYNKR2KA8=;qWNoTq3dc3ohMsYFqCPouw=="
 ---

@@ -25,61 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Asia Pacific Artificial Intelligence (AI) in Healthcare Market"
-    excerpt: "The Business Market Insights provides you regional research analysis on Asia Pacific Artificial Intelligence AI in Healthcare Market and forecast to 2027 The research report provides deep insights into the regional market revenue parent market trends macro economic indicators and"
-    publishedDateTime: 2021-04-19T07:53:00Z
-    webUrl: "https://www.openpr.com/news/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
-    ampWebUrl: "https://www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2271860/asia-pacific-artificial-intelligence-ai-in-healthcare-market"
+  - title: "Federated Learning Solutions Market worth $201 million by 2028 | MarketsandMarkets™"
+    excerpt: "According to a new market research report Federated Learning Solutions Market by Application Drug Discovery Industrial IoT Vertical Healthcare and Life Sciences BFSI Manufacturing Retail and eCommerce Energy and Utilities and Region Global Forecast to 2028 published by As"
+    publishedDateTime: 2021-04-20T10:00:00Z
+    webUrl: "https://www.openpr.com/news/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
+    ampWebUrl: "https://www.openpr.com/amp/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272559/federated-learning-solutions-market-worth-201-million-by-2028"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 89
+    quality: 38
     images:
-      - url: "https://cdn.openpr.com/U/4/U419236836_g.jpg"
-        width: 563
-        height: 423
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market"
-    excerpt: "A new business intelligence report released by HTF MI with title \"Artificial Intelligence (AI) in Insurance - Thematic Research\" is designed covering micro level of analysis by manufacturers and key business segments. The Artificial Intelligence (AI ..."
-    publishedDateTime: 2021-04-23T10:33:00Z
-    webUrl: "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth"
-    ampWebUrl: "https://www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
-    images:
-      - url: "https://cdn.openpr.com/U/4/U423807235_g.jpg"
-        width: 400
+      - url: "https://cdn.openpr.com/U/4/U420684215_g.jpg"
+        width: 410
         height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
-    publishedDateTime: 2021-04-19T18:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2021-04-19"
+  - title: "Artificial Intelligence in Construction Market Size Is Likely To Be Valued At USD $3.3 Billion By 2025 | Grand View Research, Inc."
+    excerpt: "According to a recent report published by Grand View Research Inc., the ongoing COVID-19 pandemic has disrupted the construction industry throughout the globe. In the event of countries easing up restrictions,"
+    publishedDateTime: 2021-04-21T07:59:00Z
+    webUrl: "https://menafn.com/1101951093/Artificial-Intelligence-in-Construction-Market-Size-Is-Likely-To-Be-Valued-At-USD-33-Billion-By-2025-Grand-View-Research-Inc"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2021-04/20/G_175c7550-3image_story.png"
+        width: 620
+        height: 264
         isCached: true
-  - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
-    excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
-    publishedDateTime: 2021-04-21T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
 
 secured: "zmLRc3aInxNwalrR8fDLwhgROfjoOvFg+LV1fWXsRFZeYOhvxHNEI/aSGwyI4C5PBPhtwNX9WHnUmctY/DNMod+IEaHM/Q2BCm+WaAydUs2S2CqeGIuP5gv183zFH856/jqM3txktRdewr7AUi2/d+Q2Y7njWVUs0I9kj/aQeqDubfMcNDGJzafFL6x3oAq01svqCz19ZsMZFcSbiOj0RYYgmR/pdRzQq6XH/cfxRjq1K4S4JlIu3ucmR/TZB104YVGSUNf23rEg1m8xOiwwC+KNkhY8szardjjQoEUn70GEHtHbYHNn11Z27OroXv0boN1zgYDk0DYLljN6pVDDOLFYoRx45YbJDQmdn2yMcgg=;Qvrcb1Hu4Txf3QNb5DKDrg=="
 ---

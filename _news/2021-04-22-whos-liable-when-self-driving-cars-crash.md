@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volvo partners with China's DiDi Chuxing to build fleet of self-driving cars"
-    excerpt: "Volvo is partnering with DiDi Chuxing's Autonomous Driving division to build a fleet of self-driving vehicles, the companies announced Monday. DiDi, a Chinese Uber competitor with more than 550 million users and tens of millions of drivers,"
-    publishedDateTime: 2021-04-19T07:34:00Z
-    webUrl: "https://mashable.com/article/volvo-didi-self-driving/"
-    ampWebUrl: "https://mashable.com/article/volvo-didi-self-driving.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/volvo-didi-self-driving.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 71
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F04%252F19%252F78%252Fd7bf69acb5614e9cbb5dccd018b65db4.c22f4.jpg%252F1200x630.jpg?signature=UedR8Wbcllae92S4rXpxn7UX4Tc="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What Waymo’s new leadership means for its self-driving cars"
     excerpt: "The change in leadership hints at the broader state of the self-driving car industry, which has failed to live up to its hype in the past few years."
     publishedDateTime: 2021-04-19T09:20:00Z
@@ -144,34 +128,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1009681174.jpg"
         width: 848
         height: 630
-        isCached: true
-  - title: "Self-driving cars coming to Maine in the future"
-    excerpt: "Self-driving cars may bring bigger changes for Maine than stress-free rides to work. Richard Corey, Ph.D. headed a virtual roundtable discussion on autonomous vehicles on April 14. The Q&A session with the University of Maine’s VEMI Lab was part of Maine Impact Week,"
-    publishedDateTime: 2021-04-19T08:37:00Z
-    webUrl: "https://mainecampus.com/2021/04/self-driving-cars-coming-to-maine-in-the-future/"
-    type: article
-    provider:
-      name: Maine Campus
-      domain: mainecampus.com
-    quality: 39
-    images:
-      - url: "https://mainecampus.com/wp-content/themes/newsmag-pro/assets/images/picture_placeholder.jpg"
-        width: 560
-        height: 416
-        isCached: true
-  - title: "Volvo Working with Ride-Hailing Company Didi to Test Self-Driving Technology"
-    excerpt: "Robotaxis are here to stay and it looks like it won’t be long until most ride-hailing companies rely solely on driverless cars. Well-known names in the industry are doing it and emerging startups are also developing self-driving technology,"
-    publishedDateTime: 2021-04-19T07:11:00Z
-    webUrl: "https://www.autoevolution.com/news/volvo-working-with-ride-hailing-company-didi-to-test-self-driving-technology-159558.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 36
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/volvo-to-work-with-ride-hailing-company-didi-for-testing-self-driving-technology-159558-7.jpg"
-        width: 728
-        height: 300
         isCached: true
   - title: "WM Motor’s First L4 Self-Driving Car W6 Gains 6,000 Orders in Three Days Amid Auto Shanghai"
     excerpt: "WM Motor's third model and its first level-four self-driving car, the W6, has received 6,000 orders within three days on the sidelines of a major automotive expo in Shanghai, according to the founder."

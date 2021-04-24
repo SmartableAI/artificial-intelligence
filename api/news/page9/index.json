@@ -2,6 +2,145 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-15-aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge.md",
+      "title": "AWS launches free digital training courses to empower business leaders with ML knowledge",
+      "excerpt": "Today, we’re pleased to launch Machine Learning Essentials for Business and Technical Decision Makers—a series of three free, on-demand, digital-training courses from AWS Training and Certification. These courses are intended to empower business leaders and technical decision makers with the foundational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-launches-free-digital-training-courses-to-empower-business-leaders-with-ml-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:02:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-self-driving-startup-cruise-raises-275-bln-from-walmart-others.md",
+      "title": "Self-driving startup Cruise raises $2.75 bln from Walmart, others",
+      "excerpt": "Self-drive automaker Cruise, backed by General Motors Co, on Thursday said it raised $2.75 billion in its latest funding round with additional investment from Walmart Inc and others, taking the startup's valuation over $30 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/self-driving-startup-cruise-raises-275-bln-walmart-others-2021-04-15/",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-cruise-raises-%242.75-bln-from-walmart-others-2021-04-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ITM2NTQDAVLV3EWE5FBRD4ITT4.jpg",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact.md",
+      "title": "Latana Uses Machine Learning to Help Retailers Track Their Marketing’s Impact",
+      "excerpt": "Latana offers AI-powered brand tracking designed to help retailers make better marketing decisions with scalable insights. The solution provider’s machine learning technology can accurately track retailers’ brands to provides deep audience segmentation.",
+      "sourceUrl": null,
+      "webUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "originalUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/04/latana_dashboard-1.png",
+          "width": 937,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/digital-marketing/latana-uses-machine-learning-to-help-retailers-track-their-marketings-impact/amp",
+      "publishedDateTime": "2021-04-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-galileo-sunspot-sketches-versus-modern-deep-learning-ai.md",
       "title": "Galileo sunspot sketches versus modern 'deep learning' AI",
       "excerpt": "What would we see, if astronomers back in the time of Kepler and Galileo had modern technology monitoring the Sun across the electromagnetic spectrum, available to them? Thanks to modern artificial intelligence,",
@@ -1044,145 +1183,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-computer-vision-in-healthcare-market-to-witness-surge-in-demand-owing-to-rising-end-use-adoption.md",
-      "title": "Computer Vision in Healthcare Market to Witness Surge in Demand Owing to Rising End-use Adoption",
-      "excerpt": "The global computer vision in healthcare market is estimated to surpass 6 772 3 million by 2027 exhibiting a CAGR of 47 1 from 2020 to 2027 The report offers meticulous analysis of the global computer vision in healthcare market",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "originalUrl": "https://www.openpr.com/news/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U414438461_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270457/computer-vision-in-healthcare-market-to-witness-surge-in-demand",
-      "publishedDateTime": "2021-04-14T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition-technology.md",
-      "title": "Detroit man sues over wrongful arrest due to facial recognition technology",
-      "excerpt": "A Detroit man has filed a federal lawsuit against the Detroit Police Department over his wrongful arrest last year due to facial recognition technology. The American Civil Liberties Union (ACLU ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition",
-      "originalUrl": "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_policetape_031120getty_1.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/548244-detroit-man-sues-over-wrongful-arrest-due-to-facial-recognition?amp",
-      "publishedDateTime": "2021-04-14T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it.md",
-      "title": "Are AI Venture Investors Crazy, Or Are Groq And Sambanova Worth It?",
-      "excerpt": "These AI deals are eye-popping. Sambanova, a startup co-founded and led by ex-Sun/Oracle engineer Rodrigo Liang, announced that the company has raised an additional $676M at a valuation of $5B to become the highest cap AI startup so far.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076ecd311e35182e28784d4%2F0x0.jpg",
-          "width": 538,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/04/14/are-ai-venture-investors-crazy-or-are-groq-and-sambanova-worth-it/amp/",
-      "publishedDateTime": "2021-04-14T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

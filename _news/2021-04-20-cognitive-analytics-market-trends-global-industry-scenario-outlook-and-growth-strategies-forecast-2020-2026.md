@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
+    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
+    publishedDateTime: 2021-04-24T01:24:00Z
+    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
+    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
+    images:
+      - url: "https://www.express-journal.com/img/img-10.png"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Global Artificial Intelligence in Genomics market is expected to grow at a CAGR of 53% during 2021-2026"
     excerpt: "According to the MarkNtel Advisors research report Global Artificial Intelligence in Genomics Market Analysis 2021 the market is expected to grow at a CAGR of 53 during 2021 26 AI enables the efficient interpretation of large complex datasets and decreases"
     publishedDateTime: 2021-04-20T18:20:00Z

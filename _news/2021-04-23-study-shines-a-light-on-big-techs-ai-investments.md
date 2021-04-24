@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2021/04/study-shines-light-b
 webUrl: "https://www.nextgov.com/emerging-tech/2021/04/study-shines-light-big-techs-ai-investments/173561/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
-    excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
-    publishedDateTime: 2021-04-20T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/active-investment-management-is-latest-industry-poised-to-fall-to-the-advances-of-artificial-intelligence-ai-1030322906"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
 
 secured: "ln89jR4/9k3tb5Fr82/JMssuXUKQCW9PK10OyyXjWp2d3CLVf+LpDire3VCcnOWem+QvdZ+wX5UYnQ6GnJSD12ZxGbqXpeDZw08Rt80C5L2o1JqGVq8sOffAMM7udTiyzTp9RWZZrVrKJxT6LAicMXUabsdQ1GSdZ3HJcREU8lA0aTOao3Y2daHkM88i5ZK/+tcoYPjAWelLTt4FMRQbo/lHEllSxtZ7Qu39JpZe07Nb7BfekJzKODiC8PHt2ZTIfnhGz2j9t/8jX3ABQ+7FBt/jVOMR9kUieRSwLGnnZ+xmQn2Fkn3tGxzGywtXk028SUwQ9cDmKkkeHxwHJqby8TwjcaF+NawrPeUFTQVm589gZWzaBB+mnGtspWqQYzuAozth09Xo1YYkTU5wT1EHldDYqi2GKX0k6WRFis7gfOpiFxaJgUXY15ie16nX24Pf5vUhX3lRqafAz6A9+BUB8t4QFI/Hf1HN6ogeS2yc/wFNYEYuSnWmUT2wCx0tlWKg1ewyNf2vmguO6IfP4p+iyw==;SucD4v5qxMcaLZ1qwlnoTA=="
 ---
