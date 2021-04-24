@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nano-dimension-acquires-
 webUrl: "https://www.marketwatch.com/press-release/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd-2021-04-20"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/52391D93D977492AC2056676BFAC592E_800x392.20180218T131739.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-04-20T13:08:00Z
+    webUrl: "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bvbYWmBQvrY+WLsHNlkabpSs5X68E0cI1HVRCC83oKkgJzWN3EhjzfsH4nYi7zVbBtSkwBkvJE0OMG1SNCSyJlGzyvVPO2T7QuyMqyiyGVzt6PweMqrL+l0fI5j9dTELt1mb4KknPUh63Wm79KBAc5l+Adxhi0FYf8J2AWLLNgo0RefzybsDM9LoGLPW7trW7ywqYw4/B0IvjjmTRIH1gkitkogjAO9rXZQy4+TxOOyznnh+7pp3hZy93eUomBZiQUqEt6iK/O7vvPG23jK1W+bNZt6zx9lv8+uSRqLlQfkOLKzmXGMB+qbbeluS8YPnPrIWaBhdpbkngqHOcJbmqCXYfWOPbrhaYTs6dNrf7Vc=;6H2sA4PfRJrrOFba5IQBpQ=="

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-04-20-korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals.md",
+      "title": "Korean AI-based Diagnostic Software Dr. Answer Helps Countries With a Shortage of Medical Professionals",
+      "excerpt": "Press Release Dr. Answer, an innovative artificial intelligence (AI) based diagnostics application, is expected to significantly help countries with insufficient healthcare professionals make more efficient diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20210420005568/en/872661/4/1.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/korean-ai-based-diagnostic-software-dr-answer-helps-countries-with-a-shortage-of-medical-professionals/amp/",
+      "publishedDateTime": "2021-04-20T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-uk-industry-to-get-lowdown-on-latest-tech-from-robotics-and-automation-sector.md",
       "title": "UK Industry to Get Lowdown on Latest Tech from Robotics and Automation Sector",
       "excerpt": "Industry Showcase returns virtually on 25 – 27 May 2021 to once again give UK industry the chance to understand the latest in industrial robotics and AI innovation. The three-day online event, organised by KTN,",
@@ -1188,49 +1239,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-ambow-education-soars-on-ai-deal-with-amazon.md",
-      "title": "Ambow Education Soars on AI Deal with Amazon",
-      "excerpt": "Ambow Education expanded its Amazon partnership to help improve the company's engineering courses and address growing job-placement needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/ambow-education-soars-on-ai-deal-with-amazon",
-      "originalUrl": "https://www.thestreet.com/investing/ambow-education-soars-on-ai-deal-with-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTY4NjQ4ODYxMDczNTQ5MjA3/2-harley-davidson.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/ambow-education-soars-on-ai-deal-with-amazon",
-      "publishedDateTime": "2021-04-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

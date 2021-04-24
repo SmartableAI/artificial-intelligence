@@ -57,20 +57,6 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 15
-  - title: "Dynamic PET Image Denoising Using Deep Image Prior Combined With Regularization by Denoising"
-    excerpt: "The quantitative accuracy of positron emission tomography (PET) is affected by several factors, including the intrinsic resolution of the imaging system and inherently noisy data, which result in a low signal-to-noise ratio (SNR) of PET image."
-    publishedDateTime: 2021-04-19T13:32:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9388697"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 13
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9388697/graphical_abstract/access-gagraphic-3069236.jpg"
-        width: 660
-        height: 295
-        isCached: true
   - title: "Degradation Alignment in Remaining Useful Life Prediction Using Deep Cycle-Consistent Learning"
     excerpt: "Due to the benefits of reduced maintenance cost and increased operational safety, effective prognostic methods have always been highly demanded in real industries. In the recent years, intelligent data-driven remaining useful life (RUL) prediction approaches have been successfully developed and achieved promising performance."
     publishedDateTime: 2021-04-21T08:55:00Z

@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
+    excerpt: "Latest research report added by HTF MI Titled on Global Solar Artificial Intelligence (AI) in BFSI Sector Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026."
+    publishedDateTime: 2021-04-24T07:02:00Z
+    webUrl: "https://menafn.com/1101930730/Artificial-Intelligence-AI-in-BFSI-Sector-Market-May-See-a-Big-Move-Oracle-JP-Morgan-Microsoft-IP-soft-Intel-Google"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2021-04/16/G_1832bc3e-8image_story.jpeg"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "gPFt27mCwS644tnpsKioojgESiljxtHC+feU4yqMLN+4f87JGJdONt2yoQ1SKhpt7DTc7gZGWt1v+efJ+Rw1fAzYxaw0DwNYMNGzkfwdLTHZrKieD2SiGOxhFyO+dK0/W7ZuLNSTWxEOLLAJDSQHVoXaRDIOsIv5M23VVDFFm3k/XJUmScQ6QJmTgdqp7/tsIzQZMT70KD6QuwurEysbjXl2K6ut0QFT12pLx9iPDFWAgVByoO8aTV2ReEiHaERbet/7xdhrx0Wd7o+FHtfvu+39yiNgQuUgR5qYmGR6/o8u8SBzofz1Ad4uU6XgNzS6t1xKgZupyF5fgxOx6ECtQC34m3QX0E1TZ5kiLhLBNLU=;H+3WuP0dL0GDpfR/diadEw=="
 ---

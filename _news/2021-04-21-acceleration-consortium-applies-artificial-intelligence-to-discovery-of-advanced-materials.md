@@ -49,6 +49,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 13
+  - title: "Iterate.ai Releases Interplay 6.0; the AI-Fueled Low-Code Platform Accelerates Application Development 10X"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables customers to build pilot-ready applications up to 10x faster, today announced significant new capabilities with the release of Interplay 6.0, Iterate.ai’s low-code platform."
+    publishedDateTime: 2021-04-22T06:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8221203/iterateai-releases-interplay-60-the-ai-fueled-low-code-platform-accelerates-application-development-10x"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "BupiELBp+PpU4MJ2t5u8qnul/T8BRGdywtfubwjz9fbZegVOmwB5rHwgmxSyrDmok79jD4He/lzOWU0Xm1a1AMC9KwqMzLkOqj7BulamgA3cAIetQ0NI4jronsRsdZ2JoGj2ksnnxM7oBRC5LsIBNJQKKaXzGytRyeidqRe+rfz/gChvS/d0h9Q49bhGw//IvR5tU8Uhf2GURDSsSr02YACnPW7FGmYNzNygRRglr92MQQZmviO+jZAOybZT4jn3nzQYyLOPWeyFGqdrVmroQ+MLwDCAiamPUjXBriYyvxiSKK5WfRKnk/y92c5khEAiPG9kdC9tw1ZzsmsNOVd13oCDOkdOp9wxBIpBpgJsY38LpabY6aIDBcNLz3jXuPdO2F7mnoX1Oiza/inluQEGhedqIaRU6+UaKvIJ4NcUrQE4ITFmzD7nYu37ntGmxM1i8ehlsQuOPgALHIzcUtw6TLG0EdYBEgXvcsBlu2MIcPtByO5efFzURCwkUcbtNLHLCAy2XxbHvXndM15Yowh/uA==;ArsadqhPaK/63jEYHQsgQw=="
 ---

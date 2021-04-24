@@ -42,20 +42,6 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 19
-  - title: "Dynamic PET Image Denoising Using Deep Image Prior Combined With Regularization by Denoising"
-    excerpt: "The quantitative accuracy of positron emission tomography (PET) is affected by several factors, including the intrinsic resolution of the imaging system and inherently noisy data, which result in a low signal-to-noise ratio (SNR) of PET image."
-    publishedDateTime: 2021-04-19T13:32:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9388697"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 13
-    images:
-      - url: "https://ieeexplore.ieee.org/ielx7/6287639/9312710/9388697/graphical_abstract/access-gagraphic-3069236.jpg"
-        width: 660
-        height: 295
-        isCached: true
   - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
     excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
     publishedDateTime: 2021-04-23T14:23:00Z

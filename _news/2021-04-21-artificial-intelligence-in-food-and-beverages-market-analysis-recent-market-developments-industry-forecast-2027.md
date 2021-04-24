@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-04-19T13:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Aviation Market Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2025"
     excerpt: "The Artificial Intelligence in Aviation Market is estimated ... in different verticals such as Automotive and Transportation, Chemicals and Materials, Healthcare, Food & Beverage and Consumer Packaged Goods, Semiconductors, Electronics & ICT, Packaging ..."
     publishedDateTime: 2021-04-23T12:15:00Z

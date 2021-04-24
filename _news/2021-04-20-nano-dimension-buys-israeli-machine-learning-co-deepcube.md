@@ -57,6 +57,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-04-20T13:08:00Z
+    webUrl: "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "I2yt7cPMX7BDiL2roT9eZTNEcEi8pXAFmZ95vbt0R6mEXA/QtmvYGdURQV2fA0qkBlfjh4triDvu9Fd7/FEyaCbkbRFCl18eUVdTAQtnxxBT+Xtfly1MRfgRYoShUGhJYe+NPabGgx6duuMlAUXZXmqdsoJf9FV0u5uEdFSdh8x4hzvrLY1ZDJXVGOLgCPUjpUy/w1tNdZavX48Lvkd3K81zspZrTUZXmTWBfRL1WmkumyDl4ADtmIhZGzBYuKrU7ixwiM6jNNOFOnTXAaFQMB0m7o7wErGRiHcUdXHtRI6l7EIt2S5xvwI8Yy1RKNYt8DtNtOBzIUg/ddKXWB2AMXZV688bSlbVOgLFHDFCTZII5yXOC+Lo2Liq6HrEL2hvwJOQ3j5GFCD8SaIvLeCK5p0nKI81nuLKB8XHc4rotju5/7GHfhLrg7eq/LZISIMJyLxvtYiO5D7Ojk3NwE4rBIYrxOK42OvSOnnU8aujPoi4Gpt+AsrtXZfjwa++Cl6bmgEljKfVo869veuvubtwZQ==;NkWqDs3wR/zWyNj3Dv+UeA=="
 ---

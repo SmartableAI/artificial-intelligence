@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "The Station: A chat with Scale AI’s Alexandr Wang, the NYC scooter winners and TuSimple goes public"
-    excerpt: "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hi there, new and returning readers. This is The Station,"
-    publishedDateTime: 2021-04-19T14:03:00Z
-    webUrl: "https://techcrunch.com/2021/04/19/the-station-a-chat-with-scale-ais-alexandr-wang-the-nyc-scooter-winners-and-tusimple-goes-public/"
-    ampWebUrl: "https://techcrunch.com/2021/04/19/the-station-a-chat-with-scale-ais-alexandr-wang-the-nyc-scooter-winners-and-tusimple-goes-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/19/the-station-a-chat-with-scale-ais-alexandr-wang-the-nyc-scooter-winners-and-tusimple-goes-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "QHFddtHeFAvxdj96NMkDR+Vi65VkghF6gdfuCwVAkHuWz09jb+/nGlWqGHWKKcRkdYlNcQGwsbN5ZToMOKU2KSQDgqF5wjpbvEu+ZJmOYcmk/YFVKxPU2eqamJ3jt27B50C46D8B9rM6RkHM35Gudhs7n4s9HauD3otMp0TNsaawLxLUYNiprtNHiNDfssyL04Mv0plCf6ldPkW/XXmNCj/yadqVvN65qGi2eL71Hm2VpXPjOvdmwKnu+L02WLKroZx9vlKFqe8Ye3A4WVJSN517lubzd9LbEHkn+YsKKw+lWwvsyePjCuJjZoqIKgBmb3cL9j4ySdDzjHLPvd+hllrkfiCTnrAUW0VrCzMbemsUQs7JRikD35utwbnxxcC3Lz/X6EVToSqNVyKB48f7ne0TWDmPJC/qEWbysEGZdFSIHttfYfAjaAlNbvZVjNPj3NkOFgiubq7pmqM2hKZl+R34TcRpu7yWjR0e5Rk7kQop9lxuZ70csk0E5P4aqKNs+RKG0ft9VK7mLofJUaP7tg==;ZS94MzaIUR5BtRCA/PUUjg=="
 ---

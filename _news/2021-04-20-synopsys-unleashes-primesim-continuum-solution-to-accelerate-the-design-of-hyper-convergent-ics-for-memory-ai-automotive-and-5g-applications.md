@@ -47,6 +47,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Iterate.ai Releases Interplay 6.0; the AI-Fueled Low-Code Platform Accelerates Application Development 10X"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables customers to build pilot-ready applications up to 10x faster, today announced significant new capabilities with the release of Interplay 6.0, Iterate.ai’s low-code platform."
+    publishedDateTime: 2021-04-22T06:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8221203/iterateai-releases-interplay-60-the-ai-fueled-low-code-platform-accelerates-application-development-10x"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "g3Mgu/W5PEOLhI/Rj38JCRSu8FNe+XxqIJ99i3UbGzMWJRK5WTiQB93juMJW+GSHVtRdBN5zlnelyx2EVP03pzZU35ilMutE/1AMWS1L+KEdhwP1kFSdcgTn+i4NnvOsU/JjBem6J4K8g9cGBo/1DbMXlTz4n9ewwGlib8ifijgwmDHChgmZ4GHQJ/Jszd54tLStqeaxsByzsTOtwECHNaT6Ou7iVzIjyXtiEg21+PqMFB0XgQIv+VAK1iQ9msBngrpiQbptPBrAHFvgtJUrzOQAjpNerFf8qtNR7d1Qg+pFZWfHpFWb3ZYyabES1fDmIfNX8ovOWjhh64rO78KcJaygg03TgSrCBxO4BUjrmdQ=;Lk/5m4MaBuADhCAY0OuWUw=="
 ---

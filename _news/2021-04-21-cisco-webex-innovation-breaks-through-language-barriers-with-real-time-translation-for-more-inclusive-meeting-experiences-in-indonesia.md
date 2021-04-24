@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Thailand"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages including Thai Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English BANGKOK,"
+    publishedDateTime: 2021-04-23T11:10:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-in-thailand/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-in-thailand/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-in-thailand/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 28
+    images:
+      - url: "https://mk0gbafnewsorgaiih3v.kinstacdn.com/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Vietnam"
     excerpt: "Webex customers can preview real-time translations from English into 100+ languages including Vietnamese Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are"
     publishedDateTime: 2021-04-21T07:20:00Z

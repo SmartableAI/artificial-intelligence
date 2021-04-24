@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
-    excerpt: "The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should add to the bullish thesis."
-    publishedDateTime: 2021-04-19T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-2021-04-19"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Baidu Stock: 3 Reasons To Stay Away"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Along with various other large Chinese tech companies, Baidu (NASDAQ:BIDU)"
     publishedDateTime: 2021-04-19T18:49:00Z

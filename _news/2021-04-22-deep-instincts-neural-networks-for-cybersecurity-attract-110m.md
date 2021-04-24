@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/22/deep-instincts-neural-networks-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/deep-instincts-neural-networks-for-cybersecurity-attract-110m/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "8 investors, founders and execs predict cybersecurity, fintech will take Belfast by storm"
+    excerpt: "Belfast is among one of the U.K.'s fastest growing tech hubs, so we reached out to investors, founders and executives for an inside look at the city's startup ecosystem."
+    publishedDateTime: 2021-04-24T06:38:00Z
+    webUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/"
+    ampWebUrl: "https://techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/8-investors-founders-and-execs-predict-cybersecurity-fintech-will-take-belfast-by-storm/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-619527766.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Deep Instinct Raises $100M for its Cybersecurity Threat Prevention Platform Built on Deep Learning"
     excerpt: "Deep Instinct, cofounded by Guy Caspi, is an end-to-end cybersecurity detection platform that leverages deep learning to process threats faster than other solutions."
     publishedDateTime: 2021-04-22T13:07:00Z

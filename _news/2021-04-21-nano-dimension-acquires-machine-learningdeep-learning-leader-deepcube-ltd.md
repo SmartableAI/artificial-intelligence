@@ -60,6 +60,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-04-20T13:08:00Z
+    webUrl: "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yoI7qLYchjlOPBqQLQTRyRUEvAELw3+gRsDVMZV/eqmKFb2KPXbpJQnGeHbWvIJ4/YBEDqThFNWsaPcIj3Faf8rOPQZDzahx+tlekNE3uzVC1lAlJpsuhfd6i8z6aNxqLRiSWMPbaIJXiek45lZGfM2W93habIQ7A4VfDwRtvxIlHcJLxAUIacy3lwWu74+zx2gPXQEh/nw7CJQf72QfsT2EoakS07RwasRMNRnFUjz35rPNFBR9DohLOwc0Fvqznc++FIped2uRiR0NOFW5+USM+wVJNWar1GhYCZhwBJnnRFYo2zovvy/uGnAezL9e45d4CdKF6qGwBshYSRZRlhwJYtivQXcuwPa3jCSnkeU=;hdwpUzsBzjXq4OfNSLQ7zA=="
 ---
