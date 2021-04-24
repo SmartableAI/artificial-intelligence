@@ -33,6 +33,34 @@ related:
         width: 800
         height: 574
         isCached: true
+  - title: "3D motion tracking system could streamline vision for autonomous tech"
+    excerpt: "50928751578_a3702cc26c_q.jpgThe imaging system exploits the advantages of transparent, nanoscale, highly sensitive graphene photodetectors developed by Zhaohui Zhong, U-M associate professor of electrical and computer engineering, and his group."
+    publishedDateTime: 2021-04-23T09:02:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uom-3mt042221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Graphene-based 3D motion tracking system could streamline vision for autonomous tech"
+    excerpt: "(Image: University of Michigan) The imaging system exploits the advantages of transparent, nanoscale, highly sensitive graphene photodetectors developed by Zhaohui Zhong, U-M associate professor of electrical and computer engineering, and his group."
+    publishedDateTime: 2021-04-23T10:06:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=57841.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 17
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id57841_1.png"
+        width: 450
+        height: 300
+        isCached: true
   - title: "VoIP Traffic Detection in Tunnelled and Anonymous Networks Using Deep Learning"
     excerpt: "Network management is facing a great challenge to analyze and identify encrypted network traffic with specific applications and protocols. A significant number of network users applying different encryption techniques to network applications and services to hide the true nature of the network communication."
     publishedDateTime: 2021-04-23T03:36:00Z

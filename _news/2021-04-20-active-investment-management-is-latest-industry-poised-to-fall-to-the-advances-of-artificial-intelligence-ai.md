@@ -38,20 +38,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2024"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
-    publishedDateTime: 2021-04-19T18:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2024-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Sector Market May See a Big Move: Oracle, JP Morgan, Microsoft, IP soft, Intel, Google"
     excerpt: "Latest research report added by HTF MI Titled on Global Solar Artificial Intelligence (AI) in BFSI Sector Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026."
     publishedDateTime: 2021-04-24T07:02:00Z

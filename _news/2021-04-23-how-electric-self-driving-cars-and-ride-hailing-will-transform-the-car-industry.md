@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
 type: article
 quality: 84
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/04/sdc.jpg"
         width: 700
         height: 409
+        isCached: true
+  - title: "Two die after self-driving car crash in US"
+    excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
+    publishedDateTime: 2021-04-20T11:48:00Z
+    webUrl: "https://en.ammonnews.net/article/48791"
+    type: article
+    provider:
+      name: ammonnews.net
+      domain: ammonnews.net
+    quality: 24
+    images:
+      - url: "https://en.ammonnews.net/image.php?token=89a8bc4722cb8e3a28af636bc5479d8e&c=7386378&size="
+        width: 768
+        height: 432
         isCached: true
   - title: "Three reasons 'self-driving' cars are still a long way off"
     excerpt: "The recent crash of a Tesla car in the United States, in which two people died, has reignited debate about the capabilities and safety of today's \"self-driving\" technologies."

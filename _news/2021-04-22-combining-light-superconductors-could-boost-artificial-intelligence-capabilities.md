@@ -42,6 +42,22 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Scientists combine light, superconductors to power large-scale AI"
+    excerpt: "To build the next generation of artificial intelligence systems, at least one scientist wants to combine photonic components with superconducting electronics."
+    publishedDateTime: 2021-04-20T20:20:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4551618943220/2021/1/16189466021088/v1.5/Scientists-combine-light-superconductors-to-power-large-scale-AI.jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Combining light, superconductors could boost AI capabilities"
     excerpt: "As artificial intelligence has attracted interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct systems with general intelligence comparable to humans' intelligence."
     publishedDateTime: 2021-04-20T20:54:00Z

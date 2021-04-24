@@ -2,6 +2,300 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-13-how-to-ace-a-job-interview-with-a-robot-recruiter.md",
+      "title": "How to ace a job interview with a robot recruiter",
+      "excerpt": "So, if you are faced by a robot recruiter in your next interview ... Aida Fazylova is CEO of HR tech startup XOR, which uses AI to automate the earliest stages of hiring like applying, screening and getting scheduled for in-person meetings. \"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106545713-1589988202687gettyimages-1026594156.jpeg?v=1618238696",
+          "width": 2119,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/13/how-to-ace-a-job-interview-with-a-robot-recruiter.html",
+      "publishedDateTime": "2021-04-12T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing.md",
+      "title": "Tesla's Semi makes first deliveries; Waymo, Uber expand driverless truck testing",
+      "excerpt": "Tesla's electric Semi made its first delivery while Waymo and Uber each said they are expanding tests of driverless trucks. Tesla founder and CEO Elon Musk announced late last week the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2019/06/fleetowner_29612_tesla_shipment_1_0.png?auto=format&fit=max&w=1200",
+          "width": 667,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-top-10-what-are-the-greatest-scientific-or-technological-advances.md",
+      "title": "Top 10: What are the greatest scientific or technological advances?",
+      "excerpt": "I find the rapid development of translation technology simply amazing. It has made it even easier for language to be a bridge ... Currently, AI machines can understand human speech, drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "originalUrl": "https://www.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/methode/2021/03/10/3960c86c-814f-11eb-87b1-2ad3cd5fba10_image_hires_112546.jpg?itok=RCVte95m&v=1615346758",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/your-voice/article/3124784/top-10-what-scientific-or-technological-advance-do-you-find",
+      "publishedDateTime": "2021-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-cruise-to-be-dubais-exclusive-self-driving-taxi-provider-report-says.md",
+      "title": "Cruise to be Dubai's exclusive self-driving taxi provider, report says",
+      "excerpt": "Cruise is setting its sights abroad for the first time after years of testing its self-driving vehicle technology in the US. The GM-backed autonomous vehicle developer is looking to make Dubai the first city outside of the United States in which it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Wcp95VzyntfCjJLIVNBwPcR9_WA=/2020/01/22/7c2bdf22-4ce0-4961-a333-cc7327adf6cd/ogi-cruise-origin-in-sfs-castro-district.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-av-dubai-first-non-us-location-robotaxi-fleet/",
+      "publishedDateTime": "2021-04-12T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-nvidia-announces-technology-for-training-giant-artificial-intelligence-models.md",
+      "title": "NVIDIA Announces Technology For Training Giant Artificial Intelligence Models",
+      "excerpt": "Goodson discusses NVIDIA GTC, the premier annual conference for developers, scientists, and businesses interested in machine learning or artificial intelligence. He dives into one of Huang’s most exciting announcements of a newly designed AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6074d4cce94425269918518d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/04/12/nvidia-announces-technology-for-training-giant-artificial-intelligence-models/amp/",
+      "publishedDateTime": "2021-04-12T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-13-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
+      "title": "Microsoft Buying Speech Recognition Firm Nuance in $16B Deal",
+      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a cash deal worth $16 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2021-04-12/microsoft-buying-nuance-in-deal-worth-197b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-13-ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-pymetrics-informatica.md",
       "title": "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, Pymetrics, Informatica",
       "excerpt": "The global AI Governance Market size to grow from USD 50 million in 2020 to USD 1,016 million by 2026, at a Compound Annual Growth Rate (CAGR) of 65.5% during the forecast period. Various factors such as increase in government initiatives to leverage the AI technology,",
@@ -948,263 +1242,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-new-advancements-in-ai-are-changing-healthcare-as-we-know-it.md",
-      "title": "New Advancements in AI are Changing Healthcare as We Know It",
-      "excerpt": "And when vaccines started rolling out nine months after the start of the pandemic ... over the past year has been artificial intelligence (AI). AI has not only helped create the Covid-19 vaccine ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "originalUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/08/healthcare1600c.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/new-advancements-in-ai-are-changing-healthcare-as-we-know-it/amp/",
-      "publishedDateTime": "2021-04-12T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-corticalio-message-intelligence-solution-improves-accuracy-of-processing-unstructured-documents.md",
-      "title": "Cortical.io Message Intelligence Solution Improves Accuracy of Processing Unstructured Documents",
-      "excerpt": "Cortical today announced Message Intelligence 2.1, an intelligent document processing solution (IDP) that provides high accuracy in filtering, classification and extraction of emails, attachments and other types of unstructured documents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr.com/press-release/834322",
-      "originalUrl": "https://www.pr.com/press-release/834322",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR",
-        "domain": "pr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-and-global-computer-makers-launch-industry-standard-enterprise-server-platforms-for-ai.md",
-      "title": "NVIDIA and Global Computer Makers Launch Industry-Standard Enterprise Server Platforms for AI",
-      "excerpt": "NVIDIA today introduced a new class of NVIDIA-Certified Systems ™, bringing AI within reach for organizations that run their applications on industry-standard enterprise data center infrastructure. These include high-volume enterprise servers from top manufacturers,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-science-corporate-news-products-and-services-9a0d0de33de18057fdd99ac3ca5b3502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-launches-morpheus-to-bring-ai-driven-automation-to-cybersecurity-industry.md",
-      "title": "NVIDIA Launches Morpheus to Bring AI-Driven Automation to Cybersecurity Industry",
-      "excerpt": "NVIDIA today announced the NVIDIA Morpheus application framework, which provides cybersecurity partners with a complete suite of accelerated AI skills that detect and prevent security threats as they happen.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-software-industry-fd4d729f818dd603f1d3144990370b0b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nvidia-announces-cpu-for-giant-ai-and-high-performance-computing-workloads.md",
-      "title": "NVIDIA Announces CPU for Giant AI and High Performance Computing Workloads",
-      "excerpt": "“Using licensed Arm IP, NVIDIA has designed Grace as a CPU specifically for giant-scale AI and HPC. Coupled with the GPU and DPU, Grace gives us the third foundational technology for computing, and the ability to re-architect the data center to advance A",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-business-technology-products-and-services-grace-hopper-93a08d90026117b26646e7e18122400e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-12T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation.md",
-      "title": "HelloWoofy is an AI-driven social media manager that can save brands hours in content creation",
-      "excerpt": "Sponsored Deals HelloWoofy Social Media Management is poised with all the tools to take the reins of your most important social media platforms, helping you generate content that resonates with your audience,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/hellowoofy-is-an-ai-driven-social-media-manager-that-can-save-brands-hours-in-content-creation/amp/",
-      "publishedDateTime": "2021-04-12T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

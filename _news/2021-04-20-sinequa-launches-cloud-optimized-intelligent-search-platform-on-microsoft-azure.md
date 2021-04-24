@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
-publishedDateTime: 2021-04-20T12:57:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
-webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
+publishedDateTime: 2021-04-20T16:57:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft details the latest developments in machine learning at GTC 21"
@@ -56,6 +50,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607e442c21370045d45f7edb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2392%26cropY1%3D3%26cropY2%3D1349"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amazon, Microsoft Team Against Facial Recognition Lawsuits"
+    excerpt: "(TNS) — Cloud-computing and crosstown rivals Amazon and Microsoft have teamed up to defend themselves against twin lawsuits challenging how the companies built their facial recognition software. Illinois residents Steven Vance and Tim Janecyk uploaded ..."
+    publishedDateTime: 2021-04-21T19:15:00Z
+    webUrl: "https://www.govtech.com/computing/amazon-microsoft-team-against-facial-recognition-lawsuits.html"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 71
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2176ccc/2147483647/strip/true/crop/927x451+0+88/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F86%2F7a%2F5dcdf98c5260ec88bbe78c257b82%2Fshutterstock-1492635029-2.JPG"
+        width: 1440
+        height: 700
         isCached: true
   - title: "UK government turns to Microsoft for digital transformation assistance"
     excerpt: "The UK government has agreed a new deal with Microsoft, giving public sector organizations discounted access to its cloud productivity tools and services. In a blog post, Microsoft explained the Crown Commercial Service,"
@@ -153,6 +161,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "lx5btTjz/yiIMrPUf2SQk0AtRe+bFvPrQfJ/ZDcK1dbUb23h1y1sdbeMg+Ojjk8iHWzfRmkvTTDUsb+AIiXZELMb4N3qIMQPbHFcgr7/Y2pBiHzUXsPwfY87lLUCtq+ZF81BZOzUn7etu1OXP14vP8T9Oul+FN0r26N85YhB9sjYjD87UVnwAiJ5vzzFNWrm/BBUmOFBdm8DC+7rRPH2wINY2BcC+aUutQ/gX05HUfgw//JPoUGVok4z/VVMN1c4UaGlwGHTQ08SsoNjgPhk1ak1HlJjMWoFTxX0q7douTKbD8ZqCP9CWE+xxS79ls+A1BBcE1rvnrrjaLZIUfUY+1CZrYmtHhalt3kdPGZOWKM=;E9VCuGhiVuRNyr03KYhG7w=="
+secured: "/jzjMN/Z+3ypWNaYr+aadSCaMOBM6uDpMcGUH9nYR+B0VJlypWJDyHBDxonplHI13OxXLpn4GNHnyWBPvqG8WbiKqehXWR7i+nRhh7pR2xZTPzXwBp3RU561nXLDdNZu+X8u7Gwm2QU/3wHkNkIy1SxaeWAz5MN2rxghyLRqTTk8cdgJJ1mrA7lLvgJ3V8OirVYRjnilTjHvbibplXmT6PS5VDOs+ql/yrX+2HQk8jQmiL1BZ4nkapkrscgCREg/yA0fg2ac1TKFc2JNtVizvWmqTboWBEHdVPM0aSLjopChkPOSkugpBGJqhsN9BMTl8Sq78TfTJ2llhYxIQJO0qP/R23Ys8cqmN2LVHwpd3yY=;Eo+itiJnOcM3ZY0Bfq5A5w=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 20 Data Science And Machine Learning Platforms: Gartner"
-excerpt: "The platform has an expanded suite of components that includes Cloud Data Fusion, Cloud AutoML, BigQuery ML, AI Platform Notebooks and TensorFlow. Google is set to launch its new unified AI ..."
-publishedDateTime: 2021-04-07T06:38:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
-webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/11"
+excerpt: "The Seattle-based cloud titan’s vision is for data science teams to use the entire AWS portfolio and machine learning stack, with Amazon SageMaker at its core. Many supporting AWS offerings were ..."
+publishedDateTime: 2021-04-07T03:55:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
+webUrl: "https://www.crn.com/slide-shows/cloud/top-20-data-science-and-machine-learning-platforms-gartner/16"
 type: article
 
 provider:
@@ -12,8 +12,9 @@ provider:
   domain: crn.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crn.com/resources/0268-11f9ecf1586d-35d37e002d47-1000/ai-artificial-intelligence-mind.jpg"
@@ -21,6 +22,6 @@ images:
     height: 457
     isCached: true
 
-secured: "emlP+wq+MWEOsZraF4xGIO2Q60b1AgPKF2PkktCCLNYivho5n6DGx0D6D25527HQJIBBJ0AgrrpsBhxO4SR6eHrF4ygGDxXwzZycr36rE9LDkhsSP8qbXGJXuNl0I2B2Qpu4mJngGr5SP8k4YDWjzH+Nk27C49fM9UXO9+Eu0rlg4AumuCq4AqFYrOSY6kUFMQUAaCl1iDzqnaRSKoOkzJGxXY5EjR81HI1n0FkO5h/pSrNChIuKj3FH2UMZ0TGiS1hAwiQEoLPnAzlGy45Goo4jEBeigVwPWBhcMywrX/HlCRE5YilV08i9o8CCKyU1WE+grf487OZlFPxqEahQF51VHrU9M/g9d4uILyNryr8=;IqSsS2++2lvhRvreBjVujw=="
+secured: "qREz9hkogu8nT/a4nPF/M2gk5rShda31Rqo1hV/GGzIxF3jTnHo3zviJ/8ZPdfYkd2/fK6Lh5HrvjzSrzf0xm1sVHdyfzaXEzYr7F7qra+9m7imfHZR71PTJbu2aB45bwefVao9us8plGnkGIpokE2Q5N89ErmKQCJGQ8zaJDwImO6KsUsI5IjgaJj0DBamDh3GTffx/k/j1IT5CgRxqTrFsy0hSFsdTc3y9OxVkC6RIyE9FXxmPKMHFFjWpCfxZF2HsKFj7SY4BqfI0BQUEix0dfVEBHGEZbxOZKbLKRcTyLcdjKeWDtx3zPmSXhcQu7wgUxY3+xXGFCg+TWkBFSimKcWSDw7JcnwxX2xS3aAg=;n68Rd/PiBQHi62i+1LsdOA=="
 ---
 

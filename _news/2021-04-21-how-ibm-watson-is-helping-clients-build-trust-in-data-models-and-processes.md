@@ -29,21 +29,14 @@ images:
 
 related:
   - title: "IBM Launches New Watson Capabilities to Help Businesses Build Trustworthy AI"
-    excerpt: "today announced new capabilities for IBM Watson designed to help businesses build trustworthy AI. These capabilities further expand Watson tools designed to help businesses govern and explain AI ..."
-    publishedDateTime: 2021-04-21T14:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/n20727354/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20727354"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20727354"
+    excerpt: "International Business Machines Corp. unveiled new capabilities for its IBM Watson Artificial intelligence technology designed to help businesses build trustworthy AI. The new capabilities include ..."
+    publishedDateTime: 2021-04-21T15:49:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/2021042110499/ibm-launches-new-watson-capabilities-to-help-businesses-build-trustworthy-ai"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 31
 
 secured: "66pNNF53YYtJr7aO3eVKsmQSlh1vbNkBCVMz7Sfot6YiUOITqox+VAPzujfHNqTGdWRUbLuKXV1qNchu/ZF4ApCIGtWndoiY0D2j8HLA0HtcjZ3g3KNg0UU/gIPbBVhUe2fY1CtqU0AhVY/avJqAYSyAFt6KUZ6x1qX4btd9YtyV8+vqdXpTN0QfgznJuKJlO50+2BrB+3VaAPB8XwGcdY5hT/DseNGCq11c8CQElNtrEi+zGUl4UlqzadsSbiijfmcF69MbpXUWm8Li2UW9a+OKr9ywscuLyoegTR2ODJOF6liWsoV0rBX5aHVX5R+vT0XlgHs7BLKxC//Bzt50CmvXiWgkjvL0qljPE/h4vdI=;P8FRQG/AviMFsHlFVSq+AQ=="
 ---

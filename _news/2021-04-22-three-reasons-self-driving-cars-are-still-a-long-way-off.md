@@ -133,6 +133,20 @@ related:
         width: 700
         height: 409
         isCached: true
+  - title: "Two die after self-driving car crash in US"
+    excerpt: "Two people Monday died after their self-driving Tesla car crashed into a tree at high speed. One of the killed"
+    publishedDateTime: 2021-04-20T11:48:00Z
+    webUrl: "https://en.ammonnews.net/article/48791"
+    type: article
+    provider:
+      name: ammonnews.net
+      domain: ammonnews.net
+    quality: 24
+    images:
+      - url: "https://en.ammonnews.net/image.php?token=89a8bc4722cb8e3a28af636bc5479d8e&c=7386378&size="
+        width: 768
+        height: 432
+        isCached: true
   - title: "Who's Liable When Self-Driving Cars Crash?"
     excerpt: "This weekend saw an accident that killed two occupants in a Tesla Model S reportedly driving in Autopilot mode, reenergizing legal issues once relegated to science fiction: When a self-driving car crashes,"
     publishedDateTime: 2021-04-21T21:35:00Z

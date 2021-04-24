@@ -30,77 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Best-selling biscuit brand leverages IBM hybrid cloud and AI to boost business"
-    excerpt: "HR and procurement AI: IBM will use IBM Watson Studio to design a performance management framework, monitoring business processes and advocate for an appropriate product mix, faster planning and scheduling, and optimization of supply chain costs Services ..."
-    publishedDateTime: 2021-04-23T14:11:00Z
-    webUrl: "https://www.techrepublic.com/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/best-selling-biscuit-brand-leverages-ibm-hybrid-cloud-and-ai-to-boost-business/"
+  - title: "Now for AI’s Latest Trick: Writing Computer Code"
+    excerpt: "Programs such as GPT-3 can compose convincing text. Some people are using the tool to automate software development and hunt for bugs."
+    publishedDateTime: 2021-04-23T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-latest-trick-writing-computer-code/"
+    ampWebUrl: "https://www.wired.com/story/ai-latest-trick-writing-computer-code/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-latest-trick-writing-computer-code/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 85
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/04/23/cf57977a-339f-47ca-a9c3-232b140459b5/resize/1200x/6307c769b08bc1bb15ba9b3346faf9ff/parle.jpg"
-        width: 1200
-        height: 963
+      - url: "https://media.wired.com/photos/607ddafbccb11d7f69cb8148/master/pass/biz-ai-text.jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "Parle Products to leverage on IBM hybrid cloud and AI to drive growth"
-    excerpt: "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees"
-    publishedDateTime: 2021-04-22T10:41:00Z
-    webUrl: "https://www.business-standard.com/article/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/parle-products-to-leverage-on-ibm-hybrid-cloud-and-ai-to-drive-growth-121042200813_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/29/full/1593449356-4948.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "IBM Korea boosts hiring as HQ shifts biz to cloud, AI"
-    excerpt: "IBM Korea said Wednesday that it will hire up to 100 new people to work in the new business areas of cloud computing, big data and artificial intelligence (AI) as it seeks to transition into a cloud platform and cognitive solutions company."
-    publishedDateTime: 2021-04-23T00:18:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/04/133_307583.html?fl"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=307583"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=307583"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202104/4eace6259281450fa2d198d3a6a7dc00.jpg"
-        width: 400
-        height: 514
-        isCached: true
-  - title: "IBM New Zealand looks to the channel to seize hybrid cloud opportunities"
-    excerpt: "IBM New Zealand is claiming momentum in its channel-led push to win a chunk of the opportunities presented by hybrid cloud."
-    publishedDateTime: 2021-04-21T01:46:00Z
-    webUrl: "https://www.reseller.co.nz/article/687755/ibm-new-zealand-looks-channel-seize-hybrid-cloud-opportunities/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 23
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/david_hook-203.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Biscuit Brand Parle teams with IBM to drive growth through Hybrid Cloud"
-    excerpt: "Read Article IBM is working with Parle Products Pvt Ltd (Parle), the largest selling biscuit brand in India, to help it more quickly and effectively bring its products to market by leveraging IBM Cloud."
-    publishedDateTime: 2021-04-22T05:09:00Z
-    webUrl: "https://www.crn.in/news/biscuit-brand-parle-teams-with-ibm-to-drive-growth-through-hybrid-cloud/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 4
 
 secured: "6xzL5k+YINw/hpt5acM5kmUd4C1wv5lfvP4KDCopv5ja7WqmR1f+3d2AE91okePC5wh7Zn5yPSd/JaQBj6UdI+KrJFcVnYSn1oLFalYMHAZKsA9NeZE2I+vrHPnSNqoegDp9gMFe2YBIq4/y/x/DbSF9y3LagRmQiQ6Nl58rQUlZ9eji5hkLkFi5xVdn3o2w3bVQSsCbh9RK8Io2sDv4u5ag7S5bbwK7bn9OgNWi7obPxjrEhCO0jt6GoPs1O2T60XFNXzUf/d4vw1r5Tat06XjFeX7GErMuD8R4Vz9SUilAD21JfIryhQpvmvsUZnaZTFiE+JWRLQF6lSOV9aJFOgl8uT/h7XT++BndF0/3IoFPF6kuKSi20Yrs9nDAhgTwNkUguTBwJWxKOJuYls7EPCa10O0qc+CT4FFB9ecxO7eVml9nLdWyHYZjtWQNYzJqQYRzeDzk/aN0MnoyT3oQ8h2I7I+SEtL+EoaYnOmTn6uZuRrTWKEEeKslGUie75dYFR7/GJzrDVhFVgRFH/j73w==;XmmO3WTaa/nLF/AXecMUoQ=="
 ---

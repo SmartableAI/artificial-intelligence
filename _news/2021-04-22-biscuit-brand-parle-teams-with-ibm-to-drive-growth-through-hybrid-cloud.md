@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 963
         isCached: true
-  - title: "Companies continue to prioritize AI and cloud for innovation investment, according to the latest Transforming Business poll"
-    excerpt: "Business decision-makers polled in the most recent Transforming Business survey said that AI and cloud are the top areas for innovation investment."
-    publishedDateTime: 2021-04-20T22:07:00Z
-    webUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cloud-and-ai-continue-to-be-the-top-area-of-innovation-investment-for-companies-2021-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://i.insider.com/60751a6c3e3fe7001882a41e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Parle Products to leverage on IBM hybrid cloud and AI to drive growth"
     excerpt: "With this, Parle hopes to find new ways to get its products to the consumer as the pandemic disrupts supply chain and mandates WFH for some employees"
     publishedDateTime: 2021-04-22T10:41:00Z

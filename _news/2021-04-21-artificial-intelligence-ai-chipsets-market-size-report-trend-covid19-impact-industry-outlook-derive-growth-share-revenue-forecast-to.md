@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-report-trend-covid19-impact-industry-outlook-derive-growth-share-revenue-forecast-to-2027-2021-04-21"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -74,6 +74,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence AI In Automotive Market Industry Share, Size: 2021 Market Research with Growth, Manufacturers, Segments and Forecast - 2027"
+    excerpt: "AI in Automotive Market size exceeded USD 1 billion in 2019 and is estimated to grow at over 35 CAGR between 2021 and 2027 Artificial intelligence is increasingly being adopted in the automotive sector to reduce human error and human"
+    publishedDateTime: 2021-04-24T10:46:00Z
+    webUrl: "https://www.openpr.com/news/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
   - title: "Speech and Voice Recognition Market 2021 Insights on Industry Share, Revenue and Key Players"
     excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-04-21T09:49:00Z

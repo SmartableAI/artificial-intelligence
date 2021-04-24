@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-04-combining-superconductors-boost-ai-cap
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists combine light, superconductors to power large-scale AI"
+    excerpt: "To build the next generation of artificial intelligence systems, at least one scientist wants to combine photonic components with superconducting electronics."
+    publishedDateTime: 2021-04-20T20:20:00Z
+    webUrl: "https://www.upi.com/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    ampWebUrl: "https://www.upi.com/amp/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2021/04/20/superconductors-optoelectronic-integration-AI/4551618943220/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/4551618943220/2021/1/16189466021088/v1.5/Scientists-combine-light-superconductors-to-power-large-scale-AI.jpg"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Combining Light & Superconductors Could Boost Artificial Intelligence Capabilities"
     excerpt: "Optoelectronic integration at low temperatures using superconductors may be easier than at room temperatures using semiconductors. As artificial intelligence has attracted broad interest, researchers"
     publishedDateTime: 2021-04-21T19:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-ba
 webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Baidu Stock: 3 Reasons To Stay Away"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Along with various other large Chinese tech companies, Baidu (NASDAQ:BIDU)"
-    publishedDateTime: 2021-04-19T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-stock-3-reasons-to-stay-away-1030319510"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "u9Ex0sqzoFNDkZht1ZhLReyi8MdyDV821jCNgvmGHYzsO+8gKKIvcak2/J/HIwUbp8VVP6oR9GOvOwrQZdAAbaE/msWS9xAQ77C4lIP440CyeewNMsoK1W2O7v03knC27PDTxuyjfMESWQ5KgHmdeSqT/eAQVj5KCSF3B3nnqqJdTz4Wrw7nY7jpFRQbnfbNjsRkfSPADgS4eSsezCXXm4B7FWmW6jqGd/ZpY6Wh/uWej4+7dWxyFraUljhB+k/euy8zVzCQAdXdwXQ3R/NprMAHeP9mhkelSrquFDSmLC06tJSU/kVR6MGRw+cyxj3p/lfyCn4qmvvS42IfnFRY/rVlW9UqGbvLQcdn+fIrbRM=;VSEgJTpzgTJGFV3lxeVurA=="
 ---

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog"
-excerpt: "Google held up its Ethical AI research team as a shining example of a concerted effort to address thorny issues raised by its innovations. Created in 2017, the group assembled researchers from underrepresented communities and varied areas of expertise to examine the moral implications of futuristic technology and illuminate Silicon Valley’s blind spots."
-publishedDateTime: 2021-04-21T18:53:00Z
-originalUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
-webUrl: "https://www.bloombergquint.com/technology/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
+excerpt: "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ..."
+publishedDateTime: 2021-04-21T17:13:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
+webUrl: "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling"
 type: article
-quality: 43
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI in Autos
-  - AI Ethics
+  - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -58,6 +60,6 @@ related:
         height: 826
         isCached: true
 
-secured: "1Cfuz140vb0YxshgJgEw7El7rtiK8txv2rS0mzJv7azx8PZX+z2Ftqx5x20cIywJ7dQlBkUJZVv7H6QLDbQN5PoYrJFV3IH9nAkqRd848bulKNBVjXt0wJA+GmPnHbcoTArepAvbMWcoLI0usbSwEDbrtrqyF8aOoBa8uL7iC1/lB39QeOEEXZDrbkhDLV2nzg1Vq5kie5A2YegBW6lzjpVL1P6qfWqdFzM854iqcPsde9df7rftyLxpDrckBSo8sgmMp65jMM2narnd2EPrSzTGZ+fIyqIo2KjnkcDw3XyNd8QJCTwVJu/F2z3oyjK5pc+JMlkbjq2fhD3UKV9501lLFBcrm/IfHyij5dPcCOFeHx410oCdD60GbiiDCzovciswMOOq9hRyfuB9WnFlwJx4UJkJr23JJSDJ2wn8hoS5aKsNgf9WqQ9qDlWPJ0yho2oWwUAYLvBwMvs1CQpKbrRADWpKLXlNKbFzS74qTMIPu0ENBUWXiHbcKz2MpixMVqPnIRSaZh5pqgUGFb9DnA==;UX2T6BMDEiGlIfrW7UfBLA=="
+secured: "ukZLis+S8KfG3OV21qIwVNa7BfsUJSCiGIbKihIPr/RdXNSRPrn5wOdp4kbo/z+3GiTByw9vnZdJh4958a+OqtOL2Cz3bGL9/LZqdNBrLxTLAM1bNOT3p6dGjtkDOUrVN8uXivfoIqPaie+ARHeaHChUSbj/pxnEpuxT2Q/kkwDZ4XZS06v1MrvMJDN8n93iXhLeivaq0O8amZIw7G+Tt6JGFPzVYqWK59/pnKmK4cmTd1zqqzQzLVcSbePv/OiQyp1QZGDcOY5/a/6XH3viQAD6EJsoZ9cdHxSEKy3hWzSajPM5r9hQinykkzD+0Uf7ecXRjeyB30e0+MKF76NMDYYF9I3WJyTkKEcaXTwnhjk=;9TDMNEO3/5nbGo2ywF9IaA=="
 ---
 

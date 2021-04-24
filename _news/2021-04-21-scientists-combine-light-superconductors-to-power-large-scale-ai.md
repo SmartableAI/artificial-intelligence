@@ -27,22 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "China’s Exascale Prototype Supercomputer Tests AI Workloads"
-    excerpt: "We are starting to see more exascale and large supercomputing sites benchmark and project on deep learning capabilities of systems designed for HPC"
-    publishedDateTime: 2021-04-19T17:47:00Z
-    webUrl: "https://www.nextplatform.com/2021/04/19/chinas-exascale-prototype-supercomputer-tests-ai-workloads/"
-    ampWebUrl: "https://www.nextplatform.com/2021/04/19/chinas-exascale-prototype-supercomputer-tests-ai-workloads/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/04/19/chinas-exascale-prototype-supercomputer-tests-ai-workloads/amp/"
+  - title: "Combining light, superconductors could boost AI capabilities"
+    excerpt: "As artificial intelligence has attracted broad interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct artificial systems with general intelligence comparable to humans' intelligence."
+    publishedDateTime: 2021-04-20T15:00:00Z
+    webUrl: "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html"
+    ampWebUrl: "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: Phys.org
+      domain: phys.org
     quality: 59
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/ab_quantum.jpg"
-        width: 1300
-        height: 500
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/combininglig.jpg"
+        width: 2880
+        height: 1620
         isCached: true
+  - title: "Combining Light & Superconductors Could Boost Artificial Intelligence Capabilities"
+    excerpt: "Optoelectronic integration at low temperatures using superconductors may be easier than at room temperatures using semiconductors. As artificial intelligence has attracted broad interest, researchers"
+    publishedDateTime: 2021-04-21T19:26:00Z
+    webUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/"
+    ampWebUrl: "https://scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/combining-light-superconductors-could-boost-artificial-intelligence-capabilities/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/AI-Spatial-Hierarchy-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
+  - title: "Combining light, superconductors could boost AI capabilities"
+    excerpt: "As artificial intelligence has attracted interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct systems with general intelligence comparable to humans' intelligence."
+    publishedDateTime: 2021-04-20T20:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/04/210420131057.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "fCNrKZxpMWfDUVMYuMZiI+DNTM2/HlQFjK2wmR3T3BZsSK7xuksRmNIi4fpR7T7zQhPdLYCyASFZmbxooHwXk2GE3eI4A8pozTn/k0AATV1Fte3FEA92oHKwerdgkFQCOb9IkZKnTysTBahgBNIAnwwabr+LyUlOkxvJ2MM+Ch9uubOgNxO1EARoDEs8ciJbz+JQs2eEeH+WRNXtpeiywSEnjFhUdS04jlraPba/HjWI5RKbNWujtFn5+5HSuNDw+kdfUPd+ry1gDDtlsda1LXqUfgzhoYnKnyUH8UXVIJkFfr3BW7xFWtZ/eIrVwn/CY6qSVvQp0NHOM8XWBDeoXbny1t3qYht4fVPA5oL58RqEj+1VBudUJNll1BAJkX05wb2ekEews71W9p1hy9uWcTAbyPdwVboOhfqkFj8xmYJ+hvloCpJ+QbYQ/91KEw5/a5Yh821l3zLt3+XUOYhyjDPeX4VfgNfGvsvBwP+YPzpblbFxl24T5kBOgdumFzSVscePHExqo6SdfmMfTIX5hg==;Ue+kBQc36CedbATENhuJLQ=="
 ---

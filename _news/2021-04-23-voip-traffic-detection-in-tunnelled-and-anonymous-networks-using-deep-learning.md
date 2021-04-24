@@ -33,6 +33,20 @@ related:
         width: 800
         height: 574
         isCached: true
+  - title: "3D motion tracking system could streamline vision for autonomous tech"
+    excerpt: "50928751578_a3702cc26c_q.jpgThe imaging system exploits the advantages of transparent, nanoscale, highly sensitive graphene photodetectors developed by Zhaohui Zhong, U-M associate professor of electrical and computer engineering, and his group."
+    publishedDateTime: 2021-04-23T09:02:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uom-3mt042221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Continuous 3D Hand Pose Tracking Using Machine Learning & Monado OpenXR"
     excerpt: "The system estimates 2D and 3D joint locations without any depth information. Collabora is currently working on integrating it into the Monado XR codebase, so it can be used out-of-the-box with different devices."
     publishedDateTime: 2021-04-22T14:00:00Z
@@ -42,6 +56,20 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 19
+  - title: "Graphene-based 3D motion tracking system could streamline vision for autonomous tech"
+    excerpt: "(Image: University of Michigan) The imaging system exploits the advantages of transparent, nanoscale, highly sensitive graphene photodetectors developed by Zhaohui Zhong, U-M associate professor of electrical and computer engineering, and his group."
+    publishedDateTime: 2021-04-23T10:06:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=57841.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 17
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news2/id57841_1.png"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
     excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
     publishedDateTime: 2021-04-23T14:23:00Z

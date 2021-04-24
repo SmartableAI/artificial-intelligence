@@ -2,6 +2,291 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-04-07-self-driving-sensor-startup-innovizs-shares-rise-on-public-debut.md",
+      "title": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut",
+      "excerpt": "Self-Driving Sensor Startup Innoviz's Shares Rise on Public Debut (Reuters) - Shares of self-driving car sensor startup Innoviz rose on Tuesday, on its first day trading as public company. The Tel Aviv, Israel-based firm is developing a lidar sensor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-04-06/self-driving-sensor-startup-innovizs-shares-rise-on-public-debut?context=amp",
+      "publishedDateTime": "2021-04-06T13:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-9-best-credit-monitoring-services-how-to-monitor-your-credit-in-2021.md",
+      "title": "9 Best Credit Monitoring Services: How to Monitor Your Credit in 2021",
+      "excerpt": "Choose one of the best credit monitoring services, and it’ll help you keep tabs on all credit activity and notify you should anything fishy happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hult.edu/blog/your-social-credit-score/",
+      "originalUrl": "https://observer.com/2021/04/9-best-credit-monitoring-services-how-to-monitor-your-credit-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hult.edu/blog/media/uploads/2018/05/Yoru-social-credit-score.jpg",
+          "width": 778,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-sidewalk-robots-are-on-the-way-but-probably-later.md",
+      "title": "Sidewalk Robots Are On The Way (But Probably Later)",
+      "excerpt": "Albertsons, for example, is working on a sidewalk-ready robot that will bring deliveries to Safeway customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "originalUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606cb3011b65095ebafc88f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/retailwire/2021/04/06/sidewalk-robots-are-on-the-way-but-probably-later/amp/",
+      "publishedDateTime": "2021-04-06T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-another-prominent-google-scientist-is-leaving-the-company-amid-fallout-from-fired-ai-researcher.md",
+      "title": "Another prominent Google scientist is leaving the company amid fallout from fired AI researcher",
+      "excerpt": "\"I also stand by the rest of my team who, like me, was stunned and is trying to make sense of all this. In particular the Ethical AI team, but also the broader Brain Research team.\" Gebru was the technical co-lead of the Ethical AI Team at Google and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html",
+      "originalUrl": "https://www.cnbc.com/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106613376-1594645689091googlelogowhite.jpg?v=1609771555",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/04/06/googles-samy-bengio-is-leaving-amid-fallout-from-ai-researcher-firing.html",
+      "publishedDateTime": "2021-04-06T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-07-gnarlywood-chooses-invia-robotics-for-fulfilment-operations.md",
+      "title": "Gnarlywood chooses inVia Robotics for fulfilment operations",
+      "excerpt": "will deploy inVia’s Logic artificial intelligence-powered warehouse execution system (WES) at its Carlsbad, California, warehouse. Gnarlywood will eventually add inVia’s Picker autonomous mobile robots as part of efforts to modernize and automate its f ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "originalUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/04/Gnarlywood_Group_1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gnarlywood-chooses-invia-robotics-for-fulfilment-operations/amp",
+      "publishedDateTime": "2021-04-06T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-use-computer-vision-to-detect-crop-disease-through-image-analysis-with-amazon-rekognition-custom-labels.md",
+      "title": "Use computer vision to detect crop disease through image analysis with Amazon Rekognition Custom Labels",
+      "excerpt": "Currently, many diseases affect farming and lead to significant economic losses due to reduction of yield and loss of quality produce. In many cases, the health condition of a crop or a plant is often assessed by the condition of its leaves. For farmers, it is crucial to identify these symptoms early.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/plant-leaf-disease-detection-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/26/5-plant-leaf-disease-data.jpg",
+          "width": 800,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T11:23:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-this-browser-game-shows-the-limits-of-ai-emotion-recognition-software.md",
       "title": "This browser game shows the limits of AI emotion recognition software",
       "excerpt": "Spotted by The Verge, the Emojify Project was created by a multidisciplinary team led by University of Cambridge professor Alexa Hagerty. You’ll find it over on emojify.info. It will ask you to look at your computer’s web camera and try to produce six ...",
@@ -863,298 +1148,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-softbank-snaps-up-28-billion-stake-in-norway-robotics-firm.md",
-      "title": "SoftBank snaps up $2.8 billion stake in Norway robotics firm",
-      "excerpt": "SoftBank 9984, -1.12% and its Vision Fund investment portfolio have made a series of bets on robotics and artificial intelligence in recent years, which it believes will be key to driving innovation and business opportunities in sectors such as automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "originalUrl": "https://www.marketwatch.com/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-320890/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/softbank-snaps-up-2-8-billion-stake-in-norway-robotics-firm-11617701269",
-      "publishedDateTime": "2021-04-06T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-heres-what-you-need-to-know-about-the-european-regulations-on-ai.md",
-      "title": "Here’s What You Need To Know About The European Regulations On AI",
-      "excerpt": "On the 21st April, the European Commission is expected to publish the draft Regulations on AI. Here's what to look out for:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606c51180bc8dbd427d2e4c2%2F0x0.jpg",
-          "width": 1200,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesradclyffe/2021/04/06/heres-what-you-need-to-know-about-the-european-regulations-on-ai/amp/",
-      "publishedDateTime": "2021-04-06T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla.md",
-      "title": "3D printed all-optical diffractive deep neural network created at UCLA",
-      "excerpt": "It uses the light scattered by an object to identify the object. UCLA researchers based the system on a deep learning-based design using passive diffractive layers working together. Researchers created a computer-simulated design first and then used a 3D ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
-      "originalUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/ucla-od.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/3d-printed-all-optical-diffractive-deep-neural-network-created-at-ucla-06667284/amp/",
-      "publishedDateTime": "2021-04-06T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-acuant-joins-forces-with-microsoft-to-build-a-more-trustworthy-identity-ecosystem-with.md",
-      "title": "Acuant Joins Forces with Microsoft to Build a More Trustworthy Identity Ecosystem with ...",
-      "excerpt": "Azure AD verifiable credentials are now available in public ... Our Trusted Identity Platform is powered by AI and human assisted machine learning to deliver unparalleled results and operational efficiency. Omnichannel deployment delivers seamless ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-technology-issues-data-privacy-computer-and-data-security-computing-and-information-technology-a12144e3781094fdd33f0b8e47c4281b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-pivotree-launches-new-image-recognition-solution-as-part-of-its-machine-learning-platform.md",
-      "title": "Pivotree Launches New Image Recognition Solution as Part of Its Machine Learning Platform",
-      "excerpt": "Pivotree customers can now leverage machine learning image recognition for rapid autoclassification and enrichment of product dataTORONTO, April",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pivotree-launches-new-image-recognition-solution-as-part-of-its-machine-learning-platform-1030276474",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pivotree-launches-new-image-recognition-solution-as-part-of-its-machine-learning-platform-1030276474",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-guard-digital-identity-with-artificial-intelligence.md",
-      "title": "Guard Digital Identity With Artificial Intelligence",
-      "excerpt": "Co-Founder and CTO of LoginRadius, a cloud-based consumer identity platform. With more companies moving their business models online and adopting new solutions, it's been opening up more opportunities for cybercrime and identity theft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b0e3aed7e0077593f14d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/06/guard-digital-identity-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-04-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

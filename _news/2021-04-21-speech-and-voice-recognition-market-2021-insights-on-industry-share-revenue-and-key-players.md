@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence AI In Automotive Market Industry Share, Size: 2021 Market Research with Growth, Manufacturers, Segments and Forecast - 2027"
+    excerpt: "AI in Automotive Market size exceeded USD 1 billion in 2019 and is estimated to grow at over 35 CAGR between 2021 and 2027 Artificial intelligence is increasingly being adopted in the automotive sector to reduce human error and human"
+    publishedDateTime: 2021-04-24T10:46:00Z
+    webUrl: "https://www.openpr.com/news/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 14
 
 secured: "ZA19FDpT8Gts+7zWo4SkbHyFBShdiaPLkRKN/bEYUErcKtfzlLfkDkfGSPCRNDhkmpwKbMWysM1AO4SV3t5mErHbWqqMlQTIEUM4f1tjF5zdcJpbVZjjbEP7fmtxvnYhPzpHn/WPjZfIlpD58FdO4Z5OHqOojn4Vq9RIOv9zrHN305LfCToh00vHhNrIb9vooZ9FOmW7bXAQ+ctTrKpPS1TDn6b5LDjBw4QMT0/hcc1wlwz4nV1kTxOiDKqflINBGkGHByvm1s7QVpTiU9wRhGMNlM8LfGonsltur8fxjiUzzM0MnVVlCFjieV6SZO4smwkBY9DIjBzjqyq+YB8FAO1trXtu30iCNBbDEaabTXE=;xV+0RqGj2s6o7AxwRBZfGg=="
 ---

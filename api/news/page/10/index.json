@@ -2,6 +2,273 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-15-here-come-the-robots-your-job-could-be-at-risk.md",
+      "title": "Here come the robots; your job could be at risk",
+      "excerpt": "Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/perspective/30312354",
+      "originalUrl": "https://www.nationthailand.com/perspective/30312354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/news/2017/04/15/30312354/800_8ed6e69be5d113971909cceca2cd1ab6.jpeg",
+          "width": 800,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-social-isolation-may-reduce-face-recognition-ability-study.md",
+      "title": "Social isolation may reduce face recognition ability: Study",
+      "excerpt": "A solitary lifestyle can have profound effects on the brains' abilities to recognise faces, finds a study on wasps with implications on humans facing social isolation due to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "originalUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/2021_4$largeimg_1594299345.jpg",
+          "width": 660,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/social-isolation-may-reduce-face-recognition-ability-study-239419",
+      "publishedDateTime": "2021-04-14T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-nexmind-ai-launches-machine-learning-seo-platform-in-chinese-version.md",
+      "title": "NexMind AI launches Machine Learning SEO Platform in Chinese version",
+      "excerpt": "NexMind AI recently announced the newest version of one of its AI-Technology, the world’s-first Artificial Intelligence (AI) Machine-Learning SEO Platform as a Service (PaaS) named NexODN in Chinese Version.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bernama.com/en/business/news.php?id=1952401",
+      "originalUrl": "https://www.bernama.com/en/business/news.php?id=1952401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bernama.com/bm/img/bernama.png",
+          "width": 2483,
+          "height": 2942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-14T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bernama.com",
+        "domain": "bernama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-today-in-b2b-the-pains-of-emarketplace-ar-hatch-launches-smb-neobanking-services.md",
+      "title": "Today In B2B: The Pains of eMarketplace AR; Hatch Launches SMB Neobanking Services",
+      "excerpt": "Today in B2B payments, UpstartWorks talks eMarketplace AR, Hatch launches neobanking services for SMBs and Kofax upgrades its AP offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/accounting-automation-marketplace-sellers-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/today-in-b2b-the-pains-of-emarketplace-ar/amp/",
+      "publishedDateTime": "2021-04-14T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-california-dreaming-artificial-intelligence-and-robots-are-helping-farmers-prepare-for-climate-change-crisis.md",
+      "title": "California Dreaming: Artificial intelligence and robots are helping farmers prepare for climate change crisis",
+      "excerpt": "Rising temperatures caused by climate change are forcing farmers to look for ways to grow crops. Some are using artificial intelligence and robots to analyze crops while others are taking their farms indoors.",
+      "sourceUrl": null,
+      "webUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "originalUrl": "https://abc30.com/technology/robots-help-farmers-prepare-for-climate-change/10503046/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/10515602_041421-kgo-ca-dreaming-future-food-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/climate-change-california-indoor-farming-vertical-technology-in-agriculture/10503046/",
+      "publishedDateTime": "2021-04-14T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC30 Action News",
+        "domain": "abc30.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-15-googles-logica-language-addresses-sqls-flaws.md",
+      "title": "Google’s Logica language addresses SQL’s flaws",
+      "excerpt": "Open source logic programming language compiles to SQL and runs on Google BigQuery, with experimental support for PostgreSQL and SQLite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html",
+      "originalUrl": "https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/conceptual_image_of_user_with_extruded_virtual_display_coding_programming_individual_working_late_remote_desktop_by_dean_mitchell_gettyimages-1180225153_2400x1600-100858662-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3615195/googles-logica-language-addresses-sqls-flaws.amp.html",
+      "publishedDateTime": "2021-04-14T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-tesla-next-gen-full-self-driving-is-delayed-to-may-june-subscription-coming-next-month.md",
       "title": "Tesla next-gen ‘Full Self-Driving’ is delayed to May-June, subscription coming next month",
       "excerpt": "Tesla is currently testing the “feature complete” version of its Full Self-Driving (FSD) package in beta with a few thousand customers and employees through its early access program.",
@@ -904,299 +1171,6 @@
       "provider": {
         "name": "Government Technology",
         "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks.md",
-      "title": "This robot-run fund with a history of predicting Tesla price moves has just made these stock picks",
-      "excerpt": "An exchange-traded fund driven by artificial intelligence has correctly predicted Tesla price movements, and recently shared its most recent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "originalUrl": "https://www.marketwatch.com/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-324370/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-robot-run-fund-with-a-history-of-predicting-tesla-price-moves-has-just-made-these-stock-picks-11618396980",
-      "publishedDateTime": "2021-04-14T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-increasing-demand-for-artificial-intelligence-in-healthcare-market-to-fuel-revenue-growth.md",
-      "title": "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth",
-      "excerpt": "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
-      "originalUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/4/U414902043_g.jpg",
-          "width": 628,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
-      "publishedDateTime": "2021-04-14T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-real-time-3d-holograms-generated-by-artificial-intelligence.md",
-      "title": "Real-time 3D holograms generated by artificial intelligence",
-      "excerpt": "The truth is that this innovative technology has transcended screens and science fiction and is currently being developed successfully thanks to advances in Artificial Intelligence. Until today, virtual reality headsets have not brought down television ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/369374",
-      "originalUrl": "https://www.entrepreneur.com/article/369374",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618350461-holograma11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369374",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369374",
-      "publishedDateTime": "2021-04-14T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-teslas-chinese-rival-xpeng-ups-the-self-driving-game-with-worlds-first-mass-produced-lidar-in-p5-sedan-defying-elon-musk.md",
-      "title": "Tesla’s Chinese rival Xpeng ups the self-driving game with world’s first mass-produced LiDAR in P5 sedan, defying Elon Musk",
-      "excerpt": "Xpeng, Tesla’s Chinese rival, fuels the competition of autonomous driving to a new level with its newly-launched P5 sedan becoming the world’s first mass-produced vehicle with LiDAR technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/14/a2d37930-99bd-43eb-b2cd-7d3f0e566db6_196207ae.jpg?itok=vfeqdmKJ&v=1618402372",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3129530/teslas-chinese-rival-xpeng-ups-self-driving-game-worlds-first",
-      "publishedDateTime": "2021-04-14T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft.md",
-      "title": "EU plan for risk-based AI rules to set fines as high as 4% of global turnover, per leaked draft",
-      "excerpt": "European Union lawmakers who are drawing up rules for applying artificial intelligence are considering fines of up to 4% of global annual turnover (or €20M, if greater) for a set of prohibited use-cases,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "originalUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/14/eu-plan-for-risk-based-ai-rules-to-set-fines-as-high-as-4-of-global-turnover-per-leaked-draft/amp/",
-      "publishedDateTime": "2021-04-14T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-wise-practitioner-predictive-analytics-interview-series-giovanni-turra-at-copan-group-spa.md",
-      "title": "Wise Practitioner – Predictive Analytics Interview Series: Giovanni Turra at Copan Group S.p.a.",
-      "excerpt": "In anticipation of his upcoming presentation at Deep Learning World Livestream, May 24-28, 2021, we asked Giovanni Turra, Computer Vision, Machine Learning and Deep Learning Engineer at Copan Group S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/wise-practitioner-predictive-analytics-interview-series-giovanni-turra-at-copan-group-s-p-a/12056/",
-      "originalUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/wise-practitioner-predictive-analytics-interview-series-giovanni-turra-at-copan-group-s-p-a/12056/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif",
-          "width": 270,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Predictive Analytics World",
-        "domain": "predictiveanalyticsworld.com",
         "images": null,
         "publishers": null,
         "authors": null

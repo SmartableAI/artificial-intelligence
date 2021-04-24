@@ -1,38 +1,28 @@
 ---
 category: news
 title: "Baidu Stock: 3 Reasons To Stay Away"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Along with various other large Chinese tech companies, Baidu (NASDAQ:BIDU)"
-publishedDateTime: 2021-04-19T18:49:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-stock-3-reasons-to-stay-away-1030319510"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-stock-3-reasons-to-stay-away-1030319510"
+excerpt: "As for the autonomous technology, Baidu has certainly made progress. The Apollo Self Driving (ASD) system was able to snag partnerships with ten local and multinational automakers. The ..."
+publishedDateTime: 2021-04-19T18:50:00Z
+originalUrl: "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/"
+webUrl: "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/"
+ampWebUrl: "https://investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/baidu-stock-3-reasons-to-stay-away/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "It’s Time to Buy Baidu Stock as the Archegos Liquidation Lessens"
-    excerpt: "Volatility begets opportunity. The news over the weekend that the Baidu looks to supply 1 million self driving systems in the next 3 to 5 years through it’s Apollo autonomous driving unit should ..."
-    publishedDateTime: 2021-04-19T21:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/its-time-to-buy-baidu-stock-as-the-archegos-liquidation-lessens-1030319197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2020/09/bidu-stock-1.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
-secured: "395uxeTuJq6jSuBrox/CHpn8mGy8k1iG6riCmUkgvsfflH+LDbTOz2sTCto9Aybr/wyUM/gPwMSB9soRBmBZ/Am5FMcSklhAUQolK1BiTbuC4sL8HIAp5S2SyR85+LUxvqRCUrXGpSX11YB3fHmoYFY+Tlv6qnCgLE0ITif7qXvNY9xu/nWYMB989cpTSSVTTi2M193t8/MTrzLVf+iUTKBN9uk3QVpUidsYz+w4y0oZv170YklFR1USEVFcA32k5JOYpzXR3TDkqkO/Q6d6ZiMtyd5bQZxgFSfQy1YgAtdg62AP5C5SejIH11qgjm78BEuomf6s0UbH6YC1IJC5H/Q1KE4nu6waE0rPi0Q2O2E=;8OhhQ7LqPs5TJ2m6BlFbOA=="
+secured: "rpN767+qoNxKrmAUvOA3MTtCCA9Pb+lS3AmkL5/Rt3YGyWRPdrUKIpdtsIt7DL8bHFd6htBV46cNCqOb52iGfoSksJCeGUhodoHNFWB2+IqTLJp1UgA5nFgJEv0P/QcDixTBVkH9u0QPW1O4t3p/fJX1KynFXTIJh+zUaUCd+RvXJdfY+0Rh11XGfCswxYdBsqLd38oez/9USP0AaUvcZIAOz2XKaqC1nw/ohQc+PEuloKDwRALGuY1mtZcpZTtbDw7/LVujeeBrF2oSygjao8kMLtfXVGLYZVarPn3BvJLhfbB8uyZJPil5hEL/I6yRlhp1ueSjijTlIWkZsTqPOgwMSeyJlVWIdS2lrsEr4m8=;jolre+z/LdIQQ+K4KNW1CA=="
 ---
 
