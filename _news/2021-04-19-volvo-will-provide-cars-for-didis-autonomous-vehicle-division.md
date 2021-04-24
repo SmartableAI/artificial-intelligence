@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo to Provide Vehicles for Didi’s Self-Driving Test Fleet"
+    excerpt: "The cars will be the first to integrate Didi’s new self-driving hardware platform, DiDi Gemini, to be deployed in Didi’s ride-hailing network, the Chinese company said Monday in a statement. The Swedish-made vehicles are equipped with a number of ..."
+    publishedDateTime: 2021-04-19T10:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/volvo-to-provide-vehicles-for-didi-s-self-driving-test-fleet"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFrNolQHLjvc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Didi Chuxing Self-Driving Technology To Attain Cars From Volvo"
     excerpt: "Volo is going to provide XC90 SUVs that can be imbibed with Didi's software. Last month, they announced their fundraising details."
     publishedDateTime: 2021-04-19T10:17:00Z

@@ -28,59 +28,159 @@ images:
     isCached: true
 
 related:
-  - title: "Global Machine Learning Market Outlook, Industry Analysis and Prospect 2021"
-    excerpt: "Machine learning (ML) is an emerging artificial intelligence (AI) technology which is being adopted aggressively by"
-    publishedDateTime: 2021-04-21T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-outlook-industry-analysis-and-prospect-2021-2021-04-21-191753937"
+  - title: "Artificial Intelligence Robots Market Supply, Sales, Revenue and Forecast from 2021 to 2025"
+    excerpt: "The Artificial Intelligence Robots Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2021-04-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 93
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex"
-    publishedDateTime: 2021-04-19T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
+  - title: "AI In Computer Vision Market Size, Share, Growth, Trends and Forecast 2021-2025"
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted ..."
+    publishedDateTime: 2021-04-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-growth-trends-and-forecast-2021-2025-2021-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
-    publishedDateTime: 2021-04-22T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-big-data-machine-learning-in-telecom-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-22"
+  - title: "Artificial Intelligence (AI) in Marketing Market Industry Growth, Forecast, Analysis, Regions, Types and Applications 2021-2025"
+    excerpt: "The GLOBAL Artificial Intelligence (AI ... By vertical, the market is segmented into BFSI, retail, & e-commerce, government, IT & telecommunication, healthcare, commercial organization, and others. Regional analysis The global market for AI in marketing ..."
+    publishedDateTime: 2021-04-23T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-growth-forecast-analysis-regions-types-and-applications-2021-2025-2021-04-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Machine Learning Market size is expected to grow at an annual average of 42 during 2021 2027 Machine learning is defined as the process of applying artificial intelligence AI to provide system capabilities that can automatically learn and improve"
-    publishedDateTime: 2021-04-22T13:52:00Z
-    webUrl: "https://www.openpr.com/news/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274043/machine-learning-market-share-2021-global-trends-key-players"
+  - title: "Computer Vision Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 – 2025"
+    excerpt: "Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size"
+    publishedDateTime: 2021-04-22T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-overview-swot-analysis-applications-trends-and-forecast-2021-2025-2021-04-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2021 Global Leading Companies Analysis, Revenue, Trends and Forecasts 2027"
+    excerpt: "New York, US, The business report released by Zion Market Research on Global Deep Learning Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast,"
+    publishedDateTime: 2021-04-21T12:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2021-global-leading-companies-analysis-revenue-trends-and-forecasts-2027-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Revenue Data 2021, Latest Trends, COVID-19 Impact and Forecast to 2027"
+    excerpt: "The global “Artificial Intelligence Industry” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-04-19T13:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-revenue-data-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market Analysis | Recent Market Developments | Industry Forecast, 2027"
+    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
+    publishedDateTime: 2021-04-21T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-analysis-recent-market-developments-industry-forecast-2027-2021-04-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2025"
+    excerpt: "The Artificial Intelligence in Aviation Market is estimated ... in different verticals such as Automotive and Transportation, Chemicals and Materials, Healthcare, Food & Beverage and Consumer Packaged Goods, Semiconductors, Electronics & ICT, Packaging ..."
+    publishedDateTime: 2021-04-23T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-2025-2021-04-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2021, by Services, Company Profiling, Business Revenue, and Growth Opportunities to 2027"
+    excerpt: "ResearchMoz published the latest research on Machine Learning Market Research Report 2020 study major consideration after performing various different reasonable and immense analyses on the Contact Center Systems industry. Top to bottom examination of ..."
+    publishedDateTime: 2021-04-23T12:57:00Z
+    webUrl: "https://www.openpr.com/news/2274644/machine-learning-market-2021-by-services-company-profiling"
+    ampWebUrl: "https://www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274644/machine-learning-market-2021-by-services-company-profiling"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 26
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/U/4/U423349473_g.jpg"
+        width: 800
+        height: 467
+        isCached: true
+  - title: "Computer Vision Market Share, Application Analysis, Regional Outlook, Growth, Trends, Key Players, Competitive Strategies and Forecast 2021 to 2023"
+    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
+    publishedDateTime: 2021-04-19T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-share-application-analysis-regional-outlook-growth-trends-key-players-competitive-strategies-and-forecast-2021-to-2023-2021-04-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Growing Demand, Rising Trends, And Regional Revenue By 2021-2025: Google, IBM"
+    excerpt: "New year, new updates! Our reports have been revised for market size, forecasts, and strategies to take on 2021 after the COVID-19 impact: https://www.thebusinessresearchcompany.com/global-market-reports The global artificial intelligence market is ..."
+    publishedDateTime: 2021-04-23T12:02:00Z
+    webUrl: "https://www.openpr.com/news/2274559/artificial-intelligence-market-growing-demand-rising-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2274559/artificial-intelligence-market-growing-demand-rising-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274559/artificial-intelligence-market-growing-demand-rising-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
 
 secured: "pet0PjoJbrvj6jleKWKXskH4iUFvN3OPQP+2OS0V/x0YXEsTUYnLdEI2ZGa2AWygWBSNeMc3ZXebv9VUuaU3ZabsMMmsdZPxhfK7shXv2yh07sByKmD+XhQHpZ0pepb5sQxSDnveCp7CypOMCZijFDrU6k7KAZbX+btlsZ4BTgMlgmr0nUjuVEpfQintUWrS2BCrrWOSGzwR8j/hXQyiXTYn4uQhKao8Vh+WAc/k1OLT0FtZsc9CQgIMM17kUPXGn7pQt3B1gwocBG5+9Licggt5U3q1PCfpRaEqDOTxDqKc8fUDL4U8vOn5gAEYRIDuLNo2FNNmPzjnhdcKnPvHczywTPQ+lE9HEKNTVvozEgOj6+VezDc3oOFm8+trJVpB9UQCc/grIylYWeY6Q/fNw+J/9QUMVZ9qQBliDHilIqUs6gmMIILfGIddf7cbH8PAJKfBsvL6hsQcz1XHhrhcqTjQa0mM1LgfBXnvWP1nESC0vR/OU1nlaE7CtiCC5AKbGhKZxFsU5+sZYnpX03bS4Q==;LJadCmfKQhkfkJt5aeMwsg=="
 ---

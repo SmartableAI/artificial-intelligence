@@ -1,29 +1,28 @@
 ---
 category: news
-title: "EU proposes rules for high-risk artificial intelligence uses"
-excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-publishedDateTime: 2021-04-21T11:41:00Z
-originalUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
+title: "E.U. proposes rules for high-risk artificial intelligence uses"
+excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+publishedDateTime: 2021-04-21T11:54:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
 type: article
-quality: 59
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WBAL
-  domain: wbal.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-    width: 512
-    height: 331
+  - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+    width: 2500
+    height: 1602
     isCached: true
 
 related:
@@ -151,22 +150,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "EU lawmakers propose strict curbs on use of facial recognition"
     excerpt: "EU regulators have proposed strict curbs on the use of facial recognition in public spaces, limiting the controversial technology to a small number of public-interest scenarios, a"
     publishedDateTime: 2021-04-20T16:59:00Z
@@ -259,20 +242,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why EU needs to be wary that AI will increase racial profiling"
-    excerpt: "This week the EU announces new regulations on artificial intelligence. It needs to set clear limits on the most harmful uses of AI, including predictive policing, biometric mass surveillance, and applications that exacerbate historic patterns of racist"
-    publishedDateTime: 2021-04-19T06:51:00Z
-    webUrl: "https://euobserver.com/opinion/151556"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
-        width: 480
-        height: 322
-        isCached: true
   - title: "EU unveils proposal on artificial intelligence"
     excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."
     publishedDateTime: 2021-04-21T20:38:00Z
@@ -331,6 +300,6 @@ related:
       domain: ieee.org
     quality: 4
 
-secured: "nUxy1F7DRD8XH6b39dt5/n3G65iCGt5PEeryHocvdn9v/HrkV0maU71fNSsd+zXPehAiTE64mfhYYLdXPUu/VCMYVyg6pN6/H3KjvfMCxHabBxXywg272snqxUifva76Xk4KE031CZ8VAYuWIdcDcHppNPFNa/Hn7WnP+EOA2MLC/cIaGhwsumSpOWX591FUcymdsqxX9LEdDAfdx8h9fW+8wVDuK+Kt4KGMxFKTAH/4+OKVyfcibxbATG5rKdzCNE4j4wpbi1AoA7JU3XxE/vSsPcnwV6hlWTPfNwBWiTRVtVLElkFzlutq/7dY7X41oaILDJFbaQl0TimkpbaFUbKFUnikJaFIRCfEbVAzBsY=;9ZhynLDkpwtxSF20fXOx3w=="
+secured: "rCYS+XGA8pBiz4q6COv/XpbIfgbjDFYeQrKfv84UtJGHMVNZ2BBxy5aR+SjHZU3oR3n2l0DqwUb14ntqd/BXYZxkbtVv+0Rd92Ihb+v0u+kpe9dXjXcOvRPyIPBKb8V5Ci5LrMs7UPFXgrGNP48mwKpCYyCg8SzHcXKLzczynI8IbJel02JR4/iEUoBjIUyYoIBdLwlFSshWGwnudUYjBAqn+/DGmrZbj9FlLtlVdlbDXgn+wF9lIOdFQQAOdJyg4XV1t2cClEFCHM9ib+B58EzYB3i3OZdJczhwKrx88ulnEDeLgw5Qzqdt39zc5+Ys/AEA2tAYwjknMMQJCoKW/pMm6WwdN2hjzL28qruoC8c=;ygHueC9gVIij+76uZKRhTw=="
 ---
 

@@ -62,20 +62,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Marketing Market Industry Growth, Forecast, Analysis, Regions, Types and Applications 2021-2025"
-    excerpt: "The GLOBAL Artificial Intelligence (AI ... By vertical, the market is segmented into BFSI, retail, & e-commerce, government, IT & telecommunication, healthcare, commercial organization, and others. Regional analysis The global market for AI in marketing ..."
-    publishedDateTime: 2021-04-23T12:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-industry-growth-forecast-analysis-regions-types-and-applications-2021-2025-2021-04-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare"
     excerpt: "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health."
     publishedDateTime: 2021-04-21T12:11:00Z

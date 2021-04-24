@@ -43,6 +43,34 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Thailand"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages including Thai Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better"
+    publishedDateTime: 2021-04-21T07:15:00Z
+    webUrl: "https://www.asiaone.com/business/cisco-webex-innovation-breaks-through-language-barriers-real-time-translation-more-0"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 8
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2021/Cisco-Logo_0.jpg?itok=MFwpQ-rT"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences in Thailand"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages including Thai   Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting"
+    publishedDateTime: 2021-04-22T08:34:00Z
+    webUrl: "https://menafn.com/1101959187/Cisco-Webex-Innovation-Breaks-Through-Language-Barriers-with-Real-Time-Translation-for-More-Inclusive-Meeting-Experiences-in-Thailand"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 8
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "yDNuXyGs2WW4r5qJNWGdA1YA8pAKJL3xMFgt1NQp2OfMR87KoXFQcVRViBekm4xWKx+6bfzyy+m3bmzAS7PEzf2SymiSUf1Xc7xgnwemH/KqqGJGiXSfe4XCGPh1wB7RFoj18Bbu3tNM6iIBonp5moI2+XKKTsGD+q/JXu1sLD6esuTFQ4ZCgtPmS3xSVQdl7nZsjGzoiZ3vp6Kifb0HWz4vmlwzwDPHo4Ly7GXcaM8jYL5fDxxRn+rQQjFGNVuCe1mTbKFzwk6KLY4RnRXYOEguXDxvPKMB4B9EgIFumg2dAeFZDAGJTZ/SYvrGswIiYsxuG565TjXwJiOvLqk3yeG3PggqUznEqwpXz4akQD4=;gceIkuyPcxvjBV3yUY7rZg=="
 ---

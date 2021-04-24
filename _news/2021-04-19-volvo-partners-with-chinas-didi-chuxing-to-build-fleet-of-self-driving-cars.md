@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Senators' proposal skirts NHTSA safety regulations for self-driving cars"
+    excerpt: "and John Thune (R-S.D.) -- are working to introduce legislation that would allow the National Highway Traffic Safety Administration to exempt up to 15,000 self-driving vehicles per vehicle manufacturer from NHTSA safety standards, according to a report ..."
+    publishedDateTime: 2021-04-23T23:26:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 73
+    images:
+      - url: "https://www.cnet.com/a/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What Waymo’s new leadership means for its self-driving cars"
     excerpt: "The change in leadership hints at the broader state of the self-driving car industry, which has failed to live up to its hype in the past few years."
     publishedDateTime: 2021-04-19T09:20:00Z

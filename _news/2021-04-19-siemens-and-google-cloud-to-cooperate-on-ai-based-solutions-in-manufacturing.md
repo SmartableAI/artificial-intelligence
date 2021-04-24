@@ -44,31 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Siemens partners with Google to offer industrial AI tools"
-    excerpt: "Siemens gives Google a major partner in the manufacturing space, one of six key verticals the cloud company is going after."
-    publishedDateTime: 2021-04-19T07:01:00Z
-    webUrl: "https://www.zdnet.com/article/siemens-partners-with-google-to-offer-industrial-ai-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/siemens-partners-with-google-to-offer-industrial-ai-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/siemens-partners-with-google-to-offer-industrial-ai-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Siemens will use Google’s AI to enable more efficient factory automation"
-    excerpt: "The idea is to pair Google’s cloud, AI and machine learning technologies with Siemens’ factory automation systems to help manufacturers digitally transform their operations, the companies said. The companies are a good fit on paper,"
-    publishedDateTime: 2021-04-19T07:01:00Z
-    webUrl: "https://siliconangle.com/2021/04/19/siemens-will-use-googles-ai-enable-efficient-factory-automation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/6964-tia-visual-outline-style-160406-1-highres-rgb.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Siemens and Google Cloud come together for AI-flavoured manufacturing cloud"
     excerpt: "Siemens and Google Cloud are working together to deliver AI-based solutions in manufacturing - in what can be seen as another 'industry cloud' offering."
     publishedDateTime: 2021-04-19T11:20:00Z

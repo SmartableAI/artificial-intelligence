@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "E.U. proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+    publishedDateTime: 2021-04-21T11:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+        width: 2500
+        height: 1602
+        isCached: true
   - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
     excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
     publishedDateTime: 2021-04-21T18:29:00Z
@@ -150,38 +166,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/07/GettyImages-607358443-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Could your Facebook photos be used for police facial recognition?"
-    excerpt: "According to Buzzfeed News, 19 Arizona Law Enforcement agencies have used Clearview AI, a program that puts public social media photos in a database."
-    publishedDateTime: 2021-04-19T06:30:00Z
-    webUrl: "https://www.12news.com/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/could-your-facebook-photos-be-used-for-police-facial-recognition/75-811a206b-d389-40a1-97b8-0841b9ff6ac2"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 59
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/2db9c224-de0f-4065-bd89-4aa893052843/2db9c224-de0f-4065-bd89-4aa893052843_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-    publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 59
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-        width: 512
-        height: 331
         isCached: true
   - title: "Facial recognition should be banned, EU privacy watchdog says"
     excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
@@ -258,20 +242,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Why EU needs to be wary that AI will increase racial profiling"
-    excerpt: "This week the EU announces new regulations on artificial intelligence. It needs to set clear limits on the most harmful uses of AI, including predictive policing, biometric mass surveillance, and applications that exacerbate historic patterns of racist"
-    publishedDateTime: 2021-04-19T06:51:00Z
-    webUrl: "https://euobserver.com/opinion/151556"
-    type: article
-    provider:
-      name: EUobserver
-      domain: euobserver.com
-    quality: 39
-    images:
-      - url: "https://s3.eu-central-1.amazonaws.com/euobs-media/ba0ac1bd9cc3914b8374fa3f91e10762-480x.jpg"
-        width: 480
-        height: 322
         isCached: true
   - title: "EU unveils proposal on artificial intelligence"
     excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."

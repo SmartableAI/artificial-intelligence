@@ -41,6 +41,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Volvo to Provide Vehicles for Didi’s Self-Driving Test Fleet"
+    excerpt: "The cars will be the first to integrate Didi’s new self-driving hardware platform, DiDi Gemini, to be deployed in Didi’s ride-hailing network, the Chinese company said Monday in a statement. The Swedish-made vehicles are equipped with a number of ..."
+    publishedDateTime: 2021-04-19T10:13:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-04-19/volvo-to-provide-vehicles-for-didi-s-self-driving-test-fleet"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFrNolQHLjvc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Geely's Volvo Cars collaborates with DiDi on self-driving"
     excerpt: "Geely's Volvo Cars and DiDi Autonomous Driving have signed a strategic collaboration agreement on autonomous vehicles for a self-driving test fleet."
     publishedDateTime: 2021-04-19T11:51:00Z

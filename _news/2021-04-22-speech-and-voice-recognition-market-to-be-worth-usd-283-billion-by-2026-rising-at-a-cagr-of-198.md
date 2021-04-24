@@ -45,22 +45,6 @@ related:
         width: 400
         height: 226
         isCached: true
-  - title: "Global Artificial Intelligence in Genomics market is expected to grow at a CAGR of 53% during 2021-2026"
-    excerpt: "According to the MarkNtel Advisors research report Global Artificial Intelligence in Genomics Market Analysis 2021 the market is expected to grow at a CAGR of 53 during 2021 26 AI enables the efficient interpretation of large complex datasets and decreases"
-    publishedDateTime: 2021-04-20T18:20:00Z
-    webUrl: "https://www.openpr.com/news/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
-    ampWebUrl: "https://www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272866/global-artificial-intelligence-in-genomics-market-is-expected"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/4/U420137063_g.jpg"
-        width: 800
-        height: 273
-        isCached: true
   - title: "The global AI in medical diagnostics market is projected to reach USD 3,868 million by 2025 from USD 505 million in 2020, at a CAGR of 50.2%"
     excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2021 GlobeNewswire, Inc. All rights reserved. The MarketWatch ..."
     publishedDateTime: 2021-04-23T11:12:00Z

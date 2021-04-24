@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
 type: article
 quality: 84
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senators' proposal skirts NHTSA safety regulations for self-driving cars"
+    excerpt: "and John Thune (R-S.D.) -- are working to introduce legislation that would allow the National Highway Traffic Safety Administration to exempt up to 15,000 self-driving vehicles per vehicle manufacturer from NHTSA safety standards, according to a report ..."
+    publishedDateTime: 2021-04-23T23:26:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-senators-propose-relaxed-self-driving-safety-regulations-nhtsa/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 73
+    images:
+      - url: "https://www.cnet.com/a/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volvo partners with China's DiDi Chuxing to build fleet of self-driving cars"
     excerpt: "Volvo is partnering with DiDi Chuxing's Autonomous Driving division to build a fleet of self-driving vehicles, the companies announced Monday. DiDi, a Chinese Uber competitor with more than 550 million users and tens of millions of drivers,"
     publishedDateTime: 2021-04-19T07:34:00Z

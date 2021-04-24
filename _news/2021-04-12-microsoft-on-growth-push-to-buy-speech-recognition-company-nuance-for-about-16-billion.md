@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion"
-excerpt: "Microsoft, on growth push, to buy speech recognition company Nuance for about $16 billion. 24/7 coverage of breaking news and live events"
+title: "Microsoft, on Growth Push, to Buy Speech Recognition Company Nuance for About $16 Billion"
+excerpt: "Best States is an interactive platform developed by U.S. News for ranking the 50 U.S. states, alongside news analysis and daily reporting. The platform is designed to engage citizens and government leaders in a discussion about what needs improvement across the country."
 publishedDateTime: 2021-04-12T12:36:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-webUrl: "https://abcnews.go.com/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/microsoft-growth-push-buy-speech-recognition-company-nuance-77019056"
+originalUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion"
+webUrl: "https://www.usnews.com/news/best-states/massachusetts/articles/2021-04-12/microsoft-on-growth-push-to-buy-speech-recognition-company-nuance-for-about-16-billion"
 type: article
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
-    isCached: true
-
-secured: "thlhfQMl6eezE2L20byomPDu6DTmP2V7PiRNTR2x9ISFLAWxNNhF9/4AbCZoQOrkdVuTMKOTV+fdu3qPKju7wVIreJFx+wG+c+Z9Dr5Ve7e3GVWArgd/HzGN1EIFJYIYhoFbO9EQLUKFx+hJXF0Xpo4da40jqwo9Sk1b/OdWbnGs1apVmMXRA07+YTNh4828b1TCWB19beok4WUWRTHe/DBP6dofZN3eUebXCmsnjZVHdOQ8koIx8vvWT61vxbwjQ6VFaznywKVOt3fOpT1wjRu/UMCVQvTb1tBrXVip2ZSzYfio8+W0ernW8DGqSJeV8QSE+LeBGodK+w6ZpVn4R2f6GAMZWnDpruD3WpRl0x0=;jtH8RSIkZXOitMZyHCHVGA=="
+secured: "zuM5LCJcbBDLZ9iJt2QMwA+JA1U/Iu/0JHNv1mVo6TnHgDZoRKPi0h1pE1LvsCc+wL+yKZuSSFL8/3aGTCJOoRZRoYqf+5vlUWIh/y9v8etfJtp/gfLVNAjW55WsCMhm5uOgZRuC7Jutw/wiQsTm527LLC3GjrHDQTY26aa1Kr5UPo2vXkmEWLItHHeEWeVNCcoTpkfQJX6wVk9F/dFW9LASNmkt8hq+g1JnFU2qpWOz9ez7TdJ3xFguE9JMlSM3TlVbjIrvSZ/GYeqdMZBEhn/sTXMmy6VKtaxnxQqH+VkntPL/wqIKZm4nrfaB/O2i6HiK69Kmi8r/hEG/iPY1avh/RBLjfSFh9BVFYlsEUNY=;nhaqheZrZH1aB11OJNjsow=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/04/covid-19-may-have-rewired-peoples-relat
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/covid-19-may-have-rewired-peoples-relationships-with-artificial-intelligence-forever/amp/"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 720
         height: 766
         isCached: true
-  - title: "Speech and Voice Recognition Market 2021 COVID-19 Impact on Industry Share, Revenue and Key Players"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-19T06:44:00Z
-    webUrl: "https://industribune.net/uncategorised/63516/speech-and-voice-recognition-market-2021-covid-19-impact-on-industry-share-revenue-and-key-players-2/"
-    type: article
-    provider:
-      name: Indus Tribune
-      domain: industribune.net
-    quality: 0
 
 secured: "vG5FchZslDAD/uG/QSttUkSNNkCZ/wgpDDapyBpSg+n6uf11jWh4TgC0dwiy4YxxESmAEws8Ww5Opus2qu7NjInoX8/DfXg0bLpxQc26lMIYqeXftDFkPkylRJxZyFA0aco9LuqE/LbY3cpF7s+HAuxdH5w0xaf+r4p3/MMQyNsFeq7FJAvjWCPP8cxDCb0k81eHxUA8liNYB0Rv3eVIxgvdNu7ps0TpJkCy6lPA7w6Ryf+cB4SGD7iRCc1HbiPANTsy5zT539LFpNDE2ET9zPhl1CLtqVvqnIy8z00NUfVsHdwrLxJLSgqfphj5AMXZpj7m5z7ffuWTPdlFSYv4pm7Dlb9r08kTthmLNNHMa/T5YC+putti89W5uFpm8Irs/d0DVCPEFKu69y25wuwpy0/Qgv61aO6/VkJl8hB4y6BjMk0vUxwo8AEzm7A/apcyPs1NXmsJVTaj8THW392KoLMkaCdbX0v3cF3Rvf7haemLYnUAgCp86fcLKS0dGvrId4Hd2tHqDfTz1vN/G7EKeQ==;qaYuK8QVAh9Nqma0AowIjQ=="
 ---

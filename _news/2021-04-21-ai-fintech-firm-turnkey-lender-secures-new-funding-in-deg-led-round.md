@@ -110,6 +110,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AI in Fintech Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The AI in Fintech Market size is expected to grow at an annual average of 38 during 2021 2027 The results of artificial intelligence have not been improved beyond the scale of humans but by applying methods derived from the"
+    publishedDateTime: 2021-04-22T11:51:00Z
+    webUrl: "https://www.openpr.com/news/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2273894/ai-in-fintech-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "A Welsh Fintech Empowering Disadvantaged People Worldwide"
     excerpt: "As our series on the CCR fintech cluster comes to a close, we feature the inspirational story of a fresh start-up that’s due to launch this September -"
     publishedDateTime: 2021-04-21T04:39:00Z

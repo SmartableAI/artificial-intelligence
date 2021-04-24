@@ -55,15 +55,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Huge rise in AI, automation, as customer and employee expectations shift"
-    excerpt: "A global survey analysis of more than 25,000 consumers, business buyers, and professionals finds that customer expectations are growing amid the transition to all-digital experiences. And employees – who are already stretched thin – are feeling more pressure to meet demand."
-    publishedDateTime: 2021-04-19T06:41:00Z
-    webUrl: "https://www.ameinfo.com/industry/digital-and-media/huge-rise-in-ai-automation-as-customer-and-employee-expectations-shift"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 16
 
 secured: "1EWaS7zm+C4LEsE1FzyLq+tRlScPbOl9CvP5mffsZ+BNIa3kspWW8mNzD2nvFc1I0W7RFPMju561YgFeRT7Q+hx8/UPOlbeE2jYET3US+cfavuxWLPsHmCC5BxYkLQBXIk8UD5U6oPIz1c7cYOnqKkqFx4CWYOnvRDKfnMsyzN6tddI9IsgwHAkRtZmEu9DDr1WWH+BdI9JhBgsVVb3FntGk56+SbYTS0Bg8zsoUn6/OEhBJNufjICwwrPDTwsFkv18eQVDF0iAAIaHIfRvFZwRSm1E5jDR8zqDyHMCfMtyE4fGsL5RNApVx203aJkT0JoKHAkY4g0Hu++Ka5GL3QMYTOmaoSOFdb6p6F2AJMBE=;2t4CY6YowJ8C/LFDrhan0w=="
 ---
