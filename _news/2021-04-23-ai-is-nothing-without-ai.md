@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-no
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/872fc9ad-screen-shot-2021-04-21-at-11.35.02-pm.png"
         width: 802
         height: 600
-        isCached: true
-  - title: "3 Ways Artificial Intelligence Is Changing Our World"
-    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
-    publishedDateTime: 2021-04-19T10:03:00Z
-    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 39
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
-        width: 750
-        height: 468
         isCached: true
 
 secured: "Ske4KqQ49pXuJ2kjWkyHnidvQVnmUL1SwGtfZKvgvAmrnxyvmCCgANt+GZS0aOpUlkfP2Tuj82GgaY9KDd7Bb3aDGhLdMplR3pTz+8HSoGDgYty0Sezrq4wwR1lVxxjKTv1xhQXhx2Iq8xCNiD4cP7w0f1R0PCY83KNZm9MfvZSGKYkInTYgihwIb8c9Fym82OVBxfx2eXsdFvvJKoJdc4loNwICqmsTUhNnKIwYnTwS+npw9tU4ZuXCwG2LjalqOCtzsP1SVqjuOUN4ll0BbKzIuwozh69d0gG4ASX6IP2SQgpqQHY0HhzRUeij5FEeObtGY8gHMmITW/ckPQRFVb1Hon/M0+PnhCYOQaUr0RP0LT+REVKLSESeQC3ZdVWhdbanKmkFBUbGhs0iIlaHruoT1LvwAef2GWevZcjKC51xt8h3GX8cBrR9uKMaluTEVmf7ZvrQAEAJsVMu7/8sDwYLEO5/ckrOeEnUIABzz2iATq+8CIwG+GPUBwjr4GoezB+pP1emr7Y23QNbHeRyFA==;5rmvQHOmNxsx4mLdDcLaQA=="

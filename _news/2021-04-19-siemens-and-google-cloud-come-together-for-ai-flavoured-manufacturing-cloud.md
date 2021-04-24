@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Siemens and Google Cloud to Cooperate on AI-based Solutions in Manufacturing"
-    excerpt: "Google Cloud and Siemens, an innovation and technology leader in industrial automation and software, today announced a new cooperation to optimize factory processes and improve productivity on the shop floor."
-    publishedDateTime: 2021-04-19T09:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/siemens-and-google-cloud-to-cooperate-on-ai-based-solutions-in-manufacturing-1030316620"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "/TmfH1vpwaJvo1OoXSjJeAV/4t23G7qKdNJC4avEf2F36fxLz47AQ+xAGcyeQNRCPQLangRHlpZNEdtj9UlFSbaGO5M4jbcOiyGQaqVBW+ZLI6uE7Z/ESG+7C3uVTghc7W0AmGWoHxoGaH73b+kwhRIcqXlda+SiqjsAUZx1RZzbBUcaGCcj08wXSAx/IOaYFLU39SWUkrdZLZBuzvRgj4HwIRWTWOhljxeRwCCE56NMcHtgZsv2E63Btt6x6UZoiLOtmpOHL8kMMFNqnA3JGrvF85/BfiAfJ2uaozNJpcnmU/8ybMpq5Km0gjype/eAbjfpGxHTxk6crBQ1/2nf/jPBcwVt41Z/hEG3oS8Y82c=;h+QVUYzTQKOfqWa6oEkRLw=="
 ---

@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
-    excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases from images. There are several eye diseases such as diabetic retinopathy,"
-    publishedDateTime: 2021-04-19T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Enterprise AI solutions startup Hive raises $85M on $2B valuation"
     excerpt: "Cloud-based enterprise artificial intelligence solutions startup Hive has raised $85 million in new funding to accelerate the growth of the company’s portfolio of cloud-based deep learning models through continued investments in products and increased investment in sales and marketing."
     publishedDateTime: 2021-04-22T00:51:00Z

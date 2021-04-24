@@ -1,20 +1,20 @@
 ---
 category: news
 title: "NVIDIA Sets AI Inference Records, Introduces A30 and A10 GPUs for Enterprise Servers"
-excerpt: "SANTA CLARA, Calif., (GLOBE NEWSWIRE) -- NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA (R) A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf."
-publishedDateTime: 2021-04-21T17:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-2021-04-21"
+excerpt: "NVIDIA today announced that its AI inference platform, newly expanded with NVIDIA ® A30 and A10 GPUs for mainstream servers, has achieved record-setting performance across every category on the latest release of MLPerf."
+publishedDateTime: 2021-04-21T19:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802"
+webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-sets-ai-inference-records-introduces-a30-and-a10-gpus-for-enterprise-servers-1030329802"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "Ygd2AoUsICRSq1cA7EDrTlthE0pK3lfMyXXo68qy8UraVKaseUP9RFWqkDk0plq1uo4a9Ko2+R3+ldUFyimLoGBeeIL1YTH4Rxj+Jfkc24FIc2oVZIpJr50i1TnGRZtLor709vp09LBBz66vXZ2fnuuNy5KHMOb1niDNGPcOjxqKa7Y8ilisPqoJAqSNKRT3vgzTH83a+FbqAQKJOp7VKJJej7IeFgj7CNY3KVvSFZ+px4s4U43auvvkCZH4RztC1RqaVF6b2oUPAeSb/zoblYX9yjxmSt3b+OdNZxCGzCP7HdUnwrI/etoN19xsIoM666gn5n1YcBmO11V9YJbaaf5N6qZLId/eC4BXnt233dI=;oPv3oSoLkFKBld4/hiLD7w=="
+secured: "T5FtpKxPEL0niq+4sN6rrVWMh7pbjWFu+o4v0u1HsAdWh8325fEqk3yahflTyhql4l0XogVZ8vrNdSFkyh4XUFahWZPeAf0n+3vQuYl/u7556xwNjgB2X+aewModiSF5wCjR5g4iV0OQb19pTikJoDWnOQg/o1Tu4P8g44Z/On9BFufJsiZytMAkspLVBR35cQY49RuD6IHwxVORDD3VsjXMp4v0rTnG0yNO/C6xGZydJ8fVzCmB5a582wOad/vwV1QX8jBzOGx2rNlb+KaSuhabc/XeBlq0ViB0AwuO0MEy+qkAZmBzayRsMH34Niwyg78Ak77fCHl7imQvu4r1oVxlUDRJKzimBaCCGtKppMs=;WLiUQ2pbUQWICtFX7Q1bxg=="
 ---
 

@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What Waymo’s new leadership means for its self-driving cars"
-    excerpt: "The change in leadership hints at the broader state of the self-driving car industry, which has failed to live up to its hype in the past few years."
-    publishedDateTime: 2021-04-19T09:20:00Z
-    webUrl: "https://thenextweb.com/news/what-waymos-new-leadership-means-for-its-self-driving-cars-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2FJohn-Krafcik-Waymo-CEO.jpeg&signature=8fe964b9ae04b0de1a5150feae3e71ba"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Not Many Realize That There Is Crossover Tech That Crisscrosses Self-Driving Cars And Human-Driven Cars"
     excerpt: "Crossover tech from self-driving cars to human-driven cars is a thing, though this must be done with sensibility else the result could be disastrous."
     publishedDateTime: 2021-04-22T15:30:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60809f29e3ebdeeea10bb05d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5871%26cropY1%3D217%26cropY2%3D2969"
         width: 1199
         height: 562
-        isCached: true
-  - title: "Who will win the self-driving race? Here are eight possibilities"
-    excerpt: "The self-driving technology industry is in a strange state right now. A number of companies have been pouring millions of dollars into self-driving technology for years, and many of them have prototype self-driving vehicles that seem to work."
-    publishedDateTime: 2021-04-19T11:00:00Z
-    webUrl: "https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-927875630-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Self-Driving Shuttles Find New Uses During Pandemic"
     excerpt: "Local governments found themselves with pressing needs during the pandemic, and pilot programs testing automated shuttles stepped up to help — for example, by delivering COVID-19 tests and meals."
@@ -136,20 +108,6 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/wm-motor-first-l4-self-driving-car-w6-gains-6000-orders-in-three-days-amid-auto-shanghai/12868290401009664.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Volvo will provide cars for Didi's self-driving test fleet"
-    excerpt: "Volvo has signed an agreement to provide cars to the autonomous driving technology unit of China's top ride-hailing firm, Didi Chuxing, for its self-driving test fleet. Volvo will provide XC90 SUVs equipped with backup steering and braking systems that DiDi Autonomous Driving will integrate with DiDi Gemini,"
-    publishedDateTime: 2021-04-19T10:52:00Z
-    webUrl: "https://europe.autonews.com/technology/volvo-will-provide-cars-didis-self-driving-test-fleet"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20Didi%20test%20car%202.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Police Pull Over A Drunk Driver, But It’s A Self-Driving Car"
     excerpt: "To make self-driving cars work, these cars use a host of sensors and cameras that attempt to “see” the road, analyze it, scan for obstacles, and more."

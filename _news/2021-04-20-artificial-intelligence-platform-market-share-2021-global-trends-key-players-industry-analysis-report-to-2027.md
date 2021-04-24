@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex"
-    publishedDateTime: 2021-04-19T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
     excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
     publishedDateTime: 2021-04-22T11:57:00Z
@@ -202,17 +188,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "New Study: Global AI (Artificial Intelligence) in Environmental Protection Market 2020 Size, Growth Analysis Report, Forecast to 2026"
-    excerpt: "Growing environmental concerns such as carbon emission air pollution and global warming have surged the need for shifting from conventional sources of energy to renewable sources of energy Human growing demand for resources is leading to land use changes depletion"
-    publishedDateTime: 2021-04-19T10:17:00Z
-    webUrl: "https://www.openpr.com/news/2272014/new-study-global-ai-artificial-intelligence"
-    ampWebUrl: "https://www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Natural Language Processing Market 2021 Insights on Industry Share, Revenue and Key Players"
     excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-04-21T09:50:00Z

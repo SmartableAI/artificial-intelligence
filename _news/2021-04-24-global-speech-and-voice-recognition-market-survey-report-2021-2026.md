@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Outlook, Industry Analysis and Prospect 2021-2026"
-    excerpt: "T02:22:51 Is there a problem with this press release? Contact the source provider Comtex"
-    publishedDateTime: 2021-04-19T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-outlook-industry-analysis-and-prospect-2021-2026-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Big Data & Machine Learning in Telecom Market Outlook, Industry Analysis and Prospect 2021-2026"
     excerpt: "The Big Data & Machine Learning in Telecom market report provides a detailed analysis of global market size, regional"
     publishedDateTime: 2021-04-22T11:57:00Z
@@ -193,17 +179,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
-  - title: "New Study: Global AI (Artificial Intelligence) in Environmental Protection Market 2020 Size, Growth Analysis Report, Forecast to 2026"
-    excerpt: "Growing environmental concerns such as carbon emission air pollution and global warming have surged the need for shifting from conventional sources of energy to renewable sources of energy Human growing demand for resources is leading to land use changes depletion"
-    publishedDateTime: 2021-04-19T10:17:00Z
-    webUrl: "https://www.openpr.com/news/2272014/new-study-global-ai-artificial-intelligence"
-    ampWebUrl: "https://www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2272014/new-study-global-ai-artificial-intelligence"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
   - title: "Artificial Intelligence Platform Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
     excerpt: "The Artificial Intelligence Platform Market size is expected to grow at an annual average of 29 during 2021 2027 Artificial intelligence platform market artificial intelligence AI also machine intelligence MI is the intelligence represented by machines unlike natural intelligence NI"
     publishedDateTime: 2021-04-20T12:59:00Z
@@ -225,6 +200,6 @@ related:
       domain: industribune.net
     quality: 9
 
-secured: "H7YctnGKDFzPqAx/SBC9WPIh7Rf1JSDDhiR8QHkNgX0fppkWV4OWugXixiPFQXSpJJ8Rat2qzNuKGLizGjKMmSZQka4VxlbUzyZfTyqDBrtni2ogdX9v1ZcTSurDZXyAZauHFnSVcddpj3HssJgWIgCuwzxiSf8sb3G5+f03GH8gTTE+vORaZjRCSPX3zJ4YkIXkQg5BN0KWGyQrfGAzWvKvCgfYpqnbXcIImUo/tF7hnc2ndVpKE+SiMDg1YUMF8AsJM4gcRlzjt5wdnTwrIrKZBUc4n6io5t8VBcc8dHoCNY73e5XfP8FFtZxq1S4ZJeURbDhavvciElypEOSXaqWsa0dn3HHl+S97s4Mt39o=;CBlvpqjlPb+alEqWLv4QwA=="
+secured: "RYAwvDBukuKEA5FYsmQ5NEbF4qBHbbugYYvijOFJpBkcv8XrGX8uBJtlIa9ts/ID1xwqlEPlyRpZB7BcUFSZTODottsfwpg/6K0YpoWrEROeuV/5W0MDuv4T+m/sjHSUI7EAhQfPnWGT/R+irApgLezMfO3nuMvHXirVWVjpWpUBuNfAA04dFAtNtN1J56E9FSSBJVGvTIHH41hv3HditBiUa9kpB/GXFnV5LCRMH05ztlmToP1uprBeBt9Mo9S7Nt/ywkAXM+d3IUyIb3RBIxpKFshAeViFI908Kqy7Is2Z+nqnYd8+ElJNQC59wRq59vpsvxJhMyFCExn+2CTeAssY03359nZuFABY6NI4iwd78VFRd+GKlmcf+Inuc7MkjPdahtpwenYO3XYEm2wXiGwhKUpNGbjnVFbDFm1fv4XVuPFqkHelzvaIPa5+Jbh3rpzoyK0NHb5zCQLAIVnVp4P3QrqtMqAZBKQKT37l9Skmczv4ObSviZE/3VyWuWFoKkNQUGEpRKaD2Rgt81BrUw==;La3ZfzPmlkhRqLp58RUDWA=="
 ---
 

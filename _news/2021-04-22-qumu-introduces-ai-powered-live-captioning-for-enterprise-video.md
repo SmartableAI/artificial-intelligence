@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 785
         isCached: true
-  - title: "RETINA-AI Health, Inc. is Awarded U.S. Patent for AI Detection of Eye Disease"
-    excerpt: "RETINA-AI Health Inc. has been awarded a U.S. patent on its Artificial Intelligence (AI) systems for autonomous detection of eye diseases from images. There are several eye diseases such as diabetic retinopathy,"
-    publishedDateTime: 2021-04-19T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/retina-ai-health-inc-is-awarded-u-s-patent-for-ai-detection-of-eye-disease-1030316650"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://mma.prnewswire.com/media/1490313/Odaibo_RETINA_AI_Patent.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Qumu Introduces AI-Powered Live Captioning for Enterprise Video"
     excerpt: "Qumu Corporation, a leading provider of cloud-based enterprise video technology, today announced the development and release of its live captioning capabilities. Developed by Qumu’ s cloud engineering team,"
     publishedDateTime: 2021-04-21T13:15:00Z

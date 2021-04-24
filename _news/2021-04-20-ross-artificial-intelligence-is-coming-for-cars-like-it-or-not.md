@@ -57,20 +57,6 @@ related:
         width: 802
         height: 600
         isCached: true
-  - title: "3 Ways Artificial Intelligence Is Changing Our World"
-    excerpt: "As technology becomes an even bigger part of our lives, BI Norwegian Business School’s Matilda Dorotic explains how artificial intelligence is changing our world"
-    publishedDateTime: 2021-04-19T10:03:00Z
-    webUrl: "https://www.businessbecause.com/news/masters-in-management/7562/artificial-intelligence-changing-our-world?sponsored"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 39
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1617895650.png"
-        width: 750
-        height: 468
-        isCached: true
 
 secured: "nwkIPRN5XglTAq8Xgg1vlV+hKeCNdFlXqXeFdPLGL89BUjgi/tkbIwBHuAi9cDIf2rAATTJsv3HLLD9X7RXdofVdQqAPH2nMiSNY27UITOJjdMtDwQjH4Rwwp8fTzJ2WdODgtO2M0PzGZwwrFgNYa0n8vpmeMVwFhnT6/LDA0OXFF+cNTlrE+SnZJXDi4vlgymg8sRDNu7/MvwKVvxE1FABtX04Po4H6BisEo8p27wmgSleaFi6USGMoLLFK0vI/ZBy0rWQvAWov9rIkJXmWOp6wgWHtcJJN0DCGLZ62e+tnrZLn7fl92zHFAnn2UnJawUURUbIFQIzyJ4asC2B1BQcu5jieYj0BAQswpUOE8LE=;e3oGhh11YCghhrQ4rT5TBQ=="
 ---

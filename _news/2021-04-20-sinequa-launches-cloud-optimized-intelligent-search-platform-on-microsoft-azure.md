@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Sinequa Launches Cloud Optimized Intelligent Search Platform on Microsoft Azure"
-excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to"
-publishedDateTime: 2021-04-20T16:57:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210420005641/en/Sinequa-Launches-Cloud-Optimized-Intelligent-Search-Platform-on-Microsoft-Azure"
+excerpt: "Sinequa, a provider of Intelligent Enterprise Search, today announced the launch of Sinequa for Microsoft Azure to better serve customers who want to take advantage of Azure and its global reach. Organizations that use Azure can now access Sinequa’s enhanced version of a self-managed Intelligent Search platform."
+publishedDateTime: 2021-04-20T12:57:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
+webUrl: "https://apnews.com/press-release/business-wire/europe-technology-business-a32c91c603f34a0ebea1438c7047e09f"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft details the latest developments in machine learning at GTC 21"
@@ -147,6 +153,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "97hiqHaMIImhW2hBUqp+LGLq5MWHvSNCX4o3fNHKa61fmup/vroMPD1Y/8OIRYzX0zE3qwXBQgjwDkZBrhdJ+Zc3Nq6YJwh9tjBQSbuKMN+9oNPhkETcgGlR0aBXFponBFRML0axFtklHEoVX2UVEw+cx3dQ/XSyeboLGwn1SHMYGjpmlrij0So0/9LeHGWBsbes/r8RctOkFNM51PfijsVuG/jVzq+bICJ6A+ms2uBXMaPIRWCcDCg68t8cAw25DDaJJ1rDpb7icxWzvw7pK89BjVNqXHI6jJIIdFuyqXYCSIU5z2uibKCABfW34RCjA7VY33cgBy5brwproblupt2VItYgkJG7tN9Mr0sgJbs=;Z4GoEOSeubeOu9jt8E9jsg=="
+secured: "lx5btTjz/yiIMrPUf2SQk0AtRe+bFvPrQfJ/ZDcK1dbUb23h1y1sdbeMg+Ojjk8iHWzfRmkvTTDUsb+AIiXZELMb4N3qIMQPbHFcgr7/Y2pBiHzUXsPwfY87lLUCtq+ZF81BZOzUn7etu1OXP14vP8T9Oul+FN0r26N85YhB9sjYjD87UVnwAiJ5vzzFNWrm/BBUmOFBdm8DC+7rRPH2wINY2BcC+aUutQ/gX05HUfgw//JPoUGVok4z/VVMN1c4UaGlwGHTQ08SsoNjgPhk1ak1HlJjMWoFTxX0q7douTKbD8ZqCP9CWE+xxS79ls+A1BBcE1rvnrrjaLZIUfUY+1CZrYmtHhalt3kdPGZOWKM=;E9VCuGhiVuRNyr03KYhG7w=="
 ---
 

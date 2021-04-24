@@ -57,22 +57,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Role of artificial intelligence in boosting organizations’ cybersecurity"
-    excerpt: "Artificial intelligence and machine learning help build a robust security framework with always-on risk assessment and coordinate incident response"
-    publishedDateTime: 2021-04-19T10:37:00Z
-    webUrl: "https://www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/"
-    ampWebUrl: "https://www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-artificial-intelligence-boosting-organizations-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 56
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/07/artificial-intelligence.jpg"
-        width: 566
-        height: 400
-        isCached: true
   - title: "BlackRock, Tudor Group Back Cybersecurity Startup Deep Instinct"
     excerpt: "BlackRock Inc. is leading a $100 million investment round for Deep Instinct, a cybersecurity software startup."
     publishedDateTime: 2021-04-22T09:00:00Z

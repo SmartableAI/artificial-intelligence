@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/google-and-siemens-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-and-siemens-teaming-up-bringing-ai-to-the-factory-floor/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Siemens and Google Cloud to Cooperate on AI-based Solutions in Manufacturing"
-    excerpt: "Google Cloud and Siemens, an innovation and technology leader in industrial automation and software, today announced a new cooperation to optimize factory processes and improve productivity on the shop floor."
-    publishedDateTime: 2021-04-19T09:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/siemens-and-google-cloud-to-cooperate-on-ai-based-solutions-in-manufacturing-1030316620"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Siemens and Google Cloud come together for AI-flavoured manufacturing cloud"
     excerpt: "Siemens and Google Cloud are working together to deliver AI-based solutions in manufacturing - in what can be seen as another 'industry cloud' offering."
     publishedDateTime: 2021-04-19T11:20:00Z

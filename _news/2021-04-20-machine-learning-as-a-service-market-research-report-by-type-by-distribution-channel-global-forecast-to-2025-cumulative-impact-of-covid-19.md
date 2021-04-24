@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report by Trends, by Type, by Application – Global Forecast to 2025 – Cumulative Impact of COVID-19"
-    excerpt: "The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market."
-    publishedDateTime: 2021-04-19T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-by-trends-by-type-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-2021-04-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Size, Demand, CAGR of 41.9%, By Type, Application and Manufacturers Industry Revenue Analysis and Forecasts By 2027"
     excerpt: "CAGR of 41.9%, Market Trends - Extensive adoption of smartphone The global Machine Learning Market is forecast to reach USD 35.67 Billion by 2026, according to a new report by Reports and Data. The increasing trend towards cloud computing,"
     publishedDateTime: 2021-04-21T09:05:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19756890.html"
 webUrl: "https://www.lelezard.com/en/news-19756890.html"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hebrew U announces partnership to develop machine-learning algorithms"
+    excerpt: "Both groups have the goal to start an innovation that would overcome media access control randomization while maintaining high standards of data privacy."
+    publishedDateTime: 2021-04-24T03:48:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/hebrew-u-announces-partnership-to-develop-machine-learning-algorithms-666191"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/hebrew-u-announces-partnership-to-develop-machine-learning-algorithms-666191/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/hebrew-u-announces-partnership-to-develop-machine-learning-algorithms-666191/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 44
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/275391"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Gamgee and the Hebrew University Partner on the Development of Pioneering Machine Learning Algorithms to Protect Smart Homes and IoT"
     excerpt: "Amsterdam-based smart home company Gamgee, and Yissum, the technology transfer company of the Hebrew University of Jerusalem, announced today"
     publishedDateTime: 2021-04-20T17:00:00Z

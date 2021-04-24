@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "E.U. proposes rules for high-risk artificial intelligence uses"
+    excerpt: "European Union officials unveiled proposals Wednesday for reining in high-risk uses of artificial intelligence such as live facial scanning."
+    publishedDateTime: 2021-04-21T11:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/eu-proposes-rules-high-risk-artificial-intelligence-uses-rcna731"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna731"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna731"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media1.s-nbcnews.com/i/rockcms/2021-04/1102/210421-vestager-mc-1252-9e482b_d2b35278be7c91736bbfaea0c20fcbf92f8af42b.jpg"
+        width: 2500
+        height: 1602
+        isCached: true
   - title: "Europe's Proposed Limits on AI Would Have Global Consequences"
     excerpt: "The EU released draft laws that would regulate facial recognition and uses of algorithms. If it passes, the policy will impact companies in the US and China."
     publishedDateTime: 2021-04-21T18:29:00Z
@@ -151,22 +167,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "EU proposes rules for high-risk artificial intelligence uses"
-    excerpt: "WBAL NewsRadio 1090/FM 101.5 - European Union officials have unveiled proposals for reining in high-risk uses of artificial intelligence such as live facial scanning that could threaten people’s safet"
-    publishedDateTime: 2021-04-21T11:41:00Z
-    webUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses"
-    ampWebUrl: "https://www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/510413/128/eu-proposes-rules-for-high-risk-artificial-intelligence-uses/amp"
-    type: article
-    provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 59
-    images:
-      - url: "https://cdn.s3-media.wbal.com/Media/2021/04/21/6b8548d1-c476-41c6-8ccf-1274955ca07f/original.jpg"
-        width: 512
-        height: 331
-        isCached: true
   - title: "Facial recognition should be banned, EU privacy watchdog says"
     excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
     publishedDateTime: 2021-04-23T15:32:00Z
@@ -182,6 +182,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition should be banned, EU privacy watchdog says"
+    excerpt: "Facial recognition should be banned in Europe because of its \"deep and non-democratic intrusion\" into people's private lives, EU privacy watchdog the .."
+    publishedDateTime: 2021-04-24T03:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-82226129,imgsize-40848,width-800,height-434,overlay-ettelecom/facial-recognition-should-be-banned-eu-privacy-watchdog-says.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "EU Proposes Restrictive New AI Regulations"
     excerpt: "It appears AI in the medical field is here to stay, and thanks to a leaked document, we have our first look at what regulations might look like in the EU."
@@ -228,20 +244,6 @@ related:
       - url: "https://images.wsj.net/im-328370/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "State panel studies use of facial recognition"
-    excerpt: "A sweeping police reform bill, signed into law in December, prohibits most state and local government agencies from using the technology. But the law also requires that facial recognition systems be studied to better understand their capabilities,"
-    publishedDateTime: 2021-04-19T09:55:00Z
-    webUrl: "https://www.gloucestertimes.com/news/local_news/state-panel-studies-use-of-facial-recognition/article_e6a50073-4284-5d51-830a-e183e51b0e68.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "EU unveils proposal on artificial intelligence"
     excerpt: "The European Commission on Wednesday unveiled a long-awaited proposal on how it wants to regulate artificial intelligence technology. The World's Lydia Emmanouilidou reports that the EU wants to set itself apart by taking a \"human-centric\" approach to AI regulation."
@@ -300,6 +302,15 @@ related:
       name: IEEE
       domain: ieee.org
     quality: 4
+  - title: "Weakly-Supervised Facial Expression Recognition in the Wild with Noisy Data"
+    excerpt: "Facial expression recognition (FER) has attracted much attention in recent years due to its wide applications. While some progress has been achieved thanks to the emergence of deep learning, the challenge occasioned by pose variations remains."
+    publishedDateTime: 2021-04-24T03:53:00Z
+    webUrl: "https://ieeexplore.ieee.org/abstract/document/9403940"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 2
 
 secured: "sS64Yh/oTmBpuLOfvaehcXK7NVJKdzMyjKGnmPWuwx3p3pjOqKrT3k7AN+T+Ny8eXBKDgX0d552x/NgiHxRgxRHfMZeFWJ73B9IVEN5fEBebghQ5AlAhlJP0UxSsIp96la44Is/+v7jmNX8liHN9ZplByusa2wZ5xYggCYZf00A23l8V6D+ybQ3ZHZC8Dkm+MW+QwVYo1isTjyOlnO4axeqiF0aGFMZt7SScaNeUoGRaAQotz7L/r9hTTqDZb33OrsNUK8S8/kHV2i6F7yNLvj3Xm9uKTUAoerxUPVfdJ/pNSrg9mVqd9S5tOqkqknoUrtQHOKbg4W8HTlpO/sPkFTcFVm/3ZE9EbyRi0Xh7Rp0fiwCeNvJtd9QHVmLWMqIDywffZgHR4lxyKujZ9gg+WcY+qUauSUXekxNDFsWDFsAd/wx59HEPy6KZUN9M8J53lU0nq3aqIQtwM6xVWEoPHEvkyZ3/VDOKUHWjbbqHCyzffy7BooCfY0ZuovCmPXpzjJ9+kIP/QJRGf/rE+03HXQ==;Hr3Vtx7J/eRrCEqAnZcNRg=="
 ---
