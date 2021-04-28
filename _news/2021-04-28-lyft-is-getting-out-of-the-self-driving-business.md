@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-se
 webUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/"
 type: article
 quality: 54
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making Safe Self-Driving Cars Is Really, Really Difficult, So Lyft Just Sold Its Self-Driving Tech"
+    excerpt: "Lyft just sold their self-driving tech to a Toyota subsidiary. Uber bailed out of their effort in 2020. Tesla drivers over-rely on self-driving tech with disastrous results. Meanwhile, companies continue to wrestle with autonomous driving tech."
+    publishedDateTime: 2021-04-28T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billroberson/2021/04/28/making-safe-self-driving-cars-is-really-really-difficult-so-lyft-just-sold-its-self-driving-tech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6088f359ae5e001f1312768e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The UK will make ‘self-driving’ cars legal this year"
     excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
     publishedDateTime: 2021-04-28T07:02:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Lyft joins Uber in ditching plans to make its own self-driving car, selling its autonomous vehicle unit to Toyota for $550 million"
+    excerpt: "Lyft follows Uber in ditching plans to make a self-driving car. Its self-driving unit, Level 5, will become a part of Toyota's Woven Planet division."
+    publishedDateTime: 2021-04-27T09:33:00Z
+    webUrl: "https://www.businessinsider.com/lyft-selling-self-driving-unit-to-toyota-ditching-autonomous-plans-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/lyft-selling-self-driving-unit-to-toyota-ditching-autonomous-plans-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lyft-selling-self-driving-unit-to-toyota-ditching-autonomous-plans-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+    images:
+      - url: "https://i.insider.com/6087cae20da8f40018033a1b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Lyft Selling Self-Driving Unit to Toyota"
     excerpt: "Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million. Lyft will receive $550 million in cash, with $200 million paid upfront. $350 million will be made in payments over five years."
@@ -101,6 +133,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "IcF7EOubV1xuNJf+gMFNxdwr1J7bRFHlEJeDIebS1A+AKZbEyrNfcuEzUFI5u/XQ6DhtE88edh3mEpS9u4fsxAfGHNFcOXHCaSW70+ulpSi2Pm5kdE6tfYFRfZbmNtqr71p27WjaLBPMFpUOTmMlxyd2OUObPofqDS+cWwI9hHQAI9i9Stx/KAjebTfeR4YTmLwLLtHcuKgmxXF9aL6Z5s0fMD9ytTH21FYbrFoPM4QdXWaFsWNmzvZt/NrcaEFd3yls4SX+5K9etZwpsOUSOHeQcq6fkMMxilhx7fVRmA4HMgBqAjt26I2R5j8BoOX1Pewd6tjUg/t7LLTxNPBFPWtK8iKrmHzm3GT5mSd4u17xaYzs5K7NHv+UfqKwLtdpykm7KOL9ncKV6ry1MxFOkOi8YfbQzlE1J+di/IuyYAWl/z5DaG1aGqtl9PIfIeLHSe3RwpDKz+MTF/vk5kWszBFDvKg6njdNpOYA2AtQrjfKIpeXQKUfalxkhlZ0EaHK0t210CnV3aHRAuxO4B3AeQ==;J8FwDnW8xmsRVmgEzZqbMg=="
+secured: "Z8ICxBmtoxCcp5xBebtIuX1tHdcDq90AYH9tuvT/MkihSS1vTMT/sFJRe0/BF3nAH26gx5aS/dDW5Hj2RsmqBjAaUZb3A5EJWX5JF2ahtslOs0ieaMMdAj9IckjcMigeznsSmX/csKhG0eXq4B5ZkB10rn/2LKOn5JgkoPDhk2fH0ByRcevVMSh4EOBPaUmNt0HwT1tq0DOsCIGZYSwymMGNnIamC0aGYVs+JItvVghZAZ+YrUFLeBm+GiJiprmDo97hT0HmhPgY0ywwkZHQn3ZKchIkx5z0VCr2DJS3osmliTg6nTe4y4+rqAU0Px4fBOsng8XUOSiFuVg/3XLWHbuDIVNCZfCB6vi6zRLAeuBUGj8Gsamiwk6fggIvU301uDUZcXQRVvqr/0Vv04VOjwuX2gJ2THseO9BC4whc41sMfW+PbWT+GXTVNL4nELkgH9bm6Vm0vNrTFycLS/vCXHxrqpA6l/LVliaO+S9I9jEZ9DMGhpuLoP5XCOpwinJhkBmNum6uWNFh4UvcmqT6Aw==;JfR1AlcGW4si3MV3frn9Ww=="
 ---
 

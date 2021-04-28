@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 AI Stocks Leading the Pack"
-    excerpt: "NVDA stock is another big name to consider among AI stocks. As a leading provider of artificial intelligence chips, the company is positioned for strong growth. As Nvidia spreads its wings across ..."
-    publishedDateTime: 2021-04-23T18:35:00Z
-    webUrl: "https://investorplace.com/2021/04/4-ai-stocks-leading-the-pack/"
-    ampWebUrl: "https://investorplace.com/2021/04/4-ai-stocks-leading-the-pack/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/4-ai-stocks-leading-the-pack/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 59
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Insight Partners backs Materials Zone's AI discovery platform"
     excerpt: "Israeli startup Materials Zone was founded on Blockchain technology, but after pivoting, the company finds $6M in Series A funding"
     publishedDateTime: 2021-04-28T08:37:00Z

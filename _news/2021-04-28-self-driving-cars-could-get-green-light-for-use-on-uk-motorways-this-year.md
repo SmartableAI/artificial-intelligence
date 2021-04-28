@@ -47,6 +47,34 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "OPINION: Are you for or against self-driving cars in the UK?"
+    excerpt: "Self-driving cars could be allowed on the UK's roads by the end of this year. The Department for Transport announced earlier this"
+    publishedDateTime: 2021-04-28T11:39:00Z
+    webUrl: "https://www.eveningnews24.co.uk/news/are-you-for-or-against-self-driving-cars-7931576"
+    type: article
+    provider:
+      name: Norwich Evening News
+      domain: eveningnews24.co.uk
+    quality: 39
+    images:
+      - url: "https://images.cm.archant.co.uk/service/social-media-image/376610/7931710/1/6217212-2/GettyImages-1037080322.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Could we see self-driving cars on UK roads this year?"
+    excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
+    publishedDateTime: 2021-04-28T10:21:00Z
+    webUrl: "https://www.intelligenttransport.com/transport-news/123487/self-driving-cars-uk/"
+    type: article
+    provider:
+      name: intelligenttransport.com
+      domain: intelligenttransport.com
+    quality: 24
+    images:
+      - url: "https://www.intelligenttransport.com/wp-content/uploads/autonomous-stock.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "UK government approves 'self-driving' cars on motorways"
     excerpt: "The UK government on Wednesday became the first country to announce it will regulate the use of self-driving vehicles at slow speeds on motorways, with the first such cars possibly appearing on public roads as soon as this year."
     publishedDateTime: 2021-04-28T06:29:00Z
@@ -60,6 +88,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/UK%20motorway%20rtrs%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Limited self-driving tech gets regulatory approval for UK roads later this year"
+    excerpt: "Driverless vehicles could come to British roads by the end of this year, the Department for Transport (DfT) has announced."
+    publishedDateTime: 2021-04-28T11:43:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/04/limited-self-driving-tech-gets-regulatory-approval-for-uk-roads-later-this-year/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 20
+    images:
+      - url: "https://eandt.theiet.org/media/13353/emb27y_4584056286342210733.jpg?crop=0.0000000000000013895057943753,0.096228548685709764,0,0.41158395131428954&cropmode=percentage&width=1200&height=450&rnd=132406788710000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "opl7/P3nGf1gekteXoeJAEx0Q82wbKkjA8tCv+sD7zw3fbizH4iIkoziprj+F+hAVNSOdPJGmYgf8TbEWGGqVWff92z96HyfyyEs/z/LB8cSYRVLlGDi7AxR3vGu1fbwMviyOdvZQxNp/bH9OOg0N268r63S5+EO1DYIjh00sZiTPcVFwulvvLliaZZooobOi3busdVoDNXugs6tzKzB8mrIAlCDFDBtbRxKucRtB3Aze/gVFLLU+Fv2SuBlh7md+h1VF1fdLE0wCrWq2wOcbMVXLNx2hrg6lcvPeNF0gVoxC+o1A4nsCx88SCtkiIVEFgZ742OkKVP0p6YUNRQBT5e9X3BGKEFCkOqKP3o82kQ=;5EvedRie0YOIhpQX6cNt0w=="

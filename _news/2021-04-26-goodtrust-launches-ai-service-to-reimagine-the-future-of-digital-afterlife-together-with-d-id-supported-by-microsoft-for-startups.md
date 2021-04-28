@@ -1,31 +1,27 @@
 ---
 category: news
 title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way"
-publishedDateTime: 2021-04-26T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
-webUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
+excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and"
+publishedDateTime: 2021-04-26T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
 type: article
-quality: 54
-heat: 64
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d1/cd135112-3bc6-5c29-8306-b1c8139d53c6/6086d5a2c221e.image.jpg?resize=1119%2C630"
+    width: 1119
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 1261
         isCached: true
 
-secured: "M3PCXAd4pRCqo9yJSsE7SRFon+PwJw3duy4a2uF6RRsMM1BccXE2MAej506/dk3LT7b+GdWkY4a3sI/t5PNSd8VK7yDCh9FcravOZlprD4Rwt3o5aZ3a0Mhmxok9IdDbsImlw6sTL+/Czi1Qrh+6FxxLFrfvV8A3cdMMkmOePOE4ErPUkO4I3GarT/RLMzM4jnqanUlzzB2d6QTmjGSWXo6N9usvawtKvvrlvG1Nck6NZDz6r7jTSYevywj3UoYKcfSth9RVILjYdeiWIP0rvkjK5IYFiid6scCKPRB7pbjOYxaSLETJapo+83p56jXXOuP21z9YC430MzaLzXj834I+N4ZUNWhm4OZ1so+xuuI=;jT3zjTeSHiN3Q1eGGrgGJw=="
+secured: "vZfzpYCq6gWtTUN9jpZpw2tJ2IApsbCK0pdpjpPahgeUha2/QvhDvQwVFv2Gp//HiUcR2q9SBZVC4LY0ol6yDn8aPBZH4vfQrZMOw420S3qBlstceeOBuqBXQv9S5eQpnDUkIxjx+QKnYCYe50QqDBeXN760eKi36n64u7Lqxzb/V7THeoDlnFEIHTWlcBFA27rK8vOOzdo2JyJ5xmFQPZBeebkxtQ11rrqyYr6C0CdPJx+m6dw85Zmh1dBxH37nCb/Ee3CLg5I/DwgzLCKViHGxngpy670PI7AwFhzt50pVy8AHvn4XZj+CeW3ukdOlHGFgaH1FA7HnNqMF0czfWnNlcjsfQcG3yLsJxjgDNXc=;uqgjnOOyrzD/W6vm6CrEEg=="
 ---
 

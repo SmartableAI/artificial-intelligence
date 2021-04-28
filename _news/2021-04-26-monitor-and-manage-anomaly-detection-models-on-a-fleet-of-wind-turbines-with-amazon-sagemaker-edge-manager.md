@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-and-manage-anomaly-detection-models-on-a-fleet-of-wind-turbines-with-amazon-sagemaker-edge-manager/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 599
     isCached: true
-
-related:
-  - title: "Build a medical sentence matching application using BERT and Amazon SageMaker"
-    excerpt: "Determining the relevance of a sentence when compared to a specific document is essential for many different types of applications across various industries. In this post, we focus on a use case within the healthcare field to help determine the accuracy of information regarding patient health. Frequently,"
-    publishedDateTime: 2021-04-23T17:52:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-medical-sentence-matching-application-using-bert/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/15/1-Architecture1305.jpg"
-        width: 800
-        height: 509
-        isCached: true
 
 secured: "1qFDyDLv/GRjTrVt3G0txaiHY3789BuRXsAsaRfoRUwFckfCCHWR24Twlnc05My2qxzElx6IVXuY3U0GzQdC68LawKmMgmX3v9CBXs4Mq4JebY+q/ciGgNifGXx74eNXHAIXTkAuu5OpadzzLIpJODGjGlcGYrsfbyNz676t7PxzllRT+ssLLFXJhNVh/d5mzIQnRVt94LHL0TGTtuBHo4H8gFUCmrJDm8RTRS4q9UWKevQCbPcfMHVZsRWmLQwR6DCsvFSWqZJSV45i0z5Qu9FtSpFZj7u0gE/LiWHXGL6Lh1tHzHblo7PP0fiAstEapz88nt/qcjBorMRPGi5MdbTHHkq51rgr+AoI75yYOjc=;c5o+qkJ5ZeFApS2Tk9kD6w=="
 ---

@@ -57,7 +57,49 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "OPINION: Are you for or against self-driving cars in the UK?"
+    excerpt: "Self-driving cars could be allowed on the UK's roads by the end of this year. The Department for Transport announced earlier this"
+    publishedDateTime: 2021-04-28T11:39:00Z
+    webUrl: "https://www.eveningnews24.co.uk/news/are-you-for-or-against-self-driving-cars-7931576"
+    type: article
+    provider:
+      name: Norwich Evening News
+      domain: eveningnews24.co.uk
+    quality: 39
+    images:
+      - url: "https://images.cm.archant.co.uk/service/social-media-image/376610/7931710/1/6217212-2/GettyImages-1037080322.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Could we see self-driving cars on UK roads this year?"
+    excerpt: "Automated Lane Keeping System technology cold be given the green light by the DfT later this year, paving the way for self-driving cars."
+    publishedDateTime: 2021-04-28T10:21:00Z
+    webUrl: "https://www.intelligenttransport.com/transport-news/123487/self-driving-cars-uk/"
+    type: article
+    provider:
+      name: intelligenttransport.com
+      domain: intelligenttransport.com
+    quality: 24
+    images:
+      - url: "https://www.intelligenttransport.com/wp-content/uploads/autonomous-stock.jpg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Limited self-driving tech gets regulatory approval for UK roads later this year"
+    excerpt: "Driverless vehicles could come to British roads by the end of this year, the Department for Transport (DfT) has announced."
+    publishedDateTime: 2021-04-28T11:43:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/04/limited-self-driving-tech-gets-regulatory-approval-for-uk-roads-later-this-year/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 20
+    images:
+      - url: "https://eandt.theiet.org/media/13353/emb27y_4584056286342210733.jpg?crop=0.0000000000000013895057943753,0.096228548685709764,0,0.41158395131428954&cropmode=percentage&width=1200&height=450&rnd=132406788710000000"
+        width: 1200
+        height: 450
+        isCached: true
 
-secured: "g7wr1GellpdNFjjSLzgpUCWLkC5ka64OumzZfpW9W//hIwkIac6dPtkBHcvw/DCS7z3k55vB2l9udcDqwYIXRjMZec2AYimLECQR7Q07RmfzNIAle6CHwCSPcH+ZACcCpvNLi+w03At21tsl1VjGwf4VQ0XAtvyvXQeKdeWMcau8AIMDyAAKXzyMdwAWRUjiN/idcH1ZrcEi9hjXYodv5eZPcWoynUklfGz2o55ZXx7/Gt5l45vj7nZhD+5rcI6WIN8ZmPX8+vvBW3AdDiTY2f/IsEsJbvyUoTZOnQaK0dzfBr71/gx+vNt1DMTwEyI6YwFKAzjYYAc4jDEddm6JXMwaOoU1KX84PxTsP6mqn1M=;xFlMgaOToAdqCcMSqsx20w=="
+secured: "lAy27/pepTabvvraHkIT9W9Sq4LifJyjfG8pKbe+B1fITiesEkBoPROv1MinzW0DZQFlvexl45bgseIPXktBGDUirTG5d35nFjEl+W3KQ3YzkQH9mU2MMJv9HuuRBrvAmaHF25mGjMZflp9tgQj9d3wEw8Xlcw8x8X88EjtvBvucHQymEP+NvTgnKkx/qf9dtaZeVZYeLGlxd72H5kLFOXL4hLmoVC69VPGGsR91NtecwXNa/kEe/23R3lrvH9nQDR+cSlPr3O1yZ7kcZufy7V2bEVDo85E/EwTul03FXIR8frki9TAa1t2K7zGpodH6yYmh/ae//m1sh6H+mBtpzpS6q06RAkdGHPzhh+hRY8GauOvmBxHcE9tvBlv7hRb9W9/Bx8k4V1cEUZ5kRRaZT4LMVWNktKCuVTlv7/pocozDe0XyL/B6jdyVEMTf5n572yePIvfzrIiUknYWCtrO4y8zOY1S92fx+3Rjm/p5vbh30W0m9eCMXJ8+Ve1NXm9HBvyj+8eWDEOlW/DRJ2cScA==;rj1sp2dSr5CV+JMih3EmPw=="
 ---
 
