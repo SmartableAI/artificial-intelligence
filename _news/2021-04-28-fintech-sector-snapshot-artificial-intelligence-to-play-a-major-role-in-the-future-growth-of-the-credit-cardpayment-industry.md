@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-28T12:02:00Z
 originalUrl: "https://www.marketwatch.com/press-release/fintech-sector-snapshot-artificial-intelligence-to-play-a-major-role-in-the-future-growth-of-the-credit-cardpayment-industry-2021-04-28"
 webUrl: "https://www.marketwatch.com/press-release/fintech-sector-snapshot-artificial-intelligence-to-play-a-major-role-in-the-future-growth-of-the-credit-cardpayment-industry-2021-04-28"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

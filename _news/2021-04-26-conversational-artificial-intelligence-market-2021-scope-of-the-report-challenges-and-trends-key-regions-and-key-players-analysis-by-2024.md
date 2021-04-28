@@ -29,52 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
-    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
-    publishedDateTime: 2021-04-24T01:24:00Z
-    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
-    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+  - title: "Artificial Intelligence (AI) in Retail Market - Top Vendors Analysis, Market Challenges and Geographical Analysis"
+    excerpt: "How will North America Artificial intelligence AI in retail market perform over 2018 2024 The growth map of artificial intelligence AI in retail market is estimated to depict quite an ascent by 2024 driven by the increasing implementation of AI"
+    publishedDateTime: 2021-04-28T12:06:00Z
+    webUrl: "https://www.openpr.com/news/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    ampWebUrl: "https://www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276788/artificial-intelligence-ai-in-retail-market-top-vendors"
     type: article
     provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 44
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
     images:
-      - url: "https://www.express-journal.com/img/img-10.png"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
-    excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
-    publishedDateTime: 2021-04-28T04:29:00Z
-    webUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/"
-    ampWebUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 39
-    images:
-      - url: "https://www.express-journal.com/img/img-5.png"
-        width: 1042
-        height: 625
-        isCached: true
-  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
-    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
-    publishedDateTime: 2021-04-27T16:26:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 38
-    images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
+      - url: "https://cdn.openpr.com/U/4/U428426704_g.jpg"
+        width: 640
         height: 300
         isCached: true
 

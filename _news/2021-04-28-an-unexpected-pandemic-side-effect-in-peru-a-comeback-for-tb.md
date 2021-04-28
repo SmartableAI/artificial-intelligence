@@ -24,6 +24,22 @@ images:
     height: 753
     isCached: true
 
-secured: "B9xwfmHAyy4N03E6jYGhFnqKT82OqtYW2f5/2Vzgh6VL7s5WbGOOJJxPtanJIgcVskwvQWVqgvAAVMgeNZ6vlTEsJ+yDzf0ViAm5Id8iCdZo0v0GqFG9Uc7jriTux7At5OfKUV+RctpCPFIAGBiJQTExERc2T4dgHuggsYn/JBnEtd7jgPvJz+Nt0xwSU++E4zUnxU/tXb/ShsPiwx+0RPGcFXpdhiVXXB2lOr8RCK2IOfoz0ehB6iwYlWSIZU5eLeUcXFhdOvOPgMNNdfeeSPeFojrXV68ETJPiVNOdjg3Chq2ZJcY4NRww+xyV2jbIhL1SZaIv2MxJW/oGV4IbVdluChMI/Vq7suDsaDhSe08=;R4xYUaQpGSmdgXIQfKMrtw=="
+related:
+  - title: "An Unexpected Pandemic Side Effect In Peru: A Comeback For..."
+    excerpt: "Unless major changes occur, she adds, \"we're going to see the effects of this pandemic for generations.\" A three-month lockdown followed by a 10-month restoration period [of TB services] could result in an additional 6."
+    publishedDateTime: 2021-04-28T14:10:00Z
+    webUrl: "https://wfuv.org/content/unexpected-pandemic-side-effect-peru-comeback-tb"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
+        width: 342
+        height: 240
+        isCached: true
+
+secured: "nxHoH1hvbAMaFGksjqtNmglIQOI+3mbccFFJ2k93Ve4lqOEE3qJUcsGoKiVTSW4YHlmBanDq4Kuv6xxBYDhSGQssSGBpGUAWXzkuUFE7QLQD7abCwLc3YWnl4Sz0Hp8hnZbDqWNnoUtpxYMPgsyKodiq2XvSkqel7x5RplkMM7jBTTux8OPQNTR7GTtlZQ62Y1Zv9c3SHGblyYayy2OY1uFdOrLND1rWLyfvoD8WrVuLCDrlyZxmbRHm2XpRrf/9i4j266r4sZjhIF7Wci523fNJrGSd0XOvR/ha37ro4FC3Z3pAs1wEn7uIoP4xdT83mq2JagCtoBzndhcEp88VdrHuSpkc4lUWtW0Fyun/ckBJxZTQveFFpzcMcHKIENesGNdRfWFXzaeY0rKj265gQYgIA15lA/0fXdgAruhPtu3gZYYrxOWcXtKFDdp3hQrM5XlUEOVsHMOeunye55oZJZ4ydLzh8ciAooDGP+Aid1GJC1oz51fZbaQLcFqU4PZ4FInSui0lz5yhw9DjDlzPVg==;zm3p9hlAk1xcBkEjXZ/TAA=="
 ---
 

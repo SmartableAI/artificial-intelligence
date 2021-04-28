@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/slide-shows/cloud/the-coolest-data-management-
 webUrl: "https://www.crn.com/slide-shows/cloud/the-coolest-data-management-and-integration-software-companies-of-the-2021-big-data-100/7"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 610
     height: 457
     isCached: true
+
+related:
+  - title: "The Coolest Data Science And Machine Learning Tool Companies Of The 2021 Big Data 100"
+    excerpt: "Part 5 of CRN’s Big Data 100 includes a look at the vendors solution providers should know in the data science and machine learning tool space."
+    publishedDateTime: 2021-04-28T14:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/the-coolest-data-science-and-machine-learning-tool-companies-of-the-2021-big-data-100"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 32
+    images:
+      - url: "https://www.crn.com/resources/0268-12226689da1f-5e9fd9404b38-1000/2021-crn-big-data-100.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "qy4K31oUYTQkpjxRcQcYYGmmvosntqAPWcIYAXCubjz4ve6InUd8Q5gCiWWQhn8+v+0Jya6igBNbEOPvCC+tVBb71pIn5R7xOKqFlopb5m+WMKuJcyttg/+lcHAjmfkJEvIGdhmHQqyYi9HvLy4frKJ2hVpClP0V9s6dYqlpSs8H5Ai9nrs2oyWKH8wiasDWdvuon2/4+Mt384t42zeBKI39zD5Xn5UWmLuSJDxTPn+JmcD0tof2ahuaU1VrEv4mfUObaVArpMrSeeGK4VqV4E6TCNdMTTb1gmXUfO+Mm8FghX04IbEfgcbrkK0LRNDz+deJi5TsYEhuF5YdZMtLpy5N+jwvn82Z2e9xDSVzPM190boWUYHUp6Q610yklTOH15p6fKu7o3D0YPE9zY4jpn73IFZPbvs0Vyx5mKaF3KOMND0V3WJczq8Xm6c2DiM+9VEbxw7FT5LZNT9WUOos0SVgXzmV3jm5HkOR9xv3e5WaQHtTnVJanYMTdIYLs9Qc54FDQ0F0zgF4JKufb9nwpQ==;27eI5823+y39yAeUIqyo0w=="
 ---

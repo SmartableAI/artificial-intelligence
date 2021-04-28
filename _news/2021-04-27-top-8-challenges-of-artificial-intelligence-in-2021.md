@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 1131
         isCached: true
+  - title: "Researchers use AI to detect wrist fractures"
+    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-04-28T14:55:00Z
+    webUrl: "https://medicalxpress.com/news/2021-04-ai-wrist-fractures.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
+    images:
+      - url: "https://scx1.b-cdn.net/csz/news/800/2021/researchers-use-ai-to--1.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "swRS3Q1zcm5Q2Yr0gbGUvKogFyvcuSvqnfQn8c3KgGHMYSGorYViMVGcJF1ZrmuhC2BgtgJCdnXnsS/9paS/ugOdIkvgkyinkOh5BcDMax2XLzCT8NxOaif+1B0nJzS20viRKQYsX3DDmgMB/QRHsZSOUz4PItaVCIqqh50Z1xmQALXlWjAlJKbBFIp3qeNUIpKQPoEmlhWDhwNQsJeOyPlBbrvhvUSSBa+MTAIh6FXhBW3q3OV48P5aKu2IEYu8TLwDDQjEtN/q7NzNZ2tg0q2QpdmBWZFa/DuMEPxjtvPsZiPdoX52EHBoU8szRXAN2NABbq5NdMInubrwSfN6yD11f11agvDH6Ok9+J264amKmRl3uYsXd0uEQq0ct30kalMD2WzLGB463/aGO/lqdwWeouO8srNqDKq8Wj8BQWRTm7v9VKQlbPAGCXuc1ApxPj+4BB9REc+8s959xdKjO2S2/4bKpR359/w15DX65DayFpvYXzyjgkTMLeapa9/29Dy2ppSf4w0rHsG4XQS09A==;AZ346ICAAD3EDm6yLepV2w=="
 ---

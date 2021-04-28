@@ -42,6 +42,22 @@ related:
         width: 2400
         height: 1602
         isCached: true
+  - title: "Building the intelligent future of payments with AI"
+    excerpt: "The sooner a FI builds a strong data foundation, the sooner they can execute advanced AI and ML models. With each iteration, they will put more distance between themselves and the competition."
+    publishedDateTime: 2021-04-28T13:29:00Z
+    webUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/"
+    ampWebUrl: "https://www.dqindia.com/building-intelligent-future-payments-ai/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/building-intelligent-future-payments-ai/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2015/12/MobilePayments-DigitalWallet.jpg"
+        width: 330
+        height: 211
+        isCached: true
 
 secured: "++CKtg9qM2Yvcenm1M4K7dgkm7I3mxqyE0HJUoiJDwBR1oeEUcbcJznzRPBjyyMbNPjZZxJrMDHlrNlUr3iAwbhRihx0dGF6SJer/5y6mnSS2Sk/o/zJ+Sp5zj2LAbeMaB6OJHOM7r+Wlo+z9bCJJ+DEqlg+pdBhBIAIjIWLTY+Uv+U5G2S0kxJat3JPhBk58+j33a7oK5MFtPh8Xn+H91jjkvdRtHAox6w3vkQhc6wo609n9ym4TTlujRJ/JuhduBv9IyQsgpoNGir+w12JXac4Y4UB0R1m73DZhDqGUry9KEXu+TxDJIHv0Pds3g6o0q0ucE7pbEN4mLkBEOzcKPaYP3+ar7hBYuOmGnEnY6c7xl7qTP/b5vHo/P9VlY7whCOF10/UxsjSQeVaY/ObZCPLc49F6mYxOe14TR6uL8OlsfPQhkpa4qhJ0tNthpthVLpI5+RW06jqlbPQv1n2JrYp8csCjdy45zOX6mgqoU+y40jDj48a6qR9ZA6zaK9CI37RT3JJ4efoY32Cu995Ew==;nL0AqY1cK5gm7PdQQy+t1g=="
 ---

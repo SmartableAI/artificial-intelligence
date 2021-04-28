@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-28T13:30:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
 webUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
 type: article
-quality: 16
-heat: 16
+quality: 14
+heat: 14
 published: false
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "NYT59mXMyyWqq82OsJy7bsHNEsbGhvIqCwQxwMkDZ6GuQAe+c794naIZav4WVz79KUPUJuSt54/E2mQC8yIxZ/Kziw0HxUnRtx2D1EOvjcT1E0VJwkNlpiaX+GWM9j+YfQu3hIFbJRc8Y1Fs9nXnmS7LgbRLf2AOmE2GVmd+oA322ag85e+wUkxZhz5Xaw0DCfjyOc6RDzjEi22MgnOm2fXCjzE5IfU8GrJ+pW6rlccGYcSc9HDd2PxvR5YeGwiaZiFMOWdMCNF+QY5Zyj11rJSDG23llTI9W09JlSWfpGUk9RSJvc0J+iot9zJzkgr4YWxpBTVkebZm9+AKuFHBA0HVBWDd1BeGiPJdr2L/H+I=;dk55ZqTDMCqiPnhLcLT1SA=="
+secured: "9I56p+Z7RYKXVApLFk3Apadgio02VJAhkEt1ObOWcz2cRAxuZrFRedvV575NrMq4rINAhMzmAPNnNp49eua3zWjib8095VV0Nvp1E+ZwK5O+52oyDEKMqWw5un9N2DFiIbvMBCa123aQ9bL7GCMGFnROAscAFnHqxh7apv+QpEVA2wvpcVS2kC3h1UT9spf2SvqSLf926AUJKOYv3CQslJShRO/JJZPo790iFSGCOhIvmp7aTVOonXeH675fp8R9dwU/y8Q8PVhsRsTHwJPxDvtSY9AcW+yYBJqyHxfa4KCjnYhI7gEO3WGJTKWyVMbb5lBx+dlWqi5mZxKRIpwmjlnjYQVBT62n0HGlYPi3s3k=;UY1GZujWNj9IZNxSTczJOg=="
 ---
 

@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Self-driving vehicles to become legal in the UK this year"
+    excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
+    publishedDateTime: 2021-04-28T13:53:00Z
+    webUrl: "https://iottechnews.com/news/2021/apr/28/self-driving-vehicles-legal-uk-this-year/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 4
 
 secured: "spJni1Nxez8FY07d+Hs1Iurg5l/suW+iQ/VgFGDJzWmyxHMGcF2/g9mIMlFfw06mlsq/au0po5iVpg9rUkVsUYHK2qSlj1t4tTPWts3b3jZ7ndZrOIDUY5gzJv9Y8+LIq4BtwQmNsevfqzVqZJh/injKahDKOWLHGGIrfD1MFhU9BZeTHDvWbTv1gLogtURui1GMQKv4fRNxH4fsSpi3L9Gk/u+RrDcnH2euXsi7vWT+betQvschGBZLmXHaKBGQ/k2XzlKvCB9ka3jESuzcw8RNJFcR2bd+pvE5g0nDDG38ajrP7rkC1fVMqNQk3FBuxPWFo89XKaSvSpo8QS6udUvw1DLpFBpI6x4S8b0FVdblhLI0NQNFcyXS+vU4PgYc9d3Vtd6BwQmTzES3J68TUic6zsOG9R1IZUzARK4/E1UGLprhdos0manmaj64H0H0IDzLshaGmEDmfsuEkB325cn6F5bfMUGOQ7XxBw7st9p3pwPQ2rG8Y5a/2BlA7YX7vRQeLfX3oZEJgJOv65vnaQ==;rztG69o66Ok/vLAMQ/ZPbg=="
 ---

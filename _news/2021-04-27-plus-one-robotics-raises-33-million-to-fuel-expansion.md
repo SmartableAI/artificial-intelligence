@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Plus One Robotics raises $33M for human-robot collaboration software"
-    excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,"
-    publishedDateTime: 2021-04-28T13:48:00Z
-    webUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-    ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
+  - title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
+    excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital"
+    publishedDateTime: 2021-04-28T14:41:00Z
+    webUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20838845"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 89
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg"
-        width: 2048
-        height: 1318
+      - url: "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Robotic vision startup Plus One raises $33M"
     excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."

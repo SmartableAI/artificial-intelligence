@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Times
@@ -42,6 +42,20 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1131666376.jpg?quality=80&strip"
         width: 6361
         height: 3844
+        isCached: true
+  - title: "Machines Learn That Brussels Writes the Rules: The EU’s New AI Regulation"
+    excerpt: "Europe’s new AI proposal sets out a nuanced regulatory structure with several important innovations. But the initiative also appears to have some surprising gaps."
+    publishedDateTime: 2021-04-28T14:51:00Z
+    webUrl: "https://www.lawfareblog.com/machines-learn-brussels-writes-rules-eus-new-ai-regulation"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 36
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/49068069128_a42f87adaf_k.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "mOlJgvAmhcZVTk3JJvmGZxJTA0FvIYKEmbR9eSFctycE4qPAMR/eOTlXK+TCEzlMzrayEnLEpX28dW0Dc5fQQaHHG2mM5mcL3BrsMdqDohhOkPyVXEbJ9ZgEmSi+8MzpoI1r4N2Yus+QhrUCB1hdj+gEEmh+YWsz75aHGJPWZXhiw3/OfYjnt/2neWxu/H8ocnPjxgB/jxGXReeuDZxQd93ZFzVbDtQZMClm96yAK7Qzzpt86QN8Q+DxrMB95gECzl4o9yNNlqpGpc9szhnhs59tu8Xkn70BZakUMYbkdVr8rv/SmgrWk3sIUGrN7jS1J8rNsSmbSYuyxoCceYBiYbIDjlk9yCCbklnwzaRnacHhk2WmT0v9DZje6UEAlPnEYDsrchTg4pboJe7XDyk4RIznuezoZdKczCL2XM8AVKTYm9B1DzUBc0ci/L0b6jYfPHZvTECb5c8AGsH+tWAQnqVMt2mbfnbbTxZssQ/Z9BOdBLEAOlZM2nSUlRUdsWc8X5qY9lmtcK+a45MagvCCtQ==;irtobfAP51txbg8ZXpLnyw=="

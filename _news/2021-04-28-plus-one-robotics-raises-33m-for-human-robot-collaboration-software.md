@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Plus One Robotics raises $33M for human-robot collaboration software"
-excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital and Translink Capital, with participation from BMW i Ventures,"
-publishedDateTime: 2021-04-28T13:48:00Z
-originalUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-webUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
-ampWebUrl: "https://www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plus-one-robotics-raises-33m-for-human-robot-collaboration-software/amp"
+title: "Plus One Robotics Raises $33M For Human-Robot Collaboration Software"
+excerpt: "Plus One Robotics, a human-robot collaboration software company headquartered in San Antonio, has announced this week $33 million in Series B funding led by McRock Capital"
+publishedDateTime: 2021-04-28T14:41:00Z
+originalUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+webUrl: "https://www.benzinga.com/news/21/04/20838845/plus-one-robotics-raises-33m-for-human-robot-collaboration-software"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20838845"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20838845"
 type: article
 quality: 89
 heat: 139
 published: true
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2021/04/8096899965_13b19b62d1_k.jpg"
-    width: 2048
-    height: 1318
+  - url: "https://www.benzinga.com/files/images/story/2012/archive-1850170_1920_1.jpg"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: bizjournals.com
     quality: 44
 
-secured: "+Jmp5qSS9KIiogcgy3d2wUppyf3BR41flziQBMfORdnoM0OI3+QgzHlc0IPnw65bCoSMbUvZod/a1+Y5HHmf3SxdIO/2v0gx1jSGXkk4wXTduDyJOQ7uH8GXwsejmGAfDgpIWleSVK4el9zhepQ0VBVybbgbcTpQsBNx2jWrdqyIc/OqMr7YP6t45w1hOyhlployugESFBMhyqoxvH2JgXxefnWFg+f884W2k7tm4r7P/oSGfq3XxsPQUVz06Xf2mf5WEeHvlehKYZgEilQpd+mBS5LO6PXwZeKsmT+Vwh/eetYmpwaM26L9UGZofxjJTXLrMddCm021vejWn+MdsIbKtHXcgk1XHnJUFmGTN90=;WhBOITrFO/kCXrNMlIijHA=="
+secured: "ALZxNJFAcxy6lS1NdQ/15j3VhGKJ5mapLnJW1K9knMPadSjhuqqLA7sAUrV22ze61GYjdE/BKktQdmsw2KzEqa6x83sccfxApDphl/a/UyM3yMwrxn3F7aPYgIHppOuoaXh1RG4onY6GK/tNGzUGozTbP+hN8vp2dGBV/v9zSVkqQcnKFfeD7yYhruP+RaKQKkYlYa00tvVgaf4NTesTfCzGtNHS/0hyausrDv6K8gf7EJC8Y2Y00I2Vl/sHWzQ4v6qUk8UP/PE6E6shT7q/IE7Ccf7HKznTBLgM4mPHqXsZoyZwt/MXWqtt420mBaHb1FGKFBet9S52GILpW2FtSSEhIVsSFgEbRKexNiJkTms=;xByAAwoh0yIu51M0S0KeFQ=="
 ---
 
