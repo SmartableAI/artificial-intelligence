@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -116,22 +116,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 14
-  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
-    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
-    publishedDateTime: 2021-04-27T16:24:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 11
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
 
 secured: "zGLbAOx2HgKM/kKcMNkY2bNsT9MTM657gmdDL/JWfxd5kaJm1obDTi8W4eHJjPpIg0oWvrtIKtqNninjS5b4vtRGeoXkUQ0Bfoc839klfFCE2pn03XuIT+XiEUBEBFIa8ya9R4/3iTmeE18d+sBfWQxaYqI2lYgsEpkpDplvZtKuUFuPsR+8eApaIb+77rBi/be+r4Y809uX8EtgdpTDdO075argdt2ab5AzvF0hMMbnddxF2Cir2wV8ED51FI8AsCa22tKyhxaMO9ZDEEa4Vwi0qqJtI6OZCIOvycIPUURXR/sTY/gE+aC01aUOF0p/R39nxwi932iIgZEe5y4z6pEtMj0BR4wig04jwufq5CQ=;wITuJ5q+0TZ92ap+1cg3JA=="
 ---

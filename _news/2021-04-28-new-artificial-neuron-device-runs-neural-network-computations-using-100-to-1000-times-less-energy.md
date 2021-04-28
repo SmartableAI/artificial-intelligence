@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/new-artificial-neuron-device-runs-neural-netwo
 ampWebUrl: "https://scitechdaily.com/new-artificial-neuron-device-runs-neural-network-computations-using-100-to-1000-times-less-energy/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-neuron-device-runs-neural-network-computations-using-100-to-1000-times-less-energy/amp/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scitechdaily.com/images/Activation-Device-Array-777x567.jpg"

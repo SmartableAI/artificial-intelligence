@@ -99,6 +99,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Self-driving cars could be allowed on UK motorways this year"
+    excerpt: "The Department for Transport said it will allow hands-free driving in vehicles if certain motorway conditions are met."
+    publishedDateTime: 2021-04-28T17:42:00Z
+    webUrl: "https://www.southwalesargus.co.uk/news/19265691.self-driving-cars-allowed-uk-motorways-year/"
+    type: article
+    provider:
+      name: South Wales Argus
+      domain: southwalesargus.co.uk
+    quality: 24
+    images:
+      - url: "https://www.southwalesargus.co.uk/resources/images/12551015/"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Self-driving vehicles to become legal in the UK this year"
     excerpt: "Self-driving vehicles will become legal on the UK’s roads later this year, albeit with some initial restrictions."
     publishedDateTime: 2021-04-28T13:53:00Z

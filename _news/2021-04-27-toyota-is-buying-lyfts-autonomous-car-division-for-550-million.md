@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/26/22404406/toyota-lyft
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/26/22404406/toyota-lyft-autonomous-vehicle-acquisition-amount-deal"
 type: article
 quality: 142
-heat: 232
+heat: 242
 published: true
 
 provider:
@@ -156,6 +156,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Toyota to buy Lyft's self-driving car unit for $550M"
+    excerpt: "As part of the deal, Lyft and Woven Planet will work together on enhancing automated driving technology safety, according to a release."
+    publishedDateTime: 2021-04-28T16:40:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/toyota-to-buy-lyfts-self-driving-car-unit-for-550m/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
 
 secured: "g5ypl1H9xaDWhApZDLAy36JPFoKCnB8SvcKW/v8HiwpxubIhSWseloCvA4fDZLC+dnZ6GEqnA2/+51k2iHLviXmT0dFR+Z3M7tF8q78PhB7fgZIDtcpaxAU6E0I8PC+NaJ5FtX+bY+eJHSM7bIhOig6BwA+9kox1RNsb6Im60DXwPcsypXj8M3m0FU0/Aw6YbMmb1BgFeWetA1GknfUvvqIkjGU2GLvARR97Dz3M1Kd6EaMrgOF99on+ZNEvHJmp7o6FUcrbDSngGLe5SwgBOekDvbUSbl034KHmeZEPoLF7sR7TD5DDuRKVBXEh4/D8gXTy+ysf98DXrBHPN0MOWAGpT1bJwLg2NJXcP08ycWQ=;VHCwo8JxS83tLdITJSzgRg=="
 ---

@@ -43,20 +43,15 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Machines Learn That Brussels Writes the Rules: The EU’s New AI Regulation"
-    excerpt: "Europe’s new AI proposal sets out a nuanced regulatory structure with several important innovations. But the initiative also appears to have some surprising gaps."
-    publishedDateTime: 2021-04-28T14:51:00Z
-    webUrl: "https://www.lawfareblog.com/machines-learn-brussels-writes-rules-eus-new-ai-regulation"
+  - title: "Europe Artificial Intelligence (AI) Chip Market 2021"
+    excerpt: "Chip Market in Europe is expected to grow from US$ 1.25 Billion in 2018 and is projected to reach US$ 16.04 Billion by 2027; it is expected to grow at a CAGR of 33.0% from 2019 to 2027. Europe Artificial Intelligence (AI) Chip Market study by “The Business Market Insights” provides details about the market dynamics affecting the market,"
+    publishedDateTime: 2021-04-27T09:44:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/europe-artificial-intelligence-ai-chip-market-overview-on-research-methodology-primary-research-secondary-research-and-company-share-analysis-model-etc-2021-2027/"
     type: article
     provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 36
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/49068069128_a42f87adaf_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 49
 
 secured: "pNGePShqTaV7TVSuE3iH55mj7p7Ams00H3wZyScnfOLhiwqLNwSJONFlpxij9V1GZ+/IB7iFH+ylkH5yKbbDCds6VDblu/nbqADaG2KxjqM2R0U5LmPmcsN739lFJTNU7gpyWdyW7sWB+FI/7EPU9nnvYk/pT3AcruTb0OLgeqxf7/+qe/tCftDxfPtGTBiP9HnJWJq9T8LjydBKS7GsnHr6FZoH9DQoiOb45EOPr7zHEQhioOKjLyVjA+2a5XFGF/GQiYijyzjGCagCaGVczF/Hk/RoBjoI4Xuqkz9kw3SnESOGyZfIft2z16P3ehnag/EstGgsUT1xbrWLRYFJFn8OxNZq/WYdSl+18TuAMXKx2Br4JomqJQLEgQIaMME74VsBUnlhX2tVELf9j1alK6yAe5Ws9gAX4t8d/kijaJ0f1KxrzfEnZepC73H6SRnzpsLJy8qFXJ1RZi1/oBkbUWdr5c9yrpC0/bRXYzLXuNyFF6LE+sYdDrqJNJ4cxXjfrc8uR5HZskaX5UD4pyavFw==;ahwQLN2P8lPbMDn74qq9Zw=="
 ---

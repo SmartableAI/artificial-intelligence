@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to detect wrist fractures"
-    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to a study published in the journal Radiology: Artificial Intelligence."
-    publishedDateTime: 2021-04-28T14:55:00Z
-    webUrl: "https://medicalxpress.com/news/2021-04-ai-wrist-fractures.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-    images:
-      - url: "https://scx1.b-cdn.net/csz/news/800/2021/researchers-use-ai-to--1.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Top 8 Challenges of Artificial Intelligence in 2021"
     excerpt: "Here are the top 8 challenges of Artificial Intelligence which businesses have been facing in 2021: Currently, one of the essential factors that cause worry for AI technology trends is the very vague nature of how deep learning models can predict the desired output."
     publishedDateTime: 2021-04-27T05:10:00Z

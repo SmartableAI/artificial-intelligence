@@ -157,7 +157,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Toyota to buy Lyft's self-driving car unit for $550M"
+    excerpt: "As part of the deal, Lyft and Woven Planet will work together on enhancing automated driving technology safety, according to a release."
+    publishedDateTime: 2021-04-28T16:40:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/toyota-to-buy-lyfts-self-driving-car-unit-for-550m/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
 
-secured: "nJiFIXuSEIzWrej8M5cdIou93MoCzScKtcx4eStvZShgmh6WZmaiqT+3VsrfHXg9jMvHl6XvT2rc9JyrUjL1WXrb+AkjLMCsVRb2oUi/aXFJZLdS2y49a6lkZBCuSOspPE6PZzy2SVXtuYaKCV0jYvwN2xntkIde8SkUAcwytRJDXWFMZYUfR9hCuea2D1XbOmNg/g3dSxupTSG9/HHIrqMyhtYcN223dV1zP+qCpXU8dsrl3HYf4dw4p8hkAby9jOB6+3WlO64MNEvnzqdMfFAyIBA9VX1WPoZBlzAU5i02LKEio/qFq6hSATue5PP9gN93eit3CV+uxfcSsjXMCYyy3btbXY1W7Vi+mMTaOJA=;YvvcrEjXz+pGmK/8RsiSHA=="
+secured: "hhb4tiqz3knKz7gcX60MwZBSUqTLKv9UpcQ6PilkcL5K3w8r8c+cUtibb3eu5KL1sPA/6+Ippsvkxv0xxOsxFx3DEf9Spa+JWNj0nMD56X9P4s3VZaWdeoSGScAR630DodJuCgmeeujXtJg/eS/M2/ChnK7swBVnCnMt1R1qYBXvGulirG4bNu42T7ecW9TVYypx8Wrd6xf3TTWGSxKLwzB7Og2VOcxgoijjH8wTpPj29EbTaWsz1KHJiUFxGEGbHWXkUl+x4WeDdmbnfJ3QDv3LoR5YhyxfyyVn8jy9ZKcyYSPLmzUHTbB1ceD6xuhEVVGC8eoW4CdO8UD9TlarjgedYyHjqnJxtS4699BaZx2ez82uEw4s/gXeNpZcigHm1fuYtmd3uveH/CwLcnALph935xUAgYv6el8rFCKrBpCKUNM6Ohst5ZoyxmGQrqKgo7108cJrIlEeRzFTHZPG6kg/jkYB1YnvhL9ojGz4+kG+jMYBgDvsemYhCM/bRHK3J2tSW3GcisVakSoYiPVp7A==;iJpvt/HVCKSZIUGSb9mhVw=="
 ---
 

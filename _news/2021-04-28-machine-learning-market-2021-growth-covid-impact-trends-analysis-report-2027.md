@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chip Industry Analysis and 2021 Future Trends"
+    excerpt: "Infinity Business Insights has announced the addition of new research analysis on the global Deep Learning Chip Market to its vast library, Offering Insights for Deep Learning Chip Industry Over the Project Time Frame of 2021-2027."
+    publishedDateTime: 2021-04-28T13:54:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/global-deep-learning-chip-market-top-10-key-players-in-2021-amd-advanced-micro-devices-google-inc-intel-corporation-nvidia-baidu/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 56
+    images:
+      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/logo-infinitybusinessinsights-1-156.jpg"
+        width: 287
+        height: 218
+        isCached: true
   - title: "Know in depth about Enterprise Artificial Intelligence Market - Growth, Opportunities and Risks in the upcoming period 2021 to 2026"
     excerpt: "The study on the global Enterprise Artificial Intelligence Market is an amalgamation of various insights that can potentially shape the future of the market The report is equipped with information about the market that can help investors and players identify"
     publishedDateTime: 2021-04-26T11:11:00Z
@@ -50,22 +64,6 @@ related:
       - url: "https://cdn.openpr.com/U/4/U426937715_g.jpg"
         width: 480
         height: 340
-        isCached: true
-  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
-    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
-    publishedDateTime: 2021-04-28T06:46:00Z
-    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
-    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
-    images:
-      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "3RLvg8gpjBvX+ztESgkA9fsnW1VRvKwTxy3N6cuPkWsPYsRpPHFgBxPthxhw3gLbYon2X3YWSWjPd/mBZC5TEIBEUm6L9NVsUGzwIkYC4X59gusluDZ19KSNX2zjTqcfrNnkFYU0BZAiclXRiY5lTs/1tMTn/NARDQhUu3O4PJBwr+uLCGAKhLnPOm7UkkFlpBmDKp78pqgr4QmH7OevtNRogEhtutDeCHeJzDPDr4MoMhXdd8Y0/qRc9QLPrDEiCy3vEmY3L8SRnKsvhGeXyNmthoLYtXt1LM9jil6DiEsqC4zf1X81Y1ggRSv2z6+oFc+IpOUz6XZKHO9c7lDwAJh1LSpqMfcFJNWxndk8xMY=;UAEkKRRIATuawJA/kYNyjw=="

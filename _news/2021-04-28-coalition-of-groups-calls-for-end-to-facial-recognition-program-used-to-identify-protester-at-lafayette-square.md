@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Increasing use of facial recognition technology in China faces backlash from city governments"
+    excerpt: "After being highlighted for misuse on China’s annual Consumer Protection Gala in March, several cities in China are tightening the enforcement of regulations on facial recognition."
+    publishedDateTime: 2021-04-28T16:08:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3131442/increasing-use-facial-recognition-technology-china-faces-backlash"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/04/28/7e577dd1-4bbb-488c-b35c-f30b45c82b4e_fec3a579.jpg?itok=Ep94EP2D&v=1619603119"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fight over facial recognition technology isn't over yet | Opinion"
     excerpt: "Last year, the majority of the pictures Detroit police used with the department's controversial facial recognition technology came from social media. This year, images from social media are running a close second to images from Project Greenlight."
     publishedDateTime: 2021-04-28T13:41:00Z

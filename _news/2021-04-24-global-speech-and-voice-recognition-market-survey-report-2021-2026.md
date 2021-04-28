@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-
 cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,37 +27,78 @@ images:
     isCached: true
 
 related:
-  - title: "AI for Speech Recognition Market Size, Increasing Trend Diversity, Analysis, Future Scope Analysis Featuring Industry Top Key Players By 2026"
-    excerpt: "The AI for Speech Recognition Market Research Report aims to provide insights that strongly demonstrate the market structure, scope, history, potential, and developm"
-    publishedDateTime: 2021-04-28T04:29:00Z
-    webUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/"
-    ampWebUrl: "https://www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/ai-for-speech-recognition-market-388703/amp"
+  - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
+    excerpt: "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe"
+    publishedDateTime: 2021-04-25T10:37:00Z
+    webUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853"
+    ampWebUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
     type: article
     provider:
       name: express-journal
       domain: express-journal.com
-    quality: 39
+    quality: 69
     images:
-      - url: "https://www.express-journal.com/img/img-5.png"
+      - url: "https://www.express-journal.com/img/img-14.png"
         width: 1042
         height: 625
         isCached: true
-  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
-    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
-    publishedDateTime: 2021-04-27T16:26:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
+    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
+    publishedDateTime: 2021-04-28T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
+    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
+    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
+    publishedDateTime: 2021-04-28T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
+    publishedDateTime: 2021-04-27T14:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
+    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
+    publishedDateTime: 2021-04-27T16:24:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
     type: article
     provider:
       name: express-journal
       domain: express-journal.com
-    quality: 38
+    quality: 11
     images:
-      - url: "https://www.express-journal.com/img/img-6.png"
-        width: 500
-        height: 300
+      - url: "https://www.express-journal.com/img/img-3.png"
+        width: 1044
+        height: 625
         isCached: true
 
 secured: "RYAwvDBukuKEA5FYsmQ5NEbF4qBHbbugYYvijOFJpBkcv8XrGX8uBJtlIa9ts/ID1xwqlEPlyRpZB7BcUFSZTODottsfwpg/6K0YpoWrEROeuV/5W0MDuv4T+m/sjHSUI7EAhQfPnWGT/R+irApgLezMfO3nuMvHXirVWVjpWpUBuNfAA04dFAtNtN1J56E9FSSBJVGvTIHH41hv3HditBiUa9kpB/GXFnV5LCRMH05ztlmToP1uprBeBt9Mo9S7Nt/ywkAXM+d3IUyIb3RBIxpKFshAeViFI908Kqy7Is2Z+nqnYd8+ElJNQC59wRq59vpsvxJhMyFCExn+2CTeAssY03359nZuFABY6NI4iwd78VFRd+GKlmcf+Inuc7MkjPdahtpwenYO3XYEm2wXiGwhKUpNGbjnVFbDFm1fv4XVuPFqkHelzvaIPa5+Jbh3rpzoyK0NHb5zCQLAIVnVp4P3QrqtMqAZBKQKT37l9Skmczv4ObSviZE/3VyWuWFoKkNQUGEpRKaD2Rgt81BrUw==;La3ZfzPmlkhRqLp58RUDWA=="

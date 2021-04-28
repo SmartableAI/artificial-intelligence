@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/formation-launches-ai-driven-sale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/formation-launches-ai-driven-sales-offer-optimization-platform/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 700
         height: 517
         isCached: true
+  - title: "Global Machine Learning Operationalization Software Market Factors Details and Comprehensive Research Including Top Companies"
+    excerpt: "This report can be used by market players to learn about the competitive landscape and the level of competition in the global market. This market report includes a comprehensive evaluation of the market’s growth prospects and restrictions."
+    publishedDateTime: 2021-04-27T12:59:00Z
+    webUrl: "https://ksusentinel.com/2021/04/27/global-machine-learning-operationalization-software-market-factors-details-and-comprehensive-research-including-top-companies/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "cbWd+gcH6M1C+HtKPcs0FTiJapJobb2IhCEciZESjiiVdhdz1gG7qt+gldkoyaP461QSDHd7GL78Vu/0PjfaloDprPAsz+KHeOsZLhBmMVppp15LbF+uvOYXt4GhOCQhvLymw07uvVWg62r2IriMOiYC2ur+5twyE91QaoRqMM/kbGdrg8/TBrOXSP6/p5s/i274HR5l1V/4mIj8onEd6clVyh8KaQfvMxuYTj7MJsoQB1MVut2/WRZ05ObWp39PSNyci2Jl6Zftoiq91hllhbON4xs1sbTC27bDrwkRVRa1cXq30IUmuGxOLqrQPm5gP76/RGWmgtHorvOmpxBq7VdI6tI1kgCmWt5/m+hRviE4Nf5fho7gGc9kdcjCaNJAe/2Enn+w/wNID/az/oCzXkrhZLZOWVLJwEEt4VEDtYaPsDrHERJR5HdxQXjVCrZ/FRmqjfpXAj2HbhZ1Ru0fUVUHzczEA5/CvFXYEjdE48og07OXv8vS6MTjQSDgtPytg30NVVsEsPgR6fgtkWYivQ==;cbRIGNasZVds87ksKoXH7A=="
 ---

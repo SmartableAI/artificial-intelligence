@@ -27,105 +27,79 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
-    publishedDateTime: 2021-04-28T07:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
+  - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
+    excerpt: "Latest Research Report on “ Computer Vision in Healthcare Market size | Industry Segment by Applications (Medical Imaging , Surgery and Othe"
+    publishedDateTime: 2021-04-25T10:37:00Z
+    webUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853"
+    ampWebUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: express-journal
+      domain: express-journal.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.express-journal.com/img/img-14.png"
+        width: 1042
+        height: 625
         isCached: true
-  - title: "Vision Screeners Market 2021: Overview With Detailed Analysis, Competitive Landscape, Forecast"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2019. According to a new research intelligence study presented by Future Market Insights (FMI), the market for vision screeners will continue to witness an average 5."
-    publishedDateTime: 2021-04-24T07:09:00Z
-    webUrl: "https://www.globalbankingandfinance.com/vision-screeners-market-2021-overview-with-detailed-analysis-competitive-landscape-forecast/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/vision-screeners-market-2021-overview-with-detailed-analysis-competitive-landscape-forecast/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/vision-screeners-market-2021-overview-with-detailed-analysis-competitive-landscape-forecast/"
+  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
+    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
+    publishedDateTime: 2021-04-24T01:24:00Z
+    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
+    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 47
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/report-2-13.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.express-journal.com/img/img-10.png"
+        width: 500
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence-based Security Market Landscape Assessment By Type, Opportunities And Higher Mortality Rates By 2027"
-    excerpt: "The report titled Global Artificial Intelligence based Security Market Size Status and Forecast 2019 2027 has been recently published by Researchmoz us The Artificial Intelligence based Security market has been garnering remarkable momentum in recent years Demand continues to rise"
-    publishedDateTime: 2021-04-26T16:06:00Z
-    webUrl: "https://www.openpr.com/news/2275678/artificial-intelligence-based-security-market-landscape"
-    ampWebUrl: "https://www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2275678/artificial-intelligence-based-security-market-landscape"
+  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
+    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
+    publishedDateTime: 2021-04-28T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
+    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 47
+    quality: 27
     images:
-      - url: "https://cdn.openpr.com/U/4/U426217659_g.jpg"
+      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
         width: 800
-        height: 564
+        height: 400
         isCached: true
-  - title: "Chatbot Market Industry Demand, Current and Future Plans by Forecast to 2025 | Says Kenneth Research"
-    excerpt: "Global Chatbot Market AnalysisAccording to Market Research, The Global Chatbot Market was valued at USD 858.1 Million"
-    publishedDateTime: 2021-04-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/chatbot-market-industry-demand-current-and-future-plans-by-forecast-to-2025-says-kenneth-research-2021-04-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "The global “Cognitive Computing Industry” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-04-25T15:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Latest Revenue Data 2021,Global Trends, COVID-19 Impact and Forecast to 2027"
-    excerpt: "Apr 25, 2021 (The Expresswire) -- The global “Speech and Voice Recognition Industry” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-04-25T15:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-revenue-data-2021global-trends-covid-19-impact-and-forecast-to-2027-2021-04-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence AI In Automotive Market Industry Share, Size: 2021 Market Research with Growth, Manufacturers, Segments and Forecast - 2027"
-    excerpt: "AI in Automotive Market size exceeded USD 1 billion in 2019 and is estimated to grow at over 35 CAGR between 2021 and 2027 Artificial intelligence is increasingly being adopted in the automotive sector to reduce human error and human"
-    publishedDateTime: 2021-04-24T10:46:00Z
-    webUrl: "https://www.openpr.com/news/2274959/artificial-intelligence-ai-in-automotive-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274959/artificial-intelligence-ai-in-automotive-market-industry"
+  - title: "Artificial Intelligence Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
+    excerpt: "Global Artificial Intelligence market is estimated to reach 196 7 billion in 2027 by growing at a CAGR of 25 2 during the forecast period 2021 2027 This growth is attributed to increasing research and development R D owing to"
+    publishedDateTime: 2021-04-28T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 14
+    quality: 22
+  - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
+    publishedDateTime: 2021-04-27T14:39:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-financial-markets-business-artificial-intelligence-96c5324912a14365a273affd92d5bae0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "oD4jV6FeBwuaY2c00Cqb/62zUWiqf49OJcGKXc47yD3uKjTi7FmTFD6jtJBIoFdpigQx26aYnJ85vQ88Qx395qhm7oj7qjhPCv2NsJxG7z40Q2pddWoJt+Ul6JXpAzjCRylWjO9caDcg51n63F3vRX+tBikbcbYP33EjH1LXTSpmXQHrASHIvRZvdFwIcj8f8Dhb1jXRScKx5eB1Jwv/maTOr0PJt5G4bFTKeulnck7f8npSqKzwcKo3Mw1Ls6yAvE5b8Wvvyesf4iZlncoUyZ+G+Fo3egsy7owsHJi0/0dU+LHZ8+m30r8hxEnjBtX9C6GDvTE4gTcjlHZdnoV74IWIdDXVBkbBFQEe852zM0o3mFIWQ744F/fpTjz1/GIO+OtG9FWkkW6WRe+4feNsJ6m518cRlE4JtKzLV4uEIEnfx0UUXW/Btha8wYqGGF39w3KbhGIIJIKmqPeh5EOZwIlJW4UZ0XJuqTf91ac1c9ZUstIDRDkbMhurRMcupLOu9RfG9IDEem+qR2ph1N/X5A==;M55M+KUpTcgIGBZicqdgMg=="
 ---

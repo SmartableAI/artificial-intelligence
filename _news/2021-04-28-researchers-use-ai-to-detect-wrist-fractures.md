@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Top 8 Women AI Researchers To Follow On Twitter In 2021"
-    excerpt: "In this article, we have listed down eight top women AI researchers to follow on Twitter. Fortune Magazine called Joy Buolamwini “the conscience of the AI Revolution”. She uses art and science to illuminate the social ramifications of artificial intelligence."
-    publishedDateTime: 2021-04-24T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-women-ai-researchers-to-follow-on-twitter-in-2021/"
+  - title: "RSNA: Researchers Use Artificial Intelligence I to Detect Wrist Fractures"
+    excerpt: "An automated system that uses artificial intelligence (AI) is effective at detecting a common type of wrist fracture on X-rays, according to"
+    publishedDateTime: 2021-04-28T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-researchers-use-artificial-intelligence-i-to-detect-wrist-fractures/article_dc085632-0ee3-5da6-aa5d-b122e5e64e89.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 40
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Untitled-design-26.jpg"
-        width: 1600
-        height: 1131
-        isCached: true
-  - title: "Top 8 Challenges of Artificial Intelligence in 2021"
-    excerpt: "Here are the top 8 challenges of Artificial Intelligence which businesses have been facing in 2021: Currently, one of the essential factors that cause worry for AI technology trends is the very vague nature of how deep learning models can predict the desired output."
-    publishedDateTime: 2021-04-27T05:10:00Z
-    webUrl: "https://gisuser.com/2021/04/top-8-challenges-of-artificial-intelligence-in-2021/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 37
-    images:
-      - url: "https://gisuser.com/wp-content/uploads/2021/04/AI.png"
-        width: 1202
-        height: 601
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "grFiqh8mpTNcrTPoljHAtypwRgZOWa28+dDF1eudz4/UhUF6smKDCMTsL9BT62Tln5EUiEGamdp7ZFF0zFUMLTmEou12S9tdiSAOVP0jAMqrcKU7D51hzsYk8jpK1Pgm+AAJgsGdea7SRKQ4o0fuR/w7OLYkCYvPbhtNhh3nJ4RNDxKV6wk9BJ+3IL+qoxnA5S8Z0voDht3Pq+lvJJWF9HVP7Tmhtlxj+ZbDC6bTbooiwb5rhB/3beqOhI9gu79n7thEWbB+C4YdaySf4Lrn5LOJD9jxlPDaOSCfaHXkGfN9j3JlV47tFHx74f9mLO48ezBKABJeK7QLIr/TalbOlAql2rXPtbzrVIWQiCJk/Tc=;Cr/f2xaJWsUgNL7+C3z0Eg=="
+secured: "g+mJR9JIbMo2LmxaGtWWrA4Lx18ytRy480M8QZAoobPWa3/4PUEX64fXkG/92CZOQZRAa/Svq2f7aqlZexSX2DgwhKyJ7BNI00gkQcKaCloz5UBA5IaHLkJ2Qthas64sYiSXYcKOBJK1kl2zj2m1yUXisUKBrt0UCHN54I8B0+x9vGoJYu+vUrF0AAsHxstoLdS5Be4sQ1AZXOukjHmzM3hxyUHNxcSYaxfC3fwGj4TshfxL04GJzOnhKYXxtJu/7wuCzlol0ir0v/XJnurQAPpYqBeuK0ubBJzt+EYQc7ZALdAAt3onr49u8Sj4XUOihdVBU+aOSDCDjyVI5IIxvepQRIjW/OowrwRrj4Uw2WunsAZp+x9GXnC9Fq2GJ0QtGzIGsV/a24cVatm7TfWSLtF1TyDlfx82UHCZKKdBcHhSiJjDaOgFExs8Vgaa8vxrcwmcNpQFYES/2IS7jWCTsmQiOKd/TZbyZzUxO84xDuUhw2hu7KhNFMhRJLG5D4tSx3Xe0mX2gr8nxmn4z4DPkA==;f9dPWkOqc+Dv5pfS85EcVg=="
 ---
 

@@ -114,22 +114,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 14
-  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
-    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
-    publishedDateTime: 2021-04-27T16:24:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 11
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
 
 secured: "EMsK5EI1LG0uybYtV4YU9/Bl60jzG1rxyT40oThhNqviNiZ2ZvtZ76unVY5bc+cpHA4QLJ9PeU66LwWqljB6Ocr7PRUoFc8Bf6rqEbZFdyWQgfaO9hqDTyBecbT1hnROcQ4yCWhQB/RV5ignI0uEu+ee9CwnG/MFM29M87+x/EgT3nkpX4avdmNFYqS97UmWf72JtfwsABdBVzp7MRMXgTI8RdoMZUMVe0cDjO0W1HWkvM2WRw8RcOGi9OpdGyCpinJsMHKWErltVedAKCkrnlVSqP+IngBGxG9XXQgNiNaeibtzxE50A6ffEetWNposuIVddq8DJC2CZy/M/9lN0X14a/f0hngBxO0nq4v0fy8=;yHmd8wsjCIa9yo5N9CIdsw=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "COMPUTEX 2021 Hybrid Embarks on an Intelligent Journey with AI Tech Giants"
-excerpt: "Asia’s largest ICT show, COMPUTEX Taipei, is rolling out its first in Online-Merge-Offline ... COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year,"
-publishedDateTime: 2021-04-28T07:30:00Z
-originalUrl: "https://www.businesswireindia.com/computex-2021-hybrid-embarks-on-an-intelligent-journey-with-ai-tech-giants-72702.html"
-webUrl: "https://www.businesswireindia.com/computex-2021-hybrid-embarks-on-an-intelligent-journey-with-ai-tech-giants-72702.html"
+excerpt: "COMPUTEX organizer, the Taiwan External Trade Development Council (TAITRA), states that AI is one of the hottest topics at COMPUTEX 2021 Hybrid this year, especially as 5G providers inject new momentum into a variety of developments in AI and IoT technology applications."
+publishedDateTime: 2021-04-28T08:43:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetails.asp?id=56249&cat=Press Releases"
+webUrl: "https://news.webindia123.com/news/press_showdetails.asp?id=56249&cat=Press Releases"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
@@ -34,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6lf/IB0joscOgTabYIQciXgHsmm64e8mIqBWHa985yiu8G5DJ0MeniGN3fJGydxPq9CveoUrIp0dm25UQHYhchfFidlumZak8bwmkjbD/++AApFo/RYQ5K2KEZ06wNMnMOJ87f4zf9aK9mAMhhOL+W8ClXUbpz5/KkKB60hb1FbLUthj1j/Zt3Gmlu+4toEs6jZECPJudxXCAS8cDb69eykcznDg0ahg/Yzvp6xGUdn4xND4Rn/IKvg3tkg5udP4kksq6MK8avZz5zkmuMenLQcfJ0OvWPAuOg40ku1ODMSYPPHVHnHvuZLYLTPPhlB4IQIk08ukzV1ouEa0lNuZgBvqrcBlCK6Ckr3B5bUTEGI=;tCUbv78L/ugcHmqfV/B4CA=="
+secured: "SsukfLWXI0+55N+5OZdIaI5XvxyWMzVKg8QPCi0jGcoRtvggK0ZZFTrtm7GIIbTFKiviVSW3wT6P+eGklrT3aAZZzPkCkhSVP4UKbwgh0Q3fDoaJU2KWpbFGojtpzOIO2/6vsEK3s4Nvi5pKKGhD6+kyxcEFREHGl4jTpQRgz6YBAD30myZZM6kSbSyYg77MUWFVcI+d7eEQ+rjrqKPXQsxdnelewYNGp4F4hK4Na5LcWL0T84Dd4OI/d0nXifjhgBKqp3d4CtLt4xecKu84BPQhAX00ygh5e6Eurqw1Gnbw/1KGZhgy5G+ZYkT9xJdbr//TP5BetUl0QPlEQonj+KITsTEPgOHEZuLpxemQl1o=;43s3C1+gWyKjAkYtxJQowA=="
 ---
 

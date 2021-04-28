@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Research on Voice Recognition for Automotive Market 2021: By Growing Rate, Type, Applications, Geographical Regions, and Forecast to 2026"
-    excerpt: "The recent analysis of Voice Recognition for Automotive market size has been methodically put together to impart an in-depth understanding of the ke"
-    publishedDateTime: 2021-04-27T16:24:00Z
-    webUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399"
-    ampWebUrl: "https://www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-for-automotive-market-388399/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 11
-    images:
-      - url: "https://www.express-journal.com/img/img-3.png"
-        width: 1044
-        height: 625
-        isCached: true
 
 secured: "cjm7IYCyvbc11qKLeF73rEOWBuaMg7GdXYMCZ07KOkz7/DF+sx+93CpD4R3o76N7CbtS6IjJYSlmyBsQNu0VL15V8zRRzOyitOwLmUELhKisLoqab0RORMEYwMDLiH/AL7deA1N4cHZjiY+RYjRQR7btNMyPIKTYIWbVCqa8mGMwgsIfuru1P+ApnJHerF72IVunX26ZFhhsRued8jn2isCvm/euDRL5ALrDFAfBGmYMu1Mg/VFQimpoaymyFYuVKKnh+xOKWXclEEUBj6Ndmx1AEgefr3vb7PDTYKz/wLF1rVjGVD+WlQI24i6Lt18NERBFrOZ+afIt8IaLJAOsn0h9+eFhkjuahCLQD7fEgnw=;pcLTsqxrwoeHcxFKvOLutA=="
 ---

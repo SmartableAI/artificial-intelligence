@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-28T12:20:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/robots-arent-taking-over-the-world-yet---artificial-plus-human-intelligence-is-still-the-best-combo/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/28/robots-arent-taking-over-the-world-yet---artificial-plus-human-intelligence-is-still-the-best-combo/"
 type: article
-quality: 36
-heat: 36
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg"

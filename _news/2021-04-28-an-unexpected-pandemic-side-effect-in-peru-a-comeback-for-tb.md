@@ -2,26 +2,26 @@
 category: news
 title: "An Unexpected Pandemic Side Effect In Peru: A Comeback For TB"
 excerpt: "Before COVID-19 hit, tuberculosis was on its way out in Peru. But COVID-related disruptions to treatments could mean the rise of drug-resistant strains and twice as many deaths."
-publishedDateTime: 2021-04-28T12:42:00Z
-originalUrl: "https://www.kpbs.org/news/2021/apr/28/an-unexpected-pandemic-side-effect-in-peru-a/"
-webUrl: "https://www.kpbs.org/news/2021/apr/28/an-unexpected-pandemic-side-effect-in-peru-a/"
+publishedDateTime: 2021-04-28T16:42:00Z
+originalUrl: "https://www.capradio.org/news/npr/story?storyid=988742791"
+webUrl: "https://www.capradio.org/news/npr/story?storyid=988742791"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: KPBS
-  domain: kpbs.org
+  name: Capital Public Radio
+  domain: capradio.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2021/04/20/photo-2021-03-01-10-53-29_1_wide-46ad57ce3cc17b0c7b94fe236bf17d958225f854.jpg"
-    width: 1338
-    height: 753
+  - url: "https://media.npr.org/assets/img/2021/04/20/photo-2021-03-01-10-53-29_1-8a5a3fc77844caf59610546d8c1b00ce1b6f2fad.jpg?s=6"
+    width: 948
+    height: 711
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 240
         isCached: true
 
-secured: "nxHoH1hvbAMaFGksjqtNmglIQOI+3mbccFFJ2k93Ve4lqOEE3qJUcsGoKiVTSW4YHlmBanDq4Kuv6xxBYDhSGQssSGBpGUAWXzkuUFE7QLQD7abCwLc3YWnl4Sz0Hp8hnZbDqWNnoUtpxYMPgsyKodiq2XvSkqel7x5RplkMM7jBTTux8OPQNTR7GTtlZQ62Y1Zv9c3SHGblyYayy2OY1uFdOrLND1rWLyfvoD8WrVuLCDrlyZxmbRHm2XpRrf/9i4j266r4sZjhIF7Wci523fNJrGSd0XOvR/ha37ro4FC3Z3pAs1wEn7uIoP4xdT83mq2JagCtoBzndhcEp88VdrHuSpkc4lUWtW0Fyun/ckBJxZTQveFFpzcMcHKIENesGNdRfWFXzaeY0rKj265gQYgIA15lA/0fXdgAruhPtu3gZYYrxOWcXtKFDdp3hQrM5XlUEOVsHMOeunye55oZJZ4ydLzh8ciAooDGP+Aid1GJC1oz51fZbaQLcFqU4PZ4FInSui0lz5yhw9DjDlzPVg==;zm3p9hlAk1xcBkEjXZ/TAA=="
+secured: "XCrQRgMoAjhQ/b/exZZs/Cs/hOKA+f6yO1agIU0yAIWuB6LAJ76ebhNyJaoDA3lUu09n3zDat5Xh2gqu1iQiM3nWzokkoAzzNJgLWYWlO02GoD9hek8KqOx8e0LP3Klk824FpPANbVxhrI2NmeKcPxh9NPeKthb/DltXOvQk4+jNwpFfyS3b8MwERALeL+0bB3e9jft0jCcHbN6V6VwRX0FiWggBBz7EAwR9GxoNhwCLYFbW+OjkUqgudVbH3XLmfZoqNRMjHkP9dCL/5aqIBNxHtvF9yt2TD06kEZygHFe1fpjrvoCdz10GUAT9fCr4TE9itJzeonXHQMMD2Q394WbPuG0jQ+PVo7YJekmVmM0=;j3/x2ZMS1Q4GcF16VYOXQg=="
 ---
 

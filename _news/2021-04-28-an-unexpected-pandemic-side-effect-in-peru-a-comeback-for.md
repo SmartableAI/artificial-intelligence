@@ -27,19 +27,19 @@ images:
 related:
   - title: "An Unexpected Pandemic Side Effect In Peru: A Comeback For TB"
     excerpt: "Before COVID-19 hit, tuberculosis was on its way out in Peru. But COVID-related disruptions to treatments could mean the rise of drug-resistant strains and twice as many deaths."
-    publishedDateTime: 2021-04-28T12:42:00Z
-    webUrl: "https://www.kpbs.org/news/2021/apr/28/an-unexpected-pandemic-side-effect-in-peru-a/"
+    publishedDateTime: 2021-04-28T16:42:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=988742791"
     type: article
     provider:
-      name: KPBS
-      domain: kpbs.org
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 24
     images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2021/04/20/photo-2021-03-01-10-53-29_1_wide-46ad57ce3cc17b0c7b94fe236bf17d958225f854.jpg"
-        width: 1338
-        height: 753
+      - url: "https://media.npr.org/assets/img/2021/04/20/photo-2021-03-01-10-53-29_1-8a5a3fc77844caf59610546d8c1b00ce1b6f2fad.jpg?s=6"
+        width: 948
+        height: 711
         isCached: true
 
-secured: "biB7jFqEFeLESOSIL10r26+4H6jhyVWCq4yij/eEQd2i+Vng0fYgORvR9IWHdsUe6Ff6hoNjl09S4gx+MtL5u6wE9irpUvAXFDZC7OZ0Yg0bA+OsHTZ2eMQ17gBMHidOcFMKGN6vXORx3TYEwz1jGDTG0SleUoFGJFA9yfP1VQv49oMEU5C2ZCWrThTy9Hw3dF8rPEl1iRZm1MZ8pcoOJMO1A736NsYVo98ZHTqFfMfV2N9VmVjCYk36+B5Cat74cLXQmVHTMlGiNbn6QVkrUP1av7SiDATgowb/js48U+y2OCGr5VaI+xyoU/Hd4jXZzN3v/xWnDJqrQ5hsQh9MyB8AQPwonDdi/J78+WbroeA=;ohEcAN0mPUcRbWz1vvn+kw=="
+secured: "7qlNgOkIK8qgSIQRgzpnmzXL+QmnsAJH8df9R1OmaWw+RdrF3FJCXV8lKrKj6up8Mw/NCXsVgQx5nVho6vpGg8hRS9nnKGISbFV55C/5mXKpBUQf130vS06T9VqmPv+6fMDB8ujhKGhNKSivXiIbt9X31m2GkYK3aBXCx+bxTel+Kg7L57QC7cvwtCMnJIXH8pe8UtelgFnVuu1BLOKoByGUVQmyXU1s4CinlX1UA9yLmOWRjosFr9h90nnnxRBGFp1riJ2bolh0dYRp6DKe0vtK8lnBuBAdCfhDMYHoQbK0Fow+KU4IO4ZtY3aeQZ2Vnqr5XsN8isTcbCOifkjnhyf83RqF/ai6nFX9ZD00Czp3UEQ0B6wiMnptIcFe/drE9DqpD2kYRtH8f8PahbKd6X+5QQogm/ZujPyxmyirGuBCThINy0qbS8HFJ4afJ02XQtjB6IpXrTDKJsMY+YnI2ryur9z5bRNMpeZSnmIosrTSrr0x4Rm7zqTCQ7Kodn9d7YJtOweRcj96KLHb5d6J9Q==;TMYBiS7gtCoS4biFZPtlAw=="
 ---
 

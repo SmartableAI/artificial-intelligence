@@ -24,39 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Europe attempts to take leading role in regulating uses of AI"
-    excerpt: "New rules would curb excesses while encouraging innovation with goal of a middle way between China and US policy"
-    publishedDateTime: 2021-04-24T04:00:00Z
-    webUrl: "https://www.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
-    ampWebUrl: "https://amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/360faa3e-4110-4f38-b618-dd695deece90"
+  - title: "Leaked AI report could hint at future for US regulation"
+    excerpt: "Greg Nichols tells Karen Roby that the EU takes lead on AI regulation, trying to stay ahead of evolving tech. Read more:"
+    publishedDateTime: 2021-04-28T16:23:00Z
+    webUrl: "https://www.zdnet.com/video/leaked-ai-report-could-hint-at-future-for-us-regulation/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a60dbec-436e-4f27-a657-6a8a07223e99.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Will Europe’s Historic Artificial Intelligence Law Be a Template for United States?"
-    excerpt: "The European Union has unveiled sweeping legislation that, if passed, would strictly limit the use of artificial intelligence, or A.I., a relatively recent technology that has garnered widespread use in almost every aspect of modern life and sparked concerns about the great danger to privacy and democracy it could cause if falling in the wrong hands The EU’s executive branch,"
-    publishedDateTime: 2021-04-24T13:00:00Z
-    webUrl: "https://observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/"
-    ampWebUrl: "https://observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/04/european-union-propose-first-artificial-intelligence-law-template-us-big-tech/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 53
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/04/GettyImages-1131666376.jpg?quality=80&strip"
-        width: 6361
-        height: 3844
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/04/28/22576f2a-6f91-4323-9769-d49b34e7519f/thumbnail/770x578/532ac0654882d8c6e3da1eecfd091578/20210428-greg-karen-leaked.jpg"
+        width: 770
+        height: 578
         isCached: true
 
-secured: "nT4ArWma52/jYt20+NVGJps2sd3NsLgWhnN66geMq2t/LU/GlL6jUxnsB227f6HxbwKYxSQLqyWMYN4Hyft1EaYQBG6AM7ePb/Fv6yAnBbvQeSfWTQyIb8s0Lg3PMhC+5p9jCYxxqAoJjWy6bKiE74HTOhnoZ4dKPcpINwnzqS+nU5pRvFvhzDJVBM6/jbCspOtaY2RJsdNUIGI1B9TxM8ZiZEwVo56pLAdnG/S+wrs35DqRLfGS3baQuN6S8zotpKImVMY2SOKdWy37OTI2qHgmUj5t2JhOboCLbRqcL7DYdZ5IXsLviSPA8DEZL2UzQpyrUP6W13cKrwhOAViWRLt2G6ZrR4pz+dGYCeJCAZI=;4kwnvJfuwLJ8OteEJdpQwQ=="
+secured: "GrKtEOEeK9VizMwjPwRCAHs/IH++pYbCbqh8wlFUlSmGAZGk43C5cT3/J0WvprdPGE8yH7ebmILNrvTVncLdwpuYFDzEKTPGLd+dpmf813M1vq4CcXpRGabF6WgqlCWttmnyYYtOXnRPi6QpfcoFdlqfR7cEdTYu9VYoJ6bwpYbu79RIhOQ4ZrSVuQjCRqzFwY9ZNlIWbkw5X4OV8RJTHuyacLKdiPDKc0qbYOiRqMlY1rRm3lO++pLIYjpvRZXmOVUVMHEDrV7hL5HD2rnaha7L3eghp7YCnG9zTA2pDQABdNiueFjYEWhIT0C85LbP6BuxnKzyicrDuszaMmzewsrYrh9Jfc7OiDB5hLkpbszfW+5GgZoFv5g/5JbryIhTiR2in4RK5+LmGusAynRAYLUSu7S+LxJME15qSFKmdyCYZBoHYISKUa+YTo2jfnMzIu1x0nZ+5CgcShE5auhpo7duSWSZzOGbnV9JETowFlc+wnG4jj84iimPmraKJ/gSEr5m1mF/bEkR1Lf6E9i6Nw==;MN9bhEl5R8/VgGTOnOzYlA=="
 ---
 

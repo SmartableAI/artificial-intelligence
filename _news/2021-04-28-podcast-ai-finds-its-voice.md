@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-sp
 ampWebUrl: "https://www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/04/28/1024099/podcast-ai-finds-speech-voice/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: MIT Technology Review
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/04/IMWT-S2E3-Topper.jpg?w=1920"
@@ -42,6 +43,6 @@ related:
         height: 712
         isCached: true
 
-secured: "JPGN2kKCub4nHQxRT+gRLse3NUiahaBlAF9SNtAbKd3hzDRtef76oQVScd7ytcLx1nhFwcfjS1hVYWir0pZzpKTB3veKMwYMfBNnUw87hASmOXPiT4kCUeKkusu+uGsP9efPwTBVDyuQ+6mzHuDemgoxogYL6RaRYXl/2xcwMBv20U08kXsd/mZilKmnSGl7PMoAIxRlAfzhUF4ecvrPAo5PTLWw7arE2tY2NH8O+JZfmfe+gBI19rFJ4YtDxUhTjM1ehEhaFZtDGA2HIdWprJM5ddlL6wJ/FKjgEeytdG09TVBVM5yzRevabp7yGej7o4lCYXCGHjSq1Qa4xZRgzZlAHbghloRiKkHeV9+B9io=;BUwIophEAkhrArdpB8DxFQ=="
+secured: "GejMIoLPPLmhv0jzbqPX8iq41bttRBc/6mmZxQhTIMeW97OoXWF4wXLsnHB+6Cv4bi+y2xdayuIENUFM1yoFM5ut+0xTTyZTx4agVUryHm7IfaB/Onc/0820VVGvHh4uGvQDPgsbHwpyhpcLR0TxSdxOU258tcP4XX62onM5zRhZO2UvJ7b4u0pnOdthmZFrDA4FFKVVifs1TLTiHJU2Axdwfwh+1ejb7+hcwZWKungT6yZUpRzpaBJjCoEJITPPGL32O+7sY+sTV1zh5wd8jV6BoD53bcJhCHH1e0lK5nSmOZotGEzkdEAj9+Cn1urakn5CaeH/qr4lkJd8Tf9QqZXRwocrtSLzDgws6uw1vk/CA44wPNW3tIL/HcKRY2xDRNWPAGbd7ezDRJRqQzrAnrr5F2W6KcufbuDf2skv9ULBgjkEiZOBk6pApD02teizan1jxfiD6A/wt18d1n0fS7u9/i3Js+uV26SS5fvOQm1ReBLDrv0eh/jUmSaDyme7ufcEYPsEwBCKqHW6encekg==;s35CANRnJpGiuW8160hFYA=="
 ---
 

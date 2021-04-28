@@ -156,6 +156,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Toyota to buy Lyft's self-driving car unit for $550M"
+    excerpt: "As part of the deal, Lyft and Woven Planet will work together on enhancing automated driving technology safety, according to a release."
+    publishedDateTime: 2021-04-28T16:40:00Z
+    webUrl: "https://www.plantservices.com/industrynews/2021/toyota-to-buy-lyfts-self-driving-car-unit-for-550m/"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 4
 
 secured: "LNwRtWRSjkaUsx53KzvUx/AxIHm+JczkGd39yrmsLQCHJTVv4MsSs7rSxJDHwhJUaLtuVw7vFN5gM7RijMNmAvzx3DM7073M+r72ZCMWa71KcNKinZfFMtPmTZZHPQ1LotazWXZydzET6bVMVoCroT3o2Lc9fH7qvbqCzBLZNdmPgoLFQXLIvmMNplY9Y3VAj0QxUX60nZHfgVQVOPiitMB2JFPzfNrtvfowNzalQt+1ypkE8dMQV8yrkEtua3I/1HjrAaWrNZe1lQyghAJKo5T7XOX1oXB8fx9eobj8O64bIXc9dCzfpNGhqGiLheXRIne6aJzDKped5Tl2EwHboKNHfkks29QJK9jTaryYB94SnwZDo7rNQryFnbhTYtKsPfA/6NpeqRv0wgxv7XegmSVlxKWWtoITx0O99i+gRvo1hKfr3DQe5Z07G1yfpku5Oa+SNAvOPH2vQLzzLlBJw6MJ+K9iAT5OXIigVp355+SoL8yYOwO+0CS7zJePKyyLytbykg7kovD3z7GlbqXR7A==;gN+5SRzY0OaOMK0YxZBQBg=="
 ---
