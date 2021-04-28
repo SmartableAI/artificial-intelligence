@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Electric, Self-Driving Cars and Ride-Hailing Will Transform the Car Industry"
-    excerpt: "But the switch to electric is not the only factor reshaping our relationship with the automobile. Self-driving cars clocked 2 million miles of test-driving on California’s roads in 2020, and anxiety bordering on alarm is quietly running through the auto ..."
-    publishedDateTime: 2021-04-23T15:01:00Z
-    webUrl: "https://www.wsj.com/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-328645/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Challenges For The Health IT Industry: Should We Expect Electronic Doctors?"
     excerpt: "Current trends in AI use in healthcare lead me to posit that this market will significantly grow in the coming years. So, should leaders in healthcare expect the emergence of a fully automated electronic physician,"
     publishedDateTime: 2021-04-27T11:00:00Z
@@ -65,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "rQ8hP+IxACIEhSQ+jca6gb6qVdNH6k73LqkJONCBOMEHTNOnNlmYAxD2VtDj9ariCABAN0X5XOULccVNDAXn5KCxmSNZsJsvbofRr12fBLMDMU5kqEg5tAaUwVdY3UNxYlQm9mFB2nKj30myVAL8xvmVvXF4VzOB6NQ+L6OAT94lWGQok52tXXJQpvsTEQQqGv+03oMyw+4FWLp+AFj+9QLD1guQe377wXL3b+bNqU9kLwnHlAoI+E7gnla09jHY/3pjtjPBYO/+25u2EsAsVlVyJSfsDFkXvgur7/wHEhFMrEVVSk0KmvkH5shOGXgV1vrRUfhdZRfvJMXb5Iv7VOuoiotg5uiZ3FAbr0jumQU=;MA5l1Gucf0ypCPAplMOS0A=="
+secured: "6RbwUOtbs/QZk1lPCc5huXqGu98I96nC19kmsAmgwV/6iyF/IvL3pg8M2FWGBgBjv3B74yDAeZ+fCktGCxZcs0SpofB5hlBdWMxQRNJOSrywf+tvP7n53Lztklk/H2ZIrSZLFJZsayuCbi4QWMhVCYAcPfchmoCR8glHeJGUGsc3AjxK1zd27eS/0MFzS6CkXsnSCuFuQw2oFtZUJlWEKmpMKVQP7D6MjAbHePr3i61RHouozFPsQEZiaKtgftsC55klTMIY69jlyRm/ahentaCkTiv05kGAGo66C7Df1M6yqVcswT7YtmhtFLX6AiNxRC7isbySVsOtHf6jcbJCA1rKA4nTK+I3uymyh4O6eb6cdRgoBv+qc0OIdHTjvnCUOi29iPe9EmyyURXMOpDpkRU8rwIkIWE/pCzB/uhsbYqr5STWFDwNrFNjTloEvWOPolYse1QH3SNDmQ75s5AGAqeoq0uQJGdLWy02hegnpfPHyNuW4cXiQpqgVTSQFYAEB3sW6uo4di7aR0yvbq2AAw==;WSq0lH+iUegHahKACWpFnQ=="
 ---
 

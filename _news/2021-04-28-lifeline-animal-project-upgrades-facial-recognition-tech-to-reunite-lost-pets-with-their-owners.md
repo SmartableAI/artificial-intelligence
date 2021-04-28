@@ -41,22 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "San Antonio’s ACS adds facial recognition tool to website to help reunite families with lost pets"
-    excerpt: "The city-run shelter announced Friday that it is partnering with Petco Love in the searchable, national database that uses facial recognition technology. The Petco Love Lost tool uses uploaded photos of cats and dogs and determines if they are in a ..."
-    publishedDateTime: 2021-04-23T14:26:00Z
-    webUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/"
-    ampWebUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 46
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/EPZ3CLSD65CDNI3YO77LZ2SDLY.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
     excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area. “I’m going to sign up today,\" Thompson said. \"Absolutely! We do have a fenced yard, but you never know. They might see something and dig ..."
     publishedDateTime: 2021-04-23T21:56:00Z
@@ -88,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "r/YEO463q+soz7wqI7YL6mjEhdJdwl5YxJQDgR2i1IMZfnil+WSBnt8l/wqokCKXssQz6wc5sP+jcB64lRjeNoCaMTopwpjpy4ehjZiqt0XnwkN0d3Ow2wtjr8pUJkemIlSPirJums5Q4UgTvPaRH9hZVlM9eoP+QRMZtdDZCQN2prK3rxdfDxRW2yYOBzInMZYnDly1dhfik7iYJVtnKI0tQvdsTGVFLQZ+loxqnLl5u1IG/eWGKDy1wzauCIY9kIKP6mi52F3vmUPVZCCh8ZEwFjeSccQdDDPRkD+GvrbYlnc9nAmYgPC9MFJGONOLXMalOSvkl06BPQm6eFgL2D8oBQprGjJbAlIHsAJ263o=;A2IbWQAlmQurEOR+x+/IkQ=="
+secured: "DLGQvGHi0b9XdXHf17A3+9y0cgcaauNK1tfh6S72OlHziPEpTd8ne4FIl6ime8bArrvO1Q886BB4zun1finty+rZaswIoAzi7V0cFoGZ/L89PQn1i5Dmw7hhEJ6w+T9OzAaa79edq+RmTwfze+LP0xejNHzesyp0RNy6BTOUKW0Rvpr2RGKDVWZ2IB5Ekq/O24N7NuB5EaqmnxjtaR0s2TQLmaNaqOUHf5Y2ufgDXYsplGYoyUPcYwnTGbRQdo8QIp55jFyrx3xtdkA9DfHV4TM0164F4ewiHha8hhMh05YfhWfwXcqpPGOVO43ZpujrMIyeojfb2JoOh8wKCeSdTaX0ibIa3XkXNZOQGqHYhara9Renzkh6a3/bgIe99WOKWIaPFfj3cIKpDSY5Xih5Eh3R+L6lfuY7pzeMKbtPA0raA3shlyjbD1KNo0M/wUDwmywUUtcwKhKCpnu1JwkAzhKO5G8YSTKQj75D/K+uiX2Lh6Pj4txZdLlDGhjLzHjPUfiEufi4vMXFWdCu4QlGeA==;zFneOo0PkeE6QMsQ+zz3Sw=="
 ---
 

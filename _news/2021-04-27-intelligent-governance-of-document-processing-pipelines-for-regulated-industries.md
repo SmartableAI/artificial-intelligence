@@ -43,20 +43,6 @@ related:
         width: 800
         height: 365
         isCached: true
-  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
-    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
-    publishedDateTime: 2021-04-23T14:23:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
-        width: 685
-        height: 329
-        isCached: true
 
 secured: "zHSPJ4QQsMuz8UkLw8Zms3BT2lMfEEnM5xBmXdMVEa+UiiJb6Ww0rqF8SdffurhB0PwT5j3I8blajfcrDnrRAlEndYIoaugnWKgerVunp8Oe32jEJ/RvXXUzP8MGY4riVSU/AkKHx+eIA+/wn9nMO9inAYa4QlEHaG5y02LEyXLDn5fLzo8czCOMelerTA4OS4FhoqqPFrbiZv05l4Xozv0dZtfnDVgjxzh9xkSdBu1Db+dQV8VyvQ0Ifm4RgzIqc5/kNYJ0fwlYeN9v38tKWzQh4chSnaPGiQFE94cqUODzBpCRercsd+7anjG97krQZepkJ7tfo+jQ7qmlpyALNiDZvPtWbnoFBIGpRFLdVZ8=;ba+0cGYe8D6LIm/EeVhRzA=="
 ---

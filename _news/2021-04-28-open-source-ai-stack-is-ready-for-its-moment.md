@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/27/open-source-ai-stack-is-ready-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/open-source-ai-stack-is-ready-for-its-moment/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 600
     isCached: true
 
-secured: "yzey3JCWXsSego8MwL08ZM7Ep2PjQqTfRo3HaCH3Py+xxig0pj8Kve1Dygnh4u19SsTpSIruPb9M4soxObt/fQKW9pKryo7KhQm8i2cRw7ALNn+fk9Ztn4UYX4M1mz8dJ+1Pw8XzD7wRZtDyECcRI5zlai789YGMwj+Jc83+1UltxUfDvHuhVaC02CCJLHVyvHw6s76OwyVmElzXSA6uvkKSCSzs7h+UC0aRYgoiG93QyLn52W6JM2MEnMsdvISYccQPbCBu+nX49qkav+hzgbKJoqaaKVWgYBE08daEp4EwYW6TqbEjrTv0+5G5VS1ywIkWy3Lx/lMJJD2owkYSXv1bqaUbFpo14vxyfgcC2fc=;qs2JBIOT/A04pwed+N1mgw=="
+related:
+  - title: "Red Hat open-sources TrustyAI, an auditing tool for AI decision systems"
+    excerpt: "Red Hat open-sourced TrustyAI, a toolkit for auditing AI decision-making systems, particularly in enterprise environments."
+    publishedDateTime: 2021-04-28T01:07:00Z
+    webUrl: "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/"
+    ampWebUrl: "https://venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/27/red-hat-open-sources-trustyai-an-auditing-tool-for-ai-decision-systems/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "Cldqb27DDKaIkmPz6slh1V7D8MdanN1+OYiBh2ROtkwelrEsI3+TNZ4/l7nrFYa/LullkNYgK6L3kYg8pm4VGjDZRy3fue9RVSHUDPIcQUbHIv1++bjX275vJfvSAox0eG3ynJreoi3EGAFQEDSgAbb5RrK9RHuq9z8FNHo3oWq5cfDRS+WXzlvjyE8BBtk6xpP1wVnQqcPJC2MXHs+BpkXd5bk3OiY0qbCt24qd09uC/nKqU5nDVNAvzaam6o9V0x/OJul9N0Z+gmiKGOWs6X+PSIF3o1j97VnKCDoBw0olIGS7/aw/9kef1FRavjSLESF2GSNMFekgSkzcLOVDooBu6+hbWPT27WwPH01AWzyIOr8EJMWGrsDEjBphBOtglkzyO0ebEYm9XfBTDU+6k8CxvWcR0xlRRm3heECS06s5PC1jH4fe53h2AN93uLKSRBsgE06KWHxm5Fp4hwQjsSGm8VoEk9cO2ltlnbsypv6F1D/3pyljrBbPium+j6wXYt29xAQtxLczyYXIXLEpZg==;WPmjkIGLWnudE4Wtw7wLtg=="
 ---
 

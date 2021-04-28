@@ -15,9 +15,9 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/6c/26c30a03-2228-57e3-91f5-7705d6c3133d/6086eed571639.image.jpg?resize=880%2C630"
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ZkQoHLnDmKx/6vcL0wKDLXD/ow39QMIMz2vCfDPpmkfKbM4FzGPUHee7wde8/7QixT2tDmcer4IRJRR+NM1mzT6zAGaQFR0FYWHKqFfH4UbvHt2zIb8EtKMP06Ouag2MPNKKhEf856jShQpQSO4Y737EMtobz1I81U9xUGo9JxA+FQqtor6fRkaeu0WEA4V8dQawvfcXLYeXGIMpw+XsMQQ+32zevWwx5Cp7JkT6FTPhJUa08eTZdgxtuvLKs2fUbzEVy9LEW4S9haHe8dDFWdFX5DhB+UUlvgrJO6K+66Al3mzewO55I57+I4RCnW6PtP47QZxqa6MKa9fOTfiMcx8U/BmD2S1a/HpqgxwKVao=;vRORs+keZRnXHEp1DdJ2LQ=="
+secured: "0QChd+zbl7YyY3UPqy0sEFjW7W3YhSDHl6hMYz5QT6urxAvKmwuamPNB9FMFDLAMy6yeysBrD6oZM5f4UBdmIV4idmsj1IUQFPEatv/FUahft6q9VfhJicmCH5TvkrBMziRcOE4t8LXBemENTw8RfA4pRp2xT4O4+9t8BqtSQS6zsC9IKIlwNyQADykZB6P5UjnR1kXJeyL0EHymkGzi481NdcH0ZhrYiVoS2sGoqCYhUXXmPLiq7xFvL+oRFEJFjJ+5u0qlsxOZG3w6E3/KBL9i03fsLbzRSk0rR5rNFUIP/U11IWlB09Qr30cMQS3HDhEqiaVLsxcd03p1BQoDOs3kvI4SNo8DfWeleE7dFcA=;WH2aBGygLB4hBmhlYOnAJw=="
 ---
 

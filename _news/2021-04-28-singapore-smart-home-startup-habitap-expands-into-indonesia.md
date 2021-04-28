@@ -3,8 +3,8 @@ category: news
 title: "Singapore smart home startup Habitap expands into Indonesia"
 excerpt: "Indonesia marks Habitap’s second Asia market outside of its headquarters in Singapore, following its launch in the Philippines earlier this year."
 publishedDateTime: 2021-04-28T05:04:00Z
-originalUrl: "https://www.techinasia.com/singapore-smart-home-startup-habitap-expands-indonesia"
-webUrl: "https://www.techinasia.com/singapore-smart-home-startup-habitap-expands-indonesia"
+originalUrl: "https://www.techinasia.com/singapore-smart-home-startup-habitap-expands-indonesia#!"
+webUrl: "https://www.techinasia.com/singapore-smart-home-startup-habitap-expands-indonesia#!"
 type: article
 quality: 32
 heat: 32
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "jUOaXQRaKgNr+iQZVacA5zbM2iDktf6LjbVLx6JKDnP7NTCt7wHtO1H4T3wmkAqV5wrL3N9upN4Jj7fliqHpTJa6oGTRWf9KHH4cnDxqyg9xSRbb2do2j8ob1Zl4Azibs+qNGZ+G8kC1TSC1ftsPNq9pjYxCx10WJQmGGkU2hTjnDlVIosD4l7lsvgXQD2LKvVw21a/KeBM0qRAWS7Hifhu8XL6AD6u4USdHpeuurg+hySFtZmWBmytUMg2UExyXLrgdVLXfTIffoGvOlrxEfN9mk2U2NNZ68WiGNNxnJb6pgLfLPOJ7AhgU/m6cx7j09QJkZ9oWF++6zWJ/HK+SXE679gggN4hnVpEgIoqAyqULlO5rGQuACng3peAwwcwt402nIG4ICaA/oymkldVl4p9gwXGNtDBC8FFE7fBJINxHS00qeBxQ3cYqWdRstQs8aUj4AEhN++0OS0an4P6A9yHVGkVnF5nQq6LyFKu1Wj3xaouKgmeIXGsE0rHzBaz/Ior6RWQEvR1PbTPKhWKsLA==;BcAzokyvSy6H1XCKuH6jLg=="
+secured: "6AHoK4I4ir9DrLsEL43xPnnRtLVYTmK6GQqYV2izSv2I1L9zamvFqGEBEF4jAP26nE2HVTH+x5uwYwWv259Qa+pj+euGdf+FDW/dRGsu/gIocpu1Qyak9Ut9Umr2CCF5GO9WklsSiSFnvZkgBz2emA37sCYhe07hyPWFJ47AEehFLnNENFPW4/IMYRpWFbjsw2Ir44d4m5QENO8z6c/+gP+8Vjxvgij1bhVGZy8cAdHWuE6I3l9xs6FiVVxZlnM9d8pFkfh98P8gXttWZbhNKbqCnuil0fmj9cHY8fZZ2tMdrImfol5rI5uycje9nlMKQOHicRy7tqKRAQumYOr/KbHV3N/0t5D0T8KrXklXEZ8pyybYOE4uNI3mcGr1JjHGhOrZV+MihGOVswx39AmvBaF180eJHQ26A/dSvJkpEAt9x39GG0Gf467ExAUkQX+KpIMfHKhR3uvtaXlB3oCZ1U4h/URaxydrhx17ndGkNc+IsS8GuJAquxA0s2vAlRG9+DBzfydjd9aG/p06svpcww==;qPMeCFi6qBCuszL+tGpTFA=="
 ---
 

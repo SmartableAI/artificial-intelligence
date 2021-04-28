@@ -2,23 +2,19 @@
 category: news
 title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
 excerpt: "Additionally, AWS offers connectivity with high- performance cloud data warehouses like Amazon Redshift. About Fractal Fractal is one of the most prominent players in the Artificial Intelligence ..."
-publishedDateTime: 2021-04-13T10:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527"
-webUrl: "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527"
+publishedDateTime: 2021-04-13T12:15:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52558048-fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52558048-fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-008.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AWS AI
   - AI
 
-secured: "U0BSnylAGVzrsCtE/LZ2FVx20XSu7yVlZoisyGzD+b0x0Akt8BHYX/5Z9JCZ9MHZN29F8RLN375NCNsPtwJufc4bAJ5q85kJpSMx9NVyOJ8xr0uj8EWgkwL5qNkg07ZjdQsw4TWmOyJV0PhBH11ZTVXO+hN94XFvH9tfX3+nh+dbO9nzTWaN0qcFU+uHz45qWxMz6MG/gFlGGvDKSLAohorEhVs8+2NYHf67REsmw4HkIkfJnj/Ka+XeyyeaTvHjhdpU8173f8UHlMKIaAeghwhA/7LY9H3ppjTGgVkKJtFq+9DkuytM/TmkGZu7bhlG/tCGXZpKdpucC1oEztO2fhtN0T9QD+LsVz2AjJlp5xU=;7j7LKWmze7h5UfBNUTwY2A=="
+secured: "ZJo9RtqM41v77eoIkUTm/PbLmSlkKAKOOcEMpj8Gw8xlareFAhmIwn3Pjrqb5ftGmqZMob8kmV+f2T2Llv/JSd1OOLKjb332B8cRGKSbuFzT8oURE3lEWzQKr9FGfgz0kfUGbwRw2k3UJ3vPwKsdXj+gXfhKEirDllA9k6CqnusHs3zJhWEumfwQ/eQC/IcsE+OLcFe1ZtZ49QU2T3iaBzUYBpobjeMRSiK+4L4uO78IoUS775xJxfmcr0QTazI+bAEqQy/bJLO0VhLbquF94NMGIWNmKId+s+6KiTOeVyqowp6SfwRZe1y3B1TQGt32eRC6/iKzg0iyHlAah2wgb8qLZF6GvsfU+pBeHZrGA0E=;qHuFrQv88TnLvHdVwuiK3g=="
 ---
 

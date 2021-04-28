@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robotic vision startup Plus One raises $33M"
+    excerpt: "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million."
+    publishedDateTime: 2021-04-27T17:28:00Z
+    webUrl: "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/"
+    ampWebUrl: "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/PlusOne-1083-1440x720-1.jpeg?w=1024"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Plus One Robotics raises $33 million for logistics vision system"
     excerpt: "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots."
     publishedDateTime: 2021-04-27T18:46:00Z
@@ -53,6 +69,15 @@ related:
         width: 444
         height: 333
         isCached: true
+  - title: "Local robotics company raises $33M in funding led by Silicon Valley, Canadian VCs"
+    excerpt: "Local robotics software company Plus One Robotics raised $33 million in a Series B equity fundraising round co-led by venture capital firms in California and Toronto. The money will help Plus One further develop its two offerings: PickOne,"
+    publishedDateTime: 2021-04-27T11:00:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/04/27/plus-one-robotics-raises-33m-in-equity-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
 
 secured: "TYVEgiNd5P6SIJyt/jgpk/Mtq9ocev+EIC9OPVqyN3gXRP5RToc1fv7WDwGTJvN7VVPBvIhnbnSzeYfjU9gV9fzJYVO6DD2R9RqFy5w2ec7Aq9PWiJPhaeIGIWsDaawmTtPi0kVIlhgxegSqjGFq+TbOylRENUmjrRvzlPQpqowQTuRITAGKb/pTHIo9Z5N8qoTbUxI35OInQVLZYwUg02AA19uXELLqJ47b72fRz7rW7OkPjDmcMeuQuF5Jj1eY40UT4nObanHxPFPeWEH/85dPnhCuRVibbl+l0L3jP4hTUbpvBOX9vHAufyUz6r/SxvB3rMBRUm1M9xc8EAdOTdgiUK7m//LQYQdE6hNWfr8=;sFmc2I4EBAeoCcEMYghcUg=="
 ---

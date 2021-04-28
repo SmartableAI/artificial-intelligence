@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-p
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/22/2-NLP-Pipeline.jpg"
         width: 800
         height: 398
-        isCached: true
-  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
-    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
-    publishedDateTime: 2021-04-23T14:23:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
-        width: 685
-        height: 329
         isCached: true
 
 secured: "vEEHtmqNWMcYMZyta32T3Gwn3tPi1CZnUg1CALUDMSbbCLlMlJuue5EdWiyKjfKwQIO+CgSfHV+UROmQIZsBZ75dgKYBXCnAPSgJLdWv79sRhuYz8ETsn5NdGVLi+0H16ByK648LGwHfsx+aA/HKmEk0VwtXiVwhZxs9nqRJv0NzX/fFjTZR+qstBhzmNIX+rXKG9/qjXB4wtbcwGo0JP0lDRWSLN48pzYyKGpmiuN26793PZXCdUGguuiaKwkt+RON5n8Uym3x4aKWe7TH6zUSNNBZEqhVm7Wj4B0trbU80sGA4lLp2F+/QD7KtXq6NiI9J5SQDCfJtvY6a7e4S4XfirxFy12Y/8EvEtxnXIDc=;wdUbRmPj+WF2b+cqr2ZbYA=="

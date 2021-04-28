@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-se
 webUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The UK will make ‘self-driving’ cars legal this year"
+    excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
+    publishedDateTime: 2021-04-28T07:02:00Z
+    webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lyft Selling Self-Driving Unit to Toyota"
     excerpt: "Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million. Lyft will receive $550 million in cash, with $200 million paid upfront. $350 million will be made in payments over five years."
     publishedDateTime: 2021-04-26T21:21:00Z
@@ -57,6 +71,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "X2T9Ea1ARZC1ZMOl525NeB0SOzIHm134puJAKY0VuT3N3MDVU7XDFft4HhCAkEGTM++TvNmVXxgvjPMSQwboL8UkPPUohyBTcJBFp+v81Nkg4K4PKjkOVOMxrBIy7ObSGAGXItfBnStnHzqVRYAymdtPqsdHfosN6QMekukwG28BkqLe7Z15UCMaiEs9x/fVsYi3C6cRmKA/h78rCSnnuVHtmeQcdW5MBCy0e0df3xhTnXCYg/11IRkFCgJ2AFse5/imVZP6iXO1Fv3OM2G4roUC+HB2Mz2z9olnT7RUkWA4mMLTgDKYs1AOwVMkMM8nZNegrr1wRGvWweJpayt2EvWcZvX7nVel4liorMpVH1M=;lkYUgb3gd90o6azZ+rOwTQ=="
+secured: "Zk+6dkZfK2dsoPoWLoUgfQ0aPr0L7yp7av0YispvzSum/7kiPNoIkPiay7HowQW13RIdzXUEf3TOpY21CrmE9abw1XiC4/Dx7nkJ0is0yfwSjfiFoW/xD4wQn3aS8YLIROdqd76spcgAJVnz7N/hTEoIJewaS+1d5PkDnPDqIkWmFyyvEMqfUjlIno03GuCDo0qCgCMhXLkIub3AMx57c0y87+jsprShGV2kjVT8oKZobGvbmiJRxpaaI8XNgQFYWp7MvmIIYofZ+orlA7EWDljbTWj9RK2za6e0sb47gpe/8mIP1LbDJ87L4VTs09Gm3iqbHFpuM7dowmrgtFj+U+/klSuYvo4UL6PcDK4Ev4CQLQmyr8X3Kkp6DqsEOK7+9YWvYZREgyxQb7fDA5hY4SmbkIYyX1NTJUqZwBJRoyJGQqTOt+RPgzFRZh0JEvdp6PGO7WpPm8Ih90BWc1JecJKDIAjHK2oEeW6UZ/G3V3md5ST370aXdeeTwUZVauaAXTGG0z/pxmiIoTYPNc052Q==;bIwsfTQneWA8btZHhCE6Jg=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Computer Vision Is Changing Residential Property Management"
-excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring AI solutions into property management. Property management is an essential service facilitating the balance in the rental housing market."
-publishedDateTime: 2021-04-27T13:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-is-changing-residential-property-management-1030351538"
-webUrl: "https://markets.businessinsider.com/news/stocks/computer-vision-is-changing-residential-property-management-1030351538"
+excerpt: "Lanthorn.ai, a Video Analytics Company, and Uptimo, a Real Estate Management Company, announced today a collaboration agreement to bring"
+publishedDateTime: 2021-04-27T12:39:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
+webUrl: "https://www.prnewswire.com/news-releases/computer-vision-is-changing-residential-property-management-301277675.html"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "n+x6i1jNTsW4SBV5Guahp/1WjpcYI64YqBUZdLWdlUjZNgKnc0KoEvSLDDMF/IMDoVVsCscCbtgZSE65LgprYVt+Ze0vcIbcSQ3A1uHqVJjeeSFzVUbNWOYicf6uFCJTf+tbIuSoj9FtZUT92UNlMaZey++XsTHR2oeYeFLQ7mZqZiFC7Kz4UMNF+1GEEtqGb9IkLNFgY0Z+tyLCODQaNsCYLAA8mXrwJyWyM5HHRHT6LVNJtlTWSeIvGgqHq1Ef2WnSrq1pU9OCBx6NPrBuSZFjqE0X0ev/X+b5aXlLHbid3/VsZmE1o9CIECFkQe8V50lQB5xN+iZFiJ6NXPPG/Wcl9Y42fRRkMmdtbQPMWy4=;UClw7P2cNwlqY15uA5cUnA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1496604/Lanthorn_Logo.jpg?p=facebook"
+    width: 1600
+    height: 838
+    isCached: true
+
+secured: "S/t5VkErHIJ5nLhpRY5LDUPjZtr0JO2PA+VrpJkInp5bZCO0rEUqCg2yOjCX++UWBq7b8wZ4C//M/z6nhhNHPXJ74WEMBr4jlnlc/o04ifjUQ9GaGDWhe2mzUi7rTLlnXiiOP9X67uFwfHdh3ZHvyNeFOFtJxO+mdCGQHxFKVAB6CfTzTGwRriHXMbOLtW855UuWIMuGhN/NbVYMy7LyCSf1mGMGspB+6crwnaDyX84vD9imMTioVN4LeHEpHpEqF8M0C6qjaTa3qCdYl8WXQlB3yXk+ieskW6RhScYQxeX0j41pJErig3kVPnq7SjXcUxSXky2RFnseLbGJOL59abCbJrfI6Y+/a+4XBmJLoxg=;ielFzHqxKM+E4aJYZxzPSw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-aut
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: UPI.com
@@ -43,21 +43,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
-    publishedDateTime: 2021-04-23T14:13:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
-        isCached: true
 
-secured: "zxPeb7Tz4LoyUhiy3alvpf60rOcWmW+b1BY42PCfcB3U9ClJPWQ1FypyqV4Gf8mXsW/7AG26q/cuPIkJnkSJMWnSFwF5RmPnSl4Jf/v+5G6C+0snFLwn2NrUKe/YK0HVu2tQUySSytz9e0Y85/1OEecGC2OVZYNU9n9WHeS+UuOSNM4H2UcIhL2w+P2dyD3TeBV6emdcC2o/Z0gcxhMwQdwjnst29xpvBzs48wTHHenh5MxLEw9fHGark6Es2WJaRijNJ1uX04ge/TjwtmqV5gIfnS3f+W9z/dMXh4IXY4fO0zmpphlZyjmRfGNcV5qBjJOaEL+I5UamiC7JApbSyMZtn80dX/lhdAmnUQvzC3M=;3WI92paEzERzfNIo7RVdvw=="
+secured: "NreTSLfGN/v/09H7vWSz0dJrGXF52ZLYlFeMBQQTjLvJ6o83rBSczj5dihwzpnfJktWcVbS4o46bIHe3CRr2H8wAHaL29M7BJNNsd7/NH6cTGuqArtQH+e1u7Gdru6V4QDkabv8DRj1Jdj8AgLdh29FGp06g0cgY4qCQ8m43eBOfsPvVfKYPsoqA/CIdRnTS5+q7ktoozrvSqMgjHDctMyUH67o8+wEETVuP0YWafQhcijqBAP26cxhrFgdUK5VIHo2voI4b7Ze8+kNI0NC1593/LdtVFoh9Sw1T+ex7NdqPaHS1YOQHOqReGX1U5IpPk2FBK/j+ebK6RTQVyoGVAs/ji2/JC7teyNzYQaVlcLYZGdqvPcEhR84T7tfcnrhA1MFoPEUkOBw6gWzjp8hpeiKgEL/IPufT9QANYLLE9EX8VY+2LT0iASGsAf/dGOF5KGSTXmYpJz4vGcYSUsBk6BwjumCAQbP3qeHy4uRkdjfk0jm0evag8ct3//bM9txDLMqgXIfNIyEkinbCODoOeg==;1CklDzv9zA7atr5LSUDWRg=="
 ---
 

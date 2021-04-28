@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/20210424274/dj-zombie
 webUrl: "https://www.morningstar.com/news/marketwatch/20210424274/dj-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "DJ Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
-    excerpt: "Will you be replaced by artificial intelligence? It's just hard to know ... How big a hit is the commercial real estate and apartment sector going to take? Will robots take more jobs? There has been an acceleration in technology adoption but how that ..."
-    publishedDateTime: 2021-04-23T14:22:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20210423468/dj-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 13
 
 secured: "npDSft8GG/Frbqfjm/2ONozmsE6timPXih/cIEAYlPDS1crRBsvRhBKrSNhK4QQNqNe0F9v6VaoQ9D2oTCxuoIg1aB7MlO9Vna/qdfOOUFDExQnO5tO9YJ9w3SWLRRHcgh8vyQTS5kWcgw+Ko/hdqItBp1bfhi7QCg961SUpgy1DWUINIKqB8pPqyLW6oQTfJSf6ON1I+Wm7KkU4HM31ikrKDgHajh/boA5njM5nnbfl2KgJfvHMDbny1fcrL2EIVvIMlga8uVyq9mcP341X3HdhxoIaEEfmVLfVix4DiK/wd0fzCAy+c9m2XSeQRF/vUCYc/qpIL409mrYfWmevKDIzF1xNMR4lywiCLnu/SjI=;MGaQ/K8zuX4R94i8flBC5A=="
 ---

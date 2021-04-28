@@ -43,20 +43,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
-    excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
-    publishedDateTime: 2021-04-23T14:13:00Z
-    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 39
-    images:
-      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 608
-        isCached: true
 
 secured: "6VgfAaRdKAXCJveasjXEO0Hx+gUTOKKPpVBxv8w/BCCDrl+IjWpaX24GQWS4Y8D5OBOZAZZ0Za2O1j149GZ06I690SHwZhpOOQebWRrVsEa5Yob3hmqwDfDN077WAlrAQ1TRPr1PuYmXHjUUshpjbg3880ba15x/tcpAiagnAro58cv/z+PknOXQaDhVPwwZmhwjC3q8H43//l3RyF3hvewBe/YLBq7SMnE1SPNv8JK9IFCs9dnm8v4b5WiNlUEW2E02aU5iCxhwxldoaly5b8ReG+sCDW5QOLImxLWmZeuBucHi6X4T7wGxGt220A7V6qSWC9vBMivzVT6A2xuGd2ukD9xABmAMmpsIUf8pD28YZr7ZKKK1VoSq71vzcSE6jLwslJthXzZ1fuyMSwbSfPkXp67VSXJbRuOr4Wnzw8bknmFHb5FBZqgg7AN5UTR1kOpj3wqSJ+P2qMTkXGldKz9E4i2m6Ch6OIBIN9y+kuuO3ffkalMvm3fbqeiD0Nvi+kkQNk5uzlTp9bFKZqea4g==;kVSh5J2i8wmn5p2/iscZTQ=="
 ---

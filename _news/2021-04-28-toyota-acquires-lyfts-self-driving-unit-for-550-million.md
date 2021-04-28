@@ -35,6 +35,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "The UK will make ‘self-driving’ cars legal this year"
+    excerpt: "The UK is making self-driving partially legal in the spring, so you should have an easier time in the cockpit. But you shouldn’t think of watching a movie or playing games on your phones while driving just yet."
+    publishedDateTime: 2021-04-28T07:02:00Z
+    webUrl: "https://thenextweb.com/news/the-uk-will-make-self-driving-cars-legal-this-year"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F08%2Falks-lane-keeping-motorway-autopilot-autonomous-vehicles-car-ev-government-uk.png&signature=6a91d3ce2373b7deb8b2941ecca9fea1"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lyft Selling Self-Driving Unit to Toyota"
     excerpt: "Lyft has sold off its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million. Lyft will receive $550 million in cash, with $200 million paid upfront. $350 million will be made in payments over five years."
     publishedDateTime: 2021-04-26T21:21:00Z

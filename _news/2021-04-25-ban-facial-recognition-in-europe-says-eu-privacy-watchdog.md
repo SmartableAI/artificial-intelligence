@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU’s top data protection supervisor urges ban on facial recognition in public"
-    excerpt: "“The EDPS will continue to advocate for a stricter approach to automated recognition in public spaces of human features — such as of faces but also of gait, fingerprints, DNA, voice ..."
-    publishedDateTime: 2021-04-23T13:25:00Z
-    webUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/"
-    ampWebUrl: "https://techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/23/eus-top-data-protection-supervisor-urges-ban-on-facial-recognition-in-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-135627371-facial-recognition.jpg?w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "Facial recognition should be banned, EU privacy watchdog says"
     excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
     publishedDateTime: 2021-04-23T15:32:00Z
@@ -80,6 +64,6 @@ related:
         height: 434
         isCached: true
 
-secured: "uzbgGouiz8gu7KFUa/6XOvpLgg2szn/I4b+adJJlsKzAneww/DOOBEZqKv8LZPoHY769ZPMq+aKglpb4DddZ9p3shgD7mXbVWY7I9h4FnjD0cggMdNWacs6rgghg+qrZKTBCGzb75Q72mLb0yzROV1LffPiGa0G/1unA3IOFeWREOFIo15Ht7g9h+Czs1kE1AbC8mU24vBU6qBxRpPwee3yNKfri0tmmD3Ulw9y4R4rrSTNtUjt0luxhjjy0yWdr3ZXKYmsIdrcZlDgwyX603yhhWDB5wcUttodA50oRReV1ya81duXWtATS0SMgNdJEc3GGkzdssWA8yXsXZy0g/7F2yZJPnKy6kDBI1ocXJJM=;M1+Ig1VZw5rseCS7urRGLg=="
+secured: "fLB4D6DKdWYh8TNYe+qV9Igk0SdJAOblaj5WbbV87vxVkVSYTJ/VmpEK9J8GURAVg4Kakgzo7VJfVbw5tY+lFCkbIBrOQOGV6iMcX/HSOsLqyROmY8FvjikioQxbudwTR+jM8gc0uJmku33MrR+WJh+hkrTizDexTQqGFq1hIvYV185jcdqn3M80xUCYQmbk2U6TC4iOLyeB5uETmrFLN+oEMMx8QKJ9ZP344Y7fpzSarY8US1LlAqKLWzWUCZgXqww6HSZB5U/a7Cr+l1N5FU48AT1igVXUnBDokGIjI2uAvfODlR+tGrkzVASG/GfJ6XfcPSivfRpO63iKWk41VCrBfv5i7hG/tRsuqUSvdHBmqYWrWstdJStCGwFyS5U+jjHxATE1s1Rddo2gZARB6zy/DmBsfbWYhKZa6KWIOjKNbMuW2El6OgjilDytdZR8POBmWN0SKK/83hhRE00IsugJlHgSgVr6eBOwem+Xq/GZPvp9ziWVwljtgXq/T4t/+FIc8SaHC/y6ONZjzXTKnA==;wDHydv29/Ve2aio4x5EeJg=="
 ---
 

@@ -46,23 +46,7 @@ related:
         width: 1183
         height: 801
         isCached: true
-  - title: "How Electric, Self-Driving Cars and Ride-Hailing Will Transform the Car Industry"
-    excerpt: "But the switch to electric is not the only factor reshaping our relationship with the automobile. Self-driving cars clocked 2 million miles of test-driving on California’s roads in 2020, and anxiety bordering on alarm is quietly running through the auto ..."
-    publishedDateTime: 2021-04-23T15:01:00Z
-    webUrl: "https://www.wsj.com/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-electric-self-driving-cars-and-ride-hailing-will-transform-the-car-industry-11619189966"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-328645/social"
-        width: 1280
-        height: 640
-        isCached: true
 
-secured: "xD1rEN72SEs+bE9t457PeRTJ2pPUTVhaejuqJz9n/uPfxIP09p/zDRdtRjuS12WSGiOIh9QGgXZJ5Gvh8lD1d6tGnKohVqgR07E/9W5n5SF3FxYarxrNLZj0KXXiF8LlxK2J+GqPHTHFvmxJMLoQIoQIbt+FbhMTG7/WZSxg5k8OXP88i2bf9n7jjZvXP64uxsQvhnUnU6qqfWByIDjiwPCGOX3QUMq/E3kJDz4LyC79vkbykdGHlhlxtYw9Uo7D6ZEhZeAZrcJWK41JBXYdFWZ/HNyRwT9HzbaGxmEaKg2PAqhsPIwuRwcDJVxlgHN/jBLb2k06USOuvpsaOKnN4qCOFQM3ODlppbwUjICuIzg=;Zz0X8/JhmMX81hZ6BHi47Q=="
+secured: "TPFs/PFpqwx5URdwvX1sPOiATTKDg5UZZn/FV3xk1jQllefIbY8TD1LgymvKNt8/vQvw5YD2D4vFMqIOtKdY59760r4sgdNg21DT55sTrrwC1bjn9RlNqEf8699cdti0kErn3z0w5wouPqBQ5c/Jsgn/DHtSJU1o/mCSuxPrNjXO40MRxDqGGR2XElYXKsKDf4v+FS8ZOE2GH5vx7/3jRy7Hcx8auIYJLwIPUedsbmS4ecFZxFRUpihZUGN8Bpeh6hb6z3PNu/M4BKOSK/xsbrr8jPqVs/6kwADT8oqQ4Xv4NhrMFRLCddhiMhgBvDIULZN/1cqHmColcK8ohLFj0HR9rxLaiVhQ2J2DesMkGuWA2x5BKReBk/sltyFzj3VdE+rsa6ebLryuLjW9nypkGqaIRv34tQwViD+vvuw7hMp2gkgdW9Ji+CkJlGfOisoR3R5OnPZc/UBPqaUHXpg2Ymw4tBQz8zCEYpN1SdkkbOdU0GqiXf0vC8YoIQ4wfNNGaRGrN4DJQHI3eN9Cpjw6WA==;KKe6xrpoX7THCXM6grXYkA=="
 ---
 

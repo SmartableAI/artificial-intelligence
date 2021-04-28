@@ -41,22 +41,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "San Antonio’s ACS adds facial recognition tool to website to help reunite families with lost pets"
-    excerpt: "The city-run shelter announced Friday that it is partnering with Petco Love in the searchable, national database that uses facial recognition technology. The Petco Love Lost tool uses uploaded photos of cats and dogs and determines if they are in a ..."
-    publishedDateTime: 2021-04-23T14:26:00Z
-    webUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/"
-    ampWebUrl: "https://www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2021/04/23/san-antonios-acs-adds-facial-recognition-tool-to-website-to-help-reunite-families-with-lost-pets/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 46
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/EPZ3CLSD65CDNI3YO77LZ2SDLY.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Jacksonville Humane Society takes part in launch of national lost pet database using facial recognition"
     excerpt: "The database uses facial recognition to analyze your pet's facial structure and find possible matches in the area. “I’m going to sign up today,\" Thompson said. \"Absolutely! We do have a fenced yard, but you never know. They might see something and dig ..."
     publishedDateTime: 2021-04-23T21:56:00Z
