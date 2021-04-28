@@ -2,6 +2,248 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-23-rossen-reports-tricks-to-land-a-job-in-the-age-of-artificial-intelligence.md",
+      "title": "Rossen Reports: Tricks to land a job in the age of artificial intelligence",
+      "excerpt": "I'm getting you the inside tips, millions of resumes and cover letters uploaded to job postings on sites like CareerBuilder linked in and zip recruiter. Now employers are trying to stop a bottleneck of applications getting you into a job faster with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "originalUrl": "https://www.wdsu.com/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/jobapplications-htv-1619121674.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "cdnAmpWebUrl": "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/rossen-reports-tricks-to-land-a-new-job-in-the-age-of-artificial-intelligence/36202129",
+      "publishedDateTime": "2021-04-22T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDSU",
+        "domain": "wdsu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech.md",
+      "title": "Ally partners with Microsoft to explore quantum computing use cases in fintech",
+      "excerpt": "Ally Financial and Microsoft are collaborating to explore quantum solutions to challenges in the fintech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
+      "originalUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/22/ally-partners-with-microsoft-to-explore-quantum-computing-use-cases-in-fintech/amp/",
+      "publishedDateTime": "2021-04-22T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-how-to-contextualize-double-click-understanding-palantirs-and-ibms-ai-ambitions.md",
+      "title": "How To Contextualize Double Click - Understanding Palantir's And IBM's AI Ambitions",
+      "excerpt": "The market currently underestimates the synergetic potential that Palantir's (PLTR) Foundry and IBM's Watson will likely unlock within Artificial Intelligence over the next decade.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "originalUrl": "https://seekingalpha.com/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1256603011/medium_image_1256603011.jpg",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4420621-how-to-contextualize-double-click-understanding-palantir-and-ibm-ai-ambitions",
+      "publishedDateTime": "2021-04-22T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-nba-using-microsoft-cloud-and-ai-to-power-courtoptix-and-bring-enhanced-stats-to-fans.md",
+      "title": "NBA using Microsoft cloud and AI to power ‘CourtOptix’ and bring enhanced stats to fans",
+      "excerpt": "The NBA is tapping the power of its partnership with Microsoft to deliver advanced analytics that offer insights into shots, passes, defense, double teams and more. NBA CourtOptix Powered by",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "originalUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-22-at-9.28.33-AM.png",
+          "width": 630,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nba-using-microsoft-cloud-ai-power-courtoptix-bring-enhanced-stats-fans/amp/",
+      "publishedDateTime": "2021-04-22T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives.md",
+      "title": "To ensure inclusivity, the Biden administration must double down on AI development initiatives",
+      "excerpt": "The Biden administration must clarify current laws pertaining to AI and machine learning models — how we will evaluate use by private actors and how we will govern AI usage within our systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/",
+      "originalUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-848691518.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/22/to-ensure-inclusivity-the-biden-administration-must-double-down-on-ai-development-initiatives/amp/",
+      "publishedDateTime": "2021-04-22T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-22-is-artificial-intelligence-dependency-the-future-of-ai.md",
       "title": "Is Artificial Intelligence Dependency The Future Of AI?",
       "excerpt": "The future of AI has been a topic of much contemplation in the last couple of years. Especially because AI is more capable by the day.",
@@ -303,6 +545,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-22-brainchip-simplifies-deep-learning-with-launch-of-metatf.md",
+      "title": "BrainChip Simplifies Deep Learning with Launch of MetaTF",
+      "excerpt": "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630",
+          "width": 1140,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-22T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -918,308 +1203,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-the-protein-folding-break-through.md",
-      "title": "The Protein Folding Break-Through",
-      "excerpt": "Researchers at DeepMind have proudly announced a major break-through in predicting static folded protein structures with a new program known as AlphaFold 2. Protein folding has been an ongoing ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/12/04/the-protein-folding-break-through/",
-      "originalUrl": "https://hackaday.com/2020/12/04/the-protein-folding-break-through/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/11/alphafold2_results.gif",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies.md",
-      "title": "Blockchain Identity Management Market may See Big Move with IBM, AWS, Civic Technologies",
-      "excerpt": "Latest released the research study on Global Blockchain Identity Management Market, offers a detailed overview",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/blockchain-identity-management-market-may-see-big-move-with-ibm-aws-civic-technologies-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-adversarial-machine-learning-the-underrated-threat-of-data-poisoning.md",
-      "title": "Adversarial machine learning: The underrated threat of data poisoning",
-      "excerpt": "Researchers warn machine learning models are vulnerable to data poisoning, which can result in poor decisions based on faulty outputs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
-      "originalUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/amp/",
-      "publishedDateTime": "2021-04-21T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-european-commission-proposes-taking-away-the-cops-big-boy-surveillance-machine.md",
-      "title": "European Commission Proposes Taking Away the Cops' Big Boy Surveillance Machine",
-      "excerpt": "The EU is giving the U.S. a run for its money with privacy regulation, and now they’ve upped the ante with a dynamo of a proposal: banishing AI systems that violate “fundamental rights,” with a special place in hell for law enforcement using real-time biometric identification.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
-      "originalUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/p7fpizzjv7pf2vkzxtjk.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/european-commission-proposes-taking-away-the-cops-big-b-1846733335/amp",
-      "publishedDateTime": "2021-04-21T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-streaming-solutions-expand-to-assist-healthcare-providers.md",
-      "title": "Streaming Solutions Expand to Assist Healthcare Providers",
-      "excerpt": "NEW YORK, April 21, 2021 /PRNewswire/ -- The pandemic has had several major side effects on the healthcare industry, helping to accelerate the digitization of healthcare services across the board. Digital healthcare functions are largely based on the electronic health record (EHR),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/streaming-solutions-expand-to-assist-healthcare-providers-2021-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-21T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill.md",
-      "title": "Corporate Tech Leaders Are Mixed on EU Artificial Intelligence Bill",
-      "excerpt": "Some corporate technology leaders say a proposed clampdown by European regulators on the use of artificial intelligence will run up costs and stifle innovation, just as companies are starting to unlock its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
-      "originalUrl": "https://www.wsj.com/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-328496/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/corporate-tech-leaders-are-mixed-on-eu-artificial-intelligence-bill-11619049736",
-      "publishedDateTime": "2021-04-21T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

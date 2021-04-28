@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Baidu and Geely Plan $7.7 Billion Smart Car Push"
-excerpt: "For its part, Baidu has been investing in self-driving technology for years and its January announcement of the collaboration with Geely gave its share price a jolt. This year alone, Geely has forged major collaboration pacts with companies from Baidu to ..."
-publishedDateTime: 2021-04-23T09:37:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-04-23/baidu-and-geely-plan-7-7-billion-smart-car-push-over-five-years"
-webUrl: "https://www.bloomberg.com/news/articles/2021-04-23/baidu-and-geely-plan-7-7-billion-smart-car-push-over-five-years"
+title: "Baidu and Geely plan $7.7 billion smart car push"
+excerpt: "For its part, Baidu has been investing in self-driving technology for years and its January announcement of the collaboration with Geely gave its share price a jolt. This year alone, Geely has ..."
+publishedDateTime: 2021-04-23T13:00:00Z
+originalUrl: "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push"
+webUrl: "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTPBaDHKkbdg/v0/1200x660.jpg"
-    width: 1200
-    height: 660
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/jidu.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "vVKaTtO5Jx0NC6OpFKMGjDBtmPWOCqEpFICIyY5o1wQCDNXeWxeT4n0By+BFHiiNiiZgHy2tmAnbsdQ/5+a7kp77fPTOH9/F/+KnxJu28cbdZsxmyU/hhxCULYXGtDMHIjQSCnKGk8UuhvL804Uq2uudsk8zVTQXltKbJtvSo1DumK+3FITDTTvpN/zpbQoP+6MTzeJunOjWebksn+wj2UklKhEsZlsW6eyICWRDHBigOP8jYX34cjLJHUAA9z5iDoRnvpsG6OWj0mlMJtKpj2ZCFEb6MHqd9+857C08Y15AvbjPnIUwO+4Ja1XZLxqThWVGm/BwhNJhVJ1cj30gjmnGs0LOLSS6Si2tWMJ26Dc=;yrHycluuSdyGJ3uk2etLLw=="
+secured: "WKcTFqjX1b7cKugDy2hb30c1r4ZTk5MAUm50p+cMX6EGzYF7+411HpbDp3OoB+DsZw3hccdupeQLI54G+L7dB/lWYQpGul8Ryy6wMwcZUOId+EU6j9p4N7Tr+WqJmSeJAy1H+FBRBJtY6o4OEyz21qJwYMyykIMvO4frsJcFXDXnnHGjqr2dO1io0+w7lZ6vrMpAeUrzXSBexbotSq9BMpHu3k6cuk13/l3IyLDipXvB3u9/QhldptxwLnbJxm/31EtpmboOlVN1nJEtG+aQKWfmBWWcoPAkNzb4+rp/ri7ZOdjqJS+KPbk0ljepbbyfQQH6nGKRe1F4G+evjRLVjDlt/DrM9AyLRUVZI26vSL8=;YrY4ttUKXpd+ZtZQlWBQ8Q=="
 ---
 

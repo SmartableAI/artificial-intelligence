@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-16-stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification.md",
+      "title": "Stash Banks On Biometrics, Machine Learning To Support Digital-First ID Verification",
+      "excerpt": "The latest Future Of Identity Report examines how identity verification needs are changing in the financial sector and how machine learning can help meet them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
+      "originalUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/04/aufsap21-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/identity/2021/stash-banks-on-biometrics-machine-learning-to-support-digital-first-id-verification/amp/",
+      "publishedDateTime": "2021-04-16T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-deep-learning-market-size-share-growth-trends-and-forecast-2021-2023.md",
       "title": "Deep Learning Market Size, Share, growth, Trends and Forecast 2021-2023",
       "excerpt": "Market Synopsis The Deep Learning Market is estimated to record a significant growth throughout the forecast period.",
@@ -1415,50 +1459,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-intel-sees-four-critical-inflections-hybrid-cloud-aiml-5g-and-edge.md",
-      "title": "Intel sees four critical inflections: Hybrid cloud, AI/ML, 5G, and edge",
-      "excerpt": "Intel debuts 3rd generation Xeon scalable processor with telco SKUs tailored for the 5G era This week Intel announced its third-generation Xeon scalable processor which comes in SKUs that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
-      "originalUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2021/04/Intel-3rd-Gen-Xeon-Scalable-3-75498030.jpeg",
-          "width": 690,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210407/chips/intel-sees-four-critical-inflections-hybrid-cloud-ai-ml-5g-and-edge/amp",
-      "publishedDateTime": "2021-04-07T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

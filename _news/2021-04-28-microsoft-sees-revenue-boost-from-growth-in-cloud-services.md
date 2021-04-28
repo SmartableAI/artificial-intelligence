@@ -49,6 +49,20 @@ related:
         width: 360
         height: 230
         isCached: true
+  - title: "ASUS announces Azure Percept Collaboration with Microsoft"
+    excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
+    publishedDateTime: 2021-04-28T07:30:00Z
+    webUrl: "https://technosports.co.in/2021/04/28/asus-announces-azure-percept-collaboration-with-microsoft/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 54
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-AUDIO-wthBox-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "arTVs5AY/aBOQ+VAzvxJSd1HrqGqqrlBL/agnkSWtkhaU/7mjJVF89eMOoHGzgdz/8GOymmpQkt/l2/0PxHjIV8hYjqNiRvPr4FnmZ83LwJaDQvtKMKmQuvSdbsiO3v/pscZZEjyAcwi4bpA8H8D8Jk+KuccNseGlyT+7GyZyE/6b1Rtfc6L0QTRz4qTyg2vjiGcEJjOnzHg7fWkh0L6YC2Gb35xq7omF74ZIzwlKKQi2zolgd3pUTag8iyxkEatgBXBZKygML6AjGK00sAMzfjytOfEPmPERL7zYTiW3dwheddwbDE3tyJWGQJTv7V8ipj41unN1GIiW7zWdTxHtHC0g4LeXo1IbCMSfWXn+UOPE6BOn4paI4s2VOTqZETAgz5XkoOFaCRCDKYZVJ0J6fBPYUW3mWWmAmS84JQPqEPMVGa8nyTzDZcBIX00O0P77Vj9dFUW2QOcA/gDDwbZE+UN+0RbVTqVs3NO8rQ/S06jxgk9OI0yqKxWlF1v21BEXnz+cUrR8syljL8ubmzh9w==;R0S0GF1jZkhAxuEnzSn87Q=="
 ---

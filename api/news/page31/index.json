@@ -2,6 +2,451 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-01-businesses-take-a-hurry-up-and-wait-approach-to-ai.md",
+      "title": "Businesses Take a Hurry-Up-and-Wait Approach to AI",
+      "excerpt": "It can take decades for transformational technologies to yield real-world results, says Stanford’s Erik Brynjolfsson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "originalUrl": "https://www.wsj.com/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-319025/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/businesses-take-a-hurry-up-and-wait-approach-to-ai-11617229142",
+      "publishedDateTime": "2021-03-31T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-read-resist-observing-trans-day-of-visibility.md",
+      "title": "Read & Resist: Observing Trans Day of Visibility",
+      "excerpt": "You can read more about everyday ways to support the trans and nonbinary people in your life here. Strangio and Willis explain why they expanded Trans Day of Visibility to Trans Week of Visibility and Action,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "originalUrl": "https://www.wmagazine.com/culture/trans-day-visibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2021/3/31/60c69bc7-48ab-4c30-95a8-e9275fed1dee-trans-day-of-visibility.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wmagazine.com/culture/trans-day-visibility/amp",
+      "cdnAmpWebUrl": "https://www-wmagazine-com.cdn.ampproject.org/c/s/www.wmagazine.com/culture/trans-day-visibility/amp",
+      "publishedDateTime": "2021-03-31T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "W magazine",
+        "domain": "wmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
+      "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
+      "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "originalUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318945/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "publishedDateTime": "2021-03-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-computer-science-and-artificial-intelligence-laboratory-csail.md",
+      "title": "Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+      "excerpt": "Leveraging research done on campus, student-run MIT Driverless partners with industry collaborators to develop and test autonomous technologies in real-world racing scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/clp/csail",
+      "originalUrl": "https://news.mit.edu/clp/csail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
+      "title": "Supply Chain Strains Sharpen Focus on AI",
+      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "publishedDateTime": "2021-03-31T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-auditoria-raises-155m-to-expand-ai-platform-automating-repetitive-accounting-tasks.md",
+      "title": "Auditoria raises $15.5M to expand AI platform automating repetitive accounting tasks",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Auditoria, a startup offering AI-driven automation products for corporate finance teams, today announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/",
+      "publishedDateTime": "2021-03-31T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
+      "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
+      "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367510",
+      "originalUrl": "https://www.entrepreneur.com/article/367510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616690604-GettyImages-1187635329.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367510",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367510",
+      "publishedDateTime": "2021-03-31T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
+      "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
+      "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg",
+          "width": 630,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
+      "publishedDateTime": "2021-03-31T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-5-machine-learning-essentials-non-technical-leaders-need-to-understand.md",
+      "title": "5 machine learning essentials non-technical leaders need to understand",
+      "excerpt": "Best practices and must-know components of machine learning, broken down into five practical and easily applicable lessons.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
+      "originalUrl": "https://techcrunch.com/2021/03/31/5-machine-learning-essentials-non-technical-leaders-need-to-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1129377942.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-facebooks-feckless-fairness-flow-wont-fix-its-broken-ai.md",
       "title": "Facebook’s feckless ‘Fairness Flow’ won’t fix its broken AI",
       "excerpt": "No it doesn't. Apparently, one can write about AI fairness without paying attention to journalistic fairness. Facebook had allegedly timed the publishing of a research paper with Hao’s article.",
@@ -768,410 +1213,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-scientists-turn-to-deep-learning-to-improve-air-quality-forecasts.md",
-      "title": "Scientists turn to deep learning to improve air quality forecasts",
-      "excerpt": "Air pollution from the burning of fossil fuels impacts human health but predicting pollution levels at a given time and place remains challenging, according to a team of scientists who are turning to deep learning to improve air quality estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
-      "originalUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/scientiststu.jpg",
-          "width": 730,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-scientists-deep-air-quality.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-scientists-deep-air-quality.amp",
-      "publishedDateTime": "2021-03-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
-      "title": "The Future of Lab Robotics",
-      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
-      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
-      "publishedDateTime": "2021-03-31T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-octomize-your-ml-code.md",
-      "title": "‘Octomize’ Your ML Code",
-      "excerpt": "Quite often, the services of a software engineer are required to convert the ML model, which is often written in Python using one of the popular frameworks like TensorFlow or PyTorch, into highly optimized C or C++ that can run on a particular processor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "originalUrl": "https://www.datanami.com/2021/03/31/octomize-your-ml-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/code_shutterstock__1BEST-BACKGROUNDS.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-indian-ai-driven-speech-recognition-firm-banks-140m-in-series-d-round.md",
-      "title": "Indian AI-driven speech recognition firm banks $140m in series D round",
-      "excerpt": "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "originalUrl": "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
-      "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
-      "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gtc21-spring-sm-4-topics-collage-2-1200x600-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc/amp/",
-      "publishedDateTime": "2021-03-31T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-arm-announces-its-next-gen-armv9-architecture-focus-on-security-ai-and-vector-processing.md",
-      "title": "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing",
-      "excerpt": "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
-      "originalUrl": "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/03/arm-v9-announced/inline/-1200/gsmarena_001.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php",
-      "publishedDateTime": "2021-03-31T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-digitate-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "Digitate Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "Digitate today announced it has been named a winner in the Artificial Intelligence Excellence Awards program presented by the Business Intelligence Group. Digitate was selected for its excellence in AI-driven products that create exponential value across enterprise business and IT functions.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-5dae8e6b7741497a9dce49e38898dfcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-cardinal-health-started-small-and-scaled-fast-to-improve-customer-experience-and-reduce-costs.md",
-      "title": "How Cardinal Health started small and scaled fast to improve customer experience and reduce costs",
-      "excerpt": "Cardinal Health, Inc. is a global health care services company. Its mission is to remove healthcare complexities and bring scaled solutions to help its customers thrive in a changing world. Cardinal Health has implemented two AI initiatives to improve agent and customer experiences and bring its mission",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/cardinal-health-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-33_WA-Cardinal-Health-Post_2000x1006.jpg",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T06:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient.md",
-      "title": "AI experts warn Facebook’s anti-bias tool is ‘completely insufficient’",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today published a blog post detailing Fairness Flow, an internal toolkit the company claims enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/ai-experts-warn-facebooks-anti-bias-tool-is-completely-insufficient/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

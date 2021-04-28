@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
+    publishedDateTime: 2021-04-28T07:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Payments Market Size, by Region & Segment, Historic Growth Forecast to 2025"
     excerpt: "The Global Artificial Intelligence (AI) in Payments Market Analysis, 2020 market research report depicts a deep dive market analysis of statistics of Global Artificial Intelligence in Payments market which consists of region-wise market size,"
     publishedDateTime: 2021-04-27T20:48:00Z
@@ -113,6 +127,6 @@ related:
         height: 625
         isCached: true
 
-secured: "vJfn/uG6PJoXsXaCJ+is4R7w437at9eSf7IoasUNWSJ2olpu/J7HqyLxdLrmpl7/EGJ/a69FMhHOvSj2uGXtVEf+YrOUI0XC3tM6gPsLWnaoOGcQvNbGUakzgELWUopWp+8mpCsthy0tjCqCzJHaOf2vxWDLCfXcDccZM6aDZI63UwN0PDNrt6mNpQ/qTQtj2YKrQWbH4fltV/q85B5j6+aNB6OUDcf/oJoS9fFYcXE3r8mwQjaoii2py+JxBz40gMU4FAzUeJ8svmC6dg0qjgArgO0SfzH7Zn+wPl7R+pXWoG7GoY6k0USm47bnDOuSVHSiixGRwwy9qV3+CFL/tqk1RUl9iKfETS/TGMxRgkw=;uZWsD5mXGRgdlkTqNZYGhQ=="
+secured: "lwsSk5hR5oplq628JCghRFpCssYlkVP+iEgkB2cWtMWxb9+49dE+HRYrRa/4TxL7ZkNKTK6D5AGCnXbxmx97Q0jsyb8YLrLtf5HqX0S6eoyWi3GSQ6QHOfsUikjXK2gwYm+7ERye0Rwtj0LywZizJ07c5rDLcR22gLo+Zz8v+B3BpsmDCSiyWF4ei6l+U1LJw22CUjTSSr9PIniax58awQO8H31AdmttI6xCJ85iNz317pkgXALW+KdiZ5ORKuUx4esl2rtgBWOlLYoWUvvH39rzuSDSz6li2ErbvUHdGRTHtmfwKr/ObT5uym4GuHJnKtnpMMi+0yuE1ebau2snGj+Kh/8H7KbXC299R1i1VHYV5aRZy/OGfc+kYvjNOBHkwDcAey7dknn43Odb/OqrI2y5mYNsU0SlhB7LNkBXIaWB1gRkHfrvGEj7VXQV5j5+ppnZCnXG/aQsSYLS6BRiZxcXUr/nZjTBQ6OG/Z2g2m8jNVD0ZcmviQuXWI03dVzPJUEvEdDB0TJ7v0dAwwtLQA==;Szwfp10Bk6NJPvFKGGHoAw=="
 ---
 

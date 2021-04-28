@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 646
         isCached: true
+  - title: "Insight Partners backs Materials Zone's AI discovery platform"
+    excerpt: "Israeli startup Materials Zone was founded on Blockchain technology, but after pivoting, the company finds $6M in Series A funding"
+    publishedDateTime: 2021-04-28T08:37:00Z
+    webUrl: "https://www.geektime.com/insight-partners-backs-materials-zones-ai-discovery-platform/"
+    ampWebUrl: "https://www.geektime.com/insight-partners-backs-materials-zones-ai-discovery-platform/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/insight-partners-backs-materials-zones-ai-discovery-platform/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/04/MAT-1619516224.jpg"
+        width: 697
+        height: 453
+        isCached: true
 
 secured: "YweiXjOTe5tTnNngr+BeDsASF/eJxp2K+8CU5UQ3PxXfarS1dSNsnbuibCrXmXGN6ncllIl1wumFGjA8txXomd7ND84+TeILCqiXoDSYlaHPGdyLHIv3Sn4ApEQINbTe85z7AMcDa8gdtPPGtAJCVB67VlXgqt40zSNo7wT4yYfV8Ipe/V2jSpmPcul+KGLkUl2Dmf5whffbmwuCklV3gQUsRrErkSQgtDNwKpUal9amgoKL22sjbthb0W1kGiKiebIizaIK4/EF7Ga2HrgGx/OQdhDHGqjoK96M9wszkBXxkRsljaxkCCDoMNcHKnkIehI+25oWoag9ZA6Xve2khxST/AUmOVcSwEpNKbaj0mU=;kMbgUuC1xQgMskRnDo4dyw=="
 ---

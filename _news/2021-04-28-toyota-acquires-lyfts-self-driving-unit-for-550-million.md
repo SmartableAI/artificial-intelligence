@@ -65,6 +65,36 @@ related:
         width: 730
         height: 486
         isCached: true
+  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
+    publishedDateTime: 2021-04-27T14:20:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Toyota acquires Lyft's self-driving division"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
+    publishedDateTime: 2021-04-28T04:00:00Z
+    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "LNwRtWRSjkaUsx53KzvUx/AxIHm+JczkGd39yrmsLQCHJTVv4MsSs7rSxJDHwhJUaLtuVw7vFN5gM7RijMNmAvzx3DM7073M+r72ZCMWa71KcNKinZfFMtPmTZZHPQ1LotazWXZydzET6bVMVoCroT3o2Lc9fH7qvbqCzBLZNdmPgoLFQXLIvmMNplY9Y3VAj0QxUX60nZHfgVQVOPiitMB2JFPzfNrtvfowNzalQt+1ypkE8dMQV8yrkEtua3I/1HjrAaWrNZe1lQyghAJKo5T7XOX1oXB8fx9eobj8O64bIXc9dCzfpNGhqGiLheXRIne6aJzDKped5Tl2EwHboKNHfkks29QJK9jTaryYB94SnwZDo7rNQryFnbhTYtKsPfA/6NpeqRv0wgxv7XegmSVlxKWWtoITx0O99i+gRvo1hKfr3DQe5Z07G1yfpku5Oa+SNAvOPH2vQLzzLlBJw6MJ+K9iAT5OXIigVp355+SoL8yYOwO+0CS7zJePKyyLytbykg7kovD3z7GlbqXR7A==;gN+5SRzY0OaOMK0YxZBQBg=="
 ---

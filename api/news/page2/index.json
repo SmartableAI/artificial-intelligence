@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-26-the-ai-50-backstory.md",
+      "title": "The AI 50 Backstory",
+      "excerpt": "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
+      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
+      "publishedDateTime": "2021-04-26T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-how-york-university-provides-instant-personalized-self-service-to-50000-students.md",
+      "title": "How York University provides instant, personalized self-service to 50,000 students",
+      "excerpt": "York University needed to make a deeper personal connection with its students — all 50,000 of them. “One of the challenges for any large university is student satisfaction,” says William Gage, Associate Vice President, Teaching and Learning at York University. The university worked with IBM, using Watson",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/2012_04_19_90D_York_University_Post_V2_2000x1006.jpg",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T06:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-how-ai-trends-could-transform-the-healthcare-industry.md",
+      "title": "How AI Trends Could Transform The Healthcare Industry",
+      "excerpt": "Beyond its applicability in our current public health crisis, AI has several longer-lead implications for how we'll experience healthcare moving forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60832c1b062aef4c0ac65530%2F0x0.jpg",
+          "width": 1183,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/04/26/how-ai-trends-could-transform-the-healthcare-industry/amp/",
+      "publishedDateTime": "2021-04-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-26-ai-startup-faculty-wins-contract-to-predict-future-requirements-for-the-uks-nhs.md",
+      "title": "AI startup Faculty wins contract to predict future requirements for the UK’s NHS",
+      "excerpt": "Faculty, a VC-backed artificial intelligence start-up, has won a tender to work with the NHS to make better predictions about its future requirements for patients, based on data drawn from how it handled the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/26/ai-startup-faculty-wins-contract-to-predict-future-requirements-for-the-uks-nhs/",
+      "originalUrl": "https://techcrunch.com/2021/04/26/ai-startup-faculty-wins-contract-to-predict-future-requirements-for-the-uks-nhs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-469709698.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/26/ai-startup-faculty-wins-contract-to-predict-future-requirements-for-the-uks-nhs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/26/ai-startup-faculty-wins-contract-to-predict-future-requirements-for-the-uks-nhs/amp/",
+      "publishedDateTime": "2021-04-26T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-the-worlds-biggest-ai-chip-now-comes-stock-with-26-trillion-transistors.md",
       "title": "The World’s Biggest AI Chip Now Comes Stock With 2.6 Trillion Transistors",
       "excerpt": "The world’s biggest AI chip just doubled its specs—without adding an inch. The Cerebras Systems Wafer Scale Engine is about the size of a big dinner plate. All that surface area enables a lot more of everything,",
@@ -201,7 +408,7 @@
       "originalUrl": "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of-machine-learning-and-ai-in-finance-2d5c4825-e0ad-4dda-bec6-22e91842eaa7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -605,7 +812,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-supply-sales-revenue-and-forecast-from-2021-to-2025-2021-04-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -945,6 +1152,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-23-baidu-and-geely-plan-77-billion-smart-car-push.md",
+      "title": "Baidu and Geely plan $7.7 billion smart car push",
+      "excerpt": "For its part, Baidu has been investing in self-driving technology for years and its January announcement of the collaboration with Geely gave its share price a jolt. This year alone, Geely has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push",
+      "originalUrl": "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/jidu.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-video-see-how-a-self-driving-car-perceives-the-world.md",
       "title": "Video: See how a self-driving car perceives the world",
       "excerpt": "Motional has partnered with Derq to test how driverless technology reacts to a broader view of the world from a bird’s eye view. Derq, an artificial intelligence and vehicle-to-everything (V2X) vendor,",
@@ -976,247 +1226,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-nano-dimension-closes-the-acquisition-of-machine-learningdeep-learning-leader-deepcube-ltd.md",
-      "title": "Nano Dimension Closes the Acquisition of Machine Learning/Deep Learning Leader, DeepCube Ltd.",
-      "excerpt": "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has closed the previously announced acquisition of DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader",
-      "originalUrl": "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-taiwan-predicts-its-chip-industry-will-weather-global-shortage.md",
-      "title": "Taiwan predicts its chip industry will weather global shortage",
-      "excerpt": "Register fo r the AI event of the year ... citing expansion plans from chip giants including TSMC and Powerchip Semiconductor Manufacturing. “Once they are built, Taiwan’s competitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
-      "originalUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/taiwan-predicts-its-chip-industry-will-weather-global-shortage/amp/",
-      "publishedDateTime": "2021-04-23T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2021 Rising Latest Advancements, Growing Demands and Business Opportunities by 2031",
-      "excerpt": "Market.us adopted a multidisciplinary detain during the pandemic era to focus on the revolutionary trends, growth and industry statistics along with the development of the Global Machine Learning as a Service (MLaaS) Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2021-rising-latest-advancements-growing-demands-and-business-opportunities-by-2031-2021-04-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data.md",
-      "title": "Analytics startup Unsupervised raises $35M to spot patterns in enterprise data",
-      "excerpt": "Join Transform 2021 this July 12-16. Register fo r the AI event of the year. Boulder, Colorado-based Unsupervised, a big data analytics company leveraging AI to find patterns in business data ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/",
-      "originalUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/23/analytics-startup-unsupervised-raises-35m-to-spot-patterns-in-enterprise-data/amp/",
-      "publishedDateTime": "2021-04-23T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ai-is-nothing-without-ai.md",
-      "title": "AI Is Nothing Without AI",
-      "excerpt": "When talking about AI, there seems to be a tendency by many to drive the conversation to ethical issues and how robots will take our jobs, later rule the world and start making decisions between life and death. I am not belittling the ethical part ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/23/ai-is-nothing-without-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60818ff93df0e525e67cbcb0%2F0x0.jpg",
-          "width": 1199,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-23T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

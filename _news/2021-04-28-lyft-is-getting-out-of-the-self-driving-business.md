@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-se
 webUrl: "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/"
 type: article
 quality: 54
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,36 @@ related:
         width: 730
         height: 486
         isCached: true
+  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
+    publishedDateTime: 2021-04-27T14:20:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Toyota acquires Lyft's self-driving division"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
+    publishedDateTime: 2021-04-28T04:00:00Z
+    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Toyota acquires Lyft’s self-driving unit for $550 million"
     excerpt: "The acquisition of Lyft's self-driving division was carried out by Woven Planet Holdings, a Toyota subsidiary that focuses on innovations and investment in projects such as “smart cities,” robotics and automated driving."
     publishedDateTime: 2021-04-27T22:48:00Z
@@ -71,6 +101,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "Zk+6dkZfK2dsoPoWLoUgfQ0aPr0L7yp7av0YispvzSum/7kiPNoIkPiay7HowQW13RIdzXUEf3TOpY21CrmE9abw1XiC4/Dx7nkJ0is0yfwSjfiFoW/xD4wQn3aS8YLIROdqd76spcgAJVnz7N/hTEoIJewaS+1d5PkDnPDqIkWmFyyvEMqfUjlIno03GuCDo0qCgCMhXLkIub3AMx57c0y87+jsprShGV2kjVT8oKZobGvbmiJRxpaaI8XNgQFYWp7MvmIIYofZ+orlA7EWDljbTWj9RK2za6e0sb47gpe/8mIP1LbDJ87L4VTs09Gm3iqbHFpuM7dowmrgtFj+U+/klSuYvo4UL6PcDK4Ev4CQLQmyr8X3Kkp6DqsEOK7+9YWvYZREgyxQb7fDA5hY4SmbkIYyX1NTJUqZwBJRoyJGQqTOt+RPgzFRZh0JEvdp6PGO7WpPm8Ih90BWc1JecJKDIAjHK2oEeW6UZ/G3V3md5ST370aXdeeTwUZVauaAXTGG0z/pxmiIoTYPNc052Q==;bIwsfTQneWA8btZHhCE6Jg=="
+secured: "IcF7EOubV1xuNJf+gMFNxdwr1J7bRFHlEJeDIebS1A+AKZbEyrNfcuEzUFI5u/XQ6DhtE88edh3mEpS9u4fsxAfGHNFcOXHCaSW70+ulpSi2Pm5kdE6tfYFRfZbmNtqr71p27WjaLBPMFpUOTmMlxyd2OUObPofqDS+cWwI9hHQAI9i9Stx/KAjebTfeR4YTmLwLLtHcuKgmxXF9aL6Z5s0fMD9ytTH21FYbrFoPM4QdXWaFsWNmzvZt/NrcaEFd3yls4SX+5K9etZwpsOUSOHeQcq6fkMMxilhx7fVRmA4HMgBqAjt26I2R5j8BoOX1Pewd6tjUg/t7LLTxNPBFPWtK8iKrmHzm3GT5mSd4u17xaYzs5K7NHv+UfqKwLtdpykm7KOL9ncKV6ry1MxFOkOi8YfbQzlE1J+di/IuyYAWl/z5DaG1aGqtl9PIfIeLHSe3RwpDKz+MTF/vk5kWszBFDvKg6njdNpOYA2AtQrjfKIpeXQKUfalxkhlZ0EaHK0t210CnV3aHRAuxO4B3AeQ==;J8FwDnW8xmsRVmgEzZqbMg=="
 ---
 

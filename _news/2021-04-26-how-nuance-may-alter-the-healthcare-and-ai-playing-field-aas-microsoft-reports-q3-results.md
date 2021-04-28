@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20793834"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20793834"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1391
     height: 736
     isCached: true
-
-related:
-  - title: "Azure AI Cloud Computing Driving Microsoft Tech Stock Giants Profits - Tech Stocks Investing 2021"
-    excerpt: "With Microsoft AI Azure cloud computing division growing by 50% per annum, converts into a Buy rating of 65%. This video is excerpted from my recent in-depth analysis that updates buy ratings, levels and valuations for the top tech stocks in my AI ..."
-    publishedDateTime: 2021-04-23T16:38:00Z
-    webUrl: "https://www.marketoracle.co.uk/Article68794.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 56
-    images:
-      - url: "https://www.marketoracle.co.uk/images/2021/Apr/Azure-AI-Cloud-Computing-Microsoft-Profits.jpg"
-        width: 800
-        height: 466
-        isCached: true
 
 secured: "XYlpeDZDtoY+oZAUGp9c0ppnNKg0DoNS75yA+Wxd9DPErDzpVQwQHR+AZYb1qSGKOL+Hs43Yf7vndypXqLnYSQz/m7oz+7Z8zN3khP/NBY7oidlkWFR8O5fp/021PqKfetbtsqHYPLKv1uRspRQ3uPHCBWzC618LnFZ8ZgfP2Smmi1iX8y9+2oyVJUjaZXZaiLeTo1gbYHEEXqf+IG1UPdFkUpVdidjl/eu0VwsuuvtpkHFYWzAh1F3Y+PN8YcigttFtJmWfYc1GFYHTMTqaQWYbGLe3o2lhNVx2Xa0/7Z+bJ5L624mieq6zT3SUzlr+oucKsL3yMD4pfC5faH0m4iIrsq8aM7QEOmBcyYiRIvXuAtIDkO/YYsoSAg7DFRFt3EKw78ETixTbK+epeDpS6ILYfIqLVJ4VcJpbe/X3cDBK+HOZdPNeE9mh9ZtebdnC/lc4ff4nLbyoeR2couiWRC/wkqSTrey0a6loUYSUBJ+iduLmNdJrjm5pMfYqGNWuXmYtgEjaCoDTJcIVUC3N/w==;078L0CjteWC2UmMkk1MVxQ=="
 ---

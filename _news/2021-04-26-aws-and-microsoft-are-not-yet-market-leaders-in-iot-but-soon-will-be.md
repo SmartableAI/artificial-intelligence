@@ -42,6 +42,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "ASUS announces Azure Percept Collaboration with Microsoft"
+    excerpt: "Azure Percept DK provides an end-to-end platform for prototyping edge AIoT solutions Easing edge AI difficulties: ASUS and Microsoft collaborating to enable quick and easy prototyping of scenario-based edge AI solutions Azure Percept DK: Pilot-ready development kit integrates deeply with Azure AI,"
+    publishedDateTime: 2021-04-28T07:30:00Z
+    webUrl: "https://technosports.co.in/2021/04/28/asus-announces-azure-percept-collaboration-with-microsoft/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 54
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2021/04/AZURE-Percept-AUDIO-wthBox-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Microsoft sees revenue boost from growth in cloud services"
     excerpt: "Cloud services are becoming more and more important to Microsoft's business. Its Intelligent Cloud services revenue was up 23% year over year."
     publishedDateTime: 2021-04-28T01:08:00Z

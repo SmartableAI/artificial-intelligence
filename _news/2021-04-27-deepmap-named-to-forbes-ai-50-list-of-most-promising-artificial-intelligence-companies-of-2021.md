@@ -36,6 +36,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
+    excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
+    publishedDateTime: 2021-04-26T15:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
+        width: 797
+        height: 419
+        isCached: true
+  - title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
+    publishedDateTime: 2021-04-28T09:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Zz8sYSfbxcjN1c5TJLE6LKaRxZ7PW9nMvWcb2CRwCdrcxihNCbwQHNM043wgvwVAMeIWw8daP82zMPP/zGc75aTYKKVZEA/P0G3dvwNswCRs3YkTO5/wpNv9yVI+sslX0Sn/Z7SucTt9739UZC8mtduOahol0PGUlWySIHKMMNEJVK0EFsXjAbWet5qStswxmhJZ6o6gOiCghw9OGbAmgTYBQQXrz6Ef4Td5Oyf/CF8Z+OpR/lYTGXPK/1qCkwbKuQFsIJdtPEED9wUSc9Jm//+Qvk4zDIpHX0bLM0BeT3iPO/NXUYRXqUd25sHpGwOsQelChdXLSX1iNOz9gVYzvQufYD5eN9Eb0HCmQsyQKmA=;oJ6b9pu/xOzv02fH+zbuvw=="
 ---

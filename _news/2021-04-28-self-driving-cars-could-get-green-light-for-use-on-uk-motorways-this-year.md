@@ -30,6 +30,38 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Government to allow “self-driving” features to be used on UK roads this year"
+    excerpt: "The Government has confirmed it will legalise the use of “self-driving” driver assistance systems before the end of the year."
+    publishedDateTime: 2021-04-28T09:50:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/company-car-tax-and-legislation/2021/04/28/government-to-allow-self-driving-features-to-be-used-on-uk-roads-this-year"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/company-car-tax-and-legislation/2021/04/28/government-to-allow-self-driving-features-to-be-used-on-uk-roads-this-year"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/company-car-tax-and-legislation/2021/04/28/government-to-allow-self-driving-features-to-be-used-on-uk-roads-this-year"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 41
+    images:
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/semi-automous-car_w1200.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "UK government approves 'self-driving' cars on motorways"
+    excerpt: "The UK government on Wednesday became the first country to announce it will regulate the use of self-driving vehicles at slow speeds on motorways, with the first such cars possibly appearing on public roads as soon as this year."
+    publishedDateTime: 2021-04-28T06:29:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-government-approves-self-driving-cars-motorways"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/UK%20motorway%20rtrs%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "opl7/P3nGf1gekteXoeJAEx0Q82wbKkjA8tCv+sD7zw3fbizH4iIkoziprj+F+hAVNSOdPJGmYgf8TbEWGGqVWff92z96HyfyyEs/z/LB8cSYRVLlGDi7AxR3vGu1fbwMviyOdvZQxNp/bH9OOg0N268r63S5+EO1DYIjh00sZiTPcVFwulvvLliaZZooobOi3busdVoDNXugs6tzKzB8mrIAlCDFDBtbRxKucRtB3Aze/gVFLLU+Fv2SuBlh7md+h1VF1fdLE0wCrWq2wOcbMVXLNx2hrg6lcvPeNF0gVoxC+o1A4nsCx88SCtkiIVEFgZ742OkKVP0p6YUNRQBT5e9X3BGKEFCkOqKP3o82kQ=;5EvedRie0YOIhpQX6cNt0w=="
 ---
 

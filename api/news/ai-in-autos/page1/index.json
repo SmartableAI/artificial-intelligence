@@ -10,7 +10,7 @@
       "originalUrl": "https://arstechnica.com/cars/2021/04/lyft-is-getting-out-of-the-self-driving-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -160,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-27-self-driving-truck-company-plus-demonstrates-commitment-to-sustainability-with-eco-friendly-collaborators.md",
+      "title": "Self-Driving Truck Company Plus Demonstrates Commitment To Sustainability With Eco-Friendly Collaborators",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives deeper into Plus, the self-driving truck company, committing to sustaining eco-friendly collaborators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/27/self-driving-truck-company-plus-demonstrates-commitment-to-sustainability-with-eco-friendly-collaborators/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/27/self-driving-truck-company-plus-demonstrates-commitment-to-sustainability-with-eco-friendly-collaborators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60880ffb0099e81aa253b059%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/04/27/self-driving-truck-company-plus-demonstrates-commitment-to-sustainability-with-eco-friendly-collaborators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/04/27/self-driving-truck-company-plus-demonstrates-commitment-to-sustainability-with-eco-friendly-collaborators/amp/",
+      "publishedDateTime": "2021-04-27T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-25-waymos-leadership-shift-spotlights-self-driving-car-challenges.md",
       "title": "Waymo’s leadership shift spotlights self-driving car challenges",
       "excerpt": "Waymo's recent executive shuffle signals driverless technology has a ways to go before a robust self-driving car industry becomes reality.",
@@ -251,6 +303,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-23-baidu-and-geely-plan-77-billion-smart-car-push.md",
+      "title": "Baidu and Geely plan $7.7 billion smart car push",
+      "excerpt": "For its part, Baidu has been investing in self-driving technology for years and its January announcement of the collaboration with Geely gave its share price a jolt. This year alone, Geely has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push",
+      "originalUrl": "https://www.autonews.com/china/baidu-and-geely-plan-77-billion-smart-car-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/jidu.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -426,6 +521,58 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-google-turmoil-exposes-cracks-long-in-making-for-top-ai-watchdog.md",
+      "title": "Google Turmoil Exposes Cracks Long in Making for Top AI Watchdog",
+      "excerpt": "Gebru had emerged as one of a handful of artificial intelligence researchers who was ... Gebru wanted to look into a dataset publicly released by Waymo, the self-driving car unit of Google parent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-21/google-ethical-ai-group-s-turmoil-began-long-before-public-unraveling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSRM08lQd4Tc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1283,127 +1430,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-better-buy-baidu-vs-alibaba.md",
-      "title": "Better Buy: Baidu vs. Alibaba",
-      "excerpt": "Meanwhile, Baidu's ad revenue continued to decline, its streaming-video unit iQiyi lost its momentum, and its expansion into next-gen markets like artificial intelligence (AI) and driverless cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/better-buy%3A-baidu-vs.-alibaba-2021-04-16",
-      "originalUrl": "https://www.nasdaq.com/articles/better-buy%3A-baidu-vs.-alibaba-2021-04-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ford-and-teslas-ev-rivalry-heats-up.md",
-      "title": "Ford And Tesla’s EV Rivalry Heats Up",
-      "excerpt": "Ford boss Jim Farley took a jab at Tesla by highlighting how the two companies are nothing alike when it comes to testing driverless tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/ford-and-teslas-ev-rivalry-heats-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/MWS_CTA_2021_small.png",
-          "width": 479,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-ocado-to-invest-10m-in-driverless-vehicle-start-up-oxbotica.md",
-      "title": "Ocado to invest £10m in driverless vehicle start-up Oxbotica",
-      "excerpt": "The first prototypes for driverless vehicles are expected be ready in two years, although they will likely be first used in its warehouses rather than in the street to make deliveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "originalUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/16/10/41828434-0-image-a-14_1618564123670.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/markets/article-9477939/amp/Ocado-invest-10m-driverless-vehicle-start-Oxbotica.html",
-      "publishedDateTime": "2021-04-16T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

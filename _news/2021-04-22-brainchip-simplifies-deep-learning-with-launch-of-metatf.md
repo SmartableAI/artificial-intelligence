@@ -2,47 +2,25 @@
 category: news
 title: "BrainChip Simplifies Deep Learning with Launch of MetaTF"
 excerpt: "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor."
-publishedDateTime: 2021-04-22T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210422005415/brainchip-simplifies-deep-learning-with-launch-of-metatf"
-webUrl: "https://www.morningstar.com/news/business-wire/20210422005415/brainchip-simplifies-deep-learning-with-launch-of-metatf"
+publishedDateTime: 2021-04-22T14:01:00Z
+originalUrl: "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html"
+webUrl: "https://www.wfmz.com/news/ap/ap-business/brainchip-simplifies-deep-learning-with-launch-of-metatf/article_c3291355-a1d4-59f1-9306-11c1f6d5ae1c.html"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "MetaTF development environment to simplify deep learning"
-    excerpt: "The MetaTF development environment is an easy-to-use, complete machine learning framework for the creation, training and testing of neural networks, supporting the development of systems for Edge AI on BrainChip’s Akida event domain neural processor."
-    publishedDateTime: 2021-04-23T00:02:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/metatf-development-environment-looks-to-simplify-deep-learning/236584/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 41
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/236584/rain.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "BrainChip Simplifies Deep Learning with Launch of MetaTF"
-    excerpt: "The MetaTF development environment leverages TensorFlow and Keras for industry-standard neural network development and training and includes the Akida Execution Engine (chip simulator), data-to-event converters, and a model zoo of pre-trained models."
-    publishedDateTime: 2021-04-23T01:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210422005415/en/BrainChip-Simplifies-Deep-Learning-with-Launch-of-MetaTF"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 36
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/34/53471e9b-4634-5c50-b107-4ed265e2a7e7/60818531e5d3c.image.jpg?resize=1140%2C630"
+    width: 1140
+    height: 630
+    isCached: true
 
-secured: "lLZ9vRoCE622ZVU0pS0NZ8uQ8kAeuzXDuJ578TkvkEcVKzwXl6FV2a1xC2+HM6EvZP6hpxZFx4752EgbYwc0If+/Iv2jn+ksNhQP/Nj25B99xZO0S689W+onOAuFKbvudTuWlHRcawWfpu8HqvHCeWbYRPHXuVOHwVHIa1QkME/jdYLJpJb4jD9xXmvRkKlqbZIpVJsGqKeTOBEnxRZuKYyBa8YEbZsboWIg+nAHANU9o3Jn3LzMuodjxM8QI/OCLdm6GOswgkFJpImYkS8GBi4yyyGTprHETJ62n1prIwjDp1l9v18yeqdJkosFa+cgk/stzcMU9Qgmlnv9Eph3CITbbZC0+/oaU40dQuwSppM=;HcgAESAilgOoYp0x5OxM5Q=="
+secured: "x0eEnq6cLls8i8BCDw5CocBqdHq0ZlItyo9vuULNWX7LCKA6V0HU1+MPlkJzR3zseggLu2FkAfgwpq6UB0Li63jSTNbX91xTrjpqP8OY5fXIAlq3VxPINbStZcHiig0vT7X8xjOQ6CJyTqyT4zhBkpq0Q7/kqII//m6spe4FWj0TuW+S4yTuDDb1m8TiH1aaZANlUWjoIkdVVx/VP4/nE7WYU/5OFSmMop+1CmYibNxB7SRByH6jK4IZBWPYr2BI1bPw+NZnskjxrNPw5GL2Z9pxzXgVXt9kAEutpwyT4Fy0O5bF24kufAzzuGt2a92Y7kG7Ag2MwOyHavKB6QMZaFZ2aZjCdqYoWvWrOQwWpyg=;OfngIO5E//kBsmRiFFF3/g=="
 ---
 

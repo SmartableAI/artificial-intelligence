@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-26-apple-acquired-the-highest-number-of-ai-startups-in-last-5-years.md",
+      "title": "Apple Acquired The Highest Number Of AI Startups In Last 5 Years",
+      "excerpt": "Apple Inc. (NASDAQ: AAPL) went on an acquisition spree during the last five years and acquired more artificial intelligence companies than other U.S. technology giants during",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/21/03/20353892/apple-acquired-the-highest-number-of-ai-startups-in-last-5-years",
+      "originalUrl": "https://www.benzinga.com/m-a/21/03/20353892/apple-acquired-the-highest-number-of-ai-startups-in-last-5-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/alisina-elyasi-t5a2h-wuvfi-unsplash_1_0.jpg",
+          "width": 3527,
+          "height": 4897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20353892",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20353892",
+      "publishedDateTime": "2021-03-26T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-former-google-ceo-gives-150m-for-research-in-biology-ai.md",
       "title": "Former Google CEO gives $150M for research in biology, AI",
       "excerpt": "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ...",

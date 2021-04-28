@@ -33,20 +33,6 @@ related:
         width: 1600
         height: 1131
         isCached: true
-  - title: "A novel algorithm to detect non-wear time from raw accelerometer data using deep convolutional neural networks"
-    excerpt: "All models were trained on 2 × Nvidia RTX 2080TI graphics cards and programmed in the Python library TensorFlow (v2.0) 36. At this stage, the trained CNN model can only classify the start and stop windows of a candidate non-wear episode. To fully detect ..."
-    publishedDateTime: 2021-04-23T15:41:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-87757-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-87757-z/MediaObjects/41598_2021_87757_Fig1_HTML.png"
-        width: 685
-        height: 375
-        isCached: true
 
 secured: "1bkrr57g8Z1Ogr7ON7m6ij0F2n29WjUzzcPm7DmMUzmRhzt2E/vSaL0oVhXP/Z2zwjB+AVYu731P+E1asusiYfctztkw1Xv/48DbWvKWaODy5iX7EChX23VHRW2jkoFxQwWmWMFksqkJ9VfGYvvGJpz7mZ+ZD9iSkX/bpmFHGzC3dD1gIaqYsxKqt1y3GSKQFjIgtnM2jFfq1j5yTeXu4Y/mc1wzm5xd44kNYutZFmRKkIXSeFVFHArldSkouxlI2VnNap1Vui/X9nhloV1T0OKsl3nyBpbrIVtXh5famBAm1iPvJKgaPBh4V6QXesMmIs34EMsSDn34jUF5DOxS6ICBrsv/ScTjnRkgcQ2kEb0=;2WAbC4Pd+T2Ip7VYjyGltw=="
 ---

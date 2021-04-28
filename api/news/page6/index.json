@@ -2,6 +2,349 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-04-21-catena-group-jumps-after-buying-machine-learning-group-for-279mln.md",
+      "title": "Catena Group jumps after buying machine learning group for £27.9mln",
+      "excerpt": "Catena Group PLC (LON:CTNA) has seen its shares surge after the AIM-listed holding company unveiled a £27.9mln deal and returned from September's suspension. Its is paying a mixture of cash and shares for Insight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/947223/catena-group-jumps-after-buying-machine-learning-group-for-279mln-947223.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_04/1200z740_1619013109_CLEVELAND_RETAIL-PARK_Hammerson.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/947223",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/947223",
+      "publishedDateTime": "2021-04-21T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-treatmentcom-building-the-smartest-artificial-intelligence-ai-system-for-healthcare.md",
+      "title": "Treatment.com - Building the Smartest Artificial Intelligence (AI) System for Healthcare",
+      "excerpt": "Treatment.com saw the opportunity to provide more accurate results backed by powerful Artificial Intelligence (AI) technology. They created easy and supportive digital tools to help people make important decisions and improve their health.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/treatment-com-building-the-smartest-artificial-intelligence-ai-system-for-healthcare-1030328092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more.md",
+      "title": "Hive raises $85M for AI-based APIs to help moderate content, identify objects and more",
+      "excerpt": "As content moderation continues to be a critical aspect of how social media platforms work — one that they may be pressured to get right, or at least do better in tackling — a startup that has built a set of data and image models to help with that,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/",
+      "originalUrl": "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1084580876.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/21/hive-raises-85m-for-ai-based-apis-to-help-moderate-content-identify-objects-and-more/amp/",
+      "publishedDateTime": "2021-04-21T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-hives-cloud-hosted-machine-learning-models-draw-85m.md",
+      "title": "Hive’s cloud-hosted machine learning models draw $85M",
+      "excerpt": "Hive wants to encourage machine learning in the cloud by allowing enterprises to access hosted ML models via APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
+      "originalUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/Hive-Content-Moderation-Landscape.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/hives-cloud-hosted-machine-learning-models-draw-85m/amp/",
+      "publishedDateTime": "2021-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence.md",
+      "title": "Signia Reveals Hearing Aids With Wireless Earbud Technology And Artificial Intelligence",
+      "excerpt": "Signia is a major hearing aid manufacturer that has developed the Active and Active Pro hearables that bring the advantages offered by true wireless earbuds along with advanced hearing loss technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6080007309abd0fdccd42d0e%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/04/21/signia-reveals-hearing-aids-with-wireless-earbud-technology-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-artificial-intelligence.md",
+      "title": "CEO of Softbank-backed SambaNova explains the firm's approach to artificial intelligence",
+      "excerpt": "Many companies are struggling to figure out how to hire teams in order to deploy artificial intelligence technology, says Rodrigo Liang, co-founder and CEO of SambaNova Systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/04/21/ceo-of-softbank-backed-sambanova-explains-the-firms-approach-to-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106870723-16189099913ED4-SBA-042021-RodrigoLiang.jpg?v=1618909991",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-eu-seeks-global-standards-for-ai-civil-rights-groups-fret.md",
+      "title": "EU seeks global standards for AI, civil rights groups fret",
+      "excerpt": "The European Commission on Wednesday announced tough draft rules on the use of artificial intelligence, including a ban on most surveillance, in an attempt to set global standards for a key technology dominated by China and the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0",
+      "originalUrl": "https://www.reuters.com/article/us-eu-tech-artificialintelligence-idUSKBN2C81E0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210421&t=2&i=1559403133&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3K1BP",
+          "width": 968,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2C81E0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C81E0",
+      "publishedDateTime": "2021-04-21T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-marketing-automation-startup-activecampaign-raises-240m.md",
       "title": "Marketing automation startup ActiveCampaign raises $240M",
       "excerpt": "Marketing automation startup ActiveCampaign has raised $240 million, bringing its total raised to over $30 million.",
@@ -535,6 +878,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-21-ai-algorithms-can-influence-peoples-voting-and-dating-decisions-in-experiments.md",
+      "title": "AI algorithms can influence people's voting and dating decisions in experiments",
+      "excerpt": "In a new series of experiments, artificial intelligence (A.I.) algorithms were able to influence people's preferences for fictitious political candidates or potential romantic partners, depending on whether recommendations were explicit or covert.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2021-04/p-aac041421.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-04/p-aac041421.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/262069_web.jpg",
+          "width": 720,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-21-1000x-regular-chips-from-new-cerebras-ai-wafer-chip.md",
       "title": "1000X Regular Chips from New Cerebras AI Wafer Chip",
       "excerpt": "The WSE-2 covers 46,255 square millimeters — 56 times larger than the largest graphics processing unit. With 850,000 cores, 40 Gigabytes of on-chip SRAM, 20",
@@ -816,394 +1202,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings.md",
-      "title": "Chengdu Hunters Dominate The First Week Of Overwatch League’s AI-Driven Power Rankings",
-      "excerpt": "Chengdu Hunters reign supreme on both the team and overall player rankings. MORE FROM FORBES IBM Watson AI Will Calculate The Overwatch Lea",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f0828aef7a98e2d58bc3a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
-      "publishedDateTime": "2021-04-20T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-cerebras-launches-new-ai-supercomputing-processor-with-26-trillion-transistors.md",
-      "title": "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors",
-      "excerpt": "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
-      "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
-      "publishedDateTime": "2021-04-20T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-why-robots-just-cant-grow-good-weed.md",
-      "title": "Why Robots Just Can't Grow Good Weed",
-      "excerpt": "Cannabis farm production is at an all-time high, but it's unlikely that robots will take over the process anytime soon. The stereotypical weed farm is either a sprawling expanse of crop tended to by free-spirited stoners,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
-      "originalUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/w/why-robots/why-robots-just-cant-grow-good-weed_xfx6.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
-      "publishedDateTime": "2021-04-20T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed.md",
-      "title": "Artificial Intelligence In The Datacenter Means Power And Physical Structural Issues Must Be Addressed",
-      "excerpt": "Understanding power consumption, to better extend the life of existing datacenters, and to improve both expansion of those and the development of new centers, is critical to helping AI be cost effective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
-      "publishedDateTime": "2021-04-20T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ftc-warns-it-could-crack-down-on-biased-ai.md",
-      "title": "FTC warns it could crack down on biased AI",
-      "excerpt": "The US Federal Trade Commission has warned companies against using biased artificial intelligence, saying they may break consumer protection laws. A new blog post notes that AI tools can reflect “troubling” racial and gender biases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
-      "originalUrl": "https://www.theverge.com/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/I8PVgZfLfUf1kr7ZczLiHueUg1g=/0x0:1000x667/1400x933/filters:focal(420x254:580x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69156653/shutterstock_229697875.0.0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
-      "publishedDateTime": "2021-04-20T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-combining-light-superconductors-could-boost-ai-capabilities.md",
-      "title": "Combining light, superconductors could boost AI capabilities",
-      "excerpt": "As artificial intelligence has attracted broad interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct artificial systems with general intelligence comparable to humans' intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
-      "originalUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/combininglig.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
-      "publishedDateTime": "2021-04-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops.md",
-      "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops ...",
-      "excerpt": "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) and Machine Learning Operations (ML Ops) categories.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-20T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9.md",
-      "title": "Scale AI founder and CEO Alexandr Wang will join us at TC Sessions: Mobility on June 9",
-      "excerpt": "Scale AI announced a massive $325 million Series E. Led by Dragoneer, Greenoaks Capital and Tiger Global, the raise gives the San Francisco data labeling startup a $7 billion valuation. Alexandr Wang founded the company back in 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
-      "originalUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ALEXANDR_speakers.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
-      "publishedDateTime": "2021-04-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

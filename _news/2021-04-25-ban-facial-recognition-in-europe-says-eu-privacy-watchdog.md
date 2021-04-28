@@ -32,22 +32,6 @@ images:
 
 related:
   - title: "Facial recognition should be banned, EU privacy watchdog says"
-    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
-    publishedDateTime: 2021-04-23T15:32:00Z
-    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
-    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facial recognition should be banned, EU privacy watchdog says"
     excerpt: "Facial recognition should be banned in Europe because of its \"deep and non-democratic intrusion\" into people's private lives, EU privacy watchdog the .."
     publishedDateTime: 2021-04-24T03:07:00Z
     webUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
@@ -62,6 +46,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-82226129,imgsize-40848,width-800,height-434,overlay-ettelecom/facial-recognition-should-be-banned-eu-privacy-watchdog-says.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "POLITICO AI: Decoded: Washington’s AI awakening — Europe split on facial recognition — What to do about health data"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-28T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/amp/"
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 52
+    images:
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "fLB4D6DKdWYh8TNYe+qV9Igk0SdJAOblaj5WbbV87vxVkVSYTJ/VmpEK9J8GURAVg4Kakgzo7VJfVbw5tY+lFCkbIBrOQOGV6iMcX/HSOsLqyROmY8FvjikioQxbudwTR+jM8gc0uJmku33MrR+WJh+hkrTizDexTQqGFq1hIvYV185jcdqn3M80xUCYQmbk2U6TC4iOLyeB5uETmrFLN+oEMMx8QKJ9ZP344Y7fpzSarY8US1LlAqKLWzWUCZgXqww6HSZB5U/a7Cr+l1N5FU48AT1igVXUnBDokGIjI2uAvfODlR+tGrkzVASG/GfJ6XfcPSivfRpO63iKWk41VCrBfv5i7hG/tRsuqUSvdHBmqYWrWstdJStCGwFyS5U+jjHxATE1s1Rddo2gZARB6zy/DmBsfbWYhKZa6KWIOjKNbMuW2El6OgjilDytdZR8POBmWN0SKK/83hhRE00IsugJlHgSgVr6eBOwem+Xq/GZPvp9ziWVwljtgXq/T4t/+FIc8SaHC/y6ONZjzXTKnA==;wDHydv29/Ve2aio4x5EeJg=="

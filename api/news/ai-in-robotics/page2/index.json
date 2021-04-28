@@ -1222,6 +1222,49 @@
       ]
     },
     {
+      "path": "_news/2021-04-10-hacklet-105-more-mind-and-brain-hacks.md",
+      "title": "Hacklet 105 – More Mind And Brain Hacks",
+      "excerpt": "[Angeliki] even went on to create a Mind-Controlled Robotic Xylophone based on this project. Next is [Stuart Longland] who hopes to protect brains with Improved Helmets. Traumatic Brain Injury ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
+      "originalUrl": "https://hackaday.com/2016/04/30/hacklet-105-more-mind-and-brain-hacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2014/11/hacklet-featured-image1.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-10-robot-delivery-cars-in-miami-offer-glimpse-of-future-urban-retail-landscape.md",
       "title": "Robot delivery cars in Miami offer glimpse of future urban retail landscape",
       "excerpt": "This unique service is being provided through a partnership between self-driving and robotics startup Cartken and REEF Technology ... peak dining hours and lowering carbon emissions. The artificial intelligence-powered robots’ “sophisticated mix ...",
@@ -1409,50 +1452,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers.md",
-      "title": "In an AI world we need to teach students how to work with robot writers",
-      "excerpt": "Artificial intelligence is probably already helping many students write essays. Schools and unis need to start talking about the ethical implications now.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "originalUrl": "https://theconversation.com/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/393723/original/file-20210407-17-yj7942.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-an-ai-world-we-need-to-teach-students-how-to-work-with-robot-writers-157508",
-      "publishedDateTime": "2021-04-08T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

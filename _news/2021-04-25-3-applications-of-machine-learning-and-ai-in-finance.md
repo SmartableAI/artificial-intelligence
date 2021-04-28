@@ -7,7 +7,7 @@ originalUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of
 webUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of-machine-learning-and-ai-in-finance-2d5c4825-e0ad-4dda-bec6-22e91842eaa7"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the Future of Financial Management"
-    excerpt: "it’s time to stop being a historian and start being a visionary. Join this webinar and hear from Aaron Harris, CTO at Sage, as he shares his vision of the future of financial management and the role of AI. You'll also learn how: Periodic closes will ..."
-    publishedDateTime: 2021-04-23T16:31:00Z
-    webUrl: "https://www.wealthmanagement.com/webinars/ai-and-future-financial-management-0"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 37
-    images:
-      - url: "https://www.wealthmanagement.com/sites/all/themes/penton_subtheme_wealthmanagement/images/logos/share-logo.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Using AI and data to make decisions faster"
     excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
     publishedDateTime: 2021-04-23T20:06:00Z

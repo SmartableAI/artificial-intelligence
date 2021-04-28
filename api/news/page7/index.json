@@ -2,6 +2,394 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-04-21-chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings.md",
+      "title": "Chengdu Hunters Dominate The First Week Of Overwatch League’s AI-Driven Power Rankings",
+      "excerpt": "Chengdu Hunters reign supreme on both the team and overall player rankings. MORE FROM FORBES IBM Watson AI Will Calculate The Overwatch Lea",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
+      "originalUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607f0828aef7a98e2d58bc3a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2021/04/20/chengdu-hunters-dominate-the-first-week-of-overwatch-leagues-ai-driven-power-rankings/amp/",
+      "publishedDateTime": "2021-04-20T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-21-cerebras-launches-new-ai-supercomputing-processor-with-26-trillion-transistors.md",
+      "title": "Cerebras launches new AI supercomputing processor with 2.6 trillion transistors",
+      "excerpt": "Cerebras Systems has unveiled its new Wafer Scale Engine 2 processor with a record-setting 2.6 trillion transistors and 850,000 AI cores.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
+      "originalUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/cerebras-main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/20/cerebras-systems-launches-new-ai-supercomputing-processor-with-2-6-trillion-transistors/amp/",
+      "publishedDateTime": "2021-04-20T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-why-robots-just-cant-grow-good-weed.md",
+      "title": "Why Robots Just Can't Grow Good Weed",
+      "excerpt": "Cannabis farm production is at an all-time high, but it's unlikely that robots will take over the process anytime soon. The stereotypical weed farm is either a sprawling expanse of crop tended to by free-spirited stoners,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
+      "originalUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/feature/w/why-robots/why-robots-just-cant-grow-good-weed_xfx6.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/culture/21706/why-robots-just-cant-grow-good-weed?amp=1",
+      "publishedDateTime": "2021-04-20T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed.md",
+      "title": "Artificial Intelligence In The Datacenter Means Power And Physical Structural Issues Must Be Addressed",
+      "excerpt": "Understanding power consumption, to better extend the life of existing datacenters, and to improve both expansion of those and the development of new centers, is critical to helping AI be cost effective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606d25ef29c22d94b278e840%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/04/20/artificial-intelligence-in-the-datacenter-means-power-and-physical-structural-issues-must-be-addressed/amp/",
+      "publishedDateTime": "2021-04-20T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-ftc-warns-it-could-crack-down-on-biased-ai.md",
+      "title": "FTC warns it could crack down on biased AI",
+      "excerpt": "The US Federal Trade Commission has warned companies against using biased artificial intelligence, saying they may break consumer protection laws. A new blog post notes that AI tools can reflect “troubling” racial and gender biases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
+      "originalUrl": "https://www.theverge.com/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/I8PVgZfLfUf1kr7ZczLiHueUg1g=/0x0:1000x667/1400x933/filters:focal(420x254:580x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69156653/shutterstock_229697875.0.0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation",
+      "publishedDateTime": "2021-04-20T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-combining-light-superconductors-could-boost-ai-capabilities.md",
+      "title": "Combining light, superconductors could boost AI capabilities",
+      "excerpt": "As artificial intelligence has attracted broad interest, researchers are focused on understanding how the brain accomplishes cognition so they can construct artificial systems with general intelligence comparable to humans' intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
+      "originalUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/combininglig.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-combining-superconductors-boost-ai-capabilities.amp",
+      "publishedDateTime": "2021-04-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-rackspace-technology-achieved-aws-machine-learning-competency-in-new-applied-ai-and-ml-ops.md",
+      "title": "Rackspace Technology Achieved AWS Machine Learning Competency in New Applied AI and ML Ops ...",
+      "excerpt": "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) and Machine Learning Operations (ML Ops) categories.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-de248c9eb634b91d93356cd4c329fddb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-20T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-20-scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9.md",
+      "title": "Scale AI founder and CEO Alexandr Wang will join us at TC Sessions: Mobility on June 9",
+      "excerpt": "Scale AI announced a massive $325 million Series E. Led by Dragoneer, Greenoaks Capital and Tiger Global, the raise gives the San Francisco data labeling startup a $7 billion valuation. Alexandr Wang founded the company back in 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
+      "originalUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/ALEXANDR_speakers.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/20/scale-ai-founder-and-ceo-alexandr-wang-will-join-us-at-tc-sessions-mobility-on-june-9/amp/",
+      "publishedDateTime": "2021-04-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-synthesia-raises-125m-for-ai-that-generates-avatar-videos.md",
       "title": "Synthesia raises $12.5M for AI that generates avatar videos",
       "excerpt": "Synthesia, a startup developing AI that can generate videos of avatars for marketing purposes, has raised $12.5 million.",
@@ -819,383 +1207,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-boris-krumrey-uipath-on-rpa-for-digital-transformation-and-the-fully-automated-enterprise.md",
-      "title": "Boris Krumrey, UiPath: On RPA for digital transformation and the fully-automated enterprise",
-      "excerpt": "CloudTech spoke with Boris Krumrey, global VP of automation innovations at UiPath, on the wider role of RPA within digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uipath.com/",
-      "originalUrl": "https://cloudcomputing-news.net/news/2021/apr/20/boris-krumrey-uipath-on-rpa-for-digital-transformation-and-the-fully-automated-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uipath.com/cdn-cgi/image/width=400,format=auto/https:////images.ctfassets.net/5965pury2lcm/ANgrEutfNzeqQzfw1eOKU/9b87462b087505f2c63bd8313f816d3b/Card-Img-UiPathLive.png",
-          "width": 384,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.uipath.com/",
-      "cdnAmpWebUrl": "https://www-uipath-com.cdn.ampproject.org/c/s/www.uipath.com/",
-      "publishedDateTime": "2021-04-20T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-why-b-schools-in-india-should-include-ai-and-robotics-in-curriculum.md",
-      "title": "Why B-Schools in India should include AI and Robotics in curriculum",
-      "excerpt": "As a result, many B-schools in India have started to include this in their curriculum. While a management graduate may not use these technologies the way an engineer would, they need to know their impact on the business world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece",
-      "originalUrl": "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/education/md6lqp/article34345019.ece/ALTERNATES/LANDSCAPE_615/19EPBSROBOTICSjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/why-b-schools-in-india-should-include-knowledge-of-ai-and-robotics-in-their-curriculum/article34345020.ece/amp/",
-      "publishedDateTime": "2021-04-19T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-google-translation-ai-botches-legal-terms-enjoin-garnish-research.md",
-      "title": "Google translation AI botches legal terms ‘enjoin,’ ‘garnish’ – research",
-      "excerpt": "Translation tools from Alphabet Inc's Google and other companies could be contributing to significant misunderstanding of legal terms with conflicting meanings such as \"enjoin,\"",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research",
-      "originalUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2019/05/crime-scene-300x200-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp",
-      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/109188/google-translation-ai-botches-legal-terms-enjoin-garnish-research/amp",
-      "publishedDateTime": "2021-04-19T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-self-driving-car-conundrum-teslas-latest-crash-raises-concerns-about-autopilot-safety-claims.md",
-      "title": "Self-driving car conundrum: Tesla's latest crash raises concerns about Autopilot safety claims",
-      "excerpt": "The belief that self-driving cars are a reality is worrying watchdogs, who say that some people are too confident in them after another Tesla crash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
-      "originalUrl": "https://www.freep.com/story/money/cars/2021/04/20/tesla-autopilot-crash-what-can-cant-self-driving-cars-do/7283027002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/f4c4c3d8d99ab9a0fd37e8d3d494112eb6c0c801/c=0-0-580-326/local/-/media/2018/11/29/USATODAY/usatsports/tesla-autopilot-1-billion-miles_large.png?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/7283027002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7283027002",
-      "publishedDateTime": "2021-04-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models.md",
-      "title": "Enforce VPC rules for Amazon Comprehend jobs and CMK encryption for custom models",
-      "excerpt": "You can now control the Amazon Virtual Private Cloud (Amazon VPC) and encryption settings for your Amazon Comprehend APIs using AWS Identity and Access Management (IAM) condition keys, and encrypt your Amazon Comprehend custom models using customer managed keys (CMK) via AWS Key Management Service (AWS",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enforce-vpc-rules-for-amazon-comprehend-jobs-and-cmk-encryption-for-custom-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/13/1-Architecture1853.jpg",
-          "width": 800,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T16:44:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-move-over-artificial-intelligence-there-is-a-new-ai-in-town.md",
-      "title": "Move Over Artificial Intelligence, There Is A New AI In Town",
-      "excerpt": "What is Augmented Intelligence and why should you care about it? Why does Augmented Intelligence need AI Literacy?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de55517e34e233f65920b%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/04/19/move-over-artificial-intelligence-there-is-a-new-ai-in-town/amp/",
-      "publishedDateTime": "2021-04-19T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai.md",
-      "title": "The Forbes 30 Under 30 Asia Startups Unshackling Businesses Using AI",
-      "excerpt": "The four cofounders of South Korean startup Selectstar are among the entrepreneurs in the Enterprise Technology category of this year's Forbes 30 Under 30 Asia list that are using AI technologies to improve everything from drafting legal documents to the way AI itself is trained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6073b74ced6af72207d03133%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2021/04/19/the-forbes-30-under-30-asia-startups-unshackling-businesses-using-ai/amp/",
-      "publishedDateTime": "2021-04-19T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-ai-powered-shopping-app-the-yes-expands-plus-size-offering.md",
-      "title": "AI-Powered Shopping App, The Yes, Expands Plus-Size Offering",
-      "excerpt": "The Yes, an AI-powered fashion shopping app, is expanding its plus-size offering to nearly 40 size-inclusive fashion brands, including 11 Honoré, Misha Nonoo, Universal Standard, Levi’s, Madewell, Aritzia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
-      "originalUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F607de306e2e94a50b1c51836%2F0x0.jpg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/virgietovar/2021/04/19/ai-powered-shopping-app-the-yes-expands-plus-size-offering/amp/",
-      "publishedDateTime": "2021-04-19T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

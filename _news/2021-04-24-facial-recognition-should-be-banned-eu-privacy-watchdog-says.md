@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition should be banned, EU privacy watchdog says"
-    excerpt: "BRUSSELS, April 23 – Facial recognition should be banned in Europe because of its “deep and non-democratic intrusion” into people’s private lives, EU privacy watchdog the ..."
-    publishedDateTime: 2021-04-23T15:32:00Z
-    webUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/"
-    ampWebUrl: "https://nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/23/facial-recognition-should-be-banned-eu-privacy-watchdog-says/amp/"
+  - title: "POLITICO AI: Decoded: Washington’s AI awakening — Europe split on facial recognition — What to do about health data"
+    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
+    publishedDateTime: 2021-04-28T09:00:00Z
+    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/"
+    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-washingtons-ai-awakening-europe-split-on-facial-recognition-what-to-do-about-health-data/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: POLITICO
+      domain: politico.eu
+    quality: 52
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/European-union-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "NPIlNMCtBvlCIFaOlYkIFqwL7ZvALR0rG5u3hHEetBmRmWYoSXHiPDZNkMLAuGTV5pRD7Coh+/9WltGQZOQfksGHaftvv4nZEBQL9fqX7PT/lB3q5DOoWq+S2/6asKx+unPdwX2QUVD8mwtr3JBt/v+mJvTzlkNT6jhLpJWbdqotR2AOjck8zXNF+Ds825nwKJhwi4BbgIux92Ch/yJKNOZ4NxSHArKI7H0kqGtZlhy7q1FeSqrM9HikwQLJpbDuCCT0jysoC8mHXv4YbxVv6hUroXzp3XYGIUzE8sqCbJRa7DQqlwsjlROUrlPQ2Dj1iyhQIBOIXaNmJ5BSt82npSc9SHHe9By1G8JQydfupTQ=;y7L7z4T/zETmmXRECRCsGg=="

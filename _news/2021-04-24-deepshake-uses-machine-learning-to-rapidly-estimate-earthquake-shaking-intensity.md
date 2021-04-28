@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-04-deepshake-machine-rapidly-earthquake-i
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-deepshake-machine-rapidly-earthquake-intensity.amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1276
     height: 1920
     isCached: true
-
-related:
-  - title: "DeepShake uses machine learning to rapidly estimate earthquake shaking intensity"
-    excerpt: "DeepShake demonstrates the potential of machine learning models to improve the speed and accuracy of earthquake alert systems, he added. \"DeepShake aims to improve on earthquake early warnings by ..."
-    publishedDateTime: 2021-04-23T15:57:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-04/ssoa-dum042321.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7hse9lg5Sjck8G3whXXva2Wsdz1Q7xjgcCammDoU3Tn7ns//0f9+E3iFbyztoavms0pOoddh7jQr/MzLZwbkkt7ZH6OUth8QU4Psgl6Mmllc84pZ9rqA3J5on0fEX1adULtFUCGLWYOHmWqaMnOxTnFcj8fKyLSLjONYX0H0G055vay93zma2A8GLOi7kudNxR9o/2a/OLeON6sAuJHDw6r6ZVmRqD8VyRwMJyHQNafJ0NZXeZY1jiszKyOzPOfha/iexv6Z03eDfwKUlxVLncji7OkUd70hMLLHBMrBbo7gQinBLuX0S+HlX2m6RUdxO64RYGmvFhziDgWHgkRXqsqvngZgUimnBJC1j0SvUPWbPss44sjR8KdqbLcfVoP01lQRB8V/bZYqmapwIgH6ylIlCIHqTDJ1eAJhLirdx3I1+Y2NjtH73MhLSSWLzATsfqhxGsvxlKGC7GXKSS0GgkTYef4th4q9LajggGLH6YtbHFu4GxDX1otlbmMbTfzt/o0UGs03cLb4DKOwhlZ9dA==;jtNbeg+xDSsab66HQv0a+w=="
 ---

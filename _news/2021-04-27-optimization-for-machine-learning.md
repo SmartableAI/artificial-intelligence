@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Elearning!® Magazine Honored for Publishing Excellence - Maggie Awards Recognition Marks 33rd Award for Elearning! Media Group"
-    excerpt: "\"This recognition from our publishing peers is a great honor ... COVID has pushed our industry to serve new segments in creative and dynamic ways. It depends on its media voice to do the same. Thank you to our many partners who make this media group ..."
-    publishedDateTime: 2021-04-23T16:00:00Z
-    webUrl: "https://www.pr.com/press-release/835107"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 0
-
 secured: "1FzpzjlOcThyA+1aaPYq3UlshJXqN1gTS+EJncy6PQQ17if+L9JFxLX7NkF76JvjlVfZcPBcWTjcuHlZtzA41GyU7Ll92Rskj3AKH/1WAf9wCEtTwhNczmUjSRPVO/1dWz+RYsR5OkEZcBlJ6/JxYVKRTmU7Ewv2V+SWkAWjRtGIglwN4fnQqtgHg0rsY7PjmMWIaIsoMFyW/3+7Ezyutqe9u3gItloX4AP4rSyel9+igG+LPWbD2BTDGCmjPjXAT+ugkcsx2q+obhB0UkmDnS+LvaE76Er3mAhf83lE0gWvMceVoeDNshQUaZwtixsxZdaH9YbV3OJMWGi6dkQCFRcx/Op6cPbGCTqVnbkbYz8=;UMPCPhEc/kMfnBImP/Mmcg=="
 ---
 

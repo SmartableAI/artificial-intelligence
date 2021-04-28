@@ -55,6 +55,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
+    publishedDateTime: 2021-04-27T14:20:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Toyota acquires Lyft's self-driving division"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
+    publishedDateTime: 2021-04-28T04:00:00Z
+    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Toyota acquires Lyft’s self-driving unit for $550 million"
     excerpt: "The acquisition of Lyft's self-driving division was carried out by Woven Planet Holdings, a Toyota subsidiary that focuses on innovations and investment in projects such as “smart cities,” robotics and automated driving."
     publishedDateTime: 2021-04-27T22:48:00Z

@@ -59,6 +59,36 @@ related:
         width: 730
         height: 486
         isCached: true
+  - title: "Toyota acquires Lyft's self-driving unit for $550 million"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlights the Japanese automaker’s ambitions in that technology"
+    publishedDateTime: 2021-04-27T14:20:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/toyota-acquires-lyfts-driving-unit-500-million-77335381"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_e240acd86ea84a03a885c1219259f4fd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Toyota acquires Lyft's self-driving division"
+    excerpt: "Toyota Motor Corp. has acquired the self-driving division of American ride-hailing company Lyft for $550 million, in a move that highlig"
+    publishedDateTime: 2021-04-28T04:00:00Z
+    webUrl: "https://journalgazette.net/business/20210428/toyota-acquires-lyfts-self-driving-division"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 24
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210428/ARTICLE/304289980/AR/0/AR-304289980.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Toyota acquires Lyft’s self-driving unit for $550 million"
     excerpt: "The acquisition of Lyft's self-driving division was carried out by Woven Planet Holdings, a Toyota subsidiary that focuses on innovations and investment in projects such as “smart cities,” robotics and automated driving."
     publishedDateTime: 2021-04-27T22:48:00Z
@@ -71,6 +101,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "0olGz5IdqzvTY3dkXtbobSadI20pHeVQLrA0UsVN4+PkMYeTjCM4st+/fhJQVD9BFMSwZSj5m4iKLdNSDfe6tmZcYWdzlX+fCYLmxPziEyN6nUQhsiuWFK+3XpY5IrAcoe/3z8qKOaEN/osqNLMoBe47HYK6yU3SzkEbekMp+BkURHhZCI6FvsvuLs0X7WwsHN5tWHChi55eF1mU0JLBTUd93OCgQOpGLyFo/H439BKqrVABvukP96Ea99QPlBrvZ34nFFaldu6eYuQwDPDtx01u2vBnwfAW3zYM8Pj/fLFVixHiaRa8XvAE4NKVaBG4XmYVBXlVrNc+jE8F3m/DNlA7mU1FxHalKGkW47tbz0A=;PLJ0QqxBgvPT5pmSlDi9tg=="
+secured: "jY47XlffoQNZfFnjdU4PbDzzfFNsXrIBLcspVYKN/0ir3d/W+o4CWF49VwtUmm7GxZUE1z2vhsf9loxJAS/lwTCNB3ytyrB5jAzyFqITCX1rBcfi8SnxVaZE4oj08fjmz9rdaKBEJQ1YbAUVGDBQ8o9r2NDhZncjkpPi2wK4zzDTiTb0KTcTheFFW6/cuK9KDs++78lwr0zSTO/+PAVyQXBDN6m6gTuuprxkGlwE+q0rFHvOsb6F3rbSoeZZuPmjKjX1XOznJepphxj+vIoazhOtk1jjyR3Qrg9aPtgDTmoE6WqcSXydxYPGsReaLjlyRKgaDIVdXI6nW6pERsaOJzGuqJDQtBbBRn1rH60H/+C64J0JJ0J5eFCjTM8Wo9KiPrjZWwGlAqNrLEm5HStK1SuerzG3oceefdEs6JL4y4487iPrDdFcztH2PPPIof/hAYYRK/GueQvbbNmdWhzB6rACIKoG+jl/ADIZlVxq5TKm7DzviXf41pLhkqLiBtwOXyFfRwqvTIyXScFs4Qp7Rg==;L06Vp4mZohQjtXfO883Pdg=="
 ---
 
