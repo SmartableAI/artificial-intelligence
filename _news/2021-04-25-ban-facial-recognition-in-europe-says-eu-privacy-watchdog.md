@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-82226129,imgsize-40848,width-800,height-434,overlay-ettelecom/facial-recognition-should-be-banned-eu-privacy-watchdog-says.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Army Artillery’s AI Gets Live-Fire Exercises In Europe, Pacific"
+    excerpt: "We have data collection managers onsite, with stopwatches, [timing] how long does it take the data to get… from Point A to Point B to C,” said Army APNT director Willie Nelson."
+    publishedDateTime: 2021-04-28T18:10:00Z
+    webUrl: "https://breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/"
+    ampWebUrl: "https://breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 57
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/03/Screen-Shot-2020-03-06-at-10.05.20-PM-1024x637.png"
+        width: 1024
+        height: 637
         isCached: true
   - title: "POLITICO AI: Decoded: Washington’s AI awakening — Europe split on facial recognition — What to do about health data"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."

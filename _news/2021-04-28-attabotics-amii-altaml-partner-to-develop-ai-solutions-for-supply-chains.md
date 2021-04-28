@@ -39,6 +39,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Attabotics Partners With AltaML and Amii to Bolster Artificial Intelligence and Machine Learning Cap"
+    excerpt: "Attabotics, the 3D robotics supply chain company, today announced a partnership with AltaML, a leading Canadian applied artificial intelligence and machine learning company, and the Alberta Machine Intelligence Institute (Amii),"
+    publishedDateTime: 2021-04-28T18:50:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50519-attabotics-partners-with-altaml-and-amii-to-bolster-artificial-intelligence-and-machine-learning-cap"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 56
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/e266233b-7f32-42bd-b482-b0c564615b0d.png?height=635&t=1619631909&width=1200"
+        width: 541
+        height: 400
+        isCached: true
 
 secured: "E6mk2KFb8Jyzhqnk/I84amIl3ls+JkAqSBKZ1EauxdId1Rb1ONGMv+/ReVikSiAq9pUOi5SprsnN8fwWXRbKFaaFeC67BCmFC9O2IWbZQZy1XNkLVE1MDpOsgEMK0B8dG+ZObaHE5uAEjxqv79HUNfn4RsIlu6BPPT3/z+aLYuMNly+n7mXVGAtaDAsqqSvWj4jtoD6PQl0bnM7WhDrWAO0hGRfjOKqOxnEee5wTsSEY8Fb/wIZce5aEaZ1jNNd39zlvZeW5HE1Ye4LSiJZh3+CM1lv1FDhcQIqMqChWrJzAShIN+Hdwg7KSK/5xRp3u7j8eVqwJ3a8qVYAs9K6a669moYkHHN2Ca7auCNfybPDFw1t6O5dPTkrGo4Sl+ivBKHx4/17RHgIPByg4hK7t/YI/KKQXN7uxuy0wufgFF8mnqMIVePM41MGqPq/OYaJ/zb4Vpuj3r8BQOZVCqqzUdF/0bQkBG39BMnSR2NPRsGyRmh1swLzmY99Fg8+yq8uc4u7+HhQJ/GkIrm4vAgY+Rw==;Y9l0uNKssleCbaMzBTx/iA=="
 ---

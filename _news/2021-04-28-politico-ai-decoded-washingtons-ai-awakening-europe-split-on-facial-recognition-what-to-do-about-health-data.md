@@ -59,6 +59,22 @@ related:
         width: 800
         height: 434
         isCached: true
+  - title: "Army Artillery’s AI Gets Live-Fire Exercises In Europe, Pacific"
+    excerpt: "We have data collection managers onsite, with stopwatches, [timing] how long does it take the data to get… from Point A to Point B to C,” said Army APNT director Willie Nelson."
+    publishedDateTime: 2021-04-28T18:10:00Z
+    webUrl: "https://breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/"
+    ampWebUrl: "https://breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/04/army-artillerys-ai-gets-live-fire-exercises-in-europe-pacific/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 57
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2020/03/Screen-Shot-2020-03-06-at-10.05.20-PM-1024x637.png"
+        width: 1024
+        height: 637
+        isCached: true
 
 secured: "y+3VBHIZN+kTA0ecO58r9nR1IqqEILK2fZK1CuZvyXVlU1kBtqeYbUnY/QCCP/Z3BMnnBvrIUfhxvZvJY3rWqjw83sWYM7W3LZsr/jmQZwZk4cMftJa4enOYo5/jWcZOnhlnUhFknYeqZhuxgjszv11HKTYtVxHnxGTwgcbpXTn4anT7fbWz7ZbaV94rkfjmeTFYsbAHxieo7OsIpllP06WeC5B72pU+7IZKurW9XDhJrJXWFgLYwIxpjGHF5s80aBQzAzVFnv2cmlOoHdIQBdtV7vep7xGXVzkhQRPv7VmYRovRd494IWoMshoDodFUkbaKhvVATfYuXdXUkUplhsPCYVb6GXA+Yu1GjRImXzSxtNb6b3SS32GycJoZAORqbxKCR1ebK/V6THxPYVk1jXN3lKVxRuTlizbgtyB2/vYHpiGA+gyO11L0odWgR2FwRV40VuAFKCSLNud8vhUPYPAUre7/l7eXnHEkwQs4EkwIuy+rItLhJsFIBNoJxu4Dgh8Fz6HNmZPj/qEmErIavA==;VNnzdzWMYs/H9PeRORwDLw=="
 ---

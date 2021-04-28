@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact on Artificial Intelligence in Supply Chain Market Growth Projection to 2026 | Intel, NVIDIA, Xilinx, Samsung, Micron, IBM, Google"
+    excerpt: "Global Artificial Intelligence in Supply Chain Market Growth Status and Outlook 2021-2026. According to this latest study, the 2021 growth of Artificial Intelligence in Supply Cha"
+    publishedDateTime: 2021-04-28T17:26:00Z
+    webUrl: "https://ksusentinel.com/2021/04/28/covid-19-impact-on-artificial-intelligence-in-supply-chain-market-growth-projection-to-2026-intel-nvidia-xilinx-samsung-micron-ibm-google-2/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 0
 
 secured: "9JVij4w9Kvu0R6Qjm09QqSqE1On6Xwm29zP7BBn9c/IlFpcenEz2+vIHRdTwQhTpzPjJ9KBvctncz8aIaAyV64ZUt2mBMsc7V87TXFcrY3VPM/xujbFFRAlmFGEjhbydItoacDMgnQMw6cYA6e9v7WsKJvmN7rwn/qb3B2gFaE+U1mC6thicdo2IdO7UfFo1jGarsLBI+aJey23+f98FZTMpEt74bpjhz9pAA0xT/zfeZv4iRQX1JUHEsxjtC/nTdck7/lW/E/c58EbVKS3EFpKkiA11nLCdNW/4gWIg8QnKUygMintWkAIdkhxNb36yWCrHlH8ZtQtMw8dmqRxtPoZ8BJIXaBUY9aA+yyZh344=;gvD+9ba0AVFI04ZCOjcXHA=="
 ---

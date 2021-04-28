@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2277017/artificial-intelligence-market-to-2
 ampWebUrl: "https://www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2277017/artificial-intelligence-market-to-2027-future-outlook"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Computer Vision in Healthcare Market Analysis, Status and Global Outlook 2021 to 2026"
@@ -35,22 +36,6 @@ related:
       - url: "https://www.express-journal.com/img/img-14.png"
         width: 1042
         height: 625
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
-    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
-    publishedDateTime: 2021-04-24T01:24:00Z
-    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
-    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 44
-    images:
-      - url: "https://www.express-journal.com/img/img-10.png"
-        width: 500
-        height: 300
         isCached: true
   - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
     excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"

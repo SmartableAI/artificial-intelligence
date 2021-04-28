@@ -9,7 +9,7 @@ ampWebUrl: "https://www.express-journal.com/computer-vision-in-healthcare-market
 cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/computer-vision-in-healthcare-market-386853/amp"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
-    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
-    publishedDateTime: 2021-04-24T01:24:00Z
-    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
-    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
-    type: article
-    provider:
-      name: express-journal
-      domain: express-journal.com
-    quality: 44
-    images:
-      - url: "https://www.express-journal.com/img/img-10.png"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
     excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
     publishedDateTime: 2021-04-28T06:46:00Z
@@ -70,7 +54,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 22
+    quality: 24
   - title: "Global Artificial Intelligence in Fashion Industry (2020 to 2027) - Market Trajectory & Analytics - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence (AI) in Fashion - Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) in Fashion estimated at US$311."
     publishedDateTime: 2021-04-27T14:39:00Z
@@ -102,6 +86,6 @@ related:
         height: 625
         isCached: true
 
-secured: "5Pd3TT/2l/ZlsUMGaIFmo+kQ0KeQTRkXLAAX+yS5vf89CUY1QXo891svsPMV55+QYo9drW7cRScd2NAXCbaluAWPVAD1hNBt6rHjgtO32MJFhuRbz6jVch01gB0uRVqUZI7fYIUWGPB4/buQF+vE6wtimzfOiNy74WZZuCAjYQpw7HA0UnkFy1CCkfR1oyZ2L6HfWr/8MX1qm52k6RO/0Ol05iO7ytauByJRsG0Ccbeojd0ym3ftHTbOEMCNOXEl2TriTw6NuxqOXMXOonqQty5I+oz7ZIXyFso4NqLLQEIa0YW9y3Khjy7hWQT5q5o4aGVbbzAhLxseoyBxNWnDB1plMzxscsOLzXKppIX4X0A=;AL8DN4AVqhLhOYd0A5J0jA=="
+secured: "oX3GO3iEfpmDVPz21qE5MToOPu7iVGiD3bA/dYrMmZuAmzDQhEcaOdk7IiIDjhtU4+QcwBJ10KbF9wgflmoSFMnsIZspe1VzlwuHWaU90i6kkeFcnWBu79ijUzATxyNR2mtwNQVHAreJkPXuQt0XMecV5pqK2uob8kKGDXSvklzIaajG1q21/dws+iBu5HmVZfoLIew/xhSbh0kLAL2n2pWQNtzU/QNPYXy198GhZaCTqmX6Me89b9JgXGONasB1o94I5Fe3/p1SepJQ1WwrEx3W9760JcPwDyfpdZNu4wW6o+AQcGLEoKzE3lS3J7DxRFm9mg3xJgJsRXC8YyDq6AIIQ+H/9V/YJWyP0uAocDrdJHPl7911Hsd0i8LR26n93c2puukR1wsHL7U1ONNJbgdvaaJrVa2ZnvXl0hdtbci9ZtBc7i8hbGgpo4l85F7PpkCWer969eoyZ2EP91TKqoeSeqIjpy55ztCzU/3OEj656shOxocfLmTMeH/lR4bt34M4gU7LnGeHLD0w3CMLkQ==;P6ZL77gnDhP8Kfyu4MuHQw=="
 ---
 

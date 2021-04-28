@@ -7,8 +7,8 @@ originalUrl: "https://us.acrofan.com/detail.php?number=460047"
 webUrl: "https://us.acrofan.com/detail.php?number=460047"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: 아크로팬
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Attabotics Partners With AltaML and Amii to Bolster Artificial Intelligence and Machine Learning Cap"
+    excerpt: "Attabotics, the 3D robotics supply chain company, today announced a partnership with AltaML, a leading Canadian applied artificial intelligence and machine learning company, and the Alberta Machine Intelligence Institute (Amii),"
+    publishedDateTime: 2021-04-28T18:50:00Z
+    webUrl: "https://www.dcvelocity.com/articles/50519-attabotics-partners-with-altaml-and-amii-to-bolster-artificial-intelligence-and-machine-learning-cap"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 56
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/e266233b-7f32-42bd-b482-b0c564615b0d.png?height=635&t=1619631909&width=1200"
+        width: 541
+        height: 400
+        isCached: true
   - title: "Attabotics, Amii, AltaML partner to develop AI solutions for supply chains"
     excerpt: "Attabotics, a Calgary-based robotics supply chain startup, has partnered with AltaML and Amii to develop new capabilities in AI."
     publishedDateTime: 2021-04-28T12:59:00Z
