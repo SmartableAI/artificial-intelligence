@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-28-plus-one-robotics-raises-33-million-for-logistics-vision-system.md",
+      "title": "Plus One Robotics raises $33 million for logistics vision system",
+      "excerpt": "Backing will help firm meet global e-commerce expansion with technology that delivers “hand-eye coordination” for warehouse bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
+      "originalUrl": "https://www.dcvelocity.com/articles/50490-plus-one-robotics-raises-33-million-for-logistics-vision-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/2021/04/27/plusone_our-products-left.jpg?height=635&t=1619549271&width=1200",
+          "width": 997,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-04-25-ban-facial-recognition-in-europe-says-eu-privacy-watchdog.md",
+      "title": "Ban facial recognition in Europe, says EU privacy watchdog",
+      "excerpt": "Two days after the European Union unveiled draft rules on how to use AI in Europe, a privacy watchdog urged the EU to ban facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
+      "originalUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/4768764591_bac4a6d442_o.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/",
+      "publishedDateTime": "2021-04-25T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-24-atlanta-animal-shelters-using-facial-recognition-to-help-find-lost-pets.md",
       "title": "Atlanta animal shelters using facial recognition to help find lost pets",
       "excerpt": "Petco Love Lost is a new, searchable national database that uses patented facial recognition technology to make finding lost pets quicker and easier. “We are thrilled that Petco Love Lost has rolled out pet facial recognition technology nationwide and pr ...",
@@ -10,7 +106,7 @@
       "originalUrl": "https://www.11alive.com/article/news/local/atlanta-using-facial-recognition-to-help-find-missing-cats-dogs/85-93062b4c-24a6-43be-8aa4-1d814a443a91",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1065,6 +1161,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-14-state-farm-taps-object-recognition-with-carcapture-app.md",
+      "title": "State Farm taps object recognition with CarCapture app",
+      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Dive",
+        "domain": "marketingdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-detroit-man-sues-police-for-wrongfully-arresting-him-based-on-facial-recognition.md",
       "title": "Detroit man sues police for wrongfully arresting him based on facial recognition",
       "excerpt": "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ...",
@@ -1251,138 +1381,6 @@
       "provider": {
         "name": "The Jakarta Post",
         "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-ecovacs-robotics-introduces-the-deebot-n8-family-in-indonesia.md",
-      "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Indonesia",
-      "excerpt": "The powerful robot vacuum DEEBOT N8 Family delivers a more powerful, worry-free and automated cleaning experience   JAKARTA, INDONESIA - Media OutReach  - 13 April 2021 -  ECOVACS ROBOTICS , the world's leading home",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2021/N8-PRO-mop-1.jpg?itok=lwWr1lI_",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ecovacs-robotics-introduces-deebot-n8-family-indonesia?amp",
-      "publishedDateTime": "2021-04-12T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health",
-      "sourceUrl": null,
-      "webUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
-      "originalUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2021/04/94af3c4d8d5947c4a3291fe0aed04b3f.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
-      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
-      "publishedDateTime": "2021-04-12T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSEE",
-        "domain": "yourcentralvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-nypd-use-facial-recognition-app-against-their-own-officers-to-id-cops-drinking-before-mates-funeral.md",
-      "title": "NYPD use facial recognition app against their own officers to ID cops drinking before mate's funeral",
-      "excerpt": "Two NYPD officers were suspended after being photographed on their way to slain colleague's funeral and later IDed by facial recognition software. The NYPD says it no longer uses the controversial app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9460657/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/04/12/06/41638292-0-image-a-92_1618205309826.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9460657/amp/NYPD-use-facial-recognition-app-against-officers-ID-cops-drinking-mates-funeral.html",
-      "publishedDateTime": "2021-04-11T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

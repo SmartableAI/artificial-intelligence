@@ -25,80 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
-    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
-    publishedDateTime: 2021-04-21T15:37:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-2021-4?amp"
+  - title: "Tesla says self-driving system not to blame for deadly Texas crash"
+    excerpt: "Executives for Tesla Motors are contradicting Texas authorities who said a fiery crash involving a self-driving vehicle that killed two people this month had no one in the driver's seat."
+    publishedDateTime: 2021-04-27T15:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Self-driving car sensor startup Luminar hires Tesla, Intel veterans"
-    excerpt: "Self-driving car sensor startup Luminar Technologies Inc on Wednesday said it had hired Tesla Inc and Intel Corp veterans for legal and investor relations positions."
-    publishedDateTime: 2021-04-21T19:37:00Z
-    webUrl: "https://www.reuters.com/article/luminar-technolo-tech/self-driving-car-sensor-startup-luminar-hires-tesla-intel-veterans-idUSL1N2ME1P8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C829V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C829V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "Elon Musk Is Critic Of Laser Lidar For Autonomous Cars, But Top Tesla Lawyer Joins Luminar"
-    excerpt: "Luminar, a newly public maker of laser lidar sensors that help self-driving cars see their surroundings, has hired Tesla’s acting general counsel Alan Prescott as chief legal officer."
-    publishedDateTime: 2021-04-21T16:33:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/21/elon-musk-is-critic-of-laser-lidar-for-autonomous-cars-but-top-tesla-lawyer-joins-luminar/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: UPI.com
+      domain: upi.com
     quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60805126a743ac4ab6e76763%2F0x0.jpg%3FcropX1%3D116%26cropX2%3D1357%26cropY1%3D0%26cropY2%3D751"
-        width: 1200
-        height: 726
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/4261619529428/2021/1/7c6a8333f271e9467a696a84af679d6d/v1.5/Tesla-says-self-driving-system-not-to-blame-for-deadly-Texas-crash.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Self-Driving Car Tech In Crosshairs As Feds Probe Tesla Crash"
-    excerpt: "A fatal crash in Texas involving a Tesla vehicle purportedly in semi-autonomous mode with no driver behind the wheel has sparked dual federal investigations that will invite sharper regulatory scrutiny of potential gaps in self-driving car technology,"
-    publishedDateTime: 2021-04-20T01:53:00Z
-    webUrl: "https://www.law360.com/articles/1376577/self-driving-car-tech-in-crosshairs-as-feds-probe-tesla-crash"
-    ampWebUrl: "https://www.law360.com/amp/articles/1376577"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1376577"
+  - title: "Tesla owners warned of 'full self-driving' risks even before fatal crash"
+    excerpt: "Tesla's \"full self-driving\" feature has attempted to drive under a railroad crossing arm while a speeding train passes. It's nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns, clipped at least one curb ..."
+    publishedDateTime: 2021-04-23T16:43:00Z
+    webUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.html"
+    ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
+    cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 54
-  - title: "2 killed in self-driving Tesla crash in Texas"
-    excerpt: "The crash killed two people in Spring, Texas."
-    publishedDateTime: 2021-04-20T00:17:00Z
-    webUrl: "https://www.hawaiinewsnow.com/video/2021/04/19/killed-self-driving-tesla-crash-texas/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 39
+      name: CBS Atlanta
+      domain: cbs46.com
+    quality: 58
     images:
-      - url: "https://www.hawaiinewsnow.com/resizer/pqXVHjqx-F5QoGERDzHccUIvl0s=/1200x0/d1acid63ghtydj.cloudfront.net/04-19-2021/t_dab63cb149b64bd984d4a764a2513fb4_name_file_1280x720_2000_v3_1_.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "No One Was Behind Wheel of Self-Driving Tesla That Crashed Into Tree, Killing 2 Passengers Inside, Police Say"
-    excerpt: "Hours before the deadly crash outside Houston, Tesla founder Elon Musk touted the vehicle's autopilot feature on Twitter. The company's stock fell Monday after news of the crash broke."
-    publishedDateTime: 2021-04-19T21:57:00Z
-    webUrl: "https://www.insideedition.com/no-one-was-behind-wheel-of-self-driving-tesla-that-crashed-into-tree-killing-2-passengers-inside"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 20
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/styles/video_1920x1080/public/images/2021-04/041921_tesla_crash_web.jpg?h=d1cb525d&width=1280&height=720"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.newyork1.vip.townnews.com/cbs46.com/content/tncms/assets/v3/editorial/5/39/5391c1d9-c758-5594-a62e-1b650d5d0199/6082f09709609.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "tCgORlJttXIpDrv8D0STUolUsorIulTo9oqNzF09nIAPH8jxzy5RXhYUQTAtG6m9eZzyjAqsqg+SJkZ0wa7yT/WBIA9yTAQeZehFNY6AmTP5lGGWPXNcDHxuxv9iAdQnw0LA7VzSe9HsyR6LuYT+v2ZvZrBcSkrkhHDb+B2ocirma9L6uFS3QgssDXuyqpAVfYDRqy8Q5RDdGJOSJpRdzZFRxMHdA+whQYK+m8pUtZ1AYHx6LOVm8JI7gDzOXUw6ggy0gZTYs8WvJBst1CZKNIxMejmt8AOTibAUDyt76k4/uE2jYUapnQcd6Hc8gqa978imymHzxu88p52R5yFD6xDddIua+KPS9Oy+lbxIpXE=;8Q0vwoIskpn4y8nEskDaCg=="

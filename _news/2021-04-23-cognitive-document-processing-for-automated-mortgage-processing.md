@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-p
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cognitive-document-processing-for-automated-mortgage-processing/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: AWS
@@ -29,79 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI To Automate Enterprise Document Processing Workflows"
-    excerpt: "While choosing a vendor to partner with for digital transformation, it is important to ensure that, under the covers, there is real AI driving the solution."
-    publishedDateTime: 2021-04-20T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/amp/"
+  - title: "Intelligent governance of document processing pipelines for regulated industries"
+    excerpt: "Processing large documents like PDFs and static images is a cornerstone of today’s highly regulated industries. From healthcare information like doctor-patient visits and bills of health, to financial documents like loan applications, tax filings, research reports, and regulatory filings, these documents"
+    publishedDateTime: 2021-04-27T23:43:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligent-governance-of-document-processing-pipelines-for-regulated-industries/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8ef32c53de1add7201f44a%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/22/2-NLP-Pipeline.jpg"
+        width: 800
+        height: 398
         isCached: true
-  - title: "Google launches AI-powered document processing services in general availability"
-    excerpt: "Google launched a number of AI-powered document processing services in general availability, including Lending DocAI and Procurement DocAI."
-    publishedDateTime: 2021-04-21T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/21/google-launches-ai-powered-document-processing-services-in-general-availability/amp/"
+  - title: "Modeling space radiation induced cognitive dysfunction using targeted and non-targeted effects"
+    excerpt: "We compared the performances of 18 dose response model variants based on these concepts, fitted by robust nonlinear regression to a large published data set on novel object recognition testing in rats exposed to multiple space-relevant radiation types (H ..."
+    publishedDateTime: 2021-04-23T14:23:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-88486-z"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Nature
+      domain: nature.com
+    quality: 12
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Using AI and data to make decisions faster"
-    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
-    publishedDateTime: 2021-04-23T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
-        width: 760
-        height: 368
-        isCached: true
-  - title: "Everest Group Names Automation Anywhere a Leader in the Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2021"
-    excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has"
-    publishedDateTime: 2021-04-20T18:21:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/everest-group-names-automation-anywhere-a-leader-in-the-intelligent-document-processing-idp-products-peak/article_12732e10-dc05-50c1-82b1-d60a6a9d720b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/13/e1315a66-88de-5c0c-ae7d-2d6c5ab1d280/604f577386493.image.jpg?resize=1200%2C442"
-        width: 1200
-        height: 442
-        isCached: true
-  - title: "Singularity Systems Named a Major Contender in Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment."
-    excerpt: "\"Our SinguAI platform combines four proprietary technologies - computer vision, Natural Language Processing (NLP), Optical Character Recognition (OCR), and predictive analytics – to provide the most complete artificial intelligence solution for document ..."
-    publishedDateTime: 2021-04-20T19:54:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/singularity-systems-named-a-major-contender-in-intelligent-document-processing-idp-products-peak-matrix-assessment-301273122.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=facebook"
-        width: 2091
-        height: 1094
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-88486-z/MediaObjects/41598_2021_88486_Fig1_HTML.png"
+        width: 685
+        height: 329
         isCached: true
 
 secured: "vEEHtmqNWMcYMZyta32T3Gwn3tPi1CZnUg1CALUDMSbbCLlMlJuue5EdWiyKjfKwQIO+CgSfHV+UROmQIZsBZ75dgKYBXCnAPSgJLdWv79sRhuYz8ETsn5NdGVLi+0H16ByK648LGwHfsx+aA/HKmEk0VwtXiVwhZxs9nqRJv0NzX/fFjTZR+qstBhzmNIX+rXKG9/qjXB4wtbcwGo0JP0lDRWSLN48pzYyKGpmiuN26793PZXCdUGguuiaKwkt+RON5n8Uym3x4aKWe7TH6zUSNNBZEqhVm7Wj4B0trbU80sGA4lLp2F+/QD7KtXq6NiI9J5SQDCfJtvY6a7e4S4XfirxFy12Y/8EvEtxnXIDc=;wdUbRmPj+WF2b+cqr2ZbYA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-skills-are-a-prob
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-skills-are-a-problem-automl-can-help/"
 type: article
 quality: 106
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,31 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Azure AutoML DevPlat 2.0 Private Preview"
+    excerpt: "Azure AutoML DevPlat 2.0 Private Preview. Contribute to Azure/AutoML-vNext-Preview development by creating an account on GitHub."
+    publishedDateTime: 2021-04-26T00:00:00Z
+    webUrl: "https://github.com/Azure/AutoML-vNext-Preview"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/0826093b6cec461eb2d269c93a63dd3b2cd35f5054f8b9ffc1d848fa4be554c9/Azure/AutoML-vNext-Preview"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "JADBio Provides AutoML for BioMed Data"
+    excerpt: "JADBio is an AI startup company working with BioMed data. This remarkable team, headed by Prof. Ioannis Tsamardinos, has created an automated machine learning (AutoML) platform designed for life scientists."
+    publishedDateTime: 2021-04-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/04/24/jadbio-provides-automl-for-biomed-data/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "Iet8mGNFanK/l6UoTGug2STEXmO8OLHXzOWJP0/gRImjWXDnnWYXDllLNjpd6d/jb92EqYvcgYIZ8oB8iRNVwaNTbbEhbQ91510cvIzdvjl7U5fykE1YxZV2QR9Lo0cd+FgYFOD/LZac+zAVK8/dxMSleEBFPIEJDP1iUR9ep2dgw5Htr9hYhAYIJ4YA0uHKUS1lKMiYYUP0qQiqEF+l1R/9tAPtQTrgRyx9UumACqoPRuCb6KziRTdMWD74luv3aQfXfBq+9ZO//qW/PrRtOnsp2xKRGGfXdicK0c/fF/Qn4JfXOb4KGF/Ze9ddM2871bUjJZVQmreODCYD3tn5F3sGodmD3HluwoPV/DYgBSE=;5+8xaxPV7ryh+7V58J4Ujg=="
 ---

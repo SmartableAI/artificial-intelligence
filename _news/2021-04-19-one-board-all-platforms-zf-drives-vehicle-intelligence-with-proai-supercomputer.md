@@ -1,14 +1,11 @@
 ---
 category: news
 title: "One Board, All Platforms: ZF Drives Vehicle Intelligence with ProAI Supercomputer"
-excerpt: "With the new ZF ProAI, ZF presents the automotive industry’s most flexible, scalable, and powerful supercomputer. It is AI-capable and suitable for all applications from automated driving Level 2 to 5."
+excerpt: "The intelligence of future vehicles will be controlled by a few extremely powerful central computers. They will run the computationally intensive software functions that control critical vehicle domains."
 publishedDateTime: 2021-04-19T11:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-driverless-cars-products-and-services-shanghai-9aef06cb5984a90ae9cc079ce64a40e9/gallery/0688ef5568afb07678a025399c868311"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
   name: Associated Press
@@ -24,24 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "ZF augments vehicle intelligence with next-gen AI supercomputer"
-    excerpt: "German car parts maker Zahnradfabrik Friedrichshafen (ZF) has unveiled the next generation of its AI -based supercomputer ZF ProAI. The new ZF ProAI, which ZF claims is “the most flexible, scalable, and powerful automotive -grade supercomputer in the world,"
-    publishedDateTime: 2021-04-19T15:03:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/automation/359258/zf-augments-vehicle-intelligence-with-next-gen-ai-supercomputer"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/359258/zf-augments-vehicle-intelligence-with-next-gen-ai-supercomputer?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/359258/zf-augments-vehicle-intelligence-with-next-gen-ai-supercomputer?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1586445443/itpro/2020/04/shutterstock_self_driving_cars.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-
-secured: "BsyU+Wbjvf/HYliYYCkqiMedRi+efabpTM4Vm1zzvcwDhBli5S3RQTNs5vk4+Scq9baG6sPIxLnuIMbIOH8Cs20FIhpNsiBOy6OsMM91PL62H/afXIeCwB1nzapVeVaQrxua+Bg3V43k2gOzROdFdMAtFnUV2Ol9Cpi8Voymwai5YiwRKQLT8S94j5kXtwMGyTy1Ijld72CafRyaaUGgff3PbrJcNWIVj5estyPHEGmsCZiMLCBrDYHq+hhHFjInv/+9vmJqWLDHBoGuvAnJkG7MAsXg/Y/B1A0jm+uxe7QkuwONzD8PLOJmOAptOdejR6aW9UciiziD2YvhBS5pftZmfpkm1CevKLHmZhQ6Id0=;WvFM30jleSepVS/0wTa5Cw=="
+secured: "27OyuqiDJ06jbKoaavuMjEUbgyj0o+NTeNDh0/NCk3e71hko9VIJhN6RR4Yd+r7P5cZtFBfCNsZD/UYZL+6WryANxIl8ueNErzgWvxegZ2kwNJPScBTBwnF7YRp6jkDdHWDHcSyO4H7mS1XoMls9WK94oEYOMOR2f1+5NNmldChKGcVKGtnEYJlxXcI5vEVbj0gERE0MbxsOnsxImiUV4egYuc7eFbAmrd2LJkZ/k7TGop9lALICiVID8YLaPS+ZEhl0cBqwm0FNsqk9WZTDK96ZOGBdd5c8WmedgCR2aV1a37seGFu4I2927QL03bZmSlmECMmcGYUY+vTnSVklHUqZBsexZ0Dr2F1C/lRfvnw=;YShJeDE65aj/421M9VlgnQ=="
 ---
 

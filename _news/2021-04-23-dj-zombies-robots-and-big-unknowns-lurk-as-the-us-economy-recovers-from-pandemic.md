@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/marketwatch/20210423468/dj-zombie
 webUrl: "https://www.morningstar.com/news/marketwatch/20210423468/dj-zombies-robots-and-big-unknowns-lurk-as-the-us-economy-recovers-from-pandemic"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
-    excerpt: "Some unanswered questions about the U.S. economy post-pandemic could set off a chain of consequences like dominos and impact career and investment goals"
-    publishedDateTime: 2021-04-22T15:31:00Z
-    webUrl: "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://images.mktw.net/im-328162/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DJ Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
     excerpt: "The U.S. economy is going through a unprecedented period after having been shut down by government decree. Whether you have a doctorate in economics or not, it is a guess how it will work out. In the immortal words of former Secretary of Defense Donald Rumsfeld,"
     publishedDateTime: 2021-04-24T07:29:00Z

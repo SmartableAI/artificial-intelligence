@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "DeepShake uses machine learning to rapidly estimate earthquake shaking intensity"
-    excerpt: "The authors stressed the novelty of using deep learning for rapid early warning and forecasting directly from seismic records alone. \"DeepShake is able to pick up signals in seismic waveforms across dimensions of space and time,\" explained Datta."
-    publishedDateTime: 2021-04-23T19:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/04/210423130231.htm"
+    excerpt: "A deep spatiotemporal neural network trained on more than 36,000 earthquakes offers a new way of quickly predicting ground shaking intensity once an earthquake is underway, researchers report at the Seismological Society of America (SSA)'s 2021 Annual Meeting."
+    publishedDateTime: 2021-04-23T17:03:00Z
+    webUrl: "https://phys.org/news/2021-04-deepshake-machine-rapidly-earthquake-intensity.html"
+    ampWebUrl: "https://phys.org/news/2021-04-deepshake-machine-rapidly-earthquake-intensity.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-deepshake-machine-rapidly-earthquake-intensity.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/2-earthquake.jpg"
+        width: 1276
+        height: 1920
+        isCached: true
 
 secured: "ue2libDQt96/cxlc42e42AP+Hc+tCzRCqkgi18EphMatFAQCGK+Oo0lERIITO71/pV+fDwLd29YgQYYIyF3OxoseFTD0QWdzziAz3VACEdI51uQ522AFIkTt7sZJ77K0aI+OwGGFsGoboYGrooyNneczeoFkprUwGR/r8UAVpjy2us9sl+Ka4LW1V9dPf+Fdvl94D0Eiy5a7Gb/WMQAHm05H1kyHcUln1HPb7Gh/QoSLo8xzDke3eIBJlzjyZrYBvp0F1P7bkyJs0apqUvP4Zayg3iDtN/JQWWAaKouKgaL6R41eymo6Kf7OgBDWP9t6iMjWdbkzH2HKx8QA2uQbFsMGjmiWQiWz6UpCBAIzyCQ=;y1dxlU6PjD6TJavrw6yWGQ=="
 ---

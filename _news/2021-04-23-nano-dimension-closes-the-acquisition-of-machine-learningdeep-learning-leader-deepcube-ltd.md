@@ -1,80 +1,20 @@
 ---
 category: news
 title: "Nano Dimension Closes the Acquisition of Machine Learning/Deep Learning Leader, DeepCube Ltd."
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Leading an AI/Deep Learning driven revolution in manufacturing Sunrise, Florida, April 23, 2021 (GLOBE NEWSWIRE ..."
-publishedDateTime: 2021-04-23T12:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader-deepcube-ltd-1030338611"
-webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader-deepcube-ltd-1030338611"
+excerpt: "Nano Dimension Ltd., an industry leading A dditively M anufactured E lectronics/ PE provider, announced today that is has closed the previously announced acquisition of DeepCube Ltd., a world leader in Machine Learning/ Deep Learning technology."
+publishedDateTime: 2021-04-23T12:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader"
+webUrl: "https://www.nasdaq.com/press-release/nano-dimension-closes-the-acquisition-of-machine-learning-deep-learning-leader"
 type: article
-quality: 53
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd."
-    excerpt: "Nano Dimension Ltd. (Nasdaq: NNDM ), an industry leading A dditively M anufactured E lectronics ( AME )/ PE (3D-Printed Electronics) provider, announced today that is has signed a definitive agreement to acquire DeepCube Ltd."
-    publishedDateTime: 2021-04-20T13:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcube-ltd-2021-04-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader, DeepCube Ltd."
-    excerpt: "Leading an AI/Deep Learning driven revolution in manufacturingArtificial Intelligence will drive its 3D-AI/ML Distributed Digital Fabrication"
-    publishedDateTime: 2021-04-21T01:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nano-dimension-acquires-machine-learning-deep-learning-leader-deepcube-ltd-1030323188"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "Nano Dimension buys Israeli machine learning co DeepCube"
-    excerpt: "Nano Dimension will pay $70 million for DeepCube, which applies algorithms to improve data analysis and deployments of advanced deep learning-based AI systems. Israeli electronic components 3D printing company Nano Dimension (Nasdaq: NNDM) announced today that is has signed a definitive agreement to acquire Israeli machine learning/deep learning (ML/DL) technology company DeepCube Ltd."
-    publishedDateTime: 2021-04-20T15:18:00Z
-    webUrl: "https://en.globes.co.il/en/article-nano-dimension-buys-israeli-machine-learning-co-deepcube-1001368238"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/52391D93D977492AC2056676BFAC592E_800x392.20180218T131739.jpg"
-        width: 800
-        height: 392
-        isCached: true
-  - title: "Nano Dimension Acquires Machine Learning/Deep Learning Leader DeepCuibe For ~$40M In Cash And ~$30M In ADSs"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-04-20T13:08:00Z
-    webUrl: "https://www.benzinga.com/m-a/21/04/20703444/nano-dimension-acquires-machine-learningdeep-learning-leader-deepcuibe-for-40m-in-cash-and-30m-in-ad"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "7mkqA/nb5aquIcneL2UYYAW/v6JIryJ38QbZTMua8wJfVCHJXu3hAJed5XaPgOc/nCSwmVO7k9frqLDx++/CiVdYbtGgLSg0drnpBq5B9XN9gpfdtqfsQTDfuyRlR3JdxqPeRt7CaIbS33mNhefyn4Tc4oMOS4W7IHWv3gZ1Uf2JqGXM+QiY82sMWbfsRzLqsTHNS3an1WOCPGtmxDmEe1HoHWck0nQlF9eEV81iuVbsxeSgchIrXMYoHqXeqsmbsuY0/9C2FlWn238k14bWARUBePKfki7RT2nESswLXUHzIY7mEuMBHSRkVMWPDqf0LXfhtDoEXbc2O/73qUZvewxjdDUarwcPEf9+TnVfdjU=;qxd9j1J98UA7trbsv9JU1w=="
+secured: "y6KRweTc6bS/ObWADBLab9NZLFdnqbkYFbqqyXpt9YshtIzmTg003WfA1OdAVeJL+lvOO7WHCDwgz+E26hkNUyH3eQIshQFNRPEjfU0RC5HTph0J/F8oW660AHPeJT6S4FNRscMyDlPSX/CfUB4LiBu+qSz8ptoV1ZWGXFnr18HPGITrQXDrkv3DI1TNNCDy4BfU8zNpgzGXvBdzuli7aRHv0Xc+QPkCdwq0FwvWB4lHfQARfmCUuMpeq9MCA0llxreb/DjYwc2zDJk2k8EK4NrBku/KiuRdweEvTU+/9q3hIWP+yjMjKGuwJnpDtTcmGTio+UEFd32LPfPS0uys+gKQyxRI0hrNNHjtJe2vQE8=;jm/2mqlLK9jeyvD5V2lxAw=="
 ---
 

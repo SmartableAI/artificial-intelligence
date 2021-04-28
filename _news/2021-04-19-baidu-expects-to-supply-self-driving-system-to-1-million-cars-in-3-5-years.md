@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Baidu expects to supply self-driving system to 1 million cars in 3-5 years"
-excerpt: "SHANGHAI (Reuters) - Chinese technology giant Baidu Inc expects to supply its Apollo autonomous driving system to 1 million cars in the next three to five years, a senior company executive said on ..."
-publishedDateTime: 2021-04-19T04:20:00Z
-originalUrl: "https://www.thetelegram.com/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
-webUrl: "https://www.thetelegram.com/business/reuters/baidu-expects-to-supply-self-driving-system-to-1-million-cars-in-3-5-years-577554/"
+excerpt: "FILE PHOTO: A logo of Baidu is seen during the World Internet Conference (WIC) in Wuzhen, Zhejiang province, China, November 23, 2020. REUTERS/Aly Song/File Photo (Reuters) - Coinbase Chief ..."
+publishedDateTime: 2021-04-19T04:06:00Z
+originalUrl: "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN"
+webUrl: "https://www.reuters.com/news/picture/baidu-expects-to-supply-self-driving-sys-idUSKBN2C60AN"
 type: article
 
 provider:
-  name: The Telegram
-  domain: thetelegram.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.saltwire.com/static/img/default_og_image.png"
-    width: 1200
-    height: 630
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210419&t=2&i=1559010206&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH3I04N"
+    width: 810
+    height: 540
     isCached: true
 
-secured: "3Vq7RPQBRp21+O52W2GcfJrKQIeYOsvXTJNWD+9137ZDKtwQ/cMRxf/c8x6r0lfLyiTxquscttSZOchnEkxG3zAXf/jxFv3nJ7K/C/Wg1IMv7ykeWM3k1EpC2jp8C+HF89YM9eSR1fCL9otn0BQUXYQrQec9HaSn1FLCgfWMztJSkXnnyyBnxkNvmFfwrS7JSKG3i1uTcn92TNZZV26I1J/SI49YwPAMnM9btyealZRglq7U+C7U9R0jGZFTr4CVbExDm0SMRCVtCp4UepwBgU9XdzbH54rechrHJYMEQkw0EwCZLpiLLY/Zscz30x97fzm3qST9cQwwrmrIRiKZsmW9e2QPntV5xBGYIcMDDB8=;CcGyZmsf0nofr0O7WlrpVw=="
+secured: "Dz/+wdXATDRGLUlgIEuTXa/8DKsZOufnNKMzt3olVj0Q+pVcn8nbeAd+KhscZiaMvATMIMMZklVFZ0kYZp7PbUfMYTVGbOgtEfWCM7v5nCXfk5waq2cPZnjD8GpJzF9Fb8wvnPMcdeRl7HdSIDZfTt/x90az9pmlBwqed4sv1whCceW2M5NT4NL0kLYUpbG2zJS+CWLOl3lskZ6K9X3WVKf6dPdzsqWLwFwsiwFT6dQ5ab7+Kgesse0yyS59I8bG7kdzt3YclL4LCVJlVY+Zey2OE7T1v6U22JqL8I/d0ihemQ2AUhOTj6HUOqfMvQwGgjDDWwC5kQNFMvt4ICB9x/2VqjR+rJ2iiQgxD8SwsLU=;xbNZw8faB3QG3lNgTUoh7A=="
 ---
 

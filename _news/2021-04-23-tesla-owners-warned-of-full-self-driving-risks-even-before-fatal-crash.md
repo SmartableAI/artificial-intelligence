@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks
 cdnAmpWebUrl: "https://www-cbs46-com.cdn.ampproject.org/c/s/www.cbs46.com/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/article_3ca82747-0986-5445-be1a-f1d4571d1809.amp.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS Atlanta
@@ -27,35 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla drivers with 'full self-driving' warned of risks and need to pay attention"
-    excerpt: "Tesla CEO Elon Musk said in March that about 2,000 Tesla owners were able to use \"full self-driving\" and the company revoked the beta program to drivers who did not pay sufficient attention to the road."
-    publishedDateTime: 2021-04-23T00:32:00Z
-    webUrl: "https://www.kcra.com/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    ampWebUrl: "https://www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/tesla-drivers-with-full-self-driving-warned-of-risks-and-need-to-pay-attention/36190726"
+  - title: "Tesla says self-driving system not to blame for deadly Texas crash"
+    excerpt: "Executives for Tesla Motors are contradicting Texas authorities who said a fiery crash involving a self-driving vehicle that killed two people this month had no one in the driver's seat."
+    publishedDateTime: 2021-04-27T15:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/04/27/texas-tesla-crash-autopilot/4261619529428/"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 54
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-78bff9e09592ac40812b9419af7e3a5a-h-0e4f79b782d2eb65a5d8a78692543a89-1619141465.jpg?crop=1.00xw:0.847xh;0,0.0384xh&resize=1200:*"
-        width: 1200
-        height: 678
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/4261619529428/2021/1/7c6a8333f271e9467a696a84af679d6d/v1.5/Tesla-says-self-driving-system-not-to-blame-for-deadly-Texas-crash.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Tesla owners warned of ‘full self-driving’ risks even before fatal crash"
-    excerpt: "Tesla’s “full self-driving” feature has attempted to drive under a railroad crossing arm while a speeding train passes. It’s nearly driven head on into a concrete wall of a parking garage, attempted ill-advised left turns,"
-    publishedDateTime: 2021-04-22T00:19:00Z
-    webUrl: "https://localnews8.com/money/2021/04/21/tesla-owners-warned-of-full-self-driving-risks-even-before-fatal-crash/"
+  - title: "Tesla crash in Texas shouldn't diminish hopes for self-driving trucks"
+    excerpt: "A Tesla crash on Saturday in Texas that claimed the lives of two men, one of them being a doctor, has stirred up legitimate concerns about self-driving technology. These concerns, however, should be governed by facts which will continue to arise as ..."
+    publishedDateTime: 2021-04-23T14:13:00Z
+    webUrl: "https://www.ccjdigital.com/equipment-controls/autonomous/article/15065183/selfdriving-tech-still-promising-despite-fatal-tesla-crash-in-tx"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 38
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 39
     images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Money-logo-new_KIFIMIFI.jpg"
-        width: 1024
-        height: 576
+      - url: "https://img.ccjdigital.com/files/base/randallreilly/all/image/2021/04/Screen_Shot_2021_04_22_at_4.28.57_PM.6081e6d47640f.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 608
         isCached: true
 
 secured: "6VgfAaRdKAXCJveasjXEO0Hx+gUTOKKPpVBxv8w/BCCDrl+IjWpaX24GQWS4Y8D5OBOZAZZ0Za2O1j149GZ06I690SHwZhpOOQebWRrVsEa5Yob3hmqwDfDN077WAlrAQ1TRPr1PuYmXHjUUshpjbg3880ba15x/tcpAiagnAro58cv/z+PknOXQaDhVPwwZmhwjC3q8H43//l3RyF3hvewBe/YLBq7SMnE1SPNv8JK9IFCs9dnm8v4b5WiNlUEW2E02aU5iCxhwxldoaly5b8ReG+sCDW5QOLImxLWmZeuBucHi6X4T7wGxGt220A7V6qSWC9vBMivzVT6A2xuGd2ukD9xABmAMmpsIUf8pD28YZr7ZKKK1VoSq71vzcSE6jLwslJthXzZ1fuyMSwbSfPkXp67VSXJbRuOr4Wnzw8bknmFHb5FBZqgg7AN5UTR1kOpj3wqSJ+P2qMTkXGldKz9E4i2m6Ch6OIBIN9y+kuuO3ffkalMvm3fbqeiD0Nvi+kkQNk5uzlTp9bFKZqea4g==;kVSh5J2i8wmn5p2/iscZTQ=="

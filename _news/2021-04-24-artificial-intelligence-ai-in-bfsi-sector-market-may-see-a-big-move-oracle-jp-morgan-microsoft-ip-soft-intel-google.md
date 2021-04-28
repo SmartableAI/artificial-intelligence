@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Insurance Market"
-    excerpt: "A new business intelligence report released by HTF MI with title \"Artificial Intelligence (AI) in Insurance - Thematic Research\" is designed covering micro level of analysis by manufacturers and key business segments. The Artificial Intelligence (AI ..."
-    publishedDateTime: 2021-04-23T10:33:00Z
-    webUrl: "https://www.openpr.com/news/2274483/artificial-intelligence-ai-in-insurance-market-worth"
-    ampWebUrl: "https://www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274483/artificial-intelligence-ai-in-insurance-market-worth"
+  - title: "Microsoft and Intel Enable AI-Backed Protection Against CPU Cryptocoin Mining"
+    excerpt: "Commercial machines running Microsoft Windows, and managed through Microsoft Defender for Endpoint, can now be protected against CPU cryptocoin mining through an AI-backed protection mechanism. The security layer requires an Intel processor with Intel’s Hardware Shield (a vPro technology) and Threat Detection Technology enabled,"
+    publishedDateTime: 2021-04-27T11:10:00Z
+    webUrl: "https://www.anandtech.com/show/16642/microsoft-and-intel-enable-aibacked-protection-against-cpu-cryptocoin-mining"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 74
+      name: AnandTech
+      domain: anandtech.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/4/U423807235_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://images.anandtech.com/doci/16642/Transshield_678x452.png"
+        width: 678
+        height: 282
         isCached: true
-  - title: "Active Investment Management is Latest Industry Poised to Fall to the Advances of Artificial Intelligence (AI)"
-    excerpt: "According to Turing Technology, a fundamental rethinking of active investment management is underway that is destined to put several trillion dollars in assets in motion. The pending upheaval is based on enabling AI and Machine Learning technology;"
-    publishedDateTime: 2021-04-20T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/active-investment-management-is-latest-industry-poised-to-fall-to-the-advances-of-artificial-intelligence-ai-1030322906"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
 
 secured: "NC1p71I03ucLbn3BP85lifRLpMW5xIz5n2SnOGhO9HXuzkmQlxEnWDws7IYmzkI3ebHWDnAVQ6o0y3rCfDgVpiD4O3K27EblNAGhPN6m8iBT0ogpzi9ygiDAaZ2OVGbIkWPUSDmZdYFp15sDK82gVHPsYhLzThlVdk8S9RTHK1Dd2JakazL/V1M5/IAy/S/aP91/svdCZGy3sJvo9WuTGoRH5oBf3xZ6WlqMbnU1EMPGe5bAijjsKKiuqQYdnKDjpbPRTs5h6r+CQY9w/I8aQDyfq/ziqE8jDIqXg/N56jtOSRDdxidg9qxWs+Hl3RpGQblG8Qh/rqpUtSiD/O7PBK81J0Qwpkh7r3me3fj1Frw=;A/S3+DNymgMKW+anyl0yAQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
-    excerpt: "Some unanswered questions about the U.S. economy post-pandemic could set off a chain of consequences like dominos and impact career and investment goals"
-    publishedDateTime: 2021-04-22T15:31:00Z
-    webUrl: "https://www.marketwatch.com/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/zombies-robots-and-big-unknowns-lurk-as-the-u-s-economy-recovers-from-pandemic-11619105504"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://images.mktw.net/im-328162/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "DJ Zombies, robots and big unknowns lurk as the U.S. economy recovers from pandemic"
     excerpt: "Will you be replaced by artificial intelligence? It's just hard to know ... How big a hit is the commercial real estate and apartment sector going to take? Will robots take more jobs? There has been an acceleration in technology adoption but how that ..."
     publishedDateTime: 2021-04-23T14:22:00Z

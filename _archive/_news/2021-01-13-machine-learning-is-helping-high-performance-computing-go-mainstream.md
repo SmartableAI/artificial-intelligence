@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Machine Learning Is Helping High-Performance Computing Go Mainstream"
-excerpt: "Proliferation of AI, in combination with cloud platforms making it easier to test the waters, have led more IT organizations to turn to HPC-style infrastructure."
-publishedDateTime: 2021-01-13T14:16:00Z
+excerpt: "This has partly been brought about by the mainstreaming of machine learning (a subset of artificial intelligence), which generally operates at a snail's pace ... like Fugaku. Related: En Route to Exascale, Cray Designs a Supercomputer Enterprises Can ..."
+publishedDateTime: 2021-01-13T15:49:00Z
 originalUrl: "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream"
-webUrl: "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream"
+webUrl: "https://www.datacenterknowledge.com/supercomputers/top500-japan-s-fugaku-still-world-s-fastest-supercomputer"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
   name: Data Center Knowledge
   domain: datacenterknowledge.com
 
 topics:
-  - Machine Learning
   - AI
-  - AI in Finance
+  - Machine Learning
 
 images:
   - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg"
@@ -25,6 +21,6 @@ images:
     height: 409
     isCached: true
 
-secured: "wPyjB6s74wJOUmcVhLm3ylDltgy48PEKz8gcWtR+87BUZCOe8W6gsDpN1UP+ZY/iS3ND9glXKz/Trtfk2uxtSk9M83vv4m3nOzQVjHMBGWSRBEO9qpjQh2PVYAkPdjt0kxI/z/Bt8kBuaUwCSl/xXk0076RvevHNVn6ZkVe/d3S+lAofeiVxrWr7rQxvUpbY9pYKZY4SZt0pcm3yqKsqDGsEg4j9OSM5JEd2wRV4VgdDewxb0+P2aa47rEeoeMxmVFweH/5hdKaz18Agrbi2K+fpm9Qhmkk+bg7cGDhDGBfWCc1sd0+kHwmePgSbJz21DINYprFF9OpTEiboQSdfh1KcwnyeCK2Ey7nuljPxozxxsQKYN6DdRMa/ciSWYm21smdgggmRJtWrtBj1Wx/gft1YmoOVM/yn/hR6igwpxAc+N5EP7HpvMUbtWd0j2iKvMf5kGEaUre17lCR7mmwH0ps6ifR4dF/4G3NSQzTl2ZuO+Vl0oyATlHQzFH46c7nUXsVNvRkJwggBE6+Cr0kxqQ==;Md3HXL+9U3cAAllaSupr2g=="
+secured: "YErJX0/HZbOxD34DxIOKnO16Rqn4d+S+irDVWU2DWdldIzjkKbz6x5mH2M2t+s78lviuZUNFX3ZLq9TriQ73delqxG/0aGwRYo6FXCqdGET/Zb1TXsOdIwSKwbPD2FsLJYmKLrnOCWIdoQDkrExlMfR1dSykXBobM/aK1QU7OMex+EDFeOybxvY18C7Rlk1/rnDbhsVp+43NP858FXfq7XV/vBmPVE/KUfUeGvN20BIuBnjfXpgKaKslVWU2dcrJNw78J89sYNsaxNETEfi8fvGYm4lJB2S807ZvvH2d0IhXqSndTXRdu89mzWDbAaFMakf4z3sjQ9haJGUNV6fdJjxRnmn/dsag0EzQdhcxMV0=;wxoJtcJ1NEFe1XhUJbyVRQ=="
 ---
 

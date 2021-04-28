@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Is Artificial Intelligence Dependency The Future Of AI?"
-    excerpt: "The future of AI has been a topic of much contemplation in the last couple of years. Especially because AI is more capable by the day."
-    publishedDateTime: 2021-04-22T16:19:00Z
-    webUrl: "https://fossbytes.com/artificial-intelligence-dependency-future-of-ai/"
-    ampWebUrl: "https://fossbytes.com/artificial-intelligence-dependency-future-of-ai/amp/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/artificial-intelligence-dependency-future-of-ai/amp/"
+  - title: "The AI 50 Backstory"
+    excerpt: "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business)."
+    publishedDateTime: 2021-04-26T13:13:00Z
+    webUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/"
+    ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/"
     type: article
     provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://fossbytes.com/wp-content/uploads/2021/04/Artificial-intelligence-dependency-is-the-future-of-AI-featured-image.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 646
         isCached: true
-  - title: "Kontron Delivers AI Functionality with the KBox A-203-AI-GC"
-    excerpt: "Users can thus benefit from the wide range of applications offered by Google-AI right from the start. On this basis, own software solutions can be developed quickly and intuitively with a short time-to-market, based on pre-trained models for the respective ..."
-    publishedDateTime: 2021-04-23T05:13:00Z
-    webUrl: "https://www.newswiretoday.com/news/175267/Kontron-Delivers-AI-Functionality-with-the-KBox-A-203-AI-GC/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 21
 
 secured: "YweiXjOTe5tTnNngr+BeDsASF/eJxp2K+8CU5UQ3PxXfarS1dSNsnbuibCrXmXGN6ncllIl1wumFGjA8txXomd7ND84+TeILCqiXoDSYlaHPGdyLHIv3Sn4ApEQINbTe85z7AMcDa8gdtPPGtAJCVB67VlXgqt40zSNo7wT4yYfV8Ipe/V2jSpmPcul+KGLkUl2Dmf5whffbmwuCklV3gQUsRrErkSQgtDNwKpUal9amgoKL22sjbthb0W1kGiKiebIizaIK4/EF7Ga2HrgGx/OQdhDHGqjoK96M9wszkBXxkRsljaxkCCDoMNcHKnkIehI+25oWoag9ZA6Xve2khxST/AUmOVcSwEpNKbaj0mU=;kMbgUuC1xQgMskRnDo4dyw=="
 ---
