@@ -7,7 +7,7 @@ originalUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of
 webUrl: "https://www.tapinto.net/towns/elizabeth/articles/3-applications-of-machine-learning-and-ai-in-finance-2d5c4825-e0ad-4dda-bec6-22e91842eaa7"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Using AI and data to make decisions faster"
-    excerpt: "What can agencies do to take advantage of AI? Kent: One of the things I said frequently when I was on the government side was just get started. Start on the journey with AI because that does a couple things. That forces you into discovery, both about your ..."
-    publishedDateTime: 2021-04-23T20:06:00Z
-    webUrl: "https://gcn.com/articles/2021/04/23/ai-data-decisions-kent-qa.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 37
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIengineers.png"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "M6kASI6omNF6k8crjvBIU72QT4pyk5MDDs1/TkZrcDWMNYR/nd/xGTKVQC5XzumCdJYjIcsFaG3FlA3GgG8Hq1k6QBhoOcuMxor/xgfYb4aeojYNWhQxrrRliT/U3iz75dPPY08DcLS+cCvAliQ47/i94Ox/uS2gthurx19RptvSeVMDd5JNE0eZ3+D5sPl0fbcSu0SuaTtFG1xVpWGvkLm8i/oQOyNNZxAbigUVKTMIrbj/AsjFunys36tplnaLFjHn8vENsfAMfWgx5BECWJboe9QaqHygaZm+bCkyJTQ9ziSwOsKv81wZOUDva5LxmjDqwAfamD9Gq1wNWgYyyRZJPKNkIZeck48mIe2THRo=;WcsRPSSnlPIzmy3hsBPH0w=="
 ---

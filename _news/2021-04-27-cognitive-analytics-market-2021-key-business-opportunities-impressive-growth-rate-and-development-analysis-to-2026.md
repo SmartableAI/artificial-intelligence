@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Location data analytics startup Placer.ai raises $50M Series B"
+    excerpt: "It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories,"
+    publishedDateTime: 2021-04-27T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/"
+    ampWebUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Product-Image@2x.png?w=1024"
+        width: 1024
+        height: 507
+        isCached: true
   - title: "ThetaRay launches anti-money laundering AI and analytics for the cloud"
     excerpt: "Cybersecurity analytics company ThetaRay announced that its AI-based Anti-Money Laundering (AML) analytics will be available in the cloud."
     publishedDateTime: 2021-04-26T19:00:00Z
@@ -44,22 +60,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1279322260-e1619416404946.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Location data analytics startup Placer.ai raises $50M Series B"
-    excerpt: "It’s been a very tough year for Placer.ai’s core customer segments of retail and commercial real estate, to put it mildly. But the foot traffic and location analytics startup saw growth in new categories,"
-    publishedDateTime: 2021-04-27T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/"
-    ampWebUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/04/Product-Image@2x.png?w=1024"
-        width: 1024
-        height: 507
         isCached: true
   - title: "RealNetworks wins facial recognition and AI analytics contract with US Air Force"
     excerpt: "The goal is to reduce the risk service members face as the Safr-enhanced UGVs will detect unauthorized persons in restricted areas with face biometrics."

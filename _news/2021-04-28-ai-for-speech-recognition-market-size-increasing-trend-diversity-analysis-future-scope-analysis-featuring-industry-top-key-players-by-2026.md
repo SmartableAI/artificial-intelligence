@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Neural Network Software Market Key Trends, Growth Demand and Leading Players Anlysis"
-    excerpt: "This report on the Global Artificial Neural Network Software Market assures a treasure of information on a plethora of growth opportunities. The study includes expansive research by expert analysts. All the growth factors revolving around the Artificial ..."
-    publishedDateTime: 2021-04-23T19:33:00Z
-    webUrl: "https://www.openpr.com/news/2274824/artificial-neural-network-software-market-key-trends-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2274824/artificial-neural-network-software-market-key-trends-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2274824/artificial-neural-network-software-market-key-trends-growth"
+  - title: "Global Speech and Voice Recognition Market Survey Report, 2021-2026"
+    excerpt: "The Speech and Voice Recognition Market research report includes Market segmentation and overlays shadow upon the leading market players highlighting the favorable c"
+    publishedDateTime: 2021-04-24T01:24:00Z
+    webUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239"
+    ampWebUrl: "https://www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/speech-and-voice-recognition-market-386239/amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
+      name: express-journal
+      domain: express-journal.com
+    quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/4/U423717797_g.jpg"
-        width: 800
-        height: 507
+      - url: "https://www.express-journal.com/img/img-10.png"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "New Opportunities in Voice Recognition Biometrics Market 2021 Growth, Segmentation"
+    excerpt: "The recent analysis of Voice Recognition Biometrics market size has been methodically put together to impart an in-depth understanding of the key as"
+    publishedDateTime: 2021-04-27T16:26:00Z
+    webUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/"
+    ampWebUrl: "https://www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+    cdnAmpWebUrl: "https://www-express--journal-com.cdn.ampproject.org/c/s/www.express-journal.com/voice-recognition-biometrics-market-388373/amp"
+    type: article
+    provider:
+      name: express-journal
+      domain: express-journal.com
+    quality: 38
+    images:
+      - url: "https://www.express-journal.com/img/img-6.png"
+        width: 500
+        height: 300
         isCached: true
   - title: "Conversational Artificial Intelligence Market 2021 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2024"
     excerpt: "In 2018, the worldwide GDP stood at USD 84,740.3 Billion as compared to the GDP of USD 80,144.5 Billion in 2017, marked"

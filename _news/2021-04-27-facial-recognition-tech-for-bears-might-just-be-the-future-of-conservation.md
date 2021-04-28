@@ -7,7 +7,7 @@ originalUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-
 webUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-for-bears-might-just-be-the-future-of-conservation/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "LifeLine Animal Project upgrades facial recognition tech to reunite lost pets with their owners"
-    excerpt: "LifeLine Animal Project has upgraded its facial recognition technology to help reunite pets with their owners."
-    publishedDateTime: 2021-04-27T21:28:00Z
-    webUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-upgrades-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_7b955cc2-a79f-11eb-b6bd-8b1796f3c0cd.html"
+  - title: "Fight over facial recognition technology isn't over yet | Opinion"
+    excerpt: "Last year, the majority of the pictures Detroit police used with the department's controversial facial recognition technology came from social media. This year, images from social media are running a close second to images from Project Greenlight."
+    publishedDateTime: 2021-04-28T13:41:00Z
+    webUrl: "https://www.freep.com/story/opinion/columnists/nancy-kaffer/2021/04/28/detroit-facial-recognition-technology/7342230002/"
+    ampWebUrl: "https://amp.freep.com/amp/7342230002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7342230002"
     type: article
     provider:
-      name: Marietta Daily Journal
-      domain: mdjonline.com
-    quality: 27
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/7/b9/7b955cc2-a79f-11eb-b6bd-8b1796f3c0cd/6088849ca17e8.preview.jpg?resize=672%2C630"
-        width: 672
-        height: 630
+      - url: "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/85154b4b-9766-46c4-97fa-afb4a435790d-drivebyprotest_061520_kd759.jpg?auto=webp&crop=2399,1350,x0,y37&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Photo Ninja hides your face from online facial recognition"
+    excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
+    publishedDateTime: 2021-04-27T15:58:00Z
+    webUrl: "https://knowtechie.com/photo-ninja-hides-your-face-from-online-facial-recognition/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/10/facial-recognition-music-festival-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Coalition of groups calls for end to facial recognition program used to identify protester at Lafayette Square"
+    excerpt: "A group of technology, civil rights and legal groups is calling for an end to a facial recognition system used by authorities in the Washington region that helped identify a demonstrator accused of assaulting a police officer during the forceful clearance of protesters from Lafayette Square last summer."
+    publishedDateTime: 2021-04-28T10:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/facial-recognition-washington/2021/04/27/a6fb257c-a6c3-11eb-8d25-7b30e74923ea_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4SLC7FHNAI6XDJFPMYOOSJD5I.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "EI4Sv8lam175Cv4x9wMqBmRdNWUDFwkG+MBENv784mTl9xFoVwLUajp/SJ6uC1zh5CrdysZQj7P+ylIFgYh1ceEBUuXe6JSyUTvc4Vynx7WqzYcU2yMKaLr7Mx6zDX34oE2851MhW68p9Oh2JpveF0RbtEVKoER5jUDHL3pe4jn9egpq6CBUAF8DhFRDgQb/g8pXLFZGTGnzIYeLwRvMKy6rXBRNmT7kl2bF1jABYaxEN89q6Ei+50yKksKXKLcdVuuQ7zpS/13/xS/1FPl6dEFd4ZPWcqYjtqOBlNB0aTR+Lr8m+FyxUOfCPc5Mb4fA+M5wSl0y/W/ieTtHnYR38dGektaxbNLE2j/rDkGi6HfigzeRTwt7+wtZ8yYFLrIG/pSn6xeOIsvP6523uRT8prVnsF+xHIO0eQ735O8+KGlSEXI07X1PwXkASVeFihLe1wdymICtIT6bp4UlUQbC8Z2Dp4oJpC6Ci9nX9pggdt7wtJBn/JDpDbxW3Sh7KdH422SjvL7E0woGOyCFZ+hHkA==;B7jXsptYm+J9Thw+Xat5Fg=="

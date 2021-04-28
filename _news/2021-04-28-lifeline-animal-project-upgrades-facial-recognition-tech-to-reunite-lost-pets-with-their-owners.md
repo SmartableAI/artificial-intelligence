@@ -7,7 +7,7 @@ originalUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-proj
 webUrl: "https://www.mdjonline.com/neighbor_newspapers/lifeline-animal-project-upgrades-facial-recognition-tech-to-reunite-lost-pets-with-their-owners/article_7b955cc2-a79f-11eb-b6bd-8b1796f3c0cd.html"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 672
     height: 630
     isCached: true
-
-related:
-  - title: "Facial Recognition Tech for Bears Might Just Be the Future of Conservation"
-    excerpt: "Facial recognition technology is used to unlock your phone, find missing persons, detect shoplifters, and even was used by Taylor Swift’s security to ID stalkers (seriously). But now, it’s revolutionizing bear conservation."
-    publishedDateTime: 2021-04-26T21:52:00Z
-    webUrl: "https://www.backpacker.com/survival/bears/facial-recognition-tech-for-bears-might-just-be-the-future-of-conservation/"
-    type: article
-    provider:
-      name: Backpacker
-      domain: backpacker.com
-    quality: 37
-    images:
-      - url: "https://www.backpacker.com/wp-content/uploads/2021/04/bearpacker_facial_web.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "DLGQvGHi0b9XdXHf17A3+9y0cgcaauNK1tfh6S72OlHziPEpTd8ne4FIl6ime8bArrvO1Q886BB4zun1finty+rZaswIoAzi7V0cFoGZ/L89PQn1i5Dmw7hhEJ6w+T9OzAaa79edq+RmTwfze+LP0xejNHzesyp0RNy6BTOUKW0Rvpr2RGKDVWZ2IB5Ekq/O24N7NuB5EaqmnxjtaR0s2TQLmaNaqOUHf5Y2ufgDXYsplGYoyUPcYwnTGbRQdo8QIp55jFyrx3xtdkA9DfHV4TM0164F4ewiHha8hhMh05YfhWfwXcqpPGOVO43ZpujrMIyeojfb2JoOh8wKCeSdTaX0ibIa3XkXNZOQGqHYhara9Renzkh6a3/bgIe99WOKWIaPFfj3cIKpDSY5Xih5Eh3R+L6lfuY7pzeMKbtPA0raA3shlyjbD1KNo0M/wUDwmywUUtcwKhKCpnu1JwkAzhKO5G8YSTKQj75D/K+uiX2Lh6Pj4txZdLlDGhjLzHjPUfiEufi4vMXFWdCu4QlGeA==;zFneOo0PkeE6QMsQ+zz3Sw=="
 ---

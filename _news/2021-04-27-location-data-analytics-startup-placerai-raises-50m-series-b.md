@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-place
 ampWebUrl: "https://techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/location-data-analytics-startup-placer-ai-raises-50m-series-b/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 187
+heat: 237
+published: true
 
 provider:
   name: TechCrunch
@@ -103,6 +103,6 @@ related:
         height: 667
         isCached: true
 
-secured: "g9BmVgIwEBiElMe5mG0DDPlbk22lw5YsMbjffkavt4ZPtTqsmJRw742fjRKG6++1XVuYzCaqFRM3W+M1IhGQe62A4UIdfzhnAGWcI0aT4p1g4iNazp6R2+2oH4t7shB3bwT2d7TpeQvAw3T2tsudPoJUQBjnNDvvEFLVoa7ML0xmuHNiZ6f0rpowu4uf2dB8SpUjlfZ/Ypcnni0p9gUVLnlnHk51dtwXznpVCPjfB5fzi2k9tz6uf+aO2qTlWRntbcxQylxqmYp/a7osr4YZVOi/pxqfhMDXkBeDY2pg7L/kVLV01/PX86ZoJHhdJO6+MFNEmK3hJmnX99FUwCeePw2uhajQSzJ/vsnBGlWRwlw+y/kO/YRnltTHPr6Khg2GGYp5YyqR83L1tLzqR/aa+/xlZDOjiwlKsrkyn+GIxfpXQddn3iFOXaQnkVLXJFzQuOOjm8B3k0xBryd2qhupNHr4F1ykpjxR2IQ/w7hN+GBOz9oR/wEfNuE3bzU/BMyTgRoMdlGq5btCicg4WZRhTQ==;EjqT5iTRvb1sAuVUtIhjmA=="
+secured: "5cMR9pVdSAwy7XnsbreBYetg4/KN6tF60XpbJjWud9goBg0mW2/Iq78MVvnLA+WS1MzObeQNCXP3hSSmFD3areFufX3QGR0ZyN3CdiFwZWJE+hfz6n7sw/GR9Gr+9I7ahpjBf2c50CIEfhfNAaz+TNhm2fgYyrtw9kkkevm/EjIFps+2L1sDVps4ARkPczRLIA7+zVMiTo8rd21EIHKxSLXbJIs5rNiZoakhDjBV/gDeQSganfwPR69BM/eY6mhJdktzJ2gdS+qWTcGTSKbMfMbPCo8M9oHFS+O9BBcv9P54cv2VcurZ6v/bGO4KZVEmj6UEvpDOyoTD8YOi0qmk+IJngqH+Uwb2JGSbyVS2cJ+jCWuBjTWhzSC5H2zLK1eUQIk9+DchHV9Jci+QtAoFViSTKuhHR2F24wzyn5MFJpeWVH9qrqs71DHo33EZYVYmCwSJlxc5xftaqa+SP0YZg2Y7gcaJivKZJlaTRrXmZ/DbQ3OK+jXfIgFCipS2b2CgipW2izAhyRK++jp/cIxPh/uEle6aTdqx8Kp2ZFAK9OE=;GYWaUxvgDAnkK37Yq2vZyw=="
 ---
 

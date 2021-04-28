@@ -2,25 +2,27 @@
 category: news
 title: "Artificial intelligence model predicts which key of the immune system opens the locks of coronavirus"
 excerpt: "With an artificial intelligence (AI) method developed by researchers at Aalto University and University of Helsinki, researchers can now link immune cells to their targets and for example uncouple which white blood cells recognize SARS-CoV-2."
-publishedDateTime: 2021-04-22T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-04/uoh-aim042221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-04/uoh-aim042221.php"
+publishedDateTime: 2021-04-22T12:28:00Z
+originalUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-key-immune-coronavirus.html"
+webUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-key-immune-coronavirus.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-04-artificial-intelligence-key-immune-coronavirus.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-04-artificial-intelligence-key-immune-coronavirus.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/20-artificialin.jpg"
+    width: 914
+    height: 640
     isCached: true
 
-secured: "UpsQ9xcLApmG6Xg/9jTkDezEzySZuD09rbtBIiu0w+DwDvCoCrEgUKnJIbVvGxDFApVv+UMStOOJBjpN+b0wI0k9ISbTWG+OAPhb+5WHcwGM4mKkaig4Onrewpn43l8zwmS+bGe1lbLWvc6sA+iDJTcnqhm3juhTiRQ0tFr1YRcZ/86691JM74OfwYI4gL9Zikv7NoQzWQ+nLDqVoFjeZaOfXCiB6CpkDZNK355Br4/6IEb0PdD++wV0Ib3b6M/zHHC1n5s7pM2IzzxoVIAU1BZH2QWIiBwii8spMYdWIAT+fQBjomy3pOvxu+ynZZjSCHvHtc9mpyUAKyDaMQ0hX+KhSIg7rXfGgdidRuDKGj4=;883LtvK3/Tq6L3F2CQDV2Q=="
+secured: "TiIv2z2w+oW1vWwCIBgR/YhTIAR2HHCk5Aiucw6GPGjoxoCWxmW5RGr80rmMumGUw8pyH1HFM8m5H8s3FznBz2e3R4x0bHsB+FWVT7nLXPFYgPdPGSu2THzvURRgvKugKjXVOmjnV9KCHOWwWE7752B7ZH5BjDhlAc2Etwpo71ihOfJhbxE3trbMDaUPm3XxtNvpPc3CU5pssmeKBTdCZLBmUNm916o/Jt+wBNiz/azmjRC9CpPGrhrYiJliBjAgX/YsXOGggPRq69jWPSffPDXQZJzV7blLiByeMCsVuU2doBAsjC08Z5T2wxK4Dv43MVv6ZmVV5750CCl6o+JuDiUDjFXZxe1e7PDSiBFAzIc=;FM2vcf00xb8BCPWs9g02Vw=="
 ---
 

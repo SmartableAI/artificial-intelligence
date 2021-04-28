@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-28-robotic-vision-startup-plus-one-raises-33m.md",
-      "title": "Robotic vision startup Plus One raises $33M",
-      "excerpt": "San Antonio-based Plus One Robotics today announced a $33 million Series B. The round follows an $8.3 million Series A announced in 2018 and brings the company’s total funding to north of $40 million.",
+      "path": "_news/2021-04-28-fight-over-facial-recognition-technology-isnt-over-yet-opinion.md",
+      "title": "Fight over facial recognition technology isn't over yet | Opinion",
+      "excerpt": "Last year, the majority of the pictures Detroit police used with the department's controversial facial recognition technology came from social media. This year, images from social media are running a close second to images from Project Greenlight.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/",
-      "originalUrl": "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/",
+      "webUrl": "https://www.freep.com/story/opinion/columnists/nancy-kaffer/2021/04/28/detroit-facial-recognition-technology/7342230002/",
+      "originalUrl": "https://www.freep.com/story/opinion/columnists/nancy-kaffer/2021/04/28/detroit-facial-recognition-technology/7342230002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/PlusOne-1083-1440x720-1.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
+          "url": "https://www.gannett-cdn.com/presto/2020/06/15/PDTF/85154b4b-9766-46c4-97fa-afb4a435790d-drivebyprotest_061520_kd759.jpg?auto=webp&crop=2399,1350,x0,y37&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/robotic-vision-startup-plus-one-raises-33m/amp/",
-      "publishedDateTime": "2021-04-27T10:28:00-07:00",
+      "ampWebUrl": "https://amp.freep.com/amp/7342230002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7342230002",
+      "publishedDateTime": "2021-04-28T06:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

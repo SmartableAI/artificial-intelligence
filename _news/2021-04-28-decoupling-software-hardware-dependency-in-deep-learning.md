@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-28T10:30:00Z
 originalUrl: "https://analyticsindiamag.com/decoupling-hardware-software-dependency-deep-learning/"
 webUrl: "https://analyticsindiamag.com/decoupling-hardware-software-dependency-deep-learning/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/joseph-greve-rst3YOh6LXA-unsplash-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1707
     isCached: true
 
-secured: "AvHmQrKeURd3ZnpNSq2VVG+xqPViU986zn/hdxmXk4WDXZSc/p0XSjQblD6YuAqRoxBoflQnI/jp8KTDgXbPN+EXmeaalcahfVq3IpvIKK0weMvImtcn+6DKT3k5ZZGz3br0rlR6N1PV2ItRXv6Wn2bUX8qs77XwcxLjy8jFCd047z6ttIpirfyKsAzOUWXqplRzHrcaqLUGLLZvmWnSlKmjCvj/hM0XVwPMmOBMMuJoV/dM3u8IYLFi/In1A+0ZJAOSlq8ulj8cW/SZ4pcc2Bkw8iz6OzIGl1IagmbHhPat1sHBnPsmcnG3HMMhKCFzK75PehEaemuRNcWm3qzBx7xY21pkNEMurkfpA1gYa8g=;/hS7sALd/Bzr4wpVVutXLw=="
+secured: "8sTy21jzTLMKlmbl937sxV2NeE+xjtNtG/o5lfImRIv/jSk/JeFjVFNb+U5FF0vfIK4YqfN4teiqOuN7vo+UCVkdpZeH9D063FpZliscUlDiG+nOvler9nXvkLLnkPV3TQpJ9QeyAIOo0mQU/NCNt0nXJbWIerO2xsGDt875E7XLg/DCyZZVOmzDlAAMo7t9rro19PvFRNrJw84Y1lnozwZYgb8cAqrFUQcDNqWreuyQTdffE9LCIr4ZYGZhnX6evmrxsvxpWuToVhIuL8zRAnqiS9nRO1T7pxUGlCgLYZKt+WlEKmSjY3WFSSYZELDyz5JVxYqgyMUAWdKIyyYAIhplM+Mry2Njv7GmYaNbH9EOlu38tcW+O5KNzf1UJMtb6+QnwQscbsWMRbik2oE+nytatR9hBb1eHuOmKiJL9Yl8dB5u3xZh9vywy1RxgRtnyy9neE++VGLTzpELfuo3wcxxQtQJ73Q3MNVRu+z2uaJtUlXmaT/0vIzwPA6br0zUSvozlXqP4eGgR/VFcWKnAA==;SDXR7nFj7E9L+KCM8z/RyA=="
 ---
 

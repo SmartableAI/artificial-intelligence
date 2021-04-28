@@ -1,70 +1,23 @@
 ---
 category: news
 title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
-excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
-publishedDateTime: 2021-04-28T09:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
+excerpt: "Blue Hexagon Named to 2021 CB Insights AI 100 List of Most Innovative AI Startups; honored for Agentless Cloud-Native AI Security"
+publishedDateTime: 2021-04-28T13:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
+webUrl: "https://www.businesswire.com/news/home/20210428005295/en/Blue-Hexagon-Named-to-the-2021-CB-Insights-AI-100-List-of-Most-Innovative-Artificial-Intelligence-Startups"
 type: article
-quality: 36
-heat: -1
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
-    excerpt: "DeepMap, Inc., a global leader in autonomous driving technology, today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to transform industries."
-    publishedDateTime: 2021-04-26T21:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-e95b3592dc12f9c850a8ce1ab3ec9443"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 42
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "MindsDB Named to Forbes AI 50 List of America's Most Promising Artificial Intelligence Companies"
-    excerpt: "Open-source, AutoML server MindsDB listed as one of Forbes' AI 50 top privately-held, U.S.-based companies focused on machine learning. BERKELEY, Calif."
-    publishedDateTime: 2021-04-27T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20817138/mindsdb-named-to-forbes-ai-50-list-of-americas-most-promising-artificial-intelligence-companies"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20817138"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20817138"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
-    excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
-    publishedDateTime: 2021-04-26T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
-        width: 797
-        height: 419
-        isCached: true
-
-secured: "QkYo+bz++9/nNiJYAUhxDCJJpAoWP/LDMY89QsLZi2UbQhYL1ZYYi9LLhSYBkxYzQ/fECjaflE+HfEC6w2xSVPnc7+6rbgmljirbGalIx9x/YWh9iFlHSCvU95QYXfjnxkHKfvQqfpO0gnwzAgFtG9CKq+hicdKckU02Wdkr4lOa3NxORofcWGOUu2Ozkmqq2rLIZACHScJjxroPRrMnCh295QxroOYnJBzkK1Fj2tnQxysZiJybhVXxWLzBZWfyePJ3y/q2r6M6n4eG8OosYlmTNZvHQ/GlbY5cenF4NYbZAv6aXlfK+jFaIX1etjI1qUUOOVoTSaBwPK8OmEAzbhC5sBgkL5zgRruLxcXUjko=;yKqbefLf9qZl6fxhxV+wHw=="
+secured: "NYT59mXMyyWqq82OsJy7bsHNEsbGhvIqCwQxwMkDZ6GuQAe+c794naIZav4WVz79KUPUJuSt54/E2mQC8yIxZ/Kziw0HxUnRtx2D1EOvjcT1E0VJwkNlpiaX+GWM9j+YfQu3hIFbJRc8Y1Fs9nXnmS7LgbRLf2AOmE2GVmd+oA322ag85e+wUkxZhz5Xaw0DCfjyOc6RDzjEi22MgnOm2fXCjzE5IfU8GrJ+pW6rlccGYcSc9HDd2PxvR5YeGwiaZiFMOWdMCNF+QY5Zyj11rJSDG23llTI9W09JlSWfpGUk9RSJvc0J+iot9zJzkgr4YWxpBTVkebZm9+AKuFHBA0HVBWDd1BeGiPJdr2L/H+I=;dk55ZqTDMCqiPnhLcLT1SA=="
 ---
 

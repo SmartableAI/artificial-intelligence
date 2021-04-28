@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/04/26/thetaray-launches-anti-money-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/26/thetaray-launches-anti-money-laundering-ai-and-analytics-for-the-cloud/amp/"
 type: article
 quality: 91
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -42,7 +42,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/04/Product-Image@2x.png?w=1024"
         width: 1024

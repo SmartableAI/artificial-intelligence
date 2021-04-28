@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recogniti
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2560
     height: 1293
     isCached: true
-
-related:
-  - title: "Photo Ninja hides your face from online facial recognition"
-    excerpt: "Photo Ninja claims to use AI to slightly alter your images so that they become undetectable to facial recognition software online. The tool was developed by the legal advice app DoNotPay. The self-dubbed “World’s First Robot Lawyer” was initially developed as a chatbot that would help users fight parking tickets."
-    publishedDateTime: 2021-04-27T15:58:00Z
-    webUrl: "https://knowtechie.com/photo-ninja-hides-your-face-from-online-facial-recognition/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/10/facial-recognition-music-festival-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "W6cY4JMZf+k5MrsQgMJKrqZUBtqX4gE7tI0W5SDLZUGtMyRY5nYErCZT9tyBmw6Nz2b2QlICGjSRzWfteOvXcqgFStkVw7Qieq08Z820CPxDenN0FIPlxtwPwnhKEF7Tmna0UFeDCcM+QKflp/MxHXmGLgAUk+fPEru+XVqwnxOQE6ZUQYw3u/Q8YYgn+TXa5bZfgnHAwZ5Q6q5T1QCW5elrRMVXtOElIzSjnD+KUIF8mnNw6zlmOteyfEAhCIgaF/InbAWFofGam1xKkwgdZEiIJHc29m3N5NCw3pgclOzJjaNkonW3Ku/Oa0UKtYEmEg/p6hEN6Q9TdxoHvSo4UcMykqJl7RSqGvl0XbNpvY9Og6FcoAXD72nPu9xxDT48w+McD/8uyyj73dKYE3dj6ng4eMDY9DLr+nars2yNItBhChOi6V9PEEuBHTWCRVBXfn7vJWZjl8bi2f6Qze7l4wtsY/7Cpr62MBKeqeG1JuE9DCX7a904Uidm0JQJcncxImcB4EQZCGK9a7qguWO8mg==;3NiAXJo3z/qci2/Pz4z1nw=="
 ---

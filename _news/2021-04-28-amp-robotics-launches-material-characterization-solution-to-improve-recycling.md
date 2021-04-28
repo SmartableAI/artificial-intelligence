@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AMP Robotics Launches Material Characterization Solution to Improve Recycling"
-excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has introduced an AI-powered material characterization software solution that enables the recognition and classification of recyclables that flow through different recovery stages of the recycling process."
-publishedDateTime: 2021-04-27T20:13:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/robotics-technology-business-0831d8467b9a4ccda1c098b26943b79d"
-webUrl: "https://apnews.com/press-release/business-wire/robotics-technology-business-0831d8467b9a4ccda1c098b26943b79d"
+excerpt: "Company introduces next-gen data application to track flow of recyclable mixed plastics, paper, metals, and other scrap through the recycling value chain"
+publishedDateTime: 2021-04-28T12:55:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2021/04/28/amp-robotics-launches-material-characterization-solution-to-improve-recycling/16742/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/04/28/amp-robotics-launches-material-characterization-solution-to-improve-recycling/16742/"
 type: article
-quality: 51
-heat: 51
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "FoNmFEEhwDnnlQUIm5Herrrldm7NDOgYlnHznUblLawyRxY/hf0lFE+pY2/CKdfpsEHN9HKWUDGzllxurVpyAL/c50C4kBSYxuXSu7WYRRtfXhX3UaNNl215MDYb5zvCOxpLVyDq2d7Iu4tnhZvJ1SB2BYR9fkMZFqqE8R0pOt4+hXVAuCfZ69nq2AC0sO1dypXlrG8/FTfsFC8h34ZPm5mYkSwhbwhy3TCc7y/rFf/wxSuqzy/7Ylir9h4fVRILFFZ/MU8fVCamIJdZLr0gXkcqpEsTcC43aMNkMeAK2B8/IA4PewUC09f9SmQYpy+kRX1jtrrbfXtG43iYGTg+f65M1ePdvzZYCkGXIqW1b1I=;SUaG7Ri9Lkfr15LY0328zg=="
+secured: "ZN6+DSsdbQ2QNWxyM8DumNQiYn6XKykt837eQOlxDLk5R1d3549ycibeHtcHbrya5qcbWwiEzoQhUIUgxdfh9u2Wf77KqE3YYW48Rg8gmVeCbUR3OXVtpnpPVFcem4tR5eZNdkxc7z+4IznQ0VM+Qnf+TXibALgtBGKa/Ih/YNtKcXcqq0p6cKkY5FZ6M/F2HsAbvJh8xakuZ1BAC+FQBjfD3n2IAnDZdpcOK6BjHF77ZS60Dc/wKGchDEeMzl7Dfgngw6oPI0Iu45BdkIB3Pdr9MqWhdpPolHkXfavXrp8aLkhBr1UsCRJ5VROtslYcHUNTKWapkPyHMZmgXKYCnCvbbxA/pdjuGLQXcEfAniw=;UhsSyUgZ/FUty8nZDc1O/Q=="
 ---
 

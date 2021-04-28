@@ -51,6 +51,22 @@ related:
         width: 480
         height: 340
         isCached: true
+  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
+    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
+    publishedDateTime: 2021-04-28T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
+    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "3RLvg8gpjBvX+ztESgkA9fsnW1VRvKwTxy3N6cuPkWsPYsRpPHFgBxPthxhw3gLbYon2X3YWSWjPd/mBZC5TEIBEUm6L9NVsUGzwIkYC4X59gusluDZ19KSNX2zjTqcfrNnkFYU0BZAiclXRiY5lTs/1tMTn/NARDQhUu3O4PJBwr+uLCGAKhLnPOm7UkkFlpBmDKp78pqgr4QmH7OevtNRogEhtutDeCHeJzDPDr4MoMhXdd8Y0/qRc9QLPrDEiCy3vEmY3L8SRnKsvhGeXyNmthoLYtXt1LM9jil6DiEsqC4zf1X81Y1ggRSv2z6+oFc+IpOUz6XZKHO9c7lDwAJh1LSpqMfcFJNWxndk8xMY=;UAEkKRRIATuawJA/kYNyjw=="
 ---

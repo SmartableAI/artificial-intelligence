@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-growth-trends-absolute-opportunity-and-value-chain-2021-2026-2021-04-28"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://cdn.openpr.com/U/4/U426937715_g.jpg"
         width: 480
         height: 340
+        isCached: true
+  - title: "Artificial Intelligence Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast – 2021 to 2027"
+    excerpt: "Artificial intelligence has been one of the fastest growing technologies in recent years AI is associated with human intelligence with similar characteristics such as language comprehension reasoning learning problem solving and more Manufacturers in the market witness tremendous fundamental intellectual"
+    publishedDateTime: 2021-04-28T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2276518/artificial-intelligence-market-global-trends-market-share"
+    ampWebUrl: "https://www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2276518/artificial-intelligence-market-global-trends-market-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/U/4/U428953092_g.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "/LKZtSGBq0L+KW51wkpiXi0uxfJ1iDYjgEXTQhcS+R0Q7otXtulvrb2KWSM3XsaFr9PBkn7XJ9vzsKkTpZ7J3Vs//T/e87+5F2QYK/uaqJqmA0jj5il9l1fRkbGPU69pGq+ESG6PQGE04t1wWS5vNz3Nqh+6xfLlNo/yt9KEbPd+i67yWHjNlCO8Gii1wvF0uO4cBTr2ksZHfUXTxWkF3SqhbsmrupPhmmhy9Xk4OW3sLoH/PMLIEz9m15/j5E2yltyMshgf+yhXOXSO9X22k+GIkVYWJx0Wo9vG79/vel7eQaz5BobbhmgJXG8IDA4N+znjGY6BS30H3YBupzcrcXtlSYjWMlWsbdPzcB9sPfc=;xBefZ0tEHShrYBWGzo2sww=="
