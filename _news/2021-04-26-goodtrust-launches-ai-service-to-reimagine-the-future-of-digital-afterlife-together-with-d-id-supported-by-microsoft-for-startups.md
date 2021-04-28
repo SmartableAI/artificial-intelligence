@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches
 webUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -43,7 +43,16 @@ related:
         width: 2240
         height: 1261
         isCached: true
+  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
+    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
+    publishedDateTime: 2021-04-28T13:09:00Z
+    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 34
 
-secured: "KbAuiaQws4vtKAHNMJjcof6rVLUsIEIABHGlF9p7TnnjeVWoZtinpZJbB6b24C20JKqY7udpUa9PLWU0nr0lkYf6xDNrIsvXhzqIwbaxvKLM5e7lHfb9tDPSgGkGuHykLXpEVN+BFUfQVXjhq9an9Terx0ooGEYhHOLVNOIFGuC0yO39RusXaVCLrO0JKx11UaxlGoDViijKSxdEiVnRbgz96EBVibIEauHTtFaNSEpWFgGNjrHs/2Im9rVDUbHBrav33Dbfow9q6NOFKmFXblkQDUuF5petMTV3fdNckx7/DRPfC3YFJrx0gly5M5sIIaVTf1jBT2Alm9KD6TfZz7t8/N4awzZO2p0oKgczU+E=;gEZsLZbY4NCbyKisg63rLw=="
+secured: "EhQajJUd0tOgCdODlOdXfW1cZEv5+j5IPh0e/pXC7ZwK9HGWHtAUixRBQyHzmuH3eF7G13r5x8+NMicWQgZ8G8MYurkVsj/lOdxAzpfIVYRr1S41e5OFH0gUUeZyBV3oN6wU05D8PN80ZZkZOmNPGJoEw99K63ShEOsitx2+aV7jFrohWGs/2aFsgR4nYVB0LiowtF38u024j7JvGn4xcdBNu0dCxSbmqGM+PHJ9DwyE452tBsCjRJv5E9ku+IbAfOJtgCw0OV23/FvXqZHCUztz3AaTfzje9JVkUdmwCJIROnYxZEs4gcBofjXS/YkBZbBUl2fljAqR3hU71QTvjGfT8Oza5Syu4YajX7C9FnlZqW5iEaDJem+4SzvgCtiekrjUjn1PUBtvKcxn3dcGcaQ0Hvo0LneEqBbJemSdNoEJ1UtS9RbrzMfU51g31kUG+juVLJUphBg9XlB4m1YnroM3Rh2LGyu13N0NjKkFDTj1bKx9uKSnWIj9q17+heExMko4SdKEhS5NOeNWfu/tng==;SrT17T38gD5OiZxtbAyZvw=="
 ---
 

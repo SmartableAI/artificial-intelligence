@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Samsara Listed as One of America's Most Promising Artificial Intelligence Companies by Forbes AI 50"
-excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America's top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
-publishedDateTime: 2021-04-28T18:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/samsara-listed-as-one-of-america-s-most-promising-artificial-intelligence-companies-by-forbes-ai-50-1030359696"
-webUrl: "https://markets.businessinsider.com/news/stocks/samsara-listed-as-one-of-america-s-most-promising-artificial-intelligence-companies-by-forbes-ai-50-1030359696"
+title: "Samsara Listed as One of America’s Most Promising Artificial Intelligence Companies by Forbes AI 50"
+excerpt: "Samsara, the pioneer of the Connected Operations Cloud, has been named one of America’s top artificial intelligence companies according to Forbes. The Forbes AI 50 list, in its third year, includes a list of private North American companies using artificial intelligence in ways that are fundamental to their operations,"
+publishedDateTime: 2021-04-28T18:06:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-business-technology-artificial-intelligence-362e0bd05bb3854257f0f1d73215d80a"
+webUrl: "https://apnews.com/press-release/pr-newswire/health-coronavirus-business-technology-artificial-intelligence-362e0bd05bb3854257f0f1d73215d80a"
 type: article
-quality: 48
-heat: 48
+quality: 40
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
@@ -61,7 +64,21 @@ related:
         width: 797
         height: 419
         isCached: true
+  - title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
+    publishedDateTime: 2021-04-28T09:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "uf6Hf3ylWCjp582xc45CFhoBsf68wAIg1xr5qQdxnRFiQRriq6J4rkaOPWyMOjRPLcbI7Zyd3oLfEsXS0Fn3bVUKe/294fbhwLQ3QsBqp2SQV5Ut5+WIn7Bk6XjJdPAY8+oaDyEVsxWMiVwszaBY8wckLCZcXnP0JoWWsCidkYCnoShewHYpjyHxn2LfQYAEfNArARxFKF4jiS67sV58Ant0ScfwAdDLRIyqfl1dlz/Fbf4BubNb3PIZZ2cfL/Ipy7P5ZLn7sek9d0vEvHwME9wZ/M7kjw/hA0EXmR59yQBb9Xg+KcsExA4N/1iDe0nTmtD90KNpi8FqWmjUR/z4HEqRuQXtOFv2h08DGeqTUhY=;+nAmglsAZ3QbVzJaZyYQsg=="
+secured: "KVhV61HEhkE2x3STKTOfOOol3A5IyaYBJxIouuyRwGmdAj8+KtwNTsaJeizqhZiAdpWubUVnJjqNolErSkbehK8iDNEH3KWvXA4hX99oEKru1qlJIVyAG0P7nSfTk1SZPgNyOJ7MI73syv26HRQMVAVXX/2DMGKXXBHzv+y/VDEJgnVBEwkyHjsvR86q41Hjpf/ZBXU7RdapQETUlF5ZGau8nAEvYwTtNQgqjUJC1ktCV0O8wpwazjs9eajq50uNCJh5brQ3uTxrLKIAXITbmaUd9HOIjlVqigcHlHQ52FOCtDdzOtbuooXYGYrBJOn1APKFjr3JHaMHpq+sB/rXoeQHHOeIUeAcUm9xRqHCD4g=;k12b04nEECpzoHEKZquE1g=="
 ---
 

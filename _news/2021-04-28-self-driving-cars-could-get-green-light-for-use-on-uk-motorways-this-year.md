@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/apr/28/self-driving-cars
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/apr/28/self-driving-cars-could-get-green-light-for-use-on-uk-motorways-this-year"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK signals self-driving cars could hit road this year"
+    excerpt: "Self-driving vehicles could hit the road this year on motorways in Britain, the government said Wednesday, under plans to permit motorists to temporarily take their hands off the wheel."
+    publishedDateTime: 2021-04-28T18:24:00Z
+    webUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-uk-self-driving-cars-road-year.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/vehicles.jpg"
+        width: 1920
+        height: 1368
+        isCached: true
   - title: "Government to allow “self-driving” features to be used on UK roads this year"
     excerpt: "The Government has confirmed it will legalise the use of “self-driving” driver assistance systems before the end of the year."
     publishedDateTime: 2021-04-28T09:50:00Z

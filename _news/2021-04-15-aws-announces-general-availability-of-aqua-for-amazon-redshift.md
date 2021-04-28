@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of AQUA for Amazon Redshift"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AQUA for Amazon Redshift, an innovative new distributed and hardware-accelerated cache that delivers up to ten times better query performance than other enterprise cloud data warehouses."
-publishedDateTime: 2021-04-14T18:40:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-marketing-and-advertising-corporate-news-9029fedf36214e6ca152f24233381ce5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-marketing-and-advertising-corporate-news-9029fedf36214e6ca152f24233381ce5"
+excerpt: "AQUA for Amazon Redshift brings compute to the storage layer delivering up to 10x better query performance than other enterprise cloud data warehouses"
+publishedDateTime: 2021-04-14T22:40:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210414005848/en/AWS-Announces-General-Availability-of-AQUA-for-Amazon-Redshift"
+webUrl: "https://www.businesswire.com/news/home/20210414005848/en/AWS-Announces-General-Availability-of-AQUA-for-Amazon-Redshift"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "sS6WeHQmV1mFzZoVGY9To+5Bzcp7Jyq5rZ4VNYjZQZzyBiWgUhnoOETdub1B4B0CBqXSKY/6izImvXHE+KILnjmVJux/pkEyDJ2naJMqUegG7cUe9/ToNqR/+oJQdUVBSkDxJrhiU9TkFVdOPt+aPPxVcJHD+5Jw4NxVDamqNM6H4ckozto8FLr1a421ou6wFW36EaLAsJm6sOSsOE+FPQAmVAfz5eTB9x6PHtBdDE2/DxsKi91ro15cxL+MTzKdChvxu9BYqqd1/IqqL6xdYFyg65ExVz1oEoW6QQPwhahW+Z3aYMsY5KRxZY5RzafkjUAQahGEkdzqAeSXwi18ubc+R4h/OCrHOGpUN/REMok=;n5XeQxJ1aI76Wza8zqVspg=="
+secured: "/t1pfp9CgUb4piGCxGHiEKiB5C060hpS2JTvxkMM8DxZWyAx/lXwRwqu/sh6MHesuY86lqj2AZ39EXPp+i9a8crHzhL8UWs90W3/L5Fr7AxRLFeqF5VaP5rqoXQxqf+e2Hf3wO0Mj2VgEqr5Kqmj73QFaBG+4Fe9NefWtMjH5sBF5HaNZsEu8/tTptgezbSUxvKwJ0IgLmvrTe1Q3PdUs8WXjNw7Rwt9/Ml9Sc29Vovy8jRdOI04GOD+7VJZkti12IUz2buFct/8XaZj3HOL3flYbcNfqYtYm9Ngo5zmKN/Jhm7lNdWaTNX7qvuozTJeLoTj/UxUABFRpaZ59HlahQ0KsilXnIsyYda7o+8Q7p0=;zt+AxFCnVoPLOqxW+NBPlg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/24/ban-facial-recognition-in-europe-urges-eu-privacy-watchdog/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition should be banned, EU privacy watchdog says"
-    excerpt: "Facial recognition should be banned in Europe because of its \"deep and non-democratic intrusion\" into people's private lives, EU privacy watchdog the .."
-    publishedDateTime: 2021-04-24T03:07:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/facial-recognition-should-be-banned-eu-privacy-watchdog-says/82226129"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-82226129,imgsize-40848,width-800,height-434,overlay-ettelecom/facial-recognition-should-be-banned-eu-privacy-watchdog-says.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Army Artillery’s AI Gets Live-Fire Exercises In Europe, Pacific"
     excerpt: "We have data collection managers onsite, with stopwatches, [timing] how long does it take the data to get… from Point A to Point B to C,” said Army APNT director Willie Nelson."
     publishedDateTime: 2021-04-28T18:10:00Z
