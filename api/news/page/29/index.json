@@ -2,6 +2,287 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-06-new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience.md",
+      "title": "New Fantasy Feature Ups The Ante On The Masters Digital Experience",
+      "excerpt": "Aside from driving up fan engagement on the Masters digital platforms, IBM’s new fantasy game also serves to demonstrate the power of Big Blue’s hybrid cloud in action.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b21a03f9b09bc331ac04a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2021/04/05/new-fantasy-feature-ups-the-ante-on-the-masters-digital-experience/amp/",
+      "publishedDateTime": "2021-04-05T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition.md",
+      "title": "NIWC Atlantic Wins Big in Joint Artificial Intelligence Robotics Competition",
+      "excerpt": "Participants utilized Amazon SageMaker – a service used to build, train and deploy ML models for use cases – to build and train models for the event. During the finale, racers watched via livestream as their models, which were downloaded to AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
+      "originalUrl": "https://www.navy.mil/Press-Office/News-Stories/Article/2561638/niwc-atlantic-wins-big-in-joint-artificial-intelligence-robotics-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.defense.gov/2021/Apr/05/2002614499/1460/1280/0/210319-N-GB257-001.JPG",
+          "width": 1460,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United States Navy",
+        "domain": "navy.mil",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-new-app-helps-prevent-skin-cancer-using-ai-and-ml.md",
+      "title": "New app helps prevent skin cancer using AI and ML",
+      "excerpt": "Monitor the size of moles and skin lesions with Miiskin, an app that can help your doctor see changes more easily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
+      "originalUrl": "https://www.techrepublic.com/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/05/cbaa143a-22b5-4cc6-8391-5d465fdf9908/thumbnail/1200x675/3673c3a4ceba9379856a06560a76f790/20210405-miiskin-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-app-helps-prevent-skin-cancer-using-ai-and-ml/",
+      "publishedDateTime": "2021-04-05T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science.md",
+      "title": "Why machine learning, not artificial intelligence, is the right way forward for data science",
+      "excerpt": "Jordan. We bandy about the term \"artificial intelligence,\" evoking ideas of creative machines anticipating our every whim, though the reality is more banal: \"For the foreseeable future, computers will not be able to match humans in their ability to reason ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "originalUrl": "https://www.techrepublic.com/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/01/20/3fa9488a-27b8-46d7-97ba-16a91fbf67ee/resize/1200x/aebc6e97b9565e8b6d69a801dc408b3c/istock-1200937823.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-machine-learning-not-artificial-intelligence-is-the-right-way-forward-for-data-science/",
+      "publishedDateTime": "2021-04-05T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI in Robotics",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-ai-emerges-as-the-foundation-of-enterprise-decision-making.md",
+      "title": "AI emerges as the foundation of enterprise decision-making",
+      "excerpt": "Over the past 12 months, the number of artificial intelligence (AI) and advanced analytics projects in production has increased by 54%. Much of this growth is due to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/04/p20488694/ai-emerges-as-the-foundation-of-enterprise-decision-making",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/04/p20488694/ai-emerges-as-the-foundation-of-enterprise-decision-making",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20488694",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20488694",
+      "publishedDateTime": "2021-04-05T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-06-ai-powered-etf-works-with-ibm-watson-to-analyze-market-data.md",
+      "title": "AI-Powered ETF Works with IBM Watson to Analyze Market Data",
+      "excerpt": "Chris Natividad is CIO and Co-Founder of EquBot. Mr. Natividad brings more than 15 years of experience in the institutional investment management industry. Previously, he was an Investment Portfolio Manager for Gilead Sciences and Apple Inc.’s Braeburn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.twst.com/interview/ai-powered-etf-works-with-ibm-watson-to-analyze-investment-data",
+      "originalUrl": "https://www.twst.com/interview/ai-powered-etf-works-with-ibm-watson-to-analyze-investment-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.twst.com/wp-content/uploads/2015/09/microsoft-logo.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-05T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Wall Street Transcript",
+        "domain": "twst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-yellen-speech-confirms-that-the-us-is-back-on-the-world-stage.md",
       "title": "Yellen speech confirms that the U.S. is back on the world stage",
       "excerpt": "Drawing a line between the past and present, Yellen asserted, in a speech to the Chicago Council on Global Affairs, that \"the most important difference today is a fundamental recognition that our policies at home and abroad must be designed to be inclusive ...",
@@ -921,281 +1202,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-7-ways-the-cloud-is-changing.md",
-      "title": "7 ways the cloud is changing",
-      "excerpt": "Computing without servers? Programming without code? Let’s ponder these and other innovations in the constantly evolving cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "originalUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/blue_morpho_butterfly_polymorphism_by_davemhuntphotography_gettyimages-504705188_2400x1600-100796988-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3613054/7-ways-the-cloud-is-changing.amp.html",
-      "publishedDateTime": "2021-04-05T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-skoreas-lg-to-exit-loss-making-mobile-phone-business.md",
-      "title": "SKorea’s LG to exit loss-making mobile phone business",
-      "excerpt": "South Korean electronics maker LG said Monday, April 5, 2021, it is getting out of its loss-making mobile phone business to focus on electric vehicle components, robotics, artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "originalUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pix11.com/wp-content/uploads/sites/25/2021/04/a689754fbd374e749620a511f96e60b8.jpg?w=1280",
-          "width": 1280,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "cdnAmpWebUrl": "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/ap-technology/skoreas-lg-to-exit-loss-making-mobile-phone-business/amp/",
-      "publishedDateTime": "2021-04-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025.md",
-      "title": "North America Facial Recognition Market Estimated to Experience a Hike in Growth by 2021-2025",
-      "excerpt": "Apr 05, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on North America Facial Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-estimated-to-experience-a-hike-in-growth-by-2021-2025-2021-04-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-05T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-makers-of-humanoid-robot-sophia-are-building-its-sibling.md",
-      "title": "Makers of humanoid robot Sophia are building its sibling",
-      "excerpt": "Joyce will use data-in-picture technology and a multiple sensors to provide data to its AI, neural network and computer vision to increase visual perception",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/vgq89j/article34243251.ece/ALTERNATES/LANDSCAPE_615/sophia-joycejpeg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/makers-of-humanoid-robot-sophia-are-building-its-sibling/article34243237.ece/amp/",
-      "publishedDateTime": "2021-04-05T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-do-you-think-self-driving-cars-will-take-away-the-fun-of-being-at-the-wheel-of-your-vehicle.md",
-      "title": "Do you think self-driving cars will take away the fun of being at the wheel of your vehicle?",
-      "excerpt": "I think it depends on who you ask. If it is someone who doesn't drive for fun and just uses vehicles for utility purposes, self-driving cars would be a boon for them. But try asking this to an off-road enthusiast or a sports car owner, self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/poll/do-you-think-self-driving-cars-will-take-away-the-fun-of-being-at-the-wheel-of-your-vehicle",
-      "originalUrl": "https://japantoday.com/category/poll/do-you-think-self-driving-cars-will-take-away-the-fun-of-being-at-the-wheel-of-your-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-04T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-neo-banking-startup-stashfin-raises-40-mn-in-series-b-extension-round.md",
-      "title": "Neo-banking Startup StashFin Raises $40 Mn In Series B Extension Round",
-      "excerpt": "and agility in a startup team. Equally rare is a clear vision and great unit economics. The team has built extremely compelling bank-grade infrastructure in a frugal manner. The advanced machine learning and AI models can be scaled across various geographies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/368583",
-      "originalUrl": "https://www.entrepreneur.com/article/368583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1617599721-11.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/368583",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/368583",
-      "publishedDateTime": "2021-04-04T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

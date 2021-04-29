@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-14-increasing-demand-for-artificial-intelligence-in-healthcare-market-to-fuel-revenue-growth.md",
+      "title": "Increasing Demand for Artificial Intelligence in Healthcare Market to Fuel Revenue Growth",
+      "excerpt": "The global artificial intelligence in healthcare market is estimated to surpass $64,457.1 million by 2027, exhibiting a CAGR of 44.5% from 2020 to 2027. OFFERINGS OF THE REPORT: The report offers comprehensive analysis of the global artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://www.openpr.com/news/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/4/U414902043_g.jpg",
+          "width": 628,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2270277/increasing-demand-for-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-04-14T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-global-ai-in-healthcare-market-2020-to-2025-featuring-intel-ibm-google-among-others.md",
       "title": "Global AI in Healthcare Market (2020 to 2025) - Featuring Intel, IBM & Google Among Others",
       "excerpt": "The participation of several start-ups in the development of AI-driven imaging and diagnostic solutions is a key factor contributing to the growth of the sector. Market Segmentation The Global Artificial Intelligence in Diagnostics Market is segmented ...",
@@ -1376,58 +1419,6 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-iot-is-transforming-healthcare.md",
-      "title": "How IoT Is Transforming Healthcare",
-      "excerpt": "As healthcare IoT makes more in-roads, there is greater potential for improved healthcare outcomes for the patient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063513d552b00e0d5276463%2F0x0.jpg",
-          "width": 1118,
-          "height": 745,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

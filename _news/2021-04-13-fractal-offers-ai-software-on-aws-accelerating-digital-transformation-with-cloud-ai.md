@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Fractal offers AI software on AWS, accelerating digital transformation with cloud AI"
-excerpt: "today announced general availability of Fractal's artificial intelligence (AI) solutions – Cuddle.ai, Concordia and Foresient - on Amazon Web Services (AWS). With this announcement, Fractal ..."
-publishedDateTime: 2021-04-13T10:06:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
-webUrl: "https://www.prnewswire.com/news-releases/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-301267443.html"
+excerpt: "Additionally, AWS offers connectivity with high- performance cloud data warehouses like Amazon Redshift. About Fractal Fractal is one of the most prominent players in the Artificial Intelligence ..."
+publishedDateTime: 2021-04-13T10:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527"
+webUrl: "https://markets.businessinsider.com/news/stocks/fractal-offers-ai-software-on-aws-accelerating-digital-transformation-with-cloud-ai-1030297527"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "jMJUqJBRa5HiKGfmXfYnaa2BZSZoDjT68ACn2IWMb3fOjmV7wEw3aI/arPVh8gLyqZQb1ztyKuaJCIaA2HhfXUqcYa9crJYbSRpsryWGy/oqg6mcUyWUKIHrV4ingp+TInXCmwGL4eRoijdIpHhhpTOlNLOkKT+6mWS7Kxlm/lKByO7hY7qVd2R5odbgn9d8wybTy3ZYA4YDXmjbf58hOn1fKCG3gM7ika6YwEafi3ot+QtVjOQEswYF+9U+7UwWpgHGZwLOnAwyWi5bFAeV0WkZ5p9dYlbAXa3N7xxCUbOgqFYXmKL64iuAqm2WUMeinAmHjj3dAcsQ0aApGSNtyccnY9wUyKn8s0JB10lZMH4=;1Mwt0P/c+JywOZuvqg0cWw=="
+secured: "kX8W0AJIyXPLC45g4yKiyXpORDAZWpFFEz5x4PsPYVNXeL1rohAWIxNjC07w8e/z7T0kwjs5brQh1hEAJXoACEkwjiBv2EiynVzKgZ+5o9eU0tkL3nJp8fzCS3tWHC9PJI+pYhFvkSNUvf7NI0St+H2+VKzwwc+WJaJN1LusAHGtTSnXCsM/86dgLfewYo56TF/2cALs6UDg4JsJbSkUZmaXmRyaOkHrUsh1ttjuT8Hm8N0XivTHp54Reg6tx8H6TfpdQX404T/aQP9prrcJa5bzXHL7TCscyxWqbgplSzKiwCxId3g0ESgglPuhSwQHL7Py4JP4AjQLDwXzVu2BYCTHty+6JpCJj/MzxZvbelo=;japK1uxYk6S7Hr07i6xgoQ=="
 ---
 

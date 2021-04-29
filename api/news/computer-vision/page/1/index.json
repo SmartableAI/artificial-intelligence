@@ -759,6 +759,40 @@
       ]
     },
     {
+      "path": "_news/2021-04-19-unity-dramatically-reduces-ai-training-time-budgets-with-launch-of-synthetic-datasets.md",
+      "title": "Unity Dramatically Reduces AI Training Time, Budgets With Launch of Synthetic Datasets",
+      "excerpt": "Unity today announced the availability of Unity Computer Vision Datasets aimed to reduce the cost of developing computer vision applications, and more quickly train AI for the Manufacturing, Retail, and Security industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
+      "originalUrl": "https://www.businesswire.com/news/home/20210419005099/en/Unity-Dramatically-Reduces-AI-Training-Time-Budgets-With-Launch-of-Synthetic-Datasets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-ecovacs-robotics-introduces-the-deebot-n8-family-in-thailand.md",
       "title": "ECOVACS ROBOTICS Introduces the DEEBOT N8 Family In Thailand",
       "excerpt": "ECOVACS ROBOTICS, the world's leading home service robotics maker, today announces the launch of the DEEBOT N8 Family in Thailand, bringing a hands-free and effectively superior cleaning experience for customers.",
@@ -1333,40 +1367,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-state-farm-taps-object-recognition-with-carcapture-app.md",
-      "title": "State Farm taps object recognition with CarCapture app",
-      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

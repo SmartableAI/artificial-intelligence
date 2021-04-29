@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-26-goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups.md",
+      "title": "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups",
+      "excerpt": "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
       "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
       "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
@@ -1370,51 +1422,6 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-microsoft-buying-speech-recognition-firm-nuance-in-16b-deal.md",
-      "title": "Microsoft buying speech recognition firm Nuance in $16B deal",
-      "excerpt": "Microsoft, on an accelerated growth push, is buying speech recognition company Nuance in a deal worth about $16 billion. The acquisition will get Microsoft deeper into hospitals and the health",
-      "sourceUrl": null,
-      "webUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
-      "originalUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2021/04/94af3c4d8d5947c4a3291fe0aed04b3f.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
-      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/microsoft-buying-nuance-in-deal-worth-19-7b/amp/",
-      "publishedDateTime": "2021-04-12T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSEE",
-        "domain": "yourcentralvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing",
         "Microsoft AI"
       ]
     }

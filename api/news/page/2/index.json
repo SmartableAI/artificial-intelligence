@@ -2,6 +2,215 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-28-artificial-intelligence-in-bfsi-market-growth-trends-absolute-opportunity-and-value-chain-2021-2026.md",
+      "title": "Artificial Intelligence in BFSI Market growth, trends, absolute opportunity and value chain 2021-2026",
+      "excerpt": "According to business intelligence report on Artificial Intelligence in BFSI market, Covid-19 pandemic will have lasting impact on industry sphere, based on which growth matrix for 2021-2026 is formulated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-growth-trends-absolute-opportunity-and-value-chain-2021-2026-2021-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-growth-trends-absolute-opportunity-and-value-chain-2021-2026-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research.md",
+      "title": "Artificial Intelligence in Security Market: Trends 2021: Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health.md",
+      "title": "Healthcare Artificial Intelligence Market May See Big Move | AiCure, APIXIO, Welltok, Cyrcadia Health",
+      "excerpt": "Latest Study on Industrial Growth of COVID-19 Outbreak-Global Healthcare Artificial Intelligence Market 2019-2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-may-see-big-move-aicure-apixio-welltok-cyrcadia-health-2021-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-28T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-look-out-amazon-go-a-lisbon-startup-plans-to-offer-autonomous-stores-to-other-retailers.md",
+      "title": "Look out Amazon Go — A Lisbon startup plans to offer autonomous stores to other retailers",
+      "excerpt": "Look out Amazon Go. A Lisbon startup plans to offer the same autonomous store technology to other retailers. Lisbon-based Sensei, a computer vision startup that allows convenience stores to offer check-out-free purchasing has secured a seed round of $6.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/04/27/look-out-amazon-go-a-lisbon-startup-plans-to-offer-autonomous-stores-to-other-retailers/",
+      "originalUrl": "https://techcrunch.com/2021/04/27/look-out-amazon-go-a-lisbon-startup-plans-to-offer-autonomous-stores-to-other-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/Founders_2.jpg?w=735",
+          "width": 735,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/04/27/look-out-amazon-go-a-lisbon-startup-plans-to-offer-autonomous-stores-to-other-retailers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/04/27/look-out-amazon-go-a-lisbon-startup-plans-to-offer-autonomous-stores-to-other-retailers/amp/",
+      "publishedDateTime": "2021-04-27T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-state-of-the-art-natural-language-processing-for-pytorch-and-tensorflow-20.md",
       "title": "State-of-the-art Natural Language Processing for PyTorch and TensorFlow 2.0",
       "excerpt": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. - Shaowen310/transformers",
@@ -315,7 +524,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-device-software-now-open-source/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -964,6 +1173,58 @@
       ]
     },
     {
+      "path": "_news/2021-04-26-goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups.md",
+      "title": "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups",
+      "excerpt": "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-26T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-how-nuance-may-alter-the-healthcare-and-ai-playing-field-aas-microsoft-reports-q3-results.md",
       "title": "How Nuance May Alter The Healthcare And AI Playing Field Aas Microsoft Reports Q3 Results",
       "excerpt": "In Microsoft’s (NASDAQ: MSFT) last earnings conference call with analysts, CEO Satya Nadella opened with an upbeat and sweeping salvo on cloud platform",
@@ -1005,258 +1266,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-cias-top-technologist-is-uncomfortable-with-facebook.md",
-      "title": "The C.I.A.’s Top Technologist Is Uncomfortable With Facebook",
-      "excerpt": "Dawn Meyerriecks talks spy gear and why Hollywood and Silicon Valley play a critical role in national security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.html",
-      "originalUrl": "https://www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/04/27/opinion/26sway-meyerriecks-image/26sway-meyerriecks-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/26/opinion/sway-kara-swisher-dawn-meyerriecks.amp.html",
-      "publishedDateTime": "2021-04-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-this-researcher-says-ai-is-neither-artificial-nor-intelligent.md",
-      "title": "This Researcher Says AI Is Neither Artificial nor Intelligent",
-      "excerpt": "Kate Crawford, who holds positions at USC and Microsoft, says in a new book that even experts working on the technology misunderstand AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
-      "originalUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60830d45ccb11d7f69cb8196/master/pass/business_ai-atlas_630354458.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/researcher-says-ai-not-artificial-intelligent/amp",
-      "publishedDateTime": "2021-04-26T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-the-ai-50-backstory.md",
-      "title": "The AI 50 Backstory",
-      "excerpt": "Very quickly I noticed that most “AI companies” had very little “AI” (real technology) or very little “company” (real business).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6086b8463c93f7863e620c1e%2F0x0.jpg",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/04/26/the-ai-50-backstory/amp/",
-      "publishedDateTime": "2021-04-26T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-how-york-university-provides-instant-personalized-self-service-to-50000-students.md",
-      "title": "How York University provides instant, personalized self-service to 50,000 students",
-      "excerpt": "York University needed to make a deeper personal connection with its students — all 50,000 of them. “One of the challenges for any large university is student satisfaction,” says William Gage, Associate Vice President, Teaching and Learning at York University. The university worked with IBM, using Watson",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/04/york-university-virtual-assistant-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/04/2012_04_19_90D_York_University_Post_V2_2000x1006.jpg",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T06:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-26-computer-vision-software-market-investment-analysis-microsoft-aws-opencv.md",
-      "title": "Computer Vision Software Market Investment Analysis | Microsoft, AWS, OpenCV",
-      "excerpt": "Global Computer Vision Software Market Report is an objective and in-depth study of the current state aimed at the major drivers, market strategies, and key players growth. The study also involves the important Achievements of the market,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/",
-      "originalUrl": "https://ksusentinel.com/2021/04/26/computer-vision-software-market-investment-analysis-microsoft-aws-opencv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/04/Global-Computer-Vision-Software-Market-780x470.jpg",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-26T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

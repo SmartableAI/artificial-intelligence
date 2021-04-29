@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/04/25/the-worlds-biggest-ai-chip-now-comes-stock-with-2-6-trillion-transistors/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1408
     height: 792
     isCached: true
-
-related:
-  - title: "Cerebras debuts new 2.6 trillion transistor wafer scale chip for AI"
-    excerpt: "Cerebras Systems has unveiled its Wafer Scale Engine 2, its successor chip to the world's largest computer chip, the WSE. The new 7nm chip now boasts 2.6 trillion transistors and 850,000 'AI optimized' cores."
-    publishedDateTime: 2021-04-24T07:11:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-debuts-new-26-trillion-wafer-scale-chip-for-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Cerebras.040bff2c.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zSmjaeF0wbr58lAavPK3CTWdyl3zR9b9AMNMTFpfmJYBT3KJUzGsHc0Zn70HH5/lfUqwjTuI4i3o60vNZ1HgFKKC8gWaVdGzDLgT9eDGCgKekI8bI6ePMoqd7SMQWPV2JDGMyDqi/i7ejDKB0zNcs5xO/KkMwGO2xOElWhDqFz24UBl0MK/sg/Dq9gyC4eSeeo0R+Gl0vgjdEhVw11lGh3Bygke2KAn6b+/XtzAoD+yK65QxhzmqMuB4C9CQZP0vRxLGvm3WTE9ESsoK/OpvIn7AB+ap823s6YtM1MtNV1UN2yMU/81EdvdUDO+vBB2AWKhNnOdnV+dn6E//s2CmXsoBfn2Szt9o1KsLoDvTziIh1ki1pytFTj92DXrA923ruc4sEw4oUUUOpVYpRUwYZwnQL08GSduNihvdTblEMePqV7Nb0Z7Fh9ZH4nTX0QeoOkmPhXGIN2WSkP6twCXbN0+xRRDJ6PDZKC66re8o13qlm7NaTZmdzX3SLHC9G4IsBFsS7V4TYR+vWJtWVW0OWA==;Aok2mxNFYAKRiiwTF1sEwg=="
 ---

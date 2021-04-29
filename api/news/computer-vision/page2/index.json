@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-14-state-farm-taps-object-recognition-with-carcapture-app.md",
+      "title": "State Farm taps object recognition with CarCapture app",
+      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketing Dive",
+        "domain": "marketingdive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-14-detroit-man-sues-police-for-wrongfully-arresting-him-based-on-facial-recognition.md",
       "title": "Detroit man sues police for wrongfully arresting him based on facial recognition",
       "excerpt": "A man who was falsely accused of shoplifting has sued the Detroit Police Department for arresting him based on an incorrect facial recognition match. The American Civil Liberties Union filed suit on behalf of Robert Williams, whom it calls the first US ...",
@@ -1360,40 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-06-idemias-facial-recognition-ranked-1-in-nists-latest-frvt-test.md",
-      "title": "IDEMIA’s Facial Recognition Ranked #1 in NIST’s Latest FRVT Test",
-      "excerpt": "COURBEVOIE, France--(BUSINESS WIRE)--IDEMIA’s facial recognition 1:N algorithm achieved best for accuracy in the latest Face Recognition Vendor Test (FRVT) from the National Institute of Standards and Technology (NIST) 1. IDEMIA today announced that its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
-      "originalUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-06T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

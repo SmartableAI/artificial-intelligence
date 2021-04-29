@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-06-idemias-facial-recognition-ranked-1-in-nists-latest-frvt-test.md",
+      "title": "IDEMIA’s Facial Recognition Ranked #1 in NIST’s Latest FRVT Test",
+      "excerpt": "COURBEVOIE, France--(BUSINESS WIRE)--IDEMIA’s facial recognition 1:N algorithm achieved best for accuracy in the latest Face Recognition Vendor Test (FRVT) from the National Institute of Standards and Technology (NIST) 1. IDEMIA today announced that its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
+      "originalUrl": "https://www.businesswire.com/news/home/20210406005123/en/IDEMIA’s-Facial-Recognition-Ranked-1-in-NIST’s-Latest-FRVT-Test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-06T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-06-haptic-feedback-smart-glove-as-a-creative-human-machine-interface-hmi-for-virtualaugmented-reality-applications.md",
       "title": "Haptic-feedback smart glove as a creative human-machine interface (HMI) for virtual/augmented reality applications",
       "excerpt": "We also perform haptic mechanical stimulation via piezoelectric chips to realize the augmented HMI. The smart glove achieves object recognition using machine learning technique, with an accuracy of 96%. Through the integrated demonstration of ...",
@@ -1270,40 +1304,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-nutanix-recognized-as-a-gartner-peer-insights-customers-choice-vendor-for-distributed-file-systems-and-object-storage.md",
-      "title": "Nutanix Recognized as a Gartner Peer Insights Customers’ Choice Vendor for Distributed File Systems and Object Storage",
-      "excerpt": "“To us, being recognized as a Gartner Peer Insights Customers’ Choice for Distributed File Systems and Object Storage shows the strengths of our solutions and the value they provide to customers.” This Customers’ Choice recognition is based on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210325005301/en/Nutanix-Recognized-as-a-Gartner-Peer-Insights-Customers’-Choice-Vendor-for-Distributed-File-Systems-and-Object-Storage",
-      "originalUrl": "https://www.businesswire.com/news/home/20210325005301/en/Nutanix-Recognized-as-a-Gartner-Peer-Insights-Customers’-Choice-Vendor-for-Distributed-File-Systems-and-Object-Storage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

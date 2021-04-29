@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Forbes Recognizes Lilt As One of the Top Artificial Intelligence Companies For Third Straight Year"
-excerpt: "Lilt, the modern language service and technology provider, today announced that it has been named to the 2021 Forbes AI 50 for the th"
-publishedDateTime: 2021-04-26T15:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
-webUrl: "https://markets.businessinsider.com/news/stocks/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-1030346564"
+excerpt: "SAN FRANCISCO, April 26, 2021 /PRNewswire/ -- Lilt, the modern language service and ... other leading companies developing AI-powered solutions.\" Lilt's translation services are powered by ..."
+publishedDateTime: 2021-04-26T15:15:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
+webUrl: "https://www.prnewswire.com/news-releases/forbes-recognizes-lilt-as-one-of-the-top-artificial-intelligence-companies-for-third-straight-year-301276873.html"
 type: article
-quality: 48
-heat: 48
+quality: 40
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1276009/Lilt_Logo_Large_Logo.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
 
 related:
   - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies of 2021"
@@ -61,7 +64,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Blue Hexagon Named to the 2021 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups"
+    excerpt: "CB Insights today named Blue Hexagon to the fifth annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. Blue Hexagon, a leading agentless cloud-native AI platform,"
+    publishedDateTime: 2021-04-28T09:30:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-a73006e60945424c9a1a35dbcd8caa02"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "sv4d9FOOjnz5+qWLeiefbSZ3/m8nPDzMWeN3Z8SB58g1JR7hdz1hQMhrwcCSKi8shdCsR9F9HCGBAc3r08n3tQ5agMWrBqXhI3gaMD6+J6gnQGRsN3L7FE2eJenJ8I4w0n6UfAwyWDYn4SdkQAh4P79JZIa2yLSEozZKJA601TO0kxFLa8Cg3pMuwARgL1bbjuHS0tkvJmKRftgP8sz5HuoMC9p32SGlLBIgI85PfgRFipzOquRCPnYoCs5hE5JnrzruH78BCsw0W7z8wraiUi+KKnPOFA4ag6WedF9V1TsvIKkkEYqOi47lWvQVK1AsJT3AqScZCSjgUqtWk9q5V6T6V2my1dF+LjvS8uelLA2l0wrCoLlYxbm4LWO3r+hjr+gpPPzXN3XrxQqN/bHYYgHrS+BrO19lsFbkbgWjmxzvBkjhjfYfkU6+vkfIJZ3SfBGMMl0iJy6BarajRW82c+cXPOpv1K6IPaXcUsqBu0HjnXwgl7sz1NUJFPhMND6QlvxaJsENYHsKmrGVvgZgcQ==;JzjKrN+Hnjxk93AK9mgO+g=="
+secured: "VVI0rGp3PvMSwB0g7hiikfAyUb5zDA97kufzR06YzbeVwB2VeRKooF3DLbA9NpRaIXl2Myu7YbPEZazM9eEq3pIT8BF7ZNqS8rxVyb3RdB3YjwAyV4+KG37Z+zdZP353aUMNaRsjAJN1ZL78QjsGclqpabQ+dEoDejavi1nhTN2TeegbFpkUNrtKNG78InnafYFuKQA/KfNSK8LC5fg/ce2pd+P+X/vAf048D71yrsysWbMS4kuk6w2eNgJJ0JRL/1WBAd/pg5cQ8pUjL3iPYrxbYrtAN2RqnH0MLT0TsBnOWebTjUGR4/unMFjQ5gv7N7EUYevBseISJoZ8eQfjrmj6zLhZrsj2d5IR1B7n4eI=;lfMxS9H5EC3OFjCGIDsUnw=="
 ---
 

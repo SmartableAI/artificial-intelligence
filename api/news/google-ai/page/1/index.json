@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-29-when-artists-and-machine-intelligence-come-together.md",
+      "title": "When artists and machine intelligence come together",
+      "excerpt": "Throughout history, from photography to video to hypertext, artists have pushed the expressive limits of new technologies, and artificial intelligence is no exception. At I/O 2019, Google Research and Google Arts &amp; Culture launched the Artists + Machine Intelligence Grants, providing a range of support",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMI_Grants__Six_Artists.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/when-artists-and-machine-intelligence-come-together/amp/",
+      "publishedDateTime": "2021-04-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-the-scout-moorebot-is-a-roving-security-camera-robot-thatll-patrol-your-home.md",
       "title": "The Scout Moorebot is a roving security camera robot that’ll patrol your home",
       "excerpt": "The Scout is a tiny, smart A.I.-powered security drone with four wheels and a camera that automatically patrols your home and yard.",
@@ -1426,58 +1478,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-04-13-mozilla-winds-down-deepspeech-development-announces-grant-program.md",
-      "title": "Mozilla winds down DeepSpeech development, announces grant program",
-      "excerpt": "The team hoped to design a system that could be trained using Google’s TensorFlow framework via supervised learning, where the model learns to infer patterns from datasets of labeled speech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "originalUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/mozilla_foundation.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/12/mozilla-winds-down-deepspeech-development-announces-grant-program/amp/",
-      "publishedDateTime": "2021-04-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
