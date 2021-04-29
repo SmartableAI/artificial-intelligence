@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/hsbc-counting-on-ai-to-give-in
 webUrl: "https://www.americanbanker.com/news/hsbc-counting-on-ai-to-give-investors-an-edge"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Promoting Artificial Intelligence in Accounting Profession"
+    excerpt: "By Ugo Aliogo In a world driven by ground-breaking scientific innovations, research findings have shown that the advent of technological inventions has influenced the lives of human beings across"
+    publishedDateTime: 2021-04-28T23:00:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/04/29/promoting-artificial-intelligence-in-accounting-profession/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 59
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/05/c701d120-technology-innovation.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "M68q7uLUr71YHlyX5copBxv9BLMdYT168pD8IoTFTqA/BVbcIxXTo2iDXS6UjDQTrZGPu86/XH2gXToRhiVsF1OfijTfRCarGau2oJZ+QwwsrkW/05i1W3Cvgj/ufU4Kg7nftFhaQ27XqCY0z/oCdugel3LfVJJ0XrmEh1EugkSryGAyXmlAWmhinbThzai4DCszgFn0JcLUn2IfoT6oPj6m2lkxjmUAg9mZZjiTuk2XPpHydLhxXPsewihyEQNwszmbIk1X/+aS+UtqBciKi+nDP6ADgLVjrU/b6pkCnY7zWi+jcHYJGkn/GaLkk2U8cFLfkgbj0f4Sj/JaklgvOeKecdA2InZISWNUr0tT2Mk=;L/55+JDxMpBYuMmefunLXQ=="
 ---

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "GoodTrust launches AI service to reimagine the future of digital afterlife together with D-ID, supported by Microsoft for Startups"
-excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative way"
-publishedDateTime: 2021-04-26T15:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
-webUrl: "https://markets.businessinsider.com/news/stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id-supported-by-microsoft-for-startups-1030346504"
+excerpt: "GoodTrust (mygoodtrust.com) and D-ID (d-id.com) are excited to announce an official partnership, offering new and innovative ways to preserve digital stories and"
+publishedDateTime: 2021-04-26T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/goodtrust-launches-ai-service-to-reimagine-the-future-of-digital-afterlife-together-with-d-id/article_7c8eb10b-f2c7-5ee1-b187-eb406ef4d757.html"
 type: article
-quality: 54
-heat: 74
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1495998/GoodTrust_Memories_April_26.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/d1/cd135112-3bc6-5c29-8306-b1c8139d53c6/6086d5a2c221e.image.jpg?resize=1119%2C630"
+    width: 1119
+    height: 630
     isCached: true
 
 related:
@@ -43,16 +39,7 @@ related:
         width: 2240
         height: 1261
         isCached: true
-  - title: "MYCOM OSI’s Assurance Cloud Service™ Launches on Microsoft Azure"
-    excerpt: "Provides assurance and observability support for telco-clouds running on Azure LONDON, UK – MYCOM OSI, the Assurance Cloud Company™ and leading independent provider of Assurance, Automation and Analytics solutions to the world’s largest Communications Service Providers (CSPs),"
-    publishedDateTime: 2021-04-28T13:09:00Z
-    webUrl: "https://realwire.com/releases/MYCOM-OSIs-Assurance-Cloud-Service-Launches-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 34
 
-secured: "EhQajJUd0tOgCdODlOdXfW1cZEv5+j5IPh0e/pXC7ZwK9HGWHtAUixRBQyHzmuH3eF7G13r5x8+NMicWQgZ8G8MYurkVsj/lOdxAzpfIVYRr1S41e5OFH0gUUeZyBV3oN6wU05D8PN80ZZkZOmNPGJoEw99K63ShEOsitx2+aV7jFrohWGs/2aFsgR4nYVB0LiowtF38u024j7JvGn4xcdBNu0dCxSbmqGM+PHJ9DwyE452tBsCjRJv5E9ku+IbAfOJtgCw0OV23/FvXqZHCUztz3AaTfzje9JVkUdmwCJIROnYxZEs4gcBofjXS/YkBZbBUl2fljAqR3hU71QTvjGfT8Oza5Syu4YajX7C9FnlZqW5iEaDJem+4SzvgCtiekrjUjn1PUBtvKcxn3dcGcaQ0Hvo0LneEqBbJemSdNoEJ1UtS9RbrzMfU51g31kUG+juVLJUphBg9XlB4m1YnroM3Rh2LGyu13N0NjKkFDTj1bKx9uKSnWIj9q17+heExMko4SdKEhS5NOeNWfu/tng==;SrT17T38gD5OiZxtbAyZvw=="
+secured: "SDvEVuMvzVVR7pCQDlWW+ttpQcLOa+zmjkVlBAza4Mcdru7lUkUDb7hP0IQdO6emm+VO5dFLrpSWmQ1CYB5tjN4uVEeZOvK7X4iH1ljg5S5FqBT0LqgH/MpSjFnGy6567AuPIAI30sU9maVNt1Vz3XHSsTWen7PfVbtCwivKAOZTVotqWxvsDsWDcKxzEJlcrobSu+sispq+haIA7yun45r0M95rXG3H+x4RMkWWSjoyl8CQ3bez+H64eifWPTwW/qhdRQV0PL7zU2oCJNVSoCET/r6nwpytKtmByHpiAbhhwJxXpf65eLGU1KnAFP4Z8kdlM82JtYA7+yv9IyL1MNoWlKtC7O+DGUjjQ15/ZJg=;3RfXRtN2s49DozG83HdEmA=="
 ---
 

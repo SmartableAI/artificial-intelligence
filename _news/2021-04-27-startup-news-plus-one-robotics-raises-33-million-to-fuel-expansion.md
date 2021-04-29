@@ -2,26 +2,26 @@
 category: news
 title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
 excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
-publishedDateTime: 2021-04-27T12:13:00Z
-originalUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
-webUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+publishedDateTime: 2021-04-27T11:12:00Z
+originalUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+webUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Supply Chain Management Review
-  domain: scmr.com
+  name: Logistics Management
+  domain: logisticsmgmt.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-    width: 444
-    height: 333
+  - url: "https://www.mmh.com/images/2021_article/SCMR1903_SUP_Finance_FOUR-Main600.jpg"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: bizjournals.com
     quality: 44
 
-secured: "F9w2NU7j08KYK6TZ/Z6gu+BEDat3ZpfBKoZkjHtbuX9T3feWoaL1PbGtdtssHJLYRa0aDzhdp1wV5QpRLl93m4CFhWlxEwiEOPUu1HqQiKtiuY5IoC+w/2BsPBQtZ7siroYf/QpYLgNTnxkC746yr8yCiCaYnFG+Qo7P4Eojh/p56WYqNfJTrWS1UH72+zQLfueBHizSxjWiv2Um3TdrphSbF6/SrhTCpVPrGMCEHfZHXbLxqlyf4faqFmmH7vBk8DbItTrnYPZijtR+W8P3pKLzSz5/Kv+JdlotMP8aLwnVwIOd9iFy6d+CogSa1kRYxNDpe0dxSxS66JxXZI0uRYnoPPJoc9Wr0hSAajW3L84=;OZqbC/HDt1j2Dww/0lSYOA=="
+secured: "ru+ZWUTRQVBF6shFEVqcXypdKeJ0nf4V6aeyRs+msa+YeIzv4fgjyjfYyhlR/tuJWy3C0M8496qy5vywlEfxBvGxJ14y2Nk5nhFadjh4YkkGFRA54ocWfyYysSalxssPsfZ8KDywbLr0SOzh4vURJqvGfDXrLSdIBo/zUfa2mGzyPPAmtGIug5SNVuLWkguIwnAkOt5lTlRG1G/DttXEqRT1713qy+ZiNy+sO4wBYG869v6IKwGWu90eOoRiQj+9xJVCv0bcU+vNPA0ceIZ5E4PNfUtzW6NvUEpSzhdRHQ096LtgvvqWpP52PAOwsFj+xdjq4mhVPp2aA+0flNlEXF/OoPGM24096jmpYR5W/Rw=;X2nLysfTjoMQ2DbPjDcUxQ=="
 ---
 

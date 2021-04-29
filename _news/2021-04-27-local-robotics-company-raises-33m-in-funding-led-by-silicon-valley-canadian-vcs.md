@@ -81,17 +81,17 @@ related:
         isCached: true
   - title: "Startup News: Plus One Robotics raises $33 million to fuel expansion"
     excerpt: "Plus One Robotics, the leading provider of vision software for logistics robots, today announced $33 million of Series B funding. McRock Capital and TransLink Ventures co-led the round, with participation from BMWi Ventures,"
-    publishedDateTime: 2021-04-27T12:13:00Z
-    webUrl: "https://www.scmr.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
+    publishedDateTime: 2021-04-27T11:12:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/startup_news_plus_one_robotics_raises_33_million_to_fuel_expansion"
     type: article
     provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
+      name: Logistics Management
+      domain: logisticsmgmt.com
     quality: 69
     images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
+      - url: "https://www.mmh.com/images/2021_article/SCMR1903_SUP_Finance_FOUR-Main600.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "a5bQfF+kapVcNxC1BTH2TZYKe6wC+Ovd+pXTkoqLDgpoh74fBlgITfn2rqN6vcAGvfg+H5DyWZx0osBiDn4jaw0V1MMrIYg4XFxgMjVgmF5abi7bmXIW4n0WwWmwvz5AztCAJE57BZt7hHFI0kaISDbXpFVFBfL7LeKLyRkkE3Z0jPfHpyhDXVaObjY4Aum7oqwcS0Szfd8oI6obpBeesv/mAVnLOZ2Qsp2UKpTPCYJr64kJSNEK5MkA3raLS1OBBtTYxk/4X0Rd3u6xY/aLgpzeHXkHwgbtSYeiT9yVgeu73SqiyG42elbMFqL/KTJdME1+hUqj0+vGPqLVPh7juR752u4tbJGySRPi6ka/Ti+FpOpzcdbJIRn6VPN37Zz2Y3dbt6BQJbaj2QqY69zDyoF3hTxK5cV9KcLsYdT72g4Q6rUbPwRuC4S48zJKl/1rfxe8rvGNpmsLeitiPQY2WyWTO/Rl04eOKpHaMoV+LHEGn8kZV3pgWtaELXc8tiRbop15JKpiSWYyKqdnota0Dg==;G4rtr1N4vqt7z2qtA4PkCw=="
